@@ -46,7 +46,8 @@ jobs:
           [ "$OFFLINE" = "true" ] && ARGS="$ARGS --offline"
           python -m nbl.build $ARGS
       - name: Commit dat
-        run: scripts/commit_data.sh "chore: league data refresh" "python -m nbl.build --no-scrape"
+        run: |
+          scripts/commit_data.sh "chore: league data refresh" "python -m nbl.build --no-scrape"
       # Pojistka: cron live workflow umí GitHub vynechat. Když do 3 h začíná (nebo běží) zápas
       # a live workflow neběží ani nečeká, spustit ho.
       - name: Spustit live, pokud se blíží zápas
