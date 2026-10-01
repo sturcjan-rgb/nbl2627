@@ -1,0 +1,372 @@
+{
+ "season": "2026/27",
+ "generatedAt": "2026-10-01T05:18:17+00:00",
+ "counts": {
+  "fixtures": 132,
+  "final": 24,
+  "teams": 12,
+  "players": 151
+ },
+ "teams": [
+  {
+   "slug": "slavia",
+   "name": "SK Slavia Praha ERA NBK",
+   "label": "Slavia",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7aa188dfbe3d731fb1199e1c55a72312S1.png",
+   "file": "teams/slavia.json"
+  },
+  {
+   "slug": "pardubice",
+   "name": "BK KVIS Pardubice",
+   "label": "Pardubice",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea863234232dc6cd5da9faaab40b442eS1.png",
+   "file": "teams/pardubice.json"
+  },
+  {
+   "slug": "pisek",
+   "name": "Sršni Photomate Písek",
+   "label": "Písek",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/bd87c5d17b95173283244bbd063bd7c0S1.png",
+   "file": "teams/pisek.json"
+  },
+  {
+   "slug": "decin",
+   "name": "BK ARMEX ENERGY Děčín",
+   "label": "Děčín",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/11f2fc2d4d35d0cbc7ffe466f7651ff4S1.png",
+   "file": "teams/decin.json"
+  },
+  {
+   "slug": "ostrava",
+   "name": "NH Ostrava",
+   "label": "Ostrava",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
+   "file": "teams/ostrava.json"
+  },
+  {
+   "slug": "usti",
+   "name": "SLUNETA Ústí nad Labem",
+   "label": "Ústí",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
+   "file": "teams/usti.json"
+  },
+  {
+   "slug": "hradec",
+   "name": "BK GAPA Hradec Králové",
+   "label": "Hradec",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
+   "file": "teams/hradec.json"
+  },
+  {
+   "slug": "usk",
+   "name": "USK Praha",
+   "label": "USK",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
+   "file": "teams/usk.json"
+  },
+  {
+   "slug": "opava",
+   "name": "BK Opava",
+   "label": "Opava",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
+   "file": "teams/opava.json"
+  },
+  {
+   "slug": "olomoucko",
+   "name": "BK Olomoucko",
+   "label": "Olomoucko",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
+   "file": "teams/olomoucko.json"
+  },
+  {
+   "slug": "brno",
+   "name": "PUMPA Basket Brno",
+   "label": "Brno",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
+   "file": "teams/brno.json"
+  },
+  {
+   "slug": "plzen",
+   "name": "BK Loko BaliMania Plzeň",
+   "label": "Plzeň",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
+   "file": "teams/plzen.json"
+  }
+ ],
+ "files": {
+  "schedule": "schedule.json",
+  "standings": "standings.json",
+  "league": "league.json",
+  "leaders": "leaders.json",
+  "players": "players.json",
+  "team": "teams/{slug}.json",
+  "match": "matches/{fibaId}.json",
+  "raw": "raw/{fibaId}.json.gz"
+ },
+ "games": [
+  {
+   "fibaId": 2890468,
+   "date": "2026-09-17",
+   "home": "plzen",
+   "away": "decin",
+   "score": [
+    79,
+    109
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890471,
+   "date": "2026-09-19",
+   "home": "pardubice",
+   "away": "brno",
+   "score": [
+    85,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890470,
+   "date": "2026-09-19",
+   "home": "opava",
+   "away": "ostrava",
+   "score": [
+    77,
+    89
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890469,
+   "date": "2026-09-19",
+   "home": "usk",
+   "away": "slavia",
+   "score": [
+    80,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890472,
+   "date": "2026-09-20",
+   "home": "olomoucko",
+   "away": "hradec",
+   "score": [
+    81,
+    93
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890467,
+   "date": "2026-09-20",
+   "home": "usti",
+   "away": "pisek",
+   "score": [
+    78,
+    80
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890473,
+   "date": "2026-09-23",
+   "home": "pisek",
+   "away": "hradec",
+   "score": [
+    111,
+    87
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890474,
+   "date": "2026-09-23",
+   "home": "olomoucko",
+   "away": "pardubice",
+   "score": [
+    54,
+    100
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890475,
+   "date": "2026-09-23",
+   "home": "ostrava",
+   "away": "brno",
+   "score": [
+    85,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890476,
+   "date": "2026-09-23",
+   "home": "slavia",
+   "away": "opava",
+   "score": [
+    114,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890477,
+   "date": "2026-09-23",
+   "home": "decin",
+   "away": "usk",
+   "score": [
+    74,
+    57
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890478,
+   "date": "2026-09-23",
+   "home": "usti",
+   "away": "plzen",
+   "score": [
+    115,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890480,
+   "date": "2026-09-26",
+   "home": "usk",
+   "away": "usti",
+   "score": [
+    80,
+    89
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890481,
+   "date": "2026-09-26",
+   "home": "opava",
+   "away": "decin",
+   "score": [
+    83,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890482,
+   "date": "2026-09-26",
+   "home": "brno",
+   "away": "slavia",
+   "score": [
+    96,
+    108
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890484,
+   "date": "2026-09-26",
+   "home": "hradec",
+   "away": "pardubice",
+   "score": [
+    78,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890483,
+   "date": "2026-09-27",
+   "home": "olomoucko",
+   "away": "ostrava",
+   "score": [
+    77,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2890479,
+   "date": "2026-09-27",
+   "home": "plzen",
+   "away": "pisek",
+   "score": [
+    81,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2892252,
+   "date": "2026-09-30",
+   "home": "pisek",
+   "away": "pardubice",
+   "score": [
+    82,
+    92
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2892253,
+   "date": "2026-09-30",
+   "home": "ostrava",
+   "away": "hradec",
+   "score": [
+    89,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2892254,
+   "date": "2026-09-30",
+   "home": "slavia",
+   "away": "olomoucko",
+   "score": [
+    88,
+    62
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2892255,
+   "date": "2026-09-30",
+   "home": "decin",
+   "away": "brno",
+   "score": [
+    86,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2892256,
+   "date": "2026-09-30",
+   "home": "usti",
+   "away": "opava",
+   "score": [
+    86,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2892257,
+   "date": "2026-09-30",
+   "home": "plzen",
+   "away": "usk",
+   "score": [
+    81,
+    84
+   ],
+   "status": "final"
+  }
+ ]
+}

@@ -1,0 +1,3939 @@
+{
+ "season": "2026/27",
+ "generatedAt": "2026-10-01T05:18:17+00:00",
+ "source": "https://nbl.basketball/zapasy",
+ "counts": {
+  "total": 132,
+  "final": 24,
+  "scheduled": 108,
+  "withFiba": 53
+ },
+ "teams": {
+  "plzen": "BK Loko BaliMania Plzeň",
+  "decin": "BK ARMEX ENERGY Děčín",
+  "pardubice": "BK KVIS Pardubice",
+  "brno": "PUMPA Basket Brno",
+  "opava": "BK Opava",
+  "ostrava": "NH Ostrava",
+  "usk": "USK Praha",
+  "slavia": "SK Slavia Praha ERA NBK",
+  "olomoucko": "BK Olomoucko",
+  "hradec": "BK GAPA Hradec Králové",
+  "usti": "SLUNETA Ústí nad Labem",
+  "pisek": "Sršni Photomate Písek"
+ },
+ "fixtures": [
+  {
+   "nblId": 544547,
+   "fibaId": 2890468,
+   "round": "1.",
+   "phase": "Základní část",
+   "datetime": "2026-09-17T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": {
+    "home": 79,
+    "away": 109
+   },
+   "quarters": [
+    {
+     "home": 13,
+     "away": 20
+    },
+    {
+     "home": 30,
+     "away": 28
+    },
+    {
+     "home": 19,
+     "away": 31
+    },
+    {
+     "home": 17,
+     "away": 30
+    }
+   ],
+   "roundNum": 1,
+   "date": "2026-09-17",
+   "homeSlug": "plzen",
+   "awaySlug": "decin",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Děčín",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544547",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890468/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890468/data.json",
+    "stats": "matches/2890468.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544550,
+   "fibaId": 2890471,
+   "round": "1.",
+   "phase": "Základní část",
+   "datetime": "2026-09-19T16:00:00+02:00",
+   "time": "16:00",
+   "home": "BK KVIS Pardubice",
+   "away": "PUMPA Basket Brno",
+   "score": {
+    "home": 85,
+    "away": 79
+   },
+   "quarters": [
+    {
+     "home": 17,
+     "away": 14
+    },
+    {
+     "home": 20,
+     "away": 18
+    },
+    {
+     "home": 16,
+     "away": 24
+    },
+    {
+     "home": 32,
+     "away": 23
+    }
+   ],
+   "roundNum": 1,
+   "date": "2026-09-19",
+   "homeSlug": "pardubice",
+   "awaySlug": "brno",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Brno",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544550",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890471/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890471/data.json",
+    "stats": "matches/2890471.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544549,
+   "fibaId": 2890470,
+   "round": "1.",
+   "phase": "Základní část",
+   "datetime": "2026-09-19T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK Opava",
+   "away": "NH Ostrava",
+   "score": {
+    "home": 77,
+    "away": 89
+   },
+   "quarters": [
+    {
+     "home": 21,
+     "away": 23
+    },
+    {
+     "home": 17,
+     "away": 29
+    },
+    {
+     "home": 24,
+     "away": 16
+    },
+    {
+     "home": 15,
+     "away": 21
+    }
+   ],
+   "roundNum": 1,
+   "date": "2026-09-19",
+   "homeSlug": "opava",
+   "awaySlug": "ostrava",
+   "homeLabel": "Opava",
+   "awayLabel": "Ostrava",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544549",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890470/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890470/data.json",
+    "stats": "matches/2890470.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544548,
+   "fibaId": 2890469,
+   "round": "1.",
+   "phase": "Základní část",
+   "datetime": "2026-09-19T20:00:00+02:00",
+   "time": "20:00",
+   "home": "USK Praha",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": {
+    "home": 80,
+    "away": 88
+   },
+   "quarters": [
+    {
+     "home": 18,
+     "away": 27
+    },
+    {
+     "home": 25,
+     "away": 16
+    },
+    {
+     "home": 18,
+     "away": 23
+    },
+    {
+     "home": 19,
+     "away": 22
+    }
+   ],
+   "roundNum": 1,
+   "date": "2026-09-19",
+   "homeSlug": "usk",
+   "awaySlug": "slavia",
+   "homeLabel": "USK",
+   "awayLabel": "Slavia",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544548",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890469/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890469/data.json",
+    "stats": "matches/2890469.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544551,
+   "fibaId": 2890472,
+   "round": "1.",
+   "phase": "Základní část",
+   "datetime": "2026-09-20T17:00:00+02:00",
+   "time": "17:00",
+   "home": "BK Olomoucko",
+   "away": "BK GAPA Hradec Králové",
+   "score": {
+    "home": 81,
+    "away": 93
+   },
+   "quarters": [
+    {
+     "home": 17,
+     "away": 34
+    },
+    {
+     "home": 17,
+     "away": 18
+    },
+    {
+     "home": 25,
+     "away": 24
+    },
+    {
+     "home": 22,
+     "away": 17
+    }
+   ],
+   "roundNum": 1,
+   "date": "2026-09-20",
+   "homeSlug": "olomoucko",
+   "awaySlug": "hradec",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Hradec",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544551",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890472/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890472/data.json",
+    "stats": "matches/2890472.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544546,
+   "fibaId": 2890467,
+   "round": "1. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-09-20T18:00:00+02:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "Sršni Photomate Písek",
+   "score": {
+    "home": 78,
+    "away": 80
+   },
+   "quarters": [
+    {
+     "home": 13,
+     "away": 8
+    },
+    {
+     "home": 19,
+     "away": 18
+    },
+    {
+     "home": 26,
+     "away": 22
+    },
+    {
+     "home": 20,
+     "away": 32
+    }
+   ],
+   "roundNum": 1,
+   "date": "2026-09-20",
+   "homeSlug": "usti",
+   "awaySlug": "pisek",
+   "homeLabel": "Ústí",
+   "awayLabel": "Písek",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544546",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890467/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890467/data.json",
+    "stats": "matches/2890467.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544552,
+   "fibaId": 2890473,
+   "round": "2. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-09-23T18:00:00+02:00",
+   "time": "18:00",
+   "home": "Sršni Photomate Písek",
+   "away": "BK GAPA Hradec Králové",
+   "score": {
+    "home": 111,
+    "away": 87
+   },
+   "quarters": [
+    {
+     "home": 24,
+     "away": 28
+    },
+    {
+     "home": 31,
+     "away": 22
+    },
+    {
+     "home": 27,
+     "away": 16
+    },
+    {
+     "home": 29,
+     "away": 21
+    }
+   ],
+   "roundNum": 2,
+   "date": "2026-09-23",
+   "homeSlug": "pisek",
+   "awaySlug": "hradec",
+   "homeLabel": "Písek",
+   "awayLabel": "Hradec",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544552",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890473/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890473/data.json",
+    "stats": "matches/2890473.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544553,
+   "fibaId": 2890474,
+   "round": "2.",
+   "phase": "Základní část",
+   "datetime": "2026-09-23T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK Olomoucko",
+   "away": "BK KVIS Pardubice",
+   "score": {
+    "home": 54,
+    "away": 100
+   },
+   "quarters": [
+    {
+     "home": 15,
+     "away": 18
+    },
+    {
+     "home": 13,
+     "away": 17
+    },
+    {
+     "home": 11,
+     "away": 37
+    },
+    {
+     "home": 15,
+     "away": 28
+    }
+   ],
+   "roundNum": 2,
+   "date": "2026-09-23",
+   "homeSlug": "olomoucko",
+   "awaySlug": "pardubice",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Pardubice",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544553",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890474/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890474/data.json",
+    "stats": "matches/2890474.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544554,
+   "fibaId": 2890475,
+   "round": "2.",
+   "phase": "Základní část",
+   "datetime": "2026-09-23T18:00:00+02:00",
+   "time": "18:00",
+   "home": "NH Ostrava",
+   "away": "PUMPA Basket Brno",
+   "score": {
+    "home": 85,
+    "away": 76
+   },
+   "quarters": [
+    {
+     "home": 24,
+     "away": 15
+    },
+    {
+     "home": 15,
+     "away": 16
+    },
+    {
+     "home": 22,
+     "away": 29
+    },
+    {
+     "home": 24,
+     "away": 16
+    }
+   ],
+   "roundNum": 2,
+   "date": "2026-09-23",
+   "homeSlug": "ostrava",
+   "awaySlug": "brno",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Brno",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544554",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890475/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890475/data.json",
+    "stats": "matches/2890475.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544555,
+   "fibaId": 2890476,
+   "round": "2.",
+   "phase": "Základní část",
+   "datetime": "2026-09-23T18:00:00+02:00",
+   "time": "18:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "BK Opava",
+   "score": {
+    "home": 114,
+    "away": 81
+   },
+   "quarters": [
+    {
+     "home": 34,
+     "away": 15
+    },
+    {
+     "home": 24,
+     "away": 22
+    },
+    {
+     "home": 33,
+     "away": 24
+    },
+    {
+     "home": 23,
+     "away": 20
+    }
+   ],
+   "roundNum": 2,
+   "date": "2026-09-23",
+   "homeSlug": "slavia",
+   "awaySlug": "opava",
+   "homeLabel": "Slavia",
+   "awayLabel": "Opava",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544555",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890476/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890476/data.json",
+    "stats": "matches/2890476.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544556,
+   "fibaId": 2890477,
+   "round": "2.",
+   "phase": "Základní část",
+   "datetime": "2026-09-23T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "USK Praha",
+   "score": {
+    "home": 74,
+    "away": 57
+   },
+   "quarters": [
+    {
+     "home": 14,
+     "away": 15
+    },
+    {
+     "home": 20,
+     "away": 17
+    },
+    {
+     "home": 16,
+     "away": 14
+    },
+    {
+     "home": 24,
+     "away": 11
+    }
+   ],
+   "roundNum": 2,
+   "date": "2026-09-23",
+   "homeSlug": "decin",
+   "awaySlug": "usk",
+   "homeLabel": "Děčín",
+   "awayLabel": "USK",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544556",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890477/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890477/data.json",
+    "stats": "matches/2890477.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544557,
+   "fibaId": 2890478,
+   "round": "2.",
+   "phase": "Základní část",
+   "datetime": "2026-09-23T18:00:00+02:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": {
+    "home": 115,
+    "away": 74
+   },
+   "quarters": [
+    {
+     "home": 28,
+     "away": 10
+    },
+    {
+     "home": 23,
+     "away": 20
+    },
+    {
+     "home": 30,
+     "away": 19
+    },
+    {
+     "home": 34,
+     "away": 25
+    }
+   ],
+   "roundNum": 2,
+   "date": "2026-09-23",
+   "homeSlug": "usti",
+   "awaySlug": "plzen",
+   "homeLabel": "Ústí",
+   "awayLabel": "Plzeň",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544557",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890478/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890478/data.json",
+    "stats": "matches/2890478.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544559,
+   "fibaId": 2890480,
+   "round": "3.",
+   "phase": "Základní část",
+   "datetime": "2026-09-26T17:30:00+02:00",
+   "time": "17:30",
+   "home": "USK Praha",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": {
+    "home": 80,
+    "away": 89
+   },
+   "quarters": [
+    {
+     "home": 24,
+     "away": 16
+    },
+    {
+     "home": 20,
+     "away": 16
+    },
+    {
+     "home": 20,
+     "away": 25
+    },
+    {
+     "home": 16,
+     "away": 32
+    }
+   ],
+   "roundNum": 3,
+   "date": "2026-09-26",
+   "homeSlug": "usk",
+   "awaySlug": "usti",
+   "homeLabel": "USK",
+   "awayLabel": "Ústí",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544559",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890480/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890480/data.json",
+    "stats": "matches/2890480.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544560,
+   "fibaId": 2890481,
+   "round": "3.",
+   "phase": "Základní část",
+   "datetime": "2026-09-26T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK Opava",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": {
+    "home": 83,
+    "away": 76
+   },
+   "quarters": [
+    {
+     "home": 19,
+     "away": 19
+    },
+    {
+     "home": 25,
+     "away": 29
+    },
+    {
+     "home": 22,
+     "away": 9
+    },
+    {
+     "home": 17,
+     "away": 19
+    }
+   ],
+   "roundNum": 3,
+   "date": "2026-09-26",
+   "homeSlug": "opava",
+   "awaySlug": "decin",
+   "homeLabel": "Opava",
+   "awayLabel": "Děčín",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544560",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890481/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890481/data.json",
+    "stats": "matches/2890481.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544561,
+   "fibaId": 2890482,
+   "round": "3.",
+   "phase": "Základní část",
+   "datetime": "2026-09-26T18:00:00+02:00",
+   "time": "18:00",
+   "home": "PUMPA Basket Brno",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": {
+    "home": 96,
+    "away": 108
+   },
+   "quarters": [
+    {
+     "home": 24,
+     "away": 25
+    },
+    {
+     "home": 21,
+     "away": 28
+    },
+    {
+     "home": 34,
+     "away": 29
+    },
+    {
+     "home": 17,
+     "away": 26
+    }
+   ],
+   "roundNum": 3,
+   "date": "2026-09-26",
+   "homeSlug": "brno",
+   "awaySlug": "slavia",
+   "homeLabel": "Brno",
+   "awayLabel": "Slavia",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544561",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890482/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890482/data.json",
+    "stats": "matches/2890482.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544563,
+   "fibaId": 2890484,
+   "round": "3.",
+   "phase": "Základní část",
+   "datetime": "2026-09-26T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "BK KVIS Pardubice",
+   "score": {
+    "home": 78,
+    "away": 88
+   },
+   "quarters": [
+    {
+     "home": 29,
+     "away": 27
+    },
+    {
+     "home": 21,
+     "away": 20
+    },
+    {
+     "home": 18,
+     "away": 25
+    },
+    {
+     "home": 10,
+     "away": 16
+    }
+   ],
+   "roundNum": 3,
+   "date": "2026-09-26",
+   "homeSlug": "hradec",
+   "awaySlug": "pardubice",
+   "homeLabel": "Hradec",
+   "awayLabel": "Pardubice",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544563",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890484/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890484/data.json",
+    "stats": "matches/2890484.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544562,
+   "fibaId": 2890483,
+   "round": "3.",
+   "phase": "Základní část",
+   "datetime": "2026-09-27T17:00:00+02:00",
+   "time": "17:00",
+   "home": "BK Olomoucko",
+   "away": "NH Ostrava",
+   "score": {
+    "home": 77,
+    "away": 76
+   },
+   "quarters": [
+    {
+     "home": 23,
+     "away": 18
+    },
+    {
+     "home": 22,
+     "away": 25
+    },
+    {
+     "home": 15,
+     "away": 19
+    },
+    {
+     "home": 17,
+     "away": 14
+    }
+   ],
+   "roundNum": 3,
+   "date": "2026-09-27",
+   "homeSlug": "olomoucko",
+   "awaySlug": "ostrava",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Ostrava",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544562",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890483/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890483/data.json",
+    "stats": "matches/2890483.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544558,
+   "fibaId": 2890479,
+   "round": "3. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-09-27T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "Sršni Photomate Písek",
+   "score": {
+    "home": 81,
+    "away": 88
+   },
+   "quarters": [
+    {
+     "home": 7,
+     "away": 31
+    },
+    {
+     "home": 24,
+     "away": 24
+    },
+    {
+     "home": 28,
+     "away": 17
+    },
+    {
+     "home": 22,
+     "away": 16
+    }
+   ],
+   "roundNum": 3,
+   "date": "2026-09-27",
+   "homeSlug": "plzen",
+   "awaySlug": "pisek",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Písek",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544558",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2890479/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2890479/data.json",
+    "stats": "matches/2890479.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544564,
+   "fibaId": 2892252,
+   "round": "4. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-09-30T18:00:00+02:00",
+   "time": "18:00",
+   "home": "Sršni Photomate Písek",
+   "away": "BK KVIS Pardubice",
+   "score": {
+    "home": 82,
+    "away": 92
+   },
+   "quarters": [
+    {
+     "home": 27,
+     "away": 22
+    },
+    {
+     "home": 17,
+     "away": 28
+    },
+    {
+     "home": 21,
+     "away": 21
+    },
+    {
+     "home": 17,
+     "away": 21
+    }
+   ],
+   "roundNum": 4,
+   "date": "2026-09-30",
+   "homeSlug": "pisek",
+   "awaySlug": "pardubice",
+   "homeLabel": "Písek",
+   "awayLabel": "Pardubice",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544564",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2892252/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2892252/data.json",
+    "stats": "matches/2892252.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544565,
+   "fibaId": 2892253,
+   "round": "4.",
+   "phase": "Základní část",
+   "datetime": "2026-09-30T18:00:00+02:00",
+   "time": "18:00",
+   "home": "NH Ostrava",
+   "away": "BK GAPA Hradec Králové",
+   "score": {
+    "home": 89,
+    "away": 82
+   },
+   "quarters": [
+    {
+     "home": 28,
+     "away": 21
+    },
+    {
+     "home": 23,
+     "away": 20
+    },
+    {
+     "home": 19,
+     "away": 23
+    },
+    {
+     "home": 19,
+     "away": 18
+    }
+   ],
+   "roundNum": 4,
+   "date": "2026-09-30",
+   "homeSlug": "ostrava",
+   "awaySlug": "hradec",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Hradec",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544565",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2892253/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2892253/data.json",
+    "stats": "matches/2892253.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544566,
+   "fibaId": 2892254,
+   "round": "4.",
+   "phase": "Základní část",
+   "datetime": "2026-09-30T18:00:00+02:00",
+   "time": "18:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "BK Olomoucko",
+   "score": {
+    "home": 88,
+    "away": 62
+   },
+   "quarters": [
+    {
+     "home": 26,
+     "away": 14
+    },
+    {
+     "home": 26,
+     "away": 8
+    },
+    {
+     "home": 20,
+     "away": 25
+    },
+    {
+     "home": 16,
+     "away": 15
+    }
+   ],
+   "roundNum": 4,
+   "date": "2026-09-30",
+   "homeSlug": "slavia",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Slavia",
+   "awayLabel": "Olomoucko",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544566",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2892254/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2892254/data.json",
+    "stats": "matches/2892254.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544567,
+   "fibaId": 2892255,
+   "round": "4.",
+   "phase": "Základní část",
+   "datetime": "2026-09-30T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "PUMPA Basket Brno",
+   "score": {
+    "home": 86,
+    "away": 78
+   },
+   "quarters": [
+    {
+     "home": 32,
+     "away": 17
+    },
+    {
+     "home": 17,
+     "away": 16
+    },
+    {
+     "home": 21,
+     "away": 23
+    },
+    {
+     "home": 16,
+     "away": 22
+    }
+   ],
+   "roundNum": 4,
+   "date": "2026-09-30",
+   "homeSlug": "decin",
+   "awaySlug": "brno",
+   "homeLabel": "Děčín",
+   "awayLabel": "Brno",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544567",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2892255/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2892255/data.json",
+    "stats": "matches/2892255.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544568,
+   "fibaId": 2892256,
+   "round": "4.",
+   "phase": "Základní část",
+   "datetime": "2026-09-30T18:00:00+02:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "BK Opava",
+   "score": {
+    "home": 86,
+    "away": 76
+   },
+   "quarters": [
+    {
+     "home": 24,
+     "away": 18
+    },
+    {
+     "home": 26,
+     "away": 20
+    },
+    {
+     "home": 18,
+     "away": 22
+    },
+    {
+     "home": 18,
+     "away": 16
+    }
+   ],
+   "roundNum": 4,
+   "date": "2026-09-30",
+   "homeSlug": "usti",
+   "awaySlug": "opava",
+   "homeLabel": "Ústí",
+   "awayLabel": "Opava",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544568",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2892256/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2892256/data.json",
+    "stats": "matches/2892256.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544569,
+   "fibaId": 2892257,
+   "round": "4.",
+   "phase": "Základní část",
+   "datetime": "2026-09-30T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "USK Praha",
+   "score": {
+    "home": 81,
+    "away": 84
+   },
+   "quarters": [
+    {
+     "home": 21,
+     "away": 20
+    },
+    {
+     "home": 24,
+     "away": 17
+    },
+    {
+     "home": 14,
+     "away": 20
+    },
+    {
+     "home": 22,
+     "away": 27
+    }
+   ],
+   "roundNum": 4,
+   "date": "2026-09-30",
+   "homeSlug": "plzen",
+   "awaySlug": "usk",
+   "homeLabel": "Plzeň",
+   "awayLabel": "USK",
+   "status": "final",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544569",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2892257/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2892257/data.json",
+    "stats": "matches/2892257.json"
+   },
+   "hasStats": true
+  },
+  {
+   "nblId": 544570,
+   "fibaId": 2893123,
+   "round": "5. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-10-03T17:30:00+02:00",
+   "time": "17:30",
+   "home": "USK Praha",
+   "away": "Sršni Photomate Písek",
+   "score": null,
+   "quarters": null,
+   "roundNum": 5,
+   "date": "2026-10-03",
+   "homeSlug": "usk",
+   "awaySlug": "pisek",
+   "homeLabel": "USK",
+   "awayLabel": "Písek",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544570",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893123/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2893123/data.json",
+    "stats": "matches/2893123.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544575,
+   "fibaId": 2893126,
+   "round": "5.",
+   "phase": "Základní část",
+   "datetime": "2026-10-03T17:30:00+02:00",
+   "time": "17:30",
+   "home": "BK KVIS Pardubice",
+   "away": "NH Ostrava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 5,
+   "date": "2026-10-03",
+   "homeSlug": "pardubice",
+   "awaySlug": "ostrava",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Ostrava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544575",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893126/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2893126/data.json",
+    "stats": "matches/2893126.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544571,
+   "fibaId": 2893124,
+   "round": "5.",
+   "phase": "Základní část",
+   "datetime": "2026-10-03T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK Opava",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 5,
+   "date": "2026-10-03",
+   "homeSlug": "opava",
+   "awaySlug": "plzen",
+   "homeLabel": "Opava",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544571",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893124/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2893124/data.json",
+    "stats": "matches/2893124.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544574,
+   "fibaId": 2893125,
+   "round": "5.",
+   "phase": "Základní část",
+   "datetime": "2026-10-03T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": null,
+   "quarters": null,
+   "roundNum": 5,
+   "date": "2026-10-03",
+   "homeSlug": "hradec",
+   "awaySlug": "slavia",
+   "homeLabel": "Hradec",
+   "awayLabel": "Slavia",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544574",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893125/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2893125/data.json",
+    "stats": "matches/2893125.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544573,
+   "fibaId": 2893259,
+   "round": "5.",
+   "phase": "Základní část",
+   "datetime": "2026-10-04T17:00:00+02:00",
+   "time": "17:00",
+   "home": "BK Olomoucko",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": null,
+   "quarters": null,
+   "roundNum": 5,
+   "date": "2026-10-04",
+   "homeSlug": "olomoucko",
+   "awaySlug": "decin",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Děčín",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544573",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893259/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2893259/data.json",
+    "stats": "matches/2893259.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544572,
+   "fibaId": 2893258,
+   "round": "5.",
+   "phase": "Základní část",
+   "datetime": "2026-10-04T18:00:00+02:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "PUMPA Basket Brno",
+   "score": null,
+   "quarters": null,
+   "roundNum": 5,
+   "date": "2026-10-04",
+   "homeSlug": "usti",
+   "awaySlug": "brno",
+   "homeLabel": "Ústí",
+   "awayLabel": "Brno",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544572",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893258/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2893258/data.json",
+    "stats": "matches/2893258.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544577,
+   "fibaId": 2899969,
+   "round": "6.",
+   "phase": "Základní část",
+   "datetime": "2026-10-10T12:00:00+02:00",
+   "time": "12:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "BK KVIS Pardubice",
+   "score": null,
+   "quarters": null,
+   "roundNum": 6,
+   "date": "2026-10-10",
+   "homeSlug": "slavia",
+   "awaySlug": "pardubice",
+   "homeLabel": "Slavia",
+   "awayLabel": "Pardubice",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544577",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2899969/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2899969/data.json",
+    "stats": "matches/2899969.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544578,
+   "fibaId": 2900036,
+   "round": "6.",
+   "phase": "Základní část",
+   "datetime": "2026-10-10T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": null,
+   "quarters": null,
+   "roundNum": 6,
+   "date": "2026-10-10",
+   "homeSlug": "hradec",
+   "awaySlug": "decin",
+   "homeLabel": "Hradec",
+   "awayLabel": "Děčín",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544578",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900036/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2900036/data.json",
+    "stats": "matches/2900036.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544581,
+   "fibaId": 2900037,
+   "round": "6.",
+   "phase": "Základní část",
+   "datetime": "2026-10-10T18:00:00+02:00",
+   "time": "18:00",
+   "home": "USK Praha",
+   "away": "BK Opava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 6,
+   "date": "2026-10-10",
+   "homeSlug": "usk",
+   "awaySlug": "opava",
+   "homeLabel": "USK",
+   "awayLabel": "Opava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544581",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900037/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2900037/data.json",
+    "stats": "matches/2900037.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544576,
+   "fibaId": 2900134,
+   "round": "6. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-10-11T17:00:00+02:00",
+   "time": "17:00",
+   "home": "Sršni Photomate Písek",
+   "away": "NH Ostrava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 6,
+   "date": "2026-10-11",
+   "homeSlug": "pisek",
+   "awaySlug": "ostrava",
+   "homeLabel": "Písek",
+   "awayLabel": "Ostrava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544576",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900134/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2900134/data.json",
+    "stats": "matches/2900134.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544579,
+   "fibaId": 2900135,
+   "round": "6.",
+   "phase": "Základní část",
+   "datetime": "2026-10-11T18:00:00+02:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 6,
+   "date": "2026-10-11",
+   "homeSlug": "usti",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Ústí",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544579",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900135/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2900135/data.json",
+    "stats": "matches/2900135.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544580,
+   "fibaId": 2900136,
+   "round": "6.",
+   "phase": "Základní část",
+   "datetime": "2026-10-11T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "PUMPA Basket Brno",
+   "score": null,
+   "quarters": null,
+   "roundNum": 6,
+   "date": "2026-10-11",
+   "homeSlug": "plzen",
+   "awaySlug": "brno",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Brno",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544580",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900136/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2900136/data.json",
+    "stats": "matches/2900136.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544619,
+   "fibaId": 2906538,
+   "round": "13.",
+   "phase": "Základní část",
+   "datetime": "2026-10-14T17:30:00+02:00",
+   "time": "17:30",
+   "home": "BK KVIS Pardubice",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 13,
+   "date": "2026-10-14",
+   "homeSlug": "pardubice",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544619",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2906538/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2906538/data.json",
+    "stats": "matches/2906538.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544584,
+   "fibaId": 2909042,
+   "round": "7.",
+   "phase": "Základní část",
+   "datetime": "2026-10-16T10:00:00+02:00",
+   "time": "10:00",
+   "home": "BK Olomoucko",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 7,
+   "date": "2026-10-16",
+   "homeSlug": "olomoucko",
+   "awaySlug": "plzen",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544584",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2909042/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2909042/data.json",
+    "stats": "matches/2909042.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544586,
+   "fibaId": 2910250,
+   "round": "7.",
+   "phase": "Základní část",
+   "datetime": "2026-10-17T17:30:00+02:00",
+   "time": "17:30",
+   "home": "BK KVIS Pardubice",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": null,
+   "quarters": null,
+   "roundNum": 7,
+   "date": "2026-10-17",
+   "homeSlug": "pardubice",
+   "awaySlug": "decin",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Děčín",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544586",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2910250/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2910250/data.json",
+    "stats": "matches/2910250.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544587,
+   "fibaId": 2910251,
+   "round": "7.",
+   "phase": "Základní část",
+   "datetime": "2026-10-17T17:30:00+02:00",
+   "time": "17:30",
+   "home": "NH Ostrava",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": null,
+   "quarters": null,
+   "roundNum": 7,
+   "date": "2026-10-17",
+   "homeSlug": "ostrava",
+   "awaySlug": "slavia",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Slavia",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544587",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2910251/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2910251/data.json",
+    "stats": "matches/2910251.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544585,
+   "fibaId": 2910249,
+   "round": "7.",
+   "phase": "Základní část",
+   "datetime": "2026-10-17T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 7,
+   "date": "2026-10-17",
+   "homeSlug": "hradec",
+   "awaySlug": "usti",
+   "homeLabel": "Hradec",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544585",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2910249/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2910249/data.json",
+    "stats": "matches/2910249.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544582,
+   "fibaId": 2910248,
+   "round": "7. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-10-17T19:00:00+02:00",
+   "time": "19:00",
+   "home": "BK Opava",
+   "away": "Sršni Photomate Písek",
+   "score": null,
+   "quarters": null,
+   "roundNum": 7,
+   "date": "2026-10-17",
+   "homeSlug": "opava",
+   "awaySlug": "pisek",
+   "homeLabel": "Opava",
+   "awayLabel": "Písek",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544582",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2910248/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2910248/data.json",
+    "stats": "matches/2910248.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544583,
+   "fibaId": 2910404,
+   "round": "7.",
+   "phase": "Základní část",
+   "datetime": "2026-10-18T18:00:00+02:00",
+   "time": "18:00",
+   "home": "PUMPA Basket Brno",
+   "away": "USK Praha",
+   "score": null,
+   "quarters": null,
+   "roundNum": 7,
+   "date": "2026-10-18",
+   "homeSlug": "brno",
+   "awaySlug": "usk",
+   "homeLabel": "Brno",
+   "awayLabel": "USK",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544583",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2910404/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2910404/data.json",
+    "stats": "matches/2910404.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544588,
+   "fibaId": 2921929,
+   "round": "8. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-10-23T18:00:00+02:00",
+   "time": "18:00",
+   "home": "Sršni Photomate Písek",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": null,
+   "quarters": null,
+   "roundNum": 8,
+   "date": "2026-10-23",
+   "homeSlug": "pisek",
+   "awaySlug": "slavia",
+   "homeLabel": "Písek",
+   "awayLabel": "Slavia",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544588",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2921929/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2921929/data.json",
+    "stats": "matches/2921929.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544592,
+   "fibaId": 2922250,
+   "round": "8.",
+   "phase": "Základní část",
+   "datetime": "2026-10-24T17:30:00+02:00",
+   "time": "17:30",
+   "home": "USK Praha",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 8,
+   "date": "2026-10-24",
+   "homeSlug": "usk",
+   "awaySlug": "olomoucko",
+   "homeLabel": "USK",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544592",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2922250/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2922250/data.json",
+    "stats": "matches/2922250.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544589,
+   "fibaId": 2922249,
+   "round": "8.",
+   "phase": "Základní část",
+   "datetime": "2026-10-24T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "NH Ostrava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 8,
+   "date": "2026-10-24",
+   "homeSlug": "decin",
+   "awaySlug": "ostrava",
+   "homeLabel": "Děčín",
+   "awayLabel": "Ostrava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544589",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2922249/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2922249/data.json",
+    "stats": "matches/2922249.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544593,
+   "fibaId": 2922251,
+   "round": "8.",
+   "phase": "Základní část",
+   "datetime": "2026-10-24T18:00:00+02:00",
+   "time": "18:00",
+   "home": "BK Opava",
+   "away": "PUMPA Basket Brno",
+   "score": null,
+   "quarters": null,
+   "roundNum": 8,
+   "date": "2026-10-24",
+   "homeSlug": "opava",
+   "awaySlug": "brno",
+   "homeLabel": "Opava",
+   "awayLabel": "Brno",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544593",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2922251/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2922251/data.json",
+    "stats": "matches/2922251.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544590,
+   "fibaId": 2923364,
+   "round": "8.",
+   "phase": "Základní část",
+   "datetime": "2026-10-25T18:00:00+01:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "BK KVIS Pardubice",
+   "score": null,
+   "quarters": null,
+   "roundNum": 8,
+   "date": "2026-10-25",
+   "homeSlug": "usti",
+   "awaySlug": "pardubice",
+   "homeLabel": "Ústí",
+   "awayLabel": "Pardubice",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544590",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2923364/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2923364/data.json",
+    "stats": "matches/2923364.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544591,
+   "fibaId": 2923365,
+   "round": "8.",
+   "phase": "Základní část",
+   "datetime": "2026-10-25T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "BK GAPA Hradec Králové",
+   "score": null,
+   "quarters": null,
+   "roundNum": 8,
+   "date": "2026-10-25",
+   "homeSlug": "plzen",
+   "awaySlug": "hradec",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Hradec",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544591",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2923365/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2923365/data.json",
+    "stats": "matches/2923365.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544597,
+   "fibaId": 2927622,
+   "round": "9.",
+   "phase": "Základní část",
+   "datetime": "2026-10-28T17:30:00+01:00",
+   "time": "17:30",
+   "home": "BK KVIS Pardubice",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 9,
+   "date": "2026-10-28",
+   "homeSlug": "pardubice",
+   "awaySlug": "plzen",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544597",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2927622/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2927622/data.json",
+    "stats": "matches/2927622.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544594,
+   "fibaId": 2927620,
+   "round": "9. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-10-28T18:00:00+01:00",
+   "time": "18:00",
+   "home": "PUMPA Basket Brno",
+   "away": "Sršni Photomate Písek",
+   "score": null,
+   "quarters": null,
+   "roundNum": 9,
+   "date": "2026-10-28",
+   "homeSlug": "brno",
+   "awaySlug": "pisek",
+   "homeLabel": "Brno",
+   "awayLabel": "Písek",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544594",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2927620/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2927620/data.json",
+    "stats": "matches/2927620.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544598,
+   "fibaId": 2927623,
+   "round": "9.",
+   "phase": "Základní část",
+   "datetime": "2026-10-28T18:00:00+01:00",
+   "time": "18:00",
+   "home": "NH Ostrava",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 9,
+   "date": "2026-10-28",
+   "homeSlug": "ostrava",
+   "awaySlug": "usti",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544598",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2927623/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2927623/data.json",
+    "stats": "matches/2927623.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544596,
+   "fibaId": 2927621,
+   "round": "9.",
+   "phase": "Základní část",
+   "datetime": "2026-10-28T19:00:00+01:00",
+   "time": "19:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "USK Praha",
+   "score": null,
+   "quarters": null,
+   "roundNum": 9,
+   "date": "2026-10-28",
+   "homeSlug": "hradec",
+   "awaySlug": "usk",
+   "homeLabel": "Hradec",
+   "awayLabel": "USK",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544596",
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2927621/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2927621/data.json",
+    "stats": "matches/2927621.json"
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544621,
+   "fibaId": null,
+   "round": "13.",
+   "phase": "Základní část",
+   "datetime": "2026-10-30T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Opava",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": null,
+   "quarters": null,
+   "roundNum": 13,
+   "date": "2026-10-30",
+   "homeSlug": "opava",
+   "awaySlug": "slavia",
+   "homeLabel": "Opava",
+   "awayLabel": "Slavia",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544621",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544602,
+   "fibaId": null,
+   "round": "10.",
+   "phase": "Základní část",
+   "datetime": "2026-10-31T17:30:00+01:00",
+   "time": "17:30",
+   "home": "NH Ostrava",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 10,
+   "date": "2026-10-31",
+   "homeSlug": "ostrava",
+   "awaySlug": "plzen",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544602",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544603,
+   "fibaId": null,
+   "round": "10.",
+   "phase": "Základní část",
+   "datetime": "2026-10-31T17:30:00+01:00",
+   "time": "17:30",
+   "home": "USK Praha",
+   "away": "BK KVIS Pardubice",
+   "score": null,
+   "quarters": null,
+   "roundNum": 10,
+   "date": "2026-10-31",
+   "homeSlug": "usk",
+   "awaySlug": "pardubice",
+   "homeLabel": "USK",
+   "awayLabel": "Pardubice",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544603",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544600,
+   "fibaId": null,
+   "round": "10. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-11-01T17:00:00+01:00",
+   "time": "17:00",
+   "home": "Sršni Photomate Písek",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": null,
+   "quarters": null,
+   "roundNum": 10,
+   "date": "2026-11-01",
+   "homeSlug": "pisek",
+   "awaySlug": "decin",
+   "homeLabel": "Písek",
+   "awayLabel": "Děčín",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544600",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544601,
+   "fibaId": null,
+   "round": "10.",
+   "phase": "Základní část",
+   "datetime": "2026-11-01T18:00:00+01:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": null,
+   "quarters": null,
+   "roundNum": 10,
+   "date": "2026-11-01",
+   "homeSlug": "usti",
+   "awaySlug": "slavia",
+   "homeLabel": "Ústí",
+   "awayLabel": "Slavia",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544601",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544604,
+   "fibaId": null,
+   "round": "10.",
+   "phase": "Základní část",
+   "datetime": "2026-11-01T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Opava",
+   "away": "BK GAPA Hradec Králové",
+   "score": null,
+   "quarters": null,
+   "roundNum": 10,
+   "date": "2026-11-01",
+   "homeSlug": "opava",
+   "awaySlug": "hradec",
+   "homeLabel": "Opava",
+   "awayLabel": "Hradec",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544604",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544599,
+   "fibaId": null,
+   "round": "9.",
+   "phase": "Základní část",
+   "datetime": "2026-11-04T18:00:00+01:00",
+   "time": "18:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": null,
+   "quarters": null,
+   "roundNum": 9,
+   "date": "2026-11-04",
+   "homeSlug": "slavia",
+   "awaySlug": "decin",
+   "homeLabel": "Slavia",
+   "awayLabel": "Děčín",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544599",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544605,
+   "fibaId": null,
+   "round": "10.",
+   "phase": "Základní část",
+   "datetime": "2026-11-04T18:00:00+01:00",
+   "time": "18:00",
+   "home": "PUMPA Basket Brno",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 10,
+   "date": "2026-11-04",
+   "homeSlug": "brno",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Brno",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544605",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544608,
+   "fibaId": null,
+   "round": "11.",
+   "phase": "Základní část",
+   "datetime": "2026-11-07T17:30:00+01:00",
+   "time": "17:30",
+   "home": "BK KVIS Pardubice",
+   "away": "BK Opava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 11,
+   "date": "2026-11-07",
+   "homeSlug": "pardubice",
+   "awaySlug": "opava",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Opava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544608",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544609,
+   "fibaId": null,
+   "round": "11.",
+   "phase": "Základní část",
+   "datetime": "2026-11-07T17:30:00+01:00",
+   "time": "17:30",
+   "home": "NH Ostrava",
+   "away": "USK Praha",
+   "score": null,
+   "quarters": null,
+   "roundNum": 11,
+   "date": "2026-11-07",
+   "homeSlug": "ostrava",
+   "awaySlug": "usk",
+   "homeLabel": "Ostrava",
+   "awayLabel": "USK",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544609",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544607,
+   "fibaId": null,
+   "round": "11.",
+   "phase": "Základní část",
+   "datetime": "2026-11-07T18:00:00+01:00",
+   "time": "18:00",
+   "home": "PUMPA Basket Brno",
+   "away": "BK GAPA Hradec Králové",
+   "score": null,
+   "quarters": null,
+   "roundNum": 11,
+   "date": "2026-11-07",
+   "homeSlug": "brno",
+   "awaySlug": "hradec",
+   "homeLabel": "Brno",
+   "awayLabel": "Hradec",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544607",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544611,
+   "fibaId": null,
+   "round": "11.",
+   "phase": "Základní část",
+   "datetime": "2026-11-07T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 11,
+   "date": "2026-11-07",
+   "homeSlug": "decin",
+   "awaySlug": "usti",
+   "homeLabel": "Děčín",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544611",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544610,
+   "fibaId": null,
+   "round": "11.",
+   "phase": "Základní část",
+   "datetime": "2026-11-08T15:00:00+01:00",
+   "time": "15:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 11,
+   "date": "2026-11-08",
+   "homeSlug": "slavia",
+   "awaySlug": "plzen",
+   "homeLabel": "Slavia",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544610",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544606,
+   "fibaId": null,
+   "round": "11. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-11-08T17:00:00+01:00",
+   "time": "17:00",
+   "home": "BK Olomoucko",
+   "away": "Sršni Photomate Písek",
+   "score": null,
+   "quarters": null,
+   "roundNum": 11,
+   "date": "2026-11-08",
+   "homeSlug": "olomoucko",
+   "awaySlug": "pisek",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Písek",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544606",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544652,
+   "fibaId": null,
+   "round": "18.",
+   "phase": "Základní část",
+   "datetime": "2026-11-11T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "BK KVIS Pardubice",
+   "score": null,
+   "quarters": null,
+   "roundNum": 18,
+   "date": "2026-11-11",
+   "homeSlug": "decin",
+   "awaySlug": "pardubice",
+   "homeLabel": "Děčín",
+   "awayLabel": "Pardubice",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544652",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544615,
+   "fibaId": null,
+   "round": "12.",
+   "phase": "Základní část",
+   "datetime": "2026-11-14T17:30:00+01:00",
+   "time": "17:30",
+   "home": "NH Ostrava",
+   "away": "BK Opava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 12,
+   "date": "2026-11-14",
+   "homeSlug": "ostrava",
+   "awaySlug": "opava",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Opava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544615",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544613,
+   "fibaId": null,
+   "round": "12.",
+   "phase": "Základní část",
+   "datetime": "2026-11-14T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 12,
+   "date": "2026-11-14",
+   "homeSlug": "decin",
+   "awaySlug": "plzen",
+   "homeLabel": "Děčín",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544613",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544617,
+   "fibaId": null,
+   "round": "12.",
+   "phase": "Základní část",
+   "datetime": "2026-11-14T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 12,
+   "date": "2026-11-14",
+   "homeSlug": "hradec",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Hradec",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544617",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544616,
+   "fibaId": null,
+   "round": "12.",
+   "phase": "Základní část",
+   "datetime": "2026-11-14T18:30:00+01:00",
+   "time": "18:30",
+   "home": "PUMPA Basket Brno",
+   "away": "BK KVIS Pardubice",
+   "score": null,
+   "quarters": null,
+   "roundNum": 12,
+   "date": "2026-11-14",
+   "homeSlug": "brno",
+   "awaySlug": "pardubice",
+   "homeLabel": "Brno",
+   "awayLabel": "Pardubice",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544616",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544614,
+   "fibaId": null,
+   "round": "12.",
+   "phase": "Základní část",
+   "datetime": "2026-11-15T15:00:00+01:00",
+   "time": "15:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "USK Praha",
+   "score": null,
+   "quarters": null,
+   "roundNum": 12,
+   "date": "2026-11-15",
+   "homeSlug": "slavia",
+   "awaySlug": "usk",
+   "homeLabel": "Slavia",
+   "awayLabel": "USK",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544614",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544612,
+   "fibaId": null,
+   "round": "12. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-11-15T17:00:00+01:00",
+   "time": "17:00",
+   "home": "Sršni Photomate Písek",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 12,
+   "date": "2026-11-15",
+   "homeSlug": "pisek",
+   "awaySlug": "usti",
+   "homeLabel": "Písek",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544612",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544620,
+   "fibaId": null,
+   "round": "13.",
+   "phase": "Základní část",
+   "datetime": "2026-11-18T17:00:00+01:00",
+   "time": "17:00",
+   "home": "PUMPA Basket Brno",
+   "away": "NH Ostrava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 13,
+   "date": "2026-11-18",
+   "homeSlug": "brno",
+   "awaySlug": "ostrava",
+   "homeLabel": "Brno",
+   "awayLabel": "Ostrava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544620",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544622,
+   "fibaId": null,
+   "round": "13.",
+   "phase": "Základní část",
+   "datetime": "2026-11-18T18:00:00+01:00",
+   "time": "18:00",
+   "home": "USK Praha",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": null,
+   "quarters": null,
+   "roundNum": 13,
+   "date": "2026-11-18",
+   "homeSlug": "usk",
+   "awaySlug": "decin",
+   "homeLabel": "USK",
+   "awayLabel": "Děčín",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544622",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544623,
+   "fibaId": null,
+   "round": "13.",
+   "phase": "Základní část",
+   "datetime": "2026-11-18T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 13,
+   "date": "2026-11-18",
+   "homeSlug": "plzen",
+   "awaySlug": "usti",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544623",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544618,
+   "fibaId": null,
+   "round": "13. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-11-18T19:00:00+01:00",
+   "time": "19:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "Sršni Photomate Písek",
+   "score": null,
+   "quarters": null,
+   "roundNum": 13,
+   "date": "2026-11-18",
+   "homeSlug": "hradec",
+   "awaySlug": "pisek",
+   "homeLabel": "Hradec",
+   "awayLabel": "Písek",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544618",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544627,
+   "fibaId": null,
+   "round": "14.",
+   "phase": "Základní část",
+   "datetime": "2026-11-21T15:00:00+01:00",
+   "time": "15:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "PUMPA Basket Brno",
+   "score": null,
+   "quarters": null,
+   "roundNum": 14,
+   "date": "2026-11-21",
+   "homeSlug": "slavia",
+   "awaySlug": "brno",
+   "homeLabel": "Slavia",
+   "awayLabel": "Brno",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544627",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544626,
+   "fibaId": null,
+   "round": "14.",
+   "phase": "Základní část",
+   "datetime": "2026-11-21T17:00:00+01:00",
+   "time": "17:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "BK Opava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 14,
+   "date": "2026-11-21",
+   "homeSlug": "decin",
+   "awaySlug": "opava",
+   "homeLabel": "Děčín",
+   "awayLabel": "Opava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544626",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544628,
+   "fibaId": null,
+   "round": "14.",
+   "phase": "Základní část",
+   "datetime": "2026-11-21T17:30:00+01:00",
+   "time": "17:30",
+   "home": "NH Ostrava",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 14,
+   "date": "2026-11-21",
+   "homeSlug": "ostrava",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544628",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544629,
+   "fibaId": null,
+   "round": "14.",
+   "phase": "Základní část",
+   "datetime": "2026-11-21T17:30:00+01:00",
+   "time": "17:30",
+   "home": "BK KVIS Pardubice",
+   "away": "BK GAPA Hradec Králové",
+   "score": null,
+   "quarters": null,
+   "roundNum": 14,
+   "date": "2026-11-21",
+   "homeSlug": "pardubice",
+   "awaySlug": "hradec",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Hradec",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544629",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544624,
+   "fibaId": null,
+   "round": "14. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-11-22T18:00:00+01:00",
+   "time": "18:00",
+   "home": "Sršni Photomate Písek",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 14,
+   "date": "2026-11-22",
+   "homeSlug": "pisek",
+   "awaySlug": "plzen",
+   "homeLabel": "Písek",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544624",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544625,
+   "fibaId": null,
+   "round": "14.",
+   "phase": "Základní část",
+   "datetime": "2026-11-22T18:00:00+01:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "USK Praha",
+   "score": null,
+   "quarters": null,
+   "roundNum": 14,
+   "date": "2026-11-22",
+   "homeSlug": "usti",
+   "awaySlug": "usk",
+   "homeLabel": "Ústí",
+   "awayLabel": "USK",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544625",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544648,
+   "fibaId": null,
+   "round": "18. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-12-02T18:00:00+01:00",
+   "time": "18:00",
+   "home": "Sršni Photomate Písek",
+   "away": "BK Opava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 18,
+   "date": "2026-12-02",
+   "homeSlug": "pisek",
+   "awaySlug": "opava",
+   "homeLabel": "Písek",
+   "awayLabel": "Opava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544648",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544635,
+   "fibaId": null,
+   "round": "15.",
+   "phase": "Základní část",
+   "datetime": "2026-12-05T17:30:00+01:00",
+   "time": "17:30",
+   "home": "USK Praha",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 15,
+   "date": "2026-12-05",
+   "homeSlug": "usk",
+   "awaySlug": "plzen",
+   "homeLabel": "USK",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544635",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544631,
+   "fibaId": null,
+   "round": "15.",
+   "phase": "Základní část",
+   "datetime": "2026-12-05T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "NH Ostrava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 15,
+   "date": "2026-12-05",
+   "homeSlug": "hradec",
+   "awaySlug": "ostrava",
+   "homeLabel": "Hradec",
+   "awayLabel": "Ostrava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544631",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544632,
+   "fibaId": null,
+   "round": "15.",
+   "phase": "Základní část",
+   "datetime": "2026-12-05T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Olomoucko",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": null,
+   "quarters": null,
+   "roundNum": 15,
+   "date": "2026-12-05",
+   "homeSlug": "olomoucko",
+   "awaySlug": "slavia",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Slavia",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544632",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544633,
+   "fibaId": null,
+   "round": "15.",
+   "phase": "Základní část",
+   "datetime": "2026-12-05T18:00:00+01:00",
+   "time": "18:00",
+   "home": "PUMPA Basket Brno",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": null,
+   "quarters": null,
+   "roundNum": 15,
+   "date": "2026-12-05",
+   "homeSlug": "brno",
+   "awaySlug": "decin",
+   "homeLabel": "Brno",
+   "awayLabel": "Děčín",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544633",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544634,
+   "fibaId": null,
+   "round": "15.",
+   "phase": "Základní část",
+   "datetime": "2026-12-05T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Opava",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 15,
+   "date": "2026-12-05",
+   "homeSlug": "opava",
+   "awaySlug": "usti",
+   "homeLabel": "Opava",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544634",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544630,
+   "fibaId": null,
+   "round": "15. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-12-05T18:30:00+01:00",
+   "time": "18:30",
+   "home": "BK KVIS Pardubice",
+   "away": "Sršni Photomate Písek",
+   "score": null,
+   "quarters": null,
+   "roundNum": 15,
+   "date": "2026-12-05",
+   "homeSlug": "pardubice",
+   "awaySlug": "pisek",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Písek",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544630",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544595,
+   "fibaId": null,
+   "round": "9.",
+   "phase": "Základní část",
+   "datetime": "2026-12-07T17:00:00+01:00",
+   "time": "17:00",
+   "home": "BK Olomoucko",
+   "away": "BK Opava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 9,
+   "date": "2026-12-07",
+   "homeSlug": "olomoucko",
+   "awaySlug": "opava",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Opava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544595",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544640,
+   "fibaId": null,
+   "round": "16.",
+   "phase": "Základní část",
+   "datetime": "2026-12-10T18:00:00+01:00",
+   "time": "18:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "BK GAPA Hradec Králové",
+   "score": null,
+   "quarters": null,
+   "roundNum": 16,
+   "date": "2026-12-10",
+   "homeSlug": "slavia",
+   "awaySlug": "hradec",
+   "homeLabel": "Slavia",
+   "awayLabel": "Hradec",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544640",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544641,
+   "fibaId": null,
+   "round": "16.",
+   "phase": "Základní část",
+   "datetime": "2026-12-12T17:30:00+01:00",
+   "time": "17:30",
+   "home": "NH Ostrava",
+   "away": "BK KVIS Pardubice",
+   "score": null,
+   "quarters": null,
+   "roundNum": 16,
+   "date": "2026-12-12",
+   "homeSlug": "ostrava",
+   "awaySlug": "pardubice",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Pardubice",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544641",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544638,
+   "fibaId": null,
+   "round": "16.",
+   "phase": "Základní část",
+   "datetime": "2026-12-12T18:00:00+01:00",
+   "time": "18:00",
+   "home": "PUMPA Basket Brno",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 16,
+   "date": "2026-12-12",
+   "homeSlug": "brno",
+   "awaySlug": "usti",
+   "homeLabel": "Brno",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544638",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544639,
+   "fibaId": null,
+   "round": "16.",
+   "phase": "Základní část",
+   "datetime": "2026-12-12T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 16,
+   "date": "2026-12-12",
+   "homeSlug": "decin",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Děčín",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544639",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544636,
+   "fibaId": null,
+   "round": "16. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-12-13T17:00:00+01:00",
+   "time": "17:00",
+   "home": "Sršni Photomate Písek",
+   "away": "USK Praha",
+   "score": null,
+   "quarters": null,
+   "roundNum": 16,
+   "date": "2026-12-13",
+   "homeSlug": "pisek",
+   "awaySlug": "usk",
+   "homeLabel": "Písek",
+   "awayLabel": "USK",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544636",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544637,
+   "fibaId": null,
+   "round": "16.",
+   "phase": "Základní část",
+   "datetime": "2026-12-13T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "BK Opava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 16,
+   "date": "2026-12-13",
+   "homeSlug": "plzen",
+   "awaySlug": "opava",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Opava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544637",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544653,
+   "fibaId": null,
+   "round": "18.",
+   "phase": "Základní část",
+   "datetime": "2026-12-14T18:00:00+01:00",
+   "time": "18:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "NH Ostrava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 18,
+   "date": "2026-12-14",
+   "homeSlug": "slavia",
+   "awaySlug": "ostrava",
+   "homeLabel": "Slavia",
+   "awayLabel": "Ostrava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544653",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544646,
+   "fibaId": null,
+   "round": "17.",
+   "phase": "Základní část",
+   "datetime": "2026-12-18T16:30:00+01:00",
+   "time": "16:30",
+   "home": "PUMPA Basket Brno",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 17,
+   "date": "2026-12-18",
+   "homeSlug": "brno",
+   "awaySlug": "plzen",
+   "homeLabel": "Brno",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544646",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544642,
+   "fibaId": null,
+   "round": "17. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-12-19T17:30:00+01:00",
+   "time": "17:30",
+   "home": "NH Ostrava",
+   "away": "Sršni Photomate Písek",
+   "score": null,
+   "quarters": null,
+   "roundNum": 17,
+   "date": "2026-12-19",
+   "homeSlug": "ostrava",
+   "awaySlug": "pisek",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Písek",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544642",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544643,
+   "fibaId": null,
+   "round": "17.",
+   "phase": "Základní část",
+   "datetime": "2026-12-19T17:30:00+01:00",
+   "time": "17:30",
+   "home": "BK KVIS Pardubice",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": null,
+   "quarters": null,
+   "roundNum": 17,
+   "date": "2026-12-19",
+   "homeSlug": "pardubice",
+   "awaySlug": "slavia",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Slavia",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544643",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544647,
+   "fibaId": null,
+   "round": "17.",
+   "phase": "Základní část",
+   "datetime": "2026-12-19T17:30:00+01:00",
+   "time": "17:30",
+   "home": "BK Opava",
+   "away": "USK Praha",
+   "score": null,
+   "quarters": null,
+   "roundNum": 17,
+   "date": "2026-12-19",
+   "homeSlug": "opava",
+   "awaySlug": "usk",
+   "homeLabel": "Opava",
+   "awayLabel": "USK",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544647",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544644,
+   "fibaId": null,
+   "round": "17.",
+   "phase": "Základní část",
+   "datetime": "2026-12-19T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "BK GAPA Hradec Králové",
+   "score": null,
+   "quarters": null,
+   "roundNum": 17,
+   "date": "2026-12-19",
+   "homeSlug": "decin",
+   "awaySlug": "hradec",
+   "homeLabel": "Děčín",
+   "awayLabel": "Hradec",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544644",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544645,
+   "fibaId": null,
+   "round": "17.",
+   "phase": "Základní část",
+   "datetime": "2026-12-20T17:00:00+01:00",
+   "time": "17:00",
+   "home": "BK Olomoucko",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 17,
+   "date": "2026-12-20",
+   "homeSlug": "olomoucko",
+   "awaySlug": "usti",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544645",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544651,
+   "fibaId": null,
+   "round": "18.",
+   "phase": "Základní část",
+   "datetime": "2026-12-22T17:30:00+01:00",
+   "time": "17:30",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "BK GAPA Hradec Králové",
+   "score": null,
+   "quarters": null,
+   "roundNum": 18,
+   "date": "2026-12-22",
+   "homeSlug": "usti",
+   "awaySlug": "hradec",
+   "homeLabel": "Ústí",
+   "awayLabel": "Hradec",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544651",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544649,
+   "fibaId": null,
+   "round": "18.",
+   "phase": "Základní část",
+   "datetime": "2026-12-22T18:00:00+01:00",
+   "time": "18:00",
+   "home": "USK Praha",
+   "away": "PUMPA Basket Brno",
+   "score": null,
+   "quarters": null,
+   "roundNum": 18,
+   "date": "2026-12-22",
+   "homeSlug": "usk",
+   "awaySlug": "brno",
+   "homeLabel": "USK",
+   "awayLabel": "Brno",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544649",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544650,
+   "fibaId": null,
+   "round": "18.",
+   "phase": "Základní část",
+   "datetime": "2026-12-22T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 18,
+   "date": "2026-12-22",
+   "homeSlug": "plzen",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544650",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544654,
+   "fibaId": null,
+   "round": "19. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-12-27T15:00:00+01:00",
+   "time": "15:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "Sršni Photomate Písek",
+   "score": null,
+   "quarters": null,
+   "roundNum": 19,
+   "date": "2026-12-27",
+   "homeSlug": "slavia",
+   "awaySlug": "pisek",
+   "homeLabel": "Slavia",
+   "awayLabel": "Písek",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544654",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544656,
+   "fibaId": null,
+   "round": "19.",
+   "phase": "Základní část",
+   "datetime": "2026-12-27T15:30:00+01:00",
+   "time": "15:30",
+   "home": "BK KVIS Pardubice",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 19,
+   "date": "2026-12-27",
+   "homeSlug": "pardubice",
+   "awaySlug": "usti",
+   "homeLabel": "Pardubice",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544656",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544658,
+   "fibaId": null,
+   "round": "19.",
+   "phase": "Základní část",
+   "datetime": "2026-12-27T17:00:00+01:00",
+   "time": "17:00",
+   "home": "BK Olomoucko",
+   "away": "USK Praha",
+   "score": null,
+   "quarters": null,
+   "roundNum": 19,
+   "date": "2026-12-27",
+   "homeSlug": "olomoucko",
+   "awaySlug": "usk",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "USK",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544658",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544655,
+   "fibaId": null,
+   "round": "19.",
+   "phase": "Základní část",
+   "datetime": "2026-12-27T17:45:00+01:00",
+   "time": "17:45",
+   "home": "NH Ostrava",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": null,
+   "quarters": null,
+   "roundNum": 19,
+   "date": "2026-12-27",
+   "homeSlug": "ostrava",
+   "awaySlug": "decin",
+   "homeLabel": "Ostrava",
+   "awayLabel": "Děčín",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544655",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544657,
+   "fibaId": null,
+   "round": "19.",
+   "phase": "Základní část",
+   "datetime": "2026-12-27T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "BK Loko BaliMania Plzeň",
+   "score": null,
+   "quarters": null,
+   "roundNum": 19,
+   "date": "2026-12-27",
+   "homeSlug": "hradec",
+   "awaySlug": "plzen",
+   "homeLabel": "Hradec",
+   "awayLabel": "Plzeň",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544657",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544659,
+   "fibaId": null,
+   "round": "19.",
+   "phase": "Základní část",
+   "datetime": "2026-12-27T19:00:00+01:00",
+   "time": "19:00",
+   "home": "PUMPA Basket Brno",
+   "away": "BK Opava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 19,
+   "date": "2026-12-27",
+   "homeSlug": "brno",
+   "awaySlug": "opava",
+   "homeLabel": "Brno",
+   "awayLabel": "Opava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544659",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544660,
+   "fibaId": null,
+   "round": "20. kolo",
+   "phase": "Základní část",
+   "datetime": "2026-12-30T18:00:00+01:00",
+   "time": "18:00",
+   "home": "Sršni Photomate Písek",
+   "away": "PUMPA Basket Brno",
+   "score": null,
+   "quarters": null,
+   "roundNum": 20,
+   "date": "2026-12-30",
+   "homeSlug": "pisek",
+   "awaySlug": "brno",
+   "homeLabel": "Písek",
+   "awayLabel": "Brno",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544660",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544661,
+   "fibaId": null,
+   "round": "20.",
+   "phase": "Základní část",
+   "datetime": "2026-12-30T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Opava",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 20,
+   "date": "2026-12-30",
+   "homeSlug": "opava",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Opava",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544661",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544662,
+   "fibaId": null,
+   "round": "20.",
+   "phase": "Základní část",
+   "datetime": "2026-12-30T18:00:00+01:00",
+   "time": "18:00",
+   "home": "USK Praha",
+   "away": "BK GAPA Hradec Králové",
+   "score": null,
+   "quarters": null,
+   "roundNum": 20,
+   "date": "2026-12-30",
+   "homeSlug": "usk",
+   "awaySlug": "hradec",
+   "homeLabel": "USK",
+   "awayLabel": "Hradec",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544662",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544663,
+   "fibaId": null,
+   "round": "20.",
+   "phase": "Základní část",
+   "datetime": "2026-12-30T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "BK KVIS Pardubice",
+   "score": null,
+   "quarters": null,
+   "roundNum": 20,
+   "date": "2026-12-30",
+   "homeSlug": "plzen",
+   "awaySlug": "pardubice",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Pardubice",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544663",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544664,
+   "fibaId": null,
+   "round": "20.",
+   "phase": "Základní část",
+   "datetime": "2026-12-30T18:00:00+01:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "NH Ostrava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 20,
+   "date": "2026-12-30",
+   "homeSlug": "usti",
+   "awaySlug": "ostrava",
+   "homeLabel": "Ústí",
+   "awayLabel": "Ostrava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544664",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544665,
+   "fibaId": null,
+   "round": "20.",
+   "phase": "Základní část",
+   "datetime": "2026-12-30T18:30:00+01:00",
+   "time": "18:30",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": null,
+   "quarters": null,
+   "roundNum": 20,
+   "date": "2026-12-30",
+   "homeSlug": "decin",
+   "awaySlug": "slavia",
+   "homeLabel": "Děčín",
+   "awayLabel": "Slavia",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544665",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544667,
+   "fibaId": null,
+   "round": "21.",
+   "phase": "Základní část",
+   "datetime": "2027-01-02T15:00:00+01:00",
+   "time": "15:00",
+   "home": "SK Slavia Praha ERA NBK",
+   "away": "SLUNETA Ústí nad Labem",
+   "score": null,
+   "quarters": null,
+   "roundNum": 21,
+   "date": "2027-01-02",
+   "homeSlug": "slavia",
+   "awaySlug": "usti",
+   "homeLabel": "Slavia",
+   "awayLabel": "Ústí",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544667",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544666,
+   "fibaId": null,
+   "round": "21. kolo",
+   "phase": "Základní část",
+   "datetime": "2027-01-02T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK ARMEX ENERGY Děčín",
+   "away": "Sršni Photomate Písek",
+   "score": null,
+   "quarters": null,
+   "roundNum": 21,
+   "date": "2027-01-02",
+   "homeSlug": "decin",
+   "awaySlug": "pisek",
+   "homeLabel": "Děčín",
+   "awayLabel": "Písek",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544666",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544670,
+   "fibaId": null,
+   "round": "21.",
+   "phase": "Základní část",
+   "datetime": "2027-01-02T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "BK Opava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 21,
+   "date": "2027-01-02",
+   "homeSlug": "hradec",
+   "awaySlug": "opava",
+   "homeLabel": "Hradec",
+   "awayLabel": "Opava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544670",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544669,
+   "fibaId": null,
+   "round": "21.",
+   "phase": "Základní část",
+   "datetime": "2027-01-02T18:30:00+01:00",
+   "time": "18:30",
+   "home": "BK KVIS Pardubice",
+   "away": "USK Praha",
+   "score": null,
+   "quarters": null,
+   "roundNum": 21,
+   "date": "2027-01-02",
+   "homeSlug": "pardubice",
+   "awaySlug": "usk",
+   "homeLabel": "Pardubice",
+   "awayLabel": "USK",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544669",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544671,
+   "fibaId": null,
+   "round": "21.",
+   "phase": "Základní část",
+   "datetime": "2027-01-03T17:00:00+01:00",
+   "time": "17:00",
+   "home": "BK Olomoucko",
+   "away": "PUMPA Basket Brno",
+   "score": null,
+   "quarters": null,
+   "roundNum": 21,
+   "date": "2027-01-03",
+   "homeSlug": "olomoucko",
+   "awaySlug": "brno",
+   "homeLabel": "Olomoucko",
+   "awayLabel": "Brno",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544671",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544668,
+   "fibaId": null,
+   "round": "21.",
+   "phase": "Základní část",
+   "datetime": "2027-01-03T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "NH Ostrava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 21,
+   "date": "2027-01-03",
+   "homeSlug": "plzen",
+   "awaySlug": "ostrava",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Ostrava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544668",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544672,
+   "fibaId": null,
+   "round": "22. kolo",
+   "phase": "Základní část",
+   "datetime": "2027-01-09T18:00:00+01:00",
+   "time": "18:00",
+   "home": "Sršni Photomate Písek",
+   "away": "BK Olomoucko",
+   "score": null,
+   "quarters": null,
+   "roundNum": 22,
+   "date": "2027-01-09",
+   "homeSlug": "pisek",
+   "awaySlug": "olomoucko",
+   "homeLabel": "Písek",
+   "awayLabel": "Olomoucko",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544672",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544673,
+   "fibaId": null,
+   "round": "22.",
+   "phase": "Základní část",
+   "datetime": "2027-01-09T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK GAPA Hradec Králové",
+   "away": "PUMPA Basket Brno",
+   "score": null,
+   "quarters": null,
+   "roundNum": 22,
+   "date": "2027-01-09",
+   "homeSlug": "hradec",
+   "awaySlug": "brno",
+   "homeLabel": "Hradec",
+   "awayLabel": "Brno",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544673",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544674,
+   "fibaId": null,
+   "round": "22.",
+   "phase": "Základní část",
+   "datetime": "2027-01-09T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Opava",
+   "away": "BK KVIS Pardubice",
+   "score": null,
+   "quarters": null,
+   "roundNum": 22,
+   "date": "2027-01-09",
+   "homeSlug": "opava",
+   "awaySlug": "pardubice",
+   "homeLabel": "Opava",
+   "awayLabel": "Pardubice",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544674",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544675,
+   "fibaId": null,
+   "round": "22.",
+   "phase": "Základní část",
+   "datetime": "2027-01-09T18:00:00+01:00",
+   "time": "18:00",
+   "home": "USK Praha",
+   "away": "NH Ostrava",
+   "score": null,
+   "quarters": null,
+   "roundNum": 22,
+   "date": "2027-01-09",
+   "homeSlug": "usk",
+   "awaySlug": "ostrava",
+   "homeLabel": "USK",
+   "awayLabel": "Ostrava",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544675",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544676,
+   "fibaId": null,
+   "round": "22.",
+   "phase": "Základní část",
+   "datetime": "2027-01-09T18:00:00+01:00",
+   "time": "18:00",
+   "home": "BK Loko BaliMania Plzeň",
+   "away": "SK Slavia Praha ERA NBK",
+   "score": null,
+   "quarters": null,
+   "roundNum": 22,
+   "date": "2027-01-09",
+   "homeSlug": "plzen",
+   "awaySlug": "slavia",
+   "homeLabel": "Plzeň",
+   "awayLabel": "Slavia",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544676",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  },
+  {
+   "nblId": 544677,
+   "fibaId": null,
+   "round": "22.",
+   "phase": "Základní část",
+   "datetime": "2027-01-09T18:00:00+01:00",
+   "time": "18:00",
+   "home": "SLUNETA Ústí nad Labem",
+   "away": "BK ARMEX ENERGY Děčín",
+   "score": null,
+   "quarters": null,
+   "roundNum": 22,
+   "date": "2027-01-09",
+   "homeSlug": "usti",
+   "awaySlug": "decin",
+   "homeLabel": "Ústí",
+   "awayLabel": "Děčín",
+   "status": "scheduled",
+   "links": {
+    "nbl": "https://nbl.basketball/zapas/544677",
+    "livestats": null,
+    "fibaData": null,
+    "stats": null
+   },
+   "hasStats": false
+  }
+ ]
+}
