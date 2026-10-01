@@ -61,6 +61,7 @@ class Parse(unittest.TestCase):
                                "home": "BK Opava", "away": "NH Ostrava", "score": {"home": 1, "away": 0}})
         self.assertEqual((f["homeSlug"], f["awaySlug"], f["roundNum"], f["status"]), ("opava", "ostrava", 3, "final"))
         self.assertTrue(f["links"]["fibaData"].endswith("/5/data.json"))
+        self.assertEqual(schedule.finalize({"nblId": 2, "round": "7.", "datetime": "2026-10-17T19:00:00+02:00"})["round"], "7. kolo")
 
 
 class Pure(unittest.TestCase):

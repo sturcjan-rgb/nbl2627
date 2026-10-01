@@ -281,6 +281,8 @@ def finalize(f: dict, now: datetime | None = None) -> dict:
     now = now or datetime.now(timezone.utc)
     rm = re.match(r"(\d+)", f.get("round") or "")
     f["roundNum"] = int(rm.group(1)) if rm else None
+    if rm and re.fullmatch(r"\d+\.?", (f.get("round") or "").strip()):
+        f["round"] = f"{rm.group(1)}. kolo"  # ligový rozpis píše jen „1.“, týmová stránka „1. kolo“
     if f.get("datetime"):
         f["date"] = f["datetime"][:10]
     hs, hl = identify(f.get("home") or "")
