@@ -8,6 +8,22 @@ každý zápas, hráče, tabulku a žebříčky, plus **živé statistiky** prá
 Čistý Python (3.11+), jediné závislosti jsou `requests`, `beautifulsoup4`, `lxml` (jen pro scraper
 rozpisu; samotné metriky jsou bez závislostí).
 
+## Web
+
+`index.html` + `assets/` je statický frontend (bez buildu) nad JSONy v `data/` a živou větví `live`:
+
+- **Přehled** — tabulka, dnešní živé zápasy (obnovuje se samo), nejbližší zápasy, poslední výsledky, lídři ligy
+- **Zápasy** — všechna kola, filtr podle týmu a stavu
+- **Týmy** — srovnání všech týmů (útok/obrana, four factors, střelba, průměry, clutch a čas útoku) s pořadím v lize a ligovým průměrem, řazení kliknutím na sloupec
+- **Hráči** — všichni hráči ligy (na zápas, pokročilé, součty, na 40 min), hledání a filtry
+- **Žebříčky**
+- **Tým** — ratingy s pořadím, four factors vs. liga, čtvrtiny, hráči, zóny, čas útoku, pětky/trojice/dvojice, asistence, zápasy
+- **Zápas** — skóre, průběh (graf rozdílu), four factors, body podle typu, série, clutch, box score s TS/USG/EFF/on-off, střelecká mapa, čas útoku, sestavy, asistence; u běžícího zápasu se každých 5 s obnovuje z větve `live` (kdo je na hřišti, fauly, série)
+
+Zveřejnění: **Settings → Pages → Build and deployment → Deploy from a branch → výchozí větev, složka `/ (root)`**.
+Web pak běží na `https://sturcjan-rgb.github.io/nbl2627/` a data čte relativně. Lokálně:
+`python3 -m http.server` a otevřít `http://localhost:8000/`.
+
 ## Jak to běží
 
 | Workflow | Kdy | Co dělá |

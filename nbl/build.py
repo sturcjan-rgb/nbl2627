@@ -159,6 +159,8 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
     if fetch:
         st = fetch_games(sdir, fixtures)
         print(f"FIBA: {st}")
+    for f in fixtures:
+        schedule.finalize(f)
     games = analyze_archive(sdir, fixtures)
     final_games = [g for g in games if g["status"] == "final"]
 
