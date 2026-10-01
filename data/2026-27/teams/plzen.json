@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-01T05:29:32+00:00",
+ "generatedAt": "2026-10-01T05:51:21+00:00",
  "slug": "plzen",
  "name": "BK Loko BaliMania Plzeň",
  "label": "Plzeň",
@@ -310,7 +310,8 @@
     "drtg": 138.2,
     "net": -46.4,
     "efg": 38.2,
-    "oefg": 58.6
+    "oefg": 58.6,
+    "games": 3
    },
    {
     "players": [
@@ -331,7 +332,8 @@
     "drtg": 99.6,
     "net": -19.2,
     "efg": 38.9,
-    "oefg": 44.7
+    "oefg": 44.7,
+    "games": 2
    },
    {
     "players": [
@@ -352,7 +354,8 @@
     "drtg": 126.6,
     "net": -11.7,
     "efg": 66.7,
-    "oefg": 60.0
+    "oefg": 60.0,
+    "games": 4
    },
    {
     "players": [
@@ -373,7 +376,30 @@
     "drtg": 100.0,
     "net": 60.9,
     "efg": 46.2,
-    "oefg": 62.5
+    "oefg": 62.5,
+    "games": 1
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Eyisi Onyinyechi Brown",
+     "František Váňa",
+     "Michal Svojanovský",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 5.0,
+    "pf": 5,
+    "pa": 11,
+    "pm": -6,
+    "poss": 10.1,
+    "pF": 10.0,
+    "pA": 10.2,
+    "ortg": 50.0,
+    "drtg": 107.8,
+    "net": -57.8,
+    "efg": 41.7,
+    "oefg": 66.7,
+    "games": 2
    },
    {
     "players": [
@@ -394,7 +420,140 @@
     "drtg": 135.1,
     "net": -21.5,
     "efg": 54.5,
-    "oefg": 83.3
+    "oefg": 83.3,
+    "games": 2
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
+     "Jiří Paidar",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 4.3,
+    "pf": 6,
+    "pa": 2,
+    "pm": 4,
+    "poss": 6.9,
+    "pF": 7.0,
+    "pA": 6.9,
+    "ortg": 85.7,
+    "drtg": 29.1,
+    "net": 56.6,
+    "efg": 33.3,
+    "oefg": 16.7,
+    "games": 1
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "František Váňa",
+     "Michal Svojanovský",
+     "Troy Thomas Dˇamico",
+     "Václav Honomichl"
+    ],
+    "min": 4.2,
+    "pf": 9,
+    "pa": 15,
+    "pm": -6,
+    "poss": 8.7,
+    "pF": 8.8,
+    "pA": 8.6,
+    "ortg": 102.7,
+    "drtg": 173.6,
+    "net": -70.9,
+    "efg": 50.0,
+    "oefg": 71.4,
+    "games": 3
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jakub Kojzar",
+     "Jan Matušík",
+     "Jiří Paidar",
+     "Juraj Palenik"
+    ],
+    "min": 4.2,
+    "pf": 11,
+    "pa": 14,
+    "pm": -3,
+    "poss": 8.3,
+    "pF": 7.9,
+    "pA": 8.8,
+    "ortg": 139.6,
+    "drtg": 159.8,
+    "net": -20.2,
+    "efg": 75.0,
+    "oefg": 68.8,
+    "games": 2
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "František Váňa",
+     "Jakub Kojzar",
+     "Juraj Palenik",
+     "Michal Svojanovský"
+    ],
+    "min": 3.8,
+    "pf": 9,
+    "pa": 3,
+    "pm": 6,
+    "poss": 7.4,
+    "pF": 7.9,
+    "pA": 6.9,
+    "ortg": 114.2,
+    "drtg": 43.6,
+    "net": 70.6,
+    "efg": 38.9,
+    "oefg": 20.0,
+    "games": 1
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jakub Kojzar",
+     "Jiří Paidar",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 3.8,
+    "pf": 11,
+    "pa": 9,
+    "pm": 2,
+    "poss": 6.9,
+    "pF": 7.0,
+    "pA": 6.9,
+    "ortg": 158.0,
+    "drtg": 130.8,
+    "net": 27.2,
+    "efg": 50.0,
+    "oefg": 80.0,
+    "games": 1
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jakub Kojzar",
+     "Jiří Paidar",
+     "Juraj Palenik",
+     "Michal Svojanovský"
+    ],
+    "min": 2.9,
+    "pf": 14,
+    "pa": 9,
+    "pm": 5,
+    "poss": 5.9,
+    "pF": 7.0,
+    "pA": 4.9,
+    "ortg": 200.0,
+    "drtg": 184.4,
+    "net": 15.6,
+    "efg": 100.0,
+    "oefg": 100.0,
+    "games": 2
    }
   ],
   "trios": [
@@ -1290,6 +1449,804 @@
     "net": -37.4,
     "efg": 57.5,
     "oefg": 71.9
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Michal Svojanovský",
+     "Václav Honomichl"
+    ],
+    "min": 9.8,
+    "pf": 17,
+    "pa": 31,
+    "pm": -14,
+    "poss": 23.4,
+    "pF": 23.3,
+    "pA": 23.5,
+    "ortg": 73.0,
+    "drtg": 131.8,
+    "net": -58.8,
+    "efg": 35.7,
+    "oefg": 66.7
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Jan Matušík",
+     "Juraj Palenik"
+    ],
+    "min": 9.0,
+    "pf": 19,
+    "pa": 27,
+    "pm": -8,
+    "poss": 22.1,
+    "pF": 20.8,
+    "pA": 23.3,
+    "ortg": 91.2,
+    "drtg": 116.0,
+    "net": -24.8,
+    "efg": 36.7,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Michal Svojanovský",
+     "Václav Honomichl"
+    ],
+    "min": 8.8,
+    "pf": 6,
+    "pa": 20,
+    "pm": -14,
+    "poss": 18.3,
+    "pF": 18.8,
+    "pA": 17.8,
+    "ortg": 32.0,
+    "drtg": 112.6,
+    "net": -80.6,
+    "efg": 11.1,
+    "oefg": 53.1
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jan Matušík",
+     "Jiří Paidar"
+    ],
+    "min": 8.8,
+    "pf": 16,
+    "pa": 26,
+    "pm": -10,
+    "poss": 18.5,
+    "pF": 17.9,
+    "pA": 19.2,
+    "ortg": 89.5,
+    "drtg": 135.7,
+    "net": -46.2,
+    "efg": 43.8,
+    "oefg": 53.6
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jan Matušík",
+     "Juraj Palenik"
+    ],
+    "min": 8.6,
+    "pf": 12,
+    "pa": 13,
+    "pm": -1,
+    "poss": 16.7,
+    "pF": 16.2,
+    "pA": 17.2,
+    "ortg": 74.1,
+    "drtg": 75.6,
+    "net": -1.5,
+    "efg": 40.9,
+    "oefg": 32.1
+   },
+   {
+    "players": [
+     "Jiří Paidar",
+     "Michal Svojanovský",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 8.6,
+    "pf": 20,
+    "pa": 23,
+    "pm": -3,
+    "poss": 15.3,
+    "pF": 16.1,
+    "pA": 14.5,
+    "ortg": 124.4,
+    "drtg": 158.4,
+    "net": -34.0,
+    "efg": 56.2,
+    "oefg": 71.4
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
+     "Juraj Palenik"
+    ],
+    "min": 8.6,
+    "pf": 18,
+    "pa": 16,
+    "pm": 2,
+    "poss": 15.4,
+    "pF": 14.9,
+    "pA": 16.0,
+    "ortg": 121.0,
+    "drtg": 100.3,
+    "net": 20.7,
+    "efg": 47.2,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 8.4,
+    "pf": 9,
+    "pa": 7,
+    "pm": 2,
+    "poss": 14.8,
+    "pF": 15.0,
+    "pA": 14.6,
+    "ortg": 60.0,
+    "drtg": 47.8,
+    "net": 12.2,
+    "efg": 30.0,
+    "oefg": 27.3
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Jan Matušík",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 8.1,
+    "pf": 12,
+    "pa": 21,
+    "pm": -9,
+    "poss": 17.6,
+    "pF": 17.5,
+    "pA": 17.6,
+    "ortg": 68.5,
+    "drtg": 119.0,
+    "net": -50.6,
+    "efg": 16.7,
+    "oefg": 60.0
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "František Váňa",
+     "Václav Honomichl"
+    ],
+    "min": 7.9,
+    "pf": 13,
+    "pa": 28,
+    "pm": -15,
+    "poss": 18.5,
+    "pF": 18.4,
+    "pA": 18.5,
+    "ortg": 70.7,
+    "drtg": 151.2,
+    "net": -80.5,
+    "efg": 33.3,
+    "oefg": 75.0
+   },
+   {
+    "players": [
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico",
+     "Václav Honomichl"
+    ],
+    "min": 7.9,
+    "pf": 13,
+    "pa": 17,
+    "pm": -4,
+    "poss": 16.5,
+    "pF": 16.2,
+    "pA": 16.9,
+    "ortg": 80.2,
+    "drtg": 100.7,
+    "net": -20.5,
+    "efg": 36.1,
+    "oefg": 57.7
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Eyisi Onyinyechi Brown",
+     "Michal Svojanovský"
+    ],
+    "min": 7.7,
+    "pf": 10,
+    "pa": 14,
+    "pm": -4,
+    "poss": 17.2,
+    "pF": 16.4,
+    "pA": 18.0,
+    "ortg": 60.8,
+    "drtg": 78.0,
+    "net": -17.1,
+    "efg": 40.9,
+    "oefg": 38.5
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Jan Matušík",
+     "Michal Svojanovský"
+    ],
+    "min": 7.7,
+    "pf": 17,
+    "pa": 10,
+    "pm": 7,
+    "poss": 16.2,
+    "pF": 16.6,
+    "pA": 15.8,
+    "ortg": 102.2,
+    "drtg": 63.5,
+    "net": 38.7,
+    "efg": 50.0,
+    "oefg": 33.3
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "František Váňa",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 7.6,
+    "pf": 20,
+    "pa": 10,
+    "pm": 10,
+    "poss": 14.5,
+    "pF": 14.2,
+    "pA": 14.9,
+    "ortg": 140.8,
+    "drtg": 67.2,
+    "net": 73.6,
+    "efg": 50.0,
+    "oefg": 38.5
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "František Váňa",
+     "Jan Matušík"
+    ],
+    "min": 7.5,
+    "pf": 14,
+    "pa": 17,
+    "pm": -3,
+    "poss": 17.6,
+    "pF": 17.7,
+    "pA": 17.4,
+    "ortg": 79.0,
+    "drtg": 97.5,
+    "net": -18.5,
+    "efg": 35.7,
+    "oefg": 57.1
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jan Matušík",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 7.5,
+    "pf": 10,
+    "pa": 17,
+    "pm": -7,
+    "poss": 15.5,
+    "pF": 15.8,
+    "pA": 15.3,
+    "ortg": 63.5,
+    "drtg": 111.3,
+    "net": -47.8,
+    "efg": 25.0,
+    "oefg": 40.0
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Troy Thomas Dˇamico",
+     "Václav Honomichl"
+    ],
+    "min": 7.3,
+    "pf": 9,
+    "pa": 25,
+    "pm": -16,
+    "poss": 14.9,
+    "pF": 14.8,
+    "pA": 15.1,
+    "ortg": 61.0,
+    "drtg": 165.8,
+    "net": -104.8,
+    "efg": 25.0,
+    "oefg": 66.7
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "František Váňa",
+     "Juraj Palenik"
+    ],
+    "min": 7.3,
+    "pf": 13,
+    "pa": 9,
+    "pm": 4,
+    "poss": 13.3,
+    "pF": 14.8,
+    "pA": 11.8,
+    "ortg": 88.1,
+    "drtg": 76.5,
+    "net": 11.5,
+    "efg": 33.3,
+    "oefg": 43.8
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jakub Kojzar",
+     "Jan Matušík"
+    ],
+    "min": 7.2,
+    "pf": 13,
+    "pa": 21,
+    "pm": -8,
+    "poss": 13.0,
+    "pF": 11.9,
+    "pA": 14.1,
+    "ortg": 109.4,
+    "drtg": 149.1,
+    "net": -39.7,
+    "efg": 50.0,
+    "oefg": 65.4
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jiří Paidar",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 6.9,
+    "pf": 13,
+    "pa": 21,
+    "pm": -8,
+    "poss": 12.4,
+    "pF": 11.8,
+    "pA": 13.1,
+    "ortg": 110.5,
+    "drtg": 160.6,
+    "net": -50.0,
+    "efg": 45.8,
+    "oefg": 63.3
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jiří Paidar",
+     "Juraj Palenik"
+    ],
+    "min": 6.8,
+    "pf": 11,
+    "pa": 19,
+    "pm": -8,
+    "poss": 13.1,
+    "pF": 13.1,
+    "pA": 13.2,
+    "ortg": 84.1,
+    "drtg": 143.9,
+    "net": -59.8,
+    "efg": 33.3,
+    "oefg": 53.8
+   },
+   {
+    "players": [
+     "Juraj Palenik",
+     "Michal Svojanovský",
+     "Václav Honomichl"
+    ],
+    "min": 6.8,
+    "pf": 13,
+    "pa": 14,
+    "pm": -1,
+    "poss": 13.9,
+    "pF": 14.8,
+    "pA": 13.0,
+    "ortg": 88.1,
+    "drtg": 107.7,
+    "net": -19.6,
+    "efg": 34.2,
+    "oefg": 58.3
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jiří Paidar",
+     "Michal Svojanovský"
+    ],
+    "min": 6.7,
+    "pf": 10,
+    "pa": 14,
+    "pm": -4,
+    "poss": 11.5,
+    "pF": 12.2,
+    "pA": 10.9,
+    "ortg": 82.0,
+    "drtg": 128.7,
+    "net": -46.7,
+    "efg": 44.4,
+    "oefg": 63.6
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
+     "Jiří Paidar"
+    ],
+    "min": 6.7,
+    "pf": 6,
+    "pa": 7,
+    "pm": -1,
+    "poss": 11.8,
+    "pF": 11.0,
+    "pA": 12.5,
+    "ortg": 54.5,
+    "drtg": 55.9,
+    "net": -1.4,
+    "efg": 23.1,
+    "oefg": 22.2
+   },
+   {
+    "players": [
+     "Jakub Ouředník",
+     "Troy Thomas Dˇamico",
+     "Václav Honomichl"
+    ],
+    "min": 6.6,
+    "pf": 9,
+    "pa": 20,
+    "pm": -11,
+    "poss": 13.7,
+    "pF": 12.3,
+    "pA": 15.1,
+    "ortg": 73.1,
+    "drtg": 132.6,
+    "net": -59.6,
+    "efg": 40.9,
+    "oefg": 66.7
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jan Matušík",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 6.4,
+    "pf": 14,
+    "pa": 9,
+    "pm": 5,
+    "poss": 13.3,
+    "pF": 11.8,
+    "pA": 14.8,
+    "ortg": 119.0,
+    "drtg": 61.0,
+    "net": 58.1,
+    "efg": 71.4,
+    "oefg": 35.0
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Troy Thomas Dˇamico",
+     "Václav Honomichl"
+    ],
+    "min": 6.2,
+    "pf": 13,
+    "pa": 18,
+    "pm": -5,
+    "poss": 13.6,
+    "pF": 13.6,
+    "pA": 13.6,
+    "ortg": 95.3,
+    "drtg": 132.0,
+    "net": -36.7,
+    "efg": 45.5,
+    "oefg": 59.1
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Troy Thomas Dˇamico",
+     "Václav Honomichl"
+    ],
+    "min": 6.2,
+    "pf": 3,
+    "pa": 16,
+    "pm": -13,
+    "poss": 13.6,
+    "pF": 14.3,
+    "pA": 12.9,
+    "ortg": 20.9,
+    "drtg": 124.2,
+    "net": -103.3,
+    "efg": 0.0,
+    "oefg": 62.5
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Juraj Palenik",
+     "Václav Honomichl"
+    ],
+    "min": 6.2,
+    "pf": 7,
+    "pa": 13,
+    "pm": -6,
+    "poss": 12.3,
+    "pF": 12.6,
+    "pA": 12.0,
+    "ortg": 55.4,
+    "drtg": 108.3,
+    "net": -53.0,
+    "efg": 15.4,
+    "oefg": 54.2
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Jan Matušík",
+     "Jiří Paidar"
+    ],
+    "min": 6.2,
+    "pf": 5,
+    "pa": 19,
+    "pm": -14,
+    "poss": 12.4,
+    "pF": 12.8,
+    "pA": 12.1,
+    "ortg": 39.2,
+    "drtg": 157.3,
+    "net": -118.1,
+    "efg": 9.1,
+    "oefg": 70.0
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Michal Svojanovský",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 6.0,
+    "pf": 5,
+    "pa": 12,
+    "pm": -7,
+    "poss": 12.5,
+    "pF": 12.0,
+    "pA": 13.1,
+    "ortg": 41.7,
+    "drtg": 91.7,
+    "net": -50.1,
+    "efg": 31.2,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jakub Ouředník",
+     "Jiří Paidar",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 6.0,
+    "pf": 13,
+    "pa": 20,
+    "pm": -7,
+    "poss": 13.1,
+    "pF": 14.3,
+    "pA": 12.0,
+    "ortg": 90.8,
+    "drtg": 167.2,
+    "net": -76.4,
+    "efg": 55.6,
+    "oefg": 83.3
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Eyisi Onyinyechi Brown",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 5.7,
+    "pf": 5,
+    "pa": 11,
+    "pm": -6,
+    "poss": 11.6,
+    "pF": 11.0,
+    "pA": 12.2,
+    "ortg": 45.5,
+    "drtg": 90.2,
+    "net": -44.7,
+    "efg": 35.7,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jiří Paidar",
+     "Michal Svojanovský"
+    ],
+    "min": 5.7,
+    "pf": 16,
+    "pa": 11,
+    "pm": 5,
+    "poss": 8.9,
+    "pF": 10.0,
+    "pA": 7.9,
+    "ortg": 160.0,
+    "drtg": 139.6,
+    "net": 20.4,
+    "efg": 72.7,
+    "oefg": 55.6
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Jiří Paidar",
+     "Michal Svojanovský"
+    ],
+    "min": 5.4,
+    "pf": 11,
+    "pa": 14,
+    "pm": -3,
+    "poss": 10.6,
+    "pF": 11.3,
+    "pA": 9.9,
+    "ortg": 97.2,
+    "drtg": 141.7,
+    "net": -44.5,
+    "efg": 41.7,
+    "oefg": 81.2
+   },
+   {
+    "players": [
+     "Jakub Ouředník",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 5.3,
+    "pf": 17,
+    "pa": 11,
+    "pm": 6,
+    "poss": 11.3,
+    "pF": 12.6,
+    "pA": 9.9,
+    "ortg": 134.5,
+    "drtg": 111.3,
+    "net": 23.2,
+    "efg": 63.6,
+    "oefg": 64.3
+   },
+   {
+    "players": [
+     "Juraj Palenik",
+     "Matěj Střelba",
+     "Michal Svojanovský"
+    ],
+    "min": 5.2,
+    "pf": 12,
+    "pa": 15,
+    "pm": -3,
+    "poss": 11.0,
+    "pF": 12.1,
+    "pA": 10.0,
+    "ortg": 99.3,
+    "drtg": 150.0,
+    "net": -50.7,
+    "efg": 45.0,
+    "oefg": 68.2
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Juraj Palenik",
+     "Michal Svojanovský"
+    ],
+    "min": 5.1,
+    "pf": 11,
+    "pa": 12,
+    "pm": -1,
+    "poss": 11.5,
+    "pF": 11.3,
+    "pA": 11.6,
+    "ortg": 97.2,
+    "drtg": 103.1,
+    "net": -5.9,
+    "efg": 44.4,
+    "oefg": 40.9
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Matěj Střelba",
+     "Michal Svojanovský"
+    ],
+    "min": 5.1,
+    "pf": 8,
+    "pa": 14,
+    "pm": -6,
+    "poss": 9.1,
+    "pF": 9.2,
+    "pA": 9.0,
+    "ortg": 87.0,
+    "drtg": 155.6,
+    "net": -68.6,
+    "efg": 25.0,
+    "oefg": 63.6
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jan Matušík",
+     "Michal Svojanovský"
+    ],
+    "min": 5.1,
+    "pf": 12,
+    "pa": 14,
+    "pm": -2,
+    "poss": 10.4,
+    "pF": 10.2,
+    "pA": 10.6,
+    "ortg": 117.6,
+    "drtg": 131.6,
+    "net": -13.9,
+    "efg": 56.2,
+    "oefg": 83.3
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Juraj Palenik",
+     "Matěj Střelba"
+    ],
+    "min": 5.0,
+    "pf": 7,
+    "pa": 15,
+    "pm": -8,
+    "poss": 9.4,
+    "pF": 9.8,
+    "pA": 9.0,
+    "ortg": 71.7,
+    "drtg": 166.7,
+    "net": -94.9,
+    "efg": 22.2,
+    "oefg": 75.0
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
+     "Michal Svojanovský"
+    ],
+    "min": 5.0,
+    "pf": 12,
+    "pa": 16,
+    "pm": -4,
+    "poss": 11.0,
+    "pF": 10.9,
+    "pA": 11.1,
+    "ortg": 110.3,
+    "drtg": 144.4,
+    "net": -34.1,
+    "efg": 55.0,
+    "oefg": 68.8
    }
   ],
   "pairs": [
@@ -1922,6 +2879,618 @@
     "net": -44.6,
     "efg": 42.6,
     "oefg": 63.0
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Václav Honomichl"
+    ],
+    "min": 13.8,
+    "pf": 19,
+    "pa": 48,
+    "pm": -29,
+    "poss": 31.0,
+    "pF": 30.2,
+    "pA": 31.8,
+    "ortg": 63.0,
+    "drtg": 150.8,
+    "net": -87.8,
+    "efg": 27.8,
+    "oefg": 72.2
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Václav Honomichl"
+    ],
+    "min": 12.8,
+    "pf": 14,
+    "pa": 32,
+    "pm": -18,
+    "poss": 26.7,
+    "pF": 27.7,
+    "pA": 25.8,
+    "ortg": 50.5,
+    "drtg": 124.2,
+    "net": -73.7,
+    "efg": 12.5,
+    "oefg": 60.4
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jiří Paidar"
+    ],
+    "min": 12.7,
+    "pf": 20,
+    "pa": 31,
+    "pm": -11,
+    "poss": 23.2,
+    "pF": 23.0,
+    "pA": 23.4,
+    "ortg": 87.1,
+    "drtg": 132.5,
+    "net": -45.4,
+    "efg": 41.7,
+    "oefg": 52.0
+   },
+   {
+    "players": [
+     "Juraj Palenik",
+     "Václav Honomichl"
+    ],
+    "min": 12.2,
+    "pf": 20,
+    "pa": 29,
+    "pm": -9,
+    "poss": 25.6,
+    "pF": 26.3,
+    "pA": 24.9,
+    "ortg": 76.1,
+    "drtg": 116.6,
+    "net": -40.5,
+    "efg": 32.7,
+    "oefg": 64.3
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown"
+    ],
+    "min": 11.8,
+    "pf": 18,
+    "pa": 23,
+    "pm": -5,
+    "poss": 22.7,
+    "pF": 21.9,
+    "pA": 23.6,
+    "ortg": 82.3,
+    "drtg": 97.5,
+    "net": -15.2,
+    "efg": 37.0,
+    "oefg": 44.1
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Michal Svojanovský"
+    ],
+    "min": 11.1,
+    "pf": 16,
+    "pa": 24,
+    "pm": -8,
+    "poss": 24.0,
+    "pF": 23.3,
+    "pA": 24.7,
+    "ortg": 68.6,
+    "drtg": 97.1,
+    "net": -28.5,
+    "efg": 38.2,
+    "oefg": 44.7
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Václav Honomichl"
+    ],
+    "min": 10.6,
+    "pf": 17,
+    "pa": 34,
+    "pm": -17,
+    "poss": 24.9,
+    "pF": 25.3,
+    "pA": 24.5,
+    "ortg": 67.2,
+    "drtg": 138.7,
+    "net": -71.4,
+    "efg": 33.3,
+    "oefg": 71.1
+   },
+   {
+    "players": [
+     "Juraj Palenik",
+     "Matěj Střelba"
+    ],
+    "min": 10.3,
+    "pf": 25,
+    "pa": 32,
+    "pm": -7,
+    "poss": 21.8,
+    "pF": 22.4,
+    "pA": 21.2,
+    "ortg": 111.6,
+    "drtg": 150.9,
+    "net": -39.3,
+    "efg": 55.9,
+    "oefg": 71.1
+   },
+   {
+    "players": [
+     "Matěj Střelba",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 9.9,
+    "pf": 19,
+    "pa": 32,
+    "pm": -13,
+    "poss": 18.7,
+    "pF": 17.8,
+    "pA": 19.6,
+    "ortg": 107.0,
+    "drtg": 162.9,
+    "net": -56.0,
+    "efg": 46.9,
+    "oefg": 82.4
+   },
+   {
+    "players": [
+     "Jakub Ouředník",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 9.8,
+    "pf": 22,
+    "pa": 29,
+    "pm": -7,
+    "poss": 21.2,
+    "pF": 21.6,
+    "pA": 20.8,
+    "ortg": 101.7,
+    "drtg": 139.2,
+    "net": -37.5,
+    "efg": 55.9,
+    "oefg": 73.3
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 9.1,
+    "pf": 8,
+    "pa": 26,
+    "pm": -18,
+    "poss": 20.1,
+    "pF": 19.3,
+    "pA": 20.8,
+    "ortg": 41.4,
+    "drtg": 124.8,
+    "net": -83.4,
+    "efg": 20.8,
+    "oefg": 71.4
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Eyisi Onyinyechi Brown"
+    ],
+    "min": 7.9,
+    "pf": 10,
+    "pa": 15,
+    "pm": -5,
+    "poss": 17.9,
+    "pF": 17.4,
+    "pA": 18.4,
+    "ortg": 57.3,
+    "drtg": 81.5,
+    "net": -24.2,
+    "efg": 40.9,
+    "oefg": 38.5
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Juraj Palenik"
+    ],
+    "min": 7.5,
+    "pf": 18,
+    "pa": 20,
+    "pm": -2,
+    "poss": 17.0,
+    "pF": 17.2,
+    "pA": 16.8,
+    "ortg": 104.7,
+    "drtg": 118.8,
+    "net": -14.1,
+    "efg": 54.2,
+    "oefg": 42.9
+   },
+   {
+    "players": [
+     "Jakub Ouředník",
+     "Juraj Palenik"
+    ],
+    "min": 7.5,
+    "pf": 22,
+    "pa": 17,
+    "pm": 5,
+    "poss": 15.1,
+    "pF": 16.5,
+    "pA": 13.8,
+    "ortg": 133.2,
+    "drtg": 123.5,
+    "net": 9.6,
+    "efg": 60.0,
+    "oefg": 65.0
+   },
+   {
+    "players": [
+     "Jiří Paidar",
+     "Václav Honomichl"
+    ],
+    "min": 7.2,
+    "pf": 5,
+    "pa": 18,
+    "pm": -13,
+    "poss": 13.4,
+    "pF": 13.6,
+    "pA": 13.2,
+    "ortg": 36.7,
+    "drtg": 136.4,
+    "net": -99.7,
+    "efg": 10.0,
+    "oefg": 61.5
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Jakub Kojzar"
+    ],
+    "min": 7.1,
+    "pf": 16,
+    "pa": 23,
+    "pm": -7,
+    "poss": 15.4,
+    "pF": 16.1,
+    "pA": 14.6,
+    "ortg": 99.5,
+    "drtg": 157.1,
+    "net": -57.6,
+    "efg": 37.5,
+    "oefg": 69.2
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Matěj Střelba"
+    ],
+    "min": 7.1,
+    "pf": 13,
+    "pa": 22,
+    "pm": -9,
+    "poss": 14.6,
+    "pF": 13.6,
+    "pA": 15.6,
+    "ortg": 95.3,
+    "drtg": 140.7,
+    "net": -45.4,
+    "efg": 36.4,
+    "oefg": 65.4
+   },
+   {
+    "players": [
+     "Matěj Střelba",
+     "Michal Svojanovský"
+    ],
+    "min": 6.7,
+    "pf": 13,
+    "pa": 18,
+    "pm": -5,
+    "poss": 13.3,
+    "pF": 13.5,
+    "pA": 13.0,
+    "ortg": 96.2,
+    "drtg": 138.5,
+    "net": -42.3,
+    "efg": 40.9,
+    "oefg": 60.0
+   },
+   {
+    "players": [
+     "Jan Matušík",
+     "Václav Honomichl"
+    ],
+    "min": 6.6,
+    "pf": 14,
+    "pa": 22,
+    "pm": -8,
+    "poss": 16.0,
+    "pF": 16.5,
+    "pA": 15.4,
+    "ortg": 85.0,
+    "drtg": 142.5,
+    "net": -57.5,
+    "efg": 33.3,
+    "oefg": 80.8
+   },
+   {
+    "players": [
+     "Jakub Ouředník",
+     "Václav Honomichl"
+    ],
+    "min": 6.6,
+    "pf": 9,
+    "pa": 20,
+    "pm": -11,
+    "poss": 13.7,
+    "pF": 12.3,
+    "pA": 15.1,
+    "ortg": 73.1,
+    "drtg": 132.6,
+    "net": -59.6,
+    "efg": 40.9,
+    "oefg": 66.7
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Matěj Střelba"
+    ],
+    "min": 6.5,
+    "pf": 8,
+    "pa": 18,
+    "pm": -10,
+    "poss": 11.6,
+    "pF": 11.2,
+    "pA": 12.0,
+    "ortg": 71.4,
+    "drtg": 150.0,
+    "net": -78.6,
+    "efg": 20.0,
+    "oefg": 64.3
+   },
+   {
+    "players": [
+     "Jakub Ouředník",
+     "Jiří Paidar"
+    ],
+    "min": 6.3,
+    "pf": 13,
+    "pa": 22,
+    "pm": -9,
+    "poss": 13.6,
+    "pF": 14.3,
+    "pA": 12.8,
+    "ortg": 90.8,
+    "drtg": 171.3,
+    "net": -80.6,
+    "efg": 55.6,
+    "oefg": 83.3
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Václav Honomichl"
+    ],
+    "min": 6.1,
+    "pf": 3,
+    "pa": 13,
+    "pm": -10,
+    "poss": 12.6,
+    "pF": 12.1,
+    "pA": 13.2,
+    "ortg": 24.8,
+    "drtg": 98.5,
+    "net": -73.7,
+    "efg": 16.7,
+    "oefg": 40.0
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Jiří Paidar"
+    ],
+    "min": 6.0,
+    "pf": 13,
+    "pa": 21,
+    "pm": -8,
+    "poss": 13.3,
+    "pF": 12.8,
+    "pA": 13.8,
+    "ortg": 101.9,
+    "drtg": 151.7,
+    "net": -49.9,
+    "efg": 64.3,
+    "oefg": 60.0
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Matěj Střelba"
+    ],
+    "min": 5.7,
+    "pf": 8,
+    "pa": 19,
+    "pm": -11,
+    "poss": 11.3,
+    "pF": 11.2,
+    "pA": 11.4,
+    "ortg": 71.4,
+    "drtg": 166.1,
+    "net": -94.7,
+    "efg": 31.2,
+    "oefg": 69.2
+   },
+   {
+    "players": [
+     "Jiří Paidar",
+     "Matěj Střelba"
+    ],
+    "min": 5.3,
+    "pf": 18,
+    "pa": 17,
+    "pm": 1,
+    "poss": 14.3,
+    "pF": 14.6,
+    "pA": 14.0,
+    "ortg": 123.0,
+    "drtg": 121.8,
+    "net": 1.2,
+    "efg": 83.3,
+    "oefg": 56.2
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "František Váňa"
+    ],
+    "min": 5.0,
+    "pf": 5,
+    "pa": 11,
+    "pm": -6,
+    "poss": 10.1,
+    "pF": 10.0,
+    "pA": 10.2,
+    "ortg": 50.0,
+    "drtg": 107.8,
+    "net": -57.8,
+    "efg": 41.7,
+    "oefg": 66.7
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Václav Honomichl"
+    ],
+    "min": 4.8,
+    "pf": 3,
+    "pa": 17,
+    "pm": -14,
+    "poss": 11.5,
+    "pF": 11.3,
+    "pA": 11.6,
+    "ortg": 26.5,
+    "drtg": 146.0,
+    "net": -119.5,
+    "efg": 0.0,
+    "oefg": 77.8
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Matěj Střelba"
+    ],
+    "min": 4.2,
+    "pf": 10,
+    "pa": 16,
+    "pm": -6,
+    "poss": 9.7,
+    "pF": 10.2,
+    "pA": 9.2,
+    "ortg": 98.0,
+    "drtg": 173.9,
+    "net": -75.9,
+    "efg": 41.7,
+    "oefg": 78.6
+   },
+   {
+    "players": [
+     "Jan Matušík",
+     "Matěj Střelba"
+    ],
+    "min": 4.0,
+    "pf": 6,
+    "pa": 13,
+    "pm": -7,
+    "poss": 7.5,
+    "pF": 6.4,
+    "pA": 8.6,
+    "ortg": 93.2,
+    "drtg": 150.5,
+    "net": -57.3,
+    "efg": 41.7,
+    "oefg": 75.0
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jakub Ouředník"
+    ],
+    "min": 3.8,
+    "pf": 5,
+    "pa": 13,
+    "pm": -8,
+    "poss": 7.2,
+    "pF": 6.9,
+    "pA": 7.4,
+    "ortg": 72.7,
+    "drtg": 174.7,
+    "net": -102.1,
+    "efg": 28.6,
+    "oefg": 72.2
+   },
+   {
+    "players": [
+     "Jakub Ouředník",
+     "Michal Svojanovský"
+    ],
+    "min": 3.7,
+    "pf": 12,
+    "pa": 10,
+    "pm": 2,
+    "poss": 6.6,
+    "pF": 6.3,
+    "pA": 6.9,
+    "ortg": 189.9,
+    "drtg": 145.3,
+    "net": 44.5,
+    "efg": 61.1,
+    "oefg": 66.7
+   },
+   {
+    "players": [
+     "Jakub Ouředník",
+     "Matěj Střelba"
+    ],
+    "min": 3.7,
+    "pf": 13,
+    "pa": 9,
+    "pm": 4,
+    "poss": 8.0,
+    "pF": 9.3,
+    "pA": 6.8,
+    "ortg": 139.5,
+    "drtg": 133.1,
+    "net": 6.3,
+    "efg": 68.8,
+    "oefg": 75.0
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jakub Ouředník"
+    ],
+    "min": 3.3,
+    "pf": 7,
+    "pa": 7,
+    "pm": 0,
+    "poss": 7.3,
+    "pF": 7.8,
+    "pA": 6.9,
+    "ortg": 90.2,
+    "drtg": 101.7,
+    "net": -11.5,
+    "efg": 62.5,
+    "oefg": 62.5
    }
   ]
  },
@@ -2101,7 +3670,84 @@
    "tov": 14.2,
    "orb": 25.6,
    "ftr": 27.3,
-   "topScorer": "Juraj Palenik"
+   "topScorer": "Juraj Palenik",
+   "oppEfg": 65.2,
+   "oppOrb": 23.3,
+   "tp": [
+    11,
+    37
+   ],
+   "ft": [
+    18,
+    29
+   ],
+   "second": [
+    16,
+    14
+   ],
+   "bench": [
+    39,
+    40
+   ],
+   "paint": [
+    26,
+    52
+   ],
+   "leading": [
+    7.0,
+    31.4
+   ],
+   "leadChanges": 1,
+   "maxLead": [
+    5,
+    32
+   ],
+   "maxRun": [
+    8,
+    13
+   ],
+   "astFg": [
+    [
+     21,
+     25
+    ],
+    [
+     25,
+     38
+    ]
+   ],
+   "quarters": [
+    [
+     13,
+     20
+    ],
+    [
+     30,
+     28
+    ],
+    [
+     19,
+     31
+    ],
+    [
+     17,
+     30
+    ]
+   ],
+   "segments": {
+    "first3": [
+     24,
+     30
+    ],
+    "last3": [
+     12,
+     40
+    ],
+    "last5": [
+     13,
+     15
+    ]
+   }
   },
   {
    "fibaId": 2890478,
@@ -2126,7 +3772,84 @@
    "tov": 19.3,
    "orb": 27.5,
    "ftr": 31.4,
-   "topScorer": "Troy Thomas Dˇamico"
+   "topScorer": "Troy Thomas Dˇamico",
+   "oppEfg": 64.5,
+   "oppOrb": 31.6,
+   "tp": [
+    6,
+    35
+   ],
+   "ft": [
+    22,
+    31
+   ],
+   "second": [
+    12,
+    16
+   ],
+   "bench": [
+    33,
+    44
+   ],
+   "paint": [
+    32,
+    56
+   ],
+   "leading": [
+    0.0,
+    39.4
+   ],
+   "leadChanges": 0,
+   "maxLead": [
+    0,
+    42
+   ],
+   "maxRun": [
+    6,
+    14
+   ],
+   "astFg": [
+    [
+     9,
+     23
+    ],
+    [
+     25,
+     43
+    ]
+   ],
+   "quarters": [
+    [
+     10,
+     28
+    ],
+    [
+     20,
+     23
+    ],
+    [
+     19,
+     30
+    ],
+    [
+     25,
+     34
+    ]
+   ],
+   "segments": {
+    "first3": [
+     17,
+     41
+    ],
+    "last3": [
+     26,
+     33
+    ],
+    "last5": [
+     11,
+     19
+    ]
+   }
   },
   {
    "fibaId": 2890479,
@@ -2151,7 +3874,84 @@
    "tov": 16.1,
    "orb": 38.5,
    "ftr": 17.3,
-   "topScorer": "Damon Edward Nicholas Jr"
+   "topScorer": "Damon Edward Nicholas Jr",
+   "oppEfg": 48.6,
+   "oppOrb": 34.1,
+   "tp": [
+    14,
+    34
+   ],
+   "ft": [
+    13,
+    19
+   ],
+   "second": [
+    27,
+    12
+   ],
+   "bench": [
+    41,
+    32
+   ],
+   "paint": [
+    24,
+    42
+   ],
+   "leading": [
+    0.0,
+    39.8
+   ],
+   "leadChanges": 0,
+   "maxLead": [
+    0,
+    30
+   ],
+   "maxRun": [
+    8,
+    12
+   ],
+   "astFg": [
+    [
+     20,
+     27
+    ],
+    [
+     17,
+     30
+    ]
+   ],
+   "quarters": [
+    [
+     7,
+     31
+    ],
+    [
+     24,
+     24
+    ],
+    [
+     28,
+     17
+    ],
+    [
+     22,
+     16
+    ]
+   ],
+   "segments": {
+    "first3": [
+     25,
+     27
+    ],
+    "last3": [
+     24,
+     21
+    ],
+    "last5": [
+     11,
+     9
+    ]
+   }
   },
   {
    "fibaId": 2892257,
@@ -2176,9 +3976,2213 @@
    "tov": 15.8,
    "orb": 45.5,
    "ftr": 23.2,
-   "topScorer": "Juraj Palenik"
+   "topScorer": "Juraj Palenik",
+   "oppEfg": 52.4,
+   "oppOrb": 25.0,
+   "tp": [
+    13,
+    38
+   ],
+   "ft": [
+    16,
+    25
+   ],
+   "second": [
+    17,
+    8
+   ],
+   "bench": [
+    22,
+    24
+   ],
+   "paint": [
+    20,
+    30
+   ],
+   "leading": [
+    29.0,
+    5.6
+   ],
+   "leadChanges": 11,
+   "maxLead": [
+    10,
+    3
+   ],
+   "maxRun": [
+    8,
+    10
+   ],
+   "astFg": [
+    [
+     19,
+     26
+    ],
+    [
+     14,
+     27
+    ]
+   ],
+   "quarters": [
+    [
+     21,
+     20
+    ],
+    [
+     24,
+     17
+    ],
+    [
+     14,
+     20
+    ],
+    [
+     22,
+     27
+    ]
+   ],
+   "segments": {
+    "first3": [
+     29,
+     25
+    ],
+    "last3": [
+     24,
+     33
+    ],
+    "last5": [
+     11,
+     14
+    ]
+   }
   }
  ],
+ "shots": {
+  "players": [
+   "Michal Svojanovský",
+   "Troy Thomas Dˇamico",
+   "František Váňa",
+   "Eyisi Onyinyechi Brown",
+   "Jan Matušík",
+   "Juraj Palenik",
+   "Dominik Thurnwald",
+   "Václav Honomichl",
+   "Jiří Paidar",
+   "Jakub Kojzar",
+   "Matěj Střelba",
+   "Jakub Ouředník",
+   "Damon Edward Nicholas Jr"
+  ],
+  "list": [
+   [
+    31.0,
+    58.5,
+    0,
+    1,
+    0
+   ],
+   [
+    17.9,
+    7.9,
+    1,
+    1,
+    1
+   ],
+   [
+    5.9,
+    57.6,
+    1,
+    0,
+    2
+   ],
+   [
+    6.7,
+    2.3,
+    0,
+    1,
+    1
+   ],
+   [
+    8.1,
+    83.6,
+    0,
+    0,
+    3
+   ],
+   [
+    14.7,
+    4.5,
+    0,
+    1,
+    2
+   ],
+   [
+    34.5,
+    84.2,
+    0,
+    1,
+    0
+   ],
+   [
+    9.8,
+    57.3,
+    0,
+    0,
+    4
+   ],
+   [
+    7.3,
+    1.4,
+    1,
+    1,
+    5
+   ],
+   [
+    20.4,
+    91.8,
+    0,
+    1,
+    1
+   ],
+   [
+    14.7,
+    60.2,
+    1,
+    0,
+    3
+   ],
+   [
+    32.1,
+    33.3,
+    0,
+    1,
+    2
+   ],
+   [
+    4.5,
+    4.5,
+    0,
+    1,
+    2
+   ],
+   [
+    6.7,
+    96.3,
+    0,
+    1,
+    6
+   ],
+   [
+    6.1,
+    65.2,
+    0,
+    0,
+    0
+   ],
+   [
+    33.1,
+    58.8,
+    0,
+    1,
+    5
+   ],
+   [
+    14.8,
+    54.5,
+    0,
+    0,
+    0
+   ],
+   [
+    18.4,
+    94.3,
+    0,
+    1,
+    7
+   ],
+   [
+    6.9,
+    59.0,
+    1,
+    0,
+    5
+   ],
+   [
+    6.6,
+    58.2,
+    1,
+    0,
+    5
+   ],
+   [
+    31.4,
+    73.4,
+    1,
+    1,
+    2
+   ],
+   [
+    28.2,
+    21.8,
+    0,
+    1,
+    2
+   ],
+   [
+    31.8,
+    52.0,
+    0,
+    1,
+    1
+   ],
+   [
+    24.3,
+    17.5,
+    1,
+    1,
+    5
+   ],
+   [
+    5.5,
+    52.5,
+    1,
+    0,
+    3
+   ],
+   [
+    5.0,
+    52.3,
+    0,
+    0,
+    8
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    3
+   ],
+   [
+    5.2,
+    3.4,
+    1,
+    1,
+    5
+   ],
+   [
+    6.9,
+    47.5,
+    1,
+    0,
+    0
+   ],
+   [
+    1.7,
+    54.8,
+    1,
+    0,
+    0
+   ],
+   [
+    6.4,
+    53.7,
+    0,
+    0,
+    2
+   ],
+   [
+    11.5,
+    52.3,
+    0,
+    0,
+    1
+   ],
+   [
+    26.2,
+    81.9,
+    0,
+    1,
+    9
+   ],
+   [
+    30.7,
+    31.4,
+    0,
+    1,
+    1
+   ],
+   [
+    20.6,
+    56.8,
+    1,
+    0,
+    5
+   ],
+   [
+    9.1,
+    46.3,
+    0,
+    0,
+    3
+   ],
+   [
+    22.6,
+    9.6,
+    1,
+    1,
+    2
+   ],
+   [
+    9.8,
+    44.3,
+    1,
+    0,
+    5
+   ],
+   [
+    36.0,
+    47.7,
+    0,
+    1,
+    0
+   ],
+   [
+    8.4,
+    42.7,
+    1,
+    0,
+    2
+   ],
+   [
+    35.7,
+    42.7,
+    0,
+    1,
+    2
+   ],
+   [
+    25.6,
+    13.3,
+    1,
+    1,
+    2
+   ],
+   [
+    20.6,
+    8.5,
+    1,
+    1,
+    8
+   ],
+   [
+    29.8,
+    71.2,
+    0,
+    1,
+    2
+   ],
+   [
+    7.0,
+    18.9,
+    0,
+    0,
+    1
+   ],
+   [
+    9.8,
+    47.7,
+    1,
+    0,
+    9
+   ],
+   [
+    24.5,
+    13.0,
+    0,
+    1,
+    5
+   ],
+   [
+    5.8,
+    3.9,
+    0,
+    1,
+    2
+   ],
+   [
+    31.1,
+    59.0,
+    0,
+    1,
+    0
+   ],
+   [
+    8.9,
+    47.5,
+    0,
+    0,
+    0
+   ],
+   [
+    5.6,
+    66.1,
+    0,
+    0,
+    9
+   ],
+   [
+    5.6,
+    1.7,
+    0,
+    1,
+    2
+   ],
+   [
+    11.7,
+    48.9,
+    0,
+    0,
+    1
+   ],
+   [
+    10.3,
+    44.1,
+    1,
+    0,
+    5
+   ],
+   [
+    10.1,
+    50.8,
+    0,
+    0,
+    5
+   ],
+   [
+    32.8,
+    48.0,
+    0,
+    1,
+    9
+   ],
+   [
+    7.0,
+    2.3,
+    0,
+    1,
+    4
+   ],
+   [
+    29.6,
+    74.0,
+    0,
+    1,
+    0
+   ],
+   [
+    12.8,
+    46.9,
+    0,
+    0,
+    2
+   ],
+   [
+    5.5,
+    95.8,
+    1,
+    1,
+    1
+   ],
+   [
+    16.4,
+    92.9,
+    1,
+    1,
+    2
+   ],
+   [
+    32.9,
+    31.6,
+    0,
+    1,
+    2
+   ],
+   [
+    5.6,
+    43.2,
+    0,
+    0,
+    10
+   ],
+   [
+    30.9,
+    26.6,
+    1,
+    1,
+    10
+   ],
+   [
+    8.3,
+    52.0,
+    1,
+    0,
+    10
+   ],
+   [
+    14.2,
+    5.9,
+    0,
+    1,
+    6
+   ],
+   [
+    23.3,
+    12.1,
+    0,
+    1,
+    6
+   ],
+   [
+    30.6,
+    77.8,
+    0,
+    1,
+    2
+   ],
+   [
+    8.9,
+    49.9,
+    1,
+    0,
+    9
+   ],
+   [
+    8.1,
+    58.3,
+    1,
+    0,
+    8
+   ],
+   [
+    9.5,
+    51.3,
+    0,
+    0,
+    0
+   ],
+   [
+    10.9,
+    50.7,
+    0,
+    0,
+    0
+   ],
+   [
+    7.2,
+    40.8,
+    0,
+    0,
+    5
+   ],
+   [
+    9.9,
+    48.5,
+    1,
+    0,
+    5
+   ],
+   [
+    5.8,
+    96.4,
+    0,
+    1,
+    1
+   ],
+   [
+    6.4,
+    53.0,
+    0,
+    0,
+    2
+   ],
+   [
+    8.8,
+    55.2,
+    1,
+    0,
+    1
+   ],
+   [
+    20.6,
+    10.9,
+    0,
+    1,
+    1
+   ],
+   [
+    32.3,
+    49.6,
+    0,
+    1,
+    0
+   ],
+   [
+    18.3,
+    52.7,
+    0,
+    0,
+    7
+   ],
+   [
+    13.0,
+    47.3,
+    0,
+    0,
+    1
+   ],
+   [
+    14.5,
+    58.9,
+    0,
+    0,
+    5
+   ],
+   [
+    39.6,
+    56.4,
+    0,
+    1,
+    1
+   ],
+   [
+    7.7,
+    44.0,
+    0,
+    0,
+    9
+   ],
+   [
+    22.6,
+    14.6,
+    0,
+    1,
+    2
+   ],
+   [
+    29.0,
+    66.5,
+    0,
+    1,
+    8
+   ],
+   [
+    34.5,
+    30.4,
+    0,
+    1,
+    2
+   ],
+   [
+    13.8,
+    45.4,
+    0,
+    0,
+    0
+   ],
+   [
+    22.0,
+    88.0,
+    0,
+    1,
+    5
+   ],
+   [
+    24.0,
+    88.0,
+    0,
+    1,
+    5
+   ],
+   [
+    11.4,
+    55.8,
+    1,
+    0,
+    4
+   ],
+   [
+    11.1,
+    50.7,
+    1,
+    0,
+    4
+   ],
+   [
+    14.7,
+    51.3,
+    0,
+    0,
+    5
+   ],
+   [
+    12.2,
+    52.7,
+    0,
+    0,
+    4
+   ],
+   [
+    27.5,
+    78.9,
+    0,
+    1,
+    5
+   ],
+   [
+    13.4,
+    94.8,
+    0,
+    1,
+    7
+   ],
+   [
+    13.8,
+    19.1,
+    1,
+    0,
+    3
+   ],
+   [
+    11.7,
+    56.1,
+    0,
+    0,
+    0
+   ],
+   [
+    8.4,
+    48.2,
+    1,
+    0,
+    1
+   ],
+   [
+    7.5,
+    46.5,
+    1,
+    0,
+    11
+   ],
+   [
+    29.3,
+    78.4,
+    0,
+    1,
+    1
+   ],
+   [
+    30.3,
+    29.3,
+    0,
+    1,
+    0
+   ],
+   [
+    6.1,
+    41.7,
+    1,
+    0,
+    11
+   ],
+   [
+    25.9,
+    85.4,
+    1,
+    1,
+    1
+   ],
+   [
+    7.8,
+    42.5,
+    0,
+    0,
+    3
+   ],
+   [
+    13.8,
+    65.1,
+    0,
+    0,
+    3
+   ],
+   [
+    15.9,
+    5.2,
+    1,
+    1,
+    4
+   ],
+   [
+    6.6,
+    43.6,
+    0,
+    0,
+    0
+   ],
+   [
+    23.1,
+    16.3,
+    0,
+    1,
+    1
+   ],
+   [
+    6.4,
+    3.6,
+    0,
+    1,
+    1
+   ],
+   [
+    6.1,
+    95.6,
+    0,
+    1,
+    1
+   ],
+   [
+    7.5,
+    45.6,
+    1,
+    0,
+    5
+   ],
+   [
+    32.5,
+    42.5,
+    0,
+    1,
+    0
+   ],
+   [
+    8.9,
+    40.8,
+    1,
+    0,
+    9
+   ],
+   [
+    29.8,
+    19.1,
+    0,
+    1,
+    2
+   ],
+   [
+    11.7,
+    43.6,
+    1,
+    0,
+    5
+   ],
+   [
+    30.6,
+    38.5,
+    0,
+    1,
+    2
+   ],
+   [
+    17.0,
+    42.5,
+    1,
+    0,
+    2
+   ],
+   [
+    12.5,
+    40.2,
+    0,
+    0,
+    4
+   ],
+   [
+    29.7,
+    21.3,
+    0,
+    1,
+    2
+   ],
+   [
+    28.6,
+    76.4,
+    0,
+    1,
+    0
+   ],
+   [
+    8.3,
+    51.5,
+    1,
+    0,
+    1
+   ],
+   [
+    7.5,
+    4.1,
+    1,
+    1,
+    2
+   ],
+   [
+    27.9,
+    76.4,
+    1,
+    1,
+    5
+   ],
+   [
+    29.7,
+    24.4,
+    0,
+    1,
+    2
+   ],
+   [
+    8.4,
+    47.0,
+    0,
+    0,
+    9
+   ],
+   [
+    25.8,
+    17.7,
+    0,
+    1,
+    5
+   ],
+   [
+    16.9,
+    7.8,
+    1,
+    1,
+    1
+   ],
+   [
+    13.0,
+    42.2,
+    1,
+    0,
+    1
+   ],
+   [
+    10.2,
+    49.3,
+    1,
+    0,
+    1
+   ],
+   [
+    24.7,
+    91.9,
+    0,
+    1,
+    8
+   ],
+   [
+    15.5,
+    96.1,
+    1,
+    1,
+    1
+   ],
+   [
+    33.1,
+    84.6,
+    0,
+    1,
+    1
+   ],
+   [
+    33.7,
+    43.1,
+    0,
+    1,
+    7
+   ],
+   [
+    9.7,
+    56.0,
+    0,
+    0,
+    1
+   ],
+   [
+    7.5,
+    4.7,
+    0,
+    1,
+    6
+   ],
+   [
+    24.5,
+    15.8,
+    0,
+    1,
+    7
+   ],
+   [
+    32.9,
+    79.7,
+    0,
+    1,
+    0
+   ],
+   [
+    20.6,
+    10.7,
+    0,
+    1,
+    1
+   ],
+   [
+    7.5,
+    49.4,
+    0,
+    0,
+    0
+   ],
+   [
+    8.7,
+    56.2,
+    0,
+    0,
+    7
+   ],
+   [
+    12.2,
+    59.9,
+    0,
+    0,
+    8
+   ],
+   [
+    16.5,
+    92.4,
+    1,
+    1,
+    5
+   ],
+   [
+    4.1,
+    2.8,
+    1,
+    1,
+    5
+   ],
+   [
+    15.3,
+    98.0,
+    0,
+    1,
+    4
+   ],
+   [
+    21.1,
+    71.2,
+    0,
+    0,
+    12
+   ],
+   [
+    22.5,
+    50.8,
+    0,
+    0,
+    1
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    9
+   ],
+   [
+    8.9,
+    26.3,
+    0,
+    0,
+    2
+   ],
+   [
+    0.8,
+    52.8,
+    0,
+    0,
+    2
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    2
+   ],
+   [
+    5.3,
+    53.7,
+    0,
+    0,
+    0
+   ],
+   [
+    3.9,
+    5.7,
+    0,
+    1,
+    2
+   ],
+   [
+    23.9,
+    50.8,
+    0,
+    0,
+    0
+   ],
+   [
+    26.7,
+    87.3,
+    0,
+    1,
+    7
+   ],
+   [
+    11.2,
+    60.2,
+    0,
+    0,
+    8
+   ],
+   [
+    2.8,
+    51.4,
+    0,
+    0,
+    9
+   ],
+   [
+    24.2,
+    15.0,
+    1,
+    1,
+    8
+   ],
+   [
+    4.4,
+    54.5,
+    1,
+    0,
+    0
+   ],
+   [
+    22.0,
+    11.3,
+    0,
+    1,
+    5
+   ],
+   [
+    7.5,
+    52.5,
+    0,
+    0,
+    4
+   ],
+   [
+    6.6,
+    53.1,
+    1,
+    0,
+    5
+   ],
+   [
+    28.4,
+    25.4,
+    1,
+    1,
+    1
+   ],
+   [
+    5.2,
+    1.7,
+    1,
+    1,
+    4
+   ],
+   [
+    20.6,
+    90.4,
+    0,
+    1,
+    1
+   ],
+   [
+    5.9,
+    62.2,
+    0,
+    0,
+    5
+   ],
+   [
+    6.7,
+    55.7,
+    0,
+    0,
+    5
+   ],
+   [
+    21.5,
+    44.9,
+    1,
+    0,
+    9
+   ],
+   [
+    25.3,
+    17.5,
+    0,
+    1,
+    9
+   ],
+   [
+    6.2,
+    47.7,
+    1,
+    0,
+    0
+   ],
+   [
+    32.5,
+    75.1,
+    1,
+    1,
+    0
+   ],
+   [
+    5.9,
+    57.3,
+    1,
+    0,
+    2
+   ],
+   [
+    24.0,
+    47.5,
+    0,
+    0,
+    2
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    9
+   ],
+   [
+    7.0,
+    42.4,
+    0,
+    0,
+    12
+   ],
+   [
+    33.8,
+    43.5,
+    0,
+    1,
+    2
+   ],
+   [
+    17.8,
+    92.4,
+    1,
+    1,
+    1
+   ],
+   [
+    9.8,
+    58.8,
+    1,
+    0,
+    12
+   ],
+   [
+    8.4,
+    49.7,
+    1,
+    0,
+    9
+   ],
+   [
+    22.6,
+    6.2,
+    1,
+    1,
+    2
+   ],
+   [
+    4.7,
+    96.3,
+    0,
+    1,
+    12
+   ],
+   [
+    12.2,
+    48.6,
+    0,
+    0,
+    0
+   ],
+   [
+    6.1,
+    97.2,
+    0,
+    1,
+    9
+   ],
+   [
+    18.7,
+    89.0,
+    1,
+    1,
+    5
+   ],
+   [
+    5.3,
+    3.7,
+    0,
+    1,
+    5
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    9
+   ],
+   [
+    7.6,
+    49.4,
+    1,
+    0,
+    1
+   ],
+   [
+    6.7,
+    39.0,
+    0,
+    0,
+    9
+   ],
+   [
+    22.3,
+    9.0,
+    1,
+    1,
+    0
+   ],
+   [
+    10.0,
+    33.3,
+    0,
+    0,
+    12
+   ],
+   [
+    22.6,
+    11.3,
+    0,
+    1,
+    2
+   ],
+   [
+    32.4,
+    65.8,
+    1,
+    1,
+    1
+   ],
+   [
+    9.1,
+    38.7,
+    1,
+    0,
+    1
+   ],
+   [
+    21.5,
+    33.6,
+    0,
+    0,
+    2
+   ],
+   [
+    4.1,
+    95.5,
+    1,
+    1,
+    12
+   ],
+   [
+    22.5,
+    86.4,
+    0,
+    1,
+    9
+   ],
+   [
+    33.4,
+    29.9,
+    0,
+    1,
+    2
+   ],
+   [
+    11.1,
+    33.6,
+    1,
+    0,
+    12
+   ],
+   [
+    15.9,
+    32.2,
+    0,
+    0,
+    0
+   ],
+   [
+    28.7,
+    82.2,
+    0,
+    1,
+    2
+   ],
+   [
+    9.8,
+    37.8,
+    1,
+    0,
+    12
+   ],
+   [
+    11.1,
+    46.0,
+    0,
+    0,
+    0
+   ],
+   [
+    10.9,
+    66.7,
+    0,
+    0,
+    12
+   ],
+   [
+    21.5,
+    12.4,
+    0,
+    1,
+    2
+   ],
+   [
+    29.0,
+    20.1,
+    1,
+    1,
+    0
+   ],
+   [
+    18.4,
+    31.6,
+    0,
+    0,
+    1
+   ],
+   [
+    34.0,
+    26.3,
+    1,
+    1,
+    0
+   ],
+   [
+    9.7,
+    59.3,
+    1,
+    0,
+    12
+   ],
+   [
+    23.2,
+    87.3,
+    0,
+    1,
+    0
+   ],
+   [
+    35.4,
+    41.8,
+    0,
+    1,
+    0
+   ],
+   [
+    9.7,
+    56.5,
+    1,
+    0,
+    12
+   ],
+   [
+    30.7,
+    82.5,
+    0,
+    1,
+    0
+   ],
+   [
+    5.5,
+    54.2,
+    1,
+    0,
+    12
+   ],
+   [
+    28.2,
+    71.5,
+    1,
+    1,
+    9
+   ],
+   [
+    32.6,
+    52.3,
+    0,
+    1,
+    12
+   ],
+   [
+    6.4,
+    95.8,
+    0,
+    1,
+    0
+   ],
+   [
+    3.6,
+    44.7,
+    0,
+    0,
+    0
+   ],
+   [
+    13.9,
+    30.2,
+    1,
+    0,
+    5
+   ],
+   [
+    14.2,
+    79.7,
+    1,
+    0,
+    12
+   ],
+   [
+    5.8,
+    3.4,
+    0,
+    1,
+    12
+   ],
+   [
+    26.8,
+    80.8,
+    0,
+    1,
+    5
+   ],
+   [
+    26.4,
+    84.2,
+    0,
+    1,
+    5
+   ],
+   [
+    32.3,
+    81.1,
+    0,
+    1,
+    8
+   ],
+   [
+    23.1,
+    15.0,
+    1,
+    1,
+    8
+   ],
+   [
+    10.9,
+    42.4,
+    0,
+    0,
+    0
+   ],
+   [
+    19.0,
+    92.7,
+    0,
+    1,
+    1
+   ],
+   [
+    8.4,
+    54.2,
+    0,
+    0,
+    4
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    4
+   ],
+   [
+    10.1,
+    97.2,
+    1,
+    1,
+    5
+   ],
+   [
+    11.4,
+    54.5,
+    0,
+    0,
+    5
+   ],
+   [
+    4.1,
+    43.5,
+    1,
+    0,
+    4
+   ],
+   [
+    8.4,
+    96.6,
+    0,
+    1,
+    5
+   ],
+   [
+    10.0,
+    52.8,
+    1,
+    0,
+    0
+   ],
+   [
+    4.8,
+    44.1,
+    1,
+    0,
+    0
+   ],
+   [
+    25.4,
+    83.1,
+    1,
+    1,
+    0
+   ],
+   [
+    34.0,
+    62.2,
+    1,
+    1,
+    0
+   ],
+   [
+    17.9,
+    6.5,
+    1,
+    1,
+    5
+   ],
+   [
+    7.8,
+    48.3,
+    0,
+    0,
+    12
+   ],
+   [
+    7.0,
+    56.2,
+    1,
+    0,
+    0
+   ],
+   [
+    12.8,
+    46.1,
+    0,
+    0,
+    12
+   ],
+   [
+    31.8,
+    74.0,
+    0,
+    1,
+    9
+   ],
+   [
+    32.1,
+    50.9,
+    0,
+    1,
+    9
+   ],
+   [
+    26.8,
+    85.6,
+    0,
+    1,
+    4
+   ],
+   [
+    35.0,
+    48.3,
+    0,
+    1,
+    0
+   ],
+   [
+    22.9,
+    87.0,
+    1,
+    1,
+    12
+   ],
+   [
+    8.3,
+    54.8,
+    0,
+    0,
+    8
+   ],
+   [
+    2.3,
+    60.2,
+    0,
+    0,
+    12
+   ],
+   [
+    22.6,
+    92.4,
+    1,
+    1,
+    1
+   ],
+   [
+    5.6,
+    96.9,
+    0,
+    1,
+    12
+   ],
+   [
+    35.3,
+    14.1,
+    0,
+    1,
+    12
+   ],
+   [
+    14.3,
+    74.3,
+    0,
+    0,
+    0
+   ],
+   [
+    7.0,
+    52.8,
+    0,
+    0,
+    5
+   ],
+   [
+    24.3,
+    87.0,
+    0,
+    1,
+    1
+   ],
+   [
+    28.2,
+    81.9,
+    0,
+    1,
+    1
+   ],
+   [
+    33.1,
+    16.4,
+    0,
+    1,
+    5
+   ],
+   [
+    34.2,
+    20.1,
+    1,
+    1,
+    1
+   ],
+   [
+    17.3,
+    41.0,
+    0,
+    0,
+    12
+   ],
+   [
+    30.7,
+    31.3,
+    0,
+    1,
+    4
+   ],
+   [
+    8.9,
+    78.2,
+    0,
+    0,
+    3
+   ],
+   [
+    4.7,
+    2.8,
+    1,
+    1,
+    8
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    9
+   ],
+   [
+    12.8,
+    41.5,
+    0,
+    0,
+    4
+   ],
+   [
+    31.4,
+    46.0,
+    0,
+    1,
+    8
+   ],
+   [
+    32.0,
+    44.3,
+    0,
+    1,
+    7
+   ],
+   [
+    7.8,
+    45.2,
+    1,
+    0,
+    5
+   ],
+   [
+    4.8,
+    95.7,
+    1,
+    1,
+    12
+   ],
+   [
+    9.5,
+    43.8,
+    1,
+    0,
+    9
+   ],
+   [
+    15.9,
+    52.8,
+    1,
+    0,
+    5
+   ],
+   [
+    8.9,
+    53.1,
+    0,
+    0,
+    8
+   ],
+   [
+    29.8,
+    8.8,
+    0,
+    1,
+    5
+   ],
+   [
+    13.6,
+    50.3,
+    0,
+    0,
+    4
+   ],
+   [
+    25.3,
+    15.8,
+    0,
+    1,
+    12
+   ],
+   [
+    23.6,
+    12.1,
+    0,
+    1,
+    5
+   ],
+   [
+    19.7,
+    90.2,
+    1,
+    1,
+    8
+   ],
+   [
+    12.5,
+    54.5,
+    0,
+    0,
+    4
+   ],
+   [
+    5.3,
+    23.2,
+    1,
+    0,
+    5
+   ],
+   [
+    4.7,
+    2.5,
+    1,
+    1,
+    8
+   ],
+   [
+    9.5,
+    52.0,
+    0,
+    0,
+    8
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    12
+   ],
+   [
+    14.4,
+    85.0,
+    0,
+    1,
+    8
+   ]
+  ]
+ },
+ "attackPlayers": [
+  {
+   "name": "Juraj Palenik",
+   "bands": [
+    7,
+    13,
+    15,
+    17,
+    9
+   ],
+   "pts": 61
+  },
+  {
+   "name": "Troy Thomas Dˇamico",
+   "bands": [
+    14,
+    11,
+    5,
+    15,
+    7
+   ],
+   "pts": 52
+  },
+  {
+   "name": "Michal Svojanovský",
+   "bands": [
+    4,
+    10,
+    8,
+    1,
+    16
+   ],
+   "pts": 39
+  },
+  {
+   "name": "František Váňa",
+   "bands": [
+    3,
+    8,
+    8,
+    6,
+    7
+   ],
+   "pts": 32
+  },
+  {
+   "name": "Damon Edward Nicholas Jr",
+   "bands": [
+    10,
+    9,
+    5,
+    3,
+    5
+   ],
+   "pts": 32
+  },
+  {
+   "name": "Jiří Paidar",
+   "bands": [
+    4,
+    3,
+    8,
+    6,
+    8
+   ],
+   "pts": 29
+  },
+  {
+   "name": "Jakub Kojzar",
+   "bands": [
+    2,
+    6,
+    6,
+    3,
+    4
+   ],
+   "pts": 21
+  },
+  {
+   "name": "Jan Matušík",
+   "bands": [
+    1,
+    4,
+    5,
+    6,
+    2
+   ],
+   "pts": 19
+  },
+  {
+   "name": "Eyisi Onyinyechi Brown",
+   "bands": [
+    0,
+    3,
+    2,
+    4,
+    9
+   ],
+   "pts": 18
+  },
+  {
+   "name": "Matěj Střelba",
+   "bands": [
+    0,
+    2,
+    0,
+    3,
+    0
+   ],
+   "pts": 5
+  },
+  {
+   "name": "Jakub Ouředník",
+   "bands": [
+    0,
+    2,
+    0,
+    1,
+    2
+   ],
+   "pts": 5
+  },
+  {
+   "name": "Václav Honomichl",
+   "bands": [
+    2,
+    0,
+    0,
+    0,
+    0
+   ],
+   "pts": 2
+  }
+ ],
+ "segments": {
+  "first3": [
+   95,
+   123
+  ],
+  "last3": [
+   86,
+   127
+  ],
+  "last5": [
+   46,
+   57
+  ]
+ },
  "ranks": {
   "ppg": 10,
   "oppg": 12,
@@ -2314,6 +6318,8 @@
    "pm40": -2.7,
    "on": {
     "min": 60.1,
+    "pf": 118,
+    "pa": 122,
     "ortg": 103.8,
     "drtg": 106.8,
     "net": -3.0
@@ -2477,6 +6483,8 @@
    "pm40": -12.0,
    "on": {
     "min": 113.2,
+    "pf": 246,
+    "pa": 280,
     "ortg": 105.6,
     "drtg": 120.6,
     "net": -15.0
@@ -2680,6 +6688,8 @@
    "pm40": -21.5,
    "on": {
     "min": 113.3,
+    "pf": 215,
+    "pa": 276,
     "ortg": 95.6,
     "drtg": 118.5,
     "net": -22.9
@@ -2883,6 +6893,8 @@
    "pm40": -29.1,
    "on": {
     "min": 75.7,
+    "pf": 138,
+    "pa": 193,
     "ortg": 90.3,
     "drtg": 122.0,
     "net": -31.7
@@ -3066,6 +7078,8 @@
    "pm40": -14.6,
    "on": {
     "min": 112.0,
+    "pf": 224,
+    "pa": 265,
     "ortg": 97.0,
     "drtg": 114.5,
     "net": -17.5
@@ -3269,6 +7283,8 @@
    "pm40": -14.5,
    "on": {
     "min": 60.9,
+    "pf": 134,
+    "pa": 156,
     "ortg": 110.6,
     "drtg": 132.1,
     "net": -21.5
@@ -3472,6 +7488,8 @@
    "pm40": -12.5,
    "on": {
     "min": 86.1,
+    "pf": 178,
+    "pa": 203,
     "ortg": 104.9,
     "drtg": 118.3,
     "net": -13.4
@@ -3675,6 +7693,8 @@
    "pm40": -19.0,
    "on": {
     "min": 50.5,
+    "pf": 100,
+    "pa": 124,
     "ortg": 95.3,
     "drtg": 113.6,
     "net": -18.3
@@ -3878,6 +7898,8 @@
    "pm40": -33.8,
    "on": {
     "min": 52.1,
+    "pf": 94,
+    "pa": 138,
     "ortg": 85.6,
     "drtg": 123.0,
     "net": -37.5
@@ -4081,6 +8103,8 @@
    "pm40": -20.2,
    "on": {
     "min": 11.9,
+    "pf": 27,
+    "pa": 35,
     "ortg": 105.8,
     "drtg": 141.6,
     "net": -35.8
@@ -4244,6 +8268,8 @@
    "pm40": -44.7,
    "on": {
     "min": 16.9,
+    "pf": 34,
+    "pa": 53,
     "ortg": 99.5,
     "drtg": 152.1,
     "net": -52.6
@@ -4427,6 +8453,8 @@
    "pm40": -62.5,
    "on": {
     "min": 30.8,
+    "pf": 41,
+    "pa": 89,
     "ortg": 61.5,
     "drtg": 132.1,
     "net": -70.6
@@ -4630,6 +8658,8 @@
    "pm40": -48.2,
    "on": {
     "min": 16.6,
+    "pf": 26,
+    "pa": 46,
     "ortg": 71.2,
     "drtg": 122.1,
     "net": -50.9

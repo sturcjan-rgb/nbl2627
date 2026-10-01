@@ -232,7 +232,13 @@ async function viewLeague(app) {
   const lg = await getJSON('league.json');
   const avg = lg.averages || {};
   let mode = 'adv';
-  app.innerHTML = `<h1>Srovnání týmů</h1><p class="muted">Pokročilé metriky ze součtů celé sezóny. Malé číslo za hodnotou = pořadí v lize (zelená top 3, červená poslední 3).</p>
+  const cards = (await getJSON('standings.json')).table.map(r => `<a class="game" href="#/tym/${r.slug}">
+      <div class="meta"><span>${r.pos}. místo</span><span>${r.w}-${r.l}</span></div>
+      <div class="row"><span class="t">${logo(r.slug)}${esc(r.name)}</span></div>
+      <div class="meta"><span>skóre ${r.pf}:${r.pa}</span><span class="${cls(r.diff)}">${signed(r.diff)}</span></div></a>`).join('');
+  app.innerHTML = `<h1>Týmy</h1><p class="muted">Klikni na tým pro celosezónní rozbor (zápasy, mapa střel, hráči, kdo s kým, metriky, průběh, silné a slabé stránky).</p>
+    <div class="games" style="margin-bottom:28px">${cards}</div>
+    <h2>Srovnání týmů</h2><p class="muted">Pokročilé metriky ze součtů celé sezóny. Malé číslo za hodnotou = pořadí v lize (zelená top 3, červená poslední 3).</p>
     <div class="tabs" id="modes"><button data-m="adv" class="on">Útok & obrana</button><button data-m="ff">Four factors</button><button data-m="shoot">Střelba</button><button data-m="box">Na zápas</button><button data-m="misc">Clutch & čas útoku</button></div>
     <div id="lt"></div><div class="caption" id="lnote"></div>`;
   const T = lg.teams;
@@ -338,83 +344,279 @@ async function viewLeaders(app) {
     <div class="grid g3">${keys.map(k => leaderCard(L[k], 10)).join('')}</div>`;
 }
 
-/* ---------------- TÝM ---------------- */
+/* ---------------- TÝM — celosezónní rozbor (po vzoru srsni-data/rozbory) ---------------- */
+const METRIC_LABELS = {
+  ppg: ['Body na zápas', 'perGame'], oppg: ['Obdržené body', 'perGame'], ortg: ['Útočný rating', 'adv'], drtg: ['Obranný rating', 'adv'],
+  net: ['Net rating', 'adv'], pace: ['Tempo (pace)', 'adv'], efg: ['eFG %', 'adv'], ts: ['TS %', 'adv'], tov: ['Ztrátovost (TOV %)', 'adv'],
+  orb: ['Útočný doskok (ORB %)', 'adv'], drb: ['Obranný doskok (DRB %)', 'adv'], ftr: ['Chození na čáru (FTM/FGA)', 'adv'],
+  three_par: ['Podíl trojek', 'adv'], three: ['Trojky %', 'adv'], two: ['Dvojky %', 'adv'], ft: ['Trestné hody %', 'adv'],
+  ast_pct: ['Asistované koše %', 'adv'], ast_to: ['Asistence / ztráty', 'adv'], stl_pct: ['Zisky na 100 držení soupeře', 'adv'],
+  blk_pct: ['Bloky %', 'adv'], opp_efg: ['eFG % soupeřů', 'oppAdv'], opp_tov: ['Vynucené ztráty soupeřů', 'oppAdv'],
+  opp_ftr: ['FT rate soupeřů (méně = lépe)', 'oppAdv'], opp_three: ['Trojky % soupeřů', 'oppAdv'],
+};
+const tShort = n => { const p = String(n).split(' '); return p.length > 1 ? p[0][0] + '. ' + p.slice(1).join(' ') : n; };
+const pair = (a, b) => `${a}:${b}`;
+const pct0 = (m, a) => a ? f0(100 * m / a) + ' %' : '—';
+
+// jemnější zóny jako v rozboru srsni-data: u koše do 1,8 m, krátká do 4,5 m, střední, roh, trojka mimo roh
+function zoneFine(x, y, three) {
+  const d = Math.hypot((x - 5.2) / 100 * 28, (y - 50) / 100 * 15);
+  if (three) return (x < 13 && Math.abs(y - 50) > 32) ? 'corner' : 'arc';
+  return d < 1.8 ? 'rim' : d < 4.5 ? 'short' : 'mid';
+}
+const ZF = [['rim', 'U koše (do 1,8 m)'], ['short', 'Krátká (do 4,5 m)'], ['mid', 'Střední dvojka'], ['corner', 'Trojka z rohu'], ['arc', 'Trojka mimo roh']];
+
 async function viewTeam(app, slug) {
   const [t, lg] = await Promise.all([getJSON('teams/' + slug + '.json'), getJSON('league.json')]);
   const avg = (lg.averages || {}).adv || {};
   const s = t.standing || {};
   const R = t.ranks || {};
+  const L = t.label;
   const stat = (v, cap, k, c) => `<div class="stat"><b class="${c || ''}">${v}${k ? rk(R, k) : ''}</b><span>${cap}</span></div>`;
+  const secs = [['t-zap', 'Zápasy'], ['t-str', 'Mapa střel'], ['t-hr', 'Hráči'], ['t-ses', 'Kdo s kým'], ['t-met', 'Metriky'], ['t-utok', 'Čas útoku'], ['t-pr', 'Průběh'], ['t-sil', 'Silné a slabé stránky']];
   app.innerHTML = `
-    <div class="team-hero">${t.logo ? `<img src="${esc(t.logo)}" alt="" onerror="this.remove()">` : ''}<div><div class="eyebrow">${s.pos ? s.pos + '. místo' : ''} · trenér ${esc(t.coach || '—')}</div><h1>${esc(t.name)}</h1>
-      <div class="muted">${s.w}-${s.l} · skóre ${s.pf}:${s.pa} · doma ${s.home} · venku ${s.away} · série ${s.streak || '—'}</div></div></div>
+    <div class="team-hero">${t.logo ? `<img src="${esc(t.logo)}" alt="" onerror="this.remove()">` : ''}<div>
+      <div class="eyebrow">Maxa NBL 2026/27 · trenér ${esc(t.coach || '—')} · ${t.games} ${t.games === 1 ? 'zápas' : t.games < 5 ? 'zápasy' : 'zápasů'}</div>
+      <h1>${esc(t.name)}</h1>
+      <div class="muted">${s.pos ? s.pos + '. místo · ' : ''}${s.w}-${s.l} · skóre ${s.pf}:${s.pa} · doma ${s.home} · venku ${s.away} · série ${s.streak || '—'}</div></div>
+      <div style="margin-left:auto"><select id="teamPick">${Object.keys(TEAMS).sort((a, b) => label(a).localeCompare(label(b), 'cs')).map(x => `<option value="${x}" ${x === slug ? 'selected' : ''}>${esc(TEAMS[x].name)}</option>`).join('')}</select></div></div>
+    <nav class="tabs jump">${secs.map(([id, l]) => `<button data-to="${id}">${l}</button>`).join('')}</nav>
     <section><div class="stats">
       ${stat(f1(t.adv.ortg), 'Útočný rating (ORtg)', 'ortg')}${stat(f1(t.adv.drtg), 'Obranný rating (DRtg)', 'drtg')}
       ${stat(signed(t.adv.net), 'Net rating', 'net', cls(t.adv.net))}${stat(f1(t.adv.pace), 'Pace (držení/40 min)', 'pace')}
       ${stat(f1(t.perGame.ppg), 'Body na zápas', 'ppg')}${stat(f1(t.perGame.oppg), 'Obdržené na zápas', 'oppg')}
       ${stat(f1(t.adv.ts), 'TS%', 'ts')}${stat(signed(t.clutch.net), `Clutch +/− (${t.clutch.w}-${t.clutch.l})`, null, cls(t.clutch.net))}
     </div></section>
-    <div class="grid g2">
-      <section class="panel"><h2>Four factors vs. průměr ligy</h2><div class="cmp" id="ff"></div></section>
-      <section class="panel"><h2>Čtvrtiny (průměr na zápas)</h2><div id="qt"></div>
-        <h3 style="margin-top:16px">Průběh</h3><div class="muted" style="font-size:.85rem">Největší vedení ${t.flow.biggestLead} · největší manko ${t.flow.biggestDeficit} · nejdelší série ${t.flow.biggestRun}:0 (soupeř ${t.flow.biggestRunAllowed}:0) · ${f1(t.flow.leadChangesPerGame)} střídání vedení na zápas</div></section>
-    </div>
-    <section style="margin-top:16px"><h2>Hráči</h2><div id="pl"></div></section>
-    <div class="grid g2">
-      <section class="panel"><h2>Zóny střelby</h2><div id="zones"></div></section>
-      <section class="panel"><h2>Body podle času útoku</h2><div id="att"></div></section>
-    </div>
-    <section><h2>Sestavy</h2><div class="tabs" id="lu"><button data-s="fives" class="on">Pětky (≥ 5 min)</button><button data-s="trios">Trojice (≥ 10 min)</button><button data-s="pairs">Dvojice (≥ 15 min)</button></div><div id="lut"></div>
-      <div class="caption">Rekonstrukce z play-by-play podle střídání. Net = rozdíl útočného a obranného ratingu na 100 držení, když byla sestava spolu na hřišti.</div></section>
-    <div class="grid g2">
-      <section><h2>Asistenční dvojice</h2><div id="ast"></div></section>
-      <section><h2>Zápasy</h2><div id="log"></div></section>
-    </div>`;
+
+    <section id="t-zap"><h2>Zápasy</h2><div id="games"></div>
+      <div class="caption">Skóre a hodnoty z pohledu týmu ${esc(L)}. Držení = FGA + 0,44·FTA − OREB + TO. Druhá šance, lavička a body z výmalby: ${esc(L)} : soupeř. Ve vedení: minuty ${esc(L)} : soupeř.</div>
+      <h3 style="margin-top:18px">Čtvrtiny: ${esc(L)} : soupeř</h3><div id="qgames"></div>
+      <div class="grid g2" style="margin-top:16px">
+        <div class="panel"><h3>Four factors vs. průměr ligy</h3><div class="cmp" id="ff"></div></div>
+        <div class="panel"><h3>Čtvrtiny — průměr na zápas</h3><div id="qt"></div></div>
+      </div></section>
+
+    <section id="t-str"><h2>Mapa střel</h2><div class="grid g2">
+      <div class="panel"><div class="toolbar"><select id="shotPl"><option value="">Celý tým</option>${t.shots.players.map((n, i) => `<option value="${i}">${esc(n)}</option>`).join('')}</select></div><div id="shotmap"></div></div>
+      <div class="panel"><h3>Zóny</h3><div id="zf"></div>
+        <h3 style="margin-top:16px">Zóny soupeřů</h3><div id="zopp"></div>
+        <div class="caption">Všechny střely jsou překlopené na jeden koš. U koše = do 1,8 m od koše, krátká = do 4,5 m, roh = trojka z úseku u základní čáry.</div></div>
+    </div></section>
+
+    <section id="t-hr"><h2>Hráči</h2><div id="pl"></div>
+      <div class="caption">Součty za sezónu. Z = odehrané zápasy (v závorce v základní sestavě). Ø = body na zápas. EFF = body + doskoky + asistence + zisky + bloky − neproměněné střely − ztráty.</div></section>
+
+    <section id="t-ses"><h2>Kdo s kým</h2>
+      <p class="muted">Z play-by-play je zrekonstruováno, kdo byl kdy na hřišti. Hodnoty jsou body na 100 držení: útok (ORtg), obrana (DRtg) a rozdíl (net). Malé vzorky berte orientačně.</p>
+      <div class="grid g3" id="finds"></div>
+      <h3 style="margin-top:18px">On/off: tým s hráčem a bez něj</h3><div id="onoff"></div><div class="caption">Seřazeno podle dopadu = net s hráčem minus net bez něj.</div>
+      <h3 style="margin-top:18px">Dvojice</h3><div class="tabs" id="mxMode"><button data-m="rtg" class="on">Na 100 držení</button><button data-m="pm">Skutečné +/−</button></div>
+      <div class="tx"><div class="matrix" id="matrix"></div></div><div class="caption" id="mxNote"></div>
+      <div class="grid g2" style="margin-top:16px"><div><h3>Nejlepší trojice</h3><div id="tbest"></div></div><div><h3>Nejhorší trojice</h3><div id="tworst"></div></div></div>
+      <div class="caption">Trojice s alespoň 10 odehranými minutami.</div>
+      <h3 style="margin-top:18px">Pětky</h3><div id="fives"></div><div class="caption">Pětky s alespoň 2,5 minuty, seřazené podle minut. Malé vzorky, berte je orientačně.</div>
+      <h3 style="margin-top:18px">Asistenční dvojice</h3><div id="ast"></div></section>
+
+    <section id="t-met"><h2>Individuální metriky</h2><div id="met"></div>
+      <div class="caption">Hráči s alespoň 10 minutami. TS % = body / (2·(FGA + 0,44·FTA)), USG % = podíl akcí týmu zakončených hráčem, body/akci = body / (FGA + 0,44·FTA + TO), 3PA % = podíl trojek ze střel, FTr = FTA/FGA. Najeď na záhlaví sloupce pro vysvětlení.</div></section>
+
+    <section id="t-utok"><h2>Body podle času útoku <span class="badge">experiment</span></h2><div id="att"></div></section>
+
+    <section id="t-pr"><h2>Průběh zápasů</h2><div id="flow"></div><div class="caption">Skóre je vždy ${esc(L)} : soupeř.</div>
+      <h3 style="margin-top:18px">Začátky a konce čtvrtin</h3><div id="seg"></div>
+      <div class="caption">Body v prvních 3 a v posledních 3 minutách čtvrtin (součet všech čtvrtin) a v posledních 5 minutách zápasu.</div>
+      ${t.clutch.games ? `<div class="caption">Clutch (posledních 5 min, rozdíl ≤ 5): ${t.clutch.games} zápasů, bilance ${t.clutch.w}-${t.clutch.l}, body ${t.clutch.pts}:${t.clutch.opp}, střelba ${t.clutch.fgm}/${t.clutch.fga}, TH ${t.clutch.ftm}/${t.clutch.fta}, ztráty ${t.clutch.to}.</div>` : ''}</section>
+
+    <section id="t-sil"><h2>Silné a slabé stránky</h2><div class="grid g2" id="sw"></div>
+      <div class="caption">Automaticky podle pořadí v lize (top 3 / poslední 3 z ${R.of || 12} týmů) a srovnání s ligovým průměrem.</div></section>`;
+
+  $('#teamPick').onchange = e => { location.hash = '#/tym/' + e.target.value; };
+  app.querySelectorAll('.jump button').forEach(b => b.onclick = () => {
+    const el = document.getElementById(b.dataset.to); window.scrollTo({top: window.scrollY + el.getBoundingClientRect().top - 70, behavior: 'smooth'});
+  });
+
+  const log = t.log;
+  const oppCell = r => `<a href="#/zapas/${r.fibaId}">${r.venue === 'home' ? 'vs ' : '@ '}${esc(r.opponentLabel)}</a> <span class="muted">${esc((r.round || '').replace(' kolo', ''))}</span>`;
+  const res = r => `<span class="badge ${r.result === 'W' ? 'w' : 'l'}">${r.result === 'W' ? 'V' : 'P'}</span>`;
+  // zápasy
+  sortTable($('#games'), [
+    {k: 'd', t: 'Soupeř', l: true, get: r => r.date, fmt: (v, r) => oppCell(r), asc: true},
+    {k: 'sc', t: 'Skóre', get: r => r.score[0] - r.score[1], fmt: (v, r) => res(r) + ' ' + pair(...r.score) + (r.ot ? ' pp' : '')},
+    {k: 'ortg', t: 'Body/100', get: r => r.ortg, fmt: f1}, {k: 'drtg', t: 'Soupeř/100', get: r => r.drtg, fmt: f1, asc: true},
+    {k: 'efg', t: 'eFG %', get: r => r.efg, fmt: f1}, {k: 'oefg', t: 'eFG soupeře', get: r => r.oppEfg, fmt: f1, asc: true},
+    {k: 'tp', t: '3P', get: r => r.tp[1] ? r.tp[0] / r.tp[1] : null, fmt: (v, r) => r.tp.join('/')},
+    {k: 'ft', t: 'TH', get: r => r.ft[1] ? r.ft[0] / r.ft[1] : null, fmt: (v, r) => r.ft.join('/')},
+    {k: 'tov', t: 'TO %', get: r => r.tov, fmt: f1, asc: true}, {k: 'orb', t: 'OREB %', get: r => r.orb, fmt: f1}, {k: 'oorb', t: 'OREB % soup.', get: r => r.oppOrb, fmt: f1, asc: true},
+    {k: 'sec', t: 'Druhá šance', get: r => r.second[0] - r.second[1], fmt: (v, r) => pair(...r.second)},
+    {k: 'pnt', t: 'Výmalba', get: r => r.paint[0] - r.paint[1], fmt: (v, r) => pair(...r.paint)},
+    {k: 'ben', t: 'Lavička', get: r => r.bench[0] - r.bench[1], fmt: (v, r) => pair(...r.bench)},
+    {k: 'lead', t: 'Ve vedení', get: r => r.leading[0] - r.leading[1], fmt: (v, r) => f0(r.leading[0]) + ':' + f0(r.leading[1])}],
+    log, {sort: 'd', dir: 1, stickyFirst: true,
+      foot: (() => { const tot = (f, i) => log.reduce((a, r) => a + r[f][i], 0); return `<tfoot><tr class="tot"><td class="l sticky">Celkem</td><td>${s.w}-${s.l} · ${t.totals.pts}:${t.oppTotals.pts}</td><td>${f1(t.adv.ortg)}</td><td>${f1(t.adv.drtg)}</td><td>${f1(t.adv.efg)}</td><td>${f1(t.oppAdv.opp_efg)}</td><td>${t.totals.tpm}/${t.totals.tpa}</td><td>${t.totals.ftm}/${t.totals.fta}</td><td>${f1(t.adv.tov)}</td><td>${f1(t.adv.orb)}</td><td>${f1(100 - t.adv.drb)}</td><td>${pair(tot('second', 0), tot('second', 1))}</td><td>${pair(tot('paint', 0), tot('paint', 1))}</td><td>${pair(tot('bench', 0), tot('bench', 1))}</td><td>${f0(tot('leading', 0))}:${f0(tot('leading', 1))}</td></tr></tfoot>`; })()});
+  // čtvrtiny po zápasech
+  const nq = Math.max(4, ...log.map(r => r.quarters.length));
+  sortTable($('#qgames'), [{k: 'd', t: 'Soupeř', l: true, get: r => r.date, fmt: (v, r) => oppCell(r), s: false}]
+    .concat([...Array(nq).keys()].map(i => ({k: 'q' + i, t: i < 4 ? 'Q' + (i + 1) : 'PP' + (i > 4 ? i - 3 : ''), s: false, get: r => r.quarters[i] ? r.quarters[i][0] - r.quarters[i][1] : null,
+      fmt: (v, r) => r.quarters[i] ? `<span class="${cls(v)}">${pair(...r.quarters[i])}</span>` : ''}))),
+    log);
+  sortTable($('#qt'), [{k: 'label', t: 'Perioda', l: true, get: r => r.label, s: false}, {k: 'ppg', t: esc(L), get: r => r.ppg, fmt: f1, s: false},
+    {k: 'oppg', t: 'Soupeř', get: r => r.oppg, fmt: f1, s: false}, {k: 'diff', t: '+/−', get: r => r.diff, fmt: signed, cls: cls, s: false}, {k: 'n', t: 'Zápasů', get: r => r.n, s: false}], t.quarters);
   // four factors
   const ff = [['eFG%', t.adv.efg, avg.efg, true], ['TOV%', t.adv.tov, avg.tov, false], ['ORB%', t.adv.orb, avg.orb, true], ['FT rate', t.adv.ftr, avg.ftr, true],
     ['Soupeř eFG%', t.oppAdv.opp_efg, avg.efg, false], ['Soupeř TOV%', t.oppAdv.opp_tov, avg.tov, true], ['DRB%', t.adv.drb, avg.drb, true], ['Soupeř FT rate', t.oppAdv.opp_ftr, avg.ftr, false]];
   $('#ff').innerHTML = ff.map(([l, v, a, hi]) => {
     const mx = Math.max(v || 0, a || 0, 1), good = hi ? v >= a : v <= a;
     return `<div><div class="lbl"><span>${l}</span><span class="${good ? 'pos' : 'neg'}">${signed(v != null && a != null ? Math.round((v - a) * 10) / 10 : null)}</span></div>
-      <div class="row"><span class="who">${esc(t.label)}</span><div class="track"><div class="fill h" style="width:${100 * (v || 0) / mx}%"></div></div><span class="v">${f1(v)}</span></div>
+      <div class="row"><span class="who">${esc(L)}</span><div class="track"><div class="fill h" style="width:${100 * (v || 0) / mx}%"></div></div><span class="v">${f1(v)}</span></div>
       <div class="row"><span class="who">liga</span><div class="track"><div class="fill lg" style="width:${100 * (a || 0) / mx}%"></div></div><span class="v">${f1(a)}</span></div></div>`;
   }).join('');
-  sortTable($('#qt'), [{k: 'label', t: 'Perioda', l: true, get: r => r.label, s: false}, {k: 'ppg', t: 'Body', get: r => r.ppg, fmt: f1, s: false},
-    {k: 'oppg', t: 'Obdr.', get: r => r.oppg, fmt: f1, s: false}, {k: 'diff', t: '+/−', get: r => r.diff, fmt: signed, cls: cls, s: false}, {k: 'n', t: 'Zápasů', get: r => r.n, s: false}], t.quarters);
-  // hráči
-  sortTable($('#pl'), [
-    {k: 'name', t: 'Hráč', l: true, get: r => r.name, fmt: (v, r) => `<span class="muted">${esc(r.shirt)}</span> <span class="name">${esc(v)}</span>`, asc: true},
-    {k: 'gp', t: 'Z', get: r => r.gp}, {k: 'min', t: 'Min', get: r => r.perGame.min, fmt: f1}, {k: 'pts', t: 'Body', get: r => r.perGame.pts, fmt: f1},
-    {k: 'reb', t: 'Dosk.', get: r => r.perGame.reb, fmt: f1}, {k: 'ast', t: 'Asist.', get: r => r.perGame.ast, fmt: f1},
-    {k: 'stl', t: 'Zisky', get: r => r.perGame.stl, fmt: f1}, {k: 'to', t: 'Ztr.', get: r => r.perGame.to, fmt: f1, asc: true},
-    {k: 'ts', t: 'TS%', get: r => r.ts, fmt: f1}, {k: 'efg', t: 'eFG%', get: r => r.efg, fmt: f1}, {k: 'three', t: '3P%', get: r => r.three, fmt: (v, r) => f1(v) + ` <span class="muted">${r.totals.tpm}/${r.totals.tpa}</span>`},
-    {k: 'usg', t: 'USG%', get: r => r.usg, fmt: f1}, {k: 'eff', t: 'EFF', get: r => r.perGame.eff, fmt: f1},
-    {k: 'pm', t: '+/−', get: r => r.pm, fmt: signed, cls: cls}, {k: 'onOff', t: 'On/off', get: r => r.onOff, fmt: signed, cls: cls}], t.players, {sort: 'pts', stickyFirst: true});
-  // zóny
+
+  // mapa střel + zóny
+  const drawShots = () => {
+    const pi = $('#shotPl').value;
+    const list = t.shots.list.filter(x => pi === '' || x[4] === +pi);
+    $('#shotmap').innerHTML = shotChart(list, 'var(--home)');
+    const z = {}; ZF.forEach(([k]) => z[k] = {m: 0, a: 0, three: k === 'corner' || k === 'arc'});
+    list.forEach(x => { const k = zoneFine(x[0], x[1], x[3]); z[k].a++; if (x[2]) z[k].m++; });
+    const all = list.length;
+    $('#zf').innerHTML = `<div class="tx"><table><thead><tr><th class="l">Zóna</th><th>Trefa</th><th>%</th><th>eFG %</th><th>Podíl střel</th></tr></thead><tbody>${ZF.map(([k, n]) =>
+      `<tr><td class="l">${n}</td><td>${z[k].m}/${z[k].a}</td><td>${pct0(z[k].m, z[k].a)}</td><td>${z[k].a ? f0(100 * z[k].m * (z[k].three ? 1.5 : 1) / z[k].a) + ' %' : '—'}</td><td>${pct0(z[k].a, all)}</td></tr>`).join('')}</tbody></table></div>`;
+  };
+  $('#shotPl').onchange = drawShots;
+  drawShots();
   const ZL = {paint: 'Dvojka v paintu', mid: 'Střední dvojka', corner3: 'Trojka z rohu', above3: 'Trojka z oblouku'};
-  $('#zones').innerHTML = `<div class="tx"><table><thead><tr><th class="l">Zóna</th><th>Tým</th><th>%</th><th>Podíl</th><th>Soupeři</th><th>%</th></tr></thead><tbody>${Object.keys(ZL).map(z => {
-    const a = t.zones[z], o = t.oppZones[z];
-    return `<tr><td class="l">${ZL[z]}</td><td>${a.m}/${a.a}</td><td>${f1(a.pct)}</td><td>${f0(a.share)} %</td><td>${o.m}/${o.a}</td><td>${f1(o.pct)}</td></tr>`;
-  }).join('')}</tbody></table></div>`;
-  attackTable($('#att'), t.attack.bands, [{name: 'Tým', bands: t.attack.pts}], `Útoků ~${t.attack.possessions}, ${t.attack.ptsPerPoss == null ? '—' : t.attack.ptsPerPoss.toFixed(2)} bodu na útok, Ø sekunda skórování ${f1(t.attack.avgSec)} s.`);
-  // sestavy
-  const luDraw = size => sortTable($('#lut'), [
-    {k: 'players', t: 'Hráči', l: true, get: r => r.players.join(', '), fmt: v => `<span style="white-space:normal">${esc(v)}</span>`, s: false},
-    {k: 'min', t: 'Min', get: r => r.min, fmt: f1}, {k: 'sc', t: 'Skóre', get: r => r.pf, fmt: (v, r) => r.pf + ':' + r.pa},
-    {k: 'pm', t: '+/−', get: r => r.pm, fmt: signed, cls: cls}, {k: 'ortg', t: 'ORtg', get: r => r.ortg, fmt: f1}, {k: 'drtg', t: 'DRtg', get: r => r.drtg, fmt: f1, asc: true},
-    {k: 'net', t: 'Net', get: r => r.net, fmt: v => `<b>${signed(v)}</b>`, cls: cls}, {k: 'efg', t: 'eFG my/soup.', get: r => r.efg, fmt: (v, r) => f0(r.efg) + ' / ' + f0(r.oefg)}],
-    t.lineups[size].slice(0, 40), {sort: 'min'});
-  $('#lu').querySelectorAll('button').forEach(b => b.onclick = () => { $('#lu').querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b)); luDraw(b.dataset.s); });
-  luDraw('fives');
+  $('#zopp').innerHTML = `<div class="tx"><table><thead><tr><th class="l">Zóna</th><th>Trefa</th><th>%</th></tr></thead><tbody>${Object.keys(ZL).map(k => { const o = t.oppZones[k]; return `<tr><td class="l">${ZL[k]}</td><td>${o.m}/${o.a}</td><td>${pct0(o.m, o.a)}</td></tr>`; }).join('')}</tbody></table></div>`;
+
+  // hráči (součty)
+  const P = t.players;
+  sortTable($('#pl'), [
+    {k: 'shirt', t: '#', get: r => +r.shirt || 0, asc: true}, {k: 'name', t: 'Hráč', l: true, get: r => r.name, fmt: v => `<span class="name">${esc(v)}</span>`, asc: true},
+    {k: 'gp', t: 'Z', get: r => r.gp, fmt: (v, r) => `${v} <span class="muted">(${r.gs})</span>`}, {k: 'min', t: 'Min', get: r => r.min, fmt: f0},
+    {k: 'pts', t: 'Body', get: r => r.totals.pts, fmt: v => `<b>${v}</b>`}, {k: 'ppg', t: 'Ø', get: r => r.perGame.pts, fmt: f1},
+    {k: 'fg', t: 'Ze hry', get: r => r.fg, fmt: (v, r) => `${r.totals.fgm}/${r.totals.fga} <span class="muted">${f0(v)}</span>`},
+    {k: 'tp', t: '3P', get: r => r.three, fmt: (v, r) => `${r.totals.tpm}/${r.totals.tpa} <span class="muted">${f0(v)}</span>`},
+    {k: 'ft', t: 'TH', get: r => r.ft, fmt: (v, r) => `${r.totals.ftm}/${r.totals.fta} <span class="muted">${f0(v)}</span>`},
+    {k: 'reb', t: 'Dosk. (útoč.)', get: r => r.totals.reb, fmt: (v, r) => `${v} <span class="muted">(${r.totals.oreb})</span>`},
+    {k: 'ast', t: 'As.', get: r => r.totals.ast}, {k: 'to', t: 'Ztr.', get: r => r.totals.to, asc: true}, {k: 'stl', t: 'Zisky', get: r => r.totals.stl},
+    {k: 'blk', t: 'Bloky', get: r => r.totals.blk}, {k: 'pm', t: '+/−', get: r => r.pm, fmt: signed, cls: cls},
+    {k: 'eff', t: 'Efekt.', get: r => Math.round(r.perGame.eff * r.gp)}], P, {sort: 'pts', stickyFirst: false});
+
+  // kdo s kým — nálezy
+  const sh = n => tShort(n);
+  const onoff = P.filter(p => p.on.min >= 10 && p.onOff != null).sort((a, b) => b.onOff - a.onOff);
+  const prs = t.lineups.pairs.filter(r => r.min >= 8 && r.net != null).sort((a, b) => b.net - a.net);
+  const trios = t.lineups.trios.filter(r => r.min >= 10 && r.net != null);
+  const fv = t.lineups.fives;
+  const find = (lab, cls2, big, body) => `<div class="panel find ${cls2}"><span class="eyebrow">${lab}</span><b class="big ${cls2 === 'good' ? 'pos' : cls2 === 'bad' ? 'neg' : ''}">${big}</b><div style="font-size:.88rem">${body}</div></div>`;
+  const F = [];
+  if (onoff.length) { const k = onoff[0]; F.push(find('Klíčový hráč', 'good', signed(k.onOff), `<b>${esc(sh(k.name))}</b>: tým s ním ${signed(k.on.net)} na 100 držení, bez něj ${signed(k.off.net)} (${f0(k.on.min)} min na hřišti).`)); }
+  if (prs.length) { const b = prs[0]; F.push(find('Nejlepší dvojice', 'good', signed(Math.round(b.net)), `<b>${b.players.map(sh).join(' + ')}</b>: ${f0(b.min)} minut, ${pair(b.pf, b.pa)}.`)); }
+  if (prs.length > 1) { const w = prs[prs.length - 1]; F.push(find('Nejhorší dvojice', 'bad', signed(Math.round(w.net)), `<b>${w.players.map(sh).join(' + ')}</b>: ${f0(w.min)} minut, ${pair(w.pf, w.pa)}.`)); }
+  if (fv.length) { const u = fv[0]; F.push(find(u.pm >= 0 ? 'Nejpoužívanější pětka vyhrává' : 'Nejpoužívanější pětka prohrává', u.pm >= 0 ? 'good' : 'bad', pair(u.pf, u.pa), `${u.players.map(sh).join(', ')}: ${f1(u.min)} minut v ${u.games} zápasech, vlastní eFG ${f0(u.efg)} %.`)); }
+  if (trios.length) { const b = trios.slice().sort((a, c) => c.net - a.net)[0]; F.push(find('Nejlepší trojice', 'good', signed(Math.round(b.net)), `<b>${b.players.map(sh).join(' – ')}</b>: ${f0(b.min)} minut, ${pair(b.pf, b.pa)}.`)); }
+  if (onoff.length > 1) { const k = onoff[onoff.length - 1]; F.push(find('Bez něj je tým lepší', 'bad', signed(k.onOff), `<b>${esc(sh(k.name))}</b>: s ním ${signed(k.on.net)}, bez něj ${signed(k.off.net)} na 100 držení.`)); }
+  $('#finds').innerHTML = F.join('');
+  sortTable($('#onoff'), [
+    {k: 'name', t: 'Hráč', l: true, get: r => r.name, fmt: v => `<span class="name">${esc(v)}</span>`, asc: true},
+    {k: 'min', t: 'Min', get: r => r.on.min, fmt: f0}, {k: 'sc', t: 'Skóre', get: r => r.on.pf - r.on.pa, fmt: (v, r) => pair(r.on.pf, r.on.pa)},
+    {k: 'ortg', t: 'ORtg', get: r => r.on.ortg, fmt: f1}, {k: 'drtg', t: 'DRtg', get: r => r.on.drtg, fmt: f1, asc: true},
+    {k: 'on', t: 'Net s ním', get: r => r.on.net, fmt: signed, cls: cls}, {k: 'off', t: 'Net bez něj', get: r => r.off.net, fmt: signed, cls: cls},
+    {k: 'onOff', t: 'Dopad', get: r => r.onOff, fmt: v => `<b>${signed(v)}</b>`, cls: cls}], onoff, {sort: 'onOff'});
+  // matice dvojic
+  let mxMode = 'rtg';
+  const drawMx = () => {
+    const pairs = {}; t.lineups.pairs.forEach(r => pairs[r.players.slice().sort().join('|')] = r);
+    const pl = P.filter(p => p.on.min >= 5).sort((a, b) => b.on.min - a.on.min).map(p => p.name);
+    const tint = (v, min, cap) => `color-mix(in srgb, var(${v >= 0 ? '--good' : '--bad'}) ${(Math.min(1, Math.abs(v) / cap) * Math.min(1, min / 15) * 60 + 6).toFixed(0)}%, var(--panel))`;
+    const m = $('#matrix'); m.style.gridTemplateColumns = `max-content repeat(${pl.length}, minmax(50px, 1fr))`;
+    let h = '<div></div>' + pl.map(n => `<div class="hd">${esc(sh(n))}</div>`).join('');
+    pl.forEach(a => {
+      h += `<div class="rh">${esc(sh(a))}</div>`;
+      pl.forEach(b => {
+        if (a === b) { h += '<div class="cell self"></div>'; return; }
+        const r = pairs[[a, b].sort().join('|')];
+        if (!r) { h += '<div class="cell empty" title="spolu méně než 3 minuty">·</div>'; return; }
+        const v = mxMode === 'rtg' ? (r.net || 0) : r.pm;
+        h += `<div class="cell" title="${esc(sh(a))} + ${esc(sh(b))}: ${f1(r.min)} min, ${pair(r.pf, r.pa)}, net ${signed(Math.round(r.net))}" style="background:${mxMode === 'rtg' ? tint(v, r.min, 60) : tint(v, 15, 15)}"><b>${mxMode === 'rtg' ? (r.net == null ? '—' : signed(Math.round(r.net))) : signed(v)}</b><small>${mxMode === 'rtg' ? f0(r.min) + ' min' : pair(r.pf, r.pa)}</small></div>`;
+      });
+    });
+    m.innerHTML = h;
+    $('#mxNote').textContent = mxMode === 'rtg'
+      ? 'Net rating dvojice: rozdíl skóre přepočtený na 100 držení, takže se dají srovnat dvojice s různými minutami. U krátkých úseků jeden koš pohne číslem o 10 i víc bodů. Prázdné pole = spolu méně než 3 minuty.'
+      : 'Skutečný rozdíl skóre, když byla dvojice spolu na hřišti, bez přepočtu. Malé vzorky nezveličuje.';
+  };
+  $('#mxMode').querySelectorAll('button').forEach(b => b.onclick = () => { mxMode = b.dataset.m; $('#mxMode').querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b)); drawMx(); });
+  drawMx();
+  const unitCols = (lab, extra = []) => [
+    {k: 'players', t: lab, l: true, get: r => r.players.join(', '), fmt: (v, r) => `<span style="white-space:normal">${esc(r.players.map(sh).join(', '))}</span>`, s: false}]
+    .concat(extra, [{k: 'min', t: 'Min', get: r => r.min, fmt: f1}, {k: 'sc', t: 'Skóre', get: r => r.pf - r.pa, fmt: (v, r) => pair(r.pf, r.pa)},
+      {k: 'ortg', t: 'ORtg', get: r => r.ortg, fmt: f1}, {k: 'drtg', t: 'DRtg', get: r => r.drtg, fmt: f1, asc: true},
+      {k: 'net', t: 'Net', get: r => r.net, fmt: v => `<b>${signed(v == null ? null : Math.round(v))}</b>`, cls: cls},
+      {k: 'efg', t: 'eFG my/soup.', get: r => r.efg, fmt: (v, r) => f0(r.efg) + ' / ' + f0(r.oefg)}]);
+  const tSorted = trios.slice().sort((a, b) => b.net - a.net);
+  sortTable($('#tbest'), unitCols('Trojice'), tSorted.slice(0, 6), {sort: 'net'});
+  sortTable($('#tworst'), unitCols('Trojice'), tSorted.slice(-6).reverse(), {sort: 'net', dir: 1});
+  sortTable($('#fives'), unitCols('Pětka', [{k: 'games', t: 'Zápasy', get: r => r.games}]), fv, {sort: 'min'});
   sortTable($('#ast'), [{k: 'p', t: 'Nahrávač → střelec', l: true, get: r => r.passer, fmt: (v, r) => esc(r.passer) + ' → ' + esc(r.scorer), s: false},
     {k: 'ast', t: 'Asist.', get: r => r.ast}, {k: 'pts', t: 'Body', get: r => r.pts}], t.assistPairs.slice(0, 15), {sort: 'ast'});
-  sortTable($('#log'), [
-    {k: 'date', t: 'Datum', l: true, get: r => r.date, fmt: (v, r) => `<a href="#/zapas/${r.fibaId}">${v ? v.split('-').reverse().slice(0, 2).join('. ') + '.' : ''}</a>`, asc: true},
-    {k: 'opp', t: 'Soupeř', l: true, get: r => r.opponentLabel, fmt: (v, r) => (r.venue === 'home' ? 'vs ' : '@ ') + esc(v), asc: true},
-    {k: 'res', t: '', get: r => r.result, s: false, fmt: v => `<span class="badge ${v === 'W' ? 'w' : 'l'}">${v === 'W' ? 'V' : 'P'}</span>`},
-    {k: 'sc', t: 'Skóre', get: r => r.score[0] - r.score[1], fmt: (v, r) => r.score.join(':') + (r.ot ? ' pp' : '')},
-    {k: 'net', t: 'Net', get: r => r.net, fmt: signed, cls: cls}, {k: 'pace', t: 'Pace', get: r => r.pace, fmt: f1}, {k: 'efg', t: 'eFG%', get: r => r.efg, fmt: f1},
-    {k: 'top', t: 'Nejlepší střelec', l: true, get: r => r.topScorer, s: false}], t.log.slice().reverse());
+
+  // individuální metriky
+  const per40 = (r, k) => r.min ? 40 * r.totals[k] / r.min : null;
+  sortTable($('#met'), [
+    {k: 'name', t: 'Hráč', l: true, get: r => r.name, fmt: v => `<span class="name">${esc(v)}</span>`, asc: true},
+    {k: 'min', t: 'Min', get: r => r.min, fmt: f0}, {k: 'ts', t: 'TS %', get: r => r.ts, fmt: f1, title: 'pravá střelecká úspěšnost'},
+    {k: 'efg', t: 'eFG %', get: r => r.efg, fmt: f1, title: 'trojka se počítá 1,5×'}, {k: 'usg', t: 'USG %', get: r => r.usg, fmt: f1, title: 'podíl akcí týmu zakončených hráčem'},
+    {k: 'ppa', t: 'Body/akci', get: r => { const a = r.totals.fga + 0.44 * r.totals.fta + r.totals.to; return a ? r.totals.pts / a : null; }, fmt: v => v == null ? '—' : v.toFixed(2), title: 'body / (FGA + 0,44·FTA + TO)'},
+    {k: 'ato', t: 'As/Ztr', get: r => r.astTo, fmt: v => v == null ? '—' : v.toFixed(1)},
+    {k: 'p40', t: 'Body/40', get: r => per40(r, 'pts'), fmt: f1}, {k: 'r40', t: 'Dosk/40', get: r => per40(r, 'reb'), fmt: f1},
+    {k: 'a40', t: 'As/40', get: r => per40(r, 'ast'), fmt: f1}, {k: 't40', t: 'Ztr/40', get: r => per40(r, 'to'), fmt: f1, asc: true},
+    {k: 's40', t: 'Zisky/40', get: r => per40(r, 'stl'), fmt: f1}, {k: 'f40', t: 'Fauly/40', get: r => per40(r, 'pf'), fmt: f1, asc: true},
+    {k: 'tpar', t: '3PA %', get: r => r.totals.fga ? 100 * r.totals.tpa / r.totals.fga : null, fmt: f0, title: 'podíl trojek ze střel ze hry'},
+    {k: 'ftr', t: 'FTr', get: r => r.totals.fga ? 100 * r.totals.fta / r.totals.fga : null, fmt: f0, title: 'trestné hody na 100 střel ze hry'}],
+    P.filter(p => p.min >= 10), {sort: 'ts', stickyFirst: true});
+
+  // čas útoku po hráčích
+  attackTable($('#att'), t.attack.bands, t.attackPlayers.map(p => ({name: p.name, bands: p.bands})).concat([{name: 'Tým', bands: t.attack.pts}]),
+    `Kdo dal kolik bodů v kterém pásmu útoku. Útoků ~${t.attack.possessions}, ${t.attack.ptsPerPoss == null ? '—' : t.attack.ptsPerPoss.toFixed(2)} bodu na útok, Ø sekunda skórování ${f1(t.attack.avgSec)} s. Odhad z play-by-play (hodiny mají rozlišení 1 s); doskok v útoku pokračuje v témže útoku.`);
+
+  // průběh
+  sortTable($('#flow'), [
+    {k: 'd', t: 'Soupeř', l: true, get: r => r.date, fmt: (v, r) => oppCell(r), asc: true},
+    {k: 'sc', t: 'Skóre', get: r => r.score[0] - r.score[1], fmt: (v, r) => res(r) + ' ' + pair(...r.score)},
+    {k: 'lead', t: 'Ve vedení (min)', get: r => r.leading[0] - r.leading[1], fmt: (v, r) => f0(r.leading[0]) + ':' + f0(r.leading[1])},
+    {k: 'lc', t: 'Změny vedení', get: r => r.leadChanges},
+    {k: 'ml', t: 'Největší vedení', get: r => r.maxLead[0] - r.maxLead[1], fmt: (v, r) => '+' + r.maxLead[0] + ' / +' + r.maxLead[1]},
+    {k: 'r0', t: 'Náš nejdelší běh', get: r => r.maxRun[0], fmt: v => v + ':0'}, {k: 'r1', t: 'Jejich nejdelší běh', get: r => r.maxRun[1], fmt: v => v + ':0', asc: true},
+    {k: 'af', t: 'Asistované koše', get: r => r.astFg[0][1] ? r.astFg[0][0] / r.astFg[0][1] : null, fmt: (v, r) => `${r.astFg[0][0]}/${r.astFg[0][1]} : ${r.astFg[1][0]}/${r.astFg[1][1]}`}],
+    log, {sort: 'd', dir: 1});
+  const segTot = t.segments;
+  sortTable($('#seg'), [
+    {k: 'd', t: 'Soupeř', l: true, get: r => r.date, fmt: (v, r) => oppCell(r), asc: true},
+    {k: 'f3', t: 'První 3 min čtvrtin', get: r => r.segments.first3[0] - r.segments.first3[1], fmt: (v, r) => `<span class="${cls(v)}">${pair(...r.segments.first3)}</span>`},
+    {k: 'l3', t: 'Posledních 3 min čtvrtin', get: r => r.segments.last3[0] - r.segments.last3[1], fmt: (v, r) => `<span class="${cls(v)}">${pair(...r.segments.last3)}</span>`},
+    {k: 'l5', t: 'Posledních 5 min zápasu', get: r => r.segments.last5[0] - r.segments.last5[1], fmt: (v, r) => `<span class="${cls(v)}">${pair(...r.segments.last5)}</span>`}],
+    log, {sort: 'd', dir: 1, foot: `<tfoot><tr class="tot"><td class="l">Celkem</td><td>${pair(...segTot.first3)}</td><td>${pair(...segTot.last3)}</td><td>${pair(...segTot.last5)}</td></tr></tfoot>`});
+
+  // silné a slabé stránky
+  const of = R.of || 12;
+  const leagueVal = (k, where) => where === 'perGame' ? ((lg.averages || {}).perGame || {})[k === 'ppg' || k === 'oppg' ? 'pts' : k] : avg[k.replace('opp_', '')];
+  const item = k => {
+    const [lab, where] = METRIC_LABELS[k] || [k, 'adv'];
+    const v = t[where] && t[where][k];
+    const a = k === 'net' || k === 'diff' ? 0 : leagueVal(k, where);
+    return `<li><b>${lab}</b> — ${k === 'ast_to' ? (v == null ? '—' : v.toFixed(2)) : f1(v)} <span class="muted">(${R[k]}. v lize${a != null ? ', průměr ' + (k === 'ast_to' ? a.toFixed(2) : f1(a)) : ''})</span></li>`;
+  };
+  const ks = Object.keys(METRIC_LABELS).filter(k => R[k] != null && k !== 'pace');  // tempo není dobré ani špatné
+  const strong = ks.filter(k => R[k] <= 3).sort((a, b) => R[a] - R[b]);
+  const weak = ks.filter(k => R[k] > of - 3).sort((a, b) => R[b] - R[a]);
+  const extra = [];
+  const zb = t.zones;
+  if (zb.corner3 && zb.corner3.a >= 10) extra.push(`Trojky z rohu ${zb.corner3.m}/${zb.corner3.a} (${f0(zb.corner3.pct)} %), mimo roh ${zb.above3.m}/${zb.above3.a} (${f0(zb.above3.pct)} %).`);
+  extra.push(`Body z výmalby ${t.totals.paint}:${t.oppTotals.paint}, z lavičky ${t.totals.bench}:${t.oppTotals.bench}, z druhé šance ${t.totals.second}:${t.oppTotals.second}, po ztrátách soupeře ${t.totals.offto}:${t.oppTotals.offto}.`);
+  extra.push(`Konce čtvrtin ${pair(...segTot.last3)}, začátky čtvrtin ${pair(...segTot.first3)}, posledních 5 minut zápasů ${pair(...segTot.last5)}.`);
+  $('#sw').innerHTML = `<div class="panel"><h3 class="pos">Na čem ${esc(L)} stojí</h3><ul>${strong.map(item).join('') || '<li class="muted">Žádná metrika v top 3 ligy.</li>'}</ul></div>
+    <div class="panel"><h3 class="neg">Na čem pracovat</h3><ul>${weak.map(item).join('') || '<li class="muted">Žádná metrika mezi posledními třemi.</li>'}</ul></div>
+    <div class="panel" style="grid-column:1/-1"><h3>Další čísla</h3><ul>${extra.map(x => `<li>${x}</li>`).join('')}</ul></div>`;
 }
 
 function attackTable(el, bands, rows, note) {

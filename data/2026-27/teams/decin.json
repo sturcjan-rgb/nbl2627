@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-01T05:29:32+00:00",
+ "generatedAt": "2026-10-01T05:51:21+00:00",
  "slug": "decin",
  "name": "BK ARMEX ENERGY Děčín",
  "label": "Děčín",
@@ -310,7 +310,8 @@
     "drtg": 93.2,
     "net": 2.4,
     "efg": 39.7,
-    "oefg": 44.3
+    "oefg": 44.3,
+    "games": 4
    },
    {
     "players": [
@@ -331,7 +332,8 @@
     "drtg": 119.2,
     "net": -37.5,
     "efg": 47.5,
-    "oefg": 60.4
+    "oefg": 60.4,
+    "games": 4
    },
    {
     "players": [
@@ -352,7 +354,8 @@
     "drtg": 155.3,
     "net": -28.4,
     "efg": 60.7,
-    "oefg": 67.5
+    "oefg": 67.5,
+    "games": 4
    },
    {
     "players": [
@@ -373,7 +376,8 @@
     "drtg": 61.5,
     "net": 34.9,
     "efg": 40.0,
-    "oefg": 31.2
+    "oefg": 31.2,
+    "games": 2
    },
    {
     "players": [
@@ -394,7 +398,250 @@
     "drtg": 55.6,
     "net": 92.7,
     "efg": 65.0,
-    "oefg": 25.0
+    "oefg": 25.0,
+    "games": 1
+   },
+   {
+    "players": [
+     "Marek Houška",
+     "Marius Grazulis",
+     "Tomáš Pomikálek",
+     "Tomáš Vyoral",
+     "Zaccharie Mortant"
+    ],
+    "min": 4.5,
+    "pf": 11,
+    "pa": 9,
+    "pm": 2,
+    "poss": 9.7,
+    "pF": 9.1,
+    "pA": 10.3,
+    "ortg": 121.1,
+    "drtg": 87.2,
+    "net": 33.9,
+    "efg": 50.0,
+    "oefg": 40.0,
+    "games": 1
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Josef Gabriel",
+     "Marius Grazulis",
+     "Tomáš Vyoral",
+     "Zaccharie Mortant"
+    ],
+    "min": 4.4,
+    "pf": 11,
+    "pa": 6,
+    "pm": 5,
+    "poss": 6.7,
+    "pF": 7.0,
+    "pA": 6.3,
+    "ortg": 157.1,
+    "drtg": 94.9,
+    "net": 62.2,
+    "efg": 68.8,
+    "oefg": 33.3,
+    "games": 1
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Marius Grazulis",
+     "Tomáš Pomikálek",
+     "Tomáš Vyoral",
+     "Zaccharie Mortant"
+    ],
+    "min": 3.9,
+    "pf": 16,
+    "pa": 2,
+    "pm": 14,
+    "poss": 7.3,
+    "pF": 7.8,
+    "pA": 6.9,
+    "ortg": 206.2,
+    "drtg": 29.1,
+    "net": 177.1,
+    "efg": 85.7,
+    "oefg": 20.0,
+    "games": 2
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Jan Štěrba",
+     "Oliver Žižka",
+     "Tomáš Vyoral",
+     "Zaccharie Mortant"
+    ],
+    "min": 3.7,
+    "pf": 4,
+    "pa": 9,
+    "pm": -5,
+    "poss": 5.3,
+    "pF": 4.9,
+    "pA": 5.8,
+    "ortg": 82.0,
+    "drtg": 156.2,
+    "net": -74.3,
+    "efg": 25.0,
+    "oefg": 83.3,
+    "games": 2
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Jan Štěrba",
+     "Marek Houška",
+     "Tomáš Pomikálek",
+     "Zaccharie Mortant"
+    ],
+    "min": 3.4,
+    "pf": 9,
+    "pa": 4,
+    "pm": 5,
+    "poss": 6.3,
+    "pF": 6.8,
+    "pA": 5.9,
+    "ortg": 133.1,
+    "drtg": 68.0,
+    "net": 65.1,
+    "efg": 50.0,
+    "oefg": 20.0,
+    "games": 2
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Marek Houška",
+     "Marius Grazulis",
+     "Tomáš Pomikálek",
+     "Zaccharie Mortant"
+    ],
+    "min": 3.3,
+    "pf": 9,
+    "pa": 11,
+    "pm": -2,
+    "poss": 9.5,
+    "pF": 10.0,
+    "pA": 9.1,
+    "ortg": 90.0,
+    "drtg": 121.1,
+    "net": -31.1,
+    "efg": 45.0,
+    "oefg": 87.5,
+    "games": 2
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Josef Gabriel",
+     "Marek Houška",
+     "Michal Grill",
+     "Tomáš Pomikálek"
+    ],
+    "min": 3.0,
+    "pf": 2,
+    "pa": 8,
+    "pm": -6,
+    "poss": 3.9,
+    "pF": 4.0,
+    "pA": 3.9,
+    "ortg": 50.0,
+    "drtg": 206.2,
+    "net": -156.2,
+    "efg": 20.0,
+    "oefg": 87.5,
+    "games": 2
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Marek Houška",
+     "Marius Grazulis",
+     "Oliver Žižka",
+     "Zaccharie Mortant"
+    ],
+    "min": 2.9,
+    "pf": 8,
+    "pa": 2,
+    "pm": 6,
+    "poss": 5.0,
+    "pF": 5.0,
+    "pA": 5.0,
+    "ortg": 160.0,
+    "drtg": 40.0,
+    "net": 120.0,
+    "efg": 100.0,
+    "oefg": 16.7,
+    "games": 2
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Jan Štěrba",
+     "Marek Houška",
+     "Michal Grill",
+     "Tomáš Pomikálek"
+    ],
+    "min": 2.8,
+    "pf": 7,
+    "pa": 2,
+    "pm": 5,
+    "poss": 3.4,
+    "pF": 3.8,
+    "pA": 3.0,
+    "ortg": 186.2,
+    "drtg": 66.7,
+    "net": 119.5,
+    "efg": 28.6,
+    "oefg": 33.3,
+    "games": 2
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Josef Gabriel",
+     "Tomáš Pomikálek",
+     "Tomáš Vyoral",
+     "Zaccharie Mortant"
+    ],
+    "min": 2.6,
+    "pf": 5,
+    "pa": 5,
+    "pm": 0,
+    "poss": 4.7,
+    "pF": 5.4,
+    "pA": 4.0,
+    "ortg": 91.9,
+    "drtg": 125.0,
+    "net": -33.1,
+    "efg": 62.5,
+    "oefg": 50.0,
+    "games": 1
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Marek Houška",
+     "Michal Grill",
+     "Tomáš Pomikálek",
+     "Zaccharie Mortant"
+    ],
+    "min": 2.6,
+    "pf": 0,
+    "pa": 6,
+    "pm": -6,
+    "poss": 3.4,
+    "pF": 3.0,
+    "pA": 3.8,
+    "ortg": 0.0,
+    "drtg": 159.6,
+    "net": -159.6,
+    "efg": 0.0,
+    "oefg": 33.3,
+    "games": 1
    }
   ],
   "trios": [
@@ -1271,6 +1518,823 @@
     "net": 47.5,
     "efg": 57.1,
     "oefg": 32.1
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Jan Štěrba",
+     "Tomáš Vyoral"
+    ],
+    "min": 9.6,
+    "pf": 19,
+    "pa": 15,
+    "pm": 4,
+    "poss": 19.2,
+    "pF": 18.6,
+    "pA": 19.8,
+    "ortg": 101.9,
+    "drtg": 75.9,
+    "net": 26.0,
+    "efg": 41.2,
+    "oefg": 38.2
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Marek Houška",
+     "Zaccharie Mortant"
+    ],
+    "min": 9.4,
+    "pf": 21,
+    "pa": 21,
+    "pm": 0,
+    "poss": 18.6,
+    "pF": 17.5,
+    "pA": 19.6,
+    "ortg": 119.9,
+    "drtg": 107.1,
+    "net": 12.7,
+    "efg": 50.0,
+    "oefg": 36.4
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Marek Houška",
+     "Oliver Žižka"
+    ],
+    "min": 9.4,
+    "pf": 26,
+    "pa": 17,
+    "pm": 9,
+    "poss": 19.2,
+    "pF": 20.8,
+    "pA": 17.6,
+    "ortg": 124.8,
+    "drtg": 96.4,
+    "net": 28.4,
+    "efg": 47.1,
+    "oefg": 53.8
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Jan Štěrba",
+     "Oliver Žižka"
+    ],
+    "min": 9.3,
+    "pf": 17,
+    "pa": 20,
+    "pm": -3,
+    "poss": 15.6,
+    "pF": 14.8,
+    "pA": 16.5,
+    "ortg": 115.2,
+    "drtg": 121.1,
+    "net": -5.9,
+    "efg": 46.4,
+    "oefg": 63.6
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Josef Gabriel",
+     "Tomáš Pomikálek"
+    ],
+    "min": 9.2,
+    "pf": 19,
+    "pa": 17,
+    "pm": 2,
+    "poss": 16.0,
+    "pF": 16.2,
+    "pA": 15.8,
+    "ortg": 117.3,
+    "drtg": 107.9,
+    "net": 9.4,
+    "efg": 50.0,
+    "oefg": 43.8
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Marius Grazulis",
+     "Tomáš Pomikálek"
+    ],
+    "min": 9.0,
+    "pf": 29,
+    "pa": 19,
+    "pm": 10,
+    "poss": 21.7,
+    "pF": 22.8,
+    "pA": 20.7,
+    "ortg": 127.4,
+    "drtg": 91.7,
+    "net": 35.7,
+    "efg": 65.8,
+    "oefg": 46.2
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Marek Houška",
+     "Marius Grazulis"
+    ],
+    "min": 9.0,
+    "pf": 26,
+    "pa": 10,
+    "pm": 16,
+    "poss": 17.5,
+    "pF": 18.1,
+    "pA": 16.9,
+    "ortg": 143.8,
+    "drtg": 59.2,
+    "net": 84.6,
+    "efg": 70.0,
+    "oefg": 25.0
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Josef Gabriel",
+     "Marek Houška"
+    ],
+    "min": 8.8,
+    "pf": 21,
+    "pa": 18,
+    "pm": 3,
+    "poss": 19.8,
+    "pF": 19.5,
+    "pA": 20.0,
+    "ortg": 107.6,
+    "drtg": 89.8,
+    "net": 17.8,
+    "efg": 46.9,
+    "oefg": 32.1
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Tomáš Vyoral",
+     "Zaccharie Mortant"
+    ],
+    "min": 8.7,
+    "pf": 22,
+    "pa": 14,
+    "pm": 8,
+    "poss": 14.8,
+    "pF": 16.3,
+    "pA": 13.2,
+    "ortg": 134.8,
+    "drtg": 106.1,
+    "net": 28.7,
+    "efg": 58.8,
+    "oefg": 39.3
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Marek Houška",
+     "Michal Grill"
+    ],
+    "min": 8.7,
+    "pf": 20,
+    "pa": 13,
+    "pm": 7,
+    "poss": 14.6,
+    "pF": 14.2,
+    "pA": 15.1,
+    "ortg": 140.8,
+    "drtg": 86.2,
+    "net": 54.6,
+    "efg": 47.1,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Marek Houška",
+     "Marius Grazulis"
+    ],
+    "min": 8.4,
+    "pf": 21,
+    "pa": 20,
+    "pm": 1,
+    "poss": 18.4,
+    "pF": 19.4,
+    "pA": 17.4,
+    "ortg": 108.2,
+    "drtg": 114.9,
+    "net": -6.7,
+    "efg": 58.3,
+    "oefg": 53.6
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Marek Houška",
+     "Martin Kučírek"
+    ],
+    "min": 8.4,
+    "pf": 15,
+    "pa": 14,
+    "pm": 1,
+    "poss": 17.5,
+    "pF": 17.6,
+    "pA": 17.4,
+    "ortg": 85.0,
+    "drtg": 80.5,
+    "net": 4.6,
+    "efg": 35.7,
+    "oefg": 41.7
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Josef Gabriel",
+     "Tomáš Vyoral"
+    ],
+    "min": 8.4,
+    "pf": 19,
+    "pa": 15,
+    "pm": 4,
+    "poss": 14.3,
+    "pF": 14.4,
+    "pA": 14.1,
+    "ortg": 131.6,
+    "drtg": 106.5,
+    "net": 25.0,
+    "efg": 73.1,
+    "oefg": 37.5
+   },
+   {
+    "players": [
+     "Marek Houška",
+     "Tomáš Vyoral",
+     "Zaccharie Mortant"
+    ],
+    "min": 8.3,
+    "pf": 13,
+    "pa": 14,
+    "pm": -1,
+    "poss": 15.6,
+    "pF": 16.1,
+    "pA": 15.2,
+    "ortg": 80.8,
+    "drtg": 92.1,
+    "net": -11.3,
+    "efg": 26.7,
+    "oefg": 35.3
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Marek Houška",
+     "Zaccharie Mortant"
+    ],
+    "min": 8.2,
+    "pf": 20,
+    "pa": 13,
+    "pm": 7,
+    "poss": 15.6,
+    "pF": 15.3,
+    "pA": 16.0,
+    "ortg": 130.5,
+    "drtg": 81.5,
+    "net": 49.1,
+    "efg": 56.7,
+    "oefg": 25.0
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Oliver Žižka",
+     "Zaccharie Mortant"
+    ],
+    "min": 8.2,
+    "pf": 14,
+    "pa": 12,
+    "pm": 2,
+    "poss": 14.7,
+    "pF": 14.8,
+    "pA": 14.6,
+    "ortg": 94.9,
+    "drtg": 82.0,
+    "net": 12.9,
+    "efg": 38.5,
+    "oefg": 35.0
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Marius Grazulis",
+     "Tomáš Vyoral"
+    ],
+    "min": 7.9,
+    "pf": 25,
+    "pa": 10,
+    "pm": 15,
+    "poss": 14.6,
+    "pF": 15.0,
+    "pA": 14.2,
+    "ortg": 167.1,
+    "drtg": 70.4,
+    "net": 96.7,
+    "efg": 81.8,
+    "oefg": 21.4
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Jan Štěrba",
+     "Josef Gabriel"
+    ],
+    "min": 7.9,
+    "pf": 19,
+    "pa": 12,
+    "pm": 7,
+    "poss": 16.5,
+    "pF": 17.1,
+    "pA": 16.0,
+    "ortg": 111.2,
+    "drtg": 75.2,
+    "net": 36.1,
+    "efg": 53.8,
+    "oefg": 25.0
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Marek Houška",
+     "Oliver Žižka"
+    ],
+    "min": 7.5,
+    "pf": 17,
+    "pa": 13,
+    "pm": 4,
+    "poss": 13.3,
+    "pF": 11.9,
+    "pA": 14.8,
+    "ortg": 143.1,
+    "drtg": 88.1,
+    "net": 55.0,
+    "efg": 75.0,
+    "oefg": 45.8
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Tomáš Pomikálek",
+     "Zaccharie Mortant"
+    ],
+    "min": 7.4,
+    "pf": 21,
+    "pa": 9,
+    "pm": 12,
+    "poss": 13.3,
+    "pF": 13.8,
+    "pA": 12.9,
+    "ortg": 152.6,
+    "drtg": 69.9,
+    "net": 82.7,
+    "efg": 75.0,
+    "oefg": 26.9
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Josef Gabriel",
+     "Tomáš Pomikálek"
+    ],
+    "min": 7.4,
+    "pf": 15,
+    "pa": 16,
+    "pm": -1,
+    "poss": 14.4,
+    "pF": 13.8,
+    "pA": 15.0,
+    "ortg": 109.0,
+    "drtg": 107.0,
+    "net": 2.1,
+    "efg": 54.5,
+    "oefg": 35.7
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Martin Kučírek",
+     "Oliver Žižka"
+    ],
+    "min": 7.2,
+    "pf": 21,
+    "pa": 10,
+    "pm": 11,
+    "poss": 15.1,
+    "pF": 16.4,
+    "pA": 13.8,
+    "ortg": 128.0,
+    "drtg": 72.7,
+    "net": 55.4,
+    "efg": 46.4,
+    "oefg": 37.5
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Tomáš Pomikálek",
+     "Tomáš Vyoral"
+    ],
+    "min": 7.0,
+    "pf": 19,
+    "pa": 16,
+    "pm": 3,
+    "poss": 14.1,
+    "pF": 15.5,
+    "pA": 12.8,
+    "ortg": 122.4,
+    "drtg": 125.4,
+    "net": -3.0,
+    "efg": 72.2,
+    "oefg": 46.2
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Marek Houška",
+     "Michal Grill"
+    ],
+    "min": 7.0,
+    "pf": 7,
+    "pa": 20,
+    "pm": -13,
+    "poss": 10.6,
+    "pF": 10.4,
+    "pA": 10.8,
+    "ortg": 67.0,
+    "drtg": 184.5,
+    "net": -117.5,
+    "efg": 30.0,
+    "oefg": 68.8
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Jan Štěrba",
+     "Michal Grill"
+    ],
+    "min": 7.0,
+    "pf": 18,
+    "pa": 20,
+    "pm": -2,
+    "poss": 11.5,
+    "pF": 11.0,
+    "pA": 12.1,
+    "ortg": 164.2,
+    "drtg": 165.6,
+    "net": -1.3,
+    "efg": 42.3,
+    "oefg": 93.8
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Marek Houška",
+     "Michal Grill"
+    ],
+    "min": 7.0,
+    "pf": 19,
+    "pa": 15,
+    "pm": 4,
+    "poss": 12.1,
+    "pF": 12.2,
+    "pA": 12.1,
+    "ortg": 155.7,
+    "drtg": 124.2,
+    "net": 31.6,
+    "efg": 53.6,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Josef Gabriel",
+     "Martin Kučírek"
+    ],
+    "min": 6.8,
+    "pf": 11,
+    "pa": 7,
+    "pm": 4,
+    "poss": 14.1,
+    "pF": 14.6,
+    "pA": 13.6,
+    "ortg": 75.1,
+    "drtg": 51.3,
+    "net": 23.8,
+    "efg": 27.3,
+    "oefg": 25.0
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Josef Gabriel",
+     "Marius Grazulis"
+    ],
+    "min": 6.5,
+    "pf": 19,
+    "pa": 9,
+    "pm": 10,
+    "poss": 12.0,
+    "pF": 12.8,
+    "pA": 11.2,
+    "ortg": 148.9,
+    "drtg": 80.4,
+    "net": 68.5,
+    "efg": 70.8,
+    "oefg": 30.0
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Michal Grill",
+     "Tomáš Pomikálek"
+    ],
+    "min": 6.5,
+    "pf": 4,
+    "pa": 17,
+    "pm": -13,
+    "poss": 9.3,
+    "pF": 9.0,
+    "pA": 9.5,
+    "ortg": 44.4,
+    "drtg": 178.6,
+    "net": -134.1,
+    "efg": 22.2,
+    "oefg": 68.8
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Oliver Žižka",
+     "Tomáš Vyoral"
+    ],
+    "min": 6.5,
+    "pf": 11,
+    "pa": 9,
+    "pm": 2,
+    "poss": 11.8,
+    "pF": 11.9,
+    "pA": 11.8,
+    "ortg": 92.6,
+    "drtg": 76.5,
+    "net": 16.1,
+    "efg": 45.0,
+    "oefg": 35.7
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Jakub Křišťan",
+     "Marek Houška"
+    ],
+    "min": 6.4,
+    "pf": 15,
+    "pa": 11,
+    "pm": 4,
+    "poss": 14.1,
+    "pF": 13.1,
+    "pA": 15.1,
+    "ortg": 114.7,
+    "drtg": 72.9,
+    "net": 41.7,
+    "efg": 40.9,
+    "oefg": 35.7
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Josef Gabriel",
+     "Marek Houška"
+    ],
+    "min": 6.3,
+    "pf": 15,
+    "pa": 17,
+    "pm": -2,
+    "poss": 14.5,
+    "pF": 15.1,
+    "pA": 13.8,
+    "ortg": 99.5,
+    "drtg": 122.8,
+    "net": -23.4,
+    "efg": 41.7,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Marek Houška",
+     "Oliver Žižka",
+     "Zaccharie Mortant"
+    ],
+    "min": 6.2,
+    "pf": 15,
+    "pa": 5,
+    "pm": 10,
+    "poss": 11.1,
+    "pF": 10.3,
+    "pA": 11.9,
+    "ortg": 145.3,
+    "drtg": 42.1,
+    "net": 103.3,
+    "efg": 85.7,
+    "oefg": 20.0
+   },
+   {
+    "players": [
+     "Marek Houška",
+     "Martin Kučírek",
+     "Oliver Žižka"
+    ],
+    "min": 6.1,
+    "pf": 18,
+    "pa": 10,
+    "pm": 8,
+    "poss": 12.6,
+    "pF": 14.5,
+    "pA": 10.8,
+    "ortg": 124.0,
+    "drtg": 92.9,
+    "net": 31.0,
+    "efg": 42.3,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Marius Grazulis",
+     "Zaccharie Mortant"
+    ],
+    "min": 6.1,
+    "pf": 18,
+    "pa": 6,
+    "pm": 12,
+    "poss": 10.3,
+    "pF": 11.3,
+    "pA": 9.3,
+    "ortg": 159.0,
+    "drtg": 64.4,
+    "net": 94.6,
+    "efg": 75.0,
+    "oefg": 25.0
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Michal Grill",
+     "Tomáš Pomikálek"
+    ],
+    "min": 6.1,
+    "pf": 10,
+    "pa": 6,
+    "pm": 4,
+    "poss": 8.6,
+    "pF": 8.5,
+    "pA": 8.8,
+    "ortg": 117.4,
+    "drtg": 68.5,
+    "net": 48.9,
+    "efg": 18.2,
+    "oefg": 35.7
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Michal Grill",
+     "Tomáš Vyoral"
+    ],
+    "min": 6.0,
+    "pf": 10,
+    "pa": 8,
+    "pm": 2,
+    "poss": 13.3,
+    "pF": 12.8,
+    "pA": 13.8,
+    "ortg": 78.4,
+    "drtg": 58.1,
+    "net": 20.2,
+    "efg": 31.8,
+    "oefg": 30.0
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Marek Houška",
+     "Oliver Žižka"
+    ],
+    "min": 5.8,
+    "pf": 14,
+    "pa": 11,
+    "pm": 3,
+    "poss": 10.8,
+    "pF": 9.9,
+    "pA": 11.8,
+    "ortg": 141.7,
+    "drtg": 93.5,
+    "net": 48.2,
+    "efg": 66.7,
+    "oefg": 56.2
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Josef Gabriel",
+     "Zaccharie Mortant"
+    ],
+    "min": 5.4,
+    "pf": 15,
+    "pa": 10,
+    "pm": 5,
+    "poss": 11.0,
+    "pF": 10.9,
+    "pA": 11.1,
+    "ortg": 137.9,
+    "drtg": 90.3,
+    "net": 47.6,
+    "efg": 81.2,
+    "oefg": 25.0
+   },
+   {
+    "players": [
+     "Marek Houška",
+     "Marius Grazulis",
+     "Oliver Žižka"
+    ],
+    "min": 5.2,
+    "pf": 14,
+    "pa": 9,
+    "pm": 5,
+    "poss": 8.9,
+    "pF": 8.9,
+    "pA": 8.9,
+    "ortg": 157.7,
+    "drtg": 101.4,
+    "net": 56.3,
+    "efg": 85.7,
+    "oefg": 40.0
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Michal Grill",
+     "Oliver Žižka"
+    ],
+    "min": 5.2,
+    "pf": 12,
+    "pa": 8,
+    "pm": 4,
+    "poss": 10.9,
+    "pF": 11.0,
+    "pA": 10.9,
+    "ortg": 109.1,
+    "drtg": 73.5,
+    "net": 35.6,
+    "efg": 60.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Michal Grill",
+     "Tomáš Pomikálek"
+    ],
+    "min": 5.1,
+    "pf": 14,
+    "pa": 8,
+    "pm": 6,
+    "poss": 8.1,
+    "pF": 8.5,
+    "pA": 7.8,
+    "ortg": 164.3,
+    "drtg": 103.1,
+    "net": 61.2,
+    "efg": 40.0,
+    "oefg": 35.7
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Marek Houška",
+     "Tomáš Vyoral"
+    ],
+    "min": 5.0,
+    "pf": 11,
+    "pa": 12,
+    "pm": -1,
+    "poss": 9.9,
+    "pF": 9.9,
+    "pA": 9.9,
+    "ortg": 111.3,
+    "drtg": 121.5,
+    "net": -10.1,
+    "efg": 45.0,
+    "oefg": 61.1
    }
   ],
   "pairs": [
@@ -1885,6 +2949,510 @@
     "net": 42.7,
     "efg": 69.6,
     "oefg": 38.0
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Tomáš Vyoral"
+    ],
+    "min": 14.5,
+    "pf": 40,
+    "pa": 27,
+    "pm": 13,
+    "poss": 27.1,
+    "pF": 28.3,
+    "pA": 25.8,
+    "ortg": 141.4,
+    "drtg": 104.5,
+    "net": 37.0,
+    "efg": 67.4,
+    "oefg": 36.0
+   },
+   {
+    "players": [
+     "Michal Grill",
+     "Tomáš Pomikálek"
+    ],
+    "min": 14.5,
+    "pf": 18,
+    "pa": 27,
+    "pm": -9,
+    "poss": 22.7,
+    "pF": 22.4,
+    "pA": 23.0,
+    "ortg": 80.4,
+    "drtg": 117.2,
+    "net": -36.8,
+    "efg": 27.3,
+    "oefg": 42.1
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Jan Štěrba"
+    ],
+    "min": 13.8,
+    "pf": 27,
+    "pa": 24,
+    "pm": 3,
+    "poss": 28.8,
+    "pF": 28.5,
+    "pA": 29.2,
+    "ortg": 94.7,
+    "drtg": 82.3,
+    "net": 12.4,
+    "efg": 41.7,
+    "oefg": 35.7
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Michal Grill"
+    ],
+    "min": 13.1,
+    "pf": 25,
+    "pa": 21,
+    "pm": 4,
+    "poss": 24.9,
+    "pF": 24.0,
+    "pA": 25.8,
+    "ortg": 104.3,
+    "drtg": 81.3,
+    "net": 23.1,
+    "efg": 36.0,
+    "oefg": 44.1
+   },
+   {
+    "players": [
+     "Marek Houška",
+     "Martin Kučírek"
+    ],
+    "min": 12.7,
+    "pf": 29,
+    "pa": 21,
+    "pm": 8,
+    "poss": 26.5,
+    "pF": 27.8,
+    "pA": 25.2,
+    "ortg": 104.2,
+    "drtg": 83.5,
+    "net": 20.7,
+    "efg": 39.6,
+    "oefg": 44.4
+   },
+   {
+    "players": [
+     "Oliver Žižka",
+     "Zaccharie Mortant"
+    ],
+    "min": 12.6,
+    "pf": 25,
+    "pa": 14,
+    "pm": 11,
+    "poss": 22.4,
+    "pF": 22.2,
+    "pA": 22.6,
+    "ortg": 112.6,
+    "drtg": 61.8,
+    "net": 50.8,
+    "efg": 55.6,
+    "oefg": 26.5
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Oliver Žižka"
+    ],
+    "min": 12.6,
+    "pf": 25,
+    "pa": 22,
+    "pm": 3,
+    "poss": 21.1,
+    "pF": 19.8,
+    "pA": 22.5,
+    "ortg": 126.5,
+    "drtg": 97.7,
+    "net": 28.8,
+    "efg": 58.3,
+    "oefg": 47.1
+   },
+   {
+    "players": [
+     "Jan Štěrba",
+     "Oliver Žižka"
+    ],
+    "min": 12.2,
+    "pf": 24,
+    "pa": 20,
+    "pm": 4,
+    "poss": 22.1,
+    "pF": 21.8,
+    "pA": 22.5,
+    "ortg": 110.3,
+    "drtg": 88.8,
+    "net": 21.5,
+    "efg": 50.0,
+    "oefg": 46.7
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Oliver Žižka"
+    ],
+    "min": 11.9,
+    "pf": 33,
+    "pa": 17,
+    "pm": 16,
+    "poss": 24.2,
+    "pF": 25.7,
+    "pA": 22.6,
+    "ortg": 128.3,
+    "drtg": 75.1,
+    "net": 53.2,
+    "efg": 50.0,
+    "oefg": 38.9
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Martin Kučírek"
+    ],
+    "min": 11.8,
+    "pf": 28,
+    "pa": 14,
+    "pm": 14,
+    "poss": 25.6,
+    "pF": 26.7,
+    "pA": 24.4,
+    "ortg": 104.8,
+    "drtg": 57.4,
+    "net": 47.4,
+    "efg": 38.6,
+    "oefg": 28.9
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Josef Gabriel"
+    ],
+    "min": 10.3,
+    "pf": 26,
+    "pa": 21,
+    "pm": 5,
+    "poss": 22.3,
+    "pF": 23.0,
+    "pA": 21.6,
+    "ortg": 113.2,
+    "drtg": 97.2,
+    "net": 16.0,
+    "efg": 52.8,
+    "oefg": 33.3
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Martin Kučírek"
+    ],
+    "min": 8.4,
+    "pf": 15,
+    "pa": 14,
+    "pm": 1,
+    "poss": 17.5,
+    "pF": 17.6,
+    "pA": 17.4,
+    "ortg": 85.0,
+    "drtg": 80.5,
+    "net": 4.6,
+    "efg": 35.7,
+    "oefg": 41.7
+   },
+   {
+    "players": [
+     "Erik Timko",
+     "Michal Grill"
+    ],
+    "min": 8.3,
+    "pf": 22,
+    "pa": 22,
+    "pm": 0,
+    "poss": 14.5,
+    "pF": 14.0,
+    "pA": 15.0,
+    "ortg": 157.6,
+    "drtg": 147.1,
+    "net": 10.5,
+    "efg": 50.0,
+    "oefg": 68.2
+   },
+   {
+    "players": [
+     "Oliver Žižka",
+     "Tomáš Vyoral"
+    ],
+    "min": 7.6,
+    "pf": 14,
+    "pa": 9,
+    "pm": 5,
+    "poss": 14.3,
+    "pF": 13.8,
+    "pA": 14.8,
+    "ortg": 101.7,
+    "drtg": 61.0,
+    "net": 40.8,
+    "efg": 50.0,
+    "oefg": 25.0
+   },
+   {
+    "players": [
+     "Michal Grill",
+     "Zaccharie Mortant"
+    ],
+    "min": 7.3,
+    "pf": 2,
+    "pa": 10,
+    "pm": -8,
+    "poss": 14.3,
+    "pF": 13.0,
+    "pA": 15.5,
+    "ortg": 15.4,
+    "drtg": 64.4,
+    "net": -49.0,
+    "efg": 8.3,
+    "oefg": 22.7
+   },
+   {
+    "players": [
+     "Martin Kučírek",
+     "Oliver Žižka"
+    ],
+    "min": 7.2,
+    "pf": 21,
+    "pa": 10,
+    "pm": 11,
+    "poss": 15.1,
+    "pF": 16.4,
+    "pA": 13.8,
+    "ortg": 128.0,
+    "drtg": 72.7,
+    "net": 55.4,
+    "efg": 46.4,
+    "oefg": 37.5
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Michal Grill"
+    ],
+    "min": 7.0,
+    "pf": 7,
+    "pa": 20,
+    "pm": -13,
+    "poss": 10.6,
+    "pF": 10.4,
+    "pA": 10.8,
+    "ortg": 67.0,
+    "drtg": 184.5,
+    "net": -117.5,
+    "efg": 30.0,
+    "oefg": 68.8
+   },
+   {
+    "players": [
+     "Michal Grill",
+     "Tomáš Vyoral"
+    ],
+    "min": 6.7,
+    "pf": 10,
+    "pa": 10,
+    "pm": 0,
+    "poss": 15.1,
+    "pF": 14.6,
+    "pA": 15.6,
+    "ortg": 68.3,
+    "drtg": 63.9,
+    "net": 4.4,
+    "efg": 31.8,
+    "oefg": 27.3
+   },
+   {
+    "players": [
+     "Marius Grazulis",
+     "Oliver Žižka"
+    ],
+    "min": 6.2,
+    "pf": 17,
+    "pa": 9,
+    "pm": 8,
+    "poss": 11.3,
+    "pF": 10.8,
+    "pA": 11.9,
+    "ortg": 158.0,
+    "drtg": 75.8,
+    "net": 82.2,
+    "efg": 87.5,
+    "oefg": 30.8
+   },
+   {
+    "players": [
+     "Michal Grill",
+     "Oliver Žižka"
+    ],
+    "min": 5.2,
+    "pf": 12,
+    "pa": 8,
+    "pm": 4,
+    "poss": 10.9,
+    "pF": 11.0,
+    "pA": 10.9,
+    "ortg": 109.1,
+    "drtg": 73.5,
+    "net": 35.6,
+    "efg": 60.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Marius Grazulis",
+     "Martin Kučírek"
+    ],
+    "min": 4.9,
+    "pf": 11,
+    "pa": 11,
+    "pm": 0,
+    "poss": 9.2,
+    "pF": 8.8,
+    "pA": 9.6,
+    "ortg": 125.6,
+    "drtg": 114.1,
+    "net": 11.5,
+    "efg": 50.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Marius Grazulis"
+    ],
+    "min": 4.3,
+    "pf": 14,
+    "pa": 6,
+    "pm": 8,
+    "poss": 9.0,
+    "pF": 9.3,
+    "pA": 8.6,
+    "ortg": 150.2,
+    "drtg": 69.4,
+    "net": 80.8,
+    "efg": 61.1,
+    "oefg": 20.0
+   },
+   {
+    "players": [
+     "Jakub Křišťan",
+     "Oliver Žižka"
+    ],
+    "min": 4.3,
+    "pf": 9,
+    "pa": 10,
+    "pm": -1,
+    "poss": 8.0,
+    "pF": 8.2,
+    "pA": 7.9,
+    "ortg": 109.8,
+    "drtg": 126.9,
+    "net": -17.1,
+    "efg": 41.7,
+    "oefg": 66.7
+   },
+   {
+    "players": [
+     "Martin Kučírek",
+     "Tomáš Pomikálek"
+    ],
+    "min": 3.9,
+    "pf": 7,
+    "pa": 3,
+    "pm": 4,
+    "poss": 9.1,
+    "pF": 9.3,
+    "pA": 8.9,
+    "ortg": 75.1,
+    "drtg": 33.8,
+    "net": 41.3,
+    "efg": 33.3,
+    "oefg": 14.3
+   },
+   {
+    "players": [
+     "Jan Kopecký",
+     "Josef Gabriel"
+    ],
+    "min": 3.8,
+    "pf": 13,
+    "pa": 7,
+    "pm": 6,
+    "poss": 9.0,
+    "pF": 9.2,
+    "pA": 8.8,
+    "ortg": 141.3,
+    "drtg": 79.9,
+    "net": 61.4,
+    "efg": 50.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jan Kopecký",
+     "Marek Houška"
+    ],
+    "min": 3.8,
+    "pf": 13,
+    "pa": 7,
+    "pm": 6,
+    "poss": 9.0,
+    "pF": 9.2,
+    "pA": 8.8,
+    "ortg": 141.3,
+    "drtg": 79.9,
+    "net": 61.4,
+    "efg": 50.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jan Kopecký",
+     "Oliver Žižka"
+    ],
+    "min": 3.8,
+    "pf": 13,
+    "pa": 7,
+    "pm": 6,
+    "poss": 9.0,
+    "pF": 9.2,
+    "pA": 8.8,
+    "ortg": 141.3,
+    "drtg": 79.9,
+    "net": 61.4,
+    "efg": 50.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Josef Gabriel",
+     "Michal Grill"
+    ],
+    "min": 3.0,
+    "pf": 2,
+    "pa": 8,
+    "pm": -6,
+    "poss": 3.9,
+    "pF": 4.0,
+    "pA": 3.9,
+    "ortg": 50.0,
+    "drtg": 206.2,
+    "net": -156.2,
+    "efg": 20.0,
+    "oefg": 87.5
    }
   ]
  },
@@ -2064,7 +3632,84 @@
    "tov": 11.3,
    "orb": 23.3,
    "ftr": 34.8,
-   "topScorer": "Erik Timko"
+   "topScorer": "Erik Timko",
+   "oppEfg": 46.2,
+   "oppOrb": 25.6,
+   "tp": [
+    10,
+    24
+   ],
+   "ft": [
+    23,
+    29
+   ],
+   "second": [
+    14,
+    16
+   ],
+   "bench": [
+    40,
+    39
+   ],
+   "paint": [
+    52,
+    26
+   ],
+   "leading": [
+    31.4,
+    7.0
+   ],
+   "leadChanges": 1,
+   "maxLead": [
+    32,
+    5
+   ],
+   "maxRun": [
+    13,
+    8
+   ],
+   "astFg": [
+    [
+     25,
+     38
+    ],
+    [
+     21,
+     25
+    ]
+   ],
+   "quarters": [
+    [
+     20,
+     13
+    ],
+    [
+     28,
+     30
+    ],
+    [
+     31,
+     19
+    ],
+    [
+     30,
+     17
+    ]
+   ],
+   "segments": {
+    "first3": [
+     30,
+     24
+    ],
+    "last3": [
+     40,
+     12
+    ],
+    "last5": [
+     15,
+     13
+    ]
+   }
   },
   {
    "fibaId": 2890477,
@@ -2089,7 +3734,84 @@
    "tov": 12.3,
    "orb": 31.8,
    "ftr": 27.5,
-   "topScorer": "Erik Timko"
+   "topScorer": "Erik Timko",
+   "oppEfg": 36.0,
+   "oppOrb": 22.2,
+   "tp": [
+    5,
+    28
+   ],
+   "ft": [
+    19,
+    22
+   ],
+   "second": [
+    10,
+    8
+   ],
+   "bench": [
+    19,
+    16
+   ],
+   "paint": [
+    38,
+    18
+   ],
+   "leading": [
+    33.9,
+    4.0
+   ],
+   "leadChanges": 12,
+   "maxLead": [
+    20,
+    2
+   ],
+   "maxRun": [
+    10,
+    6
+   ],
+   "astFg": [
+    [
+     18,
+     25
+    ],
+    [
+     14,
+     17
+    ]
+   ],
+   "quarters": [
+    [
+     14,
+     15
+    ],
+    [
+     20,
+     17
+    ],
+    [
+     16,
+     14
+    ],
+    [
+     24,
+     11
+    ]
+   ],
+   "segments": {
+    "first3": [
+     26,
+     14
+    ],
+    "last3": [
+     22,
+     23
+    ],
+    "last5": [
+     15,
+     7
+    ]
+   }
   },
   {
    "fibaId": 2890481,
@@ -2114,7 +3836,84 @@
    "tov": 23.4,
    "orb": 52.6,
    "ftr": 34.4,
-   "topScorer": "Zaccharie Mortant"
+   "topScorer": "Zaccharie Mortant",
+   "oppEfg": 48.5,
+   "oppOrb": 43.6,
+   "tp": [
+    5,
+    27
+   ],
+   "ft": [
+    21,
+    25
+   ],
+   "second": [
+    22,
+    14
+   ],
+   "bench": [
+    27,
+    18
+   ],
+   "paint": [
+    34,
+    30
+   ],
+   "leading": [
+    11.2,
+    28.1
+   ],
+   "leadChanges": 4,
+   "maxLead": [
+    10,
+    12
+   ],
+   "maxRun": [
+    7,
+    14
+   ],
+   "astFg": [
+    [
+     10,
+     25
+    ],
+    [
+     21,
+     27
+    ]
+   ],
+   "quarters": [
+    [
+     19,
+     19
+    ],
+    [
+     29,
+     25
+    ],
+    [
+     9,
+     22
+    ],
+    [
+     19,
+     17
+    ]
+   ],
+   "segments": {
+    "first3": [
+     19,
+     28
+    ],
+    "last3": [
+     31,
+     23
+    ],
+    "last5": [
+     10,
+     7
+    ]
+   }
   },
   {
    "fibaId": 2892255,
@@ -2139,9 +3938,2139 @@
    "tov": 18.2,
    "orb": 42.2,
    "ftr": 31.9,
-   "topScorer": "Erik Timko"
+   "topScorer": "Erik Timko",
+   "oppEfg": 41.2,
+   "oppOrb": 27.7,
+   "tp": [
+    5,
+    22
+   ],
+   "ft": [
+    23,
+    31
+   ],
+   "second": [
+    8,
+    13
+   ],
+   "bench": [
+    33,
+    36
+   ],
+   "paint": [
+    44,
+    32
+   ],
+   "leading": [
+    38.4,
+    1.4
+   ],
+   "leadChanges": 1,
+   "maxLead": [
+    20,
+    3
+   ],
+   "maxRun": [
+    14,
+    9
+   ],
+   "astFg": [
+    [
+     25,
+     29
+    ],
+    [
+     16,
+     24
+    ]
+   ],
+   "quarters": [
+    [
+     32,
+     17
+    ],
+    [
+     17,
+     16
+    ],
+    [
+     21,
+     23
+    ],
+    [
+     16,
+     22
+    ]
+   ],
+   "segments": {
+    "first3": [
+     24,
+     30
+    ],
+    "last3": [
+     27,
+     16
+    ],
+    "last5": [
+     7,
+     7
+    ]
+   }
   }
  ],
+ "shots": {
+  "players": [
+   "Marius Grazulis",
+   "Erik Timko",
+   "Zaccharie Mortant",
+   "Marek Houška",
+   "Tomáš Vyoral",
+   "Tomáš Pomikálek",
+   "Martin Kučírek",
+   "Oliver Žižka",
+   "Jan Štěrba",
+   "Josef Gabriel",
+   "Jakub Křišťan",
+   "Michal Grill"
+  ],
+  "list": [
+   [
+    8.0,
+    35.0,
+    0,
+    0,
+    0
+   ],
+   [
+    4.5,
+    95.8,
+    0,
+    1,
+    1
+   ],
+   [
+    7.2,
+    48.6,
+    1,
+    0,
+    1
+   ],
+   [
+    29.9,
+    11.0,
+    0,
+    1,
+    2
+   ],
+   [
+    8.6,
+    46.0,
+    0,
+    0,
+    3
+   ],
+   [
+    29.3,
+    15.0,
+    0,
+    1,
+    4
+   ],
+   [
+    19.2,
+    6.8,
+    1,
+    1,
+    5
+   ],
+   [
+    6.7,
+    37.0,
+    1,
+    0,
+    5
+   ],
+   [
+    7.6,
+    54.8,
+    1,
+    0,
+    5
+   ],
+   [
+    11.5,
+    57.3,
+    1,
+    0,
+    2
+   ],
+   [
+    25.6,
+    9.0,
+    0,
+    1,
+    6
+   ],
+   [
+    14.5,
+    35.3,
+    0,
+    0,
+    3
+   ],
+   [
+    5.6,
+    48.6,
+    1,
+    0,
+    7
+   ],
+   [
+    34.8,
+    25.4,
+    1,
+    1,
+    1
+   ],
+   [
+    30.7,
+    78.8,
+    0,
+    1,
+    1
+   ],
+   [
+    33.8,
+    23.2,
+    0,
+    1,
+    1
+   ],
+   [
+    11.7,
+    48.0,
+    1,
+    0,
+    5
+   ],
+   [
+    11.9,
+    47.5,
+    1,
+    0,
+    1
+   ],
+   [
+    9.2,
+    50.6,
+    1,
+    0,
+    2
+   ],
+   [
+    29.3,
+    83.9,
+    1,
+    1,
+    1
+   ],
+   [
+    5.3,
+    2.5,
+    1,
+    1,
+    1
+   ],
+   [
+    17.6,
+    79.1,
+    1,
+    0,
+    2
+   ],
+   [
+    23.1,
+    10.4,
+    0,
+    1,
+    2
+   ],
+   [
+    9.2,
+    44.1,
+    1,
+    0,
+    2
+   ],
+   [
+    9.1,
+    75.1,
+    0,
+    0,
+    2
+   ],
+   [
+    8.3,
+    52.8,
+    0,
+    0,
+    1
+   ],
+   [
+    10.4,
+    43.2,
+    1,
+    0,
+    8
+   ],
+   [
+    9.7,
+    43.8,
+    1,
+    0,
+    3
+   ],
+   [
+    11.2,
+    48.9,
+    1,
+    0,
+    8
+   ],
+   [
+    15.1,
+    47.5,
+    0,
+    0,
+    3
+   ],
+   [
+    17.5,
+    93.2,
+    1,
+    1,
+    1
+   ],
+   [
+    6.7,
+    52.8,
+    1,
+    0,
+    1
+   ],
+   [
+    2.7,
+    95.8,
+    0,
+    1,
+    2
+   ],
+   [
+    4.4,
+    63.6,
+    1,
+    0,
+    5
+   ],
+   [
+    6.9,
+    46.9,
+    1,
+    0,
+    8
+   ],
+   [
+    5.6,
+    54.0,
+    1,
+    0,
+    8
+   ],
+   [
+    5.8,
+    42.9,
+    0,
+    0,
+    0
+   ],
+   [
+    22.1,
+    5.4,
+    1,
+    1,
+    2
+   ],
+   [
+    6.7,
+    55.9,
+    1,
+    0,
+    2
+   ],
+   [
+    6.2,
+    4.8,
+    0,
+    1,
+    9
+   ],
+   [
+    20.9,
+    51.7,
+    0,
+    0,
+    9
+   ],
+   [
+    6.6,
+    63.8,
+    1,
+    0,
+    6
+   ],
+   [
+    19.7,
+    10.2,
+    0,
+    1,
+    6
+   ],
+   [
+    7.5,
+    51.7,
+    1,
+    0,
+    0
+   ],
+   [
+    25.7,
+    90.7,
+    0,
+    1,
+    3
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    0
+   ],
+   [
+    31.7,
+    50.0,
+    1,
+    1,
+    4
+   ],
+   [
+    7.0,
+    60.2,
+    1,
+    0,
+    2
+   ],
+   [
+    19.0,
+    29.4,
+    0,
+    0,
+    2
+   ],
+   [
+    6.6,
+    50.6,
+    0,
+    0,
+    7
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    8
+   ],
+   [
+    7.0,
+    48.3,
+    1,
+    0,
+    8
+   ],
+   [
+    20.9,
+    73.4,
+    1,
+    0,
+    1
+   ],
+   [
+    28.5,
+    25.1,
+    0,
+    1,
+    8
+   ],
+   [
+    26.5,
+    18.6,
+    1,
+    1,
+    1
+   ],
+   [
+    5.8,
+    50.3,
+    1,
+    0,
+    6
+   ],
+   [
+    6.6,
+    40.7,
+    1,
+    0,
+    7
+   ],
+   [
+    22.9,
+    50.6,
+    0,
+    0,
+    3
+   ],
+   [
+    22.9,
+    14.4,
+    0,
+    1,
+    3
+   ],
+   [
+    11.5,
+    55.4,
+    0,
+    0,
+    6
+   ],
+   [
+    21.8,
+    92.7,
+    1,
+    1,
+    6
+   ],
+   [
+    4.2,
+    54.0,
+    0,
+    0,
+    6
+   ],
+   [
+    5.9,
+    50.0,
+    1,
+    0,
+    3
+   ],
+   [
+    24.6,
+    19.5,
+    0,
+    1,
+    9
+   ],
+   [
+    32.9,
+    33.6,
+    1,
+    1,
+    3
+   ],
+   [
+    10.0,
+    62.4,
+    0,
+    0,
+    7
+   ],
+   [
+    7.2,
+    45.9,
+    0,
+    0,
+    8
+   ],
+   [
+    4.2,
+    50.4,
+    1,
+    0,
+    2
+   ],
+   [
+    19.7,
+    93.0,
+    1,
+    1,
+    1
+   ],
+   [
+    31.2,
+    67.3,
+    1,
+    1,
+    8
+   ],
+   [
+    12.3,
+    50.4,
+    1,
+    0,
+    2
+   ],
+   [
+    27.5,
+    78.3,
+    0,
+    1,
+    8
+   ],
+   [
+    25.6,
+    16.0,
+    0,
+    1,
+    4
+   ],
+   [
+    4.4,
+    55.8,
+    0,
+    0,
+    0
+   ],
+   [
+    4.4,
+    44.5,
+    0,
+    0,
+    0
+   ],
+   [
+    24.2,
+    84.8,
+    0,
+    1,
+    8
+   ],
+   [
+    28.4,
+    19.6,
+    0,
+    1,
+    2
+   ],
+   [
+    11.9,
+    50.4,
+    0,
+    0,
+    5
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    8
+   ],
+   [
+    25.3,
+    79.8,
+    0,
+    1,
+    5
+   ],
+   [
+    31.2,
+    72.1,
+    0,
+    1,
+    3
+   ],
+   [
+    31.7,
+    18.2,
+    0,
+    1,
+    10
+   ],
+   [
+    4.4,
+    52.9,
+    1,
+    0,
+    11
+   ],
+   [
+    17.2,
+    5.0,
+    0,
+    1,
+    9
+   ],
+   [
+    7.4,
+    88.8,
+    0,
+    0,
+    2
+   ],
+   [
+    23.7,
+    13.2,
+    0,
+    1,
+    0
+   ],
+   [
+    25.9,
+    38.3,
+    0,
+    0,
+    2
+   ],
+   [
+    3.5,
+    96.1,
+    0,
+    1,
+    4
+   ],
+   [
+    5.5,
+    45.3,
+    1,
+    0,
+    8
+   ],
+   [
+    9.8,
+    52.4,
+    0,
+    0,
+    1
+   ],
+   [
+    23.7,
+    14.8,
+    0,
+    1,
+    2
+   ],
+   [
+    4.4,
+    44.5,
+    1,
+    0,
+    8
+   ],
+   [
+    8.8,
+    51.0,
+    1,
+    0,
+    9
+   ],
+   [
+    30.0,
+    71.3,
+    0,
+    1,
+    4
+   ],
+   [
+    3.6,
+    57.7,
+    0,
+    0,
+    9
+   ],
+   [
+    23.7,
+    89.1,
+    1,
+    1,
+    3
+   ],
+   [
+    5.3,
+    51.0,
+    0,
+    0,
+    3
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    5
+   ],
+   [
+    4.4,
+    58.3,
+    0,
+    0,
+    2
+   ],
+   [
+    19.5,
+    28.4,
+    0,
+    0,
+    4
+   ],
+   [
+    34.5,
+    46.2,
+    0,
+    1,
+    4
+   ],
+   [
+    4.9,
+    47.3,
+    1,
+    0,
+    0
+   ],
+   [
+    31.4,
+    66.5,
+    0,
+    1,
+    2
+   ],
+   [
+    10.8,
+    69.3,
+    0,
+    0,
+    0
+   ],
+   [
+    10.8,
+    66.5,
+    1,
+    0,
+    1
+   ],
+   [
+    6.7,
+    44.2,
+    1,
+    0,
+    8
+   ],
+   [
+    7.4,
+    59.2,
+    0,
+    0,
+    1
+   ],
+   [
+    4.7,
+    46.2,
+    1,
+    0,
+    8
+   ],
+   [
+    24.5,
+    87.4,
+    0,
+    1,
+    4
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    0
+   ],
+   [
+    6.4,
+    46.2,
+    0,
+    0,
+    11
+   ],
+   [
+    4.4,
+    30.7,
+    0,
+    0,
+    3
+   ],
+   [
+    28.2,
+    82.6,
+    0,
+    1,
+    2
+   ],
+   [
+    11.1,
+    51.0,
+    1,
+    0,
+    1
+   ],
+   [
+    6.7,
+    60.6,
+    0,
+    0,
+    9
+   ],
+   [
+    30.0,
+    30.1,
+    0,
+    1,
+    8
+   ],
+   [
+    2.1,
+    37.8,
+    0,
+    0,
+    5
+   ],
+   [
+    25.8,
+    21.9,
+    0,
+    1,
+    1
+   ],
+   [
+    32.6,
+    60.3,
+    1,
+    1,
+    1
+   ],
+   [
+    5.0,
+    50.2,
+    1,
+    0,
+    7
+   ],
+   [
+    12.5,
+    82.3,
+    0,
+    0,
+    1
+   ],
+   [
+    6.4,
+    55.2,
+    1,
+    0,
+    8
+   ],
+   [
+    3.2,
+    98.1,
+    0,
+    1,
+    3
+   ],
+   [
+    2.7,
+    45.4,
+    0,
+    0,
+    3
+   ],
+   [
+    24.5,
+    87.7,
+    0,
+    1,
+    4
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    0
+   ],
+   [
+    3.6,
+    53.0,
+    1,
+    0,
+    0
+   ],
+   [
+    7.1,
+    40.0,
+    1,
+    0,
+    1
+   ],
+   [
+    30.1,
+    37.2,
+    1,
+    1,
+    4
+   ],
+   [
+    4.6,
+    45.7,
+    1,
+    0,
+    0
+   ],
+   [
+    22.6,
+    15.4,
+    0,
+    1,
+    3
+   ],
+   [
+    4.2,
+    54.1,
+    1,
+    0,
+    1
+   ],
+   [
+    28.4,
+    77.2,
+    0,
+    1,
+    4
+   ],
+   [
+    6.3,
+    49.6,
+    1,
+    0,
+    3
+   ],
+   [
+    20.1,
+    9.5,
+    0,
+    1,
+    9
+   ],
+   [
+    25.0,
+    83.1,
+    0,
+    1,
+    2
+   ],
+   [
+    5.6,
+    97.2,
+    0,
+    1,
+    1
+   ],
+   [
+    33.7,
+    56.0,
+    1,
+    1,
+    4
+   ],
+   [
+    31.2,
+    61.7,
+    1,
+    1,
+    5
+   ],
+   [
+    10.6,
+    59.4,
+    1,
+    0,
+    11
+   ],
+   [
+    29.3,
+    67.3,
+    0,
+    1,
+    3
+   ],
+   [
+    13.9,
+    50.4,
+    0,
+    0,
+    3
+   ],
+   [
+    9.8,
+    52.1,
+    1,
+    0,
+    10
+   ],
+   [
+    8.6,
+    60.8,
+    1,
+    0,
+    3
+   ],
+   [
+    16.9,
+    5.2,
+    0,
+    1,
+    6
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    10
+   ],
+   [
+    5.8,
+    95.6,
+    1,
+    1,
+    8
+   ],
+   [
+    21.9,
+    77.9,
+    0,
+    0,
+    2
+   ],
+   [
+    6.6,
+    53.8,
+    1,
+    0,
+    0
+   ],
+   [
+    20.0,
+    60.0,
+    1,
+    0,
+    2
+   ],
+   [
+    20.8,
+    12.0,
+    0,
+    1,
+    8
+   ],
+   [
+    9.7,
+    74.4,
+    1,
+    0,
+    4
+   ],
+   [
+    11.1,
+    48.7,
+    1,
+    0,
+    0
+   ],
+   [
+    27.2,
+    17.9,
+    0,
+    1,
+    5
+   ],
+   [
+    9.7,
+    53.2,
+    0,
+    0,
+    8
+   ],
+   [
+    7.4,
+    52.9,
+    0,
+    0,
+    8
+   ],
+   [
+    7.1,
+    55.2,
+    1,
+    0,
+    1
+   ],
+   [
+    29.5,
+    30.9,
+    1,
+    1,
+    2
+   ],
+   [
+    9.4,
+    51.2,
+    0,
+    0,
+    4
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    1
+   ],
+   [
+    34.5,
+    45.3,
+    0,
+    1,
+    5
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    1
+   ],
+   [
+    28.1,
+    82.6,
+    0,
+    1,
+    2
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    8
+   ],
+   [
+    29.5,
+    78.7,
+    0,
+    1,
+    1
+   ],
+   [
+    14.1,
+    38.0,
+    0,
+    0,
+    0
+   ],
+   [
+    7.1,
+    43.4,
+    1,
+    0,
+    2
+   ],
+   [
+    33.5,
+    56.4,
+    0,
+    1,
+    4
+   ],
+   [
+    13.9,
+    51.6,
+    0,
+    0,
+    2
+   ],
+   [
+    27.0,
+    21.1,
+    0,
+    1,
+    10
+   ],
+   [
+    6.4,
+    47.3,
+    0,
+    0,
+    2
+   ],
+   [
+    31.7,
+    55.5,
+    0,
+    1,
+    2
+   ],
+   [
+    20.6,
+    9.5,
+    0,
+    1,
+    5
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    1
+   ],
+   [
+    25.6,
+    24.2,
+    0,
+    1,
+    11
+   ],
+   [
+    6.3,
+    49.3,
+    0,
+    0,
+    11
+   ],
+   [
+    11.7,
+    35.8,
+    0,
+    0,
+    4
+   ],
+   [
+    8.6,
+    45.4,
+    1,
+    0,
+    2
+   ],
+   [
+    6.4,
+    98.7,
+    0,
+    1,
+    9
+   ],
+   [
+    24.5,
+    12.4,
+    0,
+    1,
+    4
+   ],
+   [
+    22.6,
+    26.5,
+    1,
+    0,
+    2
+   ],
+   [
+    10.9,
+    43.1,
+    1,
+    0,
+    2
+   ],
+   [
+    27.0,
+    40.6,
+    1,
+    0,
+    2
+   ],
+   [
+    10.0,
+    42.3,
+    0,
+    0,
+    2
+   ],
+   [
+    28.1,
+    75.6,
+    1,
+    1,
+    9
+   ],
+   [
+    24.4,
+    17.1,
+    0,
+    1,
+    4
+   ],
+   [
+    6.6,
+    56.4,
+    0,
+    0,
+    8
+   ],
+   [
+    7.7,
+    4.4,
+    0,
+    1,
+    1
+   ],
+   [
+    13.3,
+    95.6,
+    0,
+    1,
+    3
+   ],
+   [
+    5.0,
+    41.4,
+    1,
+    0,
+    5
+   ],
+   [
+    14.4,
+    51.3,
+    1,
+    0,
+    3
+   ],
+   [
+    13.1,
+    49.9,
+    1,
+    0,
+    3
+   ],
+   [
+    34.5,
+    53.3,
+    0,
+    1,
+    1
+   ],
+   [
+    22.6,
+    11.2,
+    0,
+    1,
+    3
+   ],
+   [
+    13.6,
+    6.4,
+    0,
+    1,
+    9
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    3
+   ],
+   [
+    19.5,
+    51.0,
+    1,
+    0,
+    1
+   ],
+   [
+    25.9,
+    84.8,
+    0,
+    1,
+    2
+   ],
+   [
+    7.4,
+    50.4,
+    1,
+    0,
+    2
+   ],
+   [
+    6.4,
+    27.3,
+    0,
+    0,
+    4
+   ],
+   [
+    5.3,
+    97.2,
+    0,
+    1,
+    10
+   ],
+   [
+    4.7,
+    45.9,
+    0,
+    0,
+    8
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    1
+   ],
+   [
+    33.7,
+    74.4,
+    1,
+    1,
+    1
+   ],
+   [
+    21.9,
+    89.1,
+    1,
+    1,
+    1
+   ],
+   [
+    9.8,
+    25.3,
+    1,
+    0,
+    0
+   ],
+   [
+    26.1,
+    7.5,
+    0,
+    1,
+    1
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    0
+   ],
+   [
+    6.3,
+    47.3,
+    1,
+    0,
+    1
+   ],
+   [
+    5.6,
+    43.9,
+    1,
+    0,
+    0
+   ],
+   [
+    7.2,
+    52.1,
+    1,
+    0,
+    0
+   ],
+   [
+    11.6,
+    49.8,
+    1,
+    0,
+    7
+   ],
+   [
+    22.5,
+    9.8,
+    0,
+    1,
+    4
+   ],
+   [
+    35.1,
+    59.4,
+    1,
+    1,
+    8
+   ],
+   [
+    5.5,
+    52.9,
+    0,
+    0,
+    7
+   ],
+   [
+    5.6,
+    52.4,
+    1,
+    0,
+    11
+   ],
+   [
+    31.1,
+    80.6,
+    0,
+    1,
+    8
+   ],
+   [
+    28.1,
+    18.5,
+    0,
+    1,
+    4
+   ],
+   [
+    26.7,
+    55.5,
+    0,
+    0,
+    4
+   ],
+   [
+    35.9,
+    39.4,
+    0,
+    1,
+    8
+   ],
+   [
+    35.9,
+    16.5,
+    0,
+    1,
+    4
+   ],
+   [
+    31.7,
+    70.7,
+    0,
+    1,
+    1
+   ],
+   [
+    23.7,
+    88.2,
+    0,
+    1,
+    2
+   ],
+   [
+    5.6,
+    51.8,
+    1,
+    0,
+    4
+   ],
+   [
+    16.1,
+    32.3,
+    0,
+    0,
+    1
+   ],
+   [
+    20.8,
+    10.1,
+    1,
+    1,
+    1
+   ],
+   [
+    9.1,
+    54.9,
+    1,
+    0,
+    0
+   ],
+   [
+    12.5,
+    56.0,
+    0,
+    0,
+    0
+   ],
+   [
+    7.1,
+    54.1,
+    1,
+    0,
+    2
+   ],
+   [
+    25.9,
+    82.0,
+    0,
+    1,
+    3
+   ],
+   [
+    5.8,
+    53.0,
+    1,
+    0,
+    10
+   ],
+   [
+    4.7,
+    52.4,
+    1,
+    0,
+    8
+   ],
+   [
+    5.2,
+    41.7,
+    1,
+    0,
+    1
+   ],
+   [
+    8.8,
+    46.8,
+    0,
+    0,
+    8
+   ],
+   [
+    24.2,
+    49.9,
+    1,
+    0,
+    4
+   ],
+   [
+    4.4,
+    43.1,
+    0,
+    0,
+    5
+   ],
+   [
+    4.7,
+    59.2,
+    0,
+    0,
+    1
+   ],
+   [
+    6.1,
+    48.2,
+    1,
+    0,
+    0
+   ],
+   [
+    7.2,
+    62.6,
+    0,
+    0,
+    2
+   ],
+   [
+    5.2,
+    53.3,
+    1,
+    0,
+    0
+   ],
+   [
+    5.0,
+    47.6,
+    0,
+    0,
+    5
+   ],
+   [
+    10.0,
+    50.4,
+    0,
+    0,
+    0
+   ],
+   [
+    8.1,
+    45.9,
+    0,
+    0,
+    0
+   ],
+   [
+    23.9,
+    12.6,
+    0,
+    1,
+    8
+   ],
+   [
+    8.4,
+    52.7,
+    0,
+    0,
+    3
+   ],
+   [
+    6.6,
+    46.8,
+    0,
+    0,
+    5
+   ],
+   [
+    20.3,
+    10.1,
+    0,
+    1,
+    5
+   ],
+   [
+    4.6,
+    47.3,
+    1,
+    0,
+    5
+   ],
+   [
+    5.3,
+    46.5,
+    1,
+    0,
+    3
+   ],
+   [
+    7.1,
+    51.9,
+    1,
+    0,
+    3
+   ],
+   [
+    30.0,
+    84.0,
+    1,
+    1,
+    1
+   ],
+   [
+    24.2,
+    89.1,
+    0,
+    1,
+    7
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    1
+   ],
+   [
+    21.9,
+    10.9,
+    0,
+    1,
+    4
+   ],
+   [
+    5.0,
+    47.1,
+    1,
+    0,
+    0
+   ],
+   [
+    20.0,
+    55.2,
+    0,
+    0,
+    0
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    8
+   ],
+   [
+    10.2,
+    42.8,
+    0,
+    0,
+    2
+   ],
+   [
+    18.3,
+    79.8,
+    0,
+    0,
+    0
+   ],
+   [
+    8.3,
+    60.3,
+    0,
+    0,
+    2
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    1
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    0
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    0
+   ],
+   [
+    6.7,
+    45.4,
+    1,
+    0,
+    1
+   ],
+   [
+    34.0,
+    51.3,
+    0,
+    1,
+    4
+   ],
+   [
+    14.5,
+    76.1,
+    0,
+    0,
+    4
+   ],
+   [
+    27.6,
+    21.4,
+    0,
+    1,
+    1
+   ],
+   [
+    5.0,
+    55.8,
+    0,
+    0,
+    8
+   ]
+  ]
+ },
+ "attackPlayers": [
+  {
+   "name": "Erik Timko",
+   "bands": [
+    7,
+    15,
+    23,
+    21,
+    15
+   ],
+   "pts": 81
+  },
+  {
+   "name": "Zaccharie Mortant",
+   "bands": [
+    7,
+    2,
+    19,
+    9,
+    15
+   ],
+   "pts": 52
+  },
+  {
+   "name": "Jan Štěrba",
+   "bands": [
+    4,
+    12,
+    10,
+    4,
+    17
+   ],
+   "pts": 47
+  },
+  {
+   "name": "Marius Grazulis",
+   "bands": [
+    8,
+    6,
+    10,
+    7,
+    4
+   ],
+   "pts": 35
+  },
+  {
+   "name": "Marek Houška",
+   "bands": [
+    5,
+    12,
+    2,
+    5,
+    10
+   ],
+   "pts": 34
+  },
+  {
+   "name": "Tomáš Vyoral",
+   "bands": [
+    8,
+    0,
+    3,
+    5,
+    10
+   ],
+   "pts": 27
+  },
+  {
+   "name": "Tomáš Pomikálek",
+   "bands": [
+    3,
+    5,
+    10,
+    2,
+    6
+   ],
+   "pts": 26
+  },
+  {
+   "name": "Josef Gabriel",
+   "bands": [
+    3,
+    3,
+    2,
+    3,
+    0
+   ],
+   "pts": 11
+  },
+  {
+   "name": "Oliver Žižka",
+   "bands": [
+    0,
+    4,
+    2,
+    2,
+    0
+   ],
+   "pts": 8
+  },
+  {
+   "name": "Michal Grill",
+   "bands": [
+    2,
+    0,
+    0,
+    4,
+    2
+   ],
+   "pts": 8
+  },
+  {
+   "name": "Martin Kučírek",
+   "bands": [
+    0,
+    0,
+    2,
+    5,
+    0
+   ],
+   "pts": 7
+  },
+  {
+   "name": "Jakub Křišťan",
+   "bands": [
+    3,
+    0,
+    0,
+    0,
+    4
+   ],
+   "pts": 7
+  },
+  {
+   "name": "Jan Kopecký",
+   "bands": [
+    0,
+    2,
+    0,
+    0,
+    0
+   ],
+   "pts": 2
+  }
+ ],
+ "segments": {
+  "first3": [
+   99,
+   96
+  ],
+  "last3": [
+   120,
+   74
+  ],
+  "last5": [
+   47,
+   34
+  ]
+ },
  "ranks": {
   "ppg": 5,
   "oppg": 2,
@@ -2277,6 +6206,8 @@
    "pm40": 10.7,
    "on": {
     "min": 108.2,
+    "pf": 240,
+    "pa": 211,
     "ortg": 111.3,
     "drtg": 99.3,
     "net": 12.0
@@ -2480,6 +6411,8 @@
    "pm40": 10.5,
    "on": {
     "min": 110.1,
+    "pf": 226,
+    "pa": 197,
     "ortg": 104.1,
     "drtg": 92.1,
     "net": 12.0
@@ -2683,6 +6616,8 @@
    "pm40": 9.8,
    "on": {
     "min": 97.7,
+    "pf": 197,
+    "pa": 173,
     "ortg": 102.9,
     "drtg": 92.6,
     "net": 10.3
@@ -2886,6 +6821,8 @@
    "pm40": 28.7,
    "on": {
     "min": 64.3,
+    "pf": 157,
+    "pa": 111,
     "ortg": 119.0,
     "drtg": 86.9,
     "net": 32.2
@@ -3089,6 +7026,8 @@
    "pm40": 19.1,
    "on": {
     "min": 79.4,
+    "pf": 178,
+    "pa": 141,
     "ortg": 113.3,
     "drtg": 90.4,
     "net": 22.9
@@ -3292,6 +7231,8 @@
    "pm40": 7.5,
    "on": {
     "min": 102.0,
+    "pf": 213,
+    "pa": 193,
     "ortg": 106.2,
     "drtg": 97.4,
     "net": 8.7
@@ -3495,6 +7436,8 @@
    "pm40": 3.1,
    "on": {
     "min": 78.1,
+    "pf": 164,
+    "pa": 158,
     "ortg": 104.3,
     "drtg": 102.4,
     "net": 1.9
@@ -3698,6 +7641,8 @@
    "pm40": 25.6,
    "on": {
     "min": 45.2,
+    "pf": 109,
+    "pa": 80,
     "ortg": 118.0,
     "drtg": 93.0,
     "net": 25.0
@@ -3901,6 +7846,8 @@
    "pm40": -16.7,
    "on": {
     "min": 21.5,
+    "pf": 33,
+    "pa": 42,
     "ortg": 87.2,
     "drtg": 104.7,
     "net": -17.5
@@ -4084,6 +8031,8 @@
    "pm40": 31.9,
    "on": {
     "min": 13.8,
+    "pf": 32,
+    "pa": 21,
     "ortg": 107.7,
     "drtg": 74.6,
     "net": 33.1
@@ -4267,6 +8216,8 @@
    "pm40": 7.3,
    "on": {
     "min": 5.5,
+    "pf": 16,
+    "pa": 15,
     "ortg": 121.2,
     "drtg": 123.0,
     "net": -1.7
@@ -4410,6 +8361,8 @@
    "pm40": 34.0,
    "on": {
     "min": 25.9,
+    "pf": 61,
+    "pa": 39,
     "ortg": 123.3,
     "drtg": 79.3,
     "net": 43.9
@@ -4613,6 +8566,8 @@
    "pm40": -4.1,
    "on": {
     "min": 48.3,
+    "pf": 99,
+    "pa": 104,
     "ortg": 108.0,
     "drtg": 107.0,
     "net": 1.0

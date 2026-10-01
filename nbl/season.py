@@ -21,7 +21,7 @@ from .metrics import (BOX_KEYS, PLAYER_FIELDS, STINT_KEYS, ZONES, add_stint, adv
 from .teams import slugify
 from .util import pct, r1, ratio
 
-SEASON_LINEUP_MIN = {5: 300, 3: 600, 2: 900}   # s pohromadě za sezónu, ať to není šum
+SEASON_LINEUP_MIN = {5: 150, 3: 300, 2: 180}   # s pohromadě za sezónu (pětky 2,5 min, trojice 5, dvojice 3 — matice)
 
 # metriky pro pořadí týmů v lize: (klíč, kde, vyšší = lepší)
 RANKED = [
@@ -140,12 +140,12 @@ def _sum_box(dst: dict, src: dict) -> None:
         dst[k] += src.get(k, 0)
 
 
-def _lineup_rows(stints: dict, size: int) -> list[dict]:
+def _lineup_rows(stints: dict, size: int, games: dict | None = None) -> list[dict]:
     rows = []
     for key, v in stints.items():
         if v["secs"] < SEASON_LINEUP_MIN[size]:
             continue
-        rows.append({"players": list(key), **unit_ratings(v)})
+        rows.append({"players": list(key), **unit_ratings(v), **({"games": len(games[key])} if games else {})})
     rows.sort(key=lambda r: -r["min"])
     return rows
 
@@ -165,7 +165,9 @@ def team_seasons(games: list[dict]) -> dict[str, dict]:
                 "quarters": defaultdict(lambda: [0, 0, 0]),
                 "fives": defaultdict(new_stint), "assists": defaultdict(lambda: [0, 0]),
                 "runs": [0, 0], "leadChanges": 0, "biggestLead": 0, "biggestDeficit": 0,
-                "log": [],
+                "log": [], "fiveGames": defaultdict(set), "shots": [], "shotPlayers": {},
+                "attackPlayers": defaultdict(lambda: [0] * 6),
+                "segments": {k: [0, 0] for k in ("first3", "last3", "last5")},
             })
             t["games"] += 1
             t["minutes"] += g["minutes"]
@@ -201,6 +203,20 @@ def team_seasons(games: list[dict]) -> dict[str, dict]:
                 acc[2] += 1
             for names, v in T["_agg"]["fives"]:
                 add_stint(t["fives"][tuple(sorted(names))], v)
+                if v["secs"]:
+                    t["fiveGames"][tuple(sorted(names))].add(g.get("fibaId"))
+            pname = {p["pno"]: p["name"] for p in T["players"]}
+            for sh in T["shots"]:
+                nm = pname.get(sh[4], "")
+                pi = t["shotPlayers"].setdefault(nm, len(t["shotPlayers"]))
+                t["shots"].append(sh[:4] + [pi])
+            for nm, bands in T["_agg"]["attackPlayers"].items():
+                acc = t["attackPlayers"][nm]
+                for i, v in enumerate(bands):
+                    acc[i] += v
+            for k in t["segments"]:
+                t["segments"][k][0] += T["segments"][k]
+                t["segments"][k][1] += O["segments"][k]
             for a, b, n, p in T["_agg"]["assists"]:
                 acc = t["assists"][(a, b)]
                 acc[0] += n
@@ -218,6 +234,16 @@ def team_seasons(games: list[dict]) -> dict[str, dict]:
                 "ortg": T["adv"]["ortg"], "drtg": T["adv"]["drtg"], "net": T["adv"]["net"], "pace": g.get("pace"),
                 "efg": T["adv"]["efg"], "tov": T["adv"]["tov"], "orb": T["adv"]["orb"], "ftr": T["adv"]["ftr"],
                 "topScorer": (max(T["players"], key=lambda p: p["pts"])["name"] if T["players"] else None),
+                "oppEfg": O["adv"]["efg"], "oppOrb": O["adv"]["orb"],
+                "tp": [T["box"]["tpm"], T["box"]["tpa"]], "ft": [T["box"]["ftm"], T["box"]["fta"]],
+                "second": [T["box"]["second"], O["box"]["second"]], "bench": [T["box"]["bench"], O["box"]["bench"]],
+                "paint": [T["box"]["paint"], O["box"]["paint"]],
+                "leading": [round(T["lead"]["timeLeadingSec"] / 60, 1), round(O["lead"]["timeLeadingSec"] / 60, 1)],
+                "leadChanges": g["flow"]["leadChanges"], "maxLead": [T["lead"]["max"], O["lead"]["max"]],
+                "maxRun": [T["biggestRun"], O["biggestRun"]],
+                "astFg": [[T["box"]["ast"], T["box"]["fgm"]], [O["box"]["ast"], O["box"]["fgm"]]],
+                "quarters": [[q[me], q[op]] for q in g["quarters"]],
+                "segments": {k: [T["segments"][k], O["segments"][k]] for k in T["segments"]},
             })
 
     out = {}
@@ -232,7 +258,7 @@ def team_seasons(games: list[dict]) -> dict[str, dict]:
         opp_pg = {k: r1(v / gp) for k, v in t["opp"].items()}
         oppAdv = {"opp_" + k: v for k, v in oadv.items() if k in ("efg", "tov", "ftr", "ts", "three", "two", "three_par", "fg", "ft")}
         fives = dict(t["fives"])
-        units = {"fives": _lineup_rows(fives, 5)}
+        units = {"fives": _lineup_rows(fives, 5, t["fiveGames"])}
         for size, label in ((3, "trios"), (2, "pairs")):
             combo = defaultdict(new_stint)
             for key, v in fives.items():
@@ -267,6 +293,10 @@ def team_seasons(games: list[dict]) -> dict[str, dict]:
             "assistPairs": sorted(({"passer": a, "scorer": b, "ast": v[0], "pts": v[1]} for (a, b), v in t["assists"].items()),
                                   key=lambda r: (-r["ast"], -r["pts"]))[:25],
             "log": t["log"],
+            "shots": {"players": list(t["shotPlayers"]), "list": t["shots"]},
+            "attackPlayers": sorted(({"name": n, "bands": v[:5], "pts": sum(v)} for n, v in t["attackPlayers"].items() if sum(v)),
+                                    key=lambda r: -r["pts"]),
+            "segments": t["segments"],
         }
     _rank(out)
     return out
@@ -371,7 +401,7 @@ def players(games: list[dict]) -> list[dict]:
             "usg": round(100 * a["usgNum"] / a["usgDen"], 1) if a["usgDen"] else None,
             "astTo": ratio(tot["ast"], tot["to"]),
             "pm": tot["pm"], "pm40": r1(tot["pm"] * 40 / mins) if mins else None,
-            "on": {k: on_r[k] for k in ("min", "ortg", "drtg", "net")},
+            "on": {k: on_r[k] for k in ("min", "pf", "pa", "ortg", "drtg", "net")},
             "off": {k: off_r[k] for k in ("min", "ortg", "drtg", "net")},
             "onOff": r1(on_r["net"] - off_r["net"]) if on_r["net"] is not None and off_r["net"] is not None else None,
             "dd": a["dd"], "td": a["td"], "high": a["high"],

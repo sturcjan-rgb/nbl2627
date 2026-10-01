@@ -137,3 +137,19 @@ footer{border-top:1px solid var(--line);padding:18px 0;color:var(--muted);font-s
 .tx{overflow-x:auto;-webkit-overflow-scrolling:touch;max-width:100%}
 table.lead td.name{white-space:normal}
 table.lead td{border-bottom:none;padding:4px 6px}
+
+/* matice dvojic + nálezy (jako srsni-data) */
+.matrix{display:grid;gap:2px;font-size:.75rem;min-width:max-content}
+.matrix .hd{font:600 .68rem var(--f-body);color:var(--muted);text-align:center;padding:4px 2px;align-self:end}
+.matrix .rh{font:600 .78rem var(--f-body);color:var(--muted);padding:4px 8px 4px 0;white-space:nowrap;align-self:center}
+.matrix .cell{display:grid;place-items:center;padding:4px 2px;min-height:42px;background:var(--panel)}
+.matrix .cell b{font:600 .82rem var(--f-mono)}
+.matrix .cell small{font:500 .62rem var(--f-mono);color:var(--muted)}
+.matrix .cell.self{background:var(--panel-2)}
+.matrix .cell.empty{color:var(--muted)}
+.find{display:grid;gap:6px;align-content:start}
+.find .big{font:700 1.7rem/1 var(--f-mono)}
+.find.good{border-left:3px solid var(--good)} .find.bad{border-left:3px solid var(--bad)}
+.panel ul{margin:0;padding-left:18px;display:grid;gap:6px;font-size:.9rem}
+.jump{position:sticky;top:calc(var(--hdr) + 4px);z-index:30;background:var(--bg);padding:6px 0;margin-bottom:16px}
+section[id^="t-"]{scroll-margin-top:120px}

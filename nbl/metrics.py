@@ -303,6 +303,7 @@ def walk_pbp(raw: dict, clock: Clock) -> dict:
     lead = {"max": {1: 0, 2: 0}, "changes": 0, "ties": 0, "time": {1: 0, 2: 0, 0: 0}}
     last_leader = 0
     runs = []
+    scoring = []                              # (elapsed, perioda, zbývá s, tým, body)
     run = None
     clutch = {t: {"pts": 0, "fga": 0, "fgm": 0, "fta": 0, "ftm": 0, "to": 0, "players": defaultdict(int)}
               for t in (1, 2)}
@@ -459,6 +460,7 @@ def walk_pbp(raw: dict, clock: Clock) -> dict:
         if t and ok and at in PTS:
             pts = PTS[at]
             score[t] += pts
+            scoring.append((el, period, gt, t, pts))
             by_period[period][t] += pts
             for s in (1, 2):
                 if len(on[s]) == 5:
@@ -507,7 +509,7 @@ def walk_pbp(raw: dict, clock: Clock) -> dict:
         "timeline": timeline, "lead": lead, "runs": runs, "current_run": run, "clutch": clutch,
         "by_period": by_period, "assists": assists, "attack": att, "on": on,
         "period_fouls": period_fouls, "timeouts": timeouts, "last_period": last_period,
-        "elapsed": prev_el,
+        "elapsed": prev_el, "scoring": scoring,
     }
 
 
@@ -620,6 +622,7 @@ def analyze_game(raw: dict, fixture: dict | None = None) -> dict:
             "zones": zones, "shots": shots, "attack": attack, "assistPairs": ast_pairs[:15],
             "lead": {"max": w["lead"]["max"][t], "timeLeadingSec": w["lead"]["time"][t]},
             "biggestRun": max((r["pts"] for r in w["runs"] if r["team"] == t), default=0),
+            "segments": _segments(w, clock, t, final),
             "clutch": {"pts": cl["pts"], "fgm": cl["fgm"], "fga": cl["fga"], "ftm": cl["ftm"], "fta": cl["fta"],
                        "to": cl["to"], "players": sorted(({"name": names.get(p, "#" + p), "pts": v}
                                                           for p, v in cl["players"].items()), key=lambda r: -r["pts"])},
@@ -664,6 +667,22 @@ def analyze_game(raw: dict, fixture: dict | None = None) -> dict:
         out["fixture"] = {k: fixture.get(k) for k in ("nblId", "fibaId", "round", "roundNum", "phase", "datetime", "date", "time")}
     if not final:
         out["live"] = _live_block(raw, w, teams, clock)
+    return out
+
+
+def _segments(w: dict, clock: Clock, t: int, final: bool) -> dict:
+    """Body v prvních 3 a posledních 3 minutách všech period a v posledních 5 minutách zápasu."""
+    end = clock.period_start(max(4, w["last_period"])) + clock.period_secs(max(4, w["last_period"])) if final else w["elapsed"]
+    out = {"first3": 0, "last3": 0, "last5": 0}
+    for el, period, gt, team, pts in w["scoring"]:
+        if team != t:
+            continue
+        if gt >= clock.period_secs(period) - 180:
+            out["first3"] += pts
+        if gt <= 180:
+            out["last3"] += pts
+        if el >= end - 300:
+            out["last5"] += pts
     return out
 
 
