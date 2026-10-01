@@ -1,0 +1,37 @@
+name: live
+# Živé statistiky všech právě hraných zápasů -> větev "live" (jediný commit, force push).
+# Čtení: https://raw.githubusercontent.com/<repo>/live/index.json, …/live/<fibaId>.json
+# (bez 5min cache: …/live/index/<epoch/5>.json, …/live/<fibaId>/<epoch/5>.json)
+on:
+  schedule:
+    - cron: "*/15 12-21 * * *"
+  workflow_dispatch:
+concurrency:
+  group: live
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Připravit checkout větve live
+        run: |
+          mkdir -p live-out && cd live-out && git init -q -b live
+          git config user.name "nbl-bot"; git config user.email "bot@nbl2627.local"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          # navázat na existující větev (soubory dohraných zápasů zůstanou dostupné)
+          if git fetch -q --depth 1 origin live 2>/dev/null; then git reset -q --soft FETCH_HEAD && git checkout -q FETCH_HEAD -- . ; fi
+      - name: Sledovat živé zápasy
+        run: python -m nbl.live --out live-out --publish | tee live.log
+      - name: Dohrané zápasy -> přepočet sezóny a commit
+        if: always()
+        run: |
+          grep -q '^DOHRANÉ:' live.log 2>/dev/null || git status --porcelain data | grep -q . || { echo "Nic nového."; exit 0; }
+          python -m nbl.build --no-scrape
+          scripts/commit_data.sh "chore: final stats $(grep '^DOHRANÉ:' live.log | cut -d' ' -f2- || true)" "python -m nbl.build --no-scrape"
