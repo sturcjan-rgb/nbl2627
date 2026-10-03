@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-03T16:20:58+00:00",
+ "generatedAt": "2026-10-03T18:11:15+00:00",
  "slug": "pardubice",
  "name": "BK KVIS Pardubice",
  "label": "Pardubice",
@@ -8,209 +8,209 @@
  "code": "PCE",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea863234232dc6cd5da9faaab40b442eS1.png",
  "coach": "Jan Šotnar",
- "games": 4,
- "minutes": 160.0,
+ "games": 5,
+ "minutes": 200.0,
  "totals": {
-  "pts": 365,
-  "fgm": 125,
-  "fga": 288,
-  "tpm": 50,
-  "tpa": 144,
-  "twopm": 75,
-  "twopa": 144,
-  "ftm": 65,
-  "fta": 89,
-  "oreb": 62,
-  "dreb": 114,
-  "reb": 176,
-  "ast": 73,
-  "to": 66,
-  "stl": 51,
-  "blk": 18,
-  "blkr": 18,
-  "pf": 83,
-  "foulon": 87,
-  "paint": 148,
-  "fast": 61,
-  "second": 64,
-  "bench": 125,
-  "offto": 94
+  "pts": 475,
+  "fgm": 162,
+  "fga": 355,
+  "tpm": 63,
+  "tpa": 173,
+  "twopm": 99,
+  "twopa": 182,
+  "ftm": 88,
+  "fta": 116,
+  "oreb": 76,
+  "dreb": 144,
+  "reb": 220,
+  "ast": 97,
+  "to": 82,
+  "stl": 56,
+  "blk": 22,
+  "blkr": 22,
+  "pf": 105,
+  "foulon": 109,
+  "paint": 188,
+  "fast": 85,
+  "second": 82,
+  "bench": 169,
+  "offto": 109
  },
  "oppTotals": {
-  "pts": 293,
-  "fgm": 110,
-  "fga": 258,
-  "tpm": 27,
-  "tpa": 107,
-  "twopm": 83,
-  "twopa": 151,
-  "ftm": 46,
-  "fta": 84,
-  "oreb": 50,
-  "dreb": 112,
-  "reb": 162,
-  "ast": 76,
-  "to": 84,
-  "stl": 30,
-  "blk": 18,
-  "blkr": 18,
-  "pf": 89,
-  "foulon": 82,
-  "paint": 158,
-  "fast": 71,
-  "second": 31,
-  "bench": 90,
-  "offto": 55
+  "pts": 391,
+  "fgm": 146,
+  "fga": 330,
+  "tpm": 38,
+  "tpa": 133,
+  "twopm": 108,
+  "twopa": 197,
+  "ftm": 61,
+  "fta": 111,
+  "oreb": 61,
+  "dreb": 129,
+  "reb": 190,
+  "ast": 95,
+  "to": 95,
+  "stl": 38,
+  "blk": 22,
+  "blkr": 22,
+  "pf": 112,
+  "foulon": 103,
+  "paint": 200,
+  "fast": 88,
+  "second": 43,
+  "bench": 118,
+  "offto": 68
  },
  "perGame": {
-  "pts": 91.2,
-  "fgm": 31.2,
-  "fga": 72.0,
-  "tpm": 12.5,
-  "tpa": 36.0,
-  "twopm": 18.8,
-  "twopa": 36.0,
-  "ftm": 16.2,
-  "fta": 22.2,
-  "oreb": 15.5,
-  "dreb": 28.5,
+  "pts": 95.0,
+  "fgm": 32.4,
+  "fga": 71.0,
+  "tpm": 12.6,
+  "tpa": 34.6,
+  "twopm": 19.8,
+  "twopa": 36.4,
+  "ftm": 17.6,
+  "fta": 23.2,
+  "oreb": 15.2,
+  "dreb": 28.8,
   "reb": 44.0,
-  "ast": 18.2,
-  "to": 16.5,
-  "stl": 12.8,
-  "blk": 4.5,
-  "blkr": 4.5,
-  "pf": 20.8,
+  "ast": 19.4,
+  "to": 16.4,
+  "stl": 11.2,
+  "blk": 4.4,
+  "blkr": 4.4,
+  "pf": 21.0,
   "foulon": 21.8,
-  "paint": 37.0,
-  "fast": 15.2,
-  "second": 16.0,
-  "bench": 31.2,
-  "offto": 23.5,
-  "ppg": 91.2,
-  "oppg": 73.2,
-  "diff": 18.0
+  "paint": 37.6,
+  "fast": 17.0,
+  "second": 16.4,
+  "bench": 33.8,
+  "offto": 21.8,
+  "ppg": 95.0,
+  "oppg": 78.2,
+  "diff": 16.8
  },
  "oppPerGame": {
-  "pts": 73.2,
-  "fgm": 27.5,
-  "fga": 64.5,
-  "tpm": 6.8,
-  "tpa": 26.8,
-  "twopm": 20.8,
-  "twopa": 37.8,
-  "ftm": 11.5,
-  "fta": 21.0,
-  "oreb": 12.5,
-  "dreb": 28.0,
-  "reb": 40.5,
+  "pts": 78.2,
+  "fgm": 29.2,
+  "fga": 66.0,
+  "tpm": 7.6,
+  "tpa": 26.6,
+  "twopm": 21.6,
+  "twopa": 39.4,
+  "ftm": 12.2,
+  "fta": 22.2,
+  "oreb": 12.2,
+  "dreb": 25.8,
+  "reb": 38.0,
   "ast": 19.0,
-  "to": 21.0,
-  "stl": 7.5,
-  "blk": 4.5,
-  "blkr": 4.5,
-  "pf": 22.2,
-  "foulon": 20.5,
-  "paint": 39.5,
-  "fast": 17.8,
-  "second": 7.8,
-  "bench": 22.5,
-  "offto": 13.8
+  "to": 19.0,
+  "stl": 7.6,
+  "blk": 4.4,
+  "blkr": 4.4,
+  "pf": 22.4,
+  "foulon": 20.6,
+  "paint": 40.0,
+  "fast": 17.6,
+  "second": 8.6,
+  "bench": 23.6,
+  "offto": 13.6
  },
  "adv": {
-  "poss": 331.2,
+  "poss": 412.0,
   "pace": 82.5,
-  "ortg": 110.2,
-  "drtg": 89.1,
-  "net": 21.2,
-  "efg": 52.1,
-  "ts": 55.8,
+  "ortg": 115.3,
+  "drtg": 94.7,
+  "net": 20.6,
+  "efg": 54.5,
+  "ts": 58.5,
   "tov": 16.8,
-  "orb": 35.6,
-  "drb": 69.5,
-  "ftr": 22.6,
-  "fta_rate": 30.9,
-  "three_par": 50.0,
-  "fg": 43.4,
-  "two": 52.1,
-  "three": 34.7,
-  "ft": 73.0,
-  "ast_pct": 58.4,
-  "ast_to": 1.11,
-  "stl_pct": 15.5,
-  "blk_pct": 11.9,
-  "pts_per_shot": 1.12
+  "orb": 37.1,
+  "drb": 70.2,
+  "ftr": 24.8,
+  "fta_rate": 32.7,
+  "three_par": 48.7,
+  "fg": 45.6,
+  "two": 54.4,
+  "three": 36.4,
+  "ft": 75.9,
+  "ast_pct": 59.9,
+  "ast_to": 1.18,
+  "stl_pct": 13.6,
+  "blk_pct": 11.2,
+  "pts_per_shot": 1.17
  },
  "oppAdv": {
-  "opp_efg": 47.9,
-  "opp_ts": 49.7,
-  "opp_tov": 22.2,
-  "opp_ftr": 17.8,
-  "opp_three_par": 41.5,
-  "opp_fg": 42.6,
-  "opp_two": 55.0,
-  "opp_three": 25.2,
-  "opp_ft": 54.8
+  "opp_efg": 50.0,
+  "opp_ts": 51.6,
+  "opp_tov": 20.0,
+  "opp_ftr": 18.5,
+  "opp_three_par": 40.3,
+  "opp_fg": 44.2,
+  "opp_two": 54.8,
+  "opp_three": 28.6,
+  "opp_ft": 55.0
  },
  "factors": {
-  "efg": 52.1,
+  "efg": 54.5,
   "tov": 16.8,
-  "orb": 35.6,
-  "ftr": 22.6,
-  "opp_efg": 47.9,
-  "opp_tov": 22.2,
-  "drb": 69.5,
-  "opp_ftr": 17.8
+  "orb": 37.1,
+  "ftr": 24.8,
+  "opp_efg": 50.0,
+  "opp_tov": 20.0,
+  "drb": 70.2,
+  "opp_ftr": 18.5
  },
  "zones": {
   "paint": {
-   "m": 73,
-   "a": 136,
-   "pct": 53.7,
-   "share": 47.2
+   "m": 94,
+   "a": 168,
+   "pct": 56.0,
+   "share": 47.3
   },
   "mid": {
-   "m": 2,
-   "a": 8,
-   "pct": 25.0,
-   "share": 2.8
+   "m": 5,
+   "a": 14,
+   "pct": 35.7,
+   "share": 3.9
   },
   "corner3": {
-   "m": 15,
-   "a": 35,
-   "pct": 42.9,
-   "share": 12.2
+   "m": 21,
+   "a": 46,
+   "pct": 45.7,
+   "share": 13.0
   },
   "above3": {
-   "m": 35,
-   "a": 109,
-   "pct": 32.1,
-   "share": 37.8
+   "m": 42,
+   "a": 127,
+   "pct": 33.1,
+   "share": 35.8
   }
  },
  "oppZones": {
   "paint": {
-   "m": 80,
-   "a": 141,
-   "pct": 56.7,
+   "m": 101,
+   "a": 180,
+   "pct": 56.1,
    "share": null
   },
   "mid": {
-   "m": 3,
-   "a": 10,
-   "pct": 30.0,
+   "m": 7,
+   "a": 17,
+   "pct": 41.2,
    "share": null
   },
   "corner3": {
-   "m": 3,
-   "a": 14,
-   "pct": 21.4,
+   "m": 4,
+   "a": 19,
+   "pct": 21.1,
    "share": null
   },
   "above3": {
-   "m": 24,
-   "a": 93,
-   "pct": 25.8,
+   "m": 34,
+   "a": 114,
+   "pct": 29.8,
    "share": null
   }
  },
@@ -223,16 +223,16 @@
    "20+"
   ],
   "pts": [
-   70,
-   77,
+   93,
    106,
-   74,
-   38
+   124,
+   93,
+   59
   ],
   "unassigned": 0,
-  "possessions": 343,
-  "ptsPerPoss": 1.06,
-  "avgSec": 12.5
+  "possessions": 426,
+  "ptsPerPoss": 1.12,
+  "avgSec": 12.6
  },
  "clutch": {
   "pts": 21,
@@ -252,34 +252,34 @@
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 21.0,
-   "oppg": 21.2,
-   "diff": -0.2,
-   "n": 4
+   "ppg": 22.6,
+   "oppg": 21.6,
+   "diff": 1.0,
+   "n": 5
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 21.2,
-   "oppg": 17.2,
-   "diff": 4.0,
-   "n": 4
+   "ppg": 21.0,
+   "oppg": 19.2,
+   "diff": 1.8,
+   "n": 5
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 24.8,
-   "oppg": 18.5,
-   "diff": 6.2,
-   "n": 4
+   "ppg": 25.8,
+   "oppg": 18.4,
+   "diff": 7.4,
+   "n": 5
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 24.2,
-   "oppg": 16.2,
-   "diff": 8.0,
-   "n": 4
+   "ppg": 25.6,
+   "oppg": 19.0,
+   "diff": 6.6,
+   "n": 5
   }
  ],
  "flow": {
@@ -287,10 +287,32 @@
   "biggestDeficit": 13,
   "biggestRun": 20,
   "biggestRunAllowed": 13,
-  "leadChangesPerGame": 6.5
+  "leadChangesPerGame": 6.2
  },
  "lineups": {
   "fives": [
+   {
+    "players": [
+     "Luboš Kovář",
+     "Nicholas Shyhime Stampley",
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt",
+     "Zed Jackson Key"
+    ],
+    "min": 13.4,
+    "pf": 26,
+    "pa": 28,
+    "pm": -2,
+    "poss": 25.4,
+    "pF": 26.1,
+    "pA": 24.8,
+    "ortg": 99.7,
+    "drtg": 113.1,
+    "net": -13.4,
+    "efg": 43.8,
+    "oefg": 54.2,
+    "games": 2
+   },
    {
     "players": [
      "Jamonda Roshawn Bryant",
@@ -315,25 +337,25 @@
    },
    {
     "players": [
-     "Luboš Kovář",
+     "Jamonda Roshawn Bryant",
      "Nicholas Shyhime Stampley",
      "Robert Lee Bonham",
      "Ryan Everett Moffatt",
      "Zed Jackson Key"
     ],
-    "min": 9.8,
-    "pf": 18,
-    "pa": 22,
-    "pm": -4,
-    "poss": 18.5,
-    "pF": 19.2,
-    "pA": 17.8,
-    "ortg": 93.8,
-    "drtg": 123.9,
-    "net": -30.1,
-    "efg": 46.9,
-    "oefg": 50.0,
-    "games": 1
+    "min": 8.2,
+    "pf": 30,
+    "pa": 23,
+    "pm": 7,
+    "poss": 22.0,
+    "pF": 20.8,
+    "pA": 23.3,
+    "ortg": 144.5,
+    "drtg": 98.8,
+    "net": 45.7,
+    "efg": 81.2,
+    "oefg": 53.6,
+    "games": 3
    },
    {
     "players": [
@@ -378,6 +400,28 @@
     "efg": 60.5,
     "oefg": 50.0,
     "games": 1
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Luboš Kovář",
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt",
+     "Zed Jackson Key"
+    ],
+    "min": 7.0,
+    "pf": 15,
+    "pa": 14,
+    "pm": 1,
+    "poss": 14.3,
+    "pF": 14.9,
+    "pA": 13.6,
+    "ortg": 100.8,
+    "drtg": 102.6,
+    "net": -1.8,
+    "efg": 54.2,
+    "oefg": 50.0,
+    "games": 3
    },
    {
     "players": [
@@ -447,24 +491,90 @@
    },
    {
     "players": [
+     "Jakub Tůma",
      "Jamonda Roshawn Bryant",
+     "Luboš Kovář",
+     "Nicholas Shyhime Stampley",
+     "Zed Jackson Key"
+    ],
+    "min": 5.8,
+    "pf": 13,
+    "pa": 18,
+    "pm": -5,
+    "poss": 11.1,
+    "pF": 9.9,
+    "pA": 12.3,
+    "ortg": 131.6,
+    "drtg": 146.1,
+    "net": -14.5,
+    "efg": 66.7,
+    "oefg": 80.0,
+    "games": 3
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Dalibor Vlk",
      "Nicholas Shyhime Stampley",
      "Robert Lee Bonham",
+     "Zed Jackson Key"
+    ],
+    "min": 5.2,
+    "pf": 12,
+    "pa": 11,
+    "pm": 1,
+    "poss": 9.6,
+    "pF": 8.9,
+    "pA": 10.3,
+    "ortg": 135.1,
+    "drtg": 106.6,
+    "net": 28.5,
+    "efg": 55.6,
+    "oefg": 62.5,
+    "games": 3
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Kamil Švrdlík",
+     "Luboš Kovář",
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 5.0,
+    "pf": 9,
+    "pa": 10,
+    "pm": -1,
+    "poss": 8.5,
+    "pF": 10.0,
+    "pA": 7.0,
+    "ortg": 90.0,
+    "drtg": 142.9,
+    "net": -52.9,
+    "efg": 50.0,
+    "oefg": 55.6,
+    "games": 2
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Jamonda Roshawn Bryant",
+     "Nicholas Shyhime Stampley",
      "Ryan Everett Moffatt",
      "Zed Jackson Key"
     ],
-    "min": 4.8,
-    "pf": 14,
-    "pa": 11,
-    "pm": 3,
-    "poss": 11.5,
-    "pF": 11.0,
-    "pA": 12.1,
-    "ortg": 127.3,
-    "drtg": 91.1,
-    "net": 36.2,
-    "efg": 77.8,
-    "oefg": 57.1,
+    "min": 4.5,
+    "pf": 11,
+    "pa": 7,
+    "pm": 4,
+    "poss": 11.0,
+    "pF": 11.3,
+    "pA": 10.8,
+    "ortg": 97.5,
+    "drtg": 65.1,
+    "net": 32.5,
+    "efg": 16.7,
+    "oefg": 30.0,
     "games": 2
    },
    {
@@ -491,25 +601,91 @@
    },
    {
     "players": [
+     "Adam Lukeš",
+     "Kamil Švrdlík",
+     "Nicholas Shyhime Stampley",
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 4.3,
+    "pf": 7,
+    "pa": 8,
+    "pm": -1,
+    "poss": 6.6,
+    "pF": 5.9,
+    "pA": 7.3,
+    "ortg": 119.0,
+    "drtg": 109.3,
+    "net": 9.8,
+    "efg": 35.7,
+    "oefg": 50.0,
+    "games": 4
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Dalibor Vlk",
+     "Jakub Tůma",
+     "Kamil Švrdlík",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 4.3,
+    "pf": 12,
+    "pa": 8,
+    "pm": 4,
+    "poss": 8.3,
+    "pF": 8.6,
+    "pA": 8.0,
+    "ortg": 138.9,
+    "drtg": 100.0,
+    "net": 38.9,
+    "efg": 56.2,
+    "oefg": 57.1,
+    "games": 2
+   },
+   {
+    "players": [
      "Dalibor Vlk",
      "Jamonda Roshawn Bryant",
      "Nicholas Shyhime Stampley",
      "Robert Lee Bonham",
      "Zed Jackson Key"
     ],
-    "min": 4.0,
-    "pf": 10,
-    "pa": 4,
-    "pm": 6,
-    "poss": 8.5,
-    "pF": 9.0,
-    "pA": 8.0,
-    "ortg": 111.1,
-    "drtg": 50.0,
-    "net": 61.1,
-    "efg": 62.5,
+    "min": 4.3,
+    "pf": 13,
+    "pa": 6,
+    "pm": 7,
+    "poss": 9.7,
+    "pF": 10.4,
+    "pA": 8.9,
+    "ortg": 124.5,
+    "drtg": 67.6,
+    "net": 57.0,
+    "efg": 66.7,
     "oefg": 50.0,
-    "games": 1
+    "games": 2
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Jamonda Roshawn Bryant",
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt",
+     "Zed Jackson Key"
+    ],
+    "min": 3.9,
+    "pf": 14,
+    "pa": 8,
+    "pm": 6,
+    "poss": 9.8,
+    "pF": 10.8,
+    "pA": 8.9,
+    "ortg": 130.1,
+    "drtg": 90.1,
+    "net": 40.0,
+    "efg": 91.7,
+    "oefg": 43.8,
+    "games": 2
    },
    {
     "players": [
@@ -558,89 +734,45 @@
    {
     "players": [
      "Adam Lukeš",
-     "Dalibor Vlk",
-     "Jakub Tůma",
-     "Kamil Švrdlík",
-     "Nicholas Shyhime Stampley"
-    ],
-    "min": 3.2,
-    "pf": 9,
-    "pa": 4,
-    "pm": 5,
-    "poss": 6.3,
-    "pF": 6.6,
-    "pA": 6.0,
-    "ortg": 135.5,
-    "drtg": 66.7,
-    "net": 68.9,
-    "efg": 42.9,
-    "oefg": 50.0,
-    "games": 1
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Jamonda Roshawn Bryant",
+     "Nicholas Shyhime Stampley",
      "Robert Lee Bonham",
      "Ryan Everett Moffatt",
      "Zed Jackson Key"
     ],
-    "min": 3.1,
-    "pf": 12,
-    "pa": 2,
-    "pm": 10,
-    "poss": 7.9,
-    "pF": 8.8,
-    "pA": 7.0,
-    "ortg": 137.0,
-    "drtg": 28.6,
-    "net": 108.4,
-    "efg": 90.0,
-    "oefg": 16.7,
-    "games": 1
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Kamil Švrdlík",
-     "Nicholas Shyhime Stampley",
-     "Robert Lee Bonham",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 2.9,
-    "pf": 3,
-    "pa": 5,
-    "pm": -2,
-    "poss": 4.7,
-    "pF": 4.0,
-    "pA": 5.3,
-    "ortg": 75.0,
-    "drtg": 94.0,
-    "net": -19.0,
-    "efg": 37.5,
-    "oefg": 33.3,
+    "min": 3.6,
+    "pf": 9,
+    "pa": 8,
+    "pm": 1,
+    "poss": 7.4,
+    "pF": 6.9,
+    "pA": 7.9,
+    "ortg": 130.8,
+    "drtg": 101.5,
+    "net": 29.3,
+    "efg": 70.0,
+    "oefg": 58.3,
     "games": 3
    },
    {
     "players": [
      "Adam Lukeš",
-     "Luboš Kovář",
+     "Dalibor Vlk",
+     "Kamil Švrdlík",
      "Robert Lee Bonham",
-     "Ryan Everett Moffatt",
-     "Zed Jackson Key"
+     "Ryan Everett Moffatt"
     ],
-    "min": 2.9,
-    "pf": 5,
-    "pa": 6,
-    "pm": -1,
-    "poss": 5.9,
+    "min": 3.4,
+    "pf": 6,
+    "pa": 10,
+    "pm": -4,
+    "poss": 6.9,
     "pF": 7.0,
-    "pA": 4.9,
-    "ortg": 71.4,
-    "drtg": 123.0,
-    "net": -51.5,
-    "efg": 35.7,
-    "oefg": 50.0,
+    "pA": 6.9,
+    "ortg": 85.7,
+    "drtg": 145.3,
+    "net": -59.6,
+    "efg": 37.5,
+    "oefg": 80.0,
     "games": 2
    },
    {
@@ -667,50 +799,6 @@
    },
    {
     "players": [
-     "Jakub Tůma",
-     "Jamonda Roshawn Bryant",
-     "Luboš Kovář",
-     "Nicholas Shyhime Stampley",
-     "Zed Jackson Key"
-    ],
-    "min": 2.8,
-    "pf": 6,
-    "pa": 7,
-    "pm": -1,
-    "poss": 4.4,
-    "pF": 3.9,
-    "pA": 5.0,
-    "ortg": 154.6,
-    "drtg": 140.0,
-    "net": 14.6,
-    "efg": 62.5,
-    "oefg": 87.5,
-    "games": 2
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Dalibor Vlk",
-     "Nicholas Shyhime Stampley",
-     "Robert Lee Bonham",
-     "Zed Jackson Key"
-    ],
-    "min": 2.7,
-    "pf": 5,
-    "pa": 5,
-    "pm": 0,
-    "poss": 5.9,
-    "pF": 5.9,
-    "pA": 5.9,
-    "ortg": 85.0,
-    "drtg": 85.0,
-    "net": 0.0,
-    "efg": 37.5,
-    "oefg": 50.0,
-    "games": 2
-   },
-   {
-    "players": [
      "Adam Lukeš",
      "Luboš Kovář",
      "Nicholas Shyhime Stampley",
@@ -730,6 +818,28 @@
     "efg": 100.0,
     "oefg": 50.0,
     "games": 2
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Jakub Tůma",
+     "Jamonda Roshawn Bryant",
+     "Ryan Everett Moffatt",
+     "Zed Jackson Key"
+    ],
+    "min": 2.7,
+    "pf": 5,
+    "pa": 2,
+    "pm": 3,
+    "poss": 5.5,
+    "pF": 5.0,
+    "pA": 6.0,
+    "ortg": 100.0,
+    "drtg": 33.3,
+    "net": 66.7,
+    "efg": 62.5,
+    "oefg": 14.3,
+    "games": 1
    },
    {
     "players": [
@@ -757,41 +867,41 @@
   "trios": [
    {
     "players": [
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt",
+     "Zed Jackson Key"
+    ],
+    "min": 52.8,
+    "pf": 145,
+    "pa": 105,
+    "pm": 40,
+    "poss": 113.4,
+    "pF": 113.8,
+    "pA": 113.1,
+    "ortg": 127.5,
+    "drtg": 92.9,
+    "net": 34.6,
+    "efg": 63.5,
+    "oefg": 50.6
+   },
+   {
+    "players": [
      "Luboš Kovář",
      "Robert Lee Bonham",
      "Ryan Everett Moffatt"
     ],
-    "min": 39.2,
-    "pf": 103,
-    "pa": 66,
-    "pm": 37,
-    "poss": 81.8,
-    "pF": 83.0,
-    "pA": 80.5,
-    "ortg": 124.0,
-    "drtg": 82.0,
-    "net": 42.0,
-    "efg": 59.9,
-    "oefg": 43.2
-   },
-   {
-    "players": [
-     "Robert Lee Bonham",
-     "Ryan Everett Moffatt",
-     "Zed Jackson Key"
-    ],
-    "min": 37.7,
-    "pf": 98,
-    "pa": 66,
-    "pm": 32,
-    "poss": 80.6,
-    "pF": 81.9,
-    "pA": 79.2,
-    "ortg": 119.6,
-    "drtg": 83.3,
-    "net": 36.3,
-    "efg": 59.9,
-    "oefg": 45.8
+    "min": 50.7,
+    "pf": 127,
+    "pa": 87,
+    "pm": 40,
+    "poss": 103.0,
+    "pF": 104.8,
+    "pA": 101.2,
+    "ortg": 121.2,
+    "drtg": 85.9,
+    "net": 35.2,
+    "efg": 58.4,
+    "oefg": 46.4
    },
    {
     "players": [
@@ -799,37 +909,56 @@
      "Ryan Everett Moffatt",
      "Zed Jackson Key"
     ],
-    "min": 36.4,
-    "pf": 103,
-    "pa": 58,
-    "pm": 45,
-    "poss": 75.1,
-    "pF": 75.4,
-    "pA": 74.9,
-    "ortg": 136.7,
-    "drtg": 77.4,
-    "net": 59.3,
-    "efg": 63.2,
-    "oefg": 45.6
-   },
-   {
-    "players": [
-     "Jamonda Roshawn Bryant",
-     "Robert Lee Bonham",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 35.2,
-    "pf": 98,
-    "pa": 45,
+    "min": 46.6,
+    "pf": 136,
+    "pa": 83,
     "pm": 53,
-    "poss": 75.4,
-    "pF": 75.6,
-    "pA": 75.3,
-    "ortg": 129.6,
-    "drtg": 59.8,
-    "net": 69.9,
-    "efg": 65.4,
-    "oefg": 35.3
+    "poss": 102.0,
+    "pF": 101.2,
+    "pA": 102.8,
+    "ortg": 134.4,
+    "drtg": 80.8,
+    "net": 53.6,
+    "efg": 64.8,
+    "oefg": 42.7
+   },
+   {
+    "players": [
+     "Nicholas Shyhime Stampley",
+     "Robert Lee Bonham",
+     "Zed Jackson Key"
+    ],
+    "min": 45.5,
+    "pf": 117,
+    "pa": 100,
+    "pm": 17,
+    "poss": 94.0,
+    "pF": 93.4,
+    "pA": 94.6,
+    "ortg": 125.3,
+    "drtg": 105.7,
+    "net": 19.7,
+    "efg": 60.1,
+    "oefg": 57.0
+   },
+   {
+    "players": [
+     "Nicholas Shyhime Stampley",
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 43.1,
+    "pf": 105,
+    "pa": 88,
+    "pm": 17,
+    "poss": 90.8,
+    "pF": 89.6,
+    "pA": 92.0,
+    "ortg": 117.2,
+    "drtg": 95.7,
+    "net": 21.6,
+    "efg": 58.1,
+    "oefg": 46.7
    },
    {
     "players": [
@@ -837,18 +966,18 @@
      "Robert Lee Bonham",
      "Zed Jackson Key"
     ],
-    "min": 35.1,
-    "pf": 95,
-    "pa": 63,
-    "pm": 32,
-    "poss": 67.0,
-    "pF": 69.0,
-    "pA": 65.0,
-    "ortg": 137.6,
-    "drtg": 96.9,
-    "net": 40.7,
-    "efg": 65.1,
-    "oefg": 46.6
+    "min": 42.8,
+    "pf": 113,
+    "pa": 77,
+    "pm": 36,
+    "poss": 82.3,
+    "pF": 83.8,
+    "pA": 80.8,
+    "ortg": 134.8,
+    "drtg": 95.3,
+    "net": 39.5,
+    "efg": 63.2,
+    "oefg": 48.6
    },
    {
     "players": [
@@ -856,18 +985,132 @@
      "Ryan Everett Moffatt",
      "Zed Jackson Key"
     ],
-    "min": 34.1,
-    "pf": 80,
-    "pa": 61,
-    "pm": 19,
-    "poss": 65.9,
-    "pF": 66.2,
-    "pA": 65.5,
-    "ortg": 120.8,
-    "drtg": 93.1,
-    "net": 27.7,
+    "min": 41.9,
+    "pf": 98,
+    "pa": 75,
+    "pm": 23,
+    "poss": 81.1,
+    "pF": 81.0,
+    "pA": 81.3,
+    "ortg": 121.0,
+    "drtg": 92.3,
+    "net": 28.7,
     "efg": 54.1,
-    "oefg": 48.3
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jamonda Roshawn Bryant",
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 39.7,
+    "pf": 118,
+    "pa": 63,
+    "pm": 55,
+    "poss": 89.1,
+    "pF": 88.8,
+    "pA": 89.4,
+    "ortg": 132.9,
+    "drtg": 70.5,
+    "net": 62.4,
+    "efg": 68.2,
+    "oefg": 39.0
+   },
+   {
+    "players": [
+     "Nicholas Shyhime Stampley",
+     "Ryan Everett Moffatt",
+     "Zed Jackson Key"
+    ],
+    "min": 39.7,
+    "pf": 93,
+    "pa": 89,
+    "pm": 4,
+    "poss": 85.1,
+    "pF": 82.6,
+    "pA": 87.6,
+    "ortg": 112.5,
+    "drtg": 101.6,
+    "net": 10.9,
+    "efg": 50.0,
+    "oefg": 48.7
+   },
+   {
+    "players": [
+     "Luboš Kovář",
+     "Nicholas Shyhime Stampley",
+     "Robert Lee Bonham"
+    ],
+    "min": 37.5,
+    "pf": 93,
+    "pa": 82,
+    "pm": 11,
+    "poss": 72.4,
+    "pF": 73.4,
+    "pA": 71.5,
+    "ortg": 126.7,
+    "drtg": 114.7,
+    "net": 12.0,
+    "efg": 60.6,
+    "oefg": 61.0
+   },
+   {
+    "players": [
+     "Luboš Kovář",
+     "Nicholas Shyhime Stampley",
+     "Zed Jackson Key"
+    ],
+    "min": 36.9,
+    "pf": 75,
+    "pa": 88,
+    "pm": -13,
+    "poss": 70.3,
+    "pF": 68.9,
+    "pA": 71.7,
+    "ortg": 108.8,
+    "drtg": 122.7,
+    "net": -13.9,
+    "efg": 48.4,
+    "oefg": 59.6
+   },
+   {
+    "players": [
+     "Jamonda Roshawn Bryant",
+     "Robert Lee Bonham",
+     "Zed Jackson Key"
+    ],
+    "min": 35.0,
+    "pf": 114,
+    "pa": 64,
+    "pm": 50,
+    "poss": 77.4,
+    "pF": 78.0,
+    "pA": 76.8,
+    "ortg": 146.1,
+    "drtg": 83.3,
+    "net": 62.7,
+    "efg": 74.3,
+    "oefg": 51.0
+   },
+   {
+    "players": [
+     "Kamil Švrdlík",
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 34.8,
+    "pf": 69,
+    "pa": 59,
+    "pm": 10,
+    "poss": 68.4,
+    "pF": 68.7,
+    "pA": 68.2,
+    "ortg": 100.4,
+    "drtg": 86.6,
+    "net": 13.8,
+    "efg": 45.2,
+    "oefg": 41.5
    },
    {
     "players": [
@@ -890,60 +1133,60 @@
    },
    {
     "players": [
-     "Luboš Kovář",
+     "Jamonda Roshawn Bryant",
+     "Nicholas Shyhime Stampley",
+     "Zed Jackson Key"
+    ],
+    "min": 34.0,
+    "pf": 90,
+    "pa": 79,
+    "pm": 11,
+    "poss": 75.2,
+    "pF": 72.4,
+    "pA": 77.9,
+    "ortg": 124.2,
+    "drtg": 101.4,
+    "net": 22.8,
+    "efg": 59.2,
+    "oefg": 53.4
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Ryan Everett Moffatt",
+     "Zed Jackson Key"
+    ],
+    "min": 32.2,
+    "pf": 79,
+    "pa": 58,
+    "pm": 21,
+    "poss": 66.3,
+    "pF": 67.1,
+    "pA": 65.6,
+    "ortg": 117.7,
+    "drtg": 88.5,
+    "net": 29.2,
+    "efg": 53.4,
+    "oefg": 48.0
+   },
+   {
+    "players": [
+     "Jamonda Roshawn Bryant",
      "Nicholas Shyhime Stampley",
      "Robert Lee Bonham"
     ],
-    "min": 33.9,
-    "pf": 85,
-    "pa": 76,
-    "pm": 9,
-    "poss": 65.5,
-    "pF": 66.5,
-    "pA": 64.5,
-    "ortg": 127.8,
-    "drtg": 117.9,
-    "net": 9.9,
-    "efg": 63.5,
-    "oefg": 60.0
-   },
-   {
-    "players": [
-     "Nicholas Shyhime Stampley",
-     "Robert Lee Bonham",
-     "Zed Jackson Key"
-    ],
-    "min": 32.9,
-    "pf": 74,
-    "pa": 67,
-    "pm": 7,
-    "poss": 67.8,
-    "pF": 68.4,
-    "pA": 67.1,
-    "ortg": 108.2,
-    "drtg": 99.8,
-    "net": 8.4,
-    "efg": 55.8,
-    "oefg": 53.8
-   },
-   {
-    "players": [
-     "Nicholas Shyhime Stampley",
-     "Robert Lee Bonham",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 31.8,
-    "pf": 68,
-    "pa": 60,
-    "pm": 8,
-    "poss": 67.5,
-    "pF": 67.2,
-    "pA": 67.8,
-    "ortg": 101.3,
-    "drtg": 88.5,
-    "net": 12.8,
-    "efg": 55.7,
-    "oefg": 41.2
+    "min": 32.1,
+    "pf": 96,
+    "pa": 66,
+    "pm": 30,
+    "poss": 68.3,
+    "pF": 68.3,
+    "pA": 68.4,
+    "ortg": 140.6,
+    "drtg": 96.5,
+    "net": 44.0,
+    "efg": 70.0,
+    "oefg": 58.9
    },
    {
     "players": [
@@ -966,98 +1209,22 @@
    },
    {
     "players": [
-     "Jamonda Roshawn Bryant",
-     "Robert Lee Bonham",
-     "Zed Jackson Key"
-    ],
-    "min": 30.2,
-    "pf": 91,
-    "pa": 44,
-    "pm": 47,
-    "poss": 62.6,
-    "pF": 63.4,
-    "pA": 61.8,
-    "ortg": 143.5,
-    "drtg": 71.2,
-    "net": 72.4,
-    "efg": 71.6,
-    "oefg": 48.8
-   },
-   {
-    "players": [
-     "Luboš Kovář",
-     "Nicholas Shyhime Stampley",
-     "Zed Jackson Key"
-    ],
-    "min": 30.2,
-    "pf": 60,
-    "pa": 71,
-    "pm": -11,
-    "poss": 56.7,
-    "pF": 56.0,
-    "pA": 57.4,
-    "ortg": 107.1,
-    "drtg": 123.7,
-    "net": -16.6,
-    "efg": 48.0,
-    "oefg": 56.9
-   },
-   {
-    "players": [
-     "Jamonda Roshawn Bryant",
-     "Nicholas Shyhime Stampley",
-     "Robert Lee Bonham"
-    ],
-    "min": 28.4,
-    "pf": 77,
-    "pa": 52,
-    "pm": 25,
-    "poss": 56.7,
-    "pF": 57.1,
-    "pA": 56.3,
-    "ortg": 134.9,
-    "drtg": 92.4,
-    "net": 42.5,
-    "efg": 67.3,
-    "oefg": 60.5
-   },
-   {
-    "players": [
-     "Kamil Švrdlík",
+     "Adam Lukeš",
      "Robert Lee Bonham",
      "Ryan Everett Moffatt"
     ],
-    "min": 28.0,
-    "pf": 55,
-    "pa": 43,
-    "pm": 12,
-    "poss": 56.6,
-    "pF": 55.8,
-    "pA": 57.3,
-    "ortg": 98.5,
-    "drtg": 75.1,
-    "net": 23.4,
-    "efg": 45.0,
-    "oefg": 36.5
-   },
-   {
-    "players": [
-     "Nicholas Shyhime Stampley",
-     "Ryan Everett Moffatt",
-     "Zed Jackson Key"
-    ],
-    "min": 26.8,
-    "pf": 52,
+    "min": 30.3,
+    "pf": 60,
     "pa": 59,
-    "pm": -7,
-    "poss": 56.0,
-    "pF": 54.5,
-    "pA": 57.6,
-    "ortg": 95.4,
-    "drtg": 102.4,
-    "net": -7.0,
-    "efg": 43.8,
-    "oefg": 48.1
+    "pm": 1,
+    "poss": 57.9,
+    "pF": 59.3,
+    "pA": 56.6,
+    "ortg": 101.2,
+    "drtg": 104.2,
+    "net": -3.0,
+    "efg": 45.5,
+    "oefg": 49.0
    },
    {
     "players": [
@@ -1065,18 +1232,18 @@
      "Luboš Kovář",
      "Zed Jackson Key"
     ],
-    "min": 26.6,
-    "pf": 71,
-    "pa": 45,
-    "pm": 26,
-    "poss": 49.2,
-    "pF": 48.7,
-    "pA": 49.8,
-    "ortg": 145.7,
-    "drtg": 90.4,
-    "net": 55.3,
-    "efg": 63.3,
-    "oefg": 55.0
+    "min": 29.6,
+    "pf": 78,
+    "pa": 56,
+    "pm": 22,
+    "poss": 55.9,
+    "pF": 54.7,
+    "pA": 57.1,
+    "ortg": 142.5,
+    "drtg": 98.1,
+    "net": 44.4,
+    "efg": 63.9,
+    "oefg": 57.6
    },
    {
     "players": [
@@ -1084,75 +1251,56 @@
      "Luboš Kovář",
      "Robert Lee Bonham"
     ],
-    "min": 25.5,
-    "pf": 62,
-    "pa": 51,
-    "pm": 11,
-    "poss": 52.0,
-    "pF": 50.9,
-    "pA": 53.2,
-    "ortg": 121.9,
-    "drtg": 95.9,
-    "net": 25.9,
-    "efg": 60.0,
-    "oefg": 56.6
-   },
-   {
-    "players": [
-     "Kamil Švrdlík",
-     "Nicholas Shyhime Stampley",
-     "Robert Lee Bonham"
-    ],
-    "min": 24.4,
-    "pf": 56,
-    "pa": 46,
+    "min": 29.2,
+    "pf": 68,
+    "pa": 58,
     "pm": 10,
-    "poss": 47.7,
-    "pF": 48.1,
-    "pA": 47.4,
-    "ortg": 116.5,
-    "drtg": 97.0,
-    "net": 19.4,
-    "efg": 59.5,
-    "oefg": 51.4
-   },
-   {
-    "players": [
-     "Jamonda Roshawn Bryant",
-     "Nicholas Shyhime Stampley",
-     "Zed Jackson Key"
-    ],
-    "min": 24.3,
-    "pf": 56,
-    "pa": 49,
-    "pm": 7,
-    "poss": 49.2,
-    "pF": 47.6,
-    "pA": 50.7,
-    "ortg": 117.6,
-    "drtg": 96.6,
-    "net": 21.0,
-    "efg": 54.5,
+    "poss": 58.0,
+    "pF": 57.9,
+    "pA": 58.2,
+    "ortg": 117.5,
+    "drtg": 99.7,
+    "net": 17.8,
+    "efg": 58.9,
     "oefg": 56.8
    },
    {
     "players": [
+     "Adam Lukeš",
+     "Kamil Švrdlík",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 26.9,
+    "pf": 44,
+    "pa": 61,
+    "pm": -17,
+    "poss": 50.3,
+    "pF": 50.2,
+    "pA": 50.5,
+    "ortg": 87.7,
+    "drtg": 120.8,
+    "net": -33.1,
+    "efg": 32.0,
+    "oefg": 58.1
+   },
+   {
+    "players": [
      "Jamonda Roshawn Bryant",
      "Kamil Švrdlík",
      "Ryan Everett Moffatt"
     ],
-    "min": 24.2,
-    "pf": 54,
-    "pa": 31,
-    "pm": 23,
-    "poss": 52.1,
-    "pF": 52.6,
-    "pA": 51.5,
-    "ortg": 102.7,
-    "drtg": 60.2,
-    "net": 42.5,
-    "efg": 52.6,
-    "oefg": 31.8
+    "min": 26.3,
+    "pf": 59,
+    "pa": 35,
+    "pm": 24,
+    "poss": 54.6,
+    "pF": 54.6,
+    "pA": 54.5,
+    "ortg": 108.1,
+    "drtg": 64.2,
+    "net": 43.9,
+    "efg": 53.6,
+    "oefg": 34.0
    },
    {
     "players": [
@@ -1160,18 +1308,94 @@
      "Luboš Kovář",
      "Nicholas Shyhime Stampley"
     ],
-    "min": 23.3,
+    "min": 26.3,
+    "pf": 65,
+    "pa": 67,
+    "pm": -2,
+    "poss": 50.6,
+    "pF": 48.8,
+    "pA": 52.4,
+    "ortg": 133.1,
+    "drtg": 127.9,
+    "net": 5.2,
+    "efg": 54.9,
+    "oefg": 73.2
+   },
+   {
+    "players": [
+     "Kamil Švrdlík",
+     "Nicholas Shyhime Stampley",
+     "Robert Lee Bonham"
+    ],
+    "min": 25.9,
+    "pf": 62,
+    "pa": 49,
+    "pm": 13,
+    "poss": 50.1,
+    "pF": 50.8,
+    "pA": 49.4,
+    "ortg": 122.0,
+    "drtg": 99.2,
+    "net": 22.8,
+    "efg": 57.8,
+    "oefg": 52.6
+   },
+   {
+    "players": [
+     "Luboš Kovář",
+     "Nicholas Shyhime Stampley",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 25.9,
+    "pf": 55,
+    "pa": 57,
+    "pm": -2,
+    "poss": 51.6,
+    "pF": 50.6,
+    "pA": 52.6,
+    "ortg": 108.7,
+    "drtg": 108.3,
+    "net": 0.4,
+    "efg": 46.8,
+    "oefg": 52.0
+   },
+   {
+    "players": [
+     "Jamonda Roshawn Bryant",
+     "Nicholas Shyhime Stampley",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 25.6,
+    "pf": 66,
+    "pa": 50,
+    "pm": 16,
+    "poss": 57.1,
+    "pF": 55.3,
+    "pA": 58.9,
+    "ortg": 119.3,
+    "drtg": 84.9,
+    "net": 34.4,
+    "efg": 52.5,
+    "oefg": 40.0
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Robert Lee Bonham",
+     "Zed Jackson Key"
+    ],
+    "min": 24.2,
     "pf": 58,
-    "pa": 56,
-    "pm": 2,
-    "poss": 44.0,
-    "pF": 42.8,
-    "pA": 45.1,
-    "ortg": 135.4,
-    "drtg": 124.2,
-    "net": 11.2,
-    "efg": 53.3,
-    "oefg": 72.9
+    "pa": 48,
+    "pm": 10,
+    "poss": 46.8,
+    "pF": 45.3,
+    "pA": 48.4,
+    "ortg": 128.1,
+    "drtg": 99.3,
+    "net": 28.8,
+    "efg": 61.8,
+    "oefg": 46.3
    },
    {
     "players": [
@@ -1179,18 +1403,56 @@
      "Kamil Švrdlík",
      "Luboš Kovář"
     ],
-    "min": 23.2,
-    "pf": 55,
-    "pa": 38,
+    "min": 24.2,
+    "pf": 58,
+    "pa": 41,
     "pm": 17,
-    "poss": 48.5,
-    "pF": 48.5,
-    "pA": 48.4,
-    "ortg": 113.4,
-    "drtg": 78.5,
-    "net": 34.8,
-    "efg": 57.1,
-    "oefg": 51.6
+    "poss": 50.5,
+    "pF": 50.5,
+    "pA": 50.4,
+    "ortg": 114.8,
+    "drtg": 81.3,
+    "net": 33.5,
+    "efg": 59.3,
+    "oefg": 53.0
+   },
+   {
+    "players": [
+     "Kamil Švrdlík",
+     "Luboš Kovář",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 23.9,
+    "pf": 49,
+    "pa": 42,
+    "pm": 7,
+    "poss": 49.9,
+    "pF": 49.5,
+    "pA": 50.3,
+    "ortg": 98.9,
+    "drtg": 83.5,
+    "net": 15.4,
+    "efg": 53.8,
+    "oefg": 44.9
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Jakub Tůma",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 23.8,
+    "pf": 45,
+    "pa": 46,
+    "pm": -1,
+    "poss": 45.4,
+    "pF": 44.4,
+    "pA": 46.4,
+    "ortg": 101.4,
+    "drtg": 99.2,
+    "net": 2.1,
+    "efg": 39.8,
+    "oefg": 59.7
    },
    {
     "players": [
@@ -1213,79 +1475,98 @@
    },
    {
     "players": [
+     "Adam Lukeš",
      "Luboš Kovář",
+     "Robert Lee Bonham"
+    ],
+    "min": 21.7,
+    "pf": 52,
+    "pa": 37,
+    "pm": 15,
+    "poss": 39.9,
+    "pF": 42.6,
+    "pA": 37.2,
+    "ortg": 122.0,
+    "drtg": 99.6,
+    "net": 22.4,
+    "efg": 69.1,
+    "oefg": 36.2
+   },
+   {
+    "players": [
+     "Adam Lukeš",
      "Nicholas Shyhime Stampley",
+     "Zed Jackson Key"
+    ],
+    "min": 21.2,
+    "pf": 44,
+    "pa": 44,
+    "pm": 0,
+    "poss": 44.3,
+    "pF": 42.9,
+    "pA": 45.6,
+    "ortg": 102.5,
+    "drtg": 96.5,
+    "net": 6.0,
+    "efg": 51.7,
+    "oefg": 48.7
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Jamonda Roshawn Bryant",
      "Ryan Everett Moffatt"
     ],
-    "min": 22.2,
-    "pf": 47,
-    "pa": 51,
-    "pm": -4,
-    "poss": 44.7,
-    "pF": 43.7,
-    "pA": 45.6,
-    "ortg": 107.5,
-    "drtg": 111.7,
-    "net": -4.2,
-    "efg": 48.7,
+    "min": 20.7,
+    "pf": 55,
+    "pa": 40,
+    "pm": 15,
+    "poss": 43.9,
+    "pF": 44.4,
+    "pA": 43.5,
+    "ortg": 124.0,
+    "drtg": 92.0,
+    "net": 32.0,
+    "efg": 48.8,
+    "oefg": 44.7
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Ryan Everett Moffatt",
+     "Zed Jackson Key"
+    ],
+    "min": 20.2,
+    "pf": 49,
+    "pa": 34,
+    "pm": 15,
+    "poss": 39.2,
+    "pF": 38.4,
+    "pA": 40.0,
+    "ortg": 127.6,
+    "drtg": 85.1,
+    "net": 42.5,
+    "efg": 52.5,
     "oefg": 50.0
    },
    {
     "players": [
-     "Adam Lukeš",
-     "Ryan Everett Moffatt",
-     "Zed Jackson Key"
-    ],
-    "min": 22.0,
-    "pf": 50,
-    "pa": 38,
-    "pm": 12,
-    "poss": 45.2,
-    "pF": 46.3,
-    "pA": 44.0,
-    "ortg": 108.0,
-    "drtg": 86.3,
-    "net": 21.8,
-    "efg": 46.7,
-    "oefg": 51.7
-   },
-   {
-    "players": [
-     "Adam Lukeš",
      "Jakub Tůma",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 21.1,
-    "pf": 39,
-    "pa": 39,
-    "pm": 0,
-    "poss": 41.0,
-    "pF": 39.5,
-    "pA": 42.5,
-    "ortg": 98.7,
-    "drtg": 91.8,
-    "net": 6.9,
-    "efg": 39.5,
-    "oefg": 53.6
-   },
-   {
-    "players": [
-     "Kamil Švrdlík",
-     "Luboš Kovář",
+     "Jamonda Roshawn Bryant",
      "Ryan Everett Moffatt"
     ],
     "min": 20.1,
-    "pf": 43,
-    "pa": 35,
-    "pm": 8,
-    "poss": 43.9,
-    "pF": 42.5,
-    "pA": 45.3,
-    "ortg": 101.1,
-    "drtg": 77.3,
-    "net": 23.8,
-    "efg": 54.5,
-    "oefg": 42.4
+    "pf": 48,
+    "pa": 28,
+    "pm": 20,
+    "poss": 39.8,
+    "pF": 40.6,
+    "pA": 39.0,
+    "ortg": 118.1,
+    "drtg": 71.9,
+    "net": 46.2,
+    "efg": 61.1,
+    "oefg": 37.9
    },
    {
     "players": [
@@ -1308,22 +1589,41 @@
    },
    {
     "players": [
-     "Jamonda Roshawn Bryant",
+     "Adam Lukeš",
+     "Kamil Švrdlík",
+     "Robert Lee Bonham"
+    ],
+    "min": 19.2,
+    "pf": 34,
+    "pa": 35,
+    "pm": -1,
+    "poss": 33.9,
+    "pF": 36.6,
+    "pA": 31.1,
+    "ortg": 92.8,
+    "drtg": 112.6,
+    "net": -19.8,
+    "efg": 40.0,
+    "oefg": 46.8
+   },
+   {
+    "players": [
+     "Kamil Švrdlík",
      "Nicholas Shyhime Stampley",
      "Ryan Everett Moffatt"
     ],
-    "min": 18.7,
-    "pf": 42,
-    "pa": 33,
-    "pm": 9,
-    "poss": 38.4,
-    "pF": 37.9,
-    "pA": 39.0,
-    "ortg": 110.8,
-    "drtg": 84.7,
-    "net": 26.1,
-    "efg": 48.3,
-    "oefg": 42.6
+    "min": 19.1,
+    "pf": 38,
+    "pa": 35,
+    "pm": 3,
+    "poss": 37.2,
+    "pF": 36.6,
+    "pA": 37.8,
+    "ortg": 103.8,
+    "drtg": 92.5,
+    "net": 11.3,
+    "efg": 41.7,
+    "oefg": 46.6
    },
    {
     "players": [
@@ -1346,22 +1646,79 @@
    },
    {
     "players": [
+     "Adam Lukeš",
+     "Nicholas Shyhime Stampley",
+     "Robert Lee Bonham"
+    ],
+    "min": 18.6,
+    "pf": 47,
+    "pa": 34,
+    "pm": 13,
+    "poss": 33.6,
+    "pF": 33.0,
+    "pA": 34.2,
+    "ortg": 142.6,
+    "drtg": 99.5,
+    "net": 43.1,
+    "efg": 65.0,
+    "oefg": 44.8
+   },
+   {
+    "players": [
      "Jakub Tůma",
-     "Ryan Everett Moffatt",
+     "Kamil Švrdlík",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 18.4,
+    "pf": 25,
+    "pa": 33,
+    "pm": -8,
+    "poss": 35.5,
+    "pF": 35.3,
+    "pA": 35.7,
+    "ortg": 70.9,
+    "drtg": 92.4,
+    "net": -21.5,
+    "efg": 29.3,
+    "oefg": 43.5
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Luboš Kovář",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 18.3,
+    "pf": 36,
+    "pa": 37,
+    "pm": -1,
+    "poss": 35.7,
+    "pF": 36.5,
+    "pA": 34.8,
+    "ortg": 98.6,
+    "drtg": 106.2,
+    "net": -7.6,
+    "efg": 51.7,
+    "oefg": 48.4
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Jamonda Roshawn Bryant",
      "Zed Jackson Key"
     ],
-    "min": 17.5,
-    "pf": 44,
-    "pa": 32,
-    "pm": 12,
-    "poss": 33.7,
-    "pF": 33.4,
-    "pA": 34.0,
-    "ortg": 131.7,
-    "drtg": 94.2,
-    "net": 37.5,
-    "efg": 51.4,
-    "oefg": 60.9
+    "min": 18.3,
+    "pf": 45,
+    "pa": 38,
+    "pm": 7,
+    "poss": 36.7,
+    "pF": 35.6,
+    "pA": 37.7,
+    "ortg": 126.3,
+    "drtg": 100.7,
+    "net": 25.5,
+    "efg": 59.7,
+    "oefg": 53.4
    },
    {
     "players": [
@@ -1369,132 +1726,189 @@
      "Kamil Švrdlík",
      "Nicholas Shyhime Stampley"
     ],
-    "min": 17.3,
+    "min": 18.2,
     "pf": 44,
     "pa": 35,
     "pm": 9,
-    "poss": 34.5,
-    "pF": 34.8,
-    "pA": 34.1,
-    "ortg": 126.3,
-    "drtg": 102.7,
-    "net": 23.6,
-    "efg": 53.2,
-    "oefg": 62.5
+    "poss": 35.4,
+    "pF": 35.7,
+    "pA": 35.1,
+    "ortg": 123.2,
+    "drtg": 99.8,
+    "net": 23.4,
+    "efg": 51.6,
+    "oefg": 60.0
    },
    {
     "players": [
      "Adam Lukeš",
-     "Kamil Švrdlík",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 16.9,
-    "pf": 24,
-    "pa": 38,
-    "pm": -14,
-    "poss": 33.6,
-    "pF": 32.4,
-    "pA": 34.7,
-    "ortg": 74.1,
-    "drtg": 109.4,
-    "net": -35.4,
-    "efg": 25.0,
-    "oefg": 51.8
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Robert Lee Bonham",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 16.3,
-    "pf": 25,
-    "pa": 28,
-    "pm": -3,
-    "poss": 32.6,
-    "pF": 33.2,
-    "pA": 32.0,
-    "ortg": 75.3,
-    "drtg": 87.6,
-    "net": -12.3,
-    "efg": 31.8,
-    "oefg": 40.4
-   },
-   {
-    "players": [
-     "Kamil Švrdlík",
      "Nicholas Shyhime Stampley",
      "Ryan Everett Moffatt"
     ],
-    "min": 16.1,
-    "pf": 33,
-    "pa": 29,
-    "pm": 4,
-    "poss": 32.4,
-    "pF": 31.8,
-    "pA": 33.0,
-    "ortg": 103.6,
-    "drtg": 88.0,
-    "net": 15.7,
-    "efg": 50.0,
-    "oefg": 42.0
+    "min": 18.0,
+    "pf": 44,
+    "pa": 33,
+    "pm": 11,
+    "poss": 37.1,
+    "pF": 36.2,
+    "pA": 37.9,
+    "ortg": 121.4,
+    "drtg": 87.0,
+    "net": 34.4,
+    "efg": 48.3,
+    "oefg": 40.3
    },
    {
     "players": [
+     "Adam Lukeš",
      "Jakub Tůma",
-     "Jamonda Roshawn Bryant",
-     "Ryan Everett Moffatt"
+     "Kamil Švrdlík"
     ],
-    "min": 15.8,
-    "pf": 38,
-    "pa": 22,
-    "pm": 16,
-    "poss": 32.3,
-    "pF": 33.6,
-    "pA": 31.0,
-    "ortg": 113.0,
-    "drtg": 71.1,
-    "net": 41.9,
-    "efg": 58.6,
-    "oefg": 39.6
+    "min": 17.9,
+    "pf": 37,
+    "pa": 37,
+    "pm": 0,
+    "poss": 36.0,
+    "pF": 34.6,
+    "pA": 37.4,
+    "ortg": 106.9,
+    "drtg": 98.9,
+    "net": 8.0,
+    "efg": 42.2,
+    "oefg": 58.9
    },
    {
     "players": [
-     "Jakub Tůma",
+     "Dalibor Vlk",
+     "Robert Lee Bonham",
+     "Zed Jackson Key"
+    ],
+    "min": 17.0,
+    "pf": 48,
+    "pa": 34,
+    "pm": 14,
+    "poss": 37.6,
+    "pF": 39.4,
+    "pA": 35.8,
+    "ortg": 121.8,
+    "drtg": 94.9,
+    "net": 27.0,
+    "efg": 62.5,
+    "oefg": 54.0
+   },
+   {
+    "players": [
+     "Adam Lukeš",
      "Kamil Švrdlík",
-     "Ryan Everett Moffatt"
+     "Nicholas Shyhime Stampley"
     ],
-    "min": 15.7,
-    "pf": 19,
-    "pa": 26,
-    "pm": -7,
-    "poss": 31.1,
-    "pF": 30.4,
-    "pA": 31.8,
-    "ortg": 62.5,
-    "drtg": 81.7,
-    "net": -19.2,
-    "efg": 26.1,
-    "oefg": 35.7
+    "min": 16.9,
+    "pf": 40,
+    "pa": 28,
+    "pm": 12,
+    "poss": 34.3,
+    "pF": 34.9,
+    "pA": 33.7,
+    "ortg": 114.5,
+    "drtg": 83.0,
+    "net": 31.5,
+    "efg": 40.6,
+    "oefg": 40.0
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Luboš Kovář",
+     "Zed Jackson Key"
+    ],
+    "min": 16.7,
+    "pf": 38,
+    "pa": 39,
+    "pm": -1,
+    "poss": 33.1,
+    "pF": 32.0,
+    "pA": 34.2,
+    "ortg": 118.6,
+    "drtg": 114.0,
+    "net": 4.6,
+    "efg": 51.9,
+    "oefg": 53.0
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Luboš Kovář",
+     "Zed Jackson Key"
+    ],
+    "min": 16.4,
+    "pf": 36,
+    "pa": 31,
+    "pm": 5,
+    "poss": 32.8,
+    "pF": 33.4,
+    "pA": 32.3,
+    "ortg": 107.8,
+    "drtg": 96.0,
+    "net": 11.7,
+    "efg": 60.4,
+    "oefg": 37.5
    },
    {
     "players": [
      "Adam Lukeš",
      "Jamonda Roshawn Bryant",
-     "Ryan Everett Moffatt"
+     "Zed Jackson Key"
     ],
     "min": 15.4,
-    "pf": 40,
-    "pa": 31,
-    "pm": 9,
-    "poss": 32.5,
-    "pF": 33.3,
-    "pA": 31.7,
-    "ortg": 120.2,
-    "drtg": 97.7,
-    "net": 22.5,
-    "efg": 47.0,
-    "oefg": 50.0
+    "pf": 39,
+    "pa": 25,
+    "pm": 14,
+    "poss": 32.7,
+    "pF": 33.7,
+    "pA": 31.6,
+    "ortg": 115.7,
+    "drtg": 79.1,
+    "net": 36.5,
+    "efg": 46.9,
+    "oefg": 37.0
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Jamonda Roshawn Bryant",
+     "Luboš Kovář"
+    ],
+    "min": 15.3,
+    "pf": 32,
+    "pa": 33,
+    "pm": -1,
+    "poss": 30.8,
+    "pF": 31.4,
+    "pA": 30.2,
+    "ortg": 101.9,
+    "drtg": 109.3,
+    "net": -7.4,
+    "efg": 59.5,
+    "oefg": 63.0
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Luboš Kovář",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 14.6,
+    "pf": 26,
+    "pa": 42,
+    "pm": -16,
+    "poss": 32.8,
+    "pF": 31.4,
+    "pA": 34.2,
+    "ortg": 82.8,
+    "drtg": 122.8,
+    "net": -40.0,
+    "efg": 34.6,
+    "oefg": 67.9
    },
    {
     "players": [
@@ -1518,420 +1932,78 @@
    {
     "players": [
      "Adam Lukeš",
-     "Robert Lee Bonham",
-     "Zed Jackson Key"
-    ],
-    "min": 14.5,
-    "pf": 30,
-    "pa": 27,
-    "pm": 3,
-    "poss": 29.6,
-    "pF": 29.1,
-    "pA": 30.2,
-    "ortg": 103.2,
-    "drtg": 89.5,
-    "net": 13.6,
-    "efg": 47.9,
-    "oefg": 38.0
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Luboš Kovář",
-     "Robert Lee Bonham"
-    ],
-    "min": 13.8,
-    "pf": 36,
-    "pa": 22,
-    "pm": 14,
-    "poss": 25.6,
-    "pF": 27.8,
-    "pA": 23.4,
-    "ortg": 129.7,
-    "drtg": 94.0,
-    "net": 35.7,
-    "efg": 71.7,
-    "oefg": 27.8
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Luboš Kovář",
-     "Zed Jackson Key"
-    ],
-    "min": 13.7,
-    "pf": 31,
-    "pa": 28,
-    "pm": 3,
-    "poss": 26.5,
-    "pF": 26.0,
-    "pA": 26.9,
-    "ortg": 119.0,
-    "drtg": 104.2,
-    "net": 14.9,
-    "efg": 47.6,
-    "oefg": 48.1
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Robert Lee Bonham",
-     "Zed Jackson Key"
-    ],
-    "min": 13.5,
-    "pf": 36,
-    "pa": 20,
-    "pm": 16,
-    "poss": 30.8,
-    "pF": 33.0,
-    "pA": 28.6,
-    "ortg": 109.2,
-    "drtg": 69.8,
-    "net": 39.4,
-    "efg": 58.0,
-    "oefg": 42.5
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Nicholas Shyhime Stampley",
-     "Zed Jackson Key"
-    ],
-    "min": 12.9,
-    "pf": 20,
-    "pa": 26,
-    "pm": -6,
-    "poss": 28.9,
-    "pF": 28.4,
-    "pA": 29.4,
-    "ortg": 70.4,
-    "drtg": 88.4,
-    "net": -18.0,
-    "efg": 38.9,
-    "oefg": 47.8
-   },
-   {
-    "players": [
-     "Adam Lukeš",
      "Kamil Švrdlík",
+     "Luboš Kovář"
+    ],
+    "min": 14.4,
+    "pf": 28,
+    "pa": 26,
+    "pm": 2,
+    "poss": 27.5,
+    "pF": 28.8,
+    "pA": 26.2,
+    "ortg": 97.4,
+    "drtg": 99.2,
+    "net": -1.9,
+    "efg": 54.5,
+    "oefg": 44.2
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Dalibor Vlk",
+     "Kamil Švrdlík"
+    ],
+    "min": 14.0,
+    "pf": 37,
+    "pa": 30,
+    "pm": 7,
+    "poss": 31.4,
+    "pF": 31.7,
+    "pA": 31.1,
+    "ortg": 116.6,
+    "drtg": 96.5,
+    "net": 20.1,
+    "efg": 46.7,
+    "oefg": 64.3
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Dalibor Vlk",
      "Nicholas Shyhime Stampley"
     ],
-    "min": 12.7,
+    "min": 13.9,
     "pf": 30,
-    "pa": 18,
-    "pm": 12,
-    "poss": 27.1,
-    "pF": 27.3,
-    "pA": 26.8,
-    "ortg": 110.0,
-    "drtg": 67.1,
-    "net": 42.9,
-    "efg": 43.8,
-    "oefg": 27.8
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Kamil Švrdlík",
-     "Robert Lee Bonham"
-    ],
-    "min": 12.5,
-    "pf": 18,
-    "pa": 19,
-    "pm": -1,
-    "poss": 21.5,
-    "pF": 22.9,
-    "pA": 20.2,
-    "ortg": 78.7,
-    "drtg": 94.1,
-    "net": -15.4,
-    "efg": 36.4,
-    "oefg": 37.5
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Jamonda Roshawn Bryant",
-     "Zed Jackson Key"
-    ],
-    "min": 12.5,
-    "pf": 33,
-    "pa": 25,
-    "pm": 8,
-    "poss": 24.5,
-    "pF": 24.6,
-    "pA": 24.4,
-    "ortg": 133.9,
-    "drtg": 102.5,
-    "net": 31.5,
-    "efg": 57.4,
+    "pa": 29,
+    "pm": 1,
+    "poss": 29.0,
+    "pF": 28.8,
+    "pA": 29.1,
+    "ortg": 104.0,
+    "drtg": 99.7,
+    "net": 4.3,
+    "efg": 52.3,
     "oefg": 62.5
    },
    {
     "players": [
-     "Adam Lukeš",
-     "Luboš Kovář",
-     "Zed Jackson Key"
+     "Dalibor Vlk",
+     "Jamonda Roshawn Bryant",
+     "Ryan Everett Moffatt"
     ],
-    "min": 12.3,
-    "pf": 26,
-    "pa": 23,
-    "pm": 3,
-    "poss": 24.5,
-    "pF": 25.5,
-    "pA": 23.5,
-    "ortg": 101.9,
-    "drtg": 97.8,
-    "net": 4.1,
-    "efg": 55.3,
-    "oefg": 34.0
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Jakub Tůma",
-     "Kamil Švrdlík"
-    ],
-    "min": 12.1,
-    "pf": 20,
-    "pa": 20,
-    "pm": 0,
-    "poss": 24.5,
-    "pF": 23.3,
-    "pA": 25.6,
-    "ortg": 85.9,
+    "min": 13.8,
+    "pf": 39,
+    "pa": 24,
+    "pm": 15,
+    "poss": 31.6,
+    "pF": 32.5,
+    "pA": 30.8,
+    "ortg": 119.9,
     "drtg": 78.0,
-    "net": 7.9,
-    "efg": 27.3,
-    "oefg": 44.4
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Jamonda Roshawn Bryant",
-     "Zed Jackson Key"
-    ],
-    "min": 12.1,
-    "pf": 29,
-    "pa": 20,
-    "pm": 9,
-    "poss": 23.7,
-    "pF": 24.6,
-    "pA": 22.8,
-    "ortg": 117.7,
-    "drtg": 87.6,
-    "net": 30.1,
-    "efg": 46.4,
-    "oefg": 44.4
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Kamil Švrdlík",
-     "Luboš Kovář"
-    ],
-    "min": 12.0,
-    "pf": 18,
-    "pa": 27,
-    "pm": -9,
-    "poss": 27.3,
-    "pF": 26.5,
-    "pA": 28.1,
-    "ortg": 67.9,
-    "drtg": 96.2,
-    "net": -28.3,
-    "efg": 34.4,
-    "oefg": 52.4
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Dalibor Vlk",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 11.9,
-    "pf": 25,
-    "pa": 27,
-    "pm": -2,
-    "poss": 24.6,
-    "pF": 25.1,
-    "pA": 24.1,
-    "ortg": 99.7,
-    "drtg": 112.1,
-    "net": -12.4,
-    "efg": 39.6,
-    "oefg": 80.0
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Nicholas Shyhime Stampley",
-     "Robert Lee Bonham"
-    ],
-    "min": 11.9,
-    "pf": 25,
-    "pa": 18,
-    "pm": 7,
-    "poss": 23.5,
-    "pF": 23.3,
-    "pA": 23.7,
-    "ortg": 107.2,
-    "drtg": 75.9,
-    "net": 31.3,
-    "efg": 60.5,
-    "oefg": 28.9
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Jakub Tůma",
-     "Luboš Kovář"
-    ],
-    "min": 11.6,
-    "pf": 21,
-    "pa": 23,
-    "pm": -2,
-    "poss": 24.8,
-    "pF": 23.4,
-    "pA": 26.2,
-    "ortg": 89.7,
-    "drtg": 87.8,
-    "net": 2.0,
-    "efg": 43.8,
-    "oefg": 38.0
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Luboš Kovář",
-     "Nicholas Shyhime Stampley"
-    ],
-    "min": 11.5,
-    "pf": 19,
-    "pa": 31,
-    "pm": -12,
-    "poss": 26.1,
-    "pF": 25.4,
-    "pA": 26.9,
-    "ortg": 74.8,
-    "drtg": 115.3,
-    "net": -40.5,
-    "efg": 26.2,
-    "oefg": 65.9
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Jamonda Roshawn Bryant",
-     "Luboš Kovář"
-    ],
-    "min": 11.2,
-    "pf": 22,
-    "pa": 19,
-    "pm": 3,
-    "poss": 22.1,
-    "pF": 23.4,
-    "pA": 20.9,
-    "ortg": 94.0,
-    "drtg": 91.0,
-    "net": 3.0,
-    "efg": 50.0,
-    "oefg": 56.7
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Nicholas Shyhime Stampley",
-     "Zed Jackson Key"
-    ],
-    "min": 10.9,
-    "pf": 19,
-    "pa": 22,
-    "pm": -3,
-    "poss": 24.4,
-    "pF": 24.2,
-    "pA": 24.5,
-    "ortg": 78.5,
-    "drtg": 89.7,
-    "net": -11.2,
-    "efg": 44.7,
-    "oefg": 53.1
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Luboš Kovář",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 10.5,
-    "pf": 20,
-    "pa": 22,
-    "pm": -2,
-    "poss": 21.4,
-    "pF": 21.6,
-    "pA": 21.1,
-    "ortg": 92.4,
-    "drtg": 104.4,
-    "net": -11.9,
-    "efg": 44.7,
-    "oefg": 44.7
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Jamonda Roshawn Bryant",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 10.3,
-    "pf": 32,
-    "pa": 16,
-    "pm": 16,
-    "poss": 24.2,
-    "pF": 25.5,
-    "pA": 22.9,
-    "ortg": 125.4,
-    "drtg": 69.9,
-    "net": 55.5,
-    "efg": 65.8,
-    "oefg": 36.4
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Robert Lee Bonham",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 10.3,
-    "pf": 30,
-    "pa": 19,
-    "pm": 11,
-    "poss": 24.4,
-    "pF": 26.0,
-    "pA": 22.8,
-    "ortg": 115.6,
-    "drtg": 83.5,
-    "net": 32.1,
-    "efg": 54.8,
-    "oefg": 44.4
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Dalibor Vlk",
-     "Kamil Švrdlík"
-    ],
-    "min": 10.3,
-    "pf": 23,
-    "pa": 17,
-    "pm": 6,
-    "poss": 21.9,
-    "pF": 22.4,
-    "pA": 21.3,
-    "ortg": 102.7,
-    "drtg": 79.7,
-    "net": 22.9,
-    "efg": 37.0,
-    "oefg": 61.5
+    "net": 41.9,
+    "efg": 66.7,
+    "oefg": 37.1
    },
    {
     "players": [
@@ -1939,37 +2011,56 @@
      "Ryan Everett Moffatt",
      "Zed Jackson Key"
     ],
-    "min": 10.3,
+    "min": 13.8,
+    "pf": 36,
+    "pa": 30,
+    "pm": 6,
+    "poss": 30.5,
+    "pF": 31.5,
+    "pA": 29.5,
+    "ortg": 114.2,
+    "drtg": 101.6,
+    "net": 12.6,
+    "efg": 60.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Nicholas Shyhime Stampley",
+     "Zed Jackson Key"
+    ],
+    "min": 13.6,
     "pf": 29,
-    "pa": 22,
-    "pm": 7,
-    "poss": 23.1,
-    "pF": 24.5,
-    "pA": 21.6,
-    "ortg": 118.3,
-    "drtg": 101.7,
-    "net": 16.6,
-    "efg": 57.5,
-    "oefg": 56.2
+    "pa": 30,
+    "pm": -1,
+    "poss": 29.2,
+    "pF": 28.6,
+    "pA": 29.8,
+    "ortg": 101.3,
+    "drtg": 100.5,
+    "net": 0.7,
+    "efg": 52.0,
+    "oefg": 57.9
    },
    {
     "players": [
      "Adam Lukeš",
      "Dalibor Vlk",
-     "Nicholas Shyhime Stampley"
+     "Ryan Everett Moffatt"
     ],
-    "min": 10.3,
-    "pf": 18,
-    "pa": 19,
-    "pm": -1,
-    "poss": 22.8,
-    "pF": 23.0,
-    "pA": 22.6,
-    "ortg": 78.4,
-    "drtg": 83.9,
-    "net": -5.5,
-    "efg": 40.6,
-    "oefg": 57.1
+    "min": 13.5,
+    "pf": 29,
+    "pa": 33,
+    "pm": -4,
+    "poss": 28.5,
+    "pF": 29.1,
+    "pA": 28.0,
+    "ortg": 99.7,
+    "drtg": 118.0,
+    "net": -18.3,
+    "efg": 41.1,
+    "oefg": 77.8
    },
    {
     "players": [
@@ -1977,37 +2068,341 @@
      "Nicholas Shyhime Stampley",
      "Zed Jackson Key"
     ],
-    "min": 10.0,
-    "pf": 16,
-    "pa": 27,
-    "pm": -11,
-    "poss": 21.2,
-    "pF": 20.5,
-    "pA": 21.9,
-    "ortg": 78.0,
-    "drtg": 123.4,
-    "net": -45.4,
-    "efg": 40.0,
-    "oefg": 65.8
+    "min": 13.1,
+    "pf": 23,
+    "pa": 38,
+    "pm": -15,
+    "poss": 27.9,
+    "pF": 26.5,
+    "pA": 29.2,
+    "ortg": 86.7,
+    "drtg": 130.1,
+    "net": -43.4,
+    "efg": 47.5,
+    "oefg": 68.0
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Kamil Švrdlík",
+     "Luboš Kovář"
+    ],
+    "min": 13.0,
+    "pf": 21,
+    "pa": 30,
+    "pm": -9,
+    "poss": 29.3,
+    "pF": 28.5,
+    "pA": 30.1,
+    "ortg": 73.6,
+    "drtg": 99.7,
+    "net": -26.1,
+    "efg": 41.2,
+    "oefg": 54.3
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Jamonda Roshawn Bryant",
+     "Zed Jackson Key"
+    ],
+    "min": 12.9,
+    "pf": 35,
+    "pa": 21,
+    "pm": 14,
+    "poss": 29.5,
+    "pF": 30.1,
+    "pA": 29.0,
+    "ortg": 116.4,
+    "drtg": 72.5,
+    "net": 43.8,
+    "efg": 70.5,
+    "oefg": 34.1
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Robert Lee Bonham",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 12.7,
+    "pf": 36,
+    "pa": 31,
+    "pm": 5,
+    "poss": 30.2,
+    "pF": 32.0,
+    "pA": 28.5,
+    "ortg": 112.6,
+    "drtg": 108.7,
+    "net": 3.9,
+    "efg": 55.8,
+    "oefg": 54.3
    },
    {
     "players": [
      "Adam Lukeš",
-     "Kamil Švrdlík",
+     "Jakub Tůma",
      "Luboš Kovář"
     ],
-    "min": 9.7,
-    "pf": 19,
-    "pa": 16,
-    "pm": 3,
-    "poss": 19.5,
-    "pF": 19.8,
-    "pA": 19.2,
-    "ortg": 96.2,
-    "drtg": 83.3,
-    "net": 12.8,
+    "min": 12.7,
+    "pf": 24,
+    "pa": 26,
+    "pm": -2,
+    "poss": 26.8,
+    "pF": 25.4,
+    "pA": 28.2,
+    "ortg": 94.5,
+    "drtg": 92.2,
+    "net": 2.3,
     "efg": 50.0,
-    "oefg": 36.1
+    "oefg": 40.7
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Jamonda Roshawn Bryant",
+     "Kamil Švrdlík"
+    ],
+    "min": 12.1,
+    "pf": 26,
+    "pa": 23,
+    "pm": 3,
+    "poss": 25.1,
+    "pF": 26.1,
+    "pA": 24.2,
+    "ortg": 99.7,
+    "drtg": 95.0,
+    "net": 4.7,
+    "efg": 64.7,
+    "oefg": 52.5
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Dalibor Vlk",
+     "Zed Jackson Key"
+    ],
+    "min": 12.0,
+    "pf": 25,
+    "pa": 30,
+    "pm": -5,
+    "poss": 23.6,
+    "pF": 23.2,
+    "pA": 24.0,
+    "ortg": 107.8,
+    "drtg": 125.2,
+    "net": -17.5,
+    "efg": 50.0,
+    "oefg": 76.5
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Jakub Tůma",
+     "Jamonda Roshawn Bryant"
+    ],
+    "min": 11.9,
+    "pf": 38,
+    "pa": 25,
+    "pm": 13,
+    "poss": 23.9,
+    "pF": 24.4,
+    "pA": 23.4,
+    "ortg": 155.5,
+    "drtg": 106.8,
+    "net": 48.6,
+    "efg": 68.5,
+    "oefg": 61.1
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Kamil Švrdlík",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 11.8,
+    "pf": 20,
+    "pa": 27,
+    "pm": -7,
+    "poss": 25.8,
+    "pF": 27.0,
+    "pA": 24.6,
+    "ortg": 74.0,
+    "drtg": 109.6,
+    "net": -35.6,
+    "efg": 25.0,
+    "oefg": 60.5
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Nicholas Shyhime Stampley",
+     "Robert Lee Bonham"
+    ],
+    "min": 11.8,
+    "pf": 31,
+    "pa": 23,
+    "pm": 8,
+    "poss": 24.9,
+    "pF": 25.6,
+    "pA": 24.1,
+    "ortg": 120.9,
+    "drtg": 95.5,
+    "net": 25.4,
+    "efg": 54.2,
+    "oefg": 56.2
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Jakub Tůma",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 11.7,
+    "pf": 23,
+    "pa": 26,
+    "pm": -3,
+    "poss": 27.0,
+    "pF": 27.3,
+    "pA": 26.8,
+    "ortg": 84.3,
+    "drtg": 97.2,
+    "net": -12.8,
+    "efg": 42.1,
+    "oefg": 54.5
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Dalibor Vlk",
+     "Jakub Tůma"
+    ],
+    "min": 11.5,
+    "pf": 25,
+    "pa": 27,
+    "pm": -2,
+    "poss": 24.0,
+    "pF": 23.4,
+    "pA": 24.6,
+    "ortg": 106.8,
+    "drtg": 109.6,
+    "net": -2.7,
+    "efg": 43.2,
+    "oefg": 73.5
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Jamonda Roshawn Bryant",
+     "Kamil Švrdlík"
+    ],
+    "min": 11.1,
+    "pf": 28,
+    "pa": 26,
+    "pm": 2,
+    "poss": 23.4,
+    "pF": 22.1,
+    "pA": 24.6,
+    "ortg": 126.8,
+    "drtg": 105.5,
+    "net": 21.3,
+    "efg": 58.3,
+    "oefg": 57.1
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Kamil Švrdlík",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 10.8,
+    "pf": 22,
+    "pa": 23,
+    "pm": -1,
+    "poss": 23.2,
+    "pF": 22.8,
+    "pA": 23.6,
+    "ortg": 96.7,
+    "drtg": 97.3,
+    "net": -0.6,
+    "efg": 41.3,
+    "oefg": 52.6
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Jamonda Roshawn Bryant",
+     "Robert Lee Bonham"
+    ],
+    "min": 10.2,
+    "pf": 34,
+    "pa": 18,
+    "pm": 16,
+    "poss": 24.9,
+    "pF": 27.1,
+    "pA": 22.8,
+    "ortg": 125.6,
+    "drtg": 79.1,
+    "net": 46.5,
+    "efg": 70.0,
+    "oefg": 44.1
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Jakub Tůma",
+     "Kamil Švrdlík"
+    ],
+    "min": 9.9,
+    "pf": 23,
+    "pa": 16,
+    "pm": 7,
+    "poss": 20.2,
+    "pF": 19.8,
+    "pA": 20.6,
+    "ortg": 115.9,
+    "drtg": 77.5,
+    "net": 38.4,
+    "efg": 47.4,
+    "oefg": 44.1
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Dalibor Vlk",
+     "Robert Lee Bonham"
+    ],
+    "min": 9.9,
+    "pf": 25,
+    "pa": 24,
+    "pm": 1,
+    "poss": 20.4,
+    "pF": 20.6,
+    "pA": 20.1,
+    "ortg": 121.1,
+    "drtg": 119.5,
+    "net": 1.6,
+    "efg": 50.0,
+    "oefg": 71.4
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Jakub Tůma",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 9.8,
+    "pf": 16,
+    "pa": 16,
+    "pm": 0,
+    "poss": 19.3,
+    "pF": 18.3,
+    "pA": 20.2,
+    "ortg": 87.3,
+    "drtg": 79.2,
+    "net": 8.1,
+    "efg": 36.8,
+    "oefg": 38.9
    },
    {
     "players": [
@@ -2030,268 +2425,97 @@
    },
    {
     "players": [
-     "Adam Lukeš",
+     "Jakub Tůma",
+     "Jamonda Roshawn Bryant",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 8.4,
+    "pf": 15,
+    "pa": 27,
+    "pm": -12,
+    "poss": 17.3,
+    "pF": 16.5,
+    "pA": 18.1,
+    "ortg": 90.8,
+    "drtg": 149.3,
+    "net": -58.5,
+    "efg": 46.2,
+    "oefg": 87.5
+   },
+   {
+    "players": [
      "Dalibor Vlk",
+     "Jakub Tůma",
      "Zed Jackson Key"
     ],
-    "min": 9.6,
-    "pf": 18,
-    "pa": 24,
-    "pm": -6,
-    "poss": 19.9,
-    "pF": 20.2,
-    "pA": 19.5,
-    "ortg": 89.1,
-    "drtg": 123.0,
-    "net": -33.8,
-    "efg": 43.3,
-    "oefg": 75.0
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Jakub Tůma",
-     "Nicholas Shyhime Stampley"
-    ],
-    "min": 9.5,
-    "pf": 19,
-    "pa": 19,
-    "pm": 0,
-    "poss": 22.6,
-    "pF": 22.4,
-    "pA": 22.9,
-    "ortg": 84.8,
-    "drtg": 83.0,
-    "net": 1.8,
-    "efg": 43.3,
-    "oefg": 47.2
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Dalibor Vlk",
-     "Jakub Tůma"
-    ],
-    "min": 9.4,
-    "pf": 17,
-    "pa": 20,
-    "pm": -3,
-    "poss": 18.9,
-    "pF": 19.0,
-    "pA": 18.8,
-    "ortg": 89.7,
-    "drtg": 106.6,
-    "net": -16.9,
-    "efg": 31.6,
-    "oefg": 75.0
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Jamonda Roshawn Bryant",
-     "Robert Lee Bonham"
-    ],
-    "min": 9.2,
-    "pf": 29,
-    "pa": 10,
-    "pm": 19,
-    "poss": 21.8,
-    "pF": 23.6,
-    "pA": 20.0,
-    "ortg": 122.7,
-    "drtg": 50.0,
-    "net": 72.7,
-    "efg": 66.7,
-    "oefg": 33.3
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Nicholas Shyhime Stampley",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 9.2,
-    "pf": 22,
-    "pa": 15,
-    "pm": 7,
-    "poss": 20.6,
-    "pF": 20.0,
-    "pA": 21.3,
-    "ortg": 110.2,
-    "drtg": 70.5,
-    "net": 39.7,
-    "efg": 53.1,
-    "oefg": 28.6
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Kamil Švrdlík",
-     "Nicholas Shyhime Stampley"
-    ],
-    "min": 9.2,
-    "pf": 16,
-    "pa": 20,
-    "pm": -4,
-    "poss": 21.0,
-    "pF": 21.3,
-    "pA": 20.8,
-    "ortg": 75.2,
-    "drtg": 96.3,
-    "net": -21.2,
-    "efg": 22.2,
-    "oefg": 53.3
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Kamil Švrdlík",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 9.1,
-    "pf": 18,
+    "min": 6.9,
+    "pf": 10,
     "pa": 17,
-    "pm": 1,
-    "poss": 19.3,
-    "pF": 18.8,
-    "pA": 19.8,
-    "ortg": 95.9,
-    "drtg": 86.0,
-    "net": 9.9,
-    "efg": 39.5,
-    "oefg": 50.0
+    "pm": -7,
+    "poss": 14.8,
+    "pF": 14.3,
+    "pA": 15.3,
+    "ortg": 69.8,
+    "drtg": 111.0,
+    "net": -41.1,
+    "efg": 40.9,
+    "oefg": 58.3
    },
    {
     "players": [
-     "Dalibor Vlk",
-     "Jamonda Roshawn Bryant",
-     "Zed Jackson Key"
-    ],
-    "min": 9.1,
-    "pf": 25,
-    "pa": 11,
-    "pm": 14,
-    "poss": 20.9,
-    "pF": 21.6,
-    "pA": 20.2,
-    "ortg": 115.5,
-    "drtg": 54.5,
-    "net": 61.1,
-    "efg": 68.8,
-    "oefg": 30.8
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
+     "Jakub Tůma",
      "Nicholas Shyhime Stampley",
-     "Robert Lee Bonham"
-    ],
-    "min": 9.0,
-    "pf": 19,
-    "pa": 15,
-    "pm": 4,
-    "poss": 19.5,
-    "pF": 20.3,
-    "pA": 18.8,
-    "ortg": 93.5,
-    "drtg": 80.0,
-    "net": 13.5,
-    "efg": 47.2,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Jakub Tůma",
-     "Jamonda Roshawn Bryant"
-    ],
-    "min": 8.3,
-    "pf": 25,
-    "pa": 15,
-    "pm": 10,
-    "poss": 16.8,
-    "pF": 18.0,
-    "pA": 15.5,
-    "ortg": 138.9,
-    "drtg": 96.6,
-    "net": 42.2,
-    "efg": 59.5,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Jamonda Roshawn Bryant",
-     "Kamil Švrdlík"
-    ],
-    "min": 8.1,
-    "pf": 13,
-    "pa": 13,
-    "pm": 0,
-    "poss": 17.5,
-    "pF": 18.8,
-    "pA": 16.3,
-    "ortg": 69.3,
-    "drtg": 79.7,
-    "net": -10.4,
-    "efg": 45.5,
-    "oefg": 39.3
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Jakub Tůma",
-     "Kamil Švrdlík"
-    ],
-    "min": 7.5,
-    "pf": 15,
-    "pa": 9,
-    "pm": 6,
-    "poss": 14.6,
-    "pF": 14.5,
-    "pA": 14.8,
-    "ortg": 103.3,
-    "drtg": 61.0,
-    "net": 42.3,
-    "efg": 34.4,
-    "oefg": 33.3
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Jakub Tůma",
      "Ryan Everett Moffatt"
     ],
-    "min": 7.1,
-    "pf": 11,
-    "pa": 14,
-    "pm": -3,
-    "poss": 13.8,
-    "pF": 13.3,
-    "pA": 14.2,
-    "ortg": 82.6,
-    "drtg": 98.6,
-    "net": -16.0,
-    "efg": 30.0,
-    "oefg": 54.5
+    "min": 6.7,
+    "pf": 9,
+    "pa": 16,
+    "pm": -7,
+    "poss": 12.7,
+    "pF": 12.6,
+    "pA": 12.8,
+    "ortg": 71.2,
+    "drtg": 125.4,
+    "net": -54.2,
+    "efg": 20.8,
+    "oefg": 58.3
    },
    {
     "players": [
      "Adam Lukeš",
      "Jamonda Roshawn Bryant",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 6.4,
+    "pf": 13,
+    "pa": 9,
+    "pm": 4,
+    "poss": 14.8,
+    "pF": 14.2,
+    "pA": 15.5,
+    "ortg": 91.8,
+    "drtg": 58.0,
+    "net": 33.8,
+    "efg": 10.0,
+    "oefg": 23.1
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Jamonda Roshawn Bryant",
      "Kamil Švrdlík"
     ],
-    "min": 7.0,
-    "pf": 15,
-    "pa": 16,
-    "pm": -1,
-    "poss": 15.7,
-    "pF": 15.6,
-    "pA": 15.8,
-    "ortg": 95.9,
-    "drtg": 101.5,
-    "net": -5.6,
-    "efg": 40.9,
+    "min": 6.2,
+    "pf": 18,
+    "pa": 13,
+    "pm": 5,
+    "poss": 14.8,
+    "pF": 14.2,
+    "pA": 15.3,
+    "ortg": 126.8,
+    "drtg": 84.9,
+    "net": 41.9,
+    "efg": 68.2,
     "oefg": 50.0
    },
    {
@@ -2315,22 +2539,41 @@
    },
    {
     "players": [
-     "Adam Lukeš",
      "Dalibor Vlk",
-     "Robert Lee Bonham"
+     "Jakub Tůma",
+     "Jamonda Roshawn Bryant"
     ],
-    "min": 5.8,
+    "min": 6.1,
+    "pf": 13,
+    "pa": 9,
+    "pm": 4,
+    "poss": 13.7,
+    "pF": 12.2,
+    "pA": 15.2,
+    "ortg": 106.6,
+    "drtg": 59.2,
+    "net": 47.3,
+    "efg": 66.7,
+    "oefg": 25.0
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Jakub Tůma",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 6.1,
     "pf": 12,
-    "pa": 12,
-    "pm": 0,
-    "poss": 12.3,
-    "pF": 12.8,
-    "pA": 11.8,
-    "ortg": 94.0,
-    "drtg": 102.0,
-    "net": -8.0,
-    "efg": 40.0,
-    "oefg": 68.8
+    "pa": 14,
+    "pm": -2,
+    "poss": 12.6,
+    "pF": 13.4,
+    "pA": 11.9,
+    "ortg": 89.6,
+    "drtg": 117.8,
+    "net": -28.3,
+    "efg": 50.0,
+    "oefg": 66.7
    },
    {
     "players": [
@@ -2353,6 +2596,25 @@
    },
    {
     "players": [
+     "Dalibor Vlk",
+     "Jamonda Roshawn Bryant",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 5.7,
+    "pf": 13,
+    "pa": 9,
+    "pm": 4,
+    "poss": 12.9,
+    "pF": 13.2,
+    "pA": 12.6,
+    "ortg": 98.5,
+    "drtg": 71.2,
+    "net": 27.3,
+    "efg": 60.0,
+    "oefg": 40.0
+   },
+   {
+    "players": [
      "Adam Lukeš",
      "Hugo Lejsek",
      "Nicholas Shyhime Stampley"
@@ -2368,25 +2630,6 @@
     "drtg": 76.5,
     "net": 21.3,
     "efg": 66.7,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Nicholas Shyhime Stampley",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 5.6,
-    "pf": 8,
-    "pa": 13,
-    "pm": -5,
-    "poss": 10.3,
-    "pF": 9.8,
-    "pA": 10.9,
-    "ortg": 82.0,
-    "drtg": 119.5,
-    "net": -37.5,
-    "efg": 27.8,
     "oefg": 50.0
    },
    {
@@ -2483,6 +2726,44 @@
     "net": 89.1,
     "efg": 37.5,
     "oefg": 9.1
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Kamil Švrdlík",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 5.1,
+    "pf": 16,
+    "pa": 8,
+    "pm": 8,
+    "poss": 10.7,
+    "pF": 12.4,
+    "pA": 9.0,
+    "ortg": 129.0,
+    "drtg": 88.9,
+    "net": 40.1,
+    "efg": 55.0,
+    "oefg": 57.1
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Dalibor Vlk",
+     "Jamonda Roshawn Bryant"
+    ],
+    "min": 5.1,
+    "pf": 15,
+    "pa": 12,
+    "pm": 3,
+    "poss": 12.3,
+    "pF": 11.3,
+    "pA": 13.2,
+    "ortg": 132.5,
+    "drtg": 90.9,
+    "net": 41.6,
+    "efg": 66.7,
+    "oefg": 61.1
    }
   ],
   "pairs": [
@@ -2491,161 +2772,179 @@
      "Robert Lee Bonham",
      "Ryan Everett Moffatt"
     ],
-    "min": 68.0,
-    "pf": 162,
-    "pa": 111,
-    "pm": 51,
-    "poss": 142.8,
-    "pF": 144.1,
-    "pA": 141.5,
-    "ortg": 112.4,
-    "drtg": 78.4,
-    "net": 34.0,
-    "efg": 54.4,
-    "oefg": 40.4
-   },
-   {
-    "players": [
-     "Luboš Kovář",
-     "Robert Lee Bonham"
-    ],
-    "min": 62.9,
-    "pf": 166,
-    "pa": 116,
-    "pm": 50,
-    "poss": 124.7,
-    "pF": 126.2,
-    "pA": 123.2,
-    "ortg": 131.5,
-    "drtg": 94.2,
-    "net": 37.3,
-    "efg": 63.1,
-    "oefg": 48.5
-   },
-   {
-    "players": [
-     "Jamonda Roshawn Bryant",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 62.6,
-    "pf": 163,
-    "pa": 91,
-    "pm": 72,
-    "poss": 131.6,
-    "pF": 132.7,
-    "pA": 130.4,
-    "ortg": 122.8,
-    "drtg": 69.8,
-    "net": 53.1,
-    "efg": 58.8,
-    "oefg": 39.0
+    "min": 89.8,
+    "pf": 223,
+    "pa": 166,
+    "pm": 57,
+    "poss": 187.5,
+    "pF": 188.8,
+    "pA": 186.2,
+    "ortg": 118.1,
+    "drtg": 89.1,
+    "net": 29.0,
+    "efg": 56.7,
+    "oefg": 45.7
    },
    {
     "players": [
      "Ryan Everett Moffatt",
      "Zed Jackson Key"
     ],
-    "min": 61.6,
-    "pf": 152,
-    "pa": 112,
-    "pm": 40,
-    "poss": 126.5,
-    "pF": 127.4,
-    "pA": 125.6,
-    "ortg": 119.3,
-    "drtg": 89.1,
-    "net": 30.2,
-    "efg": 54.7,
-    "oefg": 49.0
+    "min": 82.4,
+    "pf": 212,
+    "pa": 158,
+    "pm": 54,
+    "poss": 172.6,
+    "pF": 171.9,
+    "pA": 173.2,
+    "ortg": 123.3,
+    "drtg": 91.2,
+    "net": 32.1,
+    "efg": 57.7,
+    "oefg": 48.2
+   },
+   {
+    "players": [
+     "Jamonda Roshawn Bryant",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 74.9,
+    "pf": 201,
+    "pa": 120,
+    "pm": 81,
+    "poss": 160.9,
+    "pF": 160.6,
+    "pA": 161.3,
+    "ortg": 125.2,
+    "drtg": 74.4,
+    "net": 50.8,
+    "efg": 60.5,
+    "oefg": 39.1
    },
    {
     "players": [
      "Luboš Kovář",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 58.6,
-    "pf": 136,
-    "pa": 103,
-    "pm": 33,
-    "poss": 119.8,
-    "pF": 119.0,
-    "pA": 120.7,
-    "ortg": 114.3,
-    "drtg": 85.3,
-    "net": 29.0,
-    "efg": 53.9,
-    "oefg": 45.0
-   },
-   {
-    "players": [
-     "Nicholas Shyhime Stampley",
      "Robert Lee Bonham"
     ],
-    "min": 58.2,
-    "pf": 135,
-    "pa": 113,
-    "pm": 22,
-    "poss": 117.7,
-    "pF": 118.9,
-    "pA": 116.5,
-    "ortg": 113.5,
-    "drtg": 97.0,
-    "net": 16.5,
-    "efg": 58.7,
-    "oefg": 51.1
+    "min": 74.3,
+    "pf": 190,
+    "pa": 137,
+    "pm": 53,
+    "poss": 146.0,
+    "pF": 148.0,
+    "pA": 144.0,
+    "ortg": 128.4,
+    "drtg": 95.2,
+    "net": 33.2,
+    "efg": 61.7,
+    "oefg": 50.0
    },
    {
     "players": [
      "Robert Lee Bonham",
      "Zed Jackson Key"
     ],
-    "min": 55.7,
-    "pf": 145,
-    "pa": 97,
-    "pm": 48,
-    "poss": 114.8,
-    "pF": 117.0,
-    "pA": 112.6,
-    "ortg": 123.9,
-    "drtg": 86.1,
-    "net": 37.8,
-    "efg": 61.3,
-    "oefg": 46.0
+    "min": 73.5,
+    "pf": 202,
+    "pa": 144,
+    "pm": 58,
+    "poss": 152.5,
+    "pF": 153.3,
+    "pA": 151.8,
+    "ortg": 131.8,
+    "drtg": 94.9,
+    "net": 36.9,
+    "efg": 64.3,
+    "oefg": 50.4
    },
    {
     "players": [
-     "Jamonda Roshawn Bryant",
+     "Nicholas Shyhime Stampley",
      "Robert Lee Bonham"
     ],
-    "min": 54.4,
-    "pf": 150,
-    "pa": 83,
-    "pm": 67,
-    "poss": 112.0,
-    "pF": 112.5,
-    "pA": 111.5,
-    "ortg": 133.4,
-    "drtg": 74.5,
-    "net": 58.9,
-    "efg": 66.2,
-    "oefg": 47.5
+    "min": 72.3,
+    "pf": 184,
+    "pa": 149,
+    "pm": 35,
+    "poss": 146.3,
+    "pF": 146.6,
+    "pA": 146.0,
+    "ortg": 125.5,
+    "drtg": 102.0,
+    "net": 23.5,
+    "efg": 60.3,
+    "oefg": 54.0
+   },
+   {
+    "players": [
+     "Luboš Kovář",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 70.1,
+    "pf": 160,
+    "pa": 124,
+    "pm": 36,
+    "poss": 141.1,
+    "pF": 140.7,
+    "pA": 141.4,
+    "ortg": 113.7,
+    "drtg": 87.7,
+    "net": 26.0,
+    "efg": 53.7,
+    "oefg": 47.0
+   },
+   {
+    "players": [
+     "Nicholas Shyhime Stampley",
+     "Zed Jackson Key"
+    ],
+    "min": 68.0,
+    "pf": 157,
+    "pa": 156,
+    "pm": 1,
+    "poss": 142.0,
+    "pF": 138.5,
+    "pA": 145.5,
+    "ortg": 113.4,
+    "drtg": 107.2,
+    "net": 6.1,
+    "efg": 53.8,
+    "oefg": 55.0
    },
    {
     "players": [
      "Jamonda Roshawn Bryant",
-     "Luboš Kovář"
+     "Zed Jackson Key"
     ],
-    "min": 51.7,
-    "pf": 132,
-    "pa": 85,
-    "pm": 47,
-    "poss": 102.1,
-    "pF": 102.0,
-    "pA": 102.2,
-    "ortg": 129.4,
-    "drtg": 83.2,
-    "net": 46.2,
-    "efg": 59.6,
+    "min": 64.0,
+    "pf": 179,
+    "pa": 122,
+    "pm": 57,
+    "poss": 136.4,
+    "pF": 135.3,
+    "pA": 137.6,
+    "ortg": 132.3,
+    "drtg": 88.7,
+    "net": 43.7,
+    "efg": 63.8,
+    "oefg": 48.1
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 62.7,
+    "pf": 136,
+    "pa": 126,
+    "pm": 10,
+    "poss": 125.0,
+    "pF": 125.7,
+    "pA": 124.2,
+    "ortg": 108.2,
+    "drtg": 101.4,
+    "net": 6.8,
+    "efg": 45.7,
     "oefg": 52.0
    },
    {
@@ -2653,594 +2952,576 @@
      "Luboš Kovář",
      "Zed Jackson Key"
     ],
-    "min": 50.7,
-    "pf": 121,
-    "pa": 97,
+    "min": 61.5,
+    "pf": 146,
+    "pa": 122,
     "pm": 24,
-    "poss": 96.6,
-    "pF": 97.2,
-    "pA": 96.0,
-    "ortg": 124.5,
-    "drtg": 101.0,
-    "net": 23.5,
-    "efg": 56.8,
-    "oefg": 49.4
+    "poss": 118.5,
+    "pF": 118.0,
+    "pA": 119.1,
+    "ortg": 123.8,
+    "drtg": 102.4,
+    "net": 21.4,
+    "efg": 57.1,
+    "oefg": 51.9
+   },
+   {
+    "players": [
+     "Nicholas Shyhime Stampley",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 60.8,
+    "pf": 142,
+    "pa": 126,
+    "pm": 16,
+    "poss": 127.2,
+    "pF": 124.7,
+    "pA": 129.7,
+    "ortg": 113.9,
+    "drtg": 97.1,
+    "net": 16.8,
+    "efg": 50.5,
+    "oefg": 46.8
    },
    {
     "players": [
      "Jamonda Roshawn Bryant",
-     "Zed Jackson Key"
+     "Robert Lee Bonham"
     ],
-    "min": 50.4,
-    "pf": 136,
-    "pa": 84,
-    "pm": 52,
-    "poss": 101.8,
-    "pF": 102.0,
-    "pA": 101.6,
-    "ortg": 133.3,
-    "drtg": 82.7,
-    "net": 50.6,
-    "efg": 61.7,
-    "oefg": 50.0
+    "min": 59.2,
+    "pf": 173,
+    "pa": 103,
+    "pm": 70,
+    "poss": 126.8,
+    "pF": 127.1,
+    "pA": 126.4,
+    "ortg": 136.1,
+    "drtg": 81.5,
+    "net": 54.6,
+    "efg": 68.3,
+    "oefg": 48.9
    },
    {
     "players": [
      "Luboš Kovář",
      "Nicholas Shyhime Stampley"
     ],
-    "min": 49.8,
-    "pf": 114,
-    "pa": 114,
-    "pm": 0,
-    "poss": 99.7,
-    "pF": 99.1,
-    "pA": 100.4,
-    "ortg": 115.0,
-    "drtg": 113.6,
-    "net": 1.4,
-    "efg": 52.7,
-    "oefg": 58.0
+    "min": 56.5,
+    "pf": 129,
+    "pa": 131,
+    "pm": -2,
+    "poss": 113.3,
+    "pF": 112.0,
+    "pA": 114.7,
+    "ortg": 115.2,
+    "drtg": 114.2,
+    "net": 0.9,
+    "efg": 52.4,
+    "oefg": 59.7
    },
    {
     "players": [
-     "Nicholas Shyhime Stampley",
-     "Zed Jackson Key"
+     "Jamonda Roshawn Bryant",
+     "Luboš Kovář"
     ],
-    "min": 49.4,
-    "pf": 99,
-    "pa": 107,
-    "pm": -8,
-    "poss": 101.4,
-    "pF": 99.9,
-    "pA": 102.9,
-    "ortg": 99.1,
-    "drtg": 104.0,
-    "net": -4.9,
-    "efg": 48.8,
-    "oefg": 54.1
-   },
-   {
-    "players": [
-     "Nicholas Shyhime Stampley",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 44.9,
-    "pf": 96,
-    "pa": 90,
-    "pm": 6,
-    "poss": 93.3,
-    "pF": 91.8,
-    "pA": 94.9,
-    "ortg": 104.6,
-    "drtg": 94.9,
-    "net": 9.8,
-    "efg": 50.0,
-    "oefg": 44.6
+    "min": 55.8,
+    "pf": 142,
+    "pa": 99,
+    "pm": 43,
+    "poss": 110.7,
+    "pF": 110.0,
+    "pA": 111.5,
+    "ortg": 129.1,
+    "drtg": 88.8,
+    "net": 40.3,
+    "efg": 61.0,
+    "oefg": 54.2
    },
    {
     "players": [
      "Kamil Švrdlík",
      "Ryan Everett Moffatt"
     ],
-    "min": 43.4,
-    "pf": 82,
-    "pa": 73,
-    "pm": 9,
-    "poss": 89.6,
-    "pF": 88.1,
-    "pA": 91.1,
-    "ortg": 93.1,
-    "drtg": 80.1,
-    "net": 12.9,
-    "efg": 43.1,
-    "oefg": 39.9
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 42.5,
-    "pf": 87,
-    "pa": 83,
-    "pm": 4,
-    "poss": 87.0,
-    "pF": 87.1,
-    "pA": 87.0,
-    "ortg": 99.9,
-    "drtg": 95.4,
-    "net": 4.4,
-    "efg": 41.8,
-    "oefg": 50.8
+    "min": 53.4,
+    "pf": 102,
+    "pa": 96,
+    "pm": 6,
+    "poss": 106.4,
+    "pF": 105.9,
+    "pA": 106.9,
+    "ortg": 96.3,
+    "drtg": 89.8,
+    "net": 6.5,
+    "efg": 42.9,
+    "oefg": 44.9
    },
    {
     "players": [
      "Jamonda Roshawn Bryant",
      "Nicholas Shyhime Stampley"
     ],
-    "min": 41.6,
-    "pf": 100,
-    "pa": 84,
-    "pm": 16,
-    "poss": 83.6,
-    "pF": 82.4,
-    "pA": 84.8,
-    "ortg": 121.3,
-    "drtg": 99.1,
-    "net": 22.2,
-    "efg": 54.0,
-    "oefg": 59.0
+    "min": 52.2,
+    "pf": 134,
+    "pa": 114,
+    "pm": 20,
+    "poss": 110.6,
+    "pF": 108.2,
+    "pA": 113.0,
+    "ortg": 123.9,
+    "drtg": 100.9,
+    "net": 23.0,
+    "efg": 56.5,
+    "oefg": 55.4
    },
    {
     "players": [
      "Kamil Švrdlík",
      "Robert Lee Bonham"
     ],
-    "min": 40.6,
-    "pf": 86,
-    "pa": 71,
+    "min": 47.4,
+    "pf": 102,
+    "pa": 87,
     "pm": 15,
-    "poss": 80.2,
-    "pF": 79.8,
-    "pA": 80.5,
-    "ortg": 107.7,
-    "drtg": 88.2,
-    "net": 19.5,
-    "efg": 51.4,
-    "oefg": 46.2
-   },
-   {
-    "players": [
-     "Kamil Švrdlík",
-     "Luboš Kovář"
-    ],
-    "min": 36.4,
-    "pf": 82,
-    "pa": 70,
-    "pm": 12,
-    "poss": 77.3,
-    "pF": 76.3,
-    "pA": 78.4,
-    "ortg": 107.5,
-    "drtg": 89.3,
-    "net": 18.2,
-    "efg": 54.6,
-    "oefg": 51.8
-   },
-   {
-    "players": [
-     "Jamonda Roshawn Bryant",
-     "Kamil Švrdlík"
-    ],
-    "min": 35.8,
-    "pf": 83,
-    "pa": 60,
-    "pm": 23,
-    "poss": 75.1,
-    "pF": 75.5,
-    "pA": 74.7,
-    "ortg": 110.0,
-    "drtg": 80.3,
-    "net": 29.7,
-    "efg": 54.9,
-    "oefg": 45.7
-   },
-   {
-    "players": [
-     "Kamil Švrdlík",
-     "Nicholas Shyhime Stampley"
-    ],
-    "min": 35.4,
-    "pf": 83,
-    "pa": 67,
-    "pm": 16,
-    "poss": 73.5,
-    "pF": 74.1,
-    "pA": 72.9,
-    "ortg": 112.0,
-    "drtg": 91.9,
-    "net": 20.1,
-    "efg": 50.0,
-    "oefg": 51.0
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 34.8,
-    "pf": 65,
-    "pa": 61,
-    "pm": 4,
-    "poss": 68.2,
-    "pF": 66.7,
-    "pA": 69.7,
-    "ortg": 97.5,
-    "drtg": 87.5,
-    "net": 9.9,
-    "efg": 39.5,
-    "oefg": 47.2
+    "poss": 92.5,
+    "pF": 93.6,
+    "pA": 91.4,
+    "ortg": 109.0,
+    "drtg": 95.2,
+    "net": 13.7,
+    "efg": 50.6,
+    "oefg": 48.7
    },
    {
     "players": [
      "Adam Lukeš",
      "Zed Jackson Key"
     ],
-    "min": 34.3,
-    "pf": 73,
-    "pa": 65,
-    "pm": 8,
-    "poss": 70.4,
-    "pF": 71.4,
-    "pA": 69.4,
-    "ortg": 102.3,
-    "drtg": 93.6,
-    "net": 8.7,
-    "efg": 48.4,
-    "oefg": 46.4
+    "min": 46.9,
+    "pf": 109,
+    "pa": 91,
+    "pm": 18,
+    "poss": 95.3,
+    "pF": 95.2,
+    "pA": 95.4,
+    "ortg": 114.5,
+    "drtg": 95.4,
+    "net": 19.1,
+    "efg": 54.4,
+    "oefg": 46.9
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Robert Lee Bonham"
+    ],
+    "min": 44.3,
+    "pf": 97,
+    "pa": 83,
+    "pm": 14,
+    "poss": 82.9,
+    "pF": 84.4,
+    "pA": 81.4,
+    "ortg": 115.0,
+    "drtg": 101.9,
+    "net": 13.1,
+    "efg": 53.3,
+    "oefg": 44.7
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 42.4,
+    "pf": 97,
+    "pa": 79,
+    "pm": 18,
+    "poss": 89.1,
+    "pF": 88.7,
+    "pA": 89.5,
+    "ortg": 109.3,
+    "drtg": 88.2,
+    "net": 21.1,
+    "efg": 50.7,
+    "oefg": 44.4
+   },
+   {
+    "players": [
+     "Adam Lukeš",
+     "Kamil Švrdlík"
+    ],
+    "min": 41.5,
+    "pf": 86,
+    "pa": 83,
+    "pm": 3,
+    "poss": 82.0,
+    "pF": 82.9,
+    "pA": 81.1,
+    "ortg": 103.8,
+    "drtg": 102.3,
+    "net": 1.4,
+    "efg": 42.7,
+    "oefg": 52.2
+   },
+   {
+    "players": [
+     "Kamil Švrdlík",
+     "Luboš Kovář"
+    ],
+    "min": 41.2,
+    "pf": 91,
+    "pa": 80,
+    "pm": 11,
+    "poss": 85.3,
+    "pF": 85.3,
+    "pA": 85.4,
+    "ortg": 106.7,
+    "drtg": 93.7,
+    "net": 13.0,
+    "efg": 55.6,
+    "oefg": 53.1
+   },
+   {
+    "players": [
+     "Jamonda Roshawn Bryant",
+     "Kamil Švrdlík"
+    ],
+    "min": 40.3,
+    "pf": 96,
+    "pa": 70,
+    "pm": 26,
+    "poss": 83.2,
+    "pF": 82.8,
+    "pA": 83.6,
+    "ortg": 115.9,
+    "drtg": 83.7,
+    "net": 32.2,
+    "efg": 58.1,
+    "oefg": 48.5
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 40.2,
+    "pf": 76,
+    "pa": 70,
+    "pm": 6,
+    "poss": 78.1,
+    "pF": 76.6,
+    "pA": 79.6,
+    "ortg": 99.3,
+    "drtg": 88.0,
+    "net": 11.3,
+    "efg": 41.0,
+    "oefg": 46.8
+   },
+   {
+    "players": [
+     "Kamil Švrdlík",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 39.9,
+    "pf": 93,
+    "pa": 77,
+    "pm": 16,
+    "poss": 81.2,
+    "pF": 82.6,
+    "pA": 79.8,
+    "ortg": 112.5,
+    "drtg": 96.5,
+    "net": 16.0,
+    "efg": 47.9,
+    "oefg": 53.4
    },
    {
     "players": [
      "Adam Lukeš",
      "Jakub Tůma"
     ],
-    "min": 32.6,
-    "pf": 66,
-    "pa": 60,
+    "min": 38.4,
+    "pf": 83,
+    "pa": 77,
     "pm": 6,
-    "poss": 66.3,
-    "pF": 65.2,
-    "pA": 67.4,
-    "ortg": 101.2,
-    "drtg": 89.1,
-    "net": 12.1,
-    "efg": 42.6,
-    "oefg": 46.2
+    "poss": 77.8,
+    "pF": 76.6,
+    "pA": 79.1,
+    "ortg": 108.4,
+    "drtg": 97.3,
+    "net": 11.1,
+    "efg": 47.2,
+    "oefg": 52.4
    },
    {
     "players": [
      "Adam Lukeš",
-     "Nicholas Shyhime Stampley"
-    ],
-    "min": 30.1,
-    "pf": 63,
-    "pa": 51,
-    "pm": 12,
-    "poss": 66.5,
-    "pF": 66.6,
-    "pA": 66.4,
-    "ortg": 94.7,
-    "drtg": 76.8,
-    "net": 17.9,
-    "efg": 49.0,
-    "oefg": 38.5
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Kamil Švrdlík"
-    ],
-    "min": 28.4,
-    "pf": 53,
-    "pa": 50,
-    "pm": 3,
-    "poss": 57.6,
-    "pF": 57.8,
-    "pA": 57.5,
-    "ortg": 91.7,
-    "drtg": 87.0,
-    "net": 4.7,
-    "efg": 36.3,
-    "oefg": 43.3
-   },
-   {
-    "players": [
-     "Adam Lukeš",
-     "Robert Lee Bonham"
-    ],
-    "min": 27.9,
-    "pf": 53,
-    "pa": 46,
-    "pm": 7,
-    "poss": 53.4,
-    "pF": 54.4,
-    "pA": 52.4,
-    "ortg": 97.4,
-    "drtg": 87.9,
-    "net": 9.6,
-    "efg": 45.8,
-    "oefg": 35.4
-   },
-   {
-    "players": [
-     "Jakub Tůma",
      "Luboš Kovář"
     ],
-    "min": 27.3,
-    "pf": 51,
-    "pa": 58,
-    "pm": -7,
-    "poss": 57.1,
-    "pF": 55.4,
-    "pA": 58.8,
-    "ortg": 92.0,
-    "drtg": 98.6,
-    "net": -6.6,
-    "efg": 38.8,
-    "oefg": 50.0
+    "min": 33.3,
+    "pf": 71,
+    "pa": 62,
+    "pm": 9,
+    "poss": 66.0,
+    "pF": 67.6,
+    "pA": 64.4,
+    "ortg": 105.0,
+    "drtg": 96.3,
+    "net": 8.7,
+    "efg": 57.7,
+    "oefg": 40.5
    },
    {
     "players": [
      "Jakub Tůma",
      "Zed Jackson Key"
     ],
-    "min": 26.8,
-    "pf": 62,
-    "pa": 56,
-    "pm": 6,
-    "poss": 53.5,
-    "pF": 53.4,
-    "pA": 53.7,
-    "ortg": 116.2,
-    "drtg": 104.2,
-    "net": 11.9,
-    "efg": 51.0,
-    "oefg": 54.5
+    "min": 32.6,
+    "pf": 74,
+    "pa": 69,
+    "pm": 5,
+    "poss": 65.7,
+    "pF": 64.4,
+    "pA": 67.0,
+    "ortg": 115.0,
+    "drtg": 102.9,
+    "net": 12.1,
+    "efg": 53.4,
+    "oefg": 51.8
    },
    {
     "players": [
-     "Adam Lukeš",
+     "Jakub Tůma",
      "Luboš Kovář"
     ],
-    "min": 24.4,
-    "pf": 52,
-    "pa": 44,
-    "pm": 8,
-    "poss": 49.7,
-    "pF": 50.7,
-    "pA": 48.6,
-    "ortg": 102.5,
-    "drtg": 90.5,
-    "net": 12.0,
-    "efg": 53.8,
-    "oefg": 35.4
+    "min": 31.4,
+    "pf": 61,
+    "pa": 72,
+    "pm": -11,
+    "poss": 65.8,
+    "pF": 63.4,
+    "pA": 68.2,
+    "ortg": 96.2,
+    "drtg": 105.6,
+    "net": -9.5,
+    "efg": 44.6,
+    "oefg": 53.4
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Jamonda Roshawn Bryant"
+    ],
+    "min": 30.9,
+    "pf": 73,
+    "pa": 61,
+    "pm": 12,
+    "poss": 62.8,
+    "pF": 62.6,
+    "pA": 62.9,
+    "ortg": 116.6,
+    "drtg": 96.9,
+    "net": 19.7,
+    "efg": 61.3,
+    "oefg": 52.0
    },
    {
     "players": [
      "Jakub Tůma",
      "Kamil Švrdlík"
     ],
-    "min": 23.6,
-    "pf": 36,
-    "pa": 42,
+    "min": 29.8,
+    "pf": 53,
+    "pa": 59,
     "pm": -6,
-    "poss": 49.3,
-    "pF": 48.8,
-    "pA": 49.7,
-    "ortg": 73.8,
-    "drtg": 84.5,
-    "net": -10.7,
-    "efg": 28.2,
-    "oefg": 42.5
+    "poss": 61.2,
+    "pF": 61.0,
+    "pA": 61.5,
+    "ortg": 86.9,
+    "drtg": 96.0,
+    "net": -9.1,
+    "efg": 37.8,
+    "oefg": 51.0
    },
    {
     "players": [
      "Adam Lukeš",
      "Dalibor Vlk"
     ],
-    "min": 22.2,
-    "pf": 43,
-    "pa": 46,
-    "pm": -3,
-    "poss": 47.4,
-    "pF": 48.0,
-    "pA": 46.7,
-    "ortg": 89.5,
-    "drtg": 98.5,
-    "net": -9.0,
-    "efg": 40.0,
-    "oefg": 69.0
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Jamonda Roshawn Bryant"
-    ],
-    "min": 21.2,
-    "pf": 48,
-    "pa": 38,
-    "pm": 10,
-    "poss": 43.0,
-    "pF": 44.3,
-    "pA": 41.7,
-    "ortg": 108.4,
-    "drtg": 91.1,
-    "net": 17.3,
-    "efg": 53.9,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Ryan Everett Moffatt"
-    ],
-    "min": 20.8,
-    "pf": 51,
-    "pa": 41,
-    "pm": 10,
-    "poss": 45.8,
-    "pF": 47.2,
-    "pA": 44.4,
-    "ortg": 108.1,
-    "drtg": 92.3,
-    "net": 15.8,
-    "efg": 47.6,
-    "oefg": 51.4
-   },
-   {
-    "players": [
-     "Jakub Tůma",
-     "Nicholas Shyhime Stampley"
-    ],
-    "min": 19.3,
-    "pf": 32,
-    "pa": 47,
-    "pm": -15,
-    "poss": 42.2,
-    "pF": 41.8,
-    "pA": 42.6,
-    "ortg": 76.6,
-    "drtg": 110.2,
-    "net": -33.7,
-    "efg": 30.3,
-    "oefg": 60.3
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Zed Jackson Key"
-    ],
-    "min": 19.2,
-    "pf": 44,
-    "pa": 38,
-    "pm": 6,
-    "poss": 42.8,
-    "pF": 44.3,
-    "pA": 41.3,
-    "ortg": 99.4,
-    "drtg": 92.1,
-    "net": 7.3,
-    "efg": 52.9,
-    "oefg": 55.4
+    "min": 28.4,
+    "pf": 64,
+    "pa": 65,
+    "pm": -1,
+    "poss": 60.6,
+    "pF": 60.4,
+    "pA": 60.9,
+    "ortg": 106.0,
+    "drtg": 106.7,
+    "net": -0.7,
+    "efg": 48.1,
+    "oefg": 70.0
    },
    {
     "players": [
      "Adam Lukeš",
      "Jamonda Roshawn Bryant"
     ],
-    "min": 19.1,
-    "pf": 44,
-    "pa": 36,
-    "pm": 8,
-    "poss": 39.4,
-    "pF": 40.3,
-    "pA": 38.6,
-    "ortg": 109.2,
-    "drtg": 93.3,
-    "net": 16.0,
-    "efg": 44.9,
-    "oefg": 46.9
+    "min": 26.4,
+    "pf": 67,
+    "pa": 51,
+    "pm": 16,
+    "poss": 56.0,
+    "pF": 55.8,
+    "pA": 56.2,
+    "ortg": 120.1,
+    "drtg": 90.7,
+    "net": 29.4,
+    "efg": 51.0,
+    "oefg": 45.8
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Ryan Everett Moffatt"
+    ],
+    "min": 26.0,
+    "pf": 62,
+    "pa": 55,
+    "pm": 7,
+    "poss": 57.2,
+    "pF": 58.2,
+    "pA": 56.2,
+    "ortg": 106.6,
+    "drtg": 97.9,
+    "net": 8.7,
+    "efg": 50.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Zed Jackson Key"
+    ],
+    "min": 25.4,
+    "pf": 61,
+    "pa": 54,
+    "pm": 7,
+    "poss": 55.1,
+    "pF": 55.7,
+    "pA": 54.5,
+    "ortg": 109.5,
+    "drtg": 99.1,
+    "net": 10.4,
+    "efg": 57.8,
+    "oefg": 53.8
+   },
+   {
+    "players": [
+     "Jakub Tůma",
+     "Nicholas Shyhime Stampley"
+    ],
+    "min": 24.9,
+    "pf": 43,
+    "pa": 65,
+    "pm": -22,
+    "poss": 53.7,
+    "pF": 53.6,
+    "pA": 53.8,
+    "ortg": 80.3,
+    "drtg": 120.7,
+    "net": -40.4,
+    "efg": 35.7,
+    "oefg": 64.8
    },
    {
     "players": [
      "Dalibor Vlk",
      "Robert Lee Bonham"
     ],
-    "min": 17.3,
-    "pf": 45,
-    "pa": 28,
-    "pm": 17,
-    "poss": 39.2,
-    "pF": 41.8,
-    "pA": 36.6,
-    "ortg": 107.6,
-    "drtg": 76.4,
-    "net": 31.1,
-    "efg": 52.9,
-    "oefg": 46.3
+    "min": 22.4,
+    "pf": 63,
+    "pa": 48,
+    "pm": 15,
+    "poss": 50.4,
+    "pF": 53.2,
+    "pA": 47.7,
+    "ortg": 118.5,
+    "drtg": 100.6,
+    "net": 17.9,
+    "efg": 56.7,
+    "oefg": 55.7
    },
    {
     "players": [
      "Dalibor Vlk",
      "Nicholas Shyhime Stampley"
     ],
-    "min": 16.9,
-    "pf": 32,
-    "pa": 31,
-    "pm": 1,
-    "poss": 37.8,
-    "pF": 38.3,
-    "pA": 37.4,
-    "ortg": 83.6,
-    "drtg": 82.9,
-    "net": 0.7,
-    "efg": 45.0,
-    "oefg": 54.5
+    "min": 21.1,
+    "pf": 47,
+    "pa": 43,
+    "pm": 4,
+    "poss": 45.6,
+    "pF": 46.5,
+    "pA": 44.7,
+    "ortg": 101.1,
+    "drtg": 96.2,
+    "net": 5.0,
+    "efg": 52.7,
+    "oefg": 58.9
    },
    {
     "players": [
      "Dalibor Vlk",
      "Jamonda Roshawn Bryant"
     ],
-    "min": 15.3,
-    "pf": 42,
-    "pa": 23,
-    "pm": 19,
-    "poss": 35.5,
-    "pF": 36.4,
-    "pA": 34.6,
-    "ortg": 115.4,
-    "drtg": 66.4,
-    "net": 49.0,
-    "efg": 62.5,
-    "oefg": 37.0
-   },
-   {
-    "players": [
-     "Dalibor Vlk",
-     "Kamil Švrdlík"
-    ],
-    "min": 12.7,
-    "pf": 29,
-    "pa": 21,
-    "pm": 8,
-    "poss": 27.1,
-    "pF": 27.4,
-    "pA": 26.8,
-    "ortg": 105.8,
-    "drtg": 78.5,
-    "net": 27.4,
-    "efg": 41.1,
-    "oefg": 50.0
+    "min": 20.5,
+    "pf": 57,
+    "pa": 36,
+    "pm": 21,
+    "poss": 47.7,
+    "pF": 48.2,
+    "pA": 47.3,
+    "ortg": 118.4,
+    "drtg": 76.1,
+    "net": 42.2,
+    "efg": 66.7,
+    "oefg": 39.5
    },
    {
     "players": [
      "Dalibor Vlk",
      "Jakub Tůma"
     ],
-    "min": 11.7,
-    "pf": 20,
-    "pa": 24,
-    "pm": -4,
-    "poss": 24.0,
-    "pF": 23.8,
-    "pA": 24.1,
-    "ortg": 83.9,
-    "drtg": 99.7,
-    "net": -15.8,
-    "efg": 32.6,
-    "oefg": 58.8
+    "min": 16.9,
+    "pf": 33,
+    "pa": 33,
+    "pm": 0,
+    "poss": 35.1,
+    "pF": 34.2,
+    "pA": 36.0,
+    "ortg": 96.6,
+    "drtg": 91.8,
+    "net": 4.8,
+    "efg": 45.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Dalibor Vlk",
+     "Kamil Švrdlík"
+    ],
+    "min": 16.8,
+    "pf": 43,
+    "pa": 34,
+    "pm": 9,
+    "poss": 37.1,
+    "pF": 37.6,
+    "pA": 36.5,
+    "ortg": 114.4,
+    "drtg": 93.1,
+    "net": 21.3,
+    "efg": 48.6,
+    "oefg": 55.4
    },
    {
     "players": [
@@ -3372,16 +3653,28 @@
  },
  "assistPairs": [
   {
+   "passer": "Robert Lee Bonham",
+   "scorer": "Nicholas Shyhime Stampley",
+   "ast": 9,
+   "pts": 25
+  },
+  {
    "passer": "Jamonda Roshawn Bryant",
    "scorer": "Zed Jackson Key",
-   "ast": 7,
+   "ast": 9,
+   "pts": 16
+  },
+  {
+   "passer": "Robert Lee Bonham",
+   "scorer": "Zed Jackson Key",
+   "ast": 6,
    "pts": 12
   },
   {
    "passer": "Robert Lee Bonham",
-   "scorer": "Nicholas Shyhime Stampley",
-   "ast": 6,
-   "pts": 18
+   "scorer": "Ryan Everett Moffatt",
+   "ast": 4,
+   "pts": 12
   },
   {
    "passer": "Robert Lee Bonham",
@@ -3390,28 +3683,40 @@
    "pts": 10
   },
   {
-   "passer": "Robert Lee Bonham",
-   "scorer": "Zed Jackson Key",
+   "passer": "Jamonda Roshawn Bryant",
+   "scorer": "Ryan Everett Moffatt",
    "ast": 4,
-   "pts": 8
+   "pts": 10
   },
   {
-   "passer": "Robert Lee Bonham",
+   "passer": "Adam Lukeš",
    "scorer": "Ryan Everett Moffatt",
+   "ast": 4,
+   "pts": 10
+  },
+  {
+   "passer": "Jamonda Roshawn Bryant",
+   "scorer": "Luboš Kovář",
    "ast": 3,
    "pts": 9
   },
   {
    "passer": "Adam Lukeš",
-   "scorer": "Ryan Everett Moffatt",
+   "scorer": "Robert Lee Bonham",
    "ast": 3,
    "pts": 9
   },
   {
    "passer": "Jamonda Roshawn Bryant",
-   "scorer": "Ryan Everett Moffatt",
+   "scorer": "Dalibor Vlk",
    "ast": 3,
    "pts": 8
+  },
+  {
+   "passer": "Adam Lukeš",
+   "scorer": "Kamil Švrdlík",
+   "ast": 3,
+   "pts": 6
   },
   {
    "passer": "Luboš Kovář",
@@ -3433,18 +3738,12 @@
   },
   {
    "passer": "Jamonda Roshawn Bryant",
-   "scorer": "Luboš Kovář",
+   "scorer": "Nicholas Shyhime Stampley",
    "ast": 2,
    "pts": 6
   },
   {
    "passer": "Ryan Everett Moffatt",
-   "scorer": "Robert Lee Bonham",
-   "ast": 2,
-   "pts": 6
-  },
-  {
-   "passer": "Adam Lukeš",
    "scorer": "Robert Lee Bonham",
    "ast": 2,
    "pts": 6
@@ -3462,10 +3761,16 @@
    "pts": 5
   },
   {
-   "passer": "Jamonda Roshawn Bryant",
+   "passer": "Ryan Everett Moffatt",
    "scorer": "Dalibor Vlk",
    "ast": 2,
    "pts": 5
+  },
+  {
+   "passer": "Jakub Tůma",
+   "scorer": "Kamil Švrdlík",
+   "ast": 2,
+   "pts": 3
   },
   {
    "passer": "Dalibor Vlk",
@@ -3494,30 +3799,6 @@
   {
    "passer": "Luboš Kovář",
    "scorer": "Robert Lee Bonham",
-   "ast": 1,
-   "pts": 3
-  },
-  {
-   "passer": "Jamonda Roshawn Bryant",
-   "scorer": "Nicholas Shyhime Stampley",
-   "ast": 1,
-   "pts": 3
-  },
-  {
-   "passer": "Jakub Tůma",
-   "scorer": "Ryan Everett Moffatt",
-   "ast": 1,
-   "pts": 3
-  },
-  {
-   "passer": "Jakub Tůma",
-   "scorer": "Adam Lukeš",
-   "ast": 1,
-   "pts": 3
-  },
-  {
-   "passer": "Luboš Kovář",
-   "scorer": "Nicholas Shyhime Stampley",
    "ast": 1,
    "pts": 3
   }
@@ -3928,6 +4209,108 @@
     "last5": [
      12,
      10
+    ]
+   }
+  },
+  {
+   "fibaId": 2893126,
+   "nblId": 544575,
+   "date": "2026-10-03",
+   "round": "5. kolo",
+   "venue": "home",
+   "opponent": "NH Ostrava",
+   "opponentSlug": "ostrava",
+   "opponentLabel": "Ostrava",
+   "score": [
+    110,
+    98
+   ],
+   "result": "W",
+   "ot": false,
+   "ortg": 136.0,
+   "drtg": 116.8,
+   "net": 19.2,
+   "pace": 82.4,
+   "efg": 64.9,
+   "tov": 16.9,
+   "orb": 45.2,
+   "ftr": 34.3,
+   "topScorer": "Robert Lee Bonham",
+   "oppEfg": 57.6,
+   "oppOrb": 26.8,
+   "tp": [
+    13,
+    29
+   ],
+   "ft": [
+    23,
+    27
+   ],
+   "second": [
+    18,
+    12
+   ],
+   "bench": [
+    44,
+    28
+   ],
+   "paint": [
+    40,
+    42
+   ],
+   "leading": [
+    32.6,
+    5.6
+   ],
+   "leadChanges": 5,
+   "maxLead": [
+    15,
+    6
+   ],
+   "maxRun": [
+    9,
+    6
+   ],
+   "astFg": [
+    [
+     24,
+     37
+    ],
+    [
+     19,
+     36
+    ]
+   ],
+   "quarters": [
+    [
+     29,
+     23
+    ],
+    [
+     20,
+     27
+    ],
+    [
+     30,
+     18
+    ],
+    [
+     31,
+     30
+    ]
+   ],
+   "segments": {
+    "first3": [
+     34,
+     25
+    ],
+    "last3": [
+     35,
+     29
+    ],
+    "last5": [
+     18,
+     16
     ]
    }
   }
@@ -5963,6 +6346,475 @@
     1,
     0,
     7
+   ],
+   [
+    11.9,
+    95.0,
+    0,
+    1,
+    8
+   ],
+   [
+    5.0,
+    2.5,
+    0,
+    1,
+    1
+   ],
+   [
+    18.3,
+    94.2,
+    1,
+    1,
+    0
+   ],
+   [
+    23.0,
+    36.3,
+    0,
+    0,
+    7
+   ],
+   [
+    14.4,
+    54.1,
+    0,
+    0,
+    1
+   ],
+   [
+    32.2,
+    58.1,
+    0,
+    1,
+    0
+   ],
+   [
+    36.2,
+    74.2,
+    1,
+    1,
+    1
+   ],
+   [
+    13.3,
+    47.6,
+    0,
+    0,
+    8
+   ],
+   [
+    6.9,
+    56.4,
+    1,
+    0,
+    4
+   ],
+   [
+    6.3,
+    47.6,
+    0,
+    0,
+    2
+   ],
+   [
+    26.4,
+    79.8,
+    1,
+    1,
+    0
+   ],
+   [
+    9.2,
+    53.3,
+    1,
+    0,
+    0
+   ],
+   [
+    16.7,
+    70.2,
+    1,
+    0,
+    2
+   ],
+   [
+    10.2,
+    95.9,
+    1,
+    1,
+    3
+   ],
+   [
+    9.2,
+    53.3,
+    1,
+    0,
+    7
+   ],
+   [
+    32.0,
+    67.9,
+    0,
+    1,
+    1
+   ],
+   [
+    29.5,
+    32.4,
+    1,
+    1,
+    1
+   ],
+   [
+    7.7,
+    49.3,
+    0,
+    0,
+    1
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    7
+   ],
+   [
+    29.6,
+    53.8,
+    1,
+    0,
+    2
+   ],
+   [
+    20.1,
+    5.9,
+    1,
+    1,
+    9
+   ],
+   [
+    10.2,
+    44.8,
+    0,
+    0,
+    2
+   ],
+   [
+    7.5,
+    49.6,
+    1,
+    0,
+    7
+   ],
+   [
+    20.9,
+    42.8,
+    0,
+    0,
+    2
+   ],
+   [
+    5.2,
+    3.6,
+    0,
+    1,
+    8
+   ],
+   [
+    9.4,
+    42.0,
+    1,
+    0,
+    5
+   ],
+   [
+    7.5,
+    67.7,
+    0,
+    0,
+    3
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    5
+   ],
+   [
+    5.5,
+    97.0,
+    0,
+    1,
+    4
+   ],
+   [
+    9.5,
+    54.4,
+    1,
+    0,
+    5
+   ],
+   [
+    10.3,
+    40.8,
+    1,
+    0,
+    3
+   ],
+   [
+    16.4,
+    64.8,
+    0,
+    0,
+    9
+   ],
+   [
+    26.4,
+    16.3,
+    0,
+    1,
+    3
+   ],
+   [
+    4.9,
+    95.9,
+    1,
+    1,
+    3
+   ],
+   [
+    7.1,
+    52.1,
+    1,
+    0,
+    7
+   ],
+   [
+    6.0,
+    45.9,
+    0,
+    0,
+    4
+   ],
+   [
+    31.8,
+    43.9,
+    1,
+    1,
+    1
+   ],
+   [
+    4.4,
+    3.3,
+    1,
+    1,
+    0
+   ],
+   [
+    29.5,
+    73.3,
+    0,
+    1,
+    1
+   ],
+   [
+    33.7,
+    41.1,
+    0,
+    1,
+    1
+   ],
+   [
+    5.5,
+    43.3,
+    1,
+    0,
+    1
+   ],
+   [
+    3.6,
+    2.4,
+    1,
+    1,
+    8
+   ],
+   [
+    8.8,
+    51.2,
+    1,
+    0,
+    2
+   ],
+   [
+    8.3,
+    56.3,
+    1,
+    0,
+    2
+   ],
+   [
+    3.3,
+    8.3,
+    1,
+    0,
+    2
+   ],
+   [
+    23.1,
+    12.3,
+    1,
+    1,
+    1
+   ],
+   [
+    2.4,
+    1.6,
+    0,
+    1,
+    0
+   ],
+   [
+    5.3,
+    95.3,
+    1,
+    1,
+    6
+   ],
+   [
+    23.3,
+    11.7,
+    0,
+    1,
+    2
+   ],
+   [
+    7.2,
+    42.2,
+    0,
+    0,
+    1
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    5
+   ],
+   [
+    22.5,
+    87.1,
+    0,
+    1,
+    0
+   ],
+   [
+    27.8,
+    22.2,
+    0,
+    1,
+    9
+   ],
+   [
+    5.8,
+    19.9,
+    0,
+    0,
+    6
+   ],
+   [
+    15.0,
+    32.9,
+    1,
+    0,
+    6
+   ],
+   [
+    4.4,
+    97.2,
+    1,
+    1,
+    6
+   ],
+   [
+    7.7,
+    58.6,
+    1,
+    0,
+    7
+   ],
+   [
+    5.2,
+    55.5,
+    1,
+    0,
+    4
+   ],
+   [
+    4.9,
+    52.7,
+    0,
+    0,
+    2
+   ],
+   [
+    25.9,
+    12.6,
+    0,
+    1,
+    0
+   ],
+   [
+    8.4,
+    56.6,
+    1,
+    0,
+    1
+   ],
+   [
+    27.2,
+    14.3,
+    0,
+    1,
+    8
+   ],
+   [
+    6.9,
+    58.0,
+    1,
+    0,
+    1
+   ],
+   [
+    26.2,
+    80.6,
+    0,
+    1,
+    0
+   ],
+   [
+    16.2,
+    39.4,
+    0,
+    0,
+    2
+   ],
+   [
+    6.3,
+    42.8,
+    1,
+    0,
+    6
+   ],
+   [
+    6.7,
+    51.0,
+    1,
+    0,
+    2
    ]
   ]
  },
@@ -5970,112 +6822,112 @@
   {
    "name": "Robert Lee Bonham",
    "bands": [
-    34,
-    15,
-    9,
-    16,
-    8
+    36,
+    24,
+    11,
+    22,
+    15
    ],
-   "pts": 82
+   "pts": 108
   },
   {
    "name": "Zed Jackson Key",
    "bands": [
-    13,
-    5,
     15,
+    9,
+    19,
     13,
-    9
+    11
    ],
-   "pts": 55
+   "pts": 67
   },
   {
    "name": "Jamonda Roshawn Bryant",
    "bands": [
+    12,
+    9,
+    30,
     11,
-    5,
-    24,
-    8,
-    2
+    4
    ],
-   "pts": 50
+   "pts": 66
   },
   {
    "name": "Ryan Everett Moffatt",
    "bands": [
-    6,
+    12,
     14,
+    13,
+    8,
+    6
+   ],
+   "pts": 53
+  },
+  {
+   "name": "Kamil Švrdlík",
+   "bands": [
+    2,
+    14,
+    8,
+    9,
+    6
+   ],
+   "pts": 39
+  },
+  {
+   "name": "Nicholas Shyhime Stampley",
+   "bands": [
+    2,
     11,
-    6,
+    11,
+    11,
     3
    ],
-   "pts": 40
+   "pts": 38
   },
   {
    "name": "Luboš Kovář",
    "bands": [
     0,
-    2,
+    5,
     17,
     7,
     7
    ],
-   "pts": 33
-  },
-  {
-   "name": "Kamil Švrdlík",
-   "bands": [
-    0,
-    10,
-    8,
-    5,
-    4
-   ],
-   "pts": 27
-  },
-  {
-   "name": "Nicholas Shyhime Stampley",
-   "bands": [
-    0,
-    6,
-    9,
-    8,
-    3
-   ],
-   "pts": 26
+   "pts": 36
   },
   {
    "name": "Adam Lukeš",
    "bands": [
-    6,
+    8,
     8,
     4,
+    3,
+    2
+   ],
+   "pts": 25
+  },
+  {
+   "name": "Dalibor Vlk",
+   "bands": [
+    3,
+    5,
     2,
-    0
+    7,
+    3
    ],
    "pts": 20
   },
   {
    "name": "Jakub Tůma",
    "bands": [
-    0,
+    3,
     7,
     5,
     2,
     0
    ],
-   "pts": 14
-  },
-  {
-   "name": "Dalibor Vlk",
-   "bands": [
-    0,
-    5,
-    0,
-    7,
-    0
-   ],
-   "pts": 12
+   "pts": 17
   },
   {
    "name": "Petr Šťovíček",
@@ -6102,44 +6954,44 @@
  ],
  "segments": {
   "first3": [
-   131,
-   84
+   165,
+   109
   ],
   "last3": [
-   101,
-   77
+   136,
+   106
   ],
   "last5": [
-   47,
-   33
+   65,
+   49
   ]
  },
  "ranks": {
-  "ppg": 3,
-  "oppg": 1,
+  "ppg": 2,
+  "oppg": 3,
   "diff": 2,
-  "ortg": 3,
-  "drtg": 1,
+  "ortg": 2,
+  "drtg": 2,
   "net": 2,
-  "pace": 2,
+  "pace": 3,
   "efg": 3,
   "ts": 3,
   "tov": 9,
-  "orb": 3,
-  "drb": 6,
-  "ftr": 7,
-  "three_par": 4,
-  "three": 3,
+  "orb": 2,
+  "drb": 5,
+  "ftr": 6,
+  "three_par": 3,
+  "three": 2,
   "two": 7,
-  "ft": 4,
+  "ft": 3,
   "ast_pct": 11,
-  "ast_to": 10,
+  "ast_to": 9,
   "stl_pct": 1,
   "blk_pct": 1,
-  "opp_efg": 5,
+  "opp_efg": 6,
   "opp_tov": 1,
   "opp_ftr": 1,
-  "opp_three": 2,
+  "opp_three": 4,
   "of": 12
  },
  "standing": {
@@ -6148,21 +7000,21 @@
   "name": "BK KVIS Pardubice",
   "label": "Pardubice",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea863234232dc6cd5da9faaab40b442eS1.png",
-  "gp": 4,
-  "w": 4,
+  "gp": 5,
+  "w": 5,
   "l": 0,
   "pct": 1.0,
-  "pf": 365,
-  "pa": 293,
-  "diff": 72,
-  "ppg": 91.2,
-  "oppg": 73.2,
-  "home": "1-0",
+  "pf": 475,
+  "pa": 391,
+  "diff": 84,
+  "ppg": 95.0,
+  "oppg": 78.2,
+  "home": "2-0",
   "away": "3-0",
   "close": "0-0",
   "ot": 0,
-  "streak": "W4",
-  "last5": "WWWW"
+  "streak": "W5",
+  "last5": "WWWWW"
  },
  "players": [
   {
@@ -6173,103 +7025,103 @@
    "teamLabel": "Pardubice",
    "shirt": "3",
    "pos": "",
-   "gp": 4,
-   "gs": 4,
-   "min": 98.6,
+   "gp": 5,
+   "gs": 5,
+   "min": 123.2,
    "totals": {
-    "pts": 82,
-    "fgm": 26,
-    "fga": 53,
-    "tpm": 16,
-    "tpa": 32,
-    "twopm": 10,
-    "twopa": 21,
-    "ftm": 14,
-    "fta": 16,
+    "pts": 108,
+    "fgm": 33,
+    "fga": 67,
+    "tpm": 20,
+    "tpa": 40,
+    "twopm": 13,
+    "twopa": 27,
+    "ftm": 22,
+    "fta": 25,
     "oreb": 7,
-    "dreb": 12,
-    "reb": 19,
-    "ast": 20,
-    "to": 13,
-    "stl": 10,
+    "dreb": 15,
+    "reb": 22,
+    "ast": 27,
+    "to": 17,
+    "stl": 13,
     "blk": 1,
-    "blkr": 7,
-    "pf": 5,
-    "foulon": 21,
-    "pm": 68,
-    "paint": 20,
-    "fast": 25,
-    "second": 5
+    "blkr": 8,
+    "pf": 9,
+    "foulon": 26,
+    "pm": 78,
+    "paint": 26,
+    "fast": 27,
+    "second": 10
    },
    "perGame": {
-    "pts": 20.5,
-    "fgm": 6.5,
-    "fga": 13.2,
+    "pts": 21.6,
+    "fgm": 6.6,
+    "fga": 13.4,
     "tpm": 4.0,
     "tpa": 8.0,
-    "twopm": 2.5,
-    "twopa": 5.2,
-    "ftm": 3.5,
-    "fta": 4.0,
-    "oreb": 1.8,
+    "twopm": 2.6,
+    "twopa": 5.4,
+    "ftm": 4.4,
+    "fta": 5.0,
+    "oreb": 1.4,
     "dreb": 3.0,
-    "reb": 4.8,
-    "ast": 5.0,
-    "to": 3.2,
-    "stl": 2.5,
+    "reb": 4.4,
+    "ast": 5.4,
+    "to": 3.4,
+    "stl": 2.6,
     "blk": 0.2,
-    "blkr": 1.8,
-    "pf": 1.2,
+    "blkr": 1.6,
+    "pf": 1.8,
     "foulon": 5.2,
-    "pm": 17.0,
-    "paint": 5.0,
-    "fast": 6.2,
-    "second": 1.2,
-    "min": 24.7,
-    "eff": 22.5,
-    "gmsc": 18.2
+    "pm": 15.6,
+    "paint": 5.2,
+    "fast": 5.4,
+    "second": 2.0,
+    "min": 24.6,
+    "eff": 23.4,
+    "gmsc": 18.9
    },
    "per40": {
-    "pts": 33.3,
-    "reb": 7.7,
-    "ast": 8.1,
-    "stl": 4.1,
-    "blk": 0.4,
-    "to": 5.3
+    "pts": 35.1,
+    "reb": 7.1,
+    "ast": 8.8,
+    "stl": 4.2,
+    "blk": 0.3,
+    "to": 5.5
    },
-   "ts": 68.3,
+   "ts": 69.2,
    "efg": 64.2,
-   "fg": 49.1,
-   "two": 47.6,
+   "fg": 49.3,
+   "two": 48.1,
    "three": 50.0,
-   "ft": 87.5,
-   "usg": 30.1,
-   "astTo": 1.54,
-   "pm": 68,
-   "pm40": 27.6,
+   "ft": 88.0,
+   "usg": 31.6,
+   "astTo": 1.59,
+   "pm": 78,
+   "pm40": 25.3,
    "on": {
-    "min": 98.6,
-    "pf": 240,
-    "pa": 170,
-    "ortg": 118.1,
-    "drtg": 85.8,
-    "net": 32.3
+    "min": 123.2,
+    "pf": 313,
+    "pa": 233,
+    "ortg": 123.6,
+    "drtg": 93.9,
+    "net": 29.7
    },
    "off": {
-    "min": 61.4,
-    "ortg": 97.7,
-    "drtg": 94.0,
-    "net": 3.6
+    "min": 76.8,
+    "ortg": 102.0,
+    "drtg": 95.9,
+    "net": 6.0
    },
-   "onOff": 28.7,
+   "onOff": 23.7,
    "dd": 0,
    "td": 0,
    "high": 30,
    "zones": {
     "paint": {
-     "m": 9,
-     "a": 17,
-     "pct": 52.9
+     "m": 12,
+     "a": 23,
+     "pct": 52.2
     },
     "mid": {
      "m": 1,
@@ -6278,13 +7130,13 @@
     },
     "corner3": {
      "m": 2,
-     "a": 2,
-     "pct": 100.0
+     "a": 3,
+     "pct": 66.7
     },
     "above3": {
-     "m": 14,
-     "a": 30,
-     "pct": 46.7
+     "m": 18,
+     "a": 37,
+     "pct": 48.6
     }
    },
    "log": [
@@ -6367,6 +7219,26 @@
      "pm": 8,
      "eff": 33,
      "ts": 74.7
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "W",
+     "min": 24.6,
+     "pts": 26,
+     "reb": 3,
+     "ast": 7,
+     "stl": 3,
+     "blk": 0,
+     "to": 4,
+     "fg": "7/14",
+     "tp": "4/8",
+     "ft": "8/9",
+     "pm": 10,
+     "eff": 27,
+     "ts": 72.4
     }
    ]
   },
@@ -6378,108 +7250,108 @@
    "teamLabel": "Pardubice",
    "shirt": "23",
    "pos": "",
-   "gp": 4,
-   "gs": 3,
-   "min": 87.0,
+   "gp": 5,
+   "gs": 4,
+   "min": 113.5,
    "totals": {
-    "pts": 55,
-    "fgm": 20,
-    "fga": 28,
+    "pts": 67,
+    "fgm": 25,
+    "fga": 34,
     "tpm": 0,
     "tpa": 1,
-    "twopm": 20,
-    "twopa": 27,
-    "ftm": 15,
-    "fta": 22,
-    "oreb": 9,
-    "dreb": 14,
-    "reb": 23,
+    "twopm": 25,
+    "twopa": 33,
+    "ftm": 17,
+    "fta": 24,
+    "oreb": 10,
+    "dreb": 21,
+    "reb": 31,
     "ast": 1,
-    "to": 10,
-    "stl": 2,
-    "blk": 4,
+    "to": 13,
+    "stl": 3,
+    "blk": 6,
     "blkr": 2,
-    "pf": 12,
-    "foulon": 17,
-    "pm": 46,
-    "paint": 40,
-    "fast": 4,
-    "second": 19
+    "pf": 15,
+    "foulon": 20,
+    "pm": 58,
+    "paint": 50,
+    "fast": 6,
+    "second": 21
    },
    "perGame": {
-    "pts": 13.8,
+    "pts": 13.4,
     "fgm": 5.0,
-    "fga": 7.0,
+    "fga": 6.8,
     "tpm": 0.0,
     "tpa": 0.2,
     "twopm": 5.0,
-    "twopa": 6.8,
-    "ftm": 3.8,
-    "fta": 5.5,
-    "oreb": 2.2,
-    "dreb": 3.5,
-    "reb": 5.8,
+    "twopa": 6.6,
+    "ftm": 3.4,
+    "fta": 4.8,
+    "oreb": 2.0,
+    "dreb": 4.2,
+    "reb": 6.2,
     "ast": 0.2,
-    "to": 2.5,
-    "stl": 0.5,
-    "blk": 1.0,
-    "blkr": 0.5,
+    "to": 2.6,
+    "stl": 0.6,
+    "blk": 1.2,
+    "blkr": 0.4,
     "pf": 3.0,
-    "foulon": 4.2,
-    "pm": 11.5,
+    "foulon": 4.0,
+    "pm": 11.6,
     "paint": 10.0,
-    "fast": 1.0,
-    "second": 4.8,
-    "min": 21.8,
-    "eff": 15.0,
-    "gmsc": 10.4
+    "fast": 1.2,
+    "second": 4.2,
+    "min": 22.7,
+    "eff": 15.8,
+    "gmsc": 10.5
    },
    "per40": {
-    "pts": 25.3,
-    "reb": 10.6,
-    "ast": 0.5,
-    "stl": 0.9,
-    "blk": 1.8,
+    "pts": 23.6,
+    "reb": 10.9,
+    "ast": 0.4,
+    "stl": 1.1,
+    "blk": 2.1,
     "to": 4.6
    },
-   "ts": 73.0,
-   "efg": 71.4,
-   "fg": 71.4,
-   "two": 74.1,
+   "ts": 75.2,
+   "efg": 73.5,
+   "fg": 73.5,
+   "two": 75.8,
    "three": 0.0,
-   "ft": 68.2,
-   "usg": 22.2,
-   "astTo": 0.1,
-   "pm": 46,
-   "pm40": 21.1,
+   "ft": 70.8,
+   "usg": 20.8,
+   "astTo": 0.08,
+   "pm": 58,
+   "pm40": 20.4,
    "on": {
-    "min": 87.0,
-    "pf": 208,
-    "pa": 164,
-    "ortg": 116.8,
-    "drtg": 93.3,
-    "net": 23.5
+    "min": 113.6,
+    "pf": 285,
+    "pa": 229,
+    "ortg": 122.3,
+    "drtg": 97.0,
+    "net": 25.3
    },
    "off": {
-    "min": 73.0,
-    "ortg": 102.6,
-    "drtg": 84.2,
-    "net": 18.4
+    "min": 86.4,
+    "ortg": 106.1,
+    "drtg": 91.6,
+    "net": 14.5
    },
-   "onOff": 5.1,
+   "onOff": 10.8,
    "dd": 1,
    "td": 0,
    "high": 19,
    "zones": {
     "paint": {
-     "m": 20,
-     "a": 27,
-     "pct": 74.1
+     "m": 25,
+     "a": 32,
+     "pct": 78.1
     },
     "mid": {
      "m": 0,
-     "a": 0,
-     "pct": null
+     "a": 1,
+     "pct": 0.0
     },
     "corner3": {
      "m": 0,
@@ -6572,6 +7444,26 @@
      "pm": -4,
      "eff": 27,
      "ts": 75.9
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "W",
+     "min": 26.5,
+     "pts": 12,
+     "reb": 8,
+     "ast": 0,
+     "stl": 1,
+     "blk": 2,
+     "to": 3,
+     "fg": "5/6",
+     "tp": "0/0",
+     "ft": "2/2",
+     "pm": 12,
+     "eff": 19,
+     "ts": 87.2
     }
    ]
   },
@@ -6583,108 +7475,108 @@
    "teamLabel": "Pardubice",
    "shirt": "4",
    "pos": "",
-   "gp": 4,
+   "gp": 5,
    "gs": 3,
-   "min": 88.2,
+   "min": 106.2,
    "totals": {
-    "pts": 50,
-    "fgm": 17,
-    "fga": 41,
+    "pts": 66,
+    "fgm": 23,
+    "fga": 53,
     "tpm": 6,
-    "tpa": 15,
-    "twopm": 11,
-    "twopa": 26,
-    "ftm": 10,
-    "fta": 11,
+    "tpa": 16,
+    "twopm": 17,
+    "twopa": 37,
+    "ftm": 14,
+    "fta": 15,
     "oreb": 5,
-    "dreb": 11,
-    "reb": 16,
-    "ast": 18,
-    "to": 9,
+    "dreb": 13,
+    "reb": 18,
+    "ast": 26,
+    "to": 10,
     "stl": 12,
     "blk": 2,
-    "blkr": 0,
-    "pf": 10,
-    "foulon": 8,
-    "pm": 79,
-    "paint": 20,
+    "blkr": 1,
+    "pf": 12,
+    "foulon": 11,
+    "pm": 87,
+    "paint": 26,
     "fast": 14,
     "second": 3
    },
    "perGame": {
-    "pts": 12.5,
-    "fgm": 4.2,
-    "fga": 10.2,
-    "tpm": 1.5,
-    "tpa": 3.8,
-    "twopm": 2.8,
-    "twopa": 6.5,
-    "ftm": 2.5,
-    "fta": 2.8,
-    "oreb": 1.2,
-    "dreb": 2.8,
-    "reb": 4.0,
-    "ast": 4.5,
-    "to": 2.2,
-    "stl": 3.0,
-    "blk": 0.5,
-    "blkr": 0.0,
-    "pf": 2.5,
-    "foulon": 2.0,
-    "pm": 19.8,
-    "paint": 5.0,
-    "fast": 3.5,
-    "second": 0.8,
-    "min": 22.1,
-    "eff": 16.0,
-    "gmsc": 11.9
+    "pts": 13.2,
+    "fgm": 4.6,
+    "fga": 10.6,
+    "tpm": 1.2,
+    "tpa": 3.2,
+    "twopm": 3.4,
+    "twopa": 7.4,
+    "ftm": 2.8,
+    "fta": 3.0,
+    "oreb": 1.0,
+    "dreb": 2.6,
+    "reb": 3.6,
+    "ast": 5.2,
+    "to": 2.0,
+    "stl": 2.4,
+    "blk": 0.4,
+    "blkr": 0.2,
+    "pf": 2.4,
+    "foulon": 2.2,
+    "pm": 17.4,
+    "paint": 5.2,
+    "fast": 2.8,
+    "second": 0.6,
+    "min": 21.2,
+    "eff": 16.6,
+    "gmsc": 12.4
    },
    "per40": {
-    "pts": 22.7,
-    "reb": 7.3,
-    "ast": 8.2,
-    "stl": 5.4,
-    "blk": 0.9,
-    "to": 4.1
+    "pts": 24.9,
+    "reb": 6.8,
+    "ast": 9.8,
+    "stl": 4.5,
+    "blk": 0.8,
+    "to": 3.8
    },
-   "ts": 54.5,
-   "efg": 48.8,
-   "fg": 41.5,
-   "two": 42.3,
-   "three": 40.0,
-   "ft": 90.9,
-   "usg": 25.4,
-   "astTo": 2.0,
-   "pm": 79,
-   "pm40": 35.8,
+   "ts": 55.4,
+   "efg": 49.1,
+   "fg": 43.4,
+   "two": 45.9,
+   "three": 37.5,
+   "ft": 93.3,
+   "usg": 26.9,
+   "astTo": 2.6,
+   "pm": 87,
+   "pm40": 32.8,
    "on": {
-    "min": 88.2,
-    "pf": 225,
-    "pa": 146,
-    "ortg": 123.5,
-    "drtg": 81.0,
-    "net": 42.5
+    "min": 106.2,
+    "pf": 281,
+    "pa": 194,
+    "ortg": 126.1,
+    "drtg": 86.1,
+    "net": 40.0
    },
    "off": {
-    "min": 71.8,
-    "ortg": 94.0,
-    "drtg": 98.9,
-    "net": -4.9
+    "min": 93.8,
+    "ortg": 102.5,
+    "drtg": 105.0,
+    "net": -2.5
    },
-   "onOff": 47.4,
+   "onOff": 42.5,
    "dd": 0,
    "td": 0,
    "high": 16,
    "zones": {
     "paint": {
-     "m": 10,
-     "a": 23,
-     "pct": 43.5
+     "m": 13,
+     "a": 30,
+     "pct": 43.3
     },
     "mid": {
-     "m": 1,
-     "a": 3,
-     "pct": 33.3
+     "m": 4,
+     "a": 7,
+     "pct": 57.1
     },
     "corner3": {
      "m": 2,
@@ -6693,8 +7585,8 @@
     },
     "above3": {
      "m": 4,
-     "a": 10,
-     "pct": 40.0
+     "a": 11,
+     "pct": 36.4
     }
    },
    "log": [
@@ -6777,6 +7669,26 @@
      "pm": 10,
      "eff": 20,
      "ts": 68.0
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "W",
+     "min": 18.0,
+     "pts": 16,
+     "reb": 2,
+     "ast": 8,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "6/12",
+     "tp": "0/1",
+     "ft": "4/4",
+     "pm": 8,
+     "eff": 19,
+     "ts": 58.1
     }
    ]
   },
@@ -6788,103 +7700,103 @@
    "teamLabel": "Pardubice",
    "shirt": "13",
    "pos": "",
-   "gp": 4,
-   "gs": 3,
-   "min": 110.6,
+   "gp": 5,
+   "gs": 4,
+   "min": 141.4,
    "totals": {
-    "pts": 40,
-    "fgm": 13,
-    "fga": 39,
-    "tpm": 10,
-    "tpa": 32,
-    "twopm": 3,
-    "twopa": 7,
-    "ftm": 4,
-    "fta": 5,
-    "oreb": 5,
-    "dreb": 14,
-    "reb": 19,
-    "ast": 10,
+    "pts": 53,
+    "fgm": 17,
+    "fga": 48,
+    "tpm": 13,
+    "tpa": 40,
+    "twopm": 4,
+    "twopa": 8,
+    "ftm": 6,
+    "fta": 7,
+    "oreb": 7,
+    "dreb": 20,
+    "reb": 27,
+    "ast": 11,
     "to": 3,
     "stl": 10,
     "blk": 0,
     "blkr": 0,
-    "pf": 6,
-    "foulon": 6,
-    "pm": 59,
-    "paint": 6,
-    "fast": 5,
-    "second": 3
+    "pf": 7,
+    "foulon": 7,
+    "pm": 70,
+    "paint": 8,
+    "fast": 11,
+    "second": 6
    },
    "perGame": {
-    "pts": 10.0,
-    "fgm": 3.2,
-    "fga": 9.8,
-    "tpm": 2.5,
+    "pts": 10.6,
+    "fgm": 3.4,
+    "fga": 9.6,
+    "tpm": 2.6,
     "tpa": 8.0,
     "twopm": 0.8,
-    "twopa": 1.8,
-    "ftm": 1.0,
-    "fta": 1.2,
-    "oreb": 1.2,
-    "dreb": 3.5,
-    "reb": 4.8,
-    "ast": 2.5,
-    "to": 0.8,
-    "stl": 2.5,
+    "twopa": 1.6,
+    "ftm": 1.2,
+    "fta": 1.4,
+    "oreb": 1.4,
+    "dreb": 4.0,
+    "reb": 5.4,
+    "ast": 2.2,
+    "to": 0.6,
+    "stl": 2.0,
     "blk": 0.0,
     "blkr": 0.0,
-    "pf": 1.5,
-    "foulon": 1.5,
-    "pm": 14.8,
-    "paint": 1.5,
-    "fast": 1.2,
-    "second": 0.8,
-    "min": 27.6,
-    "eff": 12.2,
-    "gmsc": 9.2
+    "pf": 1.4,
+    "foulon": 1.4,
+    "pm": 14.0,
+    "paint": 1.6,
+    "fast": 2.2,
+    "second": 1.2,
+    "min": 28.3,
+    "eff": 13.2,
+    "gmsc": 9.7
    },
    "per40": {
-    "pts": 14.5,
-    "reb": 6.9,
-    "ast": 3.6,
-    "stl": 3.6,
+    "pts": 15.0,
+    "reb": 7.6,
+    "ast": 3.1,
+    "stl": 2.8,
     "blk": 0.0,
-    "to": 1.1
+    "to": 0.8
    },
-   "ts": 48.5,
-   "efg": 46.2,
-   "fg": 33.3,
-   "two": 42.9,
-   "three": 31.2,
-   "ft": 80.0,
-   "usg": 16.3,
-   "astTo": 3.33,
-   "pm": 59,
-   "pm40": 21.3,
+   "ts": 51.9,
+   "efg": 49.0,
+   "fg": 35.4,
+   "two": 50.0,
+   "three": 32.5,
+   "ft": 85.7,
+   "usg": 15.7,
+   "astTo": 3.67,
+   "pm": 70,
+   "pm40": 19.8,
    "on": {
-    "min": 110.5,
-    "pf": 253,
-    "pa": 194,
-    "ortg": 110.6,
-    "drtg": 84.7,
-    "net": 25.9
+    "min": 141.3,
+    "pf": 333,
+    "pa": 263,
+    "ortg": 114.4,
+    "drtg": 90.0,
+    "net": 24.5
    },
    "off": {
-    "min": 49.5,
-    "ortg": 109.3,
-    "drtg": 99.0,
-    "net": 10.3
+    "min": 58.7,
+    "ortg": 117.3,
+    "drtg": 106.2,
+    "net": 11.1
    },
-   "onOff": 15.6,
+   "onOff": 13.4,
    "dd": 0,
    "td": 0,
    "high": 15,
    "zones": {
     "paint": {
-     "m": 3,
-     "a": 7,
-     "pct": 42.9
+     "m": 4,
+     "a": 8,
+     "pct": 50.0
     },
     "mid": {
      "m": 0,
@@ -6892,14 +7804,14 @@
      "pct": null
     },
     "corner3": {
-     "m": 3,
-     "a": 8,
-     "pct": 37.5
+     "m": 4,
+     "a": 10,
+     "pct": 40.0
     },
     "above3": {
-     "m": 7,
-     "a": 24,
-     "pct": 29.2
+     "m": 9,
+     "a": 30,
+     "pct": 30.0
     }
    },
    "log": [
@@ -6982,211 +7894,26 @@
      "pm": 10,
      "eff": 17,
      "ts": 47.2
-    }
-   ]
-  },
-  {
-   "id": "pardubice/lubos-kovar",
-   "name": "Luboš Kovář",
-   "team": "pardubice",
-   "teamName": "BK KVIS Pardubice",
-   "teamLabel": "Pardubice",
-   "shirt": "21",
-   "pos": "",
-   "gp": 4,
-   "gs": 4,
-   "min": 91.5,
-   "totals": {
-    "pts": 33,
-    "fgm": 12,
-    "fga": 26,
-    "tpm": 5,
-    "tpa": 15,
-    "twopm": 7,
-    "twopa": 11,
-    "ftm": 4,
-    "fta": 6,
-    "oreb": 7,
-    "dreb": 11,
-    "reb": 18,
-    "ast": 7,
-    "to": 4,
-    "stl": 5,
-    "blk": 3,
-    "blkr": 0,
-    "pf": 9,
-    "foulon": 7,
-    "pm": 42,
-    "paint": 14,
-    "fast": 0,
-    "second": 13
-   },
-   "perGame": {
-    "pts": 8.2,
-    "fgm": 3.0,
-    "fga": 6.5,
-    "tpm": 1.2,
-    "tpa": 3.8,
-    "twopm": 1.8,
-    "twopa": 2.8,
-    "ftm": 1.0,
-    "fta": 1.5,
-    "oreb": 1.8,
-    "dreb": 2.8,
-    "reb": 4.5,
-    "ast": 1.8,
-    "to": 1.0,
-    "stl": 1.2,
-    "blk": 0.8,
-    "blkr": 0.0,
-    "pf": 2.2,
-    "foulon": 1.8,
-    "pm": 10.5,
-    "paint": 3.5,
-    "fast": 0.0,
-    "second": 3.2,
-    "min": 22.9,
-    "eff": 11.5,
-    "gmsc": 7.8
-   },
-   "per40": {
-    "pts": 14.4,
-    "reb": 7.9,
-    "ast": 3.1,
-    "stl": 2.2,
-    "blk": 1.3,
-    "to": 1.7
-   },
-   "ts": 57.6,
-   "efg": 55.8,
-   "fg": 46.2,
-   "two": 63.6,
-   "three": 33.3,
-   "ft": 66.7,
-   "usg": 14.5,
-   "astTo": 1.75,
-   "pm": 42,
-   "pm40": 18.4,
-   "on": {
-    "min": 91.4,
-    "pf": 216,
-    "pa": 174,
-    "ortg": 117.6,
-    "drtg": 94.4,
-    "net": 23.2
-   },
-   "off": {
-    "min": 68.6,
-    "ortg": 101.0,
-    "drtg": 82.3,
-    "net": 18.8
-   },
-   "onOff": 4.4,
-   "dd": 0,
-   "td": 0,
-   "high": 11,
-   "zones": {
-    "paint": {
-     "m": 7,
-     "a": 11,
-     "pct": 63.6
     },
-    "mid": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    },
-    "corner3": {
-     "m": 4,
-     "a": 8,
-     "pct": 50.0
-    },
-    "above3": {
-     "m": 1,
-     "a": 7,
-     "pct": 14.3
-    }
-   },
-   "log": [
     {
-     "fibaId": 2890471,
-     "date": "2026-09-19",
-     "opponent": "Brno",
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
      "venue": "home",
      "result": "W",
-     "min": 26.6,
-     "pts": 11,
-     "reb": 6,
-     "ast": 3,
-     "stl": 2,
+     "min": 30.8,
+     "pts": 13,
+     "reb": 8,
+     "ast": 1,
+     "stl": 0,
      "blk": 0,
      "to": 0,
-     "fg": "4/6",
-     "tp": "1/3",
-     "ft": "2/4",
-     "pm": 8,
-     "eff": 18,
-     "ts": 70.9
-    },
-    {
-     "fibaId": 2890474,
-     "date": "2026-09-23",
-     "opponent": "Olomoucko",
-     "venue": "away",
-     "result": "W",
-     "min": 20.1,
-     "pts": 10,
-     "reb": 4,
-     "ast": 1,
-     "stl": 3,
-     "blk": 1,
-     "to": 1,
-     "fg": "4/6",
-     "tp": "2/4",
-     "ft": "0/0",
-     "pm": 27,
-     "eff": 16,
-     "ts": 83.3
-    },
-    {
-     "fibaId": 2890484,
-     "date": "2026-09-26",
-     "opponent": "Hradec",
-     "venue": "away",
-     "result": "W",
-     "min": 19.3,
-     "pts": 10,
-     "reb": 3,
-     "ast": 3,
-     "stl": 0,
-     "blk": 1,
-     "to": 2,
-     "fg": "4/7",
-     "tp": "2/4",
-     "ft": "0/0",
-     "pm": -6,
-     "eff": 12,
-     "ts": 71.4
-    },
-    {
-     "fibaId": 2892252,
-     "date": "2026-09-30",
-     "opponent": "Písek",
-     "venue": "away",
-     "result": "W",
-     "min": 25.5,
-     "pts": 2,
-     "reb": 5,
-     "ast": 0,
-     "stl": 0,
-     "blk": 1,
-     "to": 1,
-     "fg": "0/7",
-     "tp": "0/4",
+     "fg": "4/9",
+     "tp": "3/8",
      "ft": "2/2",
-     "pm": 13,
-     "eff": 0,
-     "ts": 12.7
+     "pm": 11,
+     "eff": 17,
+     "ts": 65.8
     }
    ]
   },
@@ -7198,103 +7925,103 @@
    "teamLabel": "Pardubice",
    "shirt": "9",
    "pos": "",
-   "gp": 4,
+   "gp": 5,
    "gs": 1,
-   "min": 65.2,
+   "min": 78.7,
    "totals": {
-    "pts": 27,
-    "fgm": 9,
-    "fga": 18,
+    "pts": 39,
+    "fgm": 13,
+    "fga": 22,
     "tpm": 0,
     "tpa": 3,
-    "twopm": 9,
-    "twopa": 15,
-    "ftm": 9,
-    "fta": 11,
-    "oreb": 8,
+    "twopm": 13,
+    "twopa": 19,
+    "ftm": 13,
+    "fta": 15,
+    "oreb": 12,
     "dreb": 20,
-    "reb": 28,
-    "ast": 0,
+    "reb": 32,
+    "ast": 1,
     "to": 5,
     "stl": 4,
-    "blk": 5,
+    "blk": 6,
     "blkr": 3,
-    "pf": 14,
-    "foulon": 7,
+    "pf": 17,
+    "foulon": 9,
     "pm": 19,
-    "paint": 18,
-    "fast": 2,
-    "second": 9
+    "paint": 26,
+    "fast": 6,
+    "second": 15
    },
    "perGame": {
-    "pts": 6.8,
-    "fgm": 2.2,
-    "fga": 4.5,
+    "pts": 7.8,
+    "fgm": 2.6,
+    "fga": 4.4,
     "tpm": 0.0,
-    "tpa": 0.8,
-    "twopm": 2.2,
+    "tpa": 0.6,
+    "twopm": 2.6,
     "twopa": 3.8,
-    "ftm": 2.2,
-    "fta": 2.8,
-    "oreb": 2.0,
-    "dreb": 5.0,
-    "reb": 7.0,
-    "ast": 0.0,
-    "to": 1.2,
-    "stl": 1.0,
+    "ftm": 2.6,
+    "fta": 3.0,
+    "oreb": 2.4,
+    "dreb": 4.0,
+    "reb": 6.4,
+    "ast": 0.2,
+    "to": 1.0,
+    "stl": 0.8,
     "blk": 1.2,
-    "blkr": 0.8,
-    "pf": 3.5,
+    "blkr": 0.6,
+    "pf": 3.4,
     "foulon": 1.8,
-    "pm": 4.8,
-    "paint": 4.5,
-    "fast": 0.5,
-    "second": 2.2,
-    "min": 16.3,
-    "eff": 12.0,
-    "gmsc": 6.4
+    "pm": 3.8,
+    "paint": 5.2,
+    "fast": 1.2,
+    "second": 3.0,
+    "min": 15.7,
+    "eff": 13.2,
+    "gmsc": 7.9
    },
    "per40": {
-    "pts": 16.6,
-    "reb": 17.2,
-    "ast": 0.0,
-    "stl": 2.5,
-    "blk": 3.1,
-    "to": 3.1
+    "pts": 19.8,
+    "reb": 16.3,
+    "ast": 0.5,
+    "stl": 2.0,
+    "blk": 3.0,
+    "to": 2.5
    },
-   "ts": 59.1,
-   "efg": 50.0,
-   "fg": 50.0,
-   "two": 60.0,
+   "ts": 68.2,
+   "efg": 59.1,
+   "fg": 59.1,
+   "two": 68.4,
    "three": 0.0,
-   "ft": 81.8,
-   "usg": 17.5,
-   "astTo": 0.0,
+   "ft": 86.7,
+   "usg": 17.6,
+   "astTo": 0.2,
    "pm": 19,
-   "pm40": 11.7,
+   "pm40": 9.7,
    "on": {
-    "min": 65.1,
-    "pf": 136,
-    "pa": 115,
-    "ortg": 101.2,
-    "drtg": 85.1,
-    "net": 16.1
+    "min": 78.6,
+    "pf": 169,
+    "pa": 148,
+    "ortg": 105.4,
+    "drtg": 93.2,
+    "net": 12.1
    },
    "off": {
-    "min": 94.9,
-    "ortg": 116.4,
-    "drtg": 91.8,
-    "net": 24.6
+    "min": 121.4,
+    "ortg": 121.6,
+    "drtg": 95.6,
+    "net": 26.0
    },
-   "onOff": -8.5,
+   "onOff": -13.9,
    "dd": 0,
    "td": 0,
    "high": 12,
    "zones": {
     "paint": {
-     "m": 9,
-     "a": 15,
-     "pct": 60.0
+     "m": 13,
+     "a": 19,
+     "pct": 68.4
     },
     "mid": {
      "m": 0,
@@ -7392,6 +8119,26 @@
      "pm": 9,
      "eff": 3,
      "ts": 0.0
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "W",
+     "min": 13.5,
+     "pts": 12,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "to": 0,
+     "fg": "4/4",
+     "tp": "0/0",
+     "ft": "4/4",
+     "pm": 0,
+     "eff": 18,
+     "ts": 104.2
     }
    ]
   },
@@ -7403,113 +8150,113 @@
    "teamLabel": "Pardubice",
    "shirt": "24",
    "pos": "",
-   "gp": 4,
-   "gs": 2,
-   "min": 89.2,
+   "gp": 5,
+   "gs": 3,
+   "min": 112.4,
    "totals": {
-    "pts": 26,
-    "fgm": 9,
-    "fga": 25,
-    "tpm": 8,
-    "tpa": 19,
-    "twopm": 1,
-    "twopa": 6,
-    "ftm": 0,
-    "fta": 3,
-    "oreb": 4,
-    "dreb": 8,
-    "reb": 12,
+    "pts": 38,
+    "fgm": 13,
+    "fga": 30,
+    "tpm": 10,
+    "tpa": 21,
+    "twopm": 3,
+    "twopa": 9,
+    "ftm": 2,
+    "fta": 5,
+    "oreb": 7,
+    "dreb": 9,
+    "reb": 16,
     "ast": 4,
     "to": 3,
     "stl": 1,
-    "blk": 1,
+    "blk": 2,
     "blkr": 1,
-    "pf": 5,
-    "foulon": 5,
-    "pm": 14,
-    "paint": 2,
-    "fast": 0,
-    "second": 8
+    "pf": 8,
+    "foulon": 7,
+    "pm": 23,
+    "paint": 4,
+    "fast": 2,
+    "second": 10
    },
    "perGame": {
-    "pts": 6.5,
-    "fgm": 2.2,
-    "fga": 6.2,
+    "pts": 7.6,
+    "fgm": 2.6,
+    "fga": 6.0,
     "tpm": 2.0,
-    "tpa": 4.8,
-    "twopm": 0.2,
-    "twopa": 1.5,
-    "ftm": 0.0,
-    "fta": 0.8,
-    "oreb": 1.0,
-    "dreb": 2.0,
-    "reb": 3.0,
-    "ast": 1.0,
-    "to": 0.8,
+    "tpa": 4.2,
+    "twopm": 0.6,
+    "twopa": 1.8,
+    "ftm": 0.4,
+    "fta": 1.0,
+    "oreb": 1.4,
+    "dreb": 1.8,
+    "reb": 3.2,
+    "ast": 0.8,
+    "to": 0.6,
     "stl": 0.2,
-    "blk": 0.2,
+    "blk": 0.4,
     "blkr": 0.2,
-    "pf": 1.2,
-    "foulon": 1.2,
-    "pm": 3.5,
-    "paint": 0.5,
-    "fast": 0.0,
+    "pf": 1.6,
+    "foulon": 1.4,
+    "pm": 4.6,
+    "paint": 0.8,
+    "fast": 0.4,
     "second": 2.0,
-    "min": 22.3,
-    "eff": 5.5,
-    "gmsc": 3.9
+    "min": 22.5,
+    "eff": 7.6,
+    "gmsc": 5.5
    },
    "per40": {
-    "pts": 11.7,
-    "reb": 5.4,
-    "ast": 1.8,
+    "pts": 13.5,
+    "reb": 5.7,
+    "ast": 1.4,
     "stl": 0.4,
-    "blk": 0.4,
-    "to": 1.3
+    "blk": 0.7,
+    "to": 1.1
    },
-   "ts": 49.4,
-   "efg": 52.0,
-   "fg": 36.0,
-   "two": 16.7,
-   "three": 42.1,
-   "ft": 0.0,
-   "usg": 13.4,
+   "ts": 59.0,
+   "efg": 60.0,
+   "fg": 43.3,
+   "two": 33.3,
+   "three": 47.6,
+   "ft": 40.0,
+   "usg": 12.8,
    "astTo": 1.33,
-   "pm": 14,
-   "pm40": 6.3,
+   "pm": 23,
+   "pm40": 8.2,
    "on": {
-    "min": 89.2,
-    "pf": 195,
-    "pa": 181,
-    "ortg": 105.5,
-    "drtg": 97.3,
-    "net": 8.2
+    "min": 112.3,
+    "pf": 263,
+    "pa": 240,
+    "ortg": 113.4,
+    "drtg": 101.9,
+    "net": 11.4
    },
    "off": {
-    "min": 70.8,
-    "ortg": 116.2,
-    "drtg": 78.3,
-    "net": 37.9
+    "min": 87.7,
+    "ortg": 117.8,
+    "drtg": 85.1,
+    "net": 32.6
    },
-   "onOff": -29.7,
+   "onOff": -21.2,
    "dd": 0,
    "td": 0,
-   "high": 9,
+   "high": 12,
    "zones": {
     "paint": {
-     "m": 1,
-     "a": 5,
-     "pct": 20.0
+     "m": 3,
+     "a": 7,
+     "pct": 42.9
     },
     "mid": {
      "m": 0,
-     "a": 1,
+     "a": 2,
      "pct": 0.0
     },
     "corner3": {
-     "m": 2,
-     "a": 4,
-     "pct": 50.0
+     "m": 4,
+     "a": 6,
+     "pct": 66.7
     },
     "above3": {
      "m": 6,
@@ -7597,6 +8344,251 @@
      "pm": -4,
      "eff": 3,
      "ts": 29.6
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "W",
+     "min": 23.2,
+     "pts": 12,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 0,
+     "fg": "4/5",
+     "tp": "2/2",
+     "ft": "2/2",
+     "pm": 9,
+     "eff": 16,
+     "ts": 102.0
+    }
+   ]
+  },
+  {
+   "id": "pardubice/lubos-kovar",
+   "name": "Luboš Kovář",
+   "team": "pardubice",
+   "teamName": "BK KVIS Pardubice",
+   "teamLabel": "Pardubice",
+   "shirt": "21",
+   "pos": "",
+   "gp": 5,
+   "gs": 5,
+   "min": 107.0,
+   "totals": {
+    "pts": 36,
+    "fgm": 13,
+    "fga": 31,
+    "tpm": 6,
+    "tpa": 19,
+    "twopm": 7,
+    "twopa": 12,
+    "ftm": 4,
+    "fta": 6,
+    "oreb": 8,
+    "dreb": 12,
+    "reb": 20,
+    "ast": 8,
+    "to": 6,
+    "stl": 6,
+    "blk": 3,
+    "blkr": 1,
+    "pf": 11,
+    "foulon": 7,
+    "pm": 41,
+    "paint": 14,
+    "fast": 0,
+    "second": 13
+   },
+   "perGame": {
+    "pts": 7.2,
+    "fgm": 2.6,
+    "fga": 6.2,
+    "tpm": 1.2,
+    "tpa": 3.8,
+    "twopm": 1.4,
+    "twopa": 2.4,
+    "ftm": 0.8,
+    "fta": 1.2,
+    "oreb": 1.6,
+    "dreb": 2.4,
+    "reb": 4.0,
+    "ast": 1.6,
+    "to": 1.2,
+    "stl": 1.2,
+    "blk": 0.6,
+    "blkr": 0.2,
+    "pf": 2.2,
+    "foulon": 1.4,
+    "pm": 8.2,
+    "paint": 2.8,
+    "fast": 0.0,
+    "second": 2.6,
+    "min": 21.4,
+    "eff": 9.4,
+    "gmsc": 6.2
+   },
+   "per40": {
+    "pts": 13.5,
+    "reb": 7.5,
+    "ast": 3.0,
+    "stl": 2.2,
+    "blk": 1.1,
+    "to": 2.2
+   },
+   "ts": 53.5,
+   "efg": 51.6,
+   "fg": 41.9,
+   "two": 58.3,
+   "three": 31.6,
+   "ft": 66.7,
+   "usg": 15.2,
+   "astTo": 1.33,
+   "pm": 41,
+   "pm40": 15.3,
+   "on": {
+    "min": 107.0,
+    "pf": 250,
+    "pa": 209,
+    "ortg": 117.1,
+    "drtg": 97.5,
+    "net": 19.6
+   },
+   "off": {
+    "min": 93.0,
+    "ortg": 113.3,
+    "drtg": 91.7,
+    "net": 21.6
+   },
+   "onOff": -2.0,
+   "dd": 0,
+   "td": 0,
+   "high": 11,
+   "zones": {
+    "paint": {
+     "m": 7,
+     "a": 12,
+     "pct": 58.3
+    },
+    "mid": {
+     "m": 0,
+     "a": 0,
+     "pct": null
+    },
+    "corner3": {
+     "m": 5,
+     "a": 11,
+     "pct": 45.5
+    },
+    "above3": {
+     "m": 1,
+     "a": 8,
+     "pct": 12.5
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890471,
+     "date": "2026-09-19",
+     "opponent": "Brno",
+     "venue": "home",
+     "result": "W",
+     "min": 26.6,
+     "pts": 11,
+     "reb": 6,
+     "ast": 3,
+     "stl": 2,
+     "blk": 0,
+     "to": 0,
+     "fg": "4/6",
+     "tp": "1/3",
+     "ft": "2/4",
+     "pm": 8,
+     "eff": 18,
+     "ts": 70.9
+    },
+    {
+     "fibaId": 2890474,
+     "date": "2026-09-23",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 20.1,
+     "pts": 10,
+     "reb": 4,
+     "ast": 1,
+     "stl": 3,
+     "blk": 1,
+     "to": 1,
+     "fg": "4/6",
+     "tp": "2/4",
+     "ft": "0/0",
+     "pm": 27,
+     "eff": 16,
+     "ts": 83.3
+    },
+    {
+     "fibaId": 2890484,
+     "date": "2026-09-26",
+     "opponent": "Hradec",
+     "venue": "away",
+     "result": "W",
+     "min": 19.3,
+     "pts": 10,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "to": 2,
+     "fg": "4/7",
+     "tp": "2/4",
+     "ft": "0/0",
+     "pm": -6,
+     "eff": 12,
+     "ts": 71.4
+    },
+    {
+     "fibaId": 2892252,
+     "date": "2026-09-30",
+     "opponent": "Písek",
+     "venue": "away",
+     "result": "W",
+     "min": 25.5,
+     "pts": 2,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 1,
+     "fg": "0/7",
+     "tp": "0/4",
+     "ft": "2/2",
+     "pm": 13,
+     "eff": 0,
+     "ts": 12.7
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "W",
+     "min": 15.5,
+     "pts": 3,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "1/5",
+     "tp": "1/4",
+     "ft": "0/0",
+     "pm": -1,
+     "eff": 1,
+     "ts": 30.0
     }
    ]
   },
@@ -7608,103 +8600,103 @@
    "teamLabel": "Pardubice",
    "shirt": "7",
    "pos": "",
-   "gp": 4,
+   "gp": 5,
    "gs": 0,
-   "min": 68.6,
+   "min": 94.3,
    "totals": {
-    "pts": 20,
-    "fgm": 7,
-    "fga": 22,
+    "pts": 25,
+    "fgm": 9,
+    "fga": 26,
     "tpm": 1,
-    "tpa": 7,
-    "twopm": 6,
-    "twopa": 15,
-    "ftm": 5,
-    "fta": 9,
+    "tpa": 8,
+    "twopm": 8,
+    "twopa": 18,
+    "ftm": 6,
+    "fta": 11,
     "oreb": 6,
-    "dreb": 5,
-    "reb": 11,
-    "ast": 7,
-    "to": 5,
+    "dreb": 6,
+    "reb": 12,
+    "ast": 11,
+    "to": 7,
     "stl": 5,
     "blk": 2,
     "blkr": 3,
-    "pf": 6,
-    "foulon": 7,
-    "pm": 14,
-    "paint": 12,
-    "fast": 3,
+    "pf": 9,
+    "foulon": 10,
+    "pm": 24,
+    "paint": 16,
+    "fast": 5,
     "second": 4
    },
    "perGame": {
     "pts": 5.0,
     "fgm": 1.8,
-    "fga": 5.5,
+    "fga": 5.2,
     "tpm": 0.2,
-    "tpa": 1.8,
-    "twopm": 1.5,
-    "twopa": 3.8,
+    "tpa": 1.6,
+    "twopm": 1.6,
+    "twopa": 3.6,
     "ftm": 1.2,
     "fta": 2.2,
-    "oreb": 1.5,
+    "oreb": 1.2,
     "dreb": 1.2,
-    "reb": 2.8,
-    "ast": 1.8,
-    "to": 1.2,
-    "stl": 1.2,
-    "blk": 0.5,
-    "blkr": 0.8,
-    "pf": 1.5,
-    "foulon": 1.8,
-    "pm": 3.5,
-    "paint": 3.0,
-    "fast": 0.8,
-    "second": 1.0,
-    "min": 17.1,
+    "reb": 2.4,
+    "ast": 2.2,
+    "to": 1.4,
+    "stl": 1.0,
+    "blk": 0.4,
+    "blkr": 0.6,
+    "pf": 1.8,
+    "foulon": 2.0,
+    "pm": 4.8,
+    "paint": 3.2,
+    "fast": 1.0,
+    "second": 0.8,
+    "min": 18.9,
     "eff": 5.2,
-    "gmsc": 3.9
+    "gmsc": 3.6
    },
    "per40": {
-    "pts": 11.7,
-    "reb": 6.4,
-    "ast": 4.1,
-    "stl": 2.9,
-    "blk": 1.2,
-    "to": 2.9
+    "pts": 10.6,
+    "reb": 5.1,
+    "ast": 4.7,
+    "stl": 2.1,
+    "blk": 0.8,
+    "to": 3.0
    },
-   "ts": 38.5,
-   "efg": 34.1,
-   "fg": 31.8,
-   "two": 40.0,
-   "three": 14.3,
-   "ft": 55.6,
-   "usg": 18.4,
-   "astTo": 1.4,
-   "pm": 14,
-   "pm40": 8.2,
+   "ts": 40.5,
+   "efg": 36.5,
+   "fg": 34.6,
+   "two": 44.4,
+   "three": 12.5,
+   "ft": 54.5,
+   "usg": 16.5,
+   "astTo": 1.57,
+   "pm": 24,
+   "pm40": 10.2,
    "on": {
-    "min": 68.6,
-    "pf": 141,
-    "pa": 127,
-    "ortg": 98.6,
-    "drtg": 90.1,
-    "net": 8.5
+    "min": 94.3,
+    "pf": 210,
+    "pa": 186,
+    "ortg": 109.4,
+    "drtg": 97.6,
+    "net": 11.8
    },
    "off": {
-    "min": 91.4,
-    "ortg": 119.1,
-    "drtg": 88.3,
-    "net": 30.8
+    "min": 105.7,
+    "ortg": 120.4,
+    "drtg": 92.2,
+    "net": 28.2
    },
-   "onOff": -22.3,
+   "onOff": -16.4,
    "dd": 0,
    "td": 0,
    "high": 11,
    "zones": {
     "paint": {
-     "m": 6,
-     "a": 15,
-     "pct": 40.0
+     "m": 8,
+     "a": 18,
+     "pct": 44.4
     },
     "mid": {
      "m": 0,
@@ -7713,7 +8705,7 @@
     },
     "corner3": {
      "m": 0,
-     "a": 1,
+     "a": 2,
      "pct": 0.0
     },
     "above3": {
@@ -7802,6 +8794,26 @@
      "pm": 9,
      "eff": -3,
      "ts": 0.0
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "W",
+     "min": 25.7,
+     "pts": 5,
+     "reb": 1,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "2/4",
+     "tp": "0/1",
+     "ft": "1/2",
+     "pm": 10,
+     "eff": 5,
+     "ts": 51.2
     }
    ]
   },
@@ -7813,103 +8825,103 @@
    "teamLabel": "Pardubice",
    "shirt": "98",
    "pos": "",
-   "gp": 3,
+   "gp": 4,
    "gs": 0,
-   "min": 52.1,
+   "min": 64.0,
    "totals": {
-    "pts": 14,
-    "fgm": 5,
-    "fga": 20,
-    "tpm": 2,
-    "tpa": 13,
+    "pts": 17,
+    "fgm": 6,
+    "fga": 23,
+    "tpm": 3,
+    "tpa": 15,
     "twopm": 3,
-    "twopa": 7,
+    "twopa": 8,
     "ftm": 2,
-    "fta": 4,
+    "fta": 6,
     "oreb": 0,
-    "dreb": 4,
-    "reb": 4,
-    "ast": 4,
-    "to": 5,
+    "dreb": 6,
+    "reb": 6,
+    "ast": 6,
+    "to": 8,
     "stl": 1,
     "blk": 0,
-    "blkr": 1,
+    "blkr": 2,
     "pf": 2,
-    "foulon": 8,
-    "pm": 1,
+    "foulon": 11,
+    "pm": 0,
     "paint": 6,
-    "fast": 3,
+    "fast": 6,
     "second": 0
    },
    "perGame": {
-    "pts": 4.7,
-    "fgm": 1.7,
-    "fga": 6.7,
-    "tpm": 0.7,
-    "tpa": 4.3,
-    "twopm": 1.0,
-    "twopa": 2.3,
-    "ftm": 0.7,
-    "fta": 1.3,
+    "pts": 4.2,
+    "fgm": 1.5,
+    "fga": 5.8,
+    "tpm": 0.8,
+    "tpa": 3.8,
+    "twopm": 0.8,
+    "twopa": 2.0,
+    "ftm": 0.5,
+    "fta": 1.5,
     "oreb": 0.0,
-    "dreb": 1.3,
-    "reb": 1.3,
-    "ast": 1.3,
-    "to": 1.7,
-    "stl": 0.3,
+    "dreb": 1.5,
+    "reb": 1.5,
+    "ast": 1.5,
+    "to": 2.0,
+    "stl": 0.2,
     "blk": 0.0,
-    "blkr": 0.3,
-    "pf": 0.7,
-    "foulon": 2.7,
-    "pm": 0.3,
-    "paint": 2.0,
-    "fast": 1.0,
+    "blkr": 0.5,
+    "pf": 0.5,
+    "foulon": 2.8,
+    "pm": 0.0,
+    "paint": 1.5,
+    "fast": 1.5,
     "second": 0.0,
-    "min": 17.4,
-    "eff": 0.3,
-    "gmsc": 0.1
+    "min": 16.0,
+    "eff": 0.2,
+    "gmsc": -0.0
    },
    "per40": {
-    "pts": 10.7,
-    "reb": 3.1,
-    "ast": 3.1,
-    "stl": 0.8,
+    "pts": 10.6,
+    "reb": 3.8,
+    "ast": 3.8,
+    "stl": 0.6,
     "blk": 0.0,
-    "to": 3.8
+    "to": 5.0
    },
-   "ts": 32.2,
-   "efg": 30.0,
-   "fg": 25.0,
-   "two": 42.9,
-   "three": 15.4,
-   "ft": 50.0,
-   "usg": 21.3,
-   "astTo": 0.8,
-   "pm": 1,
-   "pm40": 0.8,
+   "ts": 33.2,
+   "efg": 32.6,
+   "fg": 26.1,
+   "two": 37.5,
+   "three": 20.0,
+   "ft": 33.3,
+   "usg": 21.8,
+   "astTo": 0.75,
+   "pm": 0,
+   "pm40": 0.0,
    "on": {
-    "min": 52.1,
-    "pf": 100,
-    "pa": 101,
-    "ortg": 95.2,
-    "drtg": 94.1,
-    "net": 1.1
+    "min": 64.0,
+    "pf": 129,
+    "pa": 131,
+    "ortg": 100.6,
+    "drtg": 98.9,
+    "net": 1.7
    },
    "off": {
-    "min": 67.9,
-    "ortg": 121.3,
-    "drtg": 79.1,
-    "net": 42.2
+    "min": 96.0,
+    "ortg": 126.8,
+    "drtg": 90.0,
+    "net": 36.8
    },
-   "onOff": -41.1,
+   "onOff": -35.1,
    "dd": 0,
    "td": 0,
    "high": 8,
    "zones": {
     "paint": {
      "m": 3,
-     "a": 7,
-     "pct": 42.9
+     "a": 8,
+     "pct": 37.5
     },
     "mid": {
      "m": 0,
@@ -7922,9 +8934,9 @@
      "pct": 40.0
     },
     "above3": {
-     "m": 0,
-     "a": 8,
-     "pct": 0.0
+     "m": 1,
+     "a": 10,
+     "pct": 10.0
     }
    },
    "log": [
@@ -7987,6 +8999,251 @@
      "pm": 8,
      "eff": 1,
      "ts": 20.0
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "W",
+     "min": 11.9,
+     "pts": 3,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 3,
+     "fg": "1/3",
+     "tp": "1/2",
+     "ft": "0/2",
+     "pm": -1,
+     "eff": 0,
+     "ts": 38.7
+    }
+   ]
+  },
+  {
+   "id": "pardubice/dalibor-vlk",
+   "name": "Dalibor Vlk",
+   "team": "pardubice",
+   "teamName": "BK KVIS Pardubice",
+   "teamLabel": "Pardubice",
+   "shirt": "33",
+   "pos": "",
+   "gp": 5,
+   "gs": 0,
+   "min": 45.9,
+   "totals": {
+    "pts": 20,
+    "fgm": 7,
+    "fga": 15,
+    "tpm": 4,
+    "tpa": 10,
+    "twopm": 3,
+    "twopa": 5,
+    "ftm": 2,
+    "fta": 2,
+    "oreb": 2,
+    "dreb": 4,
+    "reb": 6,
+    "ast": 1,
+    "to": 2,
+    "stl": 0,
+    "blk": 0,
+    "blkr": 0,
+    "pf": 12,
+    "foulon": 1,
+    "pm": 15,
+    "paint": 6,
+    "fast": 8,
+    "second": 0
+   },
+   "perGame": {
+    "pts": 4.0,
+    "fgm": 1.4,
+    "fga": 3.0,
+    "tpm": 0.8,
+    "tpa": 2.0,
+    "twopm": 0.6,
+    "twopa": 1.0,
+    "ftm": 0.4,
+    "fta": 0.4,
+    "oreb": 0.4,
+    "dreb": 0.8,
+    "reb": 1.2,
+    "ast": 0.2,
+    "to": 0.4,
+    "stl": 0.0,
+    "blk": 0.0,
+    "blkr": 0.0,
+    "pf": 2.4,
+    "foulon": 0.2,
+    "pm": 3.0,
+    "paint": 1.2,
+    "fast": 1.6,
+    "second": 0.0,
+    "min": 9.2,
+    "eff": 3.4,
+    "gmsc": 1.8
+   },
+   "per40": {
+    "pts": 17.4,
+    "reb": 5.2,
+    "ast": 0.9,
+    "stl": 0.0,
+    "blk": 0.0,
+    "to": 1.7
+   },
+   "ts": 63.0,
+   "efg": 60.0,
+   "fg": 46.7,
+   "two": 60.0,
+   "three": 40.0,
+   "ft": 100.0,
+   "usg": 15.7,
+   "astTo": 0.5,
+   "pm": 15,
+   "pm40": 13.1,
+   "on": {
+    "min": 46.0,
+    "pf": 110,
+    "pa": 95,
+    "ortg": 107.2,
+    "drtg": 95.1,
+    "net": 12.1
+   },
+   "off": {
+    "min": 154.0,
+    "ortg": 118.0,
+    "drtg": 94.6,
+    "net": 23.4
+   },
+   "onOff": -11.3,
+   "dd": 0,
+   "td": 0,
+   "high": 8,
+   "zones": {
+    "paint": {
+     "m": 3,
+     "a": 5,
+     "pct": 60.0
+    },
+    "mid": {
+     "m": 0,
+     "a": 0,
+     "pct": null
+    },
+    "corner3": {
+     "m": 2,
+     "a": 3,
+     "pct": 66.7
+    },
+    "above3": {
+     "m": 2,
+     "a": 7,
+     "pct": 28.6
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890471,
+     "date": "2026-09-19",
+     "opponent": "Brno",
+     "venue": "home",
+     "result": "W",
+     "min": 6.8,
+     "pts": 2,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/2",
+     "tp": "0/2",
+     "ft": "2/2",
+     "pm": 4,
+     "eff": 3,
+     "ts": 34.7
+    },
+    {
+     "fibaId": 2890474,
+     "date": "2026-09-23",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 16.9,
+     "pts": 5,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "2/2",
+     "tp": "1/1",
+     "ft": "0/0",
+     "pm": 14,
+     "eff": 5,
+     "ts": 125.0
+    },
+    {
+     "fibaId": 2890484,
+     "date": "2026-09-26",
+     "opponent": "Hradec",
+     "venue": "away",
+     "result": "W",
+     "min": 2.3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/1",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": -4,
+     "eff": -1,
+     "ts": 0.0
+    },
+    {
+     "fibaId": 2892252,
+     "date": "2026-09-30",
+     "opponent": "Písek",
+     "venue": "away",
+     "result": "W",
+     "min": 9.6,
+     "pts": 5,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "2/5",
+     "tp": "1/3",
+     "ft": "0/0",
+     "pm": -1,
+     "eff": 2,
+     "ts": 50.0
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "W",
+     "min": 10.3,
+     "pts": 8,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/5",
+     "tp": "2/3",
+     "ft": "0/0",
+     "pm": 2,
+     "eff": 8,
+     "ts": 80.0
     }
    ]
   },
@@ -8132,211 +9389,6 @@
      "pm": 1,
      "eff": 3,
      "ts": 40.0
-    }
-   ]
-  },
-  {
-   "id": "pardubice/dalibor-vlk",
-   "name": "Dalibor Vlk",
-   "team": "pardubice",
-   "teamName": "BK KVIS Pardubice",
-   "teamLabel": "Pardubice",
-   "shirt": "33",
-   "pos": "",
-   "gp": 4,
-   "gs": 0,
-   "min": 35.6,
-   "totals": {
-    "pts": 12,
-    "fgm": 4,
-    "fga": 10,
-    "tpm": 2,
-    "tpa": 7,
-    "twopm": 2,
-    "twopa": 3,
-    "ftm": 2,
-    "fta": 2,
-    "oreb": 1,
-    "dreb": 3,
-    "reb": 4,
-    "ast": 1,
-    "to": 2,
-    "stl": 0,
-    "blk": 0,
-    "blkr": 0,
-    "pf": 11,
-    "foulon": 1,
-    "pm": 13,
-    "paint": 4,
-    "fast": 5,
-    "second": 0
-   },
-   "perGame": {
-    "pts": 3.0,
-    "fgm": 1.0,
-    "fga": 2.5,
-    "tpm": 0.5,
-    "tpa": 1.8,
-    "twopm": 0.5,
-    "twopa": 0.8,
-    "ftm": 0.5,
-    "fta": 0.5,
-    "oreb": 0.2,
-    "dreb": 0.8,
-    "reb": 1.0,
-    "ast": 0.2,
-    "to": 0.5,
-    "stl": 0.0,
-    "blk": 0.0,
-    "blkr": 0.0,
-    "pf": 2.8,
-    "foulon": 0.2,
-    "pm": 3.2,
-    "paint": 1.0,
-    "fast": 1.2,
-    "second": 0.0,
-    "min": 8.9,
-    "eff": 2.2,
-    "gmsc": 0.6
-   },
-   "per40": {
-    "pts": 13.5,
-    "reb": 4.5,
-    "ast": 1.1,
-    "stl": 0.0,
-    "blk": 0.0,
-    "to": 2.2
-   },
-   "ts": 55.1,
-   "efg": 50.0,
-   "fg": 40.0,
-   "two": 66.7,
-   "three": 28.6,
-   "ft": 100.0,
-   "usg": 14.4,
-   "astTo": 0.5,
-   "pm": 13,
-   "pm40": 14.6,
-   "on": {
-    "min": 35.6,
-    "pf": 79,
-    "pa": 66,
-    "ortg": 97.5,
-    "drtg": 85.8,
-    "net": 11.7
-   },
-   "off": {
-    "min": 124.4,
-    "ortg": 114.3,
-    "drtg": 90.1,
-    "net": 24.3
-   },
-   "onOff": -12.6,
-   "dd": 0,
-   "td": 0,
-   "high": 5,
-   "zones": {
-    "paint": {
-     "m": 2,
-     "a": 3,
-     "pct": 66.7
-    },
-    "mid": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    },
-    "corner3": {
-     "m": 0,
-     "a": 1,
-     "pct": 0.0
-    },
-    "above3": {
-     "m": 2,
-     "a": 6,
-     "pct": 33.3
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2890471,
-     "date": "2026-09-19",
-     "opponent": "Brno",
-     "venue": "home",
-     "result": "W",
-     "min": 6.8,
-     "pts": 2,
-     "reb": 2,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "0/2",
-     "tp": "0/2",
-     "ft": "2/2",
-     "pm": 4,
-     "eff": 3,
-     "ts": 34.7
-    },
-    {
-     "fibaId": 2890474,
-     "date": "2026-09-23",
-     "opponent": "Olomoucko",
-     "venue": "away",
-     "result": "W",
-     "min": 16.9,
-     "pts": 5,
-     "reb": 2,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "2/2",
-     "tp": "1/1",
-     "ft": "0/0",
-     "pm": 14,
-     "eff": 5,
-     "ts": 125.0
-    },
-    {
-     "fibaId": 2890484,
-     "date": "2026-09-26",
-     "opponent": "Hradec",
-     "venue": "away",
-     "result": "W",
-     "min": 2.3,
-     "pts": 0,
-     "reb": 0,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "0/1",
-     "tp": "0/1",
-     "ft": "0/0",
-     "pm": -4,
-     "eff": -1,
-     "ts": 0.0
-    },
-    {
-     "fibaId": 2892252,
-     "date": "2026-09-30",
-     "opponent": "Písek",
-     "venue": "away",
-     "result": "W",
-     "min": 9.6,
-     "pts": 5,
-     "reb": 0,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "2/5",
-     "tp": "1/3",
-     "ft": "0/0",
-     "pm": -1,
-     "eff": 2,
-     "ts": 50.0
     }
    ]
   },
@@ -8580,8 +9632,11 @@
    "away": "NH Ostrava",
    "homeSlug": "pardubice",
    "awaySlug": "ostrava",
-   "status": "live",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 110,
+    "away": 98
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544575",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893126/",

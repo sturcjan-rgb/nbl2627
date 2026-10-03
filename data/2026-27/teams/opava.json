@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-03T16:20:58+00:00",
+ "generatedAt": "2026-10-03T18:11:15+00:00",
  "slug": "opava",
  "name": "BK Opava",
  "label": "Opava",
@@ -8,209 +8,209 @@
  "code": "OPA",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
  "coach": "David Zach",
- "games": 4,
- "minutes": 160.0,
+ "games": 5,
+ "minutes": 200.0,
  "totals": {
-  "pts": 317,
-  "fgm": 112,
-  "fga": 272,
-  "tpm": 39,
-  "tpa": 137,
-  "twopm": 73,
-  "twopa": 135,
-  "ftm": 54,
-  "fta": 86,
-  "oreb": 56,
-  "dreb": 97,
-  "reb": 153,
-  "ast": 79,
-  "to": 62,
-  "stl": 42,
-  "blk": 9,
-  "blkr": 11,
-  "pf": 79,
-  "foulon": 79,
-  "paint": 134,
-  "fast": 46,
-  "second": 52,
-  "bench": 132,
-  "offto": 76
+  "pts": 409,
+  "fgm": 147,
+  "fga": 337,
+  "tpm": 43,
+  "tpa": 153,
+  "twopm": 104,
+  "twopa": 184,
+  "ftm": 72,
+  "fta": 112,
+  "oreb": 64,
+  "dreb": 126,
+  "reb": 190,
+  "ast": 96,
+  "to": 75,
+  "stl": 50,
+  "blk": 11,
+  "blkr": 12,
+  "pf": 95,
+  "foulon": 104,
+  "paint": 194,
+  "fast": 57,
+  "second": 63,
+  "bench": 178,
+  "offto": 108
  },
  "oppTotals": {
-  "pts": 365,
-  "fgm": 131,
-  "fga": 281,
-  "tpm": 38,
-  "tpa": 131,
-  "twopm": 93,
-  "twopa": 150,
-  "ftm": 65,
-  "fta": 87,
-  "oreb": 61,
-  "dreb": 115,
-  "reb": 176,
-  "ast": 74,
-  "to": 65,
-  "stl": 41,
-  "blk": 11,
-  "blkr": 9,
-  "pf": 79,
-  "foulon": 78,
-  "paint": 168,
-  "fast": 49,
-  "second": 68,
-  "bench": 126,
-  "offto": 79
+  "pts": 447,
+  "fgm": 158,
+  "fga": 349,
+  "tpm": 54,
+  "tpa": 169,
+  "twopm": 104,
+  "twopa": 180,
+  "ftm": 77,
+  "fta": 102,
+  "oreb": 72,
+  "dreb": 139,
+  "reb": 211,
+  "ast": 87,
+  "to": 87,
+  "stl": 51,
+  "blk": 12,
+  "blkr": 11,
+  "pf": 104,
+  "foulon": 94,
+  "paint": 190,
+  "fast": 57,
+  "second": 81,
+  "bench": 143,
+  "offto": 86
  },
  "perGame": {
-  "pts": 79.2,
-  "fgm": 28.0,
-  "fga": 68.0,
-  "tpm": 9.8,
-  "tpa": 34.2,
-  "twopm": 18.2,
-  "twopa": 33.8,
-  "ftm": 13.5,
-  "fta": 21.5,
-  "oreb": 14.0,
-  "dreb": 24.2,
-  "reb": 38.2,
-  "ast": 19.8,
-  "to": 15.5,
-  "stl": 10.5,
+  "pts": 81.8,
+  "fgm": 29.4,
+  "fga": 67.4,
+  "tpm": 8.6,
+  "tpa": 30.6,
+  "twopm": 20.8,
+  "twopa": 36.8,
+  "ftm": 14.4,
+  "fta": 22.4,
+  "oreb": 12.8,
+  "dreb": 25.2,
+  "reb": 38.0,
+  "ast": 19.2,
+  "to": 15.0,
+  "stl": 10.0,
   "blk": 2.2,
-  "blkr": 2.8,
-  "pf": 19.8,
-  "foulon": 19.8,
-  "paint": 33.5,
-  "fast": 11.5,
-  "second": 13.0,
-  "bench": 33.0,
-  "offto": 19.0,
-  "ppg": 79.2,
-  "oppg": 91.2,
-  "diff": -12.0
+  "blkr": 2.4,
+  "pf": 19.0,
+  "foulon": 20.8,
+  "paint": 38.8,
+  "fast": 11.4,
+  "second": 12.6,
+  "bench": 35.6,
+  "offto": 21.6,
+  "ppg": 81.8,
+  "oppg": 89.4,
+  "diff": -7.6
  },
  "oppPerGame": {
-  "pts": 91.2,
-  "fgm": 32.8,
-  "fga": 70.2,
-  "tpm": 9.5,
-  "tpa": 32.8,
-  "twopm": 23.2,
-  "twopa": 37.5,
-  "ftm": 16.2,
-  "fta": 21.8,
-  "oreb": 15.2,
-  "dreb": 28.8,
-  "reb": 44.0,
-  "ast": 18.5,
-  "to": 16.2,
+  "pts": 89.4,
+  "fgm": 31.6,
+  "fga": 69.8,
+  "tpm": 10.8,
+  "tpa": 33.8,
+  "twopm": 20.8,
+  "twopa": 36.0,
+  "ftm": 15.4,
+  "fta": 20.4,
+  "oreb": 14.4,
+  "dreb": 27.8,
+  "reb": 42.2,
+  "ast": 17.4,
+  "to": 17.4,
   "stl": 10.2,
-  "blk": 2.8,
+  "blk": 2.4,
   "blkr": 2.2,
-  "pf": 19.8,
-  "foulon": 19.5,
-  "paint": 42.0,
-  "fast": 12.2,
-  "second": 17.0,
-  "bench": 31.5,
-  "offto": 19.8
+  "pf": 20.8,
+  "foulon": 18.8,
+  "paint": 38.0,
+  "fast": 11.4,
+  "second": 16.2,
+  "bench": 28.6,
+  "offto": 17.2
  },
  "adv": {
-  "poss": 315.8,
-  "pace": 79.9,
-  "ortg": 100.4,
-  "drtg": 112.9,
-  "net": -12.5,
-  "efg": 48.3,
-  "ts": 51.2,
-  "tov": 16.7,
-  "orb": 32.7,
-  "drb": 61.4,
-  "ftr": 19.9,
-  "fta_rate": 31.6,
-  "three_par": 50.4,
-  "fg": 41.2,
-  "two": 54.1,
-  "three": 28.5,
-  "ft": 62.8,
-  "ast_pct": 70.5,
-  "ast_to": 1.27,
-  "stl_pct": 13.0,
-  "blk_pct": 6.0,
-  "pts_per_shot": 1.02
+  "poss": 397.3,
+  "pace": 80.6,
+  "ortg": 103.0,
+  "drtg": 109.3,
+  "net": -6.4,
+  "efg": 50.0,
+  "ts": 52.9,
+  "tov": 16.3,
+  "orb": 31.5,
+  "drb": 63.6,
+  "ftr": 21.4,
+  "fta_rate": 33.2,
+  "three_par": 45.4,
+  "fg": 43.6,
+  "two": 56.5,
+  "three": 28.1,
+  "ft": 64.3,
+  "ast_pct": 65.3,
+  "ast_to": 1.28,
+  "stl_pct": 12.2,
+  "blk_pct": 6.1,
+  "pts_per_shot": 1.06
  },
  "oppAdv": {
-  "opp_efg": 53.4,
-  "opp_ts": 57.2,
-  "opp_tov": 16.9,
-  "opp_ftr": 23.1,
-  "opp_three_par": 46.6,
-  "opp_fg": 46.6,
-  "opp_two": 62.0,
-  "opp_three": 29.0,
-  "opp_ft": 74.7
+  "opp_efg": 53.0,
+  "opp_ts": 56.7,
+  "opp_tov": 18.1,
+  "opp_ftr": 22.1,
+  "opp_three_par": 48.4,
+  "opp_fg": 45.3,
+  "opp_two": 57.8,
+  "opp_three": 32.0,
+  "opp_ft": 75.5
  },
  "factors": {
-  "efg": 48.3,
-  "tov": 16.7,
-  "orb": 32.7,
-  "ftr": 19.9,
-  "opp_efg": 53.4,
-  "opp_tov": 16.9,
-  "drb": 61.4,
-  "opp_ftr": 23.1
+  "efg": 50.0,
+  "tov": 16.3,
+  "orb": 31.5,
+  "ftr": 21.4,
+  "opp_efg": 53.0,
+  "opp_tov": 18.1,
+  "drb": 63.6,
+  "opp_ftr": 22.1
  },
  "zones": {
   "paint": {
-   "m": 68,
-   "a": 117,
-   "pct": 58.1,
-   "share": 43.0
+   "m": 99,
+   "a": 164,
+   "pct": 60.4,
+   "share": 48.7
   },
   "mid": {
    "m": 5,
-   "a": 18,
-   "pct": 27.8,
-   "share": 6.6
+   "a": 20,
+   "pct": 25.0,
+   "share": 5.9
   },
   "corner3": {
    "m": 7,
    "a": 29,
    "pct": 24.1,
-   "share": 10.7
+   "share": 8.6
   },
   "above3": {
-   "m": 32,
-   "a": 108,
-   "pct": 29.6,
-   "share": 39.7
+   "m": 36,
+   "a": 124,
+   "pct": 29.0,
+   "share": 36.8
   }
  },
  "oppZones": {
   "paint": {
-   "m": 83,
-   "a": 128,
-   "pct": 64.8,
+   "m": 94,
+   "a": 155,
+   "pct": 60.6,
    "share": null
   },
   "mid": {
    "m": 10,
-   "a": 22,
-   "pct": 45.5,
+   "a": 25,
+   "pct": 40.0,
    "share": null
   },
   "corner3": {
-   "m": 7,
-   "a": 26,
-   "pct": 26.9,
+   "m": 12,
+   "a": 33,
+   "pct": 36.4,
    "share": null
   },
   "above3": {
-   "m": 31,
-   "a": 105,
-   "pct": 29.5,
+   "m": 42,
+   "a": 136,
+   "pct": 30.9,
    "share": null
   }
  },
@@ -223,71 +223,71 @@
    "20+"
   ],
   "pts": [
-   48,
    63,
-   90,
-   61,
-   55
+   81,
+   120,
+   84,
+   61
   ],
   "unassigned": 0,
-  "possessions": 325,
-  "ptsPerPoss": 0.98,
-  "avgSec": 13.8
+  "possessions": 410,
+  "ptsPerPoss": 1.0,
+  "avgSec": 13.6
  },
  "clutch": {
-  "pts": 2,
+  "pts": 4,
   "opp": 3,
-  "fgm": 0,
-  "fga": 5,
+  "fgm": 1,
+  "fga": 6,
   "ftm": 2,
   "fta": 2,
   "to": 0,
-  "games": 1,
-  "w": 0,
+  "games": 2,
+  "w": 1,
   "l": 1,
-  "fgPct": 0.0,
-  "net": -1
+  "fgPct": 16.7,
+  "net": 1
  },
  "quarters": [
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 18.2,
-   "oppg": 25.0,
-   "diff": -6.8,
-   "n": 4
+   "ppg": 19.4,
+   "oppg": 22.6,
+   "diff": -3.2,
+   "n": 5
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 21.0,
-   "oppg": 27.0,
-   "diff": -6.0,
-   "n": 4
+   "ppg": 20.2,
+   "oppg": 27.6,
+   "diff": -7.4,
+   "n": 5
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 23.0,
-   "oppg": 19.0,
+   "ppg": 23.6,
+   "oppg": 19.6,
    "diff": 4.0,
-   "n": 4
+   "n": 5
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 17.0,
-   "oppg": 20.2,
-   "diff": -3.2,
-   "n": 4
+   "ppg": 18.6,
+   "oppg": 19.6,
+   "diff": -1.0,
+   "n": 5
   }
  ],
  "flow": {
-  "biggestLead": 12,
+  "biggestLead": 13,
   "biggestDeficit": 33,
   "biggestRun": 14,
   "biggestRunAllowed": 13,
-  "leadChangesPerGame": 3.5
+  "leadChangesPerGame": 5.6
  },
  "lineups": {
   "fives": [
@@ -317,6 +317,28 @@
     "players": [
      "Elijah Kole Tucker",
      "Ethan Maxwell Chargois",
+     "Jakub Slavík",
+     "Jakub Šiřina",
+     "Marek Vyroubal"
+    ],
+    "min": 10.6,
+    "pf": 28,
+    "pa": 27,
+    "pm": 1,
+    "poss": 20.3,
+    "pF": 21.2,
+    "pA": 19.4,
+    "ortg": 132.1,
+    "drtg": 138.9,
+    "net": -6.8,
+    "efg": 76.5,
+    "oefg": 64.3,
+    "games": 2
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Ethan Maxwell Chargois",
      "Jalen Terence Montgomery",
      "Matěj Svoboda",
      "Radovan Kouřil"
@@ -337,25 +359,25 @@
    },
    {
     "players": [
-     "Elijah Kole Tucker",
-     "Ethan Maxwell Chargois",
-     "Jakub Slavík",
-     "Jakub Šiřina",
-     "Marek Vyroubal"
+     "Jalen Terence Montgomery",
+     "Jan Švandrlík",
+     "Matěj Svoboda",
+     "Radovan Kouřil",
+     "Šimon Puršl"
     ],
-    "min": 8.5,
-    "pf": 20,
+    "min": 8.2,
+    "pf": 13,
     "pa": 22,
-    "pm": -2,
-    "poss": 16.3,
-    "pF": 17.2,
-    "pA": 15.4,
-    "ortg": 116.3,
-    "drtg": 142.5,
-    "net": -26.2,
-    "efg": 69.2,
-    "oefg": 61.1,
-    "games": 1
+    "pm": -9,
+    "poss": 16.2,
+    "pF": 15.4,
+    "pA": 16.9,
+    "ortg": 84.2,
+    "drtg": 130.3,
+    "net": -46.1,
+    "efg": 42.9,
+    "oefg": 62.5,
+    "games": 2
    },
    {
     "players": [
@@ -465,6 +487,28 @@
     "net": 98.1,
     "efg": 62.5,
     "oefg": 33.3,
+    "games": 1
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jalen Terence Montgomery",
+     "Jan Švandrlík",
+     "Kryštof Kavan",
+     "Marek Vyroubal"
+    ],
+    "min": 4.1,
+    "pf": 10,
+    "pa": 8,
+    "pm": 2,
+    "poss": 8.4,
+    "pF": 7.8,
+    "pA": 9.0,
+    "ortg": 128.9,
+    "drtg": 88.9,
+    "net": 40.0,
+    "efg": 50.0,
+    "oefg": 66.7,
     "games": 1
    },
    {
@@ -601,24 +645,24 @@
    },
    {
     "players": [
+     "Jakub Slavík",
      "Jalen Terence Montgomery",
      "Jan Švandrlík",
-     "Matěj Svoboda",
      "Radovan Kouřil",
      "Šimon Puršl"
     ],
-    "min": 3.4,
-    "pf": 6,
-    "pa": 15,
-    "pm": -9,
-    "poss": 6.4,
-    "pF": 5.0,
-    "pA": 7.9,
-    "ortg": 120.0,
-    "drtg": 190.4,
-    "net": -70.4,
+    "min": 3.0,
+    "pf": 9,
+    "pa": 11,
+    "pm": -2,
+    "poss": 6.7,
+    "pF": 7.0,
+    "pA": 6.3,
+    "ortg": 128.6,
+    "drtg": 174.1,
+    "net": -45.5,
     "efg": 75.0,
-    "oefg": 81.2,
+    "oefg": 133.3,
     "games": 1
    },
    {
@@ -733,6 +777,72 @@
    },
    {
     "players": [
+     "Elijah Kole Tucker",
+     "Jalen Terence Montgomery",
+     "Jan Švandrlík",
+     "Matěj Svoboda",
+     "Radovan Kouřil"
+    ],
+    "min": 2.6,
+    "pf": 5,
+    "pa": 8,
+    "pm": -3,
+    "poss": 5.7,
+    "pF": 6.0,
+    "pA": 5.4,
+    "ortg": 83.3,
+    "drtg": 147.1,
+    "net": -63.7,
+    "efg": 41.7,
+    "oefg": 70.0,
+    "games": 2
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Ethan Maxwell Chargois",
+     "Kryštof Kavan",
+     "Marek Vyroubal",
+     "Matěj Svoboda"
+    ],
+    "min": 2.6,
+    "pf": 7,
+    "pa": 5,
+    "pm": 2,
+    "poss": 5.3,
+    "pF": 5.6,
+    "pA": 5.0,
+    "ortg": 124.1,
+    "drtg": 100.0,
+    "net": 24.1,
+    "efg": 66.7,
+    "oefg": 62.5,
+    "games": 1
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Jan Švandrlík",
+     "Marek Vyroubal",
+     "Radovan Kouřil",
+     "Šimon Puršl"
+    ],
+    "min": 2.6,
+    "pf": 10,
+    "pa": 3,
+    "pm": 7,
+    "poss": 5.7,
+    "pF": 6.3,
+    "pA": 5.0,
+    "ortg": 158.2,
+    "drtg": 60.0,
+    "net": 98.2,
+    "efg": 80.0,
+    "oefg": 37.5,
+    "games": 1
+   },
+   {
+    "players": [
      "Ethan Maxwell Chargois",
      "Jakub Šiřina",
      "Marek Vyroubal",
@@ -757,6 +867,25 @@
   "trios": [
    {
     "players": [
+     "Jan Švandrlík",
+     "Matěj Svoboda",
+     "Radovan Kouřil"
+    ],
+    "min": 46.6,
+    "pf": 88,
+    "pa": 102,
+    "pm": -14,
+    "poss": 92.2,
+    "pF": 93.3,
+    "pA": 91.1,
+    "ortg": 94.3,
+    "drtg": 111.9,
+    "net": -17.6,
+    "efg": 48.8,
+    "oefg": 51.8
+   },
+   {
+    "players": [
      "Ethan Maxwell Chargois",
      "Matěj Svoboda",
      "Radovan Kouřil"
@@ -776,22 +905,22 @@
    },
    {
     "players": [
-     "Jan Švandrlík",
+     "Jalen Terence Montgomery",
      "Matěj Svoboda",
      "Radovan Kouřil"
     ],
-    "min": 40.9,
-    "pf": 79,
-    "pa": 90,
-    "pm": -11,
-    "poss": 80.5,
-    "pF": 80.8,
-    "pA": 80.1,
-    "ortg": 97.7,
-    "drtg": 112.3,
-    "net": -14.6,
-    "efg": 50.7,
-    "oefg": 51.4
+    "min": 41.5,
+    "pf": 88,
+    "pa": 100,
+    "pm": -12,
+    "poss": 82.8,
+    "pF": 82.8,
+    "pA": 82.7,
+    "ortg": 106.2,
+    "drtg": 120.9,
+    "net": -14.7,
+    "efg": 51.3,
+    "oefg": 58.6
    },
    {
     "players": [
@@ -799,37 +928,56 @@
      "Jalen Terence Montgomery",
      "Matěj Svoboda"
     ],
-    "min": 36.0,
-    "pf": 75,
-    "pa": 83,
-    "pm": -8,
-    "poss": 70.3,
-    "pF": 69.8,
-    "pA": 70.8,
-    "ortg": 107.4,
-    "drtg": 117.2,
-    "net": -9.8,
-    "efg": 51.5,
-    "oefg": 54.8
+    "min": 40.9,
+    "pf": 84,
+    "pa": 89,
+    "pm": -5,
+    "poss": 79.5,
+    "pF": 77.6,
+    "pA": 81.4,
+    "ortg": 108.2,
+    "drtg": 109.3,
+    "net": -1.0,
+    "efg": 51.4,
+    "oefg": 52.2
    },
    {
     "players": [
      "Jalen Terence Montgomery",
-     "Matěj Svoboda",
+     "Jan Švandrlík",
      "Radovan Kouřil"
     ],
-    "min": 34.3,
+    "min": 38.4,
+    "pf": 85,
+    "pa": 101,
+    "pm": -16,
+    "poss": 79.8,
+    "pF": 79.4,
+    "pA": 80.1,
+    "ortg": 107.1,
+    "drtg": 126.1,
+    "net": -19.0,
+    "efg": 56.6,
+    "oefg": 65.1
+   },
+   {
+    "players": [
+     "Jalen Terence Montgomery",
+     "Jan Švandrlík",
+     "Matěj Svoboda"
+    ],
+    "min": 35.4,
     "pf": 77,
-    "pa": 82,
-    "pm": -5,
-    "poss": 68.5,
-    "pF": 68.4,
-    "pA": 68.7,
-    "ortg": 112.6,
-    "drtg": 119.4,
-    "net": -6.8,
-    "efg": 53.8,
-    "oefg": 57.1
+    "pa": 87,
+    "pm": -10,
+    "poss": 71.4,
+    "pF": 70.5,
+    "pA": 72.2,
+    "ortg": 109.2,
+    "drtg": 120.4,
+    "net": -11.2,
+    "efg": 55.6,
+    "oefg": 58.3
    },
    {
     "players": [
@@ -852,22 +1000,41 @@
    },
    {
     "players": [
-     "Jalen Terence Montgomery",
-     "Jan Švandrlík",
+     "Ethan Maxwell Chargois",
+     "Jakub Šiřina",
+     "Marek Vyroubal"
+    ],
+    "min": 31.5,
+    "pf": 55,
+    "pa": 89,
+    "pm": -34,
+    "poss": 61.5,
+    "pF": 59.7,
+    "pA": 63.4,
+    "ortg": 92.1,
+    "drtg": 140.5,
+    "net": -48.4,
+    "efg": 45.2,
+    "oefg": 60.7
+   },
+   {
+    "players": [
+     "Jakub Šiřina",
+     "Marek Vyroubal",
      "Matěj Svoboda"
     ],
-    "min": 29.0,
-    "pf": 68,
-    "pa": 72,
-    "pm": -4,
-    "poss": 59.2,
-    "pF": 58.1,
-    "pA": 60.2,
-    "ortg": 117.1,
-    "drtg": 119.5,
-    "net": -2.4,
-    "efg": 59.6,
-    "oefg": 58.5
+    "min": 29.2,
+    "pf": 47,
+    "pa": 74,
+    "pm": -27,
+    "poss": 60.1,
+    "pF": 56.8,
+    "pA": 63.5,
+    "ortg": 82.7,
+    "drtg": 116.6,
+    "net": -33.8,
+    "efg": 35.0,
+    "oefg": 56.7
    },
    {
     "players": [
@@ -887,6 +1054,25 @@
     "net": -2.3,
     "efg": 56.4,
     "oefg": 51.0
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jakub Šiřina",
+     "Marek Vyroubal"
+    ],
+    "min": 28.2,
+    "pf": 54,
+    "pa": 73,
+    "pm": -19,
+    "poss": 51.8,
+    "pF": 51.5,
+    "pA": 52.1,
+    "ortg": 104.9,
+    "drtg": 140.2,
+    "net": -35.3,
+    "efg": 51.1,
+    "oefg": 66.3
    },
    {
     "players": [
@@ -928,98 +1114,60 @@
    },
    {
     "players": [
-     "Jalen Terence Montgomery",
-     "Jan Švandrlík",
-     "Radovan Kouřil"
-    ],
-    "min": 27.8,
-    "pf": 63,
-    "pa": 69,
-    "pm": -6,
-    "poss": 57.4,
-    "pF": 57.0,
-    "pA": 57.9,
-    "ortg": 110.6,
-    "drtg": 119.1,
-    "net": -8.5,
-    "efg": 59.6,
-    "oefg": 60.0
-   },
-   {
-    "players": [
-     "Ethan Maxwell Chargois",
-     "Jakub Šiřina",
-     "Marek Vyroubal"
-    ],
-    "min": 27.8,
-    "pf": 44,
-    "pa": 77,
-    "pm": -33,
-    "poss": 53.6,
-    "pF": 51.7,
-    "pA": 55.5,
-    "ortg": 85.1,
-    "drtg": 138.8,
-    "net": -53.7,
-    "efg": 39.1,
-    "oefg": 59.3
-   },
-   {
-    "players": [
-     "Jakub Šiřina",
-     "Marek Vyroubal",
-     "Matěj Svoboda"
-    ],
-    "min": 27.6,
-    "pf": 44,
-    "pa": 67,
-    "pm": -23,
-    "poss": 56.2,
-    "pF": 52.8,
-    "pA": 59.6,
-    "ortg": 83.3,
-    "drtg": 112.4,
-    "net": -29.1,
-    "efg": 33.3,
-    "oefg": 56.2
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Jakub Šiřina",
-     "Marek Vyroubal"
-    ],
-    "min": 26.2,
-    "pf": 46,
-    "pa": 68,
-    "pm": -22,
-    "poss": 47.8,
-    "pF": 47.5,
-    "pA": 48.1,
-    "ortg": 96.9,
-    "drtg": 141.4,
-    "net": -44.5,
-    "efg": 46.3,
-    "oefg": 65.3
-   },
-   {
-    "players": [
      "Jakub Šiřina",
      "Marek Vyroubal",
      "Šimon Puršl"
     ],
-    "min": 25.3,
-    "pf": 57,
-    "pa": 55,
-    "pm": 2,
-    "poss": 57.8,
-    "pF": 56.5,
-    "pA": 59.0,
-    "ortg": 100.9,
-    "drtg": 93.2,
-    "net": 7.8,
-    "efg": 50.0,
-    "oefg": 48.8
+    "min": 26.9,
+    "pf": 60,
+    "pa": 62,
+    "pm": -2,
+    "poss": 61.7,
+    "pF": 60.5,
+    "pA": 62.9,
+    "ortg": 99.2,
+    "drtg": 98.5,
+    "net": 0.7,
+    "efg": 51.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jan Švandrlík",
+     "Radovan Kouřil",
+     "Šimon Puršl"
+    ],
+    "min": 26.1,
+    "pf": 50,
+    "pa": 67,
+    "pm": -17,
+    "poss": 54.2,
+    "pF": 54.6,
+    "pA": 53.8,
+    "ortg": 91.5,
+    "drtg": 124.4,
+    "net": -32.9,
+    "efg": 44.1,
+    "oefg": 64.9
+   },
+   {
+    "players": [
+     "Jan Švandrlík",
+     "Matěj Svoboda",
+     "Šimon Puršl"
+    ],
+    "min": 25.6,
+    "pf": 43,
+    "pa": 59,
+    "pm": -16,
+    "poss": 56.1,
+    "pF": 55.0,
+    "pA": 57.2,
+    "ortg": 78.2,
+    "drtg": 103.2,
+    "net": -25.0,
+    "efg": 38.8,
+    "oefg": 53.3
    },
    {
     "players": [
@@ -1039,6 +1187,44 @@
     "net": -29.7,
     "efg": 36.9,
     "oefg": 60.3
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
+     "Jakub Šiřina",
+     "Matěj Svoboda"
+    ],
+    "min": 24.4,
+    "pf": 35,
+    "pa": 58,
+    "pm": -23,
+    "poss": 47.8,
+    "pF": 44.8,
+    "pA": 50.7,
+    "ortg": 78.1,
+    "drtg": 114.4,
+    "net": -36.3,
+    "efg": 32.9,
+    "oefg": 55.8
+   },
+   {
+    "players": [
+     "Matěj Svoboda",
+     "Radovan Kouřil",
+     "Šimon Puršl"
+    ],
+    "min": 23.7,
+    "pf": 45,
+    "pa": 48,
+    "pm": -3,
+    "poss": 48.7,
+    "pF": 48.8,
+    "pA": 48.6,
+    "ortg": 92.3,
+    "drtg": 98.7,
+    "net": -6.4,
+    "efg": 43.8,
+    "oefg": 56.1
    },
    {
     "players": [
@@ -1081,21 +1267,78 @@
    {
     "players": [
      "Jan Švandrlík",
-     "Matěj Svoboda",
+     "Marek Vyroubal",
      "Šimon Puršl"
     ],
-    "min": 20.3,
-    "pf": 36,
-    "pa": 52,
+    "min": 23.1,
+    "pf": 56,
+    "pa": 39,
+    "pm": 17,
+    "poss": 54.2,
+    "pF": 53.9,
+    "pA": 54.4,
+    "ortg": 103.9,
+    "drtg": 71.7,
+    "net": 32.2,
+    "efg": 55.1,
+    "oefg": 34.5
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
+     "Jakub Šiřina",
+     "Jalen Terence Montgomery"
+    ],
+    "min": 21.2,
+    "pf": 39,
+    "pa": 45,
+    "pm": -6,
+    "poss": 39.2,
+    "pF": 37.0,
+    "pA": 41.3,
+    "ortg": 105.3,
+    "drtg": 109.0,
+    "net": -3.7,
+    "efg": 40.0,
+    "oefg": 52.8
+   },
+   {
+    "players": [
+     "Jalen Terence Montgomery",
+     "Jan Švandrlík",
+     "Šimon Puršl"
+    ],
+    "min": 21.1,
+    "pf": 40,
+    "pa": 58,
+    "pm": -18,
+    "poss": 45.0,
+    "pF": 43.2,
+    "pA": 46.8,
+    "ortg": 92.6,
+    "drtg": 123.8,
+    "net": -31.2,
+    "efg": 54.4,
+    "oefg": 59.8
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Ethan Maxwell Chargois",
+     "Matěj Svoboda"
+    ],
+    "min": 20.6,
+    "pf": 37,
+    "pa": 53,
     "pm": -16,
-    "poss": 44.8,
-    "pF": 43.5,
-    "pA": 46.2,
-    "ortg": 82.7,
-    "drtg": 112.7,
-    "net": -29.9,
-    "efg": 41.0,
-    "oefg": 58.3
+    "poss": 42.3,
+    "pF": 39.3,
+    "pA": 45.3,
+    "ortg": 94.2,
+    "drtg": 117.0,
+    "net": -22.9,
+    "efg": 41.7,
+    "oefg": 59.5
    },
    {
     "players": [
@@ -1103,18 +1346,37 @@
      "Marek Vyroubal",
      "Matěj Svoboda"
     ],
-    "min": 20.0,
+    "min": 20.5,
     "pf": 40,
     "pa": 45,
     "pm": -5,
-    "poss": 41.6,
-    "pF": 40.8,
-    "pA": 42.3,
-    "ortg": 97.9,
-    "drtg": 106.4,
-    "net": -8.5,
+    "poss": 43.1,
+    "pF": 41.8,
+    "pA": 44.3,
+    "ortg": 95.6,
+    "drtg": 101.6,
+    "net": -6.0,
     "efg": 47.1,
-    "oefg": 48.6
+    "oefg": 46.1
+   },
+   {
+    "players": [
+     "Jakub Šiřina",
+     "Matěj Svoboda",
+     "Šimon Puršl"
+    ],
+    "min": 20.1,
+    "pf": 40,
+    "pa": 36,
+    "pm": 4,
+    "poss": 42.3,
+    "pF": 41.9,
+    "pA": 42.7,
+    "ortg": 95.4,
+    "drtg": 84.3,
+    "net": 11.2,
+    "efg": 43.9,
+    "oefg": 35.9
    },
    {
     "players": [
@@ -1157,97 +1419,230 @@
    {
     "players": [
      "Elijah Kole Tucker",
-     "Matěj Svoboda",
-     "Radovan Kouřil"
-    ],
-    "min": 18.4,
-    "pf": 32,
-    "pa": 49,
-    "pm": -17,
-    "poss": 36.0,
-    "pF": 35.2,
-    "pA": 36.7,
-    "ortg": 90.9,
-    "drtg": 133.4,
-    "net": -42.5,
-    "efg": 43.9,
-    "oefg": 55.9
-   },
-   {
-    "players": [
-     "Jan Švandrlík",
      "Marek Vyroubal",
-     "Šimon Puršl"
-    ],
-    "min": 18.4,
-    "pf": 42,
-    "pa": 32,
-    "pm": 10,
-    "poss": 42.6,
-    "pF": 42.7,
-    "pA": 42.5,
-    "ortg": 98.3,
-    "drtg": 75.3,
-    "net": 23.1,
-    "efg": 51.6,
-    "oefg": 36.4
-   },
-   {
-    "players": [
-     "Ethan Maxwell Chargois",
-     "Jakub Šiřina",
      "Matěj Svoboda"
     ],
-    "min": 18.0,
-    "pf": 23,
-    "pa": 45,
+    "min": 19.6,
+    "pf": 31,
+    "pa": 53,
     "pm": -22,
-    "poss": 35.1,
-    "pF": 33.1,
-    "pA": 37.2,
-    "ortg": 69.5,
-    "drtg": 121.0,
-    "net": -51.4,
-    "efg": 27.3,
-    "oefg": 58.6
-   },
-   {
-    "players": [
-     "Matěj Svoboda",
-     "Radovan Kouřil",
-     "Šimon Puršl"
-    ],
-    "min": 17.5,
-    "pf": 36,
-    "pa": 35,
-    "pm": 1,
-    "poss": 36.5,
-    "pF": 36.3,
-    "pA": 36.6,
-    "ortg": 99.1,
-    "drtg": 95.5,
-    "net": 3.6,
-    "efg": 47.2,
-    "oefg": 55.0
+    "poss": 36.1,
+    "pF": 34.6,
+    "pA": 37.6,
+    "ortg": 89.6,
+    "drtg": 140.8,
+    "net": -51.2,
+    "efg": 39.3,
+    "oefg": 64.5
    },
    {
     "players": [
      "Elijah Kole Tucker",
+     "Matěj Svoboda",
+     "Radovan Kouřil"
+    ],
+    "min": 19.3,
+    "pf": 34,
+    "pa": 54,
+    "pm": -20,
+    "poss": 38.0,
+    "pF": 37.2,
+    "pA": 38.7,
+    "ortg": 91.4,
+    "drtg": 139.5,
+    "net": -48.1,
+    "efg": 45.6,
+    "oefg": 58.1
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jakub Šiřina",
+     "Matěj Svoboda"
+    ],
+    "min": 19.1,
+    "pf": 32,
+    "pa": 40,
+    "pm": -8,
+    "poss": 35.3,
+    "pF": 33.4,
+    "pA": 37.2,
+    "ortg": 95.8,
+    "drtg": 107.6,
+    "net": -11.8,
+    "efg": 39.1,
+    "oefg": 55.4
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Ethan Maxwell Chargois",
+     "Marek Vyroubal"
+    ],
+    "min": 18.7,
+    "pf": 39,
+    "pa": 50,
+    "pm": -11,
+    "poss": 38.1,
+    "pF": 36.8,
+    "pA": 39.3,
+    "ortg": 105.9,
+    "drtg": 127.2,
+    "net": -21.3,
+    "efg": 60.7,
+    "oefg": 61.5
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jan Švandrlík",
+     "Marek Vyroubal"
+    ],
+    "min": 18.6,
+    "pf": 38,
+    "pa": 43,
+    "pm": -5,
+    "poss": 34.9,
+    "pF": 34.0,
+    "pA": 35.8,
+    "ortg": 111.9,
+    "drtg": 120.2,
+    "net": -8.3,
+    "efg": 51.7,
+    "oefg": 60.3
+   },
+   {
+    "players": [
+     "Jalen Terence Montgomery",
+     "Radovan Kouřil",
+     "Šimon Puršl"
+    ],
+    "min": 18.6,
+    "pf": 37,
+    "pa": 59,
+    "pm": -22,
+    "poss": 38.5,
+    "pF": 38.1,
+    "pA": 39.0,
+    "ortg": 97.2,
+    "drtg": 151.4,
+    "net": -54.3,
+    "efg": 48.5,
+    "oefg": 75.0
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Ethan Maxwell Chargois",
+     "Jakub Šiřina"
+    ],
+    "min": 18.2,
+    "pf": 39,
+    "pa": 44,
+    "pm": -5,
+    "poss": 35.6,
+    "pF": 34.1,
+    "pA": 37.2,
+    "ortg": 114.4,
+    "drtg": 118.3,
+    "net": -3.8,
+    "efg": 54.7,
+    "oefg": 63.6
+   },
+   {
+    "players": [
+     "Marek Vyroubal",
+     "Matěj Svoboda",
+     "Šimon Puršl"
+    ],
+    "min": 17.9,
+    "pf": 40,
+    "pa": 33,
+    "pm": 7,
+    "poss": 41.4,
+    "pF": 39.8,
+    "pA": 43.0,
+    "ortg": 100.4,
+    "drtg": 76.8,
+    "net": 23.6,
+    "efg": 51.6,
+    "oefg": 37.5
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jalen Terence Montgomery",
+     "Matěj Svoboda"
+    ],
+    "min": 17.1,
+    "pf": 33,
+    "pa": 41,
+    "pm": -8,
+    "poss": 33.7,
+    "pF": 32.6,
+    "pA": 34.7,
+    "ortg": 101.1,
+    "drtg": 118.1,
+    "net": -17.0,
+    "efg": 45.3,
+    "oefg": 55.4
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
      "Marek Vyroubal",
      "Matěj Svoboda"
     ],
-    "min": 17.0,
+    "min": 16.9,
     "pf": 24,
-    "pa": 48,
-    "pm": -24,
-    "poss": 30.8,
-    "pF": 29.0,
-    "pA": 32.6,
-    "ortg": 82.9,
-    "drtg": 147.1,
-    "net": -64.2,
+    "pa": 45,
+    "pm": -21,
+    "poss": 34.5,
+    "pF": 32.4,
+    "pA": 36.5,
+    "ortg": 74.1,
+    "drtg": 123.2,
+    "net": -49.1,
     "efg": 36.0,
-    "oefg": 64.7
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jakub Šiřina",
+     "Jalen Terence Montgomery",
+     "Matěj Svoboda"
+    ],
+    "min": 16.9,
+    "pf": 35,
+    "pa": 32,
+    "pm": 3,
+    "poss": 32.3,
+    "pF": 31.0,
+    "pA": 33.7,
+    "ortg": 113.0,
+    "drtg": 94.9,
+    "net": 18.1,
+    "efg": 53.7,
+    "oefg": 41.1
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jalen Terence Montgomery",
+     "Radovan Kouřil"
+    ],
+    "min": 16.5,
+    "pf": 32,
+    "pa": 43,
+    "pm": -11,
+    "poss": 31.8,
+    "pF": 30.6,
+    "pA": 33.0,
+    "ortg": 104.4,
+    "drtg": 130.5,
+    "net": -26.0,
+    "efg": 46.7,
+    "oefg": 60.0
    },
    {
     "players": [
@@ -1270,98 +1665,79 @@
    },
    {
     "players": [
-     "Jakub Šiřina",
-     "Matěj Svoboda",
-     "Šimon Puršl"
+     "Ethan Maxwell Chargois",
+     "Jakub Slavík",
+     "Jakub Šiřina"
     ],
     "min": 16.1,
-    "pf": 34,
-    "pa": 25,
+    "pf": 42,
+    "pa": 33,
     "pm": 9,
-    "poss": 34.0,
-    "pF": 34.0,
-    "pA": 34.0,
-    "ortg": 99.9,
-    "drtg": 73.6,
-    "net": 26.3,
-    "efg": 41.4,
-    "oefg": 32.0
-   },
-   {
-    "players": [
-     "Jan Švandrlík",
-     "Radovan Kouřil",
-     "Šimon Puršl"
-    ],
-    "min": 15.8,
-    "pf": 24,
-    "pa": 46,
-    "pm": -22,
-    "poss": 32.2,
-    "pF": 30.9,
-    "pA": 33.5,
-    "ortg": 77.7,
-    "drtg": 137.2,
-    "net": -59.5,
-    "efg": 36.7,
-    "oefg": 67.2
+    "poss": 31.4,
+    "pF": 31.5,
+    "pA": 31.2,
+    "ortg": 133.2,
+    "drtg": 105.8,
+    "net": 27.5,
+    "efg": 67.9,
+    "oefg": 50.0
    },
    {
     "players": [
      "Elijah Kole Tucker",
-     "Ethan Maxwell Chargois",
-     "Matěj Svoboda"
+     "Jakub Slavík",
+     "Jakub Šiřina"
     ],
-    "min": 15.7,
-    "pf": 24,
-    "pa": 46,
-    "pm": -22,
-    "poss": 32.6,
-    "pF": 29.8,
-    "pA": 35.5,
-    "ortg": 80.6,
-    "drtg": 129.5,
-    "net": -48.9,
-    "efg": 37.9,
-    "oefg": 60.9
-   },
-   {
-    "players": [
-     "Marek Vyroubal",
-     "Matěj Svoboda",
-     "Šimon Puršl"
-    ],
-    "min": 15.7,
-    "pf": 37,
-    "pa": 26,
-    "pm": 11,
-    "poss": 35.5,
-    "pF": 34.8,
-    "pA": 36.1,
-    "ortg": 106.2,
-    "drtg": 72.1,
-    "net": 34.1,
-    "efg": 50.0,
-    "oefg": 38.0
+    "min": 15.2,
+    "pf": 36,
+    "pa": 32,
+    "pm": 4,
+    "poss": 28.3,
+    "pF": 28.2,
+    "pA": 28.4,
+    "ortg": 127.7,
+    "drtg": 112.5,
+    "net": 15.1,
+    "efg": 73.9,
+    "oefg": 55.2
    },
    {
     "players": [
      "Elijah Kole Tucker",
-     "Jakub Šiřina",
-     "Matěj Svoboda"
+     "Jakub Slavík",
+     "Marek Vyroubal"
     ],
     "min": 14.9,
-    "pf": 23,
-    "pa": 38,
-    "pm": -15,
-    "poss": 28.0,
-    "pF": 26.5,
-    "pA": 29.4,
-    "ortg": 86.7,
-    "drtg": 129.3,
-    "net": -42.5,
-    "efg": 34.6,
-    "oefg": 64.6
+    "pf": 36,
+    "pa": 33,
+    "pm": 3,
+    "poss": 30.3,
+    "pF": 30.2,
+    "pA": 30.4,
+    "ortg": 119.2,
+    "drtg": 108.4,
+    "net": 10.8,
+    "efg": 68.0,
+    "oefg": 53.2
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Jakub Šiřina",
+     "Marek Vyroubal"
+    ],
+    "min": 14.8,
+    "pf": 39,
+    "pa": 34,
+    "pm": 5,
+    "poss": 28.7,
+    "pF": 28.2,
+    "pA": 29.2,
+    "ortg": 138.3,
+    "drtg": 116.4,
+    "net": 21.9,
+    "efg": 77.1,
+    "oefg": 55.6
    },
    {
     "players": [
@@ -1384,22 +1760,60 @@
    },
    {
     "players": [
-     "Ethan Maxwell Chargois",
-     "Jakub Šiřina",
-     "Jalen Terence Montgomery"
+     "Jalen Terence Montgomery",
+     "Jan Švandrlík",
+     "Marek Vyroubal"
     ],
-    "min": 14.7,
+    "min": 14.6,
+    "pf": 28,
+    "pa": 28,
+    "pm": 0,
+    "poss": 29.2,
+    "pF": 29.3,
+    "pA": 29.2,
+    "ortg": 95.6,
+    "drtg": 95.9,
+    "net": -0.3,
+    "efg": 42.9,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jan Švandrlík",
+     "Matěj Svoboda"
+    ],
+    "min": 14.4,
     "pf": 26,
-    "pa": 39,
-    "pm": -13,
-    "poss": 27.3,
-    "pF": 26.0,
-    "pA": 28.6,
-    "ortg": 100.2,
-    "drtg": 136.2,
-    "net": -36.0,
-    "efg": 38.5,
-    "oefg": 62.1
+    "pa": 41,
+    "pm": -15,
+    "poss": 26.6,
+    "pF": 26.3,
+    "pA": 26.8,
+    "ortg": 98.8,
+    "drtg": 152.8,
+    "net": -54.0,
+    "efg": 50.0,
+    "oefg": 66.0
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
+     "Jakub Slavík",
+     "Marek Vyroubal"
+    ],
+    "min": 14.0,
+    "pf": 40,
+    "pa": 31,
+    "pm": 9,
+    "poss": 27.9,
+    "pF": 28.6,
+    "pA": 27.2,
+    "ortg": 139.7,
+    "drtg": 114.0,
+    "net": 25.7,
+    "efg": 77.1,
+    "oefg": 54.0
    },
    {
     "players": [
@@ -1418,44 +1832,6 @@
     "drtg": 114.0,
     "net": -18.9,
     "efg": 47.6,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Ethan Maxwell Chargois",
-     "Jakub Šiřina"
-    ],
-    "min": 13.8,
-    "pf": 25,
-    "pa": 37,
-    "pm": -12,
-    "poss": 27.3,
-    "pF": 26.2,
-    "pA": 28.4,
-    "ortg": 95.4,
-    "drtg": 130.1,
-    "net": -34.7,
-    "efg": 47.9,
-    "oefg": 63.8
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Jalen Terence Montgomery",
-     "Radovan Kouřil"
-    ],
-    "min": 13.6,
-    "pf": 26,
-    "pa": 29,
-    "pm": -3,
-    "poss": 25.9,
-    "pF": 25.6,
-    "pA": 26.1,
-    "ortg": 101.4,
-    "drtg": 111.2,
-    "net": -9.8,
-    "efg": 44.0,
     "oefg": 50.0
    },
    {
@@ -1479,117 +1855,117 @@
    },
    {
     "players": [
-     "Elijah Kole Tucker",
-     "Ethan Maxwell Chargois",
-     "Marek Vyroubal"
+     "Jan Švandrlík",
+     "Kryštof Kavan",
+     "Matěj Svoboda"
+    ],
+    "min": 13.4,
+    "pf": 20,
+    "pa": 33,
+    "pm": -13,
+    "poss": 26.6,
+    "pF": 26.6,
+    "pA": 26.6,
+    "ortg": 75.1,
+    "drtg": 123.9,
+    "net": -48.8,
+    "efg": 40.9,
+    "oefg": 59.6
+   },
+   {
+    "players": [
+     "Jalen Terence Montgomery",
+     "Matěj Svoboda",
+     "Šimon Puršl"
     ],
     "min": 13.2,
-    "pf": 22,
-    "pa": 40,
-    "pm": -18,
-    "poss": 26.3,
-    "pF": 25.2,
-    "pA": 27.3,
-    "ortg": 87.3,
-    "drtg": 146.4,
-    "net": -59.1,
-    "efg": 50.0,
-    "oefg": 63.3
-   },
-   {
-    "players": [
-     "Jakub Slavík",
-     "Jakub Šiřina",
-     "Marek Vyroubal"
-    ],
-    "min": 12.8,
-    "pf": 31,
-    "pa": 29,
-    "pm": 2,
-    "poss": 24.7,
-    "pF": 24.2,
-    "pA": 25.2,
-    "ortg": 128.1,
-    "drtg": 115.1,
-    "net": 13.0,
-    "efg": 72.5,
-    "oefg": 52.1
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Jan Švandrlík",
-     "Matěj Svoboda"
-    ],
-    "min": 12.6,
-    "pf": 23,
-    "pa": 33,
-    "pm": -10,
-    "poss": 23.6,
-    "pF": 23.4,
-    "pA": 23.8,
-    "ortg": 98.1,
-    "drtg": 138.4,
-    "net": -40.3,
-    "efg": 47.8,
-    "oefg": 62.5
-   },
-   {
-    "players": [
-     "Ethan Maxwell Chargois",
-     "Marek Vyroubal",
-     "Matěj Svoboda"
-    ],
-    "min": 12.6,
-    "pf": 14,
-    "pa": 33,
-    "pm": -19,
-    "poss": 24.7,
-    "pF": 22.8,
-    "pA": 26.6,
-    "ortg": 61.5,
-    "drtg": 123.9,
-    "net": -62.4,
-    "efg": 27.5,
-    "oefg": 48.2
-   },
-   {
-    "players": [
-     "Ethan Maxwell Chargois",
-     "Jakub Slavík",
-     "Jakub Šiřina"
-    ],
-    "min": 12.3,
-    "pf": 30,
-    "pa": 28,
-    "pm": 2,
-    "poss": 24.2,
-    "pF": 24.2,
-    "pA": 24.2,
-    "ortg": 124.0,
-    "drtg": 115.7,
-    "net": 8.3,
-    "efg": 66.7,
-    "oefg": 52.2
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Jan Švandrlík",
-     "Marek Vyroubal"
-    ],
-    "min": 12.1,
-    "pf": 24,
+    "pf": 21,
     "pa": 32,
+    "pm": -11,
+    "poss": 27.0,
+    "pF": 25.2,
+    "pA": 28.8,
+    "ortg": 83.3,
+    "drtg": 111.3,
+    "net": -27.9,
+    "efg": 42.9,
+    "oefg": 53.8
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Ethan Maxwell Chargois",
+     "Jakub Slavík"
+    ],
+    "min": 13.1,
+    "pf": 33,
+    "pa": 29,
+    "pm": 4,
+    "poss": 26.3,
+    "pF": 26.2,
+    "pA": 26.4,
+    "ortg": 126.0,
+    "drtg": 109.7,
+    "net": 16.3,
+    "efg": 73.8,
+    "oefg": 55.8
+   },
+   {
+    "players": [
+     "Jakub Šiřina",
+     "Jalen Terence Montgomery",
+     "Šimon Puršl"
+    ],
+    "min": 13.0,
+    "pf": 22,
+    "pa": 23,
+    "pm": -1,
+    "poss": 27.4,
+    "pF": 27.0,
+    "pA": 27.8,
+    "ortg": 81.6,
+    "drtg": 82.9,
+    "net": -1.3,
+    "efg": 47.2,
+    "oefg": 37.0
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jalen Terence Montgomery",
+     "Jan Švandrlík"
+    ],
+    "min": 12.6,
+    "pf": 26,
+    "pa": 34,
     "pm": -8,
-    "poss": 20.5,
-    "pF": 20.2,
-    "pA": 20.8,
-    "ortg": 118.8,
-    "drtg": 154.1,
-    "net": -35.3,
-    "efg": 58.8,
-    "oefg": 68.2
+    "poss": 23.9,
+    "pF": 22.5,
+    "pA": 25.2,
+    "ortg": 115.5,
+    "drtg": 134.9,
+    "net": -19.5,
+    "efg": 47.6,
+    "oefg": 71.4
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Ethan Maxwell Chargois",
+     "Jalen Terence Montgomery"
+    ],
+    "min": 12.5,
+    "pf": 27,
+    "pa": 30,
+    "pm": -3,
+    "poss": 25.0,
+    "pF": 23.6,
+    "pA": 26.4,
+    "ortg": 114.2,
+    "drtg": 113.6,
+    "net": 0.6,
+    "efg": 46.0,
+    "oefg": 60.5
    },
    {
     "players": [
@@ -1612,60 +1988,22 @@
    },
    {
     "players": [
-     "Jan Švandrlík",
      "Kryštof Kavan",
-     "Matěj Svoboda"
-    ],
-    "min": 12.1,
-    "pf": 19,
-    "pa": 30,
-    "pm": -11,
-    "poss": 24.2,
-    "pF": 24.8,
-    "pA": 23.6,
-    "ortg": 76.7,
-    "drtg": 126.9,
-    "net": -50.2,
-    "efg": 40.9,
-    "oefg": 63.6
-   },
-   {
-    "players": [
-     "Jalen Terence Montgomery",
-     "Jan Švandrlík",
+     "Matěj Svoboda",
      "Šimon Puršl"
     ],
-    "min": 11.7,
-    "pf": 20,
-    "pa": 36,
-    "pm": -16,
-    "poss": 24.3,
-    "pF": 21.9,
-    "pA": 26.6,
-    "ortg": 91.4,
-    "drtg": 135.1,
-    "net": -43.7,
-    "efg": 62.5,
-    "oefg": 59.3
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Jalen Terence Montgomery",
-     "Matěj Svoboda"
-    ],
     "min": 11.3,
-    "pf": 22,
-    "pa": 31,
-    "pm": -9,
-    "poss": 23.9,
-    "pF": 23.8,
-    "pA": 24.0,
-    "ortg": 92.6,
-    "drtg": 129.4,
-    "net": -36.8,
-    "efg": 40.0,
-    "oefg": 60.5
+    "pf": 18,
+    "pa": 19,
+    "pm": -1,
+    "poss": 22.6,
+    "pF": 23.6,
+    "pA": 21.6,
+    "ortg": 76.1,
+    "drtg": 87.8,
+    "net": -11.7,
+    "efg": 31.8,
+    "oefg": 44.7
    },
    {
     "players": [
@@ -1746,21 +2084,21 @@
    {
     "players": [
      "Elijah Kole Tucker",
-     "Jakub Slavík",
-     "Jakub Šiřina"
+     "Jan Švandrlík",
+     "Radovan Kouřil"
     ],
-    "min": 11.2,
-    "pf": 25,
-    "pa": 27,
-    "pm": -2,
-    "poss": 21.3,
-    "pF": 21.2,
-    "pA": 21.4,
-    "ortg": 117.9,
-    "drtg": 125.9,
-    "net": -8.0,
-    "efg": 67.6,
-    "oefg": 58.7
+    "min": 11.1,
+    "pf": 19,
+    "pa": 30,
+    "pm": -11,
+    "poss": 20.2,
+    "pF": 20.3,
+    "pA": 20.1,
+    "ortg": 93.5,
+    "drtg": 149.4,
+    "net": -55.9,
+    "efg": 44.4,
+    "oefg": 62.5
    },
    {
     "players": [
@@ -1821,6 +2159,25 @@
    },
    {
     "players": [
+     "Marek Vyroubal",
+     "Radovan Kouřil",
+     "Šimon Puršl"
+    ],
+    "min": 10.9,
+    "pf": 32,
+    "pa": 14,
+    "pm": 18,
+    "poss": 23.6,
+    "pF": 25.4,
+    "pA": 21.9,
+    "ortg": 126.0,
+    "drtg": 64.0,
+    "net": 62.0,
+    "efg": 63.2,
+    "oefg": 31.6
+   },
+   {
+    "players": [
      "Elijah Kole Tucker",
      "Jakub Šiřina",
      "Jan Švandrlík"
@@ -1840,98 +2197,41 @@
    },
    {
     "players": [
-     "Kryštof Kavan",
-     "Matěj Svoboda",
-     "Šimon Puršl"
+     "Jan Švandrlík",
+     "Marek Vyroubal",
+     "Radovan Kouřil"
     ],
     "min": 10.8,
-    "pf": 18,
-    "pa": 19,
-    "pm": -1,
-    "poss": 21.1,
-    "pF": 22.6,
-    "pA": 19.6,
-    "ortg": 79.5,
-    "drtg": 96.7,
-    "net": -17.2,
-    "efg": 31.8,
-    "oefg": 50.0
+    "pf": 26,
+    "pa": 15,
+    "pm": 11,
+    "poss": 20.2,
+    "pF": 22.4,
+    "pA": 18.0,
+    "ortg": 116.1,
+    "drtg": 83.3,
+    "net": 32.7,
+    "efg": 50.0,
+    "oefg": 35.7
    },
    {
     "players": [
-     "Ethan Maxwell Chargois",
-     "Jakub Slavík",
+     "Elijah Kole Tucker",
+     "Kryštof Kavan",
      "Marek Vyroubal"
     ],
-    "min": 10.7,
-    "pf": 27,
-    "pa": 26,
-    "pm": 1,
-    "poss": 20.7,
-    "pF": 21.2,
-    "pA": 20.2,
-    "ortg": 127.4,
-    "drtg": 128.7,
-    "net": -1.4,
-    "efg": 69.4,
-    "oefg": 55.0
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Ethan Maxwell Chargois",
-     "Jalen Terence Montgomery"
-    ],
-    "min": 10.2,
-    "pf": 21,
-    "pa": 28,
-    "pm": -7,
-    "poss": 20.7,
-    "pF": 19.8,
-    "pA": 21.6,
-    "ortg": 106.3,
-    "drtg": 129.4,
-    "net": -23.1,
-    "efg": 45.2,
-    "oefg": 63.9
-   },
-   {
-    "players": [
-     "Jakub Šiřina",
-     "Jalen Terence Montgomery",
-     "Matěj Svoboda"
-    ],
-    "min": 10.2,
+    "min": 9.9,
     "pf": 23,
-    "pa": 26,
-    "pm": -3,
-    "poss": 20.6,
-    "pF": 20.2,
-    "pA": 21.1,
-    "ortg": 113.9,
-    "drtg": 123.3,
-    "net": -9.5,
-    "efg": 52.6,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Ethan Maxwell Chargois",
-     "Jakub Slavík"
-    ],
-    "min": 10.2,
-    "pf": 23,
-    "pa": 24,
-    "pm": -1,
-    "poss": 19.8,
-    "pF": 20.2,
-    "pA": 19.4,
-    "ortg": 113.9,
-    "drtg": 123.5,
-    "net": -9.6,
-    "efg": 65.6,
-    "oefg": 57.1
+    "pa": 16,
+    "pm": 7,
+    "poss": 22.2,
+    "pF": 21.4,
+    "pA": 23.0,
+    "ortg": 107.5,
+    "drtg": 69.6,
+    "net": 37.9,
+    "efg": 50.0,
+    "oefg": 44.4
    },
    {
     "players": [
@@ -1973,41 +2273,22 @@
    },
    {
     "players": [
-     "Elijah Kole Tucker",
-     "Jakub Slavík",
-     "Marek Vyroubal"
-    ],
-    "min": 9.6,
-    "pf": 22,
-    "pa": 25,
-    "pm": -3,
-    "poss": 17.8,
-    "pF": 18.2,
-    "pA": 17.4,
-    "ortg": 120.9,
-    "drtg": 143.3,
-    "net": -22.5,
-    "efg": 71.4,
-    "oefg": 62.5
-   },
-   {
-    "players": [
      "Jalen Terence Montgomery",
-     "Radovan Kouřil",
+     "Marek Vyroubal",
      "Šimon Puršl"
     ],
-    "min": 9.4,
-    "pf": 19,
-    "pa": 35,
-    "pm": -16,
-    "poss": 19.6,
-    "pF": 18.6,
-    "pA": 20.6,
-    "ortg": 101.9,
-    "drtg": 169.6,
-    "net": -67.6,
-    "efg": 50.0,
-    "oefg": 75.0
+    "min": 9.6,
+    "pf": 20,
+    "pa": 19,
+    "pm": 1,
+    "poss": 23.1,
+    "pF": 23.5,
+    "pA": 22.8,
+    "ortg": 85.0,
+    "drtg": 83.5,
+    "net": 1.6,
+    "efg": 46.4,
+    "oefg": 35.7
    },
    {
     "players": [
@@ -2049,22 +2330,22 @@
    },
    {
     "players": [
-     "Jakub Šiřina",
-     "Jalen Terence Montgomery",
-     "Šimon Puršl"
+     "Jakub Slavík",
+     "Jan Švandrlík",
+     "Marek Vyroubal"
     ],
     "min": 8.8,
-    "pf": 15,
-    "pa": 19,
-    "pm": -4,
-    "poss": 19.8,
-    "pF": 19.8,
-    "pA": 19.9,
-    "ortg": 75.9,
-    "drtg": 95.6,
-    "net": -19.7,
-    "efg": 50.0,
-    "oefg": 42.9
+    "pf": 22,
+    "pa": 13,
+    "pm": 9,
+    "poss": 20.0,
+    "pF": 19.2,
+    "pA": 20.9,
+    "ortg": 114.6,
+    "drtg": 62.3,
+    "net": 52.3,
+    "efg": 60.0,
+    "oefg": 32.4
    },
    {
     "players": [
@@ -2087,25 +2368,6 @@
    },
    {
     "players": [
-     "Jalen Terence Montgomery",
-     "Jan Švandrlík",
-     "Marek Vyroubal"
-    ],
-    "min": 8.8,
-    "pf": 14,
-    "pa": 16,
-    "pm": -2,
-    "poss": 16.5,
-    "pF": 17.6,
-    "pA": 15.3,
-    "ortg": 79.4,
-    "drtg": 104.4,
-    "net": -25.1,
-    "efg": 37.5,
-    "oefg": 46.9
-   },
-   {
-    "players": [
      "Ethan Maxwell Chargois",
      "Marek Vyroubal",
      "Radovan Kouřil"
@@ -2125,22 +2387,60 @@
    },
    {
     "players": [
-     "Marek Vyroubal",
-     "Radovan Kouřil",
+     "Ethan Maxwell Chargois",
+     "Jakub Šiřina",
      "Šimon Puršl"
     ],
-    "min": 8.3,
-    "pf": 22,
-    "pa": 11,
-    "pm": 11,
-    "poss": 18.0,
-    "pF": 19.1,
-    "pA": 16.9,
-    "ortg": 115.3,
-    "drtg": 65.2,
-    "net": 50.1,
-    "efg": 57.1,
-    "oefg": 30.0
+    "min": 8.7,
+    "pf": 19,
+    "pa": 15,
+    "pm": 4,
+    "poss": 17.3,
+    "pF": 17.1,
+    "pA": 17.5,
+    "ortg": 111.2,
+    "drtg": 85.6,
+    "net": 25.6,
+    "efg": 53.8,
+    "oefg": 29.2
+   },
+   {
+    "players": [
+     "Jan Švandrlík",
+     "Kryštof Kavan",
+     "Šimon Puršl"
+    ],
+    "min": 8.7,
+    "pf": 12,
+    "pa": 19,
+    "pm": -7,
+    "poss": 18.8,
+    "pF": 19.0,
+    "pA": 18.6,
+    "ortg": 63.2,
+    "drtg": 101.9,
+    "net": -38.8,
+    "efg": 31.6,
+    "oefg": 60.7
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jalen Terence Montgomery",
+     "Marek Vyroubal"
+    ],
+    "min": 8.4,
+    "pf": 19,
+    "pa": 12,
+    "pm": 7,
+    "poss": 14.8,
+    "pF": 14.5,
+    "pA": 15.0,
+    "ortg": 130.9,
+    "drtg": 80.0,
+    "net": 50.9,
+    "efg": 54.2,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -2163,79 +2463,60 @@
    },
    {
     "players": [
-     "Elijah Kole Tucker",
-     "Jan Švandrlík",
-     "Radovan Kouřil"
+     "Jakub Slavík",
+     "Radovan Kouřil",
+     "Šimon Puršl"
     ],
-    "min": 8.2,
-    "pf": 13,
-    "pa": 16,
-    "pm": -3,
-    "poss": 14.3,
-    "pF": 15.3,
-    "pA": 13.2,
-    "ortg": 84.9,
-    "drtg": 121.2,
-    "net": -36.4,
-    "efg": 38.5,
-    "oefg": 46.2
-   },
-   {
-    "players": [
-     "Jan Švandrlík",
-     "Marek Vyroubal",
-     "Radovan Kouřil"
-    ],
-    "min": 8.2,
-    "pf": 16,
-    "pa": 12,
+    "min": 8.3,
+    "pf": 24,
+    "pa": 20,
     "pm": 4,
-    "poss": 14.5,
-    "pF": 16.1,
-    "pA": 13.0,
-    "ortg": 99.5,
-    "drtg": 92.3,
-    "net": 7.2,
-    "efg": 37.5,
-    "oefg": 35.3
+    "poss": 16.8,
+    "pF": 17.3,
+    "pA": 16.3,
+    "ortg": 138.6,
+    "drtg": 122.5,
+    "net": 16.0,
+    "efg": 68.8,
+    "oefg": 77.3
    },
    {
     "players": [
-     "Jan Švandrlík",
-     "Kryštof Kavan",
+     "Jakub Slavík",
+     "Jakub Šiřina",
      "Šimon Puršl"
     ],
     "min": 8.2,
-    "pf": 12,
-    "pa": 19,
-    "pm": -7,
-    "poss": 17.3,
-    "pF": 18.0,
-    "pA": 16.6,
-    "ortg": 66.7,
-    "drtg": 114.2,
-    "net": -47.5,
-    "efg": 31.6,
-    "oefg": 70.8
+    "pf": 20,
+    "pa": 4,
+    "pm": 16,
+    "poss": 14.4,
+    "pF": 14.1,
+    "pA": 14.8,
+    "ortg": 142.0,
+    "drtg": 27.1,
+    "net": 114.9,
+    "efg": 57.1,
+    "oefg": 0.0
    },
    {
     "players": [
-     "Jalen Terence Montgomery",
-     "Marek Vyroubal",
+     "Jakub Slavík",
+     "Jan Švandrlík",
      "Šimon Puršl"
     ],
-    "min": 7.9,
-    "pf": 16,
-    "pa": 15,
-    "pm": 1,
-    "poss": 18.3,
-    "pF": 19.6,
-    "pA": 16.9,
-    "ortg": 81.5,
-    "drtg": 88.9,
-    "net": -7.4,
-    "efg": 45.8,
-    "oefg": 38.2
+    "min": 8.2,
+    "pf": 25,
+    "pa": 18,
+    "pm": 7,
+    "poss": 19.2,
+    "pF": 19.2,
+    "pA": 19.2,
+    "ortg": 130.2,
+    "drtg": 93.8,
+    "net": 36.5,
+    "efg": 75.0,
+    "oefg": 54.2
    },
    {
     "players": [
@@ -2258,6 +2539,25 @@
    },
    {
     "players": [
+     "Jakub Slavík",
+     "Marek Vyroubal",
+     "Šimon Puršl"
+    ],
+    "min": 7.8,
+    "pf": 26,
+    "pa": 11,
+    "pm": 15,
+    "poss": 17.6,
+    "pF": 17.6,
+    "pA": 17.6,
+    "ortg": 147.4,
+    "drtg": 62.4,
+    "net": 85.0,
+    "efg": 75.0,
+    "oefg": 22.7
+   },
+   {
+    "players": [
      "Ethan Maxwell Chargois",
      "Filip Zbránek",
      "Jalen Terence Montgomery"
@@ -2277,6 +2577,44 @@
    },
    {
     "players": [
+     "Elijah Kole Tucker",
+     "Jakub Šiřina",
+     "Jalen Terence Montgomery"
+    ],
+    "min": 7.8,
+    "pf": 16,
+    "pa": 10,
+    "pm": 6,
+    "poss": 14.2,
+    "pF": 13.8,
+    "pA": 14.6,
+    "ortg": 116.3,
+    "drtg": 68.3,
+    "net": 48.0,
+    "efg": 50.0,
+    "oefg": 37.5
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Jalen Terence Montgomery",
+     "Šimon Puršl"
+    ],
+    "min": 7.8,
+    "pf": 19,
+    "pa": 21,
+    "pm": -2,
+    "poss": 16.7,
+    "pF": 16.2,
+    "pA": 17.2,
+    "ortg": 117.3,
+    "drtg": 122.1,
+    "net": -4.8,
+    "efg": 57.7,
+    "oefg": 66.7
+   },
+   {
+    "players": [
      "Ethan Maxwell Chargois",
      "Filip Zbránek",
      "Matěj Svoboda"
@@ -2293,6 +2631,44 @@
     "net": -15.3,
     "efg": 42.3,
     "oefg": 46.4
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jan Švandrlík",
+     "Kryštof Kavan"
+    ],
+    "min": 7.5,
+    "pf": 15,
+    "pa": 14,
+    "pm": 1,
+    "poss": 15.3,
+    "pF": 14.6,
+    "pA": 16.0,
+    "ortg": 102.5,
+    "drtg": 87.5,
+    "net": 15.0,
+    "efg": 42.3,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Jan Švandrlík",
+     "Radovan Kouřil"
+    ],
+    "min": 7.5,
+    "pf": 23,
+    "pa": 23,
+    "pm": 0,
+    "poss": 16.3,
+    "pF": 16.3,
+    "pA": 16.2,
+    "ortg": 140.9,
+    "drtg": 142.0,
+    "net": -1.0,
+    "efg": 70.0,
+    "oefg": 86.4
    },
    {
     "players": [
@@ -2399,14 +2775,52 @@
     "pf": 13,
     "pa": 18,
     "pm": -5,
-    "poss": 13.4,
+    "poss": 13.9,
     "pF": 12.5,
-    "pA": 14.2,
+    "pA": 15.2,
     "ortg": 103.8,
-    "drtg": 126.8,
-    "net": -22.9,
+    "drtg": 118.4,
+    "net": -14.6,
     "efg": 35.0,
-    "oefg": 53.6
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jan Švandrlík",
+     "Kryštof Kavan",
+     "Marek Vyroubal"
+    ],
+    "min": 7.0,
+    "pf": 14,
+    "pa": 11,
+    "pm": 3,
+    "poss": 15.9,
+    "pF": 14.8,
+    "pA": 17.0,
+    "ortg": 94.9,
+    "drtg": 64.7,
+    "net": 30.1,
+    "efg": 42.3,
+    "oefg": 39.3
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
+     "Kryštof Kavan",
+     "Matěj Svoboda"
+    ],
+    "min": 6.9,
+    "pf": 16,
+    "pa": 16,
+    "pm": 0,
+    "poss": 13.6,
+    "pF": 14.3,
+    "pA": 13.0,
+    "ortg": 112.0,
+    "drtg": 123.1,
+    "net": -11.0,
+    "efg": 71.4,
+    "oefg": 57.1
    },
    {
     "players": [
@@ -2431,20 +2845,39 @@
     "players": [
      "Jakub Slavík",
      "Jakub Šiřina",
-     "Šimon Puršl"
+     "Matěj Svoboda"
     ],
-    "min": 6.4,
-    "pf": 16,
-    "pa": 4,
-    "pm": 12,
-    "poss": 11.3,
+    "min": 6.7,
+    "pf": 13,
+    "pa": 2,
+    "pm": 11,
+    "poss": 10.9,
     "pF": 10.8,
-    "pA": 11.8,
-    "ortg": 148.7,
-    "drtg": 34.0,
-    "net": 114.7,
-    "efg": 63.6,
-    "oefg": 0.0
+    "pA": 11.0,
+    "ortg": 120.8,
+    "drtg": 18.2,
+    "net": 102.6,
+    "efg": 55.0,
+    "oefg": 8.3
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Jalen Terence Montgomery",
+     "Jan Švandrlík"
+    ],
+    "min": 6.5,
+    "pf": 17,
+    "pa": 24,
+    "pm": -7,
+    "poss": 15.0,
+    "pF": 13.9,
+    "pA": 16.1,
+    "ortg": 122.5,
+    "drtg": 149.3,
+    "net": -26.8,
+    "efg": 62.5,
+    "oefg": 90.0
    },
    {
     "players": [
@@ -2483,6 +2916,25 @@
     "net": 49.6,
     "efg": 70.8,
     "oefg": 45.0
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Jalen Terence Montgomery",
+     "Radovan Kouřil"
+    ],
+    "min": 6.3,
+    "pf": 15,
+    "pa": 26,
+    "pm": -11,
+    "poss": 13.1,
+    "pF": 12.0,
+    "pA": 14.2,
+    "ortg": 125.0,
+    "drtg": 183.1,
+    "net": -58.1,
+    "efg": 62.5,
+    "oefg": 110.0
    },
    {
     "players": [
@@ -2544,6 +2996,25 @@
    {
     "players": [
      "Ethan Maxwell Chargois",
+     "Matěj Svoboda",
+     "Šimon Puršl"
+    ],
+    "min": 5.6,
+    "pf": 10,
+    "pa": 11,
+    "pm": -1,
+    "poss": 11.8,
+    "pF": 11.8,
+    "pA": 11.8,
+    "ortg": 85.0,
+    "drtg": 93.5,
+    "net": -8.5,
+    "efg": 50.0,
+    "oefg": 38.9
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
      "Radovan Kouřil",
      "Vojtěch Gronský"
     ],
@@ -2559,6 +3030,25 @@
     "net": 15.2,
     "efg": 55.0,
     "oefg": 44.4
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jakub Slavík",
+     "Jan Švandrlík"
+    ],
+    "min": 5.5,
+    "pf": 11,
+    "pa": 15,
+    "pm": -4,
+    "poss": 11.9,
+    "pF": 10.9,
+    "pA": 12.9,
+    "ortg": 101.1,
+    "drtg": 116.5,
+    "net": -15.4,
+    "efg": 45.5,
+    "oefg": 58.3
    },
    {
     "players": [
@@ -2619,6 +3109,25 @@
    },
    {
     "players": [
+     "Ethan Maxwell Chargois",
+     "Marek Vyroubal",
+     "Šimon Puršl"
+    ],
+    "min": 5.0,
+    "pf": 15,
+    "pa": 11,
+    "pm": 4,
+    "poss": 11.0,
+    "pF": 11.4,
+    "pA": 10.6,
+    "ortg": 131.1,
+    "drtg": 103.4,
+    "net": 27.7,
+    "efg": 70.0,
+    "oefg": 31.2
+   },
+   {
+    "players": [
      "Jakub Šiřina",
      "Marek Vyroubal",
      "Vojtěch Gronský"
@@ -2643,90 +3152,198 @@
      "Matěj Svoboda",
      "Radovan Kouřil"
     ],
-    "min": 65.9,
-    "pf": 133,
-    "pa": 145,
-    "pm": -12,
-    "poss": 129.5,
-    "pF": 129.8,
-    "pA": 129.3,
-    "ortg": 102.5,
-    "drtg": 112.2,
-    "net": -9.7,
-    "efg": 50.8,
-    "oefg": 51.7
+    "min": 73.1,
+    "pf": 144,
+    "pa": 163,
+    "pm": -19,
+    "poss": 143.8,
+    "pF": 144.2,
+    "pA": 143.3,
+    "ortg": 99.8,
+    "drtg": 113.8,
+    "net": -13.9,
+    "efg": 49.6,
+    "oefg": 53.1
+   },
+   {
+    "players": [
+     "Jan Švandrlík",
+     "Matěj Svoboda"
+    ],
+    "min": 70.0,
+    "pf": 140,
+    "pa": 166,
+    "pm": -26,
+    "poss": 142.2,
+    "pF": 141.0,
+    "pA": 143.4,
+    "ortg": 99.3,
+    "drtg": 115.8,
+    "net": -16.5,
+    "efg": 50.4,
+    "oefg": 55.0
    },
    {
     "players": [
      "Jakub Šiřina",
      "Marek Vyroubal"
     ],
-    "min": 65.8,
-    "pf": 120,
-    "pa": 163,
-    "pm": -43,
-    "poss": 132.4,
-    "pF": 129.5,
-    "pA": 135.4,
-    "ortg": 92.7,
-    "drtg": 120.4,
-    "net": -27.7,
-    "efg": 43.6,
-    "oefg": 57.7
-   },
-   {
-    "players": [
-     "Jan Švandrlík",
-     "Matěj Svoboda"
-    ],
-    "min": 63.0,
-    "pf": 130,
-    "pa": 151,
-    "pm": -21,
-    "poss": 128.0,
-    "pF": 126.7,
-    "pA": 129.4,
-    "ortg": 102.6,
-    "drtg": 116.7,
-    "net": -14.1,
-    "efg": 51.8,
-    "oefg": 55.7
+    "min": 69.4,
+    "pf": 131,
+    "pa": 175,
+    "pm": -44,
+    "poss": 140.4,
+    "pF": 137.5,
+    "pA": 143.3,
+    "ortg": 95.3,
+    "drtg": 122.1,
+    "net": -26.9,
+    "efg": 46.1,
+    "oefg": 58.5
    },
    {
     "players": [
      "Ethan Maxwell Chargois",
      "Matěj Svoboda"
     ],
-    "min": 57.1,
-    "pf": 105,
-    "pa": 131,
-    "pm": -26,
-    "poss": 111.5,
-    "pF": 109.2,
-    "pA": 113.8,
-    "ortg": 96.1,
-    "drtg": 115.2,
-    "net": -19.0,
-    "efg": 46.9,
-    "oefg": 52.4
+    "min": 66.1,
+    "pf": 124,
+    "pa": 149,
+    "pm": -25,
+    "poss": 130.0,
+    "pF": 126.6,
+    "pA": 133.3,
+    "ortg": 97.9,
+    "drtg": 111.8,
+    "net": -13.9,
+    "efg": 48.2,
+    "oefg": 51.7
+   },
+   {
+    "players": [
+     "Jalen Terence Montgomery",
+     "Jan Švandrlík"
+    ],
+    "min": 63.1,
+    "pf": 135,
+    "pa": 159,
+    "pm": -24,
+    "poss": 129.1,
+    "pF": 126.0,
+    "pA": 132.3,
+    "ortg": 107.1,
+    "drtg": 120.2,
+    "net": -13.1,
+    "efg": 54.7,
+    "oefg": 61.2
    },
    {
     "players": [
      "Jan Švandrlík",
      "Radovan Kouřil"
     ],
-    "min": 47.9,
-    "pf": 96,
-    "pa": 111,
-    "pm": -15,
-    "poss": 95.9,
-    "pF": 96.9,
-    "pA": 94.9,
-    "ortg": 99.1,
-    "drtg": 117.0,
-    "net": -17.9,
-    "efg": 51.2,
-    "oefg": 54.8
+    "min": 61.1,
+    "pf": 128,
+    "pa": 146,
+    "pm": -18,
+    "poss": 123.9,
+    "pF": 125.7,
+    "pA": 122.1,
+    "ortg": 101.8,
+    "drtg": 119.6,
+    "net": -17.7,
+    "efg": 52.3,
+    "oefg": 58.0
+   },
+   {
+    "players": [
+     "Jalen Terence Montgomery",
+     "Radovan Kouřil"
+    ],
+    "min": 59.4,
+    "pf": 125,
+    "pa": 149,
+    "pm": -24,
+    "poss": 119.6,
+    "pF": 118.7,
+    "pA": 120.5,
+    "ortg": 105.3,
+    "drtg": 123.6,
+    "net": -18.3,
+    "efg": 51.4,
+    "oefg": 60.4
+   },
+   {
+    "players": [
+     "Jalen Terence Montgomery",
+     "Matěj Svoboda"
+    ],
+    "min": 58.6,
+    "pf": 121,
+    "pa": 135,
+    "pm": -14,
+    "poss": 115.6,
+    "pF": 112.8,
+    "pA": 118.4,
+    "ortg": 107.3,
+    "drtg": 114.0,
+    "net": -6.8,
+    "efg": 51.9,
+    "oefg": 53.5
+   },
+   {
+    "players": [
+     "Jakub Šiřina",
+     "Matěj Svoboda"
+    ],
+    "min": 53.5,
+    "pf": 99,
+    "pa": 113,
+    "pm": -14,
+    "poss": 105.2,
+    "pF": 101.5,
+    "pA": 108.8,
+    "ortg": 97.5,
+    "drtg": 103.8,
+    "net": -6.3,
+    "efg": 42.9,
+    "oefg": 48.3
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
+     "Jalen Terence Montgomery"
+    ],
+    "min": 52.9,
+    "pf": 110,
+    "pa": 116,
+    "pm": -6,
+    "poss": 104.7,
+    "pF": 101.9,
+    "pA": 107.5,
+    "ortg": 108.0,
+    "drtg": 107.9,
+    "net": 0.1,
+    "efg": 49.5,
+    "oefg": 52.3
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
+     "Jakub Šiřina"
+    ],
+    "min": 48.9,
+    "pf": 88,
+    "pa": 118,
+    "pm": -30,
+    "poss": 94.2,
+    "pF": 91.0,
+    "pA": 97.4,
+    "ortg": 96.7,
+    "drtg": 121.1,
+    "net": -24.4,
+    "efg": 43.3,
+    "oefg": 56.9
    },
    {
     "players": [
@@ -2748,93 +3365,93 @@
    },
    {
     "players": [
-     "Jalen Terence Montgomery",
-     "Radovan Kouřil"
+     "Jan Švandrlík",
+     "Marek Vyroubal"
     ],
-    "min": 47.3,
-    "pf": 101,
-    "pa": 111,
-    "pm": -10,
-    "poss": 94.8,
-    "pF": 94.2,
-    "pA": 95.3,
-    "ortg": 107.2,
-    "drtg": 116.4,
-    "net": -9.3,
-    "efg": 51.8,
-    "oefg": 55.0
+    "min": 47.6,
+    "pf": 103,
+    "pa": 92,
+    "pm": 11,
+    "poss": 98.9,
+    "pF": 98.5,
+    "pA": 99.4,
+    "ortg": 104.5,
+    "drtg": 92.6,
+    "net": 12.0,
+    "efg": 48.7,
+    "oefg": 46.4
    },
    {
     "players": [
-     "Ethan Maxwell Chargois",
-     "Jalen Terence Montgomery"
+     "Jan Švandrlík",
+     "Šimon Puršl"
     ],
-    "min": 46.3,
+    "min": 46.8,
     "pf": 97,
-    "pa": 110,
-    "pm": -13,
-    "poss": 92.3,
-    "pF": 90.8,
-    "pA": 93.9,
-    "ortg": 106.8,
-    "drtg": 117.2,
-    "net": -10.3,
-    "efg": 50.0,
-    "oefg": 56.2
+    "pa": 106,
+    "pm": -9,
+    "poss": 102.6,
+    "pF": 101.2,
+    "pA": 104.0,
+    "ortg": 95.8,
+    "drtg": 101.9,
+    "net": -6.1,
+    "efg": 49.4,
+    "oefg": 53.0
    },
    {
     "players": [
-     "Jalen Terence Montgomery",
-     "Jan Švandrlík"
+     "Elijah Kole Tucker",
+     "Marek Vyroubal"
     ],
-    "min": 46.1,
-    "pf": 99,
-    "pa": 112,
-    "pm": -13,
-    "poss": 93.6,
-    "pF": 91.9,
-    "pA": 95.2,
-    "ortg": 107.7,
-    "drtg": 117.6,
-    "net": -9.9,
-    "efg": 56.5,
-    "oefg": 57.7
+    "min": 45.6,
+    "pf": 88,
+    "pa": 106,
+    "pm": -18,
+    "poss": 86.1,
+    "pF": 84.2,
+    "pA": 88.0,
+    "ortg": 104.5,
+    "drtg": 120.5,
+    "net": -16.0,
+    "efg": 51.4,
+    "oefg": 57.5
    },
    {
     "players": [
-     "Jakub Šiřina",
+     "Marek Vyroubal",
      "Matěj Svoboda"
     ],
-    "min": 45.3,
-    "pf": 84,
-    "pa": 100,
-    "pm": -16,
-    "poss": 89.5,
-    "pF": 86.8,
-    "pA": 92.3,
-    "ortg": 96.8,
-    "drtg": 108.3,
-    "net": -11.5,
-    "efg": 40.7,
-    "oefg": 50.7
+    "min": 44.5,
+    "pf": 81,
+    "pa": 101,
+    "pm": -20,
+    "poss": 90.8,
+    "pF": 87.2,
+    "pA": 94.4,
+    "ortg": 92.9,
+    "drtg": 107.0,
+    "net": -14.1,
+    "efg": 43.7,
+    "oefg": 49.4
    },
    {
     "players": [
-     "Jalen Terence Montgomery",
-     "Matěj Svoboda"
+     "Matěj Svoboda",
+     "Šimon Puršl"
     ],
-    "min": 44.0,
-    "pf": 98,
-    "pa": 108,
-    "pm": -10,
-    "poss": 88.7,
-    "pF": 87.6,
-    "pA": 89.8,
-    "ortg": 111.9,
-    "drtg": 120.3,
-    "net": -8.4,
-    "efg": 53.7,
-    "oefg": 55.2
+    "min": 43.1,
+    "pf": 82,
+    "pa": 84,
+    "pm": -2,
+    "poss": 91.0,
+    "pF": 89.7,
+    "pA": 92.4,
+    "ortg": 91.4,
+    "drtg": 90.9,
+    "net": 0.5,
+    "efg": 43.6,
+    "oefg": 46.0
    },
    {
     "players": [
@@ -2856,57 +3473,129 @@
    },
    {
     "players": [
-     "Marek Vyroubal",
-     "Matěj Svoboda"
-    ],
-    "min": 39.8,
-    "pf": 71,
-    "pa": 89,
-    "pm": -18,
-    "poss": 79.5,
-    "pF": 76.6,
-    "pA": 82.5,
-    "ortg": 92.7,
-    "drtg": 107.9,
-    "net": -15.2,
-    "efg": 41.7,
-    "oefg": 50.0
-   },
-   {
-    "players": [
      "Ethan Maxwell Chargois",
-     "Jakub Šiřina"
-    ],
-    "min": 38.7,
-    "pf": 64,
-    "pa": 100,
-    "pm": -36,
-    "poss": 74.4,
-    "pF": 71.9,
-    "pA": 76.9,
-    "ortg": 89.0,
-    "drtg": 130.0,
-    "net": -41.0,
-    "efg": 38.8,
-    "oefg": 59.6
-   },
-   {
-    "players": [
-     "Jan Švandrlík",
      "Marek Vyroubal"
     ],
+    "min": 41.0,
+    "pf": 82,
+    "pa": 104,
+    "pm": -22,
+    "poss": 82.9,
+    "pF": 81.6,
+    "pA": 84.2,
+    "ortg": 100.5,
+    "drtg": 123.5,
+    "net": -22.9,
+    "efg": 50.0,
+    "oefg": 55.8
+   },
+   {
+    "players": [
+     "Marek Vyroubal",
+     "Šimon Puršl"
+    ],
+    "min": 40.4,
+    "pf": 99,
+    "pa": 80,
+    "pm": 19,
+    "poss": 92.4,
+    "pF": 92.2,
+    "pA": 92.7,
+    "ortg": 107.4,
+    "drtg": 86.3,
+    "net": 21.1,
+    "efg": 55.0,
+    "oefg": 42.1
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Matěj Svoboda"
+    ],
+    "min": 40.2,
+    "pf": 71,
+    "pa": 99,
+    "pm": -28,
+    "poss": 76.6,
+    "pF": 74.1,
+    "pA": 79.1,
+    "ortg": 95.8,
+    "drtg": 125.1,
+    "net": -29.3,
+    "efg": 43.2,
+    "oefg": 58.6
+   },
+   {
+    "players": [
+     "Jakub Šiřina",
+     "Šimon Puršl"
+    ],
+    "min": 39.9,
+    "pf": 83,
+    "pa": 80,
+    "pm": 3,
+    "poss": 84.9,
+    "pF": 83.2,
+    "pA": 86.6,
+    "ortg": 99.8,
+    "drtg": 92.4,
+    "net": 7.3,
+    "efg": 49.2,
+    "oefg": 43.3
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Jakub Šiřina"
+    ],
+    "min": 36.8,
+    "pf": 71,
+    "pa": 84,
+    "pm": -13,
+    "poss": 67.9,
+    "pF": 66.4,
+    "pA": 69.5,
+    "ortg": 107.0,
+    "drtg": 120.9,
+    "net": -13.9,
+    "efg": 50.8,
+    "oefg": 59.8
+   },
+   {
+    "players": [
+     "Jakub Šiřina",
+     "Jalen Terence Montgomery"
+    ],
     "min": 36.3,
-    "pf": 75,
-    "pa": 74,
-    "pm": 1,
-    "poss": 73.0,
-    "pF": 73.6,
-    "pA": 72.5,
-    "ortg": 102.0,
-    "drtg": 102.1,
-    "net": -0.1,
-    "efg": 47.5,
-    "oefg": 49.2
+    "pf": 71,
+    "pa": 75,
+    "pm": -4,
+    "poss": 70.7,
+    "pF": 68.7,
+    "pA": 72.8,
+    "ortg": 103.4,
+    "drtg": 103.0,
+    "net": 0.4,
+    "efg": 49.1,
+    "oefg": 47.7
+   },
+   {
+    "players": [
+     "Radovan Kouřil",
+     "Šimon Puršl"
+    ],
+    "min": 35.0,
+    "pf": 76,
+    "pa": 82,
+    "pm": -6,
+    "poss": 73.2,
+    "pF": 74.7,
+    "pA": 71.7,
+    "ortg": 101.7,
+    "drtg": 114.3,
+    "net": -12.6,
+    "efg": 48.5,
+    "oefg": 61.7
    },
    {
     "players": [
@@ -2928,24 +3617,6 @@
    },
    {
     "players": [
-     "Jan Švandrlík",
-     "Šimon Puršl"
-    ],
-    "min": 34.3,
-    "pf": 67,
-    "pa": 81,
-    "pm": -14,
-    "poss": 74.7,
-    "pF": 72.6,
-    "pA": 76.8,
-    "ortg": 92.3,
-    "drtg": 105.5,
-    "net": -13.2,
-    "efg": 47.5,
-    "oefg": 54.0
-   },
-   {
-    "players": [
      "Filip Zbránek",
      "Marek Vyroubal"
     ],
@@ -2964,129 +3635,39 @@
    },
    {
     "players": [
-     "Jakub Šiřina",
-     "Šimon Puršl"
-    ],
-    "min": 34.1,
-    "pf": 73,
-    "pa": 69,
-    "pm": 4,
-    "poss": 73.4,
-    "pF": 72.0,
-    "pA": 74.8,
-    "ortg": 101.4,
-    "drtg": 92.2,
-    "net": 9.1,
-    "efg": 49.2,
-    "oefg": 44.7
-   },
-   {
-    "players": [
-     "Marek Vyroubal",
-     "Šimon Puršl"
-    ],
-    "min": 33.6,
-    "pf": 79,
-    "pa": 66,
-    "pm": 13,
-    "poss": 75.7,
-    "pF": 75.6,
-    "pA": 75.9,
-    "ortg": 104.6,
-    "drtg": 86.9,
-    "net": 17.6,
-    "efg": 51.7,
-    "oefg": 43.8
-   },
-   {
-    "players": [
      "Elijah Kole Tucker",
-     "Marek Vyroubal"
+     "Ethan Maxwell Chargois"
     ],
-    "min": 33.5,
-    "pf": 57,
-    "pa": 85,
-    "pm": -28,
-    "poss": 59.9,
-    "pF": 58.8,
-    "pA": 61.0,
-    "ortg": 96.9,
-    "drtg": 139.4,
-    "net": -42.5,
-    "efg": 47.9,
+    "min": 32.9,
+    "pf": 69,
+    "pa": 82,
+    "pm": -13,
+    "poss": 66.6,
+    "pF": 63.5,
+    "pA": 69.7,
+    "ortg": 108.7,
+    "drtg": 117.6,
+    "net": -8.9,
+    "efg": 53.6,
     "oefg": 59.8
    },
    {
     "players": [
-     "Ethan Maxwell Chargois",
-     "Marek Vyroubal"
-    ],
-    "min": 33.4,
-    "pf": 59,
-    "pa": 87,
-    "pm": -28,
-    "poss": 65.9,
-    "pF": 64.5,
-    "pA": 67.4,
-    "ortg": 91.5,
-    "drtg": 129.2,
-    "net": -37.7,
-    "efg": 42.7,
-    "oefg": 56.2
-   },
-   {
-    "players": [
-     "Matěj Svoboda",
+     "Jalen Terence Montgomery",
      "Šimon Puršl"
     ],
-    "min": 32.2,
-    "pf": 67,
-    "pa": 60,
-    "pm": 7,
-    "poss": 68.5,
-    "pF": 68.4,
-    "pA": 68.6,
-    "ortg": 98.0,
-    "drtg": 87.5,
-    "net": 10.5,
-    "efg": 44.4,
-    "oefg": 45.4
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Matěj Svoboda"
-    ],
-    "min": 31.7,
-    "pf": 52,
-    "pa": 84,
-    "pm": -32,
-    "poss": 61.0,
-    "pF": 58.7,
-    "pA": 63.4,
-    "ortg": 88.6,
-    "drtg": 132.6,
-    "net": -44.0,
-    "efg": 39.3,
-    "oefg": 60.5
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Jakub Šiřina"
-    ],
-    "min": 30.5,
-    "pf": 54,
+    "min": 31.8,
+    "pf": 61,
     "pa": 77,
-    "pm": -23,
-    "poss": 56.6,
-    "pF": 55.5,
-    "pA": 57.7,
-    "ortg": 97.3,
-    "drtg": 133.4,
-    "net": -36.1,
-    "efg": 46.0,
-    "oefg": 63.0
+    "pm": -16,
+    "poss": 67.8,
+    "pF": 65.9,
+    "pA": 69.6,
+    "ortg": 92.5,
+    "drtg": 110.6,
+    "net": -18.1,
+    "efg": 49.0,
+    "oefg": 52.5
    },
    {
     "players": [
@@ -3108,75 +3689,129 @@
    },
    {
     "players": [
-     "Jakub Šiřina",
+     "Elijah Kole Tucker",
      "Jalen Terence Montgomery"
     ],
-    "min": 27.9,
-    "pf": 55,
-    "pa": 69,
-    "pm": -14,
-    "poss": 55.9,
-    "pF": 54.6,
-    "pA": 57.2,
-    "ortg": 100.7,
-    "drtg": 120.7,
-    "net": -20.0,
-    "efg": 48.9,
-    "oefg": 54.5
+    "min": 29.1,
+    "pf": 58,
+    "pa": 64,
+    "pm": -6,
+    "poss": 54.9,
+    "pF": 52.2,
+    "pA": 57.6,
+    "ortg": 111.2,
+    "drtg": 111.1,
+    "net": 0.1,
+    "efg": 48.0,
+    "oefg": 57.6
    },
    {
     "players": [
      "Elijah Kole Tucker",
-     "Ethan Maxwell Chargois"
+     "Jan Švandrlík"
     ],
-    "min": 25.1,
-    "pf": 46,
+    "min": 27.6,
+    "pf": 53,
     "pa": 70,
-    "pm": -24,
-    "poss": 50.5,
-    "pF": 48.0,
-    "pA": 53.0,
-    "ortg": 95.9,
-    "drtg": 132.2,
-    "net": -36.3,
-    "efg": 47.7,
-    "oefg": 61.8
+    "pm": -17,
+    "poss": 51.8,
+    "pF": 49.8,
+    "pA": 53.7,
+    "ortg": 106.3,
+    "drtg": 130.3,
+    "net": -24.0,
+    "efg": 48.9,
+    "oefg": 63.5
    },
    {
     "players": [
-     "Radovan Kouřil",
-     "Šimon Puršl"
+     "Jalen Terence Montgomery",
+     "Marek Vyroubal"
     ],
-    "min": 23.3,
-    "pf": 48,
-    "pa": 55,
-    "pm": -7,
-    "poss": 48.7,
-    "pF": 49.0,
-    "pA": 48.4,
-    "ortg": 98.0,
-    "drtg": 113.6,
-    "net": -15.6,
-    "efg": 45.6,
-    "oefg": 59.5
+    "min": 25.7,
+    "pf": 52,
+    "pa": 49,
+    "pm": 3,
+    "poss": 52.3,
+    "pF": 51.6,
+    "pA": 53.0,
+    "ortg": 100.9,
+    "drtg": 92.5,
+    "net": 8.3,
+    "efg": 44.6,
+    "oefg": 44.7
    },
    {
     "players": [
      "Marek Vyroubal",
      "Radovan Kouřil"
     ],
-    "min": 22.4,
-    "pf": 46,
-    "pa": 39,
-    "pm": 7,
-    "poss": 43.4,
-    "pF": 44.2,
-    "pA": 42.6,
-    "ortg": 104.2,
+    "min": 25.1,
+    "pf": 56,
+    "pa": 42,
+    "pm": 14,
+    "poss": 49.1,
+    "pF": 50.5,
+    "pA": 47.6,
+    "ortg": 110.9,
+    "drtg": 88.2,
+    "net": 22.8,
+    "efg": 53.9,
+    "oefg": 39.1
+   },
+   {
+    "players": [
+     "Elijah Kole Tucker",
+     "Radovan Kouřil"
+    ],
+    "min": 23.9,
+    "pf": 42,
+    "pa": 63,
+    "pm": -21,
+    "poss": 44.8,
+    "pF": 43.1,
+    "pA": 46.6,
+    "ortg": 97.5,
+    "drtg": 135.2,
+    "net": -37.7,
+    "efg": 47.4,
+    "oefg": 56.7
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Jakub Šiřina"
+    ],
+    "min": 23.3,
+    "pf": 56,
+    "pa": 36,
+    "pm": 20,
+    "poss": 42.7,
+    "pF": 42.3,
+    "pA": 43.2,
+    "ortg": 132.5,
+    "drtg": 83.3,
+    "net": 49.1,
+    "efg": 67.6,
+    "oefg": 38.1
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Marek Vyroubal"
+    ],
+    "min": 22.8,
+    "pf": 62,
+    "pa": 44,
+    "pm": 18,
+    "poss": 48.0,
+    "pF": 47.8,
+    "pA": 48.1,
+    "ortg": 129.6,
     "drtg": 91.5,
-    "net": 12.7,
-    "efg": 50.0,
-    "oefg": 39.3
+    "net": 38.1,
+    "efg": 70.5,
+    "oefg": 45.2
    },
    {
     "players": [
@@ -3199,38 +3834,20 @@
    {
     "players": [
      "Elijah Kole Tucker",
-     "Radovan Kouřil"
+     "Jakub Slavík"
     ],
-    "min": 21.0,
-    "pf": 36,
-    "pa": 49,
-    "pm": -13,
-    "poss": 38.9,
-    "pF": 38.1,
-    "pA": 39.7,
-    "ortg": 94.5,
-    "drtg": 123.4,
-    "net": -28.8,
-    "efg": 45.6,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Jalen Terence Montgomery",
-     "Marek Vyroubal"
-    ],
-    "min": 19.9,
-    "pf": 38,
-    "pa": 37,
-    "pm": 1,
-    "poss": 39.0,
-    "pF": 39.9,
-    "pA": 38.1,
-    "ortg": 95.2,
-    "drtg": 97.2,
-    "net": -2.0,
-    "efg": 42.9,
-    "oefg": 43.2
+    "min": 20.5,
+    "pf": 47,
+    "pa": 44,
+    "pm": 3,
+    "poss": 41.2,
+    "pF": 40.1,
+    "pA": 42.3,
+    "ortg": 117.3,
+    "drtg": 104.0,
+    "net": 13.3,
+    "efg": 64.7,
+    "oefg": 52.4
    },
    {
     "players": [
@@ -3249,6 +3866,24 @@
     "net": 37.3,
     "efg": 51.4,
     "oefg": 42.2
+   },
+   {
+    "players": [
+     "Jan Švandrlík",
+     "Kryštof Kavan"
+    ],
+    "min": 19.9,
+    "pf": 34,
+    "pa": 44,
+    "pm": -10,
+    "poss": 41.0,
+    "pF": 40.4,
+    "pA": 41.6,
+    "ortg": 84.2,
+    "drtg": 105.7,
+    "net": -21.5,
+    "efg": 41.4,
+    "oefg": 55.3
    },
    {
     "players": [
@@ -3288,75 +3923,57 @@
    },
    {
     "players": [
-     "Jakub Slavík",
-     "Jakub Šiřina"
+     "Kryštof Kavan",
+     "Matěj Svoboda"
     ],
-    "min": 17.6,
-    "pf": 41,
-    "pa": 31,
-    "pm": 10,
-    "poss": 32.6,
-    "pF": 32.0,
-    "pA": 33.2,
-    "ortg": 128.3,
-    "drtg": 93.4,
-    "net": 34.9,
-    "efg": 66.1,
-    "oefg": 40.9
+    "min": 18.6,
+    "pf": 33,
+    "pa": 38,
+    "pm": -5,
+    "poss": 35.8,
+    "pF": 36.9,
+    "pA": 34.6,
+    "ortg": 89.4,
+    "drtg": 109.7,
+    "net": -20.3,
+    "efg": 42.9,
+    "oefg": 51.4
    },
    {
     "players": [
-     "Elijah Kole Tucker",
-     "Jan Švandrlík"
+     "Ethan Maxwell Chargois",
+     "Jakub Slavík"
     ],
     "min": 17.4,
-    "pf": 32,
-    "pa": 42,
-    "pm": -10,
-    "poss": 30.5,
-    "pF": 30.2,
-    "pA": 30.8,
-    "ortg": 106.0,
-    "drtg": 136.2,
-    "net": -30.2,
-    "efg": 50.0,
-    "oefg": 63.0
+    "pf": 47,
+    "pa": 33,
+    "pm": 14,
+    "poss": 34.6,
+    "pF": 35.0,
+    "pA": 34.2,
+    "ortg": 134.4,
+    "drtg": 96.5,
+    "net": 37.9,
+    "efg": 70.0,
+    "oefg": 46.8
    },
    {
     "players": [
-     "Elijah Kole Tucker",
-     "Jalen Terence Montgomery"
-    ],
-    "min": 17.3,
-    "pf": 33,
-    "pa": 37,
-    "pm": -4,
-    "poss": 32.7,
-    "pF": 32.5,
-    "pA": 33.0,
-    "ortg": 101.5,
-    "drtg": 112.3,
-    "net": -10.8,
-    "efg": 43.8,
-    "oefg": 53.7
-   },
-   {
-    "players": [
-     "Jalen Terence Montgomery",
+     "Jakub Slavík",
      "Šimon Puršl"
     ],
-    "min": 16.7,
-    "pf": 32,
-    "pa": 45,
-    "pm": -13,
-    "poss": 36.5,
-    "pF": 35.4,
-    "pA": 37.5,
-    "ortg": 90.4,
-    "drtg": 119.9,
-    "net": -29.5,
-    "efg": 52.0,
-    "oefg": 52.7
+    "min": 17.2,
+    "pf": 48,
+    "pa": 28,
+    "pm": 20,
+    "poss": 34.3,
+    "pF": 34.7,
+    "pA": 34.0,
+    "ortg": 138.2,
+    "drtg": 82.4,
+    "net": 55.8,
+    "efg": 65.0,
+    "oefg": 36.5
    },
    {
     "players": [
@@ -3378,93 +3995,57 @@
    },
    {
     "players": [
-     "Kryštof Kavan",
-     "Matěj Svoboda"
+     "Jakub Slavík",
+     "Jan Švandrlík"
     ],
-    "min": 14.7,
-    "pf": 25,
-    "pa": 30,
-    "pm": -5,
-    "poss": 28.0,
-    "pF": 29.4,
-    "pA": 26.6,
-    "ortg": 85.0,
-    "drtg": 112.6,
-    "net": -27.6,
-    "efg": 40.0,
-    "oefg": 51.9
+    "min": 13.8,
+    "pf": 36,
+    "pa": 33,
+    "pm": 3,
+    "poss": 31.1,
+    "pF": 30.1,
+    "pA": 32.1,
+    "ortg": 119.7,
+    "drtg": 102.9,
+    "net": 16.8,
+    "efg": 62.0,
+    "oefg": 56.2
+   },
+   {
+    "players": [
+     "Kryštof Kavan",
+     "Šimon Puršl"
+    ],
+    "min": 11.7,
+    "pf": 21,
+    "pa": 19,
+    "pm": 2,
+    "poss": 23.4,
+    "pF": 25.1,
+    "pA": 21.6,
+    "ortg": 83.7,
+    "drtg": 87.8,
+    "net": -4.1,
+    "efg": 34.8,
+    "oefg": 44.7
    },
    {
     "players": [
      "Jakub Slavík",
-     "Marek Vyroubal"
+     "Jalen Terence Montgomery"
     ],
-    "min": 12.8,
-    "pf": 31,
-    "pa": 29,
-    "pm": 2,
-    "poss": 24.7,
-    "pF": 24.2,
-    "pA": 25.2,
-    "ortg": 128.1,
-    "drtg": 115.1,
-    "net": 13.0,
-    "efg": 72.5,
-    "oefg": 52.1
-   },
-   {
-    "players": [
-     "Ethan Maxwell Chargois",
-     "Jakub Slavík"
-    ],
-    "min": 12.3,
-    "pf": 30,
-    "pa": 28,
-    "pm": 2,
-    "poss": 24.2,
-    "pF": 24.2,
-    "pA": 24.2,
-    "ortg": 124.0,
-    "drtg": 115.7,
-    "net": 8.3,
-    "efg": 66.7,
-    "oefg": 52.2
-   },
-   {
-    "players": [
-     "Jan Švandrlík",
-     "Kryštof Kavan"
-    ],
-    "min": 12.1,
-    "pf": 19,
+    "min": 11.6,
+    "pf": 26,
     "pa": 30,
-    "pm": -11,
-    "poss": 24.2,
-    "pF": 24.8,
-    "pA": 23.6,
-    "ortg": 76.7,
-    "drtg": 126.9,
-    "net": -50.2,
-    "efg": 40.9,
-    "oefg": 63.6
-   },
-   {
-    "players": [
-     "Elijah Kole Tucker",
-     "Jakub Slavík"
-    ],
-    "min": 11.2,
-    "pf": 25,
-    "pa": 27,
-    "pm": -2,
-    "poss": 21.3,
-    "pF": 21.2,
-    "pA": 21.4,
-    "ortg": 117.9,
-    "drtg": 125.9,
-    "net": -8.0,
-    "efg": 67.6,
-    "oefg": 58.7
+    "pm": -4,
+    "poss": 23.6,
+    "pF": 22.2,
+    "pA": 25.1,
+    "ortg": 117.1,
+    "drtg": 119.6,
+    "net": -2.5,
+    "efg": 57.9,
+    "oefg": 63.2
    },
    {
     "players": [
@@ -3486,21 +4067,75 @@
    },
    {
     "players": [
+     "Elijah Kole Tucker",
+     "Kryštof Kavan"
+    ],
+    "min": 11.0,
+    "pf": 24,
+    "pa": 19,
+    "pm": 5,
+    "poss": 23.1,
+    "pF": 22.3,
+    "pA": 24.0,
+    "ortg": 107.7,
+    "drtg": 79.2,
+    "net": 28.6,
+    "efg": 50.0,
+    "oefg": 47.5
+   },
+   {
+    "players": [
      "Kryštof Kavan",
-     "Šimon Puršl"
+     "Marek Vyroubal"
     ],
     "min": 10.8,
-    "pf": 18,
-    "pa": 19,
+    "pf": 26,
+    "pa": 16,
+    "pm": 10,
+    "poss": 24.4,
+    "pF": 23.8,
+    "pA": 25.0,
+    "ortg": 109.1,
+    "drtg": 64.0,
+    "net": 45.1,
+    "efg": 52.8,
+    "oefg": 40.0
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Radovan Kouřil"
+    ],
+    "min": 10.2,
+    "pf": 28,
+    "pa": 29,
     "pm": -1,
-    "poss": 21.1,
-    "pF": 22.6,
-    "pA": 19.6,
-    "ortg": 79.5,
-    "drtg": 96.7,
-    "net": -17.2,
-    "efg": 31.8,
-    "oefg": 50.0
+    "poss": 20.8,
+    "pF": 20.3,
+    "pA": 21.2,
+    "ortg": 137.8,
+    "drtg": 136.8,
+    "net": 1.0,
+    "efg": 65.0,
+    "oefg": 83.3
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
+     "Šimon Puršl"
+    ],
+    "min": 9.9,
+    "pf": 24,
+    "pa": 15,
+    "pm": 9,
+    "poss": 20.0,
+    "pF": 20.5,
+    "pA": 19.5,
+    "ortg": 117.0,
+    "drtg": 76.8,
+    "net": 40.1,
+    "efg": 56.2,
+    "oefg": 25.0
    },
    {
     "players": [
@@ -3558,6 +4193,42 @@
    },
    {
     "players": [
+     "Jakub Slavík",
+     "Matěj Svoboda"
+    ],
+    "min": 8.3,
+    "pf": 16,
+    "pa": 8,
+    "pm": 8,
+    "poss": 13.8,
+    "pF": 13.6,
+    "pA": 14.0,
+    "ortg": 117.3,
+    "drtg": 57.1,
+    "net": 60.2,
+    "efg": 54.2,
+    "oefg": 26.7
+   },
+   {
+    "players": [
+     "Ethan Maxwell Chargois",
+     "Kryštof Kavan"
+    ],
+    "min": 8.2,
+    "pf": 21,
+    "pa": 16,
+    "pm": 5,
+    "poss": 16.9,
+    "pF": 17.7,
+    "pA": 16.0,
+    "ortg": 118.5,
+    "drtg": 100.0,
+    "net": 18.5,
+    "efg": 77.8,
+    "oefg": 50.0
+   },
+   {
+    "players": [
      "Ethan Maxwell Chargois",
      "Vojtěch Gronský"
     ],
@@ -3594,24 +4265,6 @@
    },
    {
     "players": [
-     "Jakub Slavík",
-     "Šimon Puršl"
-    ],
-    "min": 6.4,
-    "pf": 16,
-    "pa": 4,
-    "pm": 12,
-    "poss": 11.3,
-    "pF": 10.8,
-    "pA": 11.8,
-    "ortg": 148.7,
-    "drtg": 34.0,
-    "net": 114.7,
-    "efg": 63.6,
-    "oefg": 0.0
-   },
-   {
-    "players": [
      "Radovan Kouřil",
      "Vojtěch Gronský"
     ],
@@ -3627,6 +4280,24 @@
     "net": 15.0,
     "efg": 55.0,
     "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jakub Slavík",
+     "Kryštof Kavan"
+    ],
+    "min": 5.7,
+    "pf": 14,
+    "pa": 3,
+    "pm": 11,
+    "poss": 12.0,
+    "pF": 13.1,
+    "pA": 11.0,
+    "ortg": 107.0,
+    "drtg": 27.3,
+    "net": 79.8,
+    "efg": 50.0,
+    "oefg": 11.5
    },
    {
     "players": [
@@ -3666,39 +4337,21 @@
    },
    {
     "players": [
-     "Jakub Slavík",
-     "Matěj Svoboda"
-    ],
-    "min": 4.9,
-    "pf": 10,
-    "pa": 2,
-    "pm": 8,
-    "poss": 7.9,
-    "pF": 7.8,
-    "pA": 8.0,
-    "ortg": 128.9,
-    "drtg": 25.0,
-    "net": 103.9,
-    "efg": 50.0,
-    "oefg": 11.1
-   },
-   {
-    "players": [
-     "Ethan Maxwell Chargois",
+     "Jalen Terence Montgomery",
      "Kryštof Kavan"
     ],
-    "min": 4.3,
-    "pf": 9,
+    "min": 4.7,
+    "pf": 10,
     "pa": 11,
-    "pm": -2,
-    "poss": 8.3,
-    "pF": 8.6,
-    "pA": 8.0,
-    "ortg": 104.2,
-    "drtg": 137.5,
-    "net": -33.3,
-    "efg": 75.0,
-    "oefg": 55.0
+    "pm": -1,
+    "poss": 8.9,
+    "pF": 7.8,
+    "pA": 10.0,
+    "ortg": 128.9,
+    "drtg": 110.0,
+    "net": 18.9,
+    "efg": 50.0,
+    "oefg": 68.8
    },
    {
     "players": [
@@ -3717,24 +4370,6 @@
     "net": -63.5,
     "efg": 42.9,
     "oefg": 64.3
-   },
-   {
-    "players": [
-     "Ethan Maxwell Chargois",
-     "Šimon Puršl"
-    ],
-    "min": 3.7,
-    "pf": 11,
-    "pa": 4,
-    "pm": 7,
-    "poss": 7.3,
-    "pF": 7.9,
-    "pA": 6.8,
-    "ortg": 139.6,
-    "drtg": 59.2,
-    "net": 80.4,
-    "efg": 56.2,
-    "oefg": 0.0
    },
    {
     "players": [
@@ -3830,16 +4465,64 @@
  },
  "assistPairs": [
   {
+   "passer": "Jakub Šiřina",
+   "scorer": "Matěj Svoboda",
+   "ast": 5,
+   "pts": 14
+  },
+  {
    "passer": "Radovan Kouřil",
    "scorer": "Matěj Svoboda",
    "ast": 4,
    "pts": 11
   },
   {
-   "passer": "Jakub Šiřina",
-   "scorer": "Matěj Svoboda",
+   "passer": "Matěj Svoboda",
+   "scorer": "Šimon Puršl",
    "ast": 4,
-   "pts": 11
+   "pts": 8
+  },
+  {
+   "passer": "Radovan Kouřil",
+   "scorer": "Šimon Puršl",
+   "ast": 4,
+   "pts": 8
+  },
+  {
+   "passer": "Jakub Šiřina",
+   "scorer": "Ethan Maxwell Chargois",
+   "ast": 4,
+   "pts": 8
+  },
+  {
+   "passer": "Jalen Terence Montgomery",
+   "scorer": "Elijah Kole Tucker",
+   "ast": 4,
+   "pts": 6
+  },
+  {
+   "passer": "Jalen Terence Montgomery",
+   "scorer": "Jan Švandrlík",
+   "ast": 3,
+   "pts": 9
+  },
+  {
+   "passer": "Radovan Kouřil",
+   "scorer": "Jan Švandrlík",
+   "ast": 3,
+   "pts": 9
+  },
+  {
+   "passer": "Radovan Kouřil",
+   "scorer": "Jalen Terence Montgomery",
+   "ast": 3,
+   "pts": 8
+  },
+  {
+   "passer": "Šimon Puršl",
+   "scorer": "Jan Švandrlík",
+   "ast": 3,
+   "pts": 7
   },
   {
    "passer": "Radovan Kouřil",
@@ -3848,20 +4531,8 @@
    "pts": 7
   },
   {
-   "passer": "Matěj Svoboda",
-   "scorer": "Šimon Puršl",
-   "ast": 3,
-   "pts": 6
-  },
-  {
-   "passer": "Radovan Kouřil",
-   "scorer": "Šimon Puršl",
-   "ast": 3,
-   "pts": 6
-  },
-  {
    "passer": "Jakub Šiřina",
-   "scorer": "Ethan Maxwell Chargois",
+   "scorer": "Elijah Kole Tucker",
    "ast": 3,
    "pts": 6
   },
@@ -3878,25 +4549,7 @@
    "pts": 5
   },
   {
-   "passer": "Jalen Terence Montgomery",
-   "scorer": "Jan Švandrlík",
-   "ast": 2,
-   "pts": 6
-  },
-  {
-   "passer": "Radovan Kouřil",
-   "scorer": "Jalen Terence Montgomery",
-   "ast": 2,
-   "pts": 6
-  },
-  {
    "passer": "Matěj Svoboda",
-   "scorer": "Jan Švandrlík",
-   "ast": 2,
-   "pts": 6
-  },
-  {
-   "passer": "Radovan Kouřil",
    "scorer": "Jan Švandrlík",
    "ast": 2,
    "pts": 6
@@ -3914,12 +4567,6 @@
    "pts": 5
   },
   {
-   "passer": "Šimon Puršl",
-   "scorer": "Jan Švandrlík",
-   "ast": 2,
-   "pts": 5
-  },
-  {
    "passer": "Jalen Terence Montgomery",
    "scorer": "Radovan Kouřil",
    "ast": 2,
@@ -3932,7 +4579,19 @@
    "pts": 5
   },
   {
-   "passer": "Jakub Šiřina",
+   "passer": "Jakub Slavík",
+   "scorer": "Šimon Puršl",
+   "ast": 2,
+   "pts": 5
+  },
+  {
+   "passer": "Ethan Maxwell Chargois",
+   "scorer": "Elijah Kole Tucker",
+   "ast": 2,
+   "pts": 4
+  },
+  {
+   "passer": "Marek Vyroubal",
    "scorer": "Elijah Kole Tucker",
    "ast": 2,
    "pts": 4
@@ -3944,12 +4603,6 @@
    "pts": 3
   },
   {
-   "passer": "Jalen Terence Montgomery",
-   "scorer": "Elijah Kole Tucker",
-   "ast": 2,
-   "pts": 2
-  },
-  {
    "passer": "Matěj Svoboda",
    "scorer": "Jalen Terence Montgomery",
    "ast": 2,
@@ -3957,24 +4610,6 @@
   },
   {
    "passer": "Šimon Puršl",
-   "scorer": "Jakub Šiřina",
-   "ast": 1,
-   "pts": 3
-  },
-  {
-   "passer": "Elijah Kole Tucker",
-   "scorer": "Jalen Terence Montgomery",
-   "ast": 1,
-   "pts": 3
-  },
-  {
-   "passer": "Ethan Maxwell Chargois",
-   "scorer": "Matěj Svoboda",
-   "ast": 1,
-   "pts": 3
-  },
-  {
-   "passer": "Ethan Maxwell Chargois",
    "scorer": "Jakub Šiřina",
    "ast": 1,
    "pts": 3
@@ -4386,6 +5021,108 @@
     "last5": [
      7,
      10
+    ]
+   }
+  },
+  {
+   "fibaId": 2893124,
+   "nblId": 544571,
+   "date": "2026-10-03",
+   "round": "5. kolo",
+   "venue": "home",
+   "opponent": "BK Loko BaliMania Plzeň",
+   "opponentSlug": "plzen",
+   "opponentLabel": "Plzeň",
+   "score": [
+    92,
+    82
+   ],
+   "result": "W",
+   "ot": false,
+   "ortg": 113.0,
+   "drtg": 95.8,
+   "net": 17.2,
+   "pace": 83.5,
+   "efg": 56.9,
+   "tov": 14.5,
+   "orb": 25.0,
+   "ftr": 27.7,
+   "topScorer": "Šimon Puršl",
+   "oppEfg": 51.5,
+   "oppOrb": 27.5,
+   "tp": [
+    4,
+    16
+   ],
+   "ft": [
+    18,
+    26
+   ],
+   "second": [
+    11,
+    13
+   ],
+   "bench": [
+    46,
+    17
+   ],
+   "paint": [
+    60,
+    22
+   ],
+   "leading": [
+    22.8,
+    13.4
+   ],
+   "leadChanges": 14,
+   "maxLead": [
+    13,
+    8
+   ],
+   "maxRun": [
+    9,
+    7
+   ],
+   "astFg": [
+    [
+     17,
+     35
+    ],
+    [
+     13,
+     27
+    ]
+   ],
+   "quarters": [
+    [
+     24,
+     13
+    ],
+    [
+     17,
+     30
+    ],
+    [
+     26,
+     22
+    ],
+    [
+     25,
+     17
+    ]
+   ],
+   "segments": {
+    "first3": [
+     23,
+     26
+    ],
+    "last3": [
+     32,
+     22
+    ],
+    "last5": [
+     14,
+     8
     ]
    }
   }
@@ -6311,6 +7048,461 @@
     0,
     1,
     5
+   ],
+   [
+    7.4,
+    57.8,
+    0,
+    0,
+    2
+   ],
+   [
+    7.7,
+    55.0,
+    0,
+    0,
+    2
+   ],
+   [
+    11.3,
+    50.7,
+    1,
+    0,
+    7
+   ],
+   [
+    31.4,
+    54.4,
+    0,
+    1,
+    5
+   ],
+   [
+    9.5,
+    53.3,
+    1,
+    0,
+    7
+   ],
+   [
+    0.8,
+    42.3,
+    0,
+    0,
+    0
+   ],
+   [
+    10.6,
+    48.8,
+    1,
+    0,
+    7
+   ],
+   [
+    13.0,
+    56.9,
+    0,
+    0,
+    7
+   ],
+   [
+    5.0,
+    57.5,
+    1,
+    0,
+    13
+   ],
+   [
+    7.1,
+    50.7,
+    0,
+    0,
+    4
+   ],
+   [
+    6.4,
+    71.3,
+    1,
+    0,
+    3
+   ],
+   [
+    8.3,
+    60.6,
+    1,
+    0,
+    1
+   ],
+   [
+    8.9,
+    50.4,
+    1,
+    0,
+    1
+   ],
+   [
+    7.1,
+    42.8,
+    1,
+    0,
+    6
+   ],
+   [
+    4.9,
+    56.4,
+    1,
+    0,
+    1
+   ],
+   [
+    19.2,
+    7.3,
+    0,
+    1,
+    0
+   ],
+   [
+    6.1,
+    41.7,
+    1,
+    0,
+    7
+   ],
+   [
+    21.5,
+    27.3,
+    0,
+    0,
+    0
+   ],
+   [
+    15.8,
+    43.7,
+    0,
+    0,
+    2
+   ],
+   [
+    30.1,
+    33.8,
+    0,
+    1,
+    2
+   ],
+   [
+    21.9,
+    7.8,
+    0,
+    1,
+    2
+   ],
+   [
+    10.5,
+    54.7,
+    1,
+    0,
+    2
+   ],
+   [
+    7.1,
+    57.8,
+    1,
+    0,
+    1
+   ],
+   [
+    2.8,
+    33.5,
+    0,
+    0,
+    1
+   ],
+   [
+    3.6,
+    41.4,
+    1,
+    0,
+    0
+   ],
+   [
+    28.2,
+    27.0,
+    0,
+    1,
+    0
+   ],
+   [
+    29.2,
+    32.4,
+    0,
+    1,
+    13
+   ],
+   [
+    10.8,
+    53.0,
+    0,
+    0,
+    13
+   ],
+   [
+    7.2,
+    41.7,
+    1,
+    0,
+    12
+   ],
+   [
+    7.2,
+    55.2,
+    0,
+    0,
+    12
+   ],
+   [
+    7.4,
+    49.6,
+    1,
+    0,
+    13
+   ],
+   [
+    21.1,
+    8.7,
+    0,
+    1,
+    6
+   ],
+   [
+    22.8,
+    11.2,
+    1,
+    1,
+    2
+   ],
+   [
+    10.5,
+    53.5,
+    1,
+    0,
+    7
+   ],
+   [
+    8.0,
+    43.3,
+    1,
+    0,
+    7
+   ],
+   [
+    16.6,
+    57.2,
+    0,
+    0,
+    0
+   ],
+   [
+    20.3,
+    93.6,
+    1,
+    1,
+    5
+   ],
+   [
+    29.7,
+    72.4,
+    0,
+    1,
+    5
+   ],
+   [
+    4.7,
+    62.5,
+    1,
+    0,
+    0
+   ],
+   [
+    11.1,
+    45.9,
+    1,
+    0,
+    5
+   ],
+   [
+    11.4,
+    54.1,
+    1,
+    0,
+    7
+   ],
+   [
+    11.3,
+    51.0,
+    0,
+    0,
+    0
+   ],
+   [
+    6.3,
+    56.6,
+    0,
+    0,
+    2
+   ],
+   [
+    7.8,
+    58.6,
+    1,
+    0,
+    1
+   ],
+   [
+    8.3,
+    50.4,
+    1,
+    0,
+    1
+   ],
+   [
+    10.6,
+    47.3,
+    1,
+    0,
+    3
+   ],
+   [
+    4.4,
+    50.1,
+    1,
+    0,
+    1
+   ],
+   [
+    23.9,
+    84.0,
+    0,
+    1,
+    2
+   ],
+   [
+    31.7,
+    65.1,
+    0,
+    1,
+    6
+   ],
+   [
+    28.4,
+    15.7,
+    1,
+    1,
+    2
+   ],
+   [
+    22.5,
+    58.3,
+    0,
+    0,
+    13
+   ],
+   [
+    32.0,
+    65.9,
+    0,
+    1,
+    2
+   ],
+   [
+    9.4,
+    51.2,
+    1,
+    0,
+    7
+   ],
+   [
+    8.1,
+    48.4,
+    1,
+    0,
+    7
+   ],
+   [
+    4.9,
+    58.3,
+    1,
+    0,
+    4
+   ],
+   [
+    8.3,
+    47.0,
+    1,
+    0,
+    7
+   ],
+   [
+    15.5,
+    56.0,
+    0,
+    0,
+    13
+   ],
+   [
+    5.5,
+    53.8,
+    1,
+    0,
+    7
+   ],
+   [
+    3.2,
+    60.6,
+    1,
+    0,
+    1
+   ],
+   [
+    15.0,
+    54.6,
+    0,
+    0,
+    1
+   ],
+   [
+    8.4,
+    52.4,
+    1,
+    0,
+    12
+   ],
+   [
+    27.9,
+    17.7,
+    1,
+    1,
+    5
+   ],
+   [
+    22.3,
+    13.2,
+    0,
+    1,
+    12
+   ],
+   [
+    18.0,
+    50.7,
+    0,
+    0,
+    1
+   ],
+   [
+    4.9,
+    53.8,
+    0,
+    0,
+    5
    ]
   ]
  },
@@ -6319,89 +7511,111 @@
    "name": "Matěj Svoboda",
    "bands": [
     15,
-    12,
-    16,
-    13,
+    15,
+    19,
+    15,
     12
    ],
-   "pts": 68
+   "pts": 76
+  },
+  {
+   "name": "Šimon Puršl",
+   "bands": [
+    2,
+    12,
+    17,
+    8,
+    13
+   ],
+   "pts": 52
+  },
+  {
+   "name": "Elijah Kole Tucker",
+   "bands": [
+    6,
+    7,
+    10,
+    17,
+    7
+   ],
+   "pts": 47
   },
   {
    "name": "Jalen Terence Montgomery",
    "bands": [
-    3,
-    9,
-    6,
+    5,
+    10,
+    8,
     5,
     13
    ],
-   "pts": 36
-  },
-  {
-   "name": "Ethan Maxwell Chargois",
-   "bands": [
-    1,
-    5,
-    9,
-    10,
-    7
-   ],
-   "pts": 32
+   "pts": 41
   },
   {
    "name": "Jan Švandrlík",
    "bands": [
-    5,
+    7,
     11,
-    12,
-    3,
+    18,
+    5,
     0
    ],
-   "pts": 31
+   "pts": 41
+  },
+  {
+   "name": "Ethan Maxwell Chargois",
+   "bands": [
+    3,
+    5,
+    9,
+    12,
+    7
+   ],
+   "pts": 36
+  },
+  {
+   "name": "Marek Vyroubal",
+   "bands": [
+    3,
+    6,
+    14,
+    5,
+    4
+   ],
+   "pts": 32
   },
   {
    "name": "Jakub Šiřina",
    "bands": [
     7,
     4,
-    7,
+    9,
     11,
     0
    ],
-   "pts": 29
+   "pts": 31
   },
   {
-   "name": "Šimon Puršl",
+   "name": "Jakub Slavík",
    "bands": [
     2,
     8,
-    8,
-    2,
-    9
-   ],
-   "pts": 29
-  },
-  {
-   "name": "Marek Vyroubal",
-   "bands": [
-    0,
     6,
-    14,
-    4,
-    4
+    0,
+    3
    ],
-   "pts": 28
+   "pts": 19
   },
   {
-   "name": "Elijah Kole Tucker",
+   "name": "Kryštof Kavan",
    "bands": [
-    4,
+    5,
+    0,
+    5,
     3,
-    2,
-    10,
-    7
+    0
    ],
-   "pts": 26
+   "pts": 13
   },
   {
    "name": "Radovan Kouřil",
@@ -6413,28 +7627,6 @@
     0
    ],
    "pts": 9
-  },
-  {
-   "name": "Jakub Slavík",
-   "bands": [
-    0,
-    2,
-    6,
-    0,
-    1
-   ],
-   "pts": 9
-  },
-  {
-   "name": "Kryštof Kavan",
-   "bands": [
-    3,
-    0,
-    5,
-    0,
-    0
-   ],
-   "pts": 8
   },
   {
    "name": "Filip Zbránek",
@@ -6461,67 +7653,67 @@
  ],
  "segments": {
   "first3": [
-   79,
-   114
+   102,
+   140
   ],
   "last3": [
-   103,
-   118
+   135,
+   140
   ],
   "last5": [
-   27,
-   41
+   41,
+   49
   ]
  },
  "ranks": {
   "ppg": 9,
-  "oppg": 10,
-  "diff": 10,
+  "oppg": 9,
+  "diff": 8,
   "ortg": 9,
-  "drtg": 10,
-  "net": 10,
-  "pace": 7,
-  "efg": 7,
+  "drtg": 7,
+  "net": 8,
+  "pace": 6,
+  "efg": 8,
   "ts": 9,
-  "tov": 8,
-  "orb": 6,
-  "drb": 12,
-  "ftr": 10,
-  "three_par": 3,
+  "tov": 5,
+  "orb": 7,
+  "drb": 10,
+  "ftr": 9,
+  "three_par": 5,
   "three": 10,
-  "two": 6,
+  "two": 3,
   "ft": 10,
-  "ast_pct": 1,
-  "ast_to": 5,
-  "stl_pct": 2,
+  "ast_pct": 3,
+  "ast_to": 4,
+  "stl_pct": 3,
   "blk_pct": 7,
-  "opp_efg": 9,
-  "opp_tov": 5,
-  "opp_ftr": 6,
+  "opp_efg": 8,
+  "opp_tov": 3,
+  "opp_ftr": 4,
   "opp_three": 6,
   "of": 12
  },
  "standing": {
-  "pos": 9,
+  "pos": 8,
   "slug": "opava",
   "name": "BK Opava",
   "label": "Opava",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
-  "gp": 4,
-  "w": 1,
+  "gp": 5,
+  "w": 2,
   "l": 3,
-  "pct": 0.25,
-  "pf": 317,
-  "pa": 365,
-  "diff": -48,
-  "ppg": 79.2,
-  "oppg": 91.2,
-  "home": "1-1",
+  "pct": 0.4,
+  "pf": 409,
+  "pa": 447,
+  "diff": -38,
+  "ppg": 81.8,
+  "oppg": 89.4,
+  "home": "2-1",
   "away": "0-2",
   "close": "0-0",
   "ot": 0,
-  "streak": "L1",
-  "last5": "LLWL"
+  "streak": "W1",
+  "last5": "LLWLW"
  },
  "players": [
   {
@@ -6532,103 +7724,103 @@
    "teamLabel": "Opava",
    "shirt": "10",
    "pos": "",
-   "gp": 4,
-   "gs": 4,
-   "min": 105.5,
+   "gp": 5,
+   "gs": 5,
+   "min": 124.9,
    "totals": {
-    "pts": 68,
-    "fgm": 25,
-    "fga": 62,
-    "tpm": 10,
-    "tpa": 32,
-    "twopm": 15,
-    "twopa": 30,
+    "pts": 76,
+    "fgm": 28,
+    "fga": 73,
+    "tpm": 12,
+    "tpa": 38,
+    "twopm": 16,
+    "twopa": 35,
     "ftm": 8,
     "fta": 11,
-    "oreb": 8,
-    "dreb": 14,
-    "reb": 22,
-    "ast": 8,
-    "to": 7,
+    "oreb": 10,
+    "dreb": 19,
+    "reb": 29,
+    "ast": 9,
+    "to": 10,
     "stl": 5,
     "blk": 1,
     "blkr": 3,
-    "pf": 4,
-    "foulon": 10,
-    "pm": -27,
-    "paint": 28,
+    "pf": 5,
+    "foulon": 11,
+    "pm": -32,
+    "paint": 30,
     "fast": 17,
-    "second": 14
+    "second": 17
    },
    "perGame": {
-    "pts": 17.0,
-    "fgm": 6.2,
-    "fga": 15.5,
-    "tpm": 2.5,
-    "tpa": 8.0,
-    "twopm": 3.8,
-    "twopa": 7.5,
-    "ftm": 2.0,
-    "fta": 2.8,
+    "pts": 15.2,
+    "fgm": 5.6,
+    "fga": 14.6,
+    "tpm": 2.4,
+    "tpa": 7.6,
+    "twopm": 3.2,
+    "twopa": 7.0,
+    "ftm": 1.6,
+    "fta": 2.2,
     "oreb": 2.0,
-    "dreb": 3.5,
-    "reb": 5.5,
-    "ast": 2.0,
-    "to": 1.8,
-    "stl": 1.2,
+    "dreb": 3.8,
+    "reb": 5.8,
+    "ast": 1.8,
+    "to": 2.0,
+    "stl": 1.0,
     "blk": 0.2,
-    "blkr": 0.8,
+    "blkr": 0.6,
     "pf": 1.0,
-    "foulon": 2.5,
-    "pm": -6.8,
-    "paint": 7.0,
-    "fast": 4.2,
-    "second": 3.5,
-    "min": 26.4,
-    "eff": 14.2,
-    "gmsc": 11.5
+    "foulon": 2.2,
+    "pm": -6.4,
+    "paint": 6.0,
+    "fast": 3.4,
+    "second": 3.4,
+    "min": 25.0,
+    "eff": 12.4,
+    "gmsc": 9.5
    },
    "per40": {
-    "pts": 25.8,
-    "reb": 8.3,
-    "ast": 3.0,
-    "stl": 1.9,
-    "blk": 0.4,
-    "to": 2.7
+    "pts": 24.3,
+    "reb": 9.3,
+    "ast": 2.9,
+    "stl": 1.6,
+    "blk": 0.3,
+    "to": 3.2
    },
-   "ts": 50.9,
-   "efg": 48.4,
-   "fg": 40.3,
-   "two": 50.0,
-   "three": 31.2,
+   "ts": 48.8,
+   "efg": 46.6,
+   "fg": 38.4,
+   "two": 45.7,
+   "three": 31.6,
    "ft": 72.7,
-   "usg": 30.1,
-   "astTo": 1.14,
-   "pm": -27,
+   "usg": 30.5,
+   "astTo": 0.9,
+   "pm": -32,
    "pm40": -10.2,
    "on": {
-    "min": 105.4,
-    "pf": 207,
-    "pa": 234,
-    "ortg": 100.2,
-    "drtg": 110.4,
-    "net": -10.2
+    "min": 124.8,
+    "pf": 241,
+    "pa": 273,
+    "ortg": 99.1,
+    "drtg": 108.6,
+    "net": -9.5
    },
    "off": {
-    "min": 54.6,
-    "ortg": 100.7,
-    "drtg": 117.7,
-    "net": -17.0
+    "min": 75.2,
+    "ortg": 109.1,
+    "drtg": 110.5,
+    "net": -1.5
    },
-   "onOff": 6.8,
+   "onOff": -8.0,
    "dd": 0,
    "td": 0,
    "high": 22,
    "zones": {
     "paint": {
-     "m": 14,
-     "a": 24,
-     "pct": 58.3
+     "m": 15,
+     "a": 29,
+     "pct": 51.7
     },
     "mid": {
      "m": 1,
@@ -6641,9 +7833,9 @@
      "pct": 25.0
     },
     "above3": {
-     "m": 9,
-     "a": 28,
-     "pct": 32.1
+     "m": 11,
+     "a": 34,
+     "pct": 32.4
     }
    },
    "log": [
@@ -6726,191 +7918,26 @@
      "pm": -10,
      "eff": 12,
      "ts": 56.7
-    }
-   ]
-  },
-  {
-   "id": "opava/jalen-terence-montgomery",
-   "name": "Jalen Terence Montgomery",
-   "team": "opava",
-   "teamName": "BK Opava",
-   "teamLabel": "Opava",
-   "shirt": "0",
-   "pos": "",
-   "gp": 3,
-   "gs": 3,
-   "min": 72.4,
-   "totals": {
-    "pts": 36,
-    "fgm": 12,
-    "fga": 32,
-    "tpm": 5,
-    "tpa": 12,
-    "twopm": 7,
-    "twopa": 20,
-    "ftm": 7,
-    "fta": 10,
-    "oreb": 2,
-    "dreb": 7,
-    "reb": 9,
-    "ast": 9,
-    "to": 2,
-    "stl": 6,
-    "blk": 1,
-    "blkr": 0,
-    "pf": 7,
-    "foulon": 9,
-    "pm": -18,
-    "paint": 8,
-    "fast": 2,
-    "second": 8
-   },
-   "perGame": {
-    "pts": 12.0,
-    "fgm": 4.0,
-    "fga": 10.7,
-    "tpm": 1.7,
-    "tpa": 4.0,
-    "twopm": 2.3,
-    "twopa": 6.7,
-    "ftm": 2.3,
-    "fta": 3.3,
-    "oreb": 0.7,
-    "dreb": 2.3,
-    "reb": 3.0,
-    "ast": 3.0,
-    "to": 0.7,
-    "stl": 2.0,
-    "blk": 0.3,
-    "blkr": 0.0,
-    "pf": 2.3,
-    "foulon": 3.0,
-    "pm": -6.0,
-    "paint": 2.7,
-    "fast": 0.7,
-    "second": 2.7,
-    "min": 24.1,
-    "eff": 12.0,
-    "gmsc": 9.6
-   },
-   "per40": {
-    "pts": 19.9,
-    "reb": 5.0,
-    "ast": 5.0,
-    "stl": 3.3,
-    "blk": 0.6,
-    "to": 1.1
-   },
-   "ts": 49.5,
-   "efg": 45.3,
-   "fg": 37.5,
-   "two": 35.0,
-   "three": 41.7,
-   "ft": 70.0,
-   "usg": 23.0,
-   "astTo": 4.5,
-   "pm": -18,
-   "pm40": -9.9,
-   "on": {
-    "min": 72.4,
-    "pf": 152,
-    "pa": 169,
-    "ortg": 105.7,
-    "drtg": 114.6,
-    "net": -8.9
-   },
-   "off": {
-    "min": 47.6,
-    "ortg": 94.7,
-    "drtg": 111.9,
-    "net": -17.2
-   },
-   "onOff": 8.3,
-   "dd": 0,
-   "td": 0,
-   "high": 14,
-   "zones": {
-    "paint": {
-     "m": 4,
-     "a": 12,
-     "pct": 33.3
-    },
-    "mid": {
-     "m": 3,
-     "a": 8,
-     "pct": 37.5
-    },
-    "corner3": {
-     "m": 1,
-     "a": 3,
-     "pct": 33.3
-    },
-    "above3": {
-     "m": 4,
-     "a": 9,
-     "pct": 44.4
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2890470,
-     "date": "2026-09-19",
-     "opponent": "Ostrava",
-     "venue": "home",
-     "result": "L",
-     "min": 21.9,
-     "pts": 13,
-     "reb": 4,
-     "ast": 2,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "6/11",
-     "tp": "1/1",
-     "ft": "0/0",
-     "pm": -15,
-     "eff": 12,
-     "ts": 59.1
     },
     {
-     "fibaId": 2890476,
-     "date": "2026-09-23",
-     "opponent": "Slavia",
-     "venue": "away",
-     "result": "L",
-     "min": 23.4,
-     "pts": 14,
-     "reb": 3,
-     "ast": 5,
-     "stl": 4,
-     "blk": 0,
-     "to": 0,
-     "fg": "4/12",
-     "tp": "2/4",
-     "ft": "4/6",
-     "pm": -20,
-     "eff": 16,
-     "ts": 47.8
-    },
-    {
-     "fibaId": 2890481,
-     "date": "2026-09-26",
-     "opponent": "Děčín",
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
      "venue": "home",
      "result": "W",
-     "min": 27.1,
-     "pts": 9,
-     "reb": 2,
-     "ast": 2,
-     "stl": 2,
-     "blk": 1,
-     "to": 0,
-     "fg": "2/9",
-     "tp": "2/7",
-     "ft": "3/4",
-     "pm": 17,
-     "eff": 8,
-     "ts": 41.8
+     "min": 19.4,
+     "pts": 8,
+     "reb": 7,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 3,
+     "fg": "3/11",
+     "tp": "2/6",
+     "ft": "0/0",
+     "pm": -5,
+     "eff": 5,
+     "ts": 36.4
     }
    ]
   },
@@ -6922,103 +7949,103 @@
    "teamLabel": "Opava",
    "shirt": "20",
    "pos": "",
-   "gp": 3,
-   "gs": 0,
-   "min": 54.5,
+   "gp": 4,
+   "gs": 1,
+   "min": 74.6,
    "totals": {
-    "pts": 29,
-    "fgm": 12,
-    "fga": 18,
+    "pts": 52,
+    "fgm": 23,
+    "fga": 30,
     "tpm": 1,
     "tpa": 2,
-    "twopm": 11,
-    "twopa": 16,
-    "ftm": 4,
-    "fta": 7,
-    "oreb": 2,
-    "dreb": 8,
-    "reb": 10,
-    "ast": 8,
-    "to": 5,
+    "twopm": 22,
+    "twopa": 28,
+    "ftm": 5,
+    "fta": 8,
+    "oreb": 3,
+    "dreb": 13,
+    "reb": 16,
+    "ast": 9,
+    "to": 7,
     "stl": 2,
-    "blk": 2,
+    "blk": 3,
     "blkr": 1,
-    "pf": 10,
-    "foulon": 8,
-    "pm": 1,
-    "paint": 22,
-    "fast": 5,
-    "second": 7
+    "pf": 11,
+    "foulon": 11,
+    "pm": 4,
+    "paint": 44,
+    "fast": 7,
+    "second": 9
    },
    "perGame": {
-    "pts": 9.7,
-    "fgm": 4.0,
-    "fga": 6.0,
-    "tpm": 0.3,
-    "tpa": 0.7,
-    "twopm": 3.7,
-    "twopa": 5.3,
-    "ftm": 1.3,
-    "fta": 2.3,
-    "oreb": 0.7,
-    "dreb": 2.7,
-    "reb": 3.3,
-    "ast": 2.7,
-    "to": 1.7,
-    "stl": 0.7,
-    "blk": 0.7,
-    "blkr": 0.3,
-    "pf": 3.3,
-    "foulon": 2.7,
-    "pm": 0.3,
-    "paint": 7.3,
-    "fast": 1.7,
-    "second": 2.3,
-    "min": 18.2,
-    "eff": 12.3,
-    "gmsc": 7.9
+    "pts": 13.0,
+    "fgm": 5.8,
+    "fga": 7.5,
+    "tpm": 0.2,
+    "tpa": 0.5,
+    "twopm": 5.5,
+    "twopa": 7.0,
+    "ftm": 1.2,
+    "fta": 2.0,
+    "oreb": 0.8,
+    "dreb": 3.2,
+    "reb": 4.0,
+    "ast": 2.2,
+    "to": 1.8,
+    "stl": 0.5,
+    "blk": 0.8,
+    "blkr": 0.2,
+    "pf": 2.8,
+    "foulon": 2.8,
+    "pm": 1.0,
+    "paint": 11.0,
+    "fast": 1.8,
+    "second": 2.2,
+    "min": 18.6,
+    "eff": 16.2,
+    "gmsc": 11.0
    },
    "per40": {
-    "pts": 21.3,
-    "reb": 7.3,
-    "ast": 5.9,
-    "stl": 1.5,
-    "blk": 1.5,
-    "to": 3.7
+    "pts": 27.9,
+    "reb": 8.6,
+    "ast": 4.8,
+    "stl": 1.1,
+    "blk": 1.6,
+    "to": 3.8
    },
-   "ts": 68.8,
-   "efg": 69.4,
-   "fg": 66.7,
-   "two": 68.8,
+   "ts": 77.6,
+   "efg": 78.3,
+   "fg": 76.7,
+   "two": 78.6,
    "three": 50.0,
-   "ft": 57.1,
-   "usg": 20.4,
-   "astTo": 1.6,
-   "pm": 1,
-   "pm40": 0.7,
+   "ft": 62.5,
+   "usg": 23.4,
+   "astTo": 1.29,
+   "pm": 4,
+   "pm40": 2.1,
    "on": {
-    "min": 54.5,
-    "pf": 116,
-    "pa": 115,
-    "ortg": 100.0,
-    "drtg": 97.3,
-    "net": 2.7
+    "min": 74.7,
+    "pf": 161,
+    "pa": 157,
+    "ortg": 101.1,
+    "drtg": 97.4,
+    "net": 3.7
    },
    "off": {
-    "min": 65.5,
-    "ortg": 93.0,
-    "drtg": 132.7,
-    "net": -39.7
+    "min": 85.3,
+    "ortg": 100.0,
+    "drtg": 123.2,
+    "net": -23.2
    },
-   "onOff": 42.4,
+   "onOff": 26.9,
    "dd": 0,
    "td": 0,
-   "high": 11,
+   "high": 23,
    "zones": {
     "paint": {
-     "m": 11,
-     "a": 16,
-     "pct": 68.8
+     "m": 22,
+     "a": 28,
+     "pct": 78.6
     },
     "mid": {
      "m": 0,
@@ -7096,6 +8123,26 @@
      "pm": 9,
      "eff": 6,
      "ts": 57.1
+    },
+    {
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 20.1,
+     "pts": 23,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "to": 2,
+     "fg": "11/12",
+     "tp": "0/0",
+     "ft": "1/1",
+     "pm": 3,
+     "eff": 28,
+     "ts": 92.4
     }
    ]
   },
@@ -7107,103 +8154,103 @@
    "teamLabel": "Opava",
    "shirt": "77",
    "pos": "",
-   "gp": 3,
+   "gp": 4,
    "gs": 1,
-   "min": 50.0,
+   "min": 69.9,
    "totals": {
-    "pts": 26,
-    "fgm": 11,
-    "fga": 17,
+    "pts": 47,
+    "fgm": 19,
+    "fga": 28,
     "tpm": 0,
     "tpa": 1,
-    "twopm": 11,
-    "twopa": 16,
-    "ftm": 4,
-    "fta": 6,
-    "oreb": 3,
+    "twopm": 19,
+    "twopa": 27,
+    "ftm": 9,
+    "fta": 12,
+    "oreb": 4,
     "dreb": 8,
-    "reb": 11,
-    "ast": 5,
+    "reb": 12,
+    "ast": 6,
     "to": 2,
-    "stl": 2,
+    "stl": 3,
     "blk": 1,
     "blkr": 0,
-    "pf": 8,
-    "foulon": 7,
-    "pm": -36,
-    "paint": 18,
-    "fast": 2,
-    "second": 6
+    "pf": 9,
+    "foulon": 10,
+    "pm": -29,
+    "paint": 34,
+    "fast": 6,
+    "second": 10
    },
    "perGame": {
-    "pts": 8.7,
-    "fgm": 3.7,
-    "fga": 5.7,
+    "pts": 11.8,
+    "fgm": 4.8,
+    "fga": 7.0,
     "tpm": 0.0,
-    "tpa": 0.3,
-    "twopm": 3.7,
-    "twopa": 5.3,
-    "ftm": 1.3,
-    "fta": 2.0,
+    "tpa": 0.2,
+    "twopm": 4.8,
+    "twopa": 6.8,
+    "ftm": 2.2,
+    "fta": 3.0,
     "oreb": 1.0,
-    "dreb": 2.7,
-    "reb": 3.7,
-    "ast": 1.7,
-    "to": 0.7,
-    "stl": 0.7,
-    "blk": 0.3,
+    "dreb": 2.0,
+    "reb": 3.0,
+    "ast": 1.5,
+    "to": 0.5,
+    "stl": 0.8,
+    "blk": 0.2,
     "blkr": 0.0,
-    "pf": 2.7,
-    "foulon": 2.3,
-    "pm": -12.0,
-    "paint": 6.0,
-    "fast": 0.7,
-    "second": 2.0,
-    "min": 16.7,
-    "eff": 11.7,
-    "gmsc": 7.7
+    "pf": 2.2,
+    "foulon": 2.5,
+    "pm": -7.2,
+    "paint": 8.5,
+    "fast": 1.5,
+    "second": 2.5,
+    "min": 17.5,
+    "eff": 13.8,
+    "gmsc": 10.3
    },
    "per40": {
-    "pts": 20.8,
-    "reb": 8.8,
-    "ast": 4.0,
-    "stl": 1.6,
-    "blk": 0.8,
-    "to": 1.6
+    "pts": 26.9,
+    "reb": 6.9,
+    "ast": 3.4,
+    "stl": 1.7,
+    "blk": 0.6,
+    "to": 1.1
    },
-   "ts": 66.2,
-   "efg": 64.7,
-   "fg": 64.7,
-   "two": 68.8,
+   "ts": 70.6,
+   "efg": 67.9,
+   "fg": 67.9,
+   "two": 70.4,
    "three": 0.0,
-   "ft": 66.7,
-   "usg": 18.6,
-   "astTo": 2.5,
-   "pm": -36,
-   "pm40": -28.8,
+   "ft": 75.0,
+   "usg": 21.9,
+   "astTo": 3.0,
+   "pm": -29,
+   "pm40": -16.6,
    "on": {
-    "min": 50.0,
-    "pf": 87,
-    "pa": 123,
-    "ortg": 96.1,
-    "drtg": 129.9,
-    "net": -33.8
+    "min": 69.8,
+    "pf": 134,
+    "pa": 163,
+    "ortg": 104.1,
+    "drtg": 118.7,
+    "net": -14.6
    },
    "off": {
-    "min": 70.0,
-    "ortg": 105.9,
-    "drtg": 91.0,
-    "net": 14.9
+    "min": 90.2,
+    "ortg": 105.4,
+    "drtg": 92.6,
+    "net": 12.9
    },
-   "onOff": -48.7,
+   "onOff": -27.5,
    "dd": 0,
    "td": 0,
-   "high": 10,
+   "high": 21,
    "zones": {
     "paint": {
-     "m": 10,
-     "a": 15,
-     "pct": 66.7
+     "m": 18,
+     "a": 26,
+     "pct": 69.2
     },
     "mid": {
      "m": 1,
@@ -7281,6 +8328,456 @@
      "pm": -15,
      "eff": 12,
      "ts": 62.5
+    },
+    {
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 19.9,
+     "pts": 21,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "8/11",
+     "tp": "0/0",
+     "ft": "5/6",
+     "pm": 7,
+     "eff": 20,
+     "ts": 77.0
+    }
+   ]
+  },
+  {
+   "id": "opava/jalen-terence-montgomery",
+   "name": "Jalen Terence Montgomery",
+   "team": "opava",
+   "teamName": "BK Opava",
+   "teamLabel": "Opava",
+   "shirt": "0",
+   "pos": "",
+   "gp": 4,
+   "gs": 4,
+   "min": 99.3,
+   "totals": {
+    "pts": 41,
+    "fgm": 14,
+    "fga": 40,
+    "tpm": 5,
+    "tpa": 14,
+    "twopm": 9,
+    "twopa": 26,
+    "ftm": 8,
+    "fta": 12,
+    "oreb": 2,
+    "dreb": 7,
+    "reb": 9,
+    "ast": 12,
+    "to": 3,
+    "stl": 6,
+    "blk": 1,
+    "blkr": 0,
+    "pf": 8,
+    "foulon": 12,
+    "pm": -23,
+    "paint": 12,
+    "fast": 2,
+    "second": 8
+   },
+   "perGame": {
+    "pts": 10.2,
+    "fgm": 3.5,
+    "fga": 10.0,
+    "tpm": 1.2,
+    "tpa": 3.5,
+    "twopm": 2.2,
+    "twopa": 6.5,
+    "ftm": 2.0,
+    "fta": 3.0,
+    "oreb": 0.5,
+    "dreb": 1.8,
+    "reb": 2.2,
+    "ast": 3.0,
+    "to": 0.8,
+    "stl": 1.5,
+    "blk": 0.2,
+    "blkr": 0.0,
+    "pf": 2.0,
+    "foulon": 3.0,
+    "pm": -5.8,
+    "paint": 3.0,
+    "fast": 0.5,
+    "second": 2.0,
+    "min": 24.8,
+    "eff": 9.0,
+    "gmsc": 7.3
+   },
+   "per40": {
+    "pts": 16.5,
+    "reb": 3.6,
+    "ast": 4.8,
+    "stl": 2.4,
+    "blk": 0.4,
+    "to": 1.2
+   },
+   "ts": 45.3,
+   "efg": 41.2,
+   "fg": 35.0,
+   "two": 34.6,
+   "three": 35.7,
+   "ft": 66.7,
+   "usg": 21.2,
+   "astTo": 4.0,
+   "pm": -23,
+   "pm40": -9.3,
+   "on": {
+    "min": 99.3,
+    "pf": 206,
+    "pa": 228,
+    "ortg": 106.2,
+    "drtg": 111.7,
+    "net": -5.5
+   },
+   "off": {
+    "min": 60.7,
+    "ortg": 101.4,
+    "drtg": 104.6,
+    "net": -3.2
+   },
+   "onOff": -2.3,
+   "dd": 0,
+   "td": 0,
+   "high": 14,
+   "zones": {
+    "paint": {
+     "m": 6,
+     "a": 17,
+     "pct": 35.3
+    },
+    "mid": {
+     "m": 3,
+     "a": 9,
+     "pct": 33.3
+    },
+    "corner3": {
+     "m": 1,
+     "a": 3,
+     "pct": 33.3
+    },
+    "above3": {
+     "m": 4,
+     "a": 11,
+     "pct": 36.4
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890470,
+     "date": "2026-09-19",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "L",
+     "min": 21.9,
+     "pts": 13,
+     "reb": 4,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "6/11",
+     "tp": "1/1",
+     "ft": "0/0",
+     "pm": -15,
+     "eff": 12,
+     "ts": 59.1
+    },
+    {
+     "fibaId": 2890476,
+     "date": "2026-09-23",
+     "opponent": "Slavia",
+     "venue": "away",
+     "result": "L",
+     "min": 23.4,
+     "pts": 14,
+     "reb": 3,
+     "ast": 5,
+     "stl": 4,
+     "blk": 0,
+     "to": 0,
+     "fg": "4/12",
+     "tp": "2/4",
+     "ft": "4/6",
+     "pm": -20,
+     "eff": 16,
+     "ts": 47.8
+    },
+    {
+     "fibaId": 2890481,
+     "date": "2026-09-26",
+     "opponent": "Děčín",
+     "venue": "home",
+     "result": "W",
+     "min": 27.1,
+     "pts": 9,
+     "reb": 2,
+     "ast": 2,
+     "stl": 2,
+     "blk": 1,
+     "to": 0,
+     "fg": "2/9",
+     "tp": "2/7",
+     "ft": "3/4",
+     "pm": 17,
+     "eff": 8,
+     "ts": 41.8
+    },
+    {
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 26.9,
+     "pts": 5,
+     "reb": 0,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/8",
+     "tp": "0/2",
+     "ft": "1/2",
+     "pm": -5,
+     "eff": 0,
+     "ts": 28.2
+    }
+   ]
+  },
+  {
+   "id": "opava/jan-svandrlik",
+   "name": "Jan Švandrlík",
+   "team": "opava",
+   "teamName": "BK Opava",
+   "teamLabel": "Opava",
+   "shirt": "8",
+   "pos": "",
+   "gp": 5,
+   "gs": 4,
+   "min": 110.3,
+   "totals": {
+    "pts": 41,
+    "fgm": 14,
+    "fga": 39,
+    "tpm": 11,
+    "tpa": 33,
+    "twopm": 3,
+    "twopa": 6,
+    "ftm": 2,
+    "fta": 2,
+    "oreb": 4,
+    "dreb": 11,
+    "reb": 15,
+    "ast": 4,
+    "to": 4,
+    "stl": 10,
+    "blk": 1,
+    "blkr": 1,
+    "pf": 12,
+    "foulon": 4,
+    "pm": -23,
+    "paint": 6,
+    "fast": 7,
+    "second": 2
+   },
+   "perGame": {
+    "pts": 8.2,
+    "fgm": 2.8,
+    "fga": 7.8,
+    "tpm": 2.2,
+    "tpa": 6.6,
+    "twopm": 0.6,
+    "twopa": 1.2,
+    "ftm": 0.4,
+    "fta": 0.4,
+    "oreb": 0.8,
+    "dreb": 2.2,
+    "reb": 3.0,
+    "ast": 0.8,
+    "to": 0.8,
+    "stl": 2.0,
+    "blk": 0.2,
+    "blkr": 0.2,
+    "pf": 2.4,
+    "foulon": 0.8,
+    "pm": -4.6,
+    "paint": 1.2,
+    "fast": 1.4,
+    "second": 0.4,
+    "min": 22.1,
+    "eff": 8.4,
+    "gmsc": 6.0
+   },
+   "per40": {
+    "pts": 14.9,
+    "reb": 5.4,
+    "ast": 1.5,
+    "stl": 3.6,
+    "blk": 0.4,
+    "to": 1.5
+   },
+   "ts": 51.4,
+   "efg": 50.0,
+   "fg": 35.9,
+   "two": 50.0,
+   "three": 33.3,
+   "ft": 100.0,
+   "usg": 17.3,
+   "astTo": 1.0,
+   "pm": -23,
+   "pm40": -8.3,
+   "on": {
+    "min": 110.2,
+    "pf": 233,
+    "pa": 257,
+    "ortg": 104.1,
+    "drtg": 112.1,
+    "net": -8.0
+   },
+   "off": {
+    "min": 89.8,
+    "ortg": 101.5,
+    "drtg": 105.8,
+    "net": -4.3
+   },
+   "onOff": -3.7,
+   "dd": 0,
+   "td": 0,
+   "high": 15,
+   "zones": {
+    "paint": {
+     "m": 3,
+     "a": 5,
+     "pct": 60.0
+    },
+    "mid": {
+     "m": 0,
+     "a": 1,
+     "pct": 0.0
+    },
+    "corner3": {
+     "m": 2,
+     "a": 7,
+     "pct": 28.6
+    },
+    "above3": {
+     "m": 9,
+     "a": 26,
+     "pct": 34.6
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890470,
+     "date": "2026-09-19",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "L",
+     "min": 22.4,
+     "pts": 7,
+     "reb": 1,
+     "ast": 0,
+     "stl": 6,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/9",
+     "tp": "1/6",
+     "ft": "0/0",
+     "pm": -1,
+     "eff": 8,
+     "ts": 38.9
+    },
+    {
+     "fibaId": 2890476,
+     "date": "2026-09-23",
+     "opponent": "Slavia",
+     "venue": "away",
+     "result": "L",
+     "min": 21.4,
+     "pts": 6,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 3,
+     "fg": "2/6",
+     "tp": "2/6",
+     "ft": "0/0",
+     "pm": -26,
+     "eff": 4,
+     "ts": 50.0
+    },
+    {
+     "fibaId": 2890481,
+     "date": "2026-09-26",
+     "opponent": "Děčín",
+     "venue": "home",
+     "result": "W",
+     "min": 23.8,
+     "pts": 15,
+     "reb": 0,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "5/10",
+     "tp": "5/10",
+     "ft": "0/0",
+     "pm": 16,
+     "eff": 12,
+     "ts": 75.0
+    },
+    {
+     "fibaId": 2892256,
+     "date": "2026-09-30",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 20.1,
+     "pts": 3,
+     "reb": 5,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "1/8",
+     "tp": "1/7",
+     "ft": "0/0",
+     "pm": -10,
+     "eff": 4,
+     "ts": 18.8
+    },
+    {
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 22.6,
+     "pts": 10,
+     "reb": 5,
+     "ast": 0,
+     "stl": 2,
+     "blk": 1,
+     "to": 1,
+     "fg": "3/6",
+     "tp": "2/4",
+     "ft": "2/2",
+     "pm": -2,
+     "eff": 14,
+     "ts": 72.7
     }
    ]
   },
@@ -7292,103 +8789,103 @@
    "teamLabel": "Opava",
    "shirt": "5",
    "pos": "",
-   "gp": 4,
+   "gp": 5,
    "gs": 4,
-   "min": 82.0,
+   "min": 96.1,
    "totals": {
-    "pts": 32,
-    "fgm": 11,
-    "fga": 23,
+    "pts": 36,
+    "fgm": 13,
+    "fga": 25,
     "tpm": 2,
     "tpa": 10,
-    "twopm": 9,
-    "twopa": 13,
+    "twopm": 11,
+    "twopa": 15,
     "ftm": 8,
     "fta": 16,
     "oreb": 9,
-    "dreb": 17,
-    "reb": 26,
-    "ast": 6,
+    "dreb": 19,
+    "reb": 28,
+    "ast": 7,
     "to": 7,
-    "stl": 3,
+    "stl": 4,
     "blk": 3,
     "blkr": 0,
-    "pf": 8,
+    "pf": 9,
     "foulon": 12,
-    "pm": -37,
-    "paint": 18,
+    "pm": -24,
+    "paint": 20,
     "fast": 2,
     "second": 10
    },
    "perGame": {
-    "pts": 8.0,
-    "fgm": 2.8,
-    "fga": 5.8,
-    "tpm": 0.5,
-    "tpa": 2.5,
+    "pts": 7.2,
+    "fgm": 2.6,
+    "fga": 5.0,
+    "tpm": 0.4,
+    "tpa": 2.0,
     "twopm": 2.2,
-    "twopa": 3.2,
-    "ftm": 2.0,
-    "fta": 4.0,
-    "oreb": 2.2,
-    "dreb": 4.2,
-    "reb": 6.5,
-    "ast": 1.5,
-    "to": 1.8,
+    "twopa": 3.0,
+    "ftm": 1.6,
+    "fta": 3.2,
+    "oreb": 1.8,
+    "dreb": 3.8,
+    "reb": 5.6,
+    "ast": 1.4,
+    "to": 1.4,
     "stl": 0.8,
-    "blk": 0.8,
+    "blk": 0.6,
     "blkr": 0.0,
-    "pf": 2.0,
-    "foulon": 3.0,
-    "pm": -9.2,
-    "paint": 4.5,
-    "fast": 0.5,
-    "second": 2.5,
-    "min": 20.5,
-    "eff": 10.8,
-    "gmsc": 6.9
+    "pf": 1.8,
+    "foulon": 2.4,
+    "pm": -4.8,
+    "paint": 4.0,
+    "fast": 0.4,
+    "second": 2.0,
+    "min": 19.2,
+    "eff": 10.2,
+    "gmsc": 6.6
    },
    "per40": {
-    "pts": 15.6,
-    "reb": 12.7,
+    "pts": 15.0,
+    "reb": 11.7,
     "ast": 2.9,
-    "stl": 1.5,
-    "blk": 1.5,
-    "to": 3.4
+    "stl": 1.7,
+    "blk": 1.2,
+    "to": 2.9
    },
-   "ts": 53.3,
-   "efg": 52.2,
-   "fg": 47.8,
-   "two": 69.2,
+   "ts": 56.2,
+   "efg": 56.0,
+   "fg": 52.0,
+   "two": 73.3,
    "three": 20.0,
    "ft": 50.0,
-   "usg": 19.5,
-   "astTo": 0.86,
-   "pm": -37,
-   "pm40": -18.0,
+   "usg": 17.6,
+   "astTo": 1.0,
+   "pm": -24,
+   "pm40": -10.0,
    "on": {
-    "min": 82.0,
-    "pf": 160,
-    "pa": 196,
-    "ortg": 99.8,
-    "drtg": 118.5,
-    "net": -18.7
+    "min": 96.0,
+    "pf": 196,
+    "pa": 219,
+    "ortg": 104.0,
+    "drtg": 112.4,
+    "net": -8.4
    },
    "off": {
-    "min": 78.0,
-    "ortg": 100.9,
-    "drtg": 107.0,
-    "net": -6.1
+    "min": 104.0,
+    "ortg": 102.0,
+    "drtg": 106.5,
+    "net": -4.6
    },
-   "onOff": -12.6,
+   "onOff": -3.8,
    "dd": 0,
    "td": 0,
    "high": 19,
    "zones": {
     "paint": {
-     "m": 9,
-     "a": 12,
-     "pct": 75.0
+     "m": 11,
+     "a": 14,
+     "pct": 78.6
     },
     "mid": {
      "m": 0,
@@ -7486,6 +8983,26 @@
      "pm": -11,
      "eff": 3,
      "ts": 34.7
+    },
+    {
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 14.1,
+     "pts": 4,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "2/2",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 13,
+     "eff": 8,
+     "ts": 100.0
     }
    ]
   },
@@ -7497,103 +9014,103 @@
    "teamLabel": "Opava",
    "shirt": "11",
    "pos": "",
-   "gp": 1,
+   "gp": 2,
    "gs": 1,
-   "min": 14.7,
+   "min": 26.3,
    "totals": {
-    "pts": 8,
-    "fgm": 3,
-    "fga": 6,
+    "pts": 13,
+    "fgm": 5,
+    "fga": 10,
     "tpm": 1,
-    "tpa": 2,
-    "twopm": 2,
-    "twopa": 4,
-    "ftm": 1,
-    "fta": 2,
+    "tpa": 3,
+    "twopm": 4,
+    "twopa": 7,
+    "ftm": 2,
+    "fta": 4,
     "oreb": 2,
-    "dreb": 2,
-    "reb": 4,
-    "ast": 2,
-    "to": 1,
-    "stl": 0,
+    "dreb": 3,
+    "reb": 5,
+    "ast": 3,
+    "to": 3,
+    "stl": 3,
     "blk": 1,
     "blkr": 1,
-    "pf": 1,
-    "foulon": 1,
-    "pm": -5,
-    "paint": 4,
+    "pf": 4,
+    "foulon": 2,
+    "pm": 3,
+    "paint": 8,
     "fast": 0,
     "second": 2
    },
    "perGame": {
-    "pts": 8.0,
-    "fgm": 3.0,
-    "fga": 6.0,
-    "tpm": 1.0,
-    "tpa": 2.0,
+    "pts": 6.5,
+    "fgm": 2.5,
+    "fga": 5.0,
+    "tpm": 0.5,
+    "tpa": 1.5,
     "twopm": 2.0,
-    "twopa": 4.0,
+    "twopa": 3.5,
     "ftm": 1.0,
     "fta": 2.0,
-    "oreb": 2.0,
-    "dreb": 2.0,
-    "reb": 4.0,
-    "ast": 2.0,
-    "to": 1.0,
-    "stl": 0.0,
-    "blk": 1.0,
-    "blkr": 1.0,
-    "pf": 1.0,
+    "oreb": 1.0,
+    "dreb": 1.5,
+    "reb": 2.5,
+    "ast": 1.5,
+    "to": 1.5,
+    "stl": 1.5,
+    "blk": 0.5,
+    "blkr": 0.5,
+    "pf": 2.0,
     "foulon": 1.0,
-    "pm": -5.0,
+    "pm": 1.5,
     "paint": 4.0,
     "fast": 0.0,
-    "second": 2.0,
-    "min": 14.7,
-    "eff": 10.0,
-    "gmsc": 7.3
+    "second": 1.0,
+    "min": 13.1,
+    "eff": 7.5,
+    "gmsc": 5.3
    },
    "per40": {
-    "pts": 21.8,
-    "reb": 10.9,
-    "ast": 5.4,
-    "stl": 0.0,
-    "blk": 2.7,
-    "to": 2.7
+    "pts": 19.8,
+    "reb": 7.6,
+    "ast": 4.6,
+    "stl": 4.6,
+    "blk": 1.5,
+    "to": 4.6
    },
-   "ts": 58.1,
-   "efg": 58.3,
+   "ts": 55.3,
+   "efg": 55.0,
    "fg": 50.0,
-   "two": 50.0,
-   "three": 50.0,
+   "two": 57.1,
+   "three": 33.3,
    "ft": 50.0,
-   "usg": 22.8,
-   "astTo": 2.0,
-   "pm": -5,
-   "pm40": -13.6,
+   "usg": 24.4,
+   "astTo": 1.0,
+   "pm": 3,
+   "pm40": 4.6,
    "on": {
-    "min": 14.7,
-    "pf": 25,
-    "pa": 30,
-    "ortg": 85.0,
-    "drtg": 112.6,
-    "net": -27.6
+    "min": 26.3,
+    "pf": 52,
+    "pa": 49,
+    "ortg": 96.1,
+    "drtg": 93.1,
+    "net": 3.0
    },
    "off": {
-    "min": 25.3,
-    "ortg": 104.9,
-    "drtg": 110.1,
-    "net": -5.3
+    "min": 53.7,
+    "ortg": 110.1,
+    "drtg": 107.8,
+    "net": 2.3
    },
-   "onOff": -22.3,
+   "onOff": 0.7,
    "dd": 0,
    "td": 0,
    "high": 8,
    "zones": {
     "paint": {
-     "m": 2,
-     "a": 4,
-     "pct": 50.0
+     "m": 4,
+     "a": 7,
+     "pct": 57.1
     },
     "mid": {
      "m": 0,
@@ -7607,7 +9124,7 @@
     },
     "above3": {
      "m": 0,
-     "a": 1,
+     "a": 2,
      "pct": 0.0
     }
    },
@@ -7631,416 +9148,26 @@
      "pm": -5,
      "eff": 10,
      "ts": 58.1
-    }
-   ]
-  },
-  {
-   "id": "opava/jan-svandrlik",
-   "name": "Jan Švandrlík",
-   "team": "opava",
-   "teamName": "BK Opava",
-   "teamLabel": "Opava",
-   "shirt": "8",
-   "pos": "",
-   "gp": 4,
-   "gs": 3,
-   "min": 87.7,
-   "totals": {
-    "pts": 31,
-    "fgm": 11,
-    "fga": 33,
-    "tpm": 9,
-    "tpa": 29,
-    "twopm": 2,
-    "twopa": 4,
-    "ftm": 0,
-    "fta": 0,
-    "oreb": 4,
-    "dreb": 6,
-    "reb": 10,
-    "ast": 4,
-    "to": 3,
-    "stl": 8,
-    "blk": 0,
-    "blkr": 1,
-    "pf": 10,
-    "foulon": 3,
-    "pm": -21,
-    "paint": 4,
-    "fast": 5,
-    "second": 2
-   },
-   "perGame": {
-    "pts": 7.8,
-    "fgm": 2.8,
-    "fga": 8.2,
-    "tpm": 2.2,
-    "tpa": 7.2,
-    "twopm": 0.5,
-    "twopa": 1.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "oreb": 1.0,
-    "dreb": 1.5,
-    "reb": 2.5,
-    "ast": 1.0,
-    "to": 0.8,
-    "stl": 2.0,
-    "blk": 0.0,
-    "blkr": 0.2,
-    "pf": 2.5,
-    "foulon": 0.8,
-    "pm": -5.2,
-    "paint": 1.0,
-    "fast": 1.2,
-    "second": 0.5,
-    "min": 21.9,
-    "eff": 7.0,
-    "gmsc": 5.2
-   },
-   "per40": {
-    "pts": 14.1,
-    "reb": 4.6,
-    "ast": 1.8,
-    "stl": 3.6,
-    "blk": 0.0,
-    "to": 1.4
-   },
-   "ts": 47.0,
-   "efg": 47.0,
-   "fg": 33.3,
-   "two": 50.0,
-   "three": 31.0,
-   "ft": null,
-   "usg": 17.7,
-   "astTo": 1.33,
-   "pm": -21,
-   "pm40": -9.6,
-   "on": {
-    "min": 87.6,
-    "pf": 182,
-    "pa": 204,
-    "ortg": 103.6,
-    "drtg": 113.8,
-    "net": -10.2
-   },
-   "off": {
-    "min": 72.4,
-    "ortg": 96.3,
-    "drtg": 111.7,
-    "net": -15.5
-   },
-   "onOff": 5.3,
-   "dd": 0,
-   "td": 0,
-   "high": 15,
-   "zones": {
-    "paint": {
-     "m": 2,
-     "a": 3,
-     "pct": 66.7
     },
-    "mid": {
-     "m": 0,
-     "a": 1,
-     "pct": 0.0
-    },
-    "corner3": {
-     "m": 2,
-     "a": 7,
-     "pct": 28.6
-    },
-    "above3": {
-     "m": 7,
-     "a": 22,
-     "pct": 31.8
-    }
-   },
-   "log": [
     {
-     "fibaId": 2890470,
-     "date": "2026-09-19",
-     "opponent": "Ostrava",
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
      "venue": "home",
-     "result": "L",
-     "min": 22.4,
-     "pts": 7,
+     "result": "W",
+     "min": 11.6,
+     "pts": 5,
      "reb": 1,
-     "ast": 0,
-     "stl": 6,
-     "blk": 0,
-     "to": 0,
-     "fg": "3/9",
-     "tp": "1/6",
-     "ft": "0/0",
-     "pm": -1,
-     "eff": 8,
-     "ts": 38.9
-    },
-    {
-     "fibaId": 2890476,
-     "date": "2026-09-23",
-     "opponent": "Slavia",
-     "venue": "away",
-     "result": "L",
-     "min": 21.4,
-     "pts": 6,
-     "reb": 4,
      "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 3,
-     "fg": "2/6",
-     "tp": "2/6",
-     "ft": "0/0",
-     "pm": -26,
-     "eff": 4,
-     "ts": 50.0
-    },
-    {
-     "fibaId": 2890481,
-     "date": "2026-09-26",
-     "opponent": "Děčín",
-     "venue": "home",
-     "result": "W",
-     "min": 23.8,
-     "pts": 15,
-     "reb": 0,
-     "ast": 1,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "5/10",
-     "tp": "5/10",
-     "ft": "0/0",
-     "pm": 16,
-     "eff": 12,
-     "ts": 75.0
-    },
-    {
-     "fibaId": 2892256,
-     "date": "2026-09-30",
-     "opponent": "Ústí",
-     "venue": "away",
-     "result": "L",
-     "min": 20.1,
-     "pts": 3,
-     "reb": 5,
-     "ast": 2,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "1/8",
-     "tp": "1/7",
-     "ft": "0/0",
-     "pm": -10,
-     "eff": 4,
-     "ts": 18.8
-    }
-   ]
-  },
-  {
-   "id": "opava/jakub-sirina",
-   "name": "Jakub Šiřina",
-   "team": "opava",
-   "teamName": "BK Opava",
-   "teamLabel": "Opava",
-   "shirt": "24",
-   "pos": "",
-   "gp": 4,
-   "gs": 0,
-   "min": 88.1,
-   "totals": {
-    "pts": 29,
-    "fgm": 9,
-    "fga": 32,
-    "tpm": 7,
-    "tpa": 28,
-    "twopm": 2,
-    "twopa": 4,
-    "ftm": 4,
-    "fta": 8,
-    "oreb": 1,
-    "dreb": 8,
-    "reb": 9,
-    "ast": 13,
-    "to": 7,
-    "stl": 4,
-    "blk": 0,
-    "blkr": 2,
-    "pf": 7,
-    "foulon": 5,
-    "pm": -43,
-    "paint": 4,
-    "fast": 7,
-    "second": 0
-   },
-   "perGame": {
-    "pts": 7.2,
-    "fgm": 2.2,
-    "fga": 8.0,
-    "tpm": 1.8,
-    "tpa": 7.0,
-    "twopm": 0.5,
-    "twopa": 1.0,
-    "ftm": 1.0,
-    "fta": 2.0,
-    "oreb": 0.2,
-    "dreb": 2.0,
-    "reb": 2.2,
-    "ast": 3.2,
-    "to": 1.8,
-    "stl": 1.0,
-    "blk": 0.0,
-    "blkr": 0.5,
-    "pf": 1.8,
-    "foulon": 1.2,
-    "pm": -10.8,
-    "paint": 1.0,
-    "fast": 1.8,
-    "second": 0.0,
-    "min": 22.0,
-    "eff": 5.2,
-    "gmsc": 3.8
-   },
-   "per40": {
-    "pts": 13.2,
-    "reb": 4.1,
-    "ast": 5.9,
-    "stl": 1.8,
-    "blk": 0.0,
-    "to": 3.2
-   },
-   "ts": 40.8,
-   "efg": 39.1,
-   "fg": 28.1,
-   "two": 50.0,
-   "three": 25.0,
-   "ft": 50.0,
-   "usg": 20.8,
-   "astTo": 1.86,
-   "pm": -43,
-   "pm40": -19.5,
-   "on": {
-    "min": 88.1,
-    "pf": 166,
-    "pa": 210,
-    "ortg": 97.5,
-    "drtg": 117.3,
-    "net": -19.9
-   },
-   "off": {
-    "min": 71.9,
-    "ortg": 103.8,
-    "drtg": 107.4,
-    "net": -3.7
-   },
-   "onOff": -16.2,
-   "dd": 0,
-   "td": 0,
-   "high": 13,
-   "zones": {
-    "paint": {
-     "m": 2,
-     "a": 4,
-     "pct": 50.0
-    },
-    "mid": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    },
-    "corner3": {
-     "m": 1,
-     "a": 7,
-     "pct": 14.3
-    },
-    "above3": {
-     "m": 6,
-     "a": 21,
-     "pct": 28.6
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2890470,
-     "date": "2026-09-19",
-     "opponent": "Ostrava",
-     "venue": "home",
-     "result": "L",
-     "min": 22.2,
-     "pts": 13,
-     "reb": 2,
-     "ast": 1,
-     "stl": 2,
-     "blk": 0,
-     "to": 4,
-     "fg": "4/10",
-     "tp": "3/8",
-     "ft": "2/2",
-     "pm": 1,
-     "eff": 8,
-     "ts": 59.7
-    },
-    {
-     "fibaId": 2890476,
-     "date": "2026-09-23",
-     "opponent": "Slavia",
-     "venue": "away",
-     "result": "L",
-     "min": 19.5,
-     "pts": 4,
-     "reb": 3,
-     "ast": 4,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "1/7",
-     "tp": "1/7",
-     "ft": "1/2",
-     "pm": -28,
-     "eff": 4,
-     "ts": 25.4
-    },
-    {
-     "fibaId": 2890481,
-     "date": "2026-09-26",
-     "opponent": "Děčín",
-     "venue": "home",
-     "result": "W",
-     "min": 22.5,
-     "pts": 4,
-     "reb": 2,
-     "ast": 5,
-     "stl": 1,
-     "blk": 0,
-     "to": 1,
-     "fg": "1/6",
-     "tp": "1/5",
-     "ft": "1/4",
-     "pm": -18,
-     "eff": 3,
-     "ts": 25.8
-    },
-    {
-     "fibaId": 2892256,
-     "date": "2026-09-30",
-     "opponent": "Ústí",
-     "venue": "away",
-     "result": "L",
-     "min": 23.9,
-     "pts": 8,
-     "reb": 2,
-     "ast": 3,
-     "stl": 1,
+     "stl": 3,
      "blk": 0,
      "to": 2,
-     "fg": "3/9",
-     "tp": "2/8",
-     "ft": "0/0",
-     "pm": 2,
-     "eff": 6,
-     "ts": 44.4
+     "fg": "2/4",
+     "tp": "0/1",
+     "ft": "1/2",
+     "pm": 8,
+     "eff": 5,
+     "ts": 51.2
     }
    ]
   },
@@ -8052,103 +9179,103 @@
    "teamLabel": "Opava",
    "shirt": "25",
    "pos": "",
-   "gp": 4,
+   "gp": 5,
    "gs": 0,
-   "min": 85.1,
+   "min": 103.9,
    "totals": {
-    "pts": 28,
-    "fgm": 9,
-    "fga": 21,
+    "pts": 32,
+    "fgm": 10,
+    "fga": 23,
     "tpm": 2,
     "tpa": 8,
-    "twopm": 7,
-    "twopa": 13,
-    "ftm": 8,
-    "fta": 10,
-    "oreb": 6,
-    "dreb": 3,
-    "reb": 9,
-    "ast": 4,
+    "twopm": 8,
+    "twopa": 15,
+    "ftm": 10,
+    "fta": 15,
+    "oreb": 7,
+    "dreb": 4,
+    "reb": 11,
+    "ast": 5,
     "to": 11,
     "stl": 4,
     "blk": 0,
     "blkr": 1,
-    "pf": 3,
-    "foulon": 11,
-    "pm": -29,
-    "paint": 14,
-    "fast": 0,
+    "pf": 4,
+    "foulon": 15,
+    "pm": -13,
+    "paint": 16,
+    "fast": 3,
     "second": 0
    },
    "perGame": {
-    "pts": 7.0,
-    "fgm": 2.2,
-    "fga": 5.2,
-    "tpm": 0.5,
-    "tpa": 2.0,
-    "twopm": 1.8,
-    "twopa": 3.2,
+    "pts": 6.4,
+    "fgm": 2.0,
+    "fga": 4.6,
+    "tpm": 0.4,
+    "tpa": 1.6,
+    "twopm": 1.6,
+    "twopa": 3.0,
     "ftm": 2.0,
-    "fta": 2.5,
-    "oreb": 1.5,
+    "fta": 3.0,
+    "oreb": 1.4,
     "dreb": 0.8,
     "reb": 2.2,
     "ast": 1.0,
-    "to": 2.8,
-    "stl": 1.0,
+    "to": 2.2,
+    "stl": 0.8,
     "blk": 0.0,
     "blkr": 0.2,
     "pf": 0.8,
-    "foulon": 2.8,
-    "pm": -7.2,
-    "paint": 3.5,
-    "fast": 0.0,
+    "foulon": 3.0,
+    "pm": -2.6,
+    "paint": 3.2,
+    "fast": 0.6,
     "second": 0.0,
-    "min": 21.3,
-    "eff": 5.0,
-    "gmsc": 3.9
+    "min": 20.8,
+    "eff": 4.6,
+    "gmsc": 3.8
    },
    "per40": {
-    "pts": 13.2,
+    "pts": 12.3,
     "reb": 4.2,
     "ast": 1.9,
-    "stl": 1.9,
+    "stl": 1.5,
     "blk": 0.0,
-    "to": 5.2
+    "to": 4.2
    },
-   "ts": 55.1,
-   "efg": 47.6,
-   "fg": 42.9,
-   "two": 53.8,
+   "ts": 54.1,
+   "efg": 47.8,
+   "fg": 43.5,
+   "two": 53.3,
    "three": 25.0,
-   "ft": 80.0,
-   "usg": 18.4,
-   "astTo": 0.36,
-   "pm": -29,
-   "pm40": -13.6,
+   "ft": 66.7,
+   "usg": 16.9,
+   "astTo": 0.45,
+   "pm": -13,
+   "pm40": -5.0,
    "on": {
-    "min": 85.2,
-    "pf": 164,
-    "pa": 194,
-    "ortg": 97.2,
-    "drtg": 112.7,
-    "net": -15.4
+    "min": 104.0,
+    "pf": 215,
+    "pa": 229,
+    "ortg": 102.1,
+    "drtg": 106.1,
+    "net": -4.0
    },
    "off": {
-    "min": 74.8,
-    "ortg": 103.9,
-    "drtg": 113.2,
-    "net": -9.2
+    "min": 96.0,
+    "ortg": 104.0,
+    "drtg": 113.0,
+    "net": -9.0
    },
-   "onOff": -6.2,
+   "onOff": 5.0,
    "dd": 0,
    "td": 0,
    "high": 12,
    "zones": {
     "paint": {
-     "m": 7,
-     "a": 13,
-     "pct": 53.8
+     "m": 8,
+     "a": 15,
+     "pct": 53.3
     },
     "mid": {
      "m": 0,
@@ -8246,6 +9373,436 @@
      "pm": -9,
      "eff": 5,
      "ts": 55.1
+    },
+    {
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 18.8,
+     "pts": 4,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "1/2",
+     "tp": "0/0",
+     "ft": "2/5",
+     "pm": 16,
+     "eff": 3,
+     "ts": 47.6
+    }
+   ]
+  },
+  {
+   "id": "opava/jakub-slavik",
+   "name": "Jakub Slavík",
+   "team": "opava",
+   "teamName": "BK Opava",
+   "teamLabel": "Opava",
+   "shirt": "33",
+   "pos": "",
+   "gp": 3,
+   "gs": 0,
+   "min": 37.7,
+   "totals": {
+    "pts": 19,
+    "fgm": 5,
+    "fga": 11,
+    "tpm": 0,
+    "tpa": 1,
+    "twopm": 5,
+    "twopa": 10,
+    "ftm": 9,
+    "fta": 13,
+    "oreb": 4,
+    "dreb": 6,
+    "reb": 10,
+    "ast": 3,
+    "to": 2,
+    "stl": 0,
+    "blk": 0,
+    "blkr": 2,
+    "pf": 4,
+    "foulon": 13,
+    "pm": 23,
+    "paint": 10,
+    "fast": 0,
+    "second": 3
+   },
+   "perGame": {
+    "pts": 6.3,
+    "fgm": 1.7,
+    "fga": 3.7,
+    "tpm": 0.0,
+    "tpa": 0.3,
+    "twopm": 1.7,
+    "twopa": 3.3,
+    "ftm": 3.0,
+    "fta": 4.3,
+    "oreb": 1.3,
+    "dreb": 2.0,
+    "reb": 3.3,
+    "ast": 1.0,
+    "to": 0.7,
+    "stl": 0.0,
+    "blk": 0.0,
+    "blkr": 0.7,
+    "pf": 1.3,
+    "foulon": 4.3,
+    "pm": 7.7,
+    "paint": 3.3,
+    "fast": 0.0,
+    "second": 1.0,
+    "min": 12.6,
+    "eff": 6.7,
+    "gmsc": 4.9
+   },
+   "per40": {
+    "pts": 20.2,
+    "reb": 10.6,
+    "ast": 3.2,
+    "stl": 0.0,
+    "blk": 0.0,
+    "to": 2.1
+   },
+   "ts": 56.8,
+   "efg": 45.5,
+   "fg": 45.5,
+   "two": 50.0,
+   "three": 0.0,
+   "ft": 69.2,
+   "usg": 21.7,
+   "astTo": 1.5,
+   "pm": 23,
+   "pm40": 24.4,
+   "on": {
+    "min": 37.6,
+    "pf": 95,
+    "pa": 72,
+    "ortg": 127.0,
+    "drtg": 94.4,
+    "net": 32.6
+   },
+   "off": {
+    "min": 82.3,
+    "ortg": 91.0,
+    "drtg": 108.4,
+    "net": -17.4
+   },
+   "onOff": 50.0,
+   "dd": 0,
+   "td": 0,
+   "high": 10,
+   "zones": {
+    "paint": {
+     "m": 5,
+     "a": 9,
+     "pct": 55.6
+    },
+    "mid": {
+     "m": 0,
+     "a": 1,
+     "pct": 0.0
+    },
+    "corner3": {
+     "m": 0,
+     "a": 0,
+     "pct": null
+    },
+    "above3": {
+     "m": 0,
+     "a": 1,
+     "pct": 0.0
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890470,
+     "date": "2026-09-19",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "L",
+     "min": 1.1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 2,
+     "eff": 0,
+     "ts": null
+    },
+    {
+     "fibaId": 2892256,
+     "date": "2026-09-30",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 16.6,
+     "pts": 9,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "3/5",
+     "tp": "0/0",
+     "ft": "3/5",
+     "pm": 8,
+     "eff": 9,
+     "ts": 62.5
+    },
+    {
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 20.0,
+     "pts": 10,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/6",
+     "tp": "0/1",
+     "ft": "6/8",
+     "pm": 13,
+     "eff": 11,
+     "ts": 52.5
+    }
+   ]
+  },
+  {
+   "id": "opava/jakub-sirina",
+   "name": "Jakub Šiřina",
+   "team": "opava",
+   "teamName": "BK Opava",
+   "teamLabel": "Opava",
+   "shirt": "24",
+   "pos": "",
+   "gp": 5,
+   "gs": 0,
+   "min": 100.1,
+   "totals": {
+    "pts": 31,
+    "fgm": 10,
+    "fga": 35,
+    "tpm": 7,
+    "tpa": 30,
+    "twopm": 3,
+    "twopa": 5,
+    "ftm": 4,
+    "fta": 8,
+    "oreb": 1,
+    "dreb": 8,
+    "reb": 9,
+    "ast": 16,
+    "to": 9,
+    "stl": 4,
+    "blk": 0,
+    "blkr": 2,
+    "pf": 7,
+    "foulon": 5,
+    "pm": -34,
+    "paint": 6,
+    "fast": 7,
+    "second": 0
+   },
+   "perGame": {
+    "pts": 6.2,
+    "fgm": 2.0,
+    "fga": 7.0,
+    "tpm": 1.4,
+    "tpa": 6.0,
+    "twopm": 0.6,
+    "twopa": 1.0,
+    "ftm": 0.8,
+    "fta": 1.6,
+    "oreb": 0.2,
+    "dreb": 1.6,
+    "reb": 1.8,
+    "ast": 3.2,
+    "to": 1.8,
+    "stl": 0.8,
+    "blk": 0.0,
+    "blkr": 0.4,
+    "pf": 1.4,
+    "foulon": 1.0,
+    "pm": -6.8,
+    "paint": 1.2,
+    "fast": 1.4,
+    "second": 0.0,
+    "min": 20.0,
+    "eff": 4.4,
+    "gmsc": 3.1
+   },
+   "per40": {
+    "pts": 12.4,
+    "reb": 3.6,
+    "ast": 6.4,
+    "stl": 1.6,
+    "blk": 0.0,
+    "to": 3.6
+   },
+   "ts": 40.2,
+   "efg": 38.6,
+   "fg": 28.6,
+   "two": 60.0,
+   "three": 23.3,
+   "ft": 50.0,
+   "usg": 20.5,
+   "astTo": 1.78,
+   "pm": -34,
+   "pm40": -13.6,
+   "on": {
+    "min": 100.2,
+    "pf": 193,
+    "pa": 228,
+    "ortg": 100.3,
+    "drtg": 112.6,
+    "net": -12.3
+   },
+   "off": {
+    "min": 99.8,
+    "ortg": 105.4,
+    "drtg": 106.1,
+    "net": -0.7
+   },
+   "onOff": -11.6,
+   "dd": 0,
+   "td": 0,
+   "high": 13,
+   "zones": {
+    "paint": {
+     "m": 3,
+     "a": 5,
+     "pct": 60.0
+    },
+    "mid": {
+     "m": 0,
+     "a": 0,
+     "pct": null
+    },
+    "corner3": {
+     "m": 1,
+     "a": 7,
+     "pct": 14.3
+    },
+    "above3": {
+     "m": 6,
+     "a": 23,
+     "pct": 26.1
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890470,
+     "date": "2026-09-19",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "L",
+     "min": 22.2,
+     "pts": 13,
+     "reb": 2,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "to": 4,
+     "fg": "4/10",
+     "tp": "3/8",
+     "ft": "2/2",
+     "pm": 1,
+     "eff": 8,
+     "ts": 59.7
+    },
+    {
+     "fibaId": 2890476,
+     "date": "2026-09-23",
+     "opponent": "Slavia",
+     "venue": "away",
+     "result": "L",
+     "min": 19.5,
+     "pts": 4,
+     "reb": 3,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "1/7",
+     "tp": "1/7",
+     "ft": "1/2",
+     "pm": -28,
+     "eff": 4,
+     "ts": 25.4
+    },
+    {
+     "fibaId": 2890481,
+     "date": "2026-09-26",
+     "opponent": "Děčín",
+     "venue": "home",
+     "result": "W",
+     "min": 22.5,
+     "pts": 4,
+     "reb": 2,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "1/6",
+     "tp": "1/5",
+     "ft": "1/4",
+     "pm": -18,
+     "eff": 3,
+     "ts": 25.8
+    },
+    {
+     "fibaId": 2892256,
+     "date": "2026-09-30",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 23.9,
+     "pts": 8,
+     "reb": 2,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/9",
+     "tp": "2/8",
+     "ft": "0/0",
+     "pm": 2,
+     "eff": 6,
+     "ts": 44.4
+    },
+    {
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 12.0,
+     "pts": 2,
+     "reb": 0,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "1/3",
+     "tp": "0/2",
+     "ft": "0/0",
+     "pm": 9,
+     "eff": 1,
+     "ts": 33.3
     }
    ]
   },
@@ -8391,171 +9948,6 @@
      "pm": -20,
      "eff": 5,
      "ts": 78.1
-    }
-   ]
-  },
-  {
-   "id": "opava/jakub-slavik",
-   "name": "Jakub Slavík",
-   "team": "opava",
-   "teamName": "BK Opava",
-   "teamLabel": "Opava",
-   "shirt": "33",
-   "pos": "",
-   "gp": 2,
-   "gs": 0,
-   "min": 17.7,
-   "totals": {
-    "pts": 9,
-    "fgm": 3,
-    "fga": 5,
-    "tpm": 0,
-    "tpa": 0,
-    "twopm": 3,
-    "twopa": 5,
-    "ftm": 3,
-    "fta": 5,
-    "oreb": 3,
-    "dreb": 1,
-    "reb": 4,
-    "ast": 1,
-    "to": 1,
-    "stl": 0,
-    "blk": 0,
-    "blkr": 1,
-    "pf": 3,
-    "foulon": 4,
-    "pm": 10,
-    "paint": 6,
-    "fast": 0,
-    "second": 1
-   },
-   "perGame": {
-    "pts": 4.5,
-    "fgm": 1.5,
-    "fga": 2.5,
-    "tpm": 0.0,
-    "tpa": 0.0,
-    "twopm": 1.5,
-    "twopa": 2.5,
-    "ftm": 1.5,
-    "fta": 2.5,
-    "oreb": 1.5,
-    "dreb": 0.5,
-    "reb": 2.0,
-    "ast": 0.5,
-    "to": 0.5,
-    "stl": 0.0,
-    "blk": 0.0,
-    "blkr": 0.5,
-    "pf": 1.5,
-    "foulon": 2.0,
-    "pm": 5.0,
-    "paint": 3.0,
-    "fast": 0.0,
-    "second": 0.5,
-    "min": 8.9,
-    "eff": 4.5,
-    "gmsc": 3.4
-   },
-   "per40": {
-    "pts": 20.3,
-    "reb": 9.0,
-    "ast": 2.3,
-    "stl": 0.0,
-    "blk": 0.0,
-    "to": 2.3
-   },
-   "ts": 62.5,
-   "efg": 60.0,
-   "fg": 60.0,
-   "two": 60.0,
-   "three": null,
-   "ft": 60.0,
-   "usg": 19.7,
-   "astTo": 1.0,
-   "pm": 10,
-   "pm40": 22.6,
-   "on": {
-    "min": 17.6,
-    "pf": 41,
-    "pa": 31,
-    "ortg": 128.3,
-    "drtg": 93.4,
-    "net": 34.9
-   },
-   "off": {
-    "min": 62.4,
-    "ortg": 88.7,
-    "drtg": 112.4,
-    "net": -23.7
-   },
-   "onOff": 58.6,
-   "dd": 0,
-   "td": 0,
-   "high": 9,
-   "zones": {
-    "paint": {
-     "m": 3,
-     "a": 5,
-     "pct": 60.0
-    },
-    "mid": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    },
-    "corner3": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    },
-    "above3": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2890470,
-     "date": "2026-09-19",
-     "opponent": "Ostrava",
-     "venue": "home",
-     "result": "L",
-     "min": 1.1,
-     "pts": 0,
-     "reb": 0,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "0/0",
-     "tp": "0/0",
-     "ft": "0/0",
-     "pm": 2,
-     "eff": 0,
-     "ts": null
-    },
-    {
-     "fibaId": 2892256,
-     "date": "2026-09-30",
-     "opponent": "Ústí",
-     "venue": "away",
-     "result": "L",
-     "min": 16.6,
-     "pts": 9,
-     "reb": 4,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "3/5",
-     "tp": "0/0",
-     "ft": "3/5",
-     "pm": 8,
-     "eff": 9,
-     "ts": 62.5
     }
    ]
   },
@@ -8752,9 +10144,9 @@
    "teamLabel": "Opava",
    "shirt": "21",
    "pos": "",
-   "gp": 4,
-   "gs": 4,
-   "min": 80.6,
+   "gp": 5,
+   "gs": 5,
+   "min": 95.3,
    "totals": {
     "pts": 9,
     "fgm": 4,
@@ -8766,55 +10158,55 @@
     "ftm": 0,
     "fta": 0,
     "oreb": 3,
-    "dreb": 10,
-    "reb": 13,
-    "ast": 19,
-    "to": 9,
-    "stl": 3,
+    "dreb": 12,
+    "reb": 15,
+    "ast": 22,
+    "to": 10,
+    "stl": 4,
     "blk": 0,
     "blkr": 1,
-    "pf": 8,
+    "pf": 12,
     "foulon": 2,
-    "pm": -15,
+    "pm": -22,
     "paint": 6,
     "fast": 2,
     "second": 0
    },
    "perGame": {
-    "pts": 2.2,
-    "fgm": 1.0,
-    "fga": 3.5,
+    "pts": 1.8,
+    "fgm": 0.8,
+    "fga": 2.8,
     "tpm": 0.2,
-    "tpa": 2.0,
-    "twopm": 0.8,
-    "twopa": 1.5,
+    "tpa": 1.6,
+    "twopm": 0.6,
+    "twopa": 1.2,
     "ftm": 0.0,
     "fta": 0.0,
-    "oreb": 0.8,
-    "dreb": 2.5,
-    "reb": 3.2,
-    "ast": 4.8,
-    "to": 2.2,
+    "oreb": 0.6,
+    "dreb": 2.4,
+    "reb": 3.0,
+    "ast": 4.4,
+    "to": 2.0,
     "stl": 0.8,
     "blk": 0.0,
     "blkr": 0.2,
-    "pf": 2.0,
-    "foulon": 0.5,
-    "pm": -3.8,
-    "paint": 1.5,
-    "fast": 0.5,
+    "pf": 2.4,
+    "foulon": 0.4,
+    "pm": -4.4,
+    "paint": 1.2,
+    "fast": 0.4,
     "second": 0.0,
-    "min": 20.1,
-    "eff": 6.2,
-    "gmsc": 2.5
+    "min": 19.1,
+    "eff": 6.0,
+    "gmsc": 2.2
    },
    "per40": {
-    "pts": 4.5,
-    "reb": 6.5,
-    "ast": 9.4,
-    "stl": 1.5,
+    "pts": 3.8,
+    "reb": 6.3,
+    "ast": 9.2,
+    "stl": 1.7,
     "blk": 0.0,
-    "to": 4.5
+    "to": 4.2
    },
    "ts": 32.1,
    "efg": 32.1,
@@ -8822,25 +10214,25 @@
    "two": 50.0,
    "three": 12.5,
    "ft": null,
-   "usg": 12.3,
-   "astTo": 2.11,
-   "pm": -15,
-   "pm40": -7.4,
+   "usg": 10.9,
+   "astTo": 2.2,
+   "pm": -22,
+   "pm40": -9.2,
    "on": {
-    "min": 80.5,
-    "pf": 163,
-    "pa": 177,
-    "ortg": 101.5,
-    "drtg": 110.7,
-    "net": -9.1
+    "min": 95.2,
+    "pf": 197,
+    "pa": 218,
+    "ortg": 103.0,
+    "drtg": 114.7,
+    "net": -11.7
    },
    "off": {
-    "min": 79.5,
-    "ortg": 99.2,
-    "drtg": 115.1,
-    "net": -15.9
+    "min": 104.8,
+    "ortg": 102.9,
+    "drtg": 104.7,
+    "net": -1.8
    },
-   "onOff": 6.8,
+   "onOff": -9.9,
    "dd": 0,
    "td": 0,
    "high": 9,
@@ -8946,6 +10338,26 @@
      "pm": -9,
      "eff": 9,
      "ts": 0.0
+    },
+    {
+     "fibaId": 2893124,
+     "date": "2026-10-03",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 14.7,
+     "pts": 0,
+     "reb": 2,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": -7,
+     "eff": 5,
+     "ts": null
     }
    ]
   },
@@ -9189,8 +10601,11 @@
    "away": "BK Loko BaliMania Plzeň",
    "homeSlug": "opava",
    "awaySlug": "plzen",
-   "status": "live",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 92,
+    "away": 82
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544571",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893124/",
