@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-03T18:12:05+00:00",
+ "generatedAt": "2026-10-03T21:21:24+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
@@ -1140,7 +1140,24 @@
     "home": 105,
     "away": 89
    },
-   "quarters": null,
+   "quarters": [
+    {
+     "home": 21,
+     "away": 27
+    },
+    {
+     "home": 26,
+     "away": 17
+    },
+    {
+     "home": 22,
+     "away": 23
+    },
+    {
+     "home": 36,
+     "away": 22
+    }
+   ],
    "roundNum": 5,
    "date": "2026-10-03",
    "homeSlug": "usk",
@@ -1169,7 +1186,24 @@
     "home": 110,
     "away": 98
    },
-   "quarters": null,
+   "quarters": [
+    {
+     "home": 29,
+     "away": 23
+    },
+    {
+     "home": 20,
+     "away": 27
+    },
+    {
+     "home": 30,
+     "away": 18
+    },
+    {
+     "home": 31,
+     "away": 30
+    }
+   ],
    "roundNum": 5,
    "date": "2026-10-03",
    "homeSlug": "pardubice",
@@ -1198,7 +1232,24 @@
     "home": 92,
     "away": 82
    },
-   "quarters": null,
+   "quarters": [
+    {
+     "home": 24,
+     "away": 13
+    },
+    {
+     "home": 17,
+     "away": 30
+    },
+    {
+     "home": 26,
+     "away": 22
+    },
+    {
+     "home": 25,
+     "away": 17
+    }
+   ],
    "roundNum": 5,
    "date": "2026-10-03",
    "homeSlug": "opava",
@@ -1227,7 +1278,24 @@
     "home": 75,
     "away": 101
    },
-   "quarters": null,
+   "quarters": [
+    {
+     "home": 15,
+     "away": 30
+    },
+    {
+     "home": 24,
+     "away": 23
+    },
+    {
+     "home": 14,
+     "away": 33
+    },
+    {
+     "home": 22,
+     "away": 15
+    }
+   ],
    "roundNum": 5,
    "date": "2026-10-03",
    "homeSlug": "hradec",
