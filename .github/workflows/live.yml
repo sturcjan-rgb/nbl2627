@@ -11,6 +11,7 @@ concurrency:
   cancel-in-progress: false
 permissions:
   contents: write
+  actions: write
 jobs:
   live:
     runs-on: ubuntu-latest
@@ -35,3 +36,13 @@ jobs:
           grep -q '^DOHRANÉ:' live.log 2>/dev/null || git status --porcelain data | grep -q . || { echo "Nic nového."; exit 0; }
           python -m nbl.build --no-scrape
           scripts/commit_data.sh "chore: final stats $(grep '^DOHRANÉ:' live.log | cut -d' ' -f2- || true)" "python -m nbl.build --no-scrape"
+      # cron GitHubu většinu běhů vynechá, proto běh čeká na zápasy až 14 h dopředu a když narazí
+      # na limit jobu (6 h), předá štafetu novému běhu (workflow_dispatch z GITHUB_TOKEN je povolený)
+      - name: Pokračovat v novém běhu
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          grep -q '^POKRAČOVAT' live.log 2>/dev/null || exit 0
+          gh workflow run live.yml --repo "${{ github.repository }}" --ref "${GITHUB_REF_NAME}"
+          echo "Spuštěn navazující běh live."

@@ -48,8 +48,8 @@ jobs:
       - name: Commit dat
         run: |
           scripts/commit_data.sh "chore: league data refresh" "python -m nbl.build --no-scrape"
-      # Pojistka: cron live workflow umí GitHub vynechat. Když do 3 h začíná (nebo běží) zápas
-      # a live workflow neběží ani nečeká, spustit ho.
+      # Pojistka: cron live workflow umí GitHub vynechat. Když do 14 h začíná (nebo běží) zápas
+      # a live workflow neběží ani nečeká, spustit ho (live na zápas počká).
       - name: Spustit live, pokud se blíží zápas
         env:
           GH_TOKEN: ${{ github.token }}
@@ -61,11 +61,11 @@ jobs:
               for x in json.load(open(f)).get('fixtures',[]):
                   if x.get('status')=='final' or not x.get('datetime'): continue
                   t=dt.datetime.fromisoformat(x['datetime'])
-                  if t-dt.timedelta(hours=3)<=now<=t+dt.timedelta(hours=2):
+                  if t-dt.timedelta(hours=14)<=now<=t+dt.timedelta(hours=2):
                       print('1'); raise SystemExit
           PY
           )
-          [ -z "$SOON" ] && { echo "Žádný zápas v příštích 3 h."; exit 0; }
+          [ -z "$SOON" ] && { echo "Žádný zápas v příštích 14 h."; exit 0; }
           ACTIVE=$(gh run list --workflow live.yml --limit 10 --json status --jq '[.[]|select(.status!="completed")]|length')
           [ "$ACTIVE" != "0" ] && { echo "live už běží/čeká ($ACTIVE)."; exit 0; }
           gh workflow run live.yml --ref "${GITHUB_REF_NAME}"

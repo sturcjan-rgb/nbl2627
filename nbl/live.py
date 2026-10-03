@@ -138,7 +138,7 @@ def main(argv=None) -> int:
     ap.add_argument("--out", default="live-out")
     ap.add_argument("--interval", type=float, default=10)
     ap.add_argument("--max-hours", type=float, default=5.8, help="strop běhu (GitHub job má limit 6 h)")
-    ap.add_argument("--wait-minutes", type=float, default=90, help="jak dlouho čekat na zápas, který teprve začne")
+    ap.add_argument("--wait-minutes", type=float, default=14 * 60, help="jak dlouho čekat na zápas, který teprve začne")
     ap.add_argument("--once", action="store_true")
     ap.add_argument("--publish", action="store_true", help="po každém průchodu commit + force push větve live")
     a = ap.parse_args(argv)
@@ -171,6 +171,12 @@ def main(argv=None) -> int:
             time.sleep(60)
             continue
         time.sleep(max(1.0, a.interval - (time.time() - t0)))
+    else:
+        # strop běhu vypršel, ale zápas ještě běží nebo začne → workflow spustí nový běh
+        if a.max_hours and not a.once:
+            now = now_utc()
+            if st["active"] or upcoming_soon(fixtures, now, timedelta(minutes=a.wait_minutes)):
+                print("POKRAČOVAT")
     if state["finished"]:
         print("DOHRANÉ:", " ".join(map(str, state["finished"])))
     if state["dirtySchedule"]:
