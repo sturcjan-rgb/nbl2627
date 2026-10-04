@@ -1,9 +1,9 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-04T15:24:35+00:00",
+ "generatedAt": "2026-10-04T18:16:01+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 28,
+  "final": 30,
   "teams": 12,
   "players": 152
  },
@@ -65,18 +65,18 @@
    "file": "teams/opava.json"
   },
   {
-   "slug": "olomoucko",
-   "name": "BK Olomoucko",
-   "label": "Olomoucko",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
-   "file": "teams/olomoucko.json"
-  },
-  {
    "slug": "hradec",
    "name": "BK GAPA Hradec Králové",
    "label": "Hradec",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
    "file": "teams/hradec.json"
+  },
+  {
+   "slug": "olomoucko",
+   "name": "BK Olomoucko",
+   "label": "Olomoucko",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
+   "file": "teams/olomoucko.json"
   },
   {
    "slug": "brno",
@@ -409,6 +409,28 @@
    "score": [
     75,
     101
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2893259,
+   "date": "2026-10-04",
+   "home": "olomoucko",
+   "away": "decin",
+   "score": [
+    51,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2893258,
+   "date": "2026-10-04",
+   "home": "usti",
+   "away": "brno",
+   "score": [
+    83,
+    68
    ],
    "status": "final"
   }

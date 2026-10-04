@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-04T15:24:35+00:00",
+ "generatedAt": "2026-10-04T18:16:01+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 28,
-  "scheduled": 103,
+  "final": 30,
+  "scheduled": 102,
   "withFiba": 56
  },
  "teams": {
@@ -1320,7 +1320,10 @@
    "time": "17:00",
    "home": "BK Olomoucko",
    "away": "BK ARMEX ENERGY Děčín",
-   "score": null,
+   "score": {
+    "home": 51,
+    "away": 76
+   },
    "quarters": null,
    "roundNum": 5,
    "date": "2026-10-04",
@@ -1328,14 +1331,14 @@
    "awaySlug": "decin",
    "homeLabel": "Olomoucko",
    "awayLabel": "Děčín",
-   "status": "live",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544573",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893259/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2893259/data.json",
     "stats": "matches/2893259.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544572,
@@ -1346,7 +1349,10 @@
    "time": "18:00",
    "home": "SLUNETA Ústí nad Labem",
    "away": "PUMPA Basket Brno",
-   "score": null,
+   "score": {
+    "home": 83,
+    "away": 68
+   },
    "quarters": null,
    "roundNum": 5,
    "date": "2026-10-04",
@@ -1354,14 +1360,14 @@
    "awaySlug": "brno",
    "homeLabel": "Ústí",
    "awayLabel": "Brno",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544572",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2893258/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2893258/data.json",
     "stats": "matches/2893258.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544577,
