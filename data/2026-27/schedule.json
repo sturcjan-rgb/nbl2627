@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-04T18:16:49+00:00",
+ "generatedAt": "2026-10-04T19:40:52+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
@@ -1324,7 +1324,24 @@
     "home": 51,
     "away": 76
    },
-   "quarters": null,
+   "quarters": [
+    {
+     "home": 13,
+     "away": 14
+    },
+    {
+     "home": 17,
+     "away": 26
+    },
+    {
+     "home": 8,
+     "away": 14
+    },
+    {
+     "home": 13,
+     "away": 22
+    }
+   ],
    "roundNum": 5,
    "date": "2026-10-04",
    "homeSlug": "olomoucko",
@@ -1353,7 +1370,24 @@
     "home": 83,
     "away": 68
    },
-   "quarters": null,
+   "quarters": [
+    {
+     "home": 17,
+     "away": 17
+    },
+    {
+     "home": 25,
+     "away": 12
+    },
+    {
+     "home": 18,
+     "away": 20
+    },
+    {
+     "home": 23,
+     "away": 19
+    }
+   ],
    "roundNum": 5,
    "date": "2026-10-04",
    "homeSlug": "usti",
