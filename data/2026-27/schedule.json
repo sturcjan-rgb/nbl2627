@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-10T05:57:36+00:00",
+ "generatedAt": "2026-10-10T12:37:24+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 30,
-  "scheduled": 102,
+  "final": 31,
+  "scheduled": 101,
   "withFiba": 61
  },
  "teams": {
@@ -1412,22 +1412,42 @@
    "time": "12:00",
    "home": "SK Slavia Praha ERA NBK",
    "away": "BK KVIS Pardubice",
-   "score": null,
-   "quarters": null,
+   "score": {
+    "home": 105,
+    "away": 60
+   },
+   "quarters": [
+    {
+     "home": 24,
+     "away": 21
+    },
+    {
+     "home": 30,
+     "away": 17
+    },
+    {
+     "home": 21,
+     "away": 11
+    },
+    {
+     "home": 30,
+     "away": 11
+    }
+   ],
    "roundNum": 6,
    "date": "2026-10-10",
    "homeSlug": "slavia",
    "awaySlug": "pardubice",
    "homeLabel": "Slavia",
    "awayLabel": "Pardubice",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544577",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2899969/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2899969/data.json",
     "stats": "matches/2899969.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544578,
