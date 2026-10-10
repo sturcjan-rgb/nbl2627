@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-10T12:37:24+00:00",
+ "generatedAt": "2026-10-10T18:14:55+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 31,
-  "scheduled": 101,
+  "final": 33,
+  "scheduled": 99,
   "withFiba": 61
  },
  "teams": {
@@ -1458,7 +1458,10 @@
    "time": "18:00",
    "home": "BK GAPA Hradec Králové",
    "away": "BK ARMEX ENERGY Děčín",
-   "score": null,
+   "score": {
+    "home": 99,
+    "away": 93
+   },
    "quarters": null,
    "roundNum": 6,
    "date": "2026-10-10",
@@ -1466,14 +1469,14 @@
    "awaySlug": "decin",
    "homeLabel": "Hradec",
    "awayLabel": "Děčín",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544578",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900036/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2900036/data.json",
     "stats": "matches/2900036.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544581,
@@ -1484,7 +1487,10 @@
    "time": "18:00",
    "home": "USK Praha",
    "away": "BK Opava",
-   "score": null,
+   "score": {
+    "home": 88,
+    "away": 97
+   },
    "quarters": null,
    "roundNum": 6,
    "date": "2026-10-10",
@@ -1492,14 +1498,14 @@
    "awaySlug": "opava",
    "homeLabel": "USK",
    "awayLabel": "Opava",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544581",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900037/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2900037/data.json",
     "stats": "matches/2900037.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544576,

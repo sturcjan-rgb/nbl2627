@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-10T12:37:24+00:00",
+ "generatedAt": "2026-10-10T18:14:55+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 31,
+  "final": 33,
   "teams": 12,
-  "players": 153
+  "players": 154
  },
  "teams": [
   {
@@ -51,18 +51,18 @@
    "file": "teams/pisek.json"
   },
   {
-   "slug": "usk",
-   "name": "USK Praha",
-   "label": "USK",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
-   "file": "teams/usk.json"
-  },
-  {
    "slug": "opava",
    "name": "BK Opava",
    "label": "Opava",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
    "file": "teams/opava.json"
+  },
+  {
+   "slug": "usk",
+   "name": "USK Praha",
+   "label": "USK",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
+   "file": "teams/usk.json"
   },
   {
    "slug": "hradec",
@@ -442,6 +442,28 @@
    "score": [
     105,
     60
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2900036,
+   "date": "2026-10-10",
+   "home": "hradec",
+   "away": "decin",
+   "score": [
+    99,
+    93
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2900037,
+   "date": "2026-10-10",
+   "home": "usk",
+   "away": "opava",
+   "score": [
+    88,
+    97
    ],
    "status": "final"
   }
