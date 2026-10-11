@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-11T12:56:20+00:00",
+ "generatedAt": "2026-10-11T18:30:05+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 33,
-  "scheduled": 99,
+  "final": 35,
+  "scheduled": 96,
   "withFiba": 65
  },
  "teams": {
@@ -1562,7 +1562,7 @@
    "awaySlug": "ostrava",
    "homeLabel": "Písek",
    "awayLabel": "Ostrava",
-   "status": "scheduled",
+   "status": "unknown",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544576",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900134/",
@@ -1580,7 +1580,10 @@
    "time": "18:00",
    "home": "SLUNETA Ústí nad Labem",
    "away": "BK Olomoucko",
-   "score": null,
+   "score": {
+    "home": 102,
+    "away": 66
+   },
    "quarters": null,
    "roundNum": 6,
    "date": "2026-10-11",
@@ -1588,14 +1591,14 @@
    "awaySlug": "olomoucko",
    "homeLabel": "Ústí",
    "awayLabel": "Olomoucko",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544579",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900135/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2900135/data.json",
     "stats": "matches/2900135.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544580,
@@ -1606,7 +1609,10 @@
    "time": "18:00",
    "home": "BK Loko BaliMania Plzeň",
    "away": "PUMPA Basket Brno",
-   "score": null,
+   "score": {
+    "home": 69,
+    "away": 83
+   },
    "quarters": null,
    "roundNum": 6,
    "date": "2026-10-11",
@@ -1614,14 +1620,14 @@
    "awaySlug": "brno",
    "homeLabel": "Plzeň",
    "awayLabel": "Brno",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544580",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2900136/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2900136/data.json",
     "stats": "matches/2900136.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544619,
