@@ -1,12 +1,12 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-11T18:30:05+00:00",
+ "generatedAt": "2026-10-11T18:57:46+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
   "final": 35,
   "scheduled": 96,
-  "withFiba": 65
+  "withFiba": 66
  },
  "teams": {
   "plzen": "BK Loko BaliMania Plzeň",
@@ -1584,7 +1584,24 @@
     "home": 102,
     "away": 66
    },
-   "quarters": null,
+   "quarters": [
+    {
+     "home": 22,
+     "away": 17
+    },
+    {
+     "home": 23,
+     "away": 14
+    },
+    {
+     "home": 25,
+     "away": 19
+    },
+    {
+     "home": 32,
+     "away": 16
+    }
+   ],
    "roundNum": 6,
    "date": "2026-10-11",
    "homeSlug": "usti",
@@ -1613,7 +1630,24 @@
     "home": 69,
     "away": 83
    },
-   "quarters": null,
+   "quarters": [
+    {
+     "home": 20,
+     "away": 25
+    },
+    {
+     "home": 8,
+     "away": 23
+    },
+    {
+     "home": 20,
+     "away": 17
+    },
+    {
+     "home": 21,
+     "away": 18
+    }
+   ],
    "roundNum": 6,
    "date": "2026-10-11",
    "homeSlug": "plzen",
@@ -2385,7 +2419,7 @@
   },
   {
    "nblId": 544610,
-   "fibaId": null,
+   "fibaId": 2938852,
    "round": "11. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-08T15:00:00+01:00",
@@ -2403,9 +2437,9 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544610",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2938852/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2938852/data.json",
+    "stats": "matches/2938852.json"
    },
    "hasStats": false
   },
