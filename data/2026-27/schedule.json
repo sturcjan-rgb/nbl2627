@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-14T13:46:34+00:00",
+ "generatedAt": "2026-10-14T17:17:56+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 35,
-  "scheduled": 96,
+  "final": 36,
+  "scheduled": 95,
   "withFiba": 67
  },
  "teams": {
@@ -1672,7 +1672,10 @@
    "time": "17:30",
    "home": "BK KVIS Pardubice",
    "away": "BK Olomoucko",
-   "score": null,
+   "score": {
+    "home": 88,
+    "away": 61
+   },
    "quarters": null,
    "roundNum": 13,
    "date": "2026-10-14",
@@ -1680,14 +1683,14 @@
    "awaySlug": "olomoucko",
    "homeLabel": "Pardubice",
    "awayLabel": "Olomoucko",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544619",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2906538/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2906538/data.json",
     "stats": "matches/2906538.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544584,

@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-14T13:46:34+00:00",
+ "generatedAt": "2026-10-14T17:17:56+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 35,
+  "final": 36,
   "teams": 12,
-  "players": 157
+  "players": 158
  },
  "teams": [
   {
@@ -16,18 +16,18 @@
    "file": "teams/slavia.json"
   },
   {
-   "slug": "usti",
-   "name": "SLUNETA Ústí nad Labem",
-   "label": "Ústí",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
-   "file": "teams/usti.json"
-  },
-  {
    "slug": "pardubice",
    "name": "BK KVIS Pardubice",
    "label": "Pardubice",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea863234232dc6cd5da9faaab40b442eS1.png",
    "file": "teams/pardubice.json"
+  },
+  {
+   "slug": "usti",
+   "name": "SLUNETA Ústí nad Labem",
+   "label": "Ústí",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
+   "file": "teams/usti.json"
   },
   {
    "slug": "decin",
@@ -486,6 +486,17 @@
    "score": [
     69,
     83
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2906538,
+   "date": "2026-10-14",
+   "home": "pardubice",
+   "away": "olomoucko",
+   "score": [
+    88,
+    61
    ],
    "status": "final"
   }
