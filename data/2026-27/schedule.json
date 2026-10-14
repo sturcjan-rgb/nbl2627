@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-14T17:17:56+00:00",
+ "generatedAt": "2026-10-14T18:39:56+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
@@ -1676,7 +1676,24 @@
     "home": 88,
     "away": 61
    },
-   "quarters": null,
+   "quarters": [
+    {
+     "home": 18,
+     "away": 13
+    },
+    {
+     "home": 25,
+     "away": 9
+    },
+    {
+     "home": 28,
+     "away": 16
+    },
+    {
+     "home": 17,
+     "away": 23
+    }
+   ],
    "roundNum": 13,
    "date": "2026-10-14",
    "homeSlug": "pardubice",
