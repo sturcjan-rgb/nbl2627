@@ -1,12 +1,12 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-15T00:56:36+00:00",
+ "generatedAt": "2026-10-15T04:45:42+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
   "final": 36,
   "scheduled": 95,
-  "withFiba": 67
+  "withFiba": 68
  },
  "teams": {
   "plzen": "BK Loko BaliMania Plzeň",
@@ -2491,7 +2491,7 @@
   },
   {
    "nblId": 544652,
-   "fibaId": null,
+   "fibaId": 2941615,
    "round": "18. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-11T18:00:00+01:00",
@@ -2509,9 +2509,9 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544652",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2941615/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2941615/data.json",
+    "stats": "matches/2941615.json"
    },
    "hasStats": false
   },
