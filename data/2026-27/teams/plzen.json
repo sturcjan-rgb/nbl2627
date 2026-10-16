@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-16T07:14:17+00:00",
+ "generatedAt": "2026-10-16T10:11:42+00:00",
  "slug": "plzen",
  "name": "BK Loko BaliMania Plzeň",
  "label": "Plzeň",
@@ -8,209 +8,209 @@
  "code": "PLZ",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
  "coach": "Jaroslav Lejsek",
- "games": 6,
- "minutes": 240.0,
+ "games": 7,
+ "minutes": 280.0,
  "totals": {
-  "pts": 466,
-  "fgm": 152,
-  "fga": 416,
-  "tpm": 70,
-  "tpa": 214,
-  "twopm": 82,
-  "twopa": 202,
-  "ftm": 92,
-  "fta": 138,
-  "oreb": 94,
-  "dreb": 151,
-  "reb": 245,
-  "ast": 100,
-  "to": 104,
-  "stl": 41,
-  "blk": 9,
-  "blkr": 14,
-  "pf": 137,
-  "foulon": 123,
-  "paint": 148,
-  "fast": 58,
-  "second": 101,
-  "bench": 178,
-  "offto": 58
+  "pts": 547,
+  "fgm": 176,
+  "fga": 486,
+  "tpm": 81,
+  "tpa": 246,
+  "twopm": 95,
+  "twopa": 240,
+  "ftm": 114,
+  "fta": 166,
+  "oreb": 114,
+  "dreb": 181,
+  "reb": 295,
+  "ast": 115,
+  "to": 120,
+  "stl": 45,
+  "blk": 10,
+  "blkr": 17,
+  "pf": 158,
+  "foulon": 149,
+  "paint": 170,
+  "fast": 71,
+  "second": 112,
+  "bench": 197,
+  "offto": 72
  },
  "oppTotals": {
-  "pts": 571,
-  "fgm": 204,
-  "fga": 409,
-  "tpm": 52,
-  "tpa": 142,
-  "twopm": 152,
-  "twopa": 267,
-  "ftm": 111,
-  "fta": 164,
-  "oreb": 64,
-  "dreb": 184,
-  "reb": 248,
-  "ast": 115,
-  "to": 72,
-  "stl": 47,
-  "blk": 14,
-  "blkr": 9,
-  "pf": 125,
-  "foulon": 137,
-  "paint": 284,
-  "fast": 88,
-  "second": 77,
-  "bench": 215,
-  "offto": 126
+  "pts": 643,
+  "fgm": 229,
+  "fga": 473,
+  "tpm": 59,
+  "tpa": 173,
+  "twopm": 170,
+  "twopa": 300,
+  "ftm": 126,
+  "fta": 184,
+  "oreb": 73,
+  "dreb": 211,
+  "reb": 284,
+  "ast": 126,
+  "to": 86,
+  "stl": 59,
+  "blk": 17,
+  "blkr": 10,
+  "pf": 151,
+  "foulon": 158,
+  "paint": 318,
+  "fast": 119,
+  "second": 81,
+  "bench": 220,
+  "offto": 144
  },
  "perGame": {
-  "pts": 77.7,
-  "fgm": 25.3,
-  "fga": 69.3,
-  "tpm": 11.7,
-  "tpa": 35.7,
-  "twopm": 13.7,
-  "twopa": 33.7,
-  "ftm": 15.3,
-  "fta": 23.0,
-  "oreb": 15.7,
-  "dreb": 25.2,
-  "reb": 40.8,
-  "ast": 16.7,
-  "to": 17.3,
-  "stl": 6.8,
-  "blk": 1.5,
-  "blkr": 2.3,
-  "pf": 22.8,
-  "foulon": 20.5,
-  "paint": 24.7,
-  "fast": 9.7,
-  "second": 16.8,
-  "bench": 29.7,
-  "offto": 9.7,
-  "ppg": 77.7,
-  "oppg": 95.2,
-  "diff": -17.5
+  "pts": 78.1,
+  "fgm": 25.1,
+  "fga": 69.4,
+  "tpm": 11.6,
+  "tpa": 35.1,
+  "twopm": 13.6,
+  "twopa": 34.3,
+  "ftm": 16.3,
+  "fta": 23.7,
+  "oreb": 16.3,
+  "dreb": 25.9,
+  "reb": 42.1,
+  "ast": 16.4,
+  "to": 17.1,
+  "stl": 6.4,
+  "blk": 1.4,
+  "blkr": 2.4,
+  "pf": 22.6,
+  "foulon": 21.3,
+  "paint": 24.3,
+  "fast": 10.1,
+  "second": 16.0,
+  "bench": 28.1,
+  "offto": 10.3,
+  "ppg": 78.1,
+  "oppg": 91.9,
+  "diff": -13.7
  },
  "oppPerGame": {
-  "pts": 95.2,
-  "fgm": 34.0,
-  "fga": 68.2,
-  "tpm": 8.7,
-  "tpa": 23.7,
-  "twopm": 25.3,
-  "twopa": 44.5,
-  "ftm": 18.5,
-  "fta": 27.3,
-  "oreb": 10.7,
-  "dreb": 30.7,
-  "reb": 41.3,
-  "ast": 19.2,
-  "to": 12.0,
-  "stl": 7.8,
-  "blk": 2.3,
-  "blkr": 1.5,
-  "pf": 20.8,
-  "foulon": 22.8,
-  "paint": 47.3,
-  "fast": 14.7,
-  "second": 12.8,
-  "bench": 35.8,
-  "offto": 21.0
+  "pts": 91.9,
+  "fgm": 32.7,
+  "fga": 67.6,
+  "tpm": 8.4,
+  "tpa": 24.7,
+  "twopm": 24.3,
+  "twopa": 42.9,
+  "ftm": 18.0,
+  "fta": 26.3,
+  "oreb": 10.4,
+  "dreb": 30.1,
+  "reb": 40.6,
+  "ast": 18.0,
+  "to": 12.3,
+  "stl": 8.4,
+  "blk": 2.4,
+  "blkr": 1.4,
+  "pf": 21.6,
+  "foulon": 22.6,
+  "paint": 45.4,
+  "fast": 17.0,
+  "second": 11.6,
+  "bench": 31.4,
+  "offto": 20.6
  },
  "adv": {
-  "poss": 486.7,
-  "pace": 81.3,
-  "ortg": 95.7,
-  "drtg": 116.7,
-  "net": -21.0,
-  "efg": 45.0,
+  "poss": 565.0,
+  "pace": 80.9,
+  "ortg": 96.8,
+  "drtg": 113.4,
+  "net": -16.6,
+  "efg": 44.5,
   "ts": 48.9,
-  "tov": 17.9,
-  "orb": 33.8,
-  "drb": 70.2,
-  "ftr": 22.1,
-  "fta_rate": 33.2,
-  "three_par": 51.4,
-  "fg": 36.5,
-  "two": 40.6,
-  "three": 32.7,
-  "ft": 66.7,
-  "ast_pct": 65.8,
+  "tov": 17.7,
+  "orb": 35.1,
+  "drb": 71.3,
+  "ftr": 23.5,
+  "fta_rate": 34.2,
+  "three_par": 50.6,
+  "fg": 36.2,
+  "two": 39.6,
+  "three": 32.9,
+  "ft": 68.7,
+  "ast_pct": 65.3,
   "ast_to": 0.96,
-  "stl_pct": 8.4,
-  "blk_pct": 3.4,
+  "stl_pct": 7.9,
+  "blk_pct": 3.3,
   "pts_per_shot": 0.98
  },
  "oppAdv": {
-  "opp_efg": 56.2,
-  "opp_ts": 59.3,
-  "opp_tov": 13.0,
-  "opp_ftr": 27.1,
-  "opp_three_par": 34.7,
-  "opp_fg": 49.9,
-  "opp_two": 56.9,
-  "opp_three": 36.6,
-  "opp_ft": 67.7
+  "opp_efg": 54.7,
+  "opp_ts": 58.0,
+  "opp_tov": 13.4,
+  "opp_ftr": 26.6,
+  "opp_three_par": 36.6,
+  "opp_fg": 48.4,
+  "opp_two": 56.7,
+  "opp_three": 34.1,
+  "opp_ft": 68.5
  },
  "factors": {
-  "efg": 45.0,
-  "tov": 17.9,
-  "orb": 33.8,
-  "ftr": 22.1,
-  "opp_efg": 56.2,
-  "opp_tov": 13.0,
-  "drb": 70.2,
-  "opp_ftr": 27.1
+  "efg": 44.5,
+  "tov": 17.7,
+  "orb": 35.1,
+  "ftr": 23.5,
+  "opp_efg": 54.7,
+  "opp_tov": 13.4,
+  "drb": 71.3,
+  "opp_ftr": 26.6
  },
  "zones": {
   "paint": {
-   "m": 74,
-   "a": 178,
-   "pct": 41.6,
-   "share": 42.8
+   "m": 85,
+   "a": 211,
+   "pct": 40.3,
+   "share": 43.4
   },
   "mid": {
-   "m": 8,
-   "a": 24,
-   "pct": 33.3,
-   "share": 5.8
+   "m": 10,
+   "a": 29,
+   "pct": 34.5,
+   "share": 6.0
   },
   "corner3": {
-   "m": 21,
-   "a": 46,
-   "pct": 45.7,
-   "share": 11.1
+   "m": 25,
+   "a": 56,
+   "pct": 44.6,
+   "share": 11.5
   },
   "above3": {
-   "m": 49,
-   "a": 168,
-   "pct": 29.2,
-   "share": 40.4
+   "m": 56,
+   "a": 190,
+   "pct": 29.5,
+   "share": 39.1
   }
  },
  "oppZones": {
   "paint": {
-   "m": 144,
-   "a": 240,
-   "pct": 60.0,
+   "m": 161,
+   "a": 270,
+   "pct": 59.6,
    "share": null
   },
   "mid": {
-   "m": 8,
-   "a": 27,
-   "pct": 29.6,
+   "m": 9,
+   "a": 30,
+   "pct": 30.0,
    "share": null
   },
   "corner3": {
    "m": 6,
-   "a": 20,
-   "pct": 30.0,
+   "a": 25,
+   "pct": 24.0,
    "share": null
   },
   "above3": {
-   "m": 46,
-   "a": 122,
-   "pct": 37.7,
+   "m": 53,
+   "a": 148,
+   "pct": 35.8,
    "share": null
   }
  },
@@ -223,16 +223,16 @@
    "20+"
   ],
   "pts": [
-   71,
-   88,
-   110,
-   108,
-   87
+   82,
+   97,
+   131,
+   135,
+   98
   ],
-  "unassigned": 2,
-  "possessions": 489,
-  "ptsPerPoss": 0.95,
-  "avgSec": 14.4
+  "unassigned": 4,
+  "possessions": 567,
+  "ptsPerPoss": 0.96,
+  "avgSec": 14.3
  },
  "clutch": {
   "pts": 11,
@@ -252,42 +252,42 @@
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 14.0,
-   "oppg": 24.7,
-   "diff": -10.7,
-   "n": 6
+   "ppg": 15.3,
+   "oppg": 23.9,
+   "diff": -8.6,
+   "n": 7
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 22.7,
-   "oppg": 22.0,
-   "diff": 0.7,
-   "n": 6
+   "ppg": 22.6,
+   "oppg": 21.4,
+   "diff": 1.1,
+   "n": 7
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 20.3,
-   "oppg": 23.5,
-   "diff": -3.2,
-   "n": 6
+   "ppg": 19.7,
+   "oppg": 22.4,
+   "diff": -2.7,
+   "n": 7
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 20.7,
-   "oppg": 25.0,
-   "diff": -4.3,
-   "n": 6
+   "ppg": 20.6,
+   "oppg": 24.1,
+   "diff": -3.6,
+   "n": 7
   }
  ],
  "flow": {
-  "biggestLead": 10,
+  "biggestLead": 15,
   "biggestDeficit": 42,
-  "biggestRun": 8,
+  "biggestRun": 13,
   "biggestRunAllowed": 14,
-  "leadChangesPerGame": 4.3
+  "leadChangesPerGame": 4.4
  },
  "lineups": {
   "fives": [
@@ -299,18 +299,40 @@
      "Juraj Palenik",
      "Troy Thomas Dˇamico"
     ],
-    "min": 16.1,
+    "min": 19.1,
+    "pf": 32,
+    "pa": 49,
+    "pm": -17,
+    "poss": 38.6,
+    "pF": 36.7,
+    "pA": 40.5,
+    "ortg": 87.1,
+    "drtg": 120.9,
+    "net": -33.8,
+    "efg": 41.7,
+    "oefg": 53.8,
+    "games": 4
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "František Váňa",
+     "Jakub Kojzar",
+     "Jiří Paidar",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 16.3,
     "pf": 28,
-    "pa": 41,
-    "pm": -13,
-    "poss": 32.4,
-    "pF": 30.7,
-    "pA": 34.1,
-    "ortg": 91.1,
-    "drtg": 120.3,
-    "net": -29.2,
-    "efg": 45.7,
-    "oefg": 54.7,
+    "pa": 16,
+    "pm": 12,
+    "poss": 28.9,
+    "pF": 28.3,
+    "pA": 29.4,
+    "ortg": 98.9,
+    "drtg": 54.3,
+    "net": 44.5,
+    "efg": 48.1,
+    "oefg": 31.2,
     "games": 3
    },
    {
@@ -343,19 +365,19 @@
      "Juraj Palenik",
      "Troy Thomas Dˇamico"
     ],
-    "min": 12.1,
-    "pf": 25,
-    "pa": 20,
-    "pm": 5,
-    "poss": 22.4,
-    "pF": 22.1,
-    "pA": 22.8,
-    "ortg": 113.2,
-    "drtg": 87.9,
-    "net": 25.4,
-    "efg": 47.6,
-    "oefg": 43.2,
-    "games": 3
+    "min": 14.2,
+    "pf": 29,
+    "pa": 22,
+    "pm": 7,
+    "poss": 25.9,
+    "pF": 26.0,
+    "pA": 25.8,
+    "ortg": 111.7,
+    "drtg": 85.4,
+    "net": 26.3,
+    "efg": 45.8,
+    "oefg": 38.9,
+    "games": 4
    },
    {
     "players": [
@@ -409,19 +431,41 @@
      "Jiří Paidar",
      "Troy Thomas Dˇamico"
     ],
-    "min": 5.4,
-    "pf": 13,
+    "min": 5.9,
+    "pf": 15,
     "pa": 18,
-    "pm": -5,
-    "poss": 9.8,
-    "pF": 7.9,
-    "pA": 11.6,
-    "ortg": 165.0,
-    "drtg": 154.6,
-    "net": 10.3,
+    "pm": -3,
+    "poss": 11.2,
+    "pF": 9.8,
+    "pA": 12.6,
+    "ortg": 153.7,
+    "drtg": 142.4,
+    "net": 11.3,
     "efg": 75.0,
     "oefg": 62.5,
-    "games": 2
+    "games": 3
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jakub Kojzar",
+     "Juraj Palenik",
+     "Matěj Střelba",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 5.4,
+    "pf": 13,
+    "pa": 11,
+    "pm": 2,
+    "poss": 9.9,
+    "pF": 10.9,
+    "pA": 8.9,
+    "ortg": 119.5,
+    "drtg": 123.9,
+    "net": -4.4,
+    "efg": 61.1,
+    "oefg": 55.6,
+    "games": 3
    },
    {
     "players": [
@@ -514,28 +558,6 @@
    {
     "players": [
      "Damon Edward Nicholas Jr",
-     "František Váňa",
-     "Jakub Kojzar",
-     "Jiří Paidar",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 4.6,
-    "pf": 7,
-    "pa": 2,
-    "pm": 5,
-    "poss": 8.7,
-    "pF": 9.4,
-    "pA": 8.0,
-    "ortg": 74.2,
-    "drtg": 25.0,
-    "net": 49.2,
-    "efg": 42.9,
-    "oefg": 14.3,
-    "games": 2
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
      "Jakub Kojzar",
      "Jan Matušík",
      "Juraj Palenik",
@@ -623,6 +645,72 @@
    },
    {
     "players": [
+     "František Váňa",
+     "Jakub Kojzar",
+     "Jiří Paidar",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 3.5,
+    "pf": 11,
+    "pa": 12,
+    "pm": -1,
+    "poss": 9.8,
+    "pF": 8.9,
+    "pA": 10.6,
+    "ortg": 123.9,
+    "drtg": 112.8,
+    "net": 11.1,
+    "efg": 75.0,
+    "oefg": 43.8,
+    "games": 3
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "František Váňa",
+     "Jiří Paidar",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 3.4,
+    "pf": 4,
+    "pa": 10,
+    "pm": -6,
+    "poss": 5.4,
+    "pF": 5.0,
+    "pA": 5.9,
+    "ortg": 80.0,
+    "drtg": 170.1,
+    "net": -90.1,
+    "efg": 50.0,
+    "oefg": 75.0,
+    "games": 3
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Jan Matušík",
+     "Jiří Paidar",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 3.4,
+    "pf": 2,
+    "pa": 12,
+    "pm": -10,
+    "poss": 6.5,
+    "pF": 6.9,
+    "pA": 6.2,
+    "ortg": 29.1,
+    "drtg": 193.5,
+    "net": -164.5,
+    "efg": 0.0,
+    "oefg": 100.0,
+    "games": 3
+   },
+   {
+    "players": [
      "Damon Edward Nicholas Jr",
      "Jakub Kojzar",
      "Jiří Paidar",
@@ -641,28 +729,6 @@
     "net": 15.6,
     "efg": 100.0,
     "oefg": 100.0,
-    "games": 2
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "Jan Matušík",
-     "Jiří Paidar",
-     "Juraj Palenik",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 2.7,
-    "pf": 2,
-    "pa": 12,
-    "pm": -10,
-    "poss": 5.0,
-    "pF": 4.9,
-    "pA": 5.2,
-    "ortg": 41.0,
-    "drtg": 230.8,
-    "net": -189.8,
-    "efg": 0.0,
-    "oefg": 133.3,
     "games": 2
    },
    {
@@ -695,113 +761,208 @@
      "Juraj Palenik",
      "Troy Thomas Dˇamico"
     ],
+    "min": 81.7,
+    "pf": 147,
+    "pa": 193,
+    "pm": -46,
+    "poss": 165.1,
+    "pF": 162.8,
+    "pA": 167.3,
+    "ortg": 90.3,
+    "drtg": 115.3,
+    "net": -25.1,
+    "efg": 42.5,
+    "oefg": 51.3
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jiří Paidar",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 68.4,
+    "pf": 130,
+    "pa": 132,
+    "pm": -2,
+    "poss": 129.9,
+    "pF": 128.3,
+    "pA": 131.5,
+    "ortg": 101.3,
+    "drtg": 100.4,
+    "net": 1.0,
+    "efg": 46.4,
+    "oefg": 44.6
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jakub Kojzar",
+     "Troy Thomas Dˇamico"
+    ],
     "min": 66.7,
-    "pf": 117,
-    "pa": 157,
-    "pm": -40,
-    "poss": 133.7,
-    "pF": 130.9,
-    "pA": 136.6,
-    "ortg": 89.4,
-    "drtg": 114.9,
-    "net": -25.5,
-    "efg": 42.1,
+    "pf": 108,
+    "pa": 127,
+    "pm": -19,
+    "poss": 121.2,
+    "pF": 118.2,
+    "pA": 124.2,
+    "ortg": 91.4,
+    "drtg": 102.3,
+    "net": -10.9,
+    "efg": 39.9,
+    "oefg": 46.4
+   },
+   {
+    "players": [
+     "Jiří Paidar",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 64.9,
+    "pf": 137,
+    "pa": 159,
+    "pm": -22,
+    "poss": 131.0,
+    "pF": 130.2,
+    "pA": 131.9,
+    "ortg": 105.3,
+    "drtg": 120.5,
+    "net": -15.3,
+    "efg": 50.9,
+    "oefg": 54.7
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Jiří Paidar",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 62.3,
+    "pf": 119,
+    "pa": 130,
+    "pm": -11,
+    "poss": 121.1,
+    "pF": 116.8,
+    "pA": 125.4,
+    "ortg": 101.9,
+    "drtg": 103.7,
+    "net": -1.7,
+    "efg": 51.0,
+    "oefg": 47.7
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 62.2,
+    "pf": 102,
+    "pa": 128,
+    "pm": -26,
+    "poss": 120.8,
+    "pF": 120.4,
+    "pA": 121.3,
+    "ortg": 84.7,
+    "drtg": 105.5,
+    "net": -20.8,
+    "efg": 40.3,
+    "oefg": 46.7
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jakub Kojzar",
+     "Juraj Palenik"
+    ],
+    "min": 58.5,
+    "pf": 108,
+    "pa": 134,
+    "pm": -26,
+    "poss": 114.7,
+    "pF": 113.1,
+    "pA": 116.4,
+    "ortg": 95.5,
+    "drtg": 115.2,
+    "net": -19.7,
+    "efg": 43.9,
     "oefg": 52.0
    },
    {
     "players": [
-     "Jiří Paidar",
-     "Juraj Palenik",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 55.3,
-    "pf": 120,
-    "pa": 138,
-    "pm": -18,
-    "poss": 110.1,
-    "pF": 108.3,
-    "pA": 111.8,
-    "ortg": 110.8,
-    "drtg": 123.4,
-    "net": -12.6,
-    "efg": 52.2,
-    "oefg": 58.9
-   },
-   {
-    "players": [
      "Jakub Kojzar",
      "Jiří Paidar",
      "Juraj Palenik"
     ],
-    "min": 51.5,
-    "pf": 117,
-    "pa": 138,
-    "pm": -21,
-    "poss": 105.5,
-    "pF": 103.2,
-    "pA": 107.8,
-    "ortg": 113.4,
-    "drtg": 128.0,
-    "net": -14.6,
-    "efg": 58.0,
-    "oefg": 59.0
+    "min": 56.7,
+    "pf": 128,
+    "pa": 154,
+    "pm": -26,
+    "poss": 118.6,
+    "pF": 116.2,
+    "pA": 121.0,
+    "ortg": 110.2,
+    "drtg": 127.2,
+    "net": -17.0,
+    "efg": 57.1,
+    "oefg": 57.5
    },
    {
     "players": [
-     "Damon Edward Nicholas Jr",
-     "Juraj Palenik",
+     "František Váňa",
+     "Jakub Kojzar",
      "Troy Thomas Dˇamico"
     ],
-    "min": 51.0,
-    "pf": 86,
-    "pa": 106,
-    "pm": -20,
-    "poss": 100.3,
-    "pF": 99.4,
-    "pA": 101.2,
-    "ortg": 86.5,
-    "drtg": 104.7,
-    "net": -18.3,
-    "efg": 43.8,
-    "oefg": 48.3
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Jiří Paidar",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 50.8,
-    "pf": 98,
-    "pa": 108,
-    "pm": -10,
-    "poss": 97.2,
-    "pF": 95.8,
-    "pA": 98.6,
+    "min": 56.5,
+    "pf": 114,
+    "pa": 111,
+    "pm": 3,
+    "poss": 111.7,
+    "pF": 111.5,
+    "pA": 111.9,
     "ortg": 102.3,
-    "drtg": 109.5,
-    "net": -7.1,
-    "efg": 47.6,
-    "oefg": 47.3
+    "drtg": 99.2,
+    "net": 3.0,
+    "efg": 45.5,
+    "oefg": 46.4
    },
    {
     "players": [
      "Damon Edward Nicholas Jr",
      "Jakub Kojzar",
+     "Jiří Paidar"
+    ],
+    "min": 52.4,
+    "pf": 94,
+    "pa": 109,
+    "pm": -15,
+    "poss": 98.2,
+    "pF": 94.8,
+    "pA": 101.6,
+    "ortg": 99.2,
+    "drtg": 107.3,
+    "net": -8.2,
+    "efg": 47.6,
+    "oefg": 47.8
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jiří Paidar",
      "Juraj Palenik"
     ],
-    "min": 49.5,
-    "pf": 96,
-    "pa": 114,
+    "min": 48.0,
+    "pf": 99,
+    "pa": 117,
     "pm": -18,
-    "poss": 98.1,
-    "pF": 97.0,
-    "pA": 99.3,
-    "ortg": 99.0,
-    "drtg": 114.8,
-    "net": -15.9,
-    "efg": 47.6,
-    "oefg": 52.9
+    "poss": 95.1,
+    "pF": 94.4,
+    "pA": 95.8,
+    "ortg": 104.8,
+    "drtg": 122.2,
+    "net": -17.4,
+    "efg": 50.6,
+    "oefg": 53.3
    },
    {
     "players": [
@@ -821,25 +982,6 @@
     "net": -12.3,
     "efg": 45.9,
     "oefg": 51.7
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Jakub Kojzar",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 46.0,
-    "pf": 75,
-    "pa": 93,
-    "pm": -18,
-    "poss": 84.5,
-    "pF": 83.2,
-    "pA": 85.7,
-    "ortg": 90.1,
-    "drtg": 108.5,
-    "net": -18.4,
-    "efg": 40.5,
-    "oefg": 48.1
    },
    {
     "players": [
@@ -882,25 +1024,6 @@
    {
     "players": [
      "Jakub Kojzar",
-     "Jiří Paidar",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 45.5,
-    "pf": 87,
-    "pa": 100,
-    "pm": -13,
-    "poss": 87.8,
-    "pF": 84.9,
-    "pA": 90.8,
-    "ortg": 102.5,
-    "drtg": 110.2,
-    "net": -7.7,
-    "efg": 51.4,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Jakub Kojzar",
      "Michal Svojanovský",
      "Troy Thomas Dˇamico"
     ],
@@ -919,22 +1042,22 @@
    },
    {
     "players": [
-     "Damon Edward Nicholas Jr",
-     "Jiří Paidar",
-     "Juraj Palenik"
+     "František Váňa",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
     ],
-    "min": 41.7,
-    "pf": 88,
-    "pa": 103,
-    "pm": -15,
-    "poss": 83.4,
-    "pF": 82.6,
-    "pA": 84.3,
-    "ortg": 106.6,
-    "drtg": 122.2,
-    "net": -15.6,
-    "efg": 52.2,
-    "oefg": 54.6
+    "min": 40.4,
+    "pf": 83,
+    "pa": 112,
+    "pm": -29,
+    "poss": 87.5,
+    "pF": 86.3,
+    "pA": 88.8,
+    "ortg": 96.2,
+    "drtg": 126.2,
+    "net": -30.0,
+    "efg": 48.0,
+    "oefg": 57.1
    },
    {
     "players": [
@@ -957,60 +1080,136 @@
    },
    {
     "players": [
-     "Damon Edward Nicholas Jr",
-     "Jakub Kojzar",
-     "Jiří Paidar"
+     "Eyisi Onyinyechi Brown",
+     "Juraj Palenik",
+     "Troy Thomas Dˇamico"
     ],
-    "min": 37.7,
+    "min": 37.1,
+    "pf": 80,
+    "pa": 89,
+    "pm": -9,
+    "poss": 75.5,
+    "pF": 75.1,
+    "pA": 75.9,
+    "ortg": 106.5,
+    "drtg": 117.2,
+    "net": -10.7,
+    "efg": 48.5,
+    "oefg": 58.2
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Jiří Paidar",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 36.7,
+    "pf": 77,
+    "pa": 82,
+    "pm": -5,
+    "poss": 69.9,
+    "pF": 69.7,
+    "pA": 70.1,
+    "ortg": 110.5,
+    "drtg": 116.9,
+    "net": -6.4,
+    "efg": 45.4,
+    "oefg": 56.5
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jiří Paidar",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 35.5,
     "pf": 69,
-    "pa": 87,
-    "pm": -18,
-    "poss": 71.8,
-    "pF": 69.9,
-    "pA": 73.7,
-    "ortg": 98.7,
-    "drtg": 118.1,
-    "net": -19.4,
-    "efg": 49.1,
-    "oefg": 50.0
+    "pa": 71,
+    "pm": -2,
+    "poss": 68.2,
+    "pF": 65.6,
+    "pA": 70.8,
+    "ortg": 105.2,
+    "drtg": 100.3,
+    "net": 4.9,
+    "efg": 53.6,
+    "oefg": 49.2
    },
    {
     "players": [
      "František Váňa",
      "Jakub Kojzar",
-     "Troy Thomas Dˇamico"
+     "Juraj Palenik"
     ],
-    "min": 36.3,
-    "pf": 71,
-    "pa": 77,
-    "pm": -6,
-    "poss": 71.4,
-    "pF": 71.0,
-    "pA": 71.9,
-    "ortg": 100.1,
-    "drtg": 107.1,
-    "net": -7.0,
-    "efg": 42.7,
-    "oefg": 49.2
+    "min": 33.9,
+    "pf": 73,
+    "pa": 87,
+    "pm": -14,
+    "poss": 71.5,
+    "pF": 70.7,
+    "pA": 72.3,
+    "ortg": 103.2,
+    "drtg": 120.3,
+    "net": -17.1,
+    "efg": 44.2,
+    "oefg": 53.3
    },
    {
     "players": [
      "Eyisi Onyinyechi Brown",
-     "Juraj Palenik",
+     "František Váňa",
      "Troy Thomas Dˇamico"
     ],
+    "min": 33.1,
+    "pf": 63,
+    "pa": 95,
+    "pm": -32,
+    "poss": 69.0,
+    "pF": 66.6,
+    "pA": 71.4,
+    "ortg": 94.6,
+    "drtg": 133.0,
+    "net": -38.4,
+    "efg": 52.0,
+    "oefg": 67.5
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "František Váňa",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 32.5,
+    "pf": 65,
+    "pa": 50,
+    "pm": 15,
+    "poss": 61.9,
+    "pF": 61.9,
+    "pA": 62.0,
+    "ortg": 105.0,
+    "drtg": 80.7,
+    "net": 24.3,
+    "efg": 47.2,
+    "oefg": 42.3
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "František Váňa",
+     "Jakub Kojzar"
+    ],
     "min": 32.1,
-    "pf": 71,
-    "pa": 84,
-    "pm": -13,
-    "poss": 67.1,
-    "pF": 66.2,
-    "pA": 68.0,
-    "ortg": 107.2,
-    "drtg": 123.5,
-    "net": -16.3,
-    "efg": 48.3,
-    "oefg": 64.9
+    "pf": 58,
+    "pa": 42,
+    "pm": 16,
+    "poss": 59.3,
+    "pF": 59.0,
+    "pA": 59.6,
+    "ortg": 98.2,
+    "drtg": 70.4,
+    "net": 27.8,
+    "efg": 38.8,
+    "oefg": 41.1
    },
    {
     "players": [
@@ -1033,79 +1232,60 @@
    },
    {
     "players": [
-     "Eyisi Onyinyechi Brown",
-     "Jiří Paidar",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 31.8,
-    "pf": 69,
-    "pa": 77,
-    "pm": -8,
-    "poss": 61.1,
-    "pF": 59.9,
-    "pA": 62.2,
-    "ortg": 115.2,
-    "drtg": 123.7,
-    "net": -8.6,
-    "efg": 46.6,
-    "oefg": 62.3
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "František Váňa",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 30.3,
-    "pf": 56,
-    "pa": 92,
-    "pm": -36,
-    "poss": 64.1,
-    "pF": 61.7,
-    "pA": 66.6,
-    "ortg": 90.7,
-    "drtg": 138.2,
-    "net": -47.5,
-    "efg": 49.0,
-    "oefg": 70.8
-   },
-   {
-    "players": [
      "Jakub Kojzar",
      "Jan Matušík",
      "Juraj Palenik"
     ],
-    "min": 30.3,
+    "min": 30.7,
     "pf": 65,
-    "pa": 73,
-    "pm": -8,
-    "poss": 62.9,
-    "pF": 64.2,
-    "pA": 61.6,
-    "ortg": 101.2,
-    "drtg": 118.6,
-    "net": -17.4,
-    "efg": 52.0,
+    "pa": 74,
+    "pm": -9,
+    "poss": 64.3,
+    "pF": 65.2,
+    "pA": 63.4,
+    "ortg": 99.6,
+    "drtg": 116.6,
+    "net": -17.0,
+    "efg": 51.0,
     "oefg": 60.0
    },
    {
     "players": [
-     "František Váňa",
-     "Juraj Palenik",
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
      "Troy Thomas Dˇamico"
     ],
     "min": 29.5,
-    "pf": 56,
-    "pa": 89,
+    "pf": 59,
+    "pa": 54,
+    "pm": 5,
+    "poss": 57.8,
+    "pF": 59.5,
+    "pA": 56.2,
+    "ortg": 99.2,
+    "drtg": 96.2,
+    "net": 3.0,
+    "efg": 46.0,
+    "oefg": 47.1
+   },
+   {
+    "players": [
+     "Jan Matušík",
+     "Jiří Paidar",
+     "Juraj Palenik"
+    ],
+    "min": 29.2,
+    "pf": 53,
+    "pa": 86,
     "pm": -33,
-    "poss": 63.5,
-    "pF": 60.6,
-    "pA": 66.4,
-    "ortg": 92.3,
-    "drtg": 134.1,
-    "net": -41.8,
-    "efg": 44.0,
-    "oefg": 62.9
+    "poss": 59.5,
+    "pF": 59.8,
+    "pA": 59.2,
+    "ortg": 88.6,
+    "drtg": 145.3,
+    "net": -56.6,
+    "efg": 46.5,
+    "oefg": 64.6
    },
    {
     "players": [
@@ -1129,6 +1309,25 @@
    {
     "players": [
      "Eyisi Onyinyechi Brown",
+     "Jiří Paidar",
+     "Juraj Palenik"
+    ],
+    "min": 28.1,
+    "pf": 53,
+    "pa": 69,
+    "pm": -16,
+    "poss": 54.6,
+    "pF": 54.8,
+    "pA": 54.5,
+    "ortg": 96.7,
+    "drtg": 126.7,
+    "net": -29.9,
+    "efg": 44.3,
+    "oefg": 55.9
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
      "František Váňa",
      "Michal Svojanovský"
     ],
@@ -1147,22 +1346,22 @@
    },
    {
     "players": [
-     "Jan Matušík",
-     "Jiří Paidar",
-     "Juraj Palenik"
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
+     "Jiří Paidar"
     ],
-    "min": 27.6,
-    "pf": 52,
-    "pa": 82,
-    "pm": -30,
-    "poss": 56.1,
-    "pF": 55.9,
-    "pA": 56.3,
-    "ortg": 93.0,
-    "drtg": 145.6,
-    "net": -52.6,
-    "efg": 50.0,
-    "oefg": 65.2
+    "min": 27.8,
+    "pf": 62,
+    "pa": 57,
+    "pm": 5,
+    "poss": 52.8,
+    "pF": 51.4,
+    "pA": 54.2,
+    "ortg": 120.7,
+    "drtg": 105.2,
+    "net": 15.5,
+    "efg": 46.0,
+    "oefg": 51.0
    },
    {
     "players": [
@@ -1186,21 +1385,40 @@
    {
     "players": [
      "Damon Edward Nicholas Jr",
-     "Eyisi Onyinyechi Brown",
+     "František Váňa",
+     "Jiří Paidar"
+    ],
+    "min": 26.4,
+    "pf": 53,
+    "pa": 41,
+    "pm": 12,
+    "poss": 48.4,
+    "pF": 45.7,
+    "pA": 51.1,
+    "ortg": 115.9,
+    "drtg": 80.3,
+    "net": 35.7,
+    "efg": 48.9,
+    "oefg": 44.0
+   },
+   {
+    "players": [
+     "Jan Matušík",
+     "Jiří Paidar",
      "Troy Thomas Dˇamico"
     ],
-    "min": 26.9,
-    "pf": 53,
-    "pa": 52,
-    "pm": 1,
-    "poss": 52.9,
-    "pF": 53.7,
-    "pA": 52.2,
-    "ortg": 98.7,
-    "drtg": 99.7,
-    "net": -1.0,
-    "efg": 46.8,
-    "oefg": 50.0
+    "min": 26.2,
+    "pf": 50,
+    "pa": 63,
+    "pm": -13,
+    "poss": 54.7,
+    "pF": 54.7,
+    "pA": 54.6,
+    "ortg": 91.4,
+    "drtg": 115.3,
+    "net": -23.9,
+    "efg": 40.2,
+    "oefg": 58.6
    },
    {
     "players": [
@@ -1223,41 +1441,22 @@
    },
    {
     "players": [
-     "Jan Matušík",
-     "Jiří Paidar",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 25.3,
-    "pf": 49,
-    "pa": 63,
-    "pm": -14,
-    "poss": 52.2,
-    "pF": 51.8,
-    "pA": 52.6,
-    "ortg": 94.5,
-    "drtg": 119.7,
-    "net": -25.2,
-    "efg": 41.8,
-    "oefg": 62.1
-   },
-   {
-    "players": [
      "František Váňa",
      "Jakub Kojzar",
-     "Juraj Palenik"
+     "Jiří Paidar"
     ],
-    "min": 25.0,
-    "pf": 51,
-    "pa": 66,
-    "pm": -15,
-    "poss": 50.0,
-    "pF": 48.1,
-    "pA": 51.9,
-    "ortg": 106.1,
-    "drtg": 127.1,
-    "net": -21.0,
-    "efg": 42.5,
-    "oefg": 56.7
+    "min": 24.1,
+    "pf": 50,
+    "pa": 40,
+    "pm": 10,
+    "poss": 46.9,
+    "pF": 45.0,
+    "pA": 48.8,
+    "ortg": 111.2,
+    "drtg": 81.9,
+    "net": 29.3,
+    "efg": 56.2,
+    "oefg": 41.0
    },
    {
     "players": [
@@ -1265,18 +1464,37 @@
      "Juraj Palenik",
      "Troy Thomas Dˇamico"
     ],
-    "min": 23.2,
+    "min": 23.9,
     "pf": 45,
     "pa": 64,
     "pm": -19,
-    "poss": 50.3,
-    "pF": 48.8,
-    "pA": 51.8,
-    "ortg": 92.1,
-    "drtg": 123.6,
-    "net": -31.5,
-    "efg": 46.2,
-    "oefg": 55.1
+    "poss": 51.8,
+    "pF": 50.8,
+    "pA": 52.8,
+    "ortg": 88.5,
+    "drtg": 121.3,
+    "net": -32.8,
+    "efg": 44.0,
+    "oefg": 53.8
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
+     "Juraj Palenik"
+    ],
+    "min": 23.3,
+    "pf": 46,
+    "pa": 47,
+    "pm": -1,
+    "poss": 43.9,
+    "pF": 43.2,
+    "pA": 44.7,
+    "ortg": 106.6,
+    "drtg": 105.1,
+    "net": 1.5,
+    "efg": 45.0,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -1318,25 +1536,6 @@
    },
    {
     "players": [
-     "Eyisi Onyinyechi Brown",
-     "Jiří Paidar",
-     "Juraj Palenik"
-    ],
-    "min": 21.9,
-    "pf": 43,
-    "pa": 56,
-    "pm": -13,
-    "poss": 43.9,
-    "pF": 44.0,
-    "pA": 43.7,
-    "ortg": 97.6,
-    "drtg": 128.1,
-    "net": -30.4,
-    "efg": 44.4,
-    "oefg": 60.3
-   },
-   {
-    "players": [
      "Damon Edward Nicholas Jr",
      "Michal Svojanovský",
      "Troy Thomas Dˇamico"
@@ -1353,25 +1552,6 @@
     "net": 9.8,
     "efg": 45.8,
     "oefg": 45.6
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Eyisi Onyinyechi Brown",
-     "Jiří Paidar"
-    ],
-    "min": 21.8,
-    "pf": 47,
-    "pa": 48,
-    "pm": -1,
-    "poss": 42.0,
-    "pF": 39.8,
-    "pA": 44.2,
-    "ortg": 118.0,
-    "drtg": 108.7,
-    "net": 9.3,
-    "efg": 51.3,
-    "oefg": 51.2
    },
    {
     "players": [
@@ -1394,41 +1574,22 @@
    },
    {
     "players": [
-     "František Váňa",
-     "Jiří Paidar",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 19.2,
-    "pf": 36,
-    "pa": 46,
-    "pm": -10,
-    "poss": 35.8,
-    "pF": 34.0,
-    "pA": 37.7,
-    "ortg": 106.0,
-    "drtg": 122.0,
-    "net": -15.9,
-    "efg": 50.0,
-    "oefg": 58.8
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
      "Eyisi Onyinyechi Brown",
+     "František Váňa",
      "Juraj Palenik"
     ],
-    "min": 19.1,
+    "min": 20.7,
     "pf": 37,
-    "pa": 39,
-    "pm": -2,
-    "poss": 36.3,
-    "pF": 36.0,
-    "pA": 36.7,
-    "ortg": 102.9,
-    "drtg": 106.2,
-    "net": -3.3,
-    "efg": 47.0,
-    "oefg": 51.6
+    "pa": 57,
+    "pm": -20,
+    "poss": 42.7,
+    "pF": 42.0,
+    "pA": 43.4,
+    "ortg": 88.0,
+    "drtg": 131.3,
+    "net": -43.3,
+    "efg": 38.6,
+    "oefg": 66.2
    },
    {
     "players": [
@@ -1436,37 +1597,18 @@
      "Jan Matušík",
      "Troy Thomas Dˇamico"
     ],
-    "min": 18.8,
+    "min": 19.5,
     "pf": 42,
     "pa": 43,
     "pm": -1,
-    "poss": 42.3,
-    "pF": 44.2,
-    "pA": 40.5,
-    "ortg": 95.1,
-    "drtg": 106.2,
-    "net": -11.1,
-    "efg": 39.7,
-    "oefg": 57.1
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "František Váňa",
-     "Jakub Kojzar"
-    ],
-    "min": 18.0,
-    "pf": 33,
-    "pa": 24,
-    "pm": 9,
-    "poss": 33.9,
-    "pF": 34.4,
-    "pA": 33.3,
-    "ortg": 95.9,
-    "drtg": 72.0,
-    "net": 23.9,
-    "efg": 36.8,
-    "oefg": 45.8
+    "poss": 43.8,
+    "pF": 46.2,
+    "pA": 41.5,
+    "ortg": 91.0,
+    "drtg": 103.7,
+    "net": -12.7,
+    "efg": 37.8,
+    "oefg": 55.2
    },
    {
     "players": [
@@ -1474,37 +1616,37 @@
      "Jan Matušík",
      "Juraj Palenik"
     ],
-    "min": 17.6,
-    "pf": 38,
-    "pa": 52,
-    "pm": -14,
-    "poss": 37.4,
-    "pF": 37.0,
-    "pA": 37.9,
-    "ortg": 102.8,
-    "drtg": 137.3,
-    "net": -34.5,
-    "efg": 51.6,
-    "oefg": 66.7
+    "min": 18.7,
+    "pf": 39,
+    "pa": 54,
+    "pm": -15,
+    "poss": 39.9,
+    "pF": 38.8,
+    "pA": 40.9,
+    "ortg": 100.4,
+    "drtg": 132.1,
+    "net": -31.7,
+    "efg": 47.1,
+    "oefg": 65.5
    },
    {
     "players": [
-     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
      "František Váňa",
-     "Troy Thomas Dˇamico"
+     "Jiří Paidar"
     ],
-    "min": 17.5,
-    "pf": 37,
-    "pa": 32,
-    "pm": 5,
-    "poss": 33.6,
-    "pF": 33.5,
-    "pA": 33.6,
-    "ortg": 110.4,
-    "drtg": 95.1,
-    "net": 15.3,
-    "efg": 51.7,
-    "oefg": 48.3
+    "min": 17.9,
+    "pf": 34,
+    "pa": 43,
+    "pm": -9,
+    "poss": 32.9,
+    "pF": 31.2,
+    "pA": 34.7,
+    "ortg": 109.1,
+    "drtg": 123.8,
+    "net": -14.7,
+    "efg": 44.4,
+    "oefg": 62.5
    },
    {
     "players": [
@@ -1546,6 +1688,44 @@
    },
    {
     "players": [
+     "Jakub Kojzar",
+     "Juraj Palenik",
+     "Matěj Střelba"
+    ],
+    "min": 16.2,
+    "pf": 37,
+    "pa": 35,
+    "pm": 2,
+    "poss": 34.6,
+    "pF": 33.8,
+    "pA": 35.4,
+    "ortg": 109.3,
+    "drtg": 99.0,
+    "net": 10.4,
+    "efg": 50.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Matěj Střelba",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 15.3,
+    "pf": 26,
+    "pa": 34,
+    "pm": -8,
+    "poss": 27.9,
+    "pF": 29.1,
+    "pA": 26.8,
+    "ortg": 89.4,
+    "drtg": 127.1,
+    "net": -37.6,
+    "efg": 37.0,
+    "oefg": 64.0
+   },
+   {
+    "players": [
      "František Váňa",
      "Jan Matušík",
      "Michal Svojanovský"
@@ -1566,21 +1746,40 @@
    {
     "players": [
      "Eyisi Onyinyechi Brown",
-     "František Váňa",
-     "Juraj Palenik"
+     "Jan Matušík",
+     "Jiří Paidar"
     ],
-    "min": 14.8,
-    "pf": 26,
-    "pa": 44,
-    "pm": -18,
+    "min": 15.0,
+    "pf": 27,
+    "pa": 38,
+    "pm": -11,
+    "poss": 31.6,
+    "pF": 33.2,
+    "pA": 30.0,
+    "ortg": 81.4,
+    "drtg": 126.5,
+    "net": -45.1,
+    "efg": 23.5,
+    "oefg": 68.4
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jan Matušík",
+     "Jiří Paidar"
+    ],
+    "min": 14.9,
+    "pf": 32,
+    "pa": 40,
+    "pm": -8,
     "poss": 32.2,
-    "pF": 32.8,
-    "pA": 31.6,
-    "ortg": 79.2,
-    "drtg": 139.1,
-    "net": -59.9,
-    "efg": 35.2,
-    "oefg": 72.2
+    "pF": 31.4,
+    "pA": 33.0,
+    "ortg": 101.9,
+    "drtg": 121.1,
+    "net": -19.2,
+    "efg": 38.3,
+    "oefg": 58.7
    },
    {
     "players": [
@@ -1603,22 +1802,60 @@
    },
    {
     "players": [
+     "Eyisi Onyinyechi Brown",
      "František Váňa",
-     "Jan Matušík",
-     "Troy Thomas Dˇamico"
+     "Jan Matušík"
     ],
-    "min": 13.8,
-    "pf": 30,
-    "pa": 23,
-    "pm": 7,
-    "poss": 29.0,
-    "pF": 27.6,
+    "min": 14.7,
+    "pf": 28,
+    "pa": 33,
+    "pm": -5,
+    "poss": 33.2,
+    "pF": 33.2,
+    "pA": 33.1,
+    "ortg": 84.2,
+    "drtg": 99.8,
+    "net": -15.5,
+    "efg": 25.9,
+    "oefg": 58.7
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jiří Paidar",
+     "Juraj Palenik"
+    ],
+    "min": 14.4,
+    "pf": 26,
+    "pa": 42,
+    "pm": -16,
+    "poss": 29.8,
+    "pF": 29.0,
+    "pA": 30.7,
+    "ortg": 89.8,
+    "drtg": 136.7,
+    "net": -46.9,
+    "efg": 55.6,
+    "oefg": 55.4
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
+     "František Váňa"
+    ],
+    "min": 14.4,
+    "pf": 36,
+    "pa": 39,
+    "pm": -3,
+    "poss": 29.5,
+    "pF": 28.6,
     "pA": 30.4,
-    "ortg": 108.5,
-    "drtg": 75.7,
-    "net": 32.9,
-    "efg": 56.8,
-    "oefg": 36.4
+    "ortg": 125.9,
+    "drtg": 128.3,
+    "net": -2.4,
+    "efg": 42.9,
+    "oefg": 66.0
    },
    {
     "players": [
@@ -1626,18 +1863,56 @@
      "Jan Matušík",
      "Matěj Střelba"
     ],
-    "min": 13.8,
+    "min": 14.2,
     "pf": 24,
-    "pa": 21,
-    "pm": 3,
-    "poss": 27.3,
-    "pF": 27.6,
-    "pA": 27.0,
-    "ortg": 86.8,
-    "drtg": 77.9,
-    "net": 8.9,
-    "efg": 38.5,
+    "pa": 22,
+    "pm": 2,
+    "poss": 28.7,
+    "pF": 28.6,
+    "pA": 28.8,
+    "ortg": 83.8,
+    "drtg": 76.3,
+    "net": 7.5,
+    "efg": 37.0,
     "oefg": 43.2
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Jan Matušík",
+     "Juraj Palenik"
+    ],
+    "min": 14.0,
+    "pf": 21,
+    "pa": 40,
+    "pm": -19,
+    "poss": 32.4,
+    "pF": 30.6,
+    "pA": 34.2,
+    "ortg": 68.6,
+    "drtg": 116.8,
+    "net": -48.2,
+    "efg": 22.9,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jan Matušík",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 13.9,
+    "pf": 31,
+    "pa": 23,
+    "pm": 8,
+    "poss": 30.0,
+    "pF": 28.5,
+    "pA": 31.4,
+    "ortg": 108.7,
+    "drtg": 73.2,
+    "net": 35.4,
+    "efg": 56.8,
+    "oefg": 34.8
    },
    {
     "players": [
@@ -1660,22 +1935,22 @@
    },
    {
     "players": [
-     "Damon Edward Nicholas Jr",
-     "Jan Matušík",
-     "Jiří Paidar"
+     "Jakub Kojzar",
+     "Juraj Palenik",
+     "Václav Honomichl"
     ],
-    "min": 13.2,
-    "pf": 27,
-    "pa": 37,
-    "pm": -10,
-    "poss": 28.8,
-    "pF": 27.6,
-    "pA": 30.0,
-    "ortg": 97.7,
-    "drtg": 123.2,
-    "net": -25.5,
-    "efg": 47.7,
-    "oefg": 57.1
+    "min": 13.3,
+    "pf": 16,
+    "pa": 30,
+    "pm": -14,
+    "poss": 25.0,
+    "pF": 25.1,
+    "pA": 24.8,
+    "ortg": 63.8,
+    "drtg": 120.8,
+    "net": -57.0,
+    "efg": 25.0,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -1702,18 +1977,94 @@
      "Jan Matušík",
      "Troy Thomas Dˇamico"
     ],
-    "min": 12.9,
-    "pf": 24,
+    "min": 13.0,
+    "pf": 25,
     "pa": 24,
-    "pm": 0,
-    "poss": 27.2,
-    "pF": 30.4,
-    "pA": 24.0,
-    "ortg": 78.9,
-    "drtg": 99.8,
-    "net": -20.9,
+    "pm": 1,
+    "poss": 28.2,
+    "pF": 31.3,
+    "pA": 25.0,
+    "ortg": 79.9,
+    "drtg": 95.8,
+    "net": -15.9,
     "efg": 30.8,
-    "oefg": 42.9
+    "oefg": 40.0
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "František Váňa",
+     "Juraj Palenik"
+    ],
+    "min": 12.9,
+    "pf": 22,
+    "pa": 21,
+    "pm": 1,
+    "poss": 25.7,
+    "pF": 27.8,
+    "pA": 23.6,
+    "ortg": 79.0,
+    "drtg": 88.8,
+    "net": -9.8,
+    "efg": 27.1,
+    "oefg": 47.2
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jan Matušík",
+     "Juraj Palenik"
+    ],
+    "min": 12.7,
+    "pf": 16,
+    "pa": 24,
+    "pm": -8,
+    "poss": 25.9,
+    "pF": 24.0,
+    "pA": 27.8,
+    "ortg": 66.8,
+    "drtg": 86.2,
+    "net": -19.4,
+    "efg": 30.6,
+    "oefg": 37.5
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Matěj Střelba",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 12.6,
+    "pf": 26,
+    "pa": 27,
+    "pm": -1,
+    "poss": 23.8,
+    "pF": 24.9,
+    "pA": 22.8,
+    "ortg": 104.5,
+    "drtg": 118.6,
+    "net": -14.1,
+    "efg": 54.5,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Juraj Palenik",
+     "Matěj Střelba",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 12.5,
+    "pf": 28,
+    "pa": 26,
+    "pm": 2,
+    "poss": 22.5,
+    "pF": 23.2,
+    "pA": 21.9,
+    "ortg": 120.7,
+    "drtg": 118.8,
+    "net": 1.9,
+    "efg": 54.5,
+    "oefg": 65.8
    },
    {
     "players": [
@@ -1774,6 +2125,25 @@
    },
    {
     "players": [
+     "Jakub Kojzar",
+     "Troy Thomas Dˇamico",
+     "Václav Honomichl"
+    ],
+    "min": 12.2,
+    "pf": 14,
+    "pa": 29,
+    "pm": -15,
+    "poss": 22.6,
+    "pF": 23.8,
+    "pA": 21.5,
+    "ortg": 58.9,
+    "drtg": 134.8,
+    "net": -75.8,
+    "efg": 23.9,
+    "oefg": 60.5
+   },
+   {
+    "players": [
      "František Váňa",
      "Michal Svojanovský",
      "Václav Honomichl"
@@ -1793,22 +2163,22 @@
    },
    {
     "players": [
-     "Eyisi Onyinyechi Brown",
-     "Jan Matušík",
-     "Jiří Paidar"
+     "Damon Edward Nicholas Jr",
+     "Jakub Kojzar",
+     "Matěj Střelba"
     ],
-    "min": 11.9,
-    "pf": 22,
-    "pa": 31,
-    "pm": -9,
-    "poss": 25.8,
-    "pF": 26.4,
-    "pA": 25.2,
-    "ortg": 83.3,
-    "drtg": 123.2,
-    "net": -39.9,
-    "efg": 30.4,
-    "oefg": 65.6
+    "min": 12.2,
+    "pf": 16,
+    "pa": 24,
+    "pm": -8,
+    "poss": 21.1,
+    "pF": 20.5,
+    "pA": 21.7,
+    "ortg": 78.0,
+    "drtg": 110.5,
+    "net": -32.5,
+    "efg": 26.2,
+    "oefg": 59.4
    },
    {
     "players": [
@@ -1831,212 +2201,136 @@
    },
    {
     "players": [
-     "Eyisi Onyinyechi Brown",
      "František Váňa",
-     "Jiří Paidar"
+     "Juraj Palenik",
+     "Matěj Střelba"
     ],
-    "min": 11.6,
-    "pf": 20,
-    "pa": 29,
-    "pm": -9,
-    "poss": 21.3,
-    "pF": 19.6,
-    "pA": 23.0,
-    "ortg": 101.8,
-    "drtg": 126.3,
-    "net": -24.5,
-    "efg": 53.1,
-    "oefg": 60.0
+    "min": 11.5,
+    "pf": 23,
+    "pa": 27,
+    "pm": -4,
+    "poss": 21.7,
+    "pF": 22.6,
+    "pA": 20.8,
+    "ortg": 101.6,
+    "drtg": 130.1,
+    "net": -28.5,
+    "efg": 45.0,
+    "oefg": 62.5
    },
    {
     "players": [
-     "Jakub Kojzar",
      "Juraj Palenik",
+     "Troy Thomas Dˇamico",
      "Václav Honomichl"
     ],
-    "min": 11.3,
-    "pf": 13,
-    "pa": 24,
-    "pm": -11,
-    "poss": 21.4,
-    "pF": 21.6,
-    "pA": 21.1,
-    "ortg": 60.1,
-    "drtg": 113.9,
-    "net": -53.8,
-    "efg": 20.8,
-    "oefg": 47.5
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "Jan Matušík",
-     "Juraj Palenik"
-    ],
-    "min": 10.8,
+    "min": 11.2,
     "pf": 19,
-    "pa": 34,
-    "pm": -15,
-    "poss": 25.6,
-    "pF": 23.8,
-    "pA": 27.4,
-    "ortg": 79.7,
-    "drtg": 124.3,
-    "net": -44.6,
-    "efg": 32.4,
-    "oefg": 52.4
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "František Váňa",
-     "Jan Matušík"
-    ],
-    "min": 10.7,
-    "pf": 22,
-    "pa": 24,
-    "pm": -2,
-    "poss": 25.4,
-    "pF": 25.6,
-    "pA": 25.2,
-    "ortg": 85.9,
-    "drtg": 95.2,
-    "net": -9.3,
-    "efg": 42.9,
-    "oefg": 55.6
+    "pa": 23,
+    "pm": -4,
+    "poss": 21.6,
+    "pF": 21.6,
+    "pA": 21.6,
+    "ortg": 87.8,
+    "drtg": 106.3,
+    "net": -18.5,
+    "efg": 41.3,
+    "oefg": 56.2
    },
    {
     "players": [
      "Damon Edward Nicholas Jr",
      "Jakub Kojzar",
+     "Václav Honomichl"
+    ],
+    "min": 11.2,
+    "pf": 11,
+    "pa": 28,
+    "pm": -17,
+    "poss": 18.7,
+    "pF": 18.3,
+    "pA": 19.2,
+    "ortg": 60.0,
+    "drtg": 146.1,
+    "net": -86.1,
+    "efg": 30.6,
+    "oefg": 53.1
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jakub Kojzar",
      "Matěj Střelba"
+    ],
+    "min": 11.0,
+    "pf": 21,
+    "pa": 20,
+    "pm": 1,
+    "poss": 19.8,
+    "pF": 20.8,
+    "pA": 18.8,
+    "ortg": 101.2,
+    "drtg": 106.6,
+    "net": -5.5,
+    "efg": 42.5,
+    "oefg": 56.2
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jakub Kojzar",
+     "Jan Matušík"
     ],
     "min": 10.6,
-    "pf": 15,
-    "pa": 22,
-    "pm": -7,
-    "poss": 19.7,
-    "pF": 19.6,
-    "pA": 19.7,
-    "ortg": 76.4,
-    "drtg": 111.6,
-    "net": -35.2,
-    "efg": 28.9,
-    "oefg": 60.7
-   },
-   {
-    "players": [
-     "Jakub Kojzar",
-     "Juraj Palenik",
-     "Matěj Střelba"
-    ],
-    "min": 10.5,
-    "pf": 25,
-    "pa": 24,
-    "pm": 1,
-    "poss": 23.8,
-    "pF": 23.1,
-    "pA": 24.6,
-    "ortg": 108.3,
-    "drtg": 97.6,
-    "net": 10.8,
-    "efg": 52.5,
-    "oefg": 47.1
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "František Váňa",
-     "Jiří Paidar"
-    ],
-    "min": 10.5,
-    "pf": 20,
-    "pa": 20,
-    "pm": 0,
-    "poss": 19.5,
-    "pF": 17.3,
-    "pA": 21.6,
-    "ortg": 115.5,
-    "drtg": 92.4,
-    "net": 23.1,
-    "efg": 60.0,
-    "oefg": 42.5
-   },
-   {
-    "players": [
-     "František Váňa",
-     "Jakub Kojzar",
-     "Jan Matušík"
-    ],
-    "min": 10.2,
     "pf": 18,
-    "pa": 16,
-    "pm": 2,
-    "poss": 19.4,
-    "pF": 17.8,
-    "pA": 21.1,
-    "ortg": 101.4,
-    "drtg": 75.9,
-    "net": 25.5,
-    "efg": 46.7,
+    "pa": 17,
+    "pm": 1,
+    "poss": 20.9,
+    "pF": 18.8,
+    "pA": 23.0,
+    "ortg": 95.9,
+    "drtg": 74.0,
+    "net": 21.9,
+    "efg": 43.8,
     "oefg": 35.7
    },
    {
     "players": [
-     "František Váňa",
-     "Jakub Kojzar",
-     "Jiří Paidar"
+     "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown",
+     "Jan Matušík"
     ],
-    "min": 10.2,
-    "pf": 22,
-    "pa": 18,
-    "pm": 4,
-    "poss": 19.9,
-    "pF": 19.1,
-    "pA": 20.6,
-    "ortg": 115.3,
-    "drtg": 87.2,
-    "net": 28.1,
-    "efg": 56.2,
-    "oefg": 43.8
+    "min": 10.4,
+    "pf": 25,
+    "pa": 25,
+    "pm": 0,
+    "poss": 22.7,
+    "pF": 23.5,
+    "pA": 22.0,
+    "ortg": 106.3,
+    "drtg": 113.8,
+    "net": -7.6,
+    "efg": 33.9,
+    "oefg": 79.2
    },
    {
     "players": [
-     "Jakub Kojzar",
-     "Troy Thomas Dˇamico",
-     "Václav Honomichl"
-    ],
-    "min": 10.2,
-    "pf": 11,
-    "pa": 23,
-    "pm": -12,
-    "poss": 19.0,
-    "pF": 20.3,
-    "pA": 17.8,
-    "ortg": 54.1,
-    "drtg": 129.5,
-    "net": -75.4,
-    "efg": 19.0,
-    "oefg": 58.8
-   },
-   {
-    "players": [
-     "Jakub Kojzar",
+     "Eyisi Onyinyechi Brown",
      "Matěj Střelba",
      "Troy Thomas Dˇamico"
     ],
-    "min": 9.9,
-    "pf": 14,
-    "pa": 24,
-    "pm": -10,
-    "poss": 18.6,
-    "pF": 19.3,
-    "pA": 17.9,
-    "ortg": 72.5,
-    "drtg": 134.2,
-    "net": -61.8,
-    "efg": 30.6,
-    "oefg": 67.6
+    "min": 10.1,
+    "pf": 26,
+    "pa": 23,
+    "pm": 3,
+    "poss": 20.4,
+    "pF": 21.9,
+    "pA": 18.9,
+    "ortg": 118.8,
+    "drtg": 121.8,
+    "net": -3.0,
+    "efg": 62.5,
+    "oefg": 61.8
    },
    {
     "players": [
@@ -2059,25 +2353,6 @@
    },
    {
     "players": [
-     "František Váňa",
-     "Jan Matušík",
-     "Juraj Palenik"
-    ],
-    "min": 9.8,
-    "pf": 14,
-    "pa": 17,
-    "pm": -3,
-    "poss": 19.1,
-    "pF": 18.2,
-    "pA": 20.1,
-    "ortg": 76.9,
-    "drtg": 84.7,
-    "net": -7.7,
-    "efg": 45.8,
-    "oefg": 34.4
-   },
-   {
-    "players": [
      "Eyisi Onyinyechi Brown",
      "Michal Svojanovský",
      "Václav Honomichl"
@@ -2094,25 +2369,6 @@
     "net": -58.8,
     "efg": 35.7,
     "oefg": 66.7
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "Matěj Střelba",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 9.4,
-    "pf": 23,
-    "pa": 23,
-    "pm": 0,
-    "poss": 19.4,
-    "pF": 20.9,
-    "pA": 17.9,
-    "ortg": 110.2,
-    "drtg": 128.6,
-    "net": -18.5,
-    "efg": 57.9,
-    "oefg": 65.6
    },
    {
     "players": [
@@ -2135,41 +2391,22 @@
    },
    {
     "players": [
-     "Damon Edward Nicholas Jr",
-     "Jakub Kojzar",
+     "Eyisi Onyinyechi Brown",
+     "František Váňa",
      "Václav Honomichl"
     ],
-    "min": 9.2,
-    "pf": 8,
-    "pa": 22,
-    "pm": -14,
-    "poss": 15.1,
-    "pF": 14.9,
-    "pA": 15.4,
-    "ortg": 53.8,
-    "drtg": 142.9,
-    "net": -89.1,
-    "efg": 25.0,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Juraj Palenik",
-     "Troy Thomas Dˇamico",
-     "Václav Honomichl"
-    ],
-    "min": 9.1,
-    "pf": 16,
-    "pa": 17,
-    "pm": -1,
-    "poss": 18.0,
-    "pF": 18.2,
-    "pA": 17.9,
-    "ortg": 87.9,
-    "drtg": 95.1,
-    "net": -7.2,
-    "efg": 38.1,
-    "oefg": 53.6
+    "min": 9.0,
+    "pf": 20,
+    "pa": 31,
+    "pm": -11,
+    "poss": 21.1,
+    "pF": 21.7,
+    "pA": 20.5,
+    "ortg": 92.1,
+    "drtg": 151.1,
+    "net": -59.0,
+    "efg": 45.5,
+    "oefg": 80.0
    },
    {
     "players": [
@@ -2189,25 +2426,6 @@
     "net": -80.6,
     "efg": 11.1,
     "oefg": 53.1
-   },
-   {
-    "players": [
-     "František Váňa",
-     "Jiří Paidar",
-     "Juraj Palenik"
-    ],
-    "min": 8.6,
-    "pf": 13,
-    "pa": 23,
-    "pm": -10,
-    "poss": 16.6,
-    "pF": 16.1,
-    "pA": 17.2,
-    "ortg": 80.8,
-    "drtg": 133.7,
-    "net": -52.9,
-    "efg": 36.4,
-    "oefg": 56.2
    },
    {
     "players": [
@@ -2249,22 +2467,60 @@
    },
    {
     "players": [
+     "František Váňa",
+     "Jan Matušík",
+     "Jiří Paidar"
+    ],
+    "min": 8.5,
+    "pf": 14,
+    "pa": 13,
+    "pm": 1,
+    "poss": 17.0,
+    "pF": 16.8,
+    "pA": 17.1,
+    "ortg": 83.1,
+    "drtg": 76.1,
+    "net": 7.0,
+    "efg": 21.9,
+    "oefg": 29.2
+   },
+   {
+    "players": [
      "Damon Edward Nicholas Jr",
-     "Eyisi Onyinyechi Brown",
-     "František Váňa"
+     "Juraj Palenik",
+     "Matěj Střelba"
+    ],
+    "min": 8.5,
+    "pf": 14,
+    "pa": 16,
+    "pm": -2,
+    "poss": 16.2,
+    "pF": 15.6,
+    "pA": 16.8,
+    "ortg": 89.5,
+    "drtg": 95.0,
+    "net": -5.5,
+    "efg": 36.7,
+    "oefg": 46.2
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Juraj Palenik",
+     "Václav Honomichl"
     ],
     "min": 8.2,
-    "pf": 17,
-    "pa": 27,
-    "pm": -10,
-    "poss": 17.1,
-    "pF": 15.8,
-    "pA": 18.4,
-    "ortg": 107.9,
-    "drtg": 146.7,
-    "net": -38.9,
-    "efg": 53.6,
-    "oefg": 58.3
+    "pf": 9,
+    "pa": 20,
+    "pm": -11,
+    "poss": 16.5,
+    "pF": 16.2,
+    "pA": 16.7,
+    "ortg": 55.6,
+    "drtg": 119.6,
+    "net": -64.1,
+    "efg": 33.3,
+    "oefg": 45.5
    },
    {
     "players": [
@@ -2284,82 +2540,6 @@
     "net": 0.3,
     "efg": 57.7,
     "oefg": 50.0
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "František Váňa",
-     "Juraj Palenik"
-    ],
-    "min": 8.1,
-    "pf": 13,
-    "pa": 11,
-    "pm": 2,
-    "poss": 15.8,
-    "pF": 17.8,
-    "pA": 13.8,
-    "ortg": 73.2,
-    "drtg": 79.9,
-    "net": -6.7,
-    "efg": 31.2,
-    "oefg": 45.0
-   },
-   {
-    "players": [
-     "František Váňa",
-     "Matěj Střelba",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 8.0,
-    "pf": 12,
-    "pa": 19,
-    "pm": -7,
-    "poss": 14.9,
-    "pF": 15.0,
-    "pA": 14.9,
-    "ortg": 80.0,
-    "drtg": 127.7,
-    "net": -47.7,
-    "efg": 42.9,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "František Váňa",
-     "Václav Honomichl"
-    ],
-    "min": 7.9,
-    "pf": 13,
-    "pa": 28,
-    "pm": -15,
-    "poss": 18.5,
-    "pF": 18.4,
-    "pA": 18.5,
-    "ortg": 70.7,
-    "drtg": 151.2,
-    "net": -80.5,
-    "efg": 33.3,
-    "oefg": 75.0
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Eyisi Onyinyechi Brown",
-     "Jan Matušík"
-    ],
-    "min": 7.8,
-    "pf": 20,
-    "pa": 20,
-    "pm": 0,
-    "poss": 17.9,
-    "pF": 18.8,
-    "pA": 17.0,
-    "ortg": 106.6,
-    "drtg": 117.9,
-    "net": -11.3,
-    "efg": 50.0,
-    "oefg": 77.8
    },
    {
     "players": [
@@ -2401,6 +2581,25 @@
    },
    {
     "players": [
+     "Damon Edward Nicholas Jr",
+     "Troy Thomas Dˇamico",
+     "Václav Honomichl"
+    ],
+    "min": 7.6,
+    "pf": 11,
+    "pa": 18,
+    "pm": -7,
+    "poss": 13.9,
+    "pF": 13.2,
+    "pA": 14.5,
+    "ortg": 83.3,
+    "drtg": 124.0,
+    "net": -40.6,
+    "efg": 55.6,
+    "oefg": 55.0
+   },
+   {
+    "players": [
      "Jakub Ouředník",
      "Troy Thomas Dˇamico",
      "Václav Honomichl"
@@ -2417,6 +2616,44 @@
     "net": -71.8,
     "efg": 37.5,
     "oefg": 73.1
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jan Matušík",
+     "Matěj Střelba"
+    ],
+    "min": 7.5,
+    "pf": 13,
+    "pa": 13,
+    "pm": 0,
+    "poss": 15.5,
+    "pF": 15.3,
+    "pA": 15.8,
+    "ortg": 84.9,
+    "drtg": 82.5,
+    "net": 2.4,
+    "efg": 35.7,
+    "oefg": 41.7
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "František Váňa",
+     "Matěj Střelba"
+    ],
+    "min": 7.4,
+    "pf": 10,
+    "pa": 20,
+    "pm": -10,
+    "poss": 14.6,
+    "pF": 14.3,
+    "pA": 14.9,
+    "ortg": 69.8,
+    "drtg": 134.4,
+    "net": -64.6,
+    "efg": 29.2,
+    "oefg": 56.2
    },
    {
     "players": [
@@ -2459,21 +2696,21 @@
    {
     "players": [
      "Damon Edward Nicholas Jr",
-     "Juraj Palenik",
-     "Matěj Střelba"
+     "František Váňa",
+     "Jan Matušík"
     ],
-    "min": 7.0,
-    "pf": 13,
-    "pa": 14,
+    "min": 7.1,
+    "pf": 10,
+    "pa": 11,
     "pm": -1,
-    "poss": 14.8,
-    "pF": 14.8,
-    "pA": 14.8,
-    "ortg": 88.1,
-    "drtg": 94.3,
-    "net": -6.3,
-    "efg": 42.3,
-    "oefg": 45.5
+    "poss": 12.7,
+    "pF": 11.4,
+    "pA": 14.0,
+    "ortg": 87.7,
+    "drtg": 78.6,
+    "net": 9.1,
+    "efg": 6.7,
+    "oefg": 78.6
    },
    {
     "players": [
@@ -2493,6 +2730,25 @@
     "net": -2.1,
     "efg": 58.3,
     "oefg": 46.2
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Juraj Palenik",
+     "Matěj Střelba"
+    ],
+    "min": 6.9,
+    "pf": 10,
+    "pa": 18,
+    "pm": -8,
+    "poss": 13.6,
+    "pF": 14.8,
+    "pA": 12.4,
+    "ortg": 67.8,
+    "drtg": 144.7,
+    "net": -76.9,
+    "efg": 36.4,
+    "oefg": 65.4
    },
    {
     "players": [
@@ -2534,6 +2790,44 @@
    },
    {
     "players": [
+     "Damon Edward Nicholas Jr",
+     "Matěj Střelba",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 6.9,
+    "pf": 7,
+    "pa": 11,
+    "pm": -4,
+    "poss": 11.3,
+    "pF": 12.8,
+    "pA": 9.9,
+    "ortg": 54.9,
+    "drtg": 111.3,
+    "net": -56.5,
+    "efg": 20.8,
+    "oefg": 62.5
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Eyisi Onyinyechi Brown",
+     "František Váňa"
+    ],
+    "min": 6.8,
+    "pf": 13,
+    "pa": 14,
+    "pm": -1,
+    "poss": 14.5,
+    "pF": 14.8,
+    "pA": 14.2,
+    "ortg": 88.1,
+    "drtg": 98.6,
+    "net": -10.5,
+    "efg": 56.2,
+    "oefg": 68.8
+   },
+   {
+    "players": [
      "Juraj Palenik",
      "Michal Svojanovský",
      "Václav Honomichl"
@@ -2550,25 +2844,6 @@
     "net": -19.6,
     "efg": 34.2,
     "oefg": 58.3
-   },
-   {
-    "players": [
-     "František Váňa",
-     "Jakub Kojzar",
-     "Matěj Střelba"
-    ],
-    "min": 6.8,
-    "pf": 10,
-    "pa": 11,
-    "pm": -1,
-    "poss": 10.4,
-    "pF": 10.9,
-    "pA": 10.0,
-    "ortg": 91.9,
-    "drtg": 110.0,
-    "net": -18.1,
-    "efg": 33.3,
-    "oefg": 55.0
    },
    {
     "players": [
@@ -2629,22 +2904,22 @@
    },
    {
     "players": [
-     "František Váňa",
+     "Eyisi Onyinyechi Brown",
      "Jan Matušík",
      "Matěj Střelba"
     ],
-    "min": 6.6,
-    "pf": 13,
+    "min": 6.5,
+    "pf": 21,
     "pa": 12,
-    "pm": 1,
-    "poss": 13.1,
-    "pF": 13.3,
+    "pm": 9,
+    "poss": 15.0,
+    "pF": 17.2,
     "pA": 12.9,
-    "ortg": 97.6,
+    "ortg": 122.1,
     "drtg": 93.2,
-    "net": 4.4,
-    "efg": 41.7,
-    "oefg": 45.5
+    "net": 28.9,
+    "efg": 60.7,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -2667,22 +2942,22 @@
    },
    {
     "players": [
+     "Jan Matušík",
      "Juraj Palenik",
-     "Matěj Střelba",
-     "Troy Thomas Dˇamico"
+     "Matěj Střelba"
     ],
-    "min": 6.4,
-    "pf": 13,
-    "pa": 16,
-    "pm": -3,
-    "poss": 12.2,
-    "pF": 12.4,
-    "pA": 12.0,
-    "ortg": 104.5,
-    "drtg": 133.3,
-    "net": -28.8,
-    "efg": 50.0,
-    "oefg": 80.0
+    "min": 6.3,
+    "pf": 10,
+    "pa": 11,
+    "pm": -1,
+    "poss": 15.4,
+    "pF": 14.8,
+    "pA": 16.0,
+    "ortg": 67.8,
+    "drtg": 68.9,
+    "net": -1.2,
+    "efg": 28.6,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -2724,25 +2999,6 @@
    },
    {
     "players": [
-     "Eyisi Onyinyechi Brown",
-     "František Váňa",
-     "Matěj Střelba"
-    ],
-    "min": 6.1,
-    "pf": 7,
-    "pa": 20,
-    "pm": -13,
-    "poss": 12.6,
-    "pF": 12.3,
-    "pA": 12.9,
-    "ortg": 56.8,
-    "drtg": 155.3,
-    "net": -98.5,
-    "efg": 20.0,
-    "oefg": 64.3
-   },
-   {
-    "players": [
      "Damon Edward Nicholas Jr",
      "Jiří Paidar",
      "Václav Honomichl"
@@ -2759,25 +3015,6 @@
     "net": -36.1,
     "efg": 33.3,
     "oefg": 45.5
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Juraj Palenik",
-     "Václav Honomichl"
-    ],
-    "min": 6.1,
-    "pf": 5,
-    "pa": 14,
-    "pm": -9,
-    "poss": 12.6,
-    "pF": 12.3,
-    "pA": 13.0,
-    "ortg": 40.6,
-    "drtg": 108.0,
-    "net": -67.4,
-    "efg": 25.0,
-    "oefg": 38.9
    },
    {
     "players": [
@@ -2800,82 +3037,6 @@
    },
    {
     "players": [
-     "František Váňa",
-     "Juraj Palenik",
-     "Matěj Střelba"
-    ],
-    "min": 6.0,
-    "pf": 9,
-    "pa": 18,
-    "pm": -9,
-    "poss": 10.4,
-    "pF": 10.8,
-    "pA": 10.0,
-    "ortg": 83.6,
-    "drtg": 180.0,
-    "net": -96.4,
-    "efg": 30.0,
-    "oefg": 75.0
-   },
-   {
-    "players": [
-     "František Váňa",
-     "Jan Matušík",
-     "Jiří Paidar"
-    ],
-    "min": 6.0,
-    "pf": 8,
-    "pa": 6,
-    "pm": 2,
-    "poss": 11.7,
-    "pF": 11.2,
-    "pA": 12.2,
-    "ortg": 71.4,
-    "drtg": 49.2,
-    "net": 22.2,
-    "efg": 35.7,
-    "oefg": 11.1
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "Jan Matušík",
-     "Matěj Střelba"
-    ],
-    "min": 6.0,
-    "pf": 21,
-    "pa": 12,
-    "pm": 9,
-    "poss": 14.0,
-    "pF": 16.2,
-    "pA": 11.9,
-    "ortg": 129.6,
-    "drtg": 101.0,
-    "net": 28.6,
-    "efg": 65.4,
-    "oefg": 55.6
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "Juraj Palenik",
-     "Matěj Střelba"
-    ],
-    "min": 5.7,
-    "pf": 7,
-    "pa": 18,
-    "pm": -11,
-    "poss": 11.6,
-    "pF": 12.8,
-    "pA": 10.4,
-    "ortg": 54.9,
-    "drtg": 172.4,
-    "net": -117.6,
-    "efg": 27.8,
-    "oefg": 77.3
-   },
-   {
-    "players": [
      "Damon Edward Nicholas Jr",
      "Jiří Paidar",
      "Michal Svojanovský"
@@ -2895,25 +3056,6 @@
    },
    {
     "players": [
-     "Damon Edward Nicholas Jr",
-     "Troy Thomas Dˇamico",
-     "Václav Honomichl"
-    ],
-    "min": 5.6,
-    "pf": 8,
-    "pa": 12,
-    "pm": -4,
-    "poss": 10.3,
-    "pF": 9.8,
-    "pA": 10.8,
-    "ortg": 82.0,
-    "drtg": 111.5,
-    "net": -29.6,
-    "efg": 50.0,
-    "oefg": 50.0
-   },
-   {
-    "players": [
      "Eyisi Onyinyechi Brown",
      "Jiří Paidar",
      "Michal Svojanovský"
@@ -2930,44 +3072,6 @@
     "net": -44.5,
     "efg": 41.7,
     "oefg": 81.2
-   },
-   {
-    "players": [
-     "Jan Matušík",
-     "Juraj Palenik",
-     "Matěj Střelba"
-    ],
-    "min": 5.4,
-    "pf": 10,
-    "pa": 10,
-    "pm": 0,
-    "poss": 12.9,
-    "pF": 12.8,
-    "pA": 13.1,
-    "ortg": 78.4,
-    "drtg": 76.5,
-    "net": 1.9,
-    "efg": 33.3,
-    "oefg": 56.2
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Matěj Střelba",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 5.4,
-    "pf": 6,
-    "pa": 9,
-    "pm": -3,
-    "poss": 9.9,
-    "pF": 11.9,
-    "pA": 7.9,
-    "ortg": 50.5,
-    "drtg": 114.2,
-    "net": -63.7,
-    "efg": 25.0,
-    "oefg": 66.7
    },
    {
     "players": [
@@ -3109,126 +3213,198 @@
      "Juraj Palenik",
      "Troy Thomas Dˇamico"
     ],
-    "min": 109.6,
-    "pf": 217,
-    "pa": 267,
-    "pm": -50,
-    "poss": 224.8,
-    "pF": 221.8,
-    "pA": 227.9,
-    "ortg": 97.9,
-    "drtg": 117.1,
-    "net": -19.3,
-    "efg": 46.2,
-    "oefg": 55.6
-   },
-   {
-    "players": [
-     "Jakub Kojzar",
-     "Juraj Palenik"
-    ],
-    "min": 99.4,
-    "pf": 198,
-    "pa": 240,
-    "pm": -42,
-    "poss": 201.6,
-    "pF": 199.9,
-    "pA": 203.4,
-    "ortg": 99.1,
-    "drtg": 118.0,
-    "net": -19.0,
+    "min": 129.8,
+    "pf": 256,
+    "pa": 308,
+    "pm": -52,
+    "poss": 265.1,
+    "pF": 263.6,
+    "pA": 266.5,
+    "ortg": 97.1,
+    "drtg": 115.6,
+    "net": -18.4,
     "efg": 46.1,
-    "oefg": 54.2
+    "oefg": 53.2
    },
    {
     "players": [
      "Jakub Kojzar",
      "Troy Thomas Dˇamico"
     ],
-    "min": 95.9,
-    "pf": 165,
-    "pa": 211,
-    "pm": -46,
-    "poss": 186.7,
-    "pF": 184.7,
-    "pA": 188.8,
-    "ortg": 89.3,
-    "drtg": 111.8,
-    "net": -22.5,
-    "efg": 40.5,
-    "oefg": 51.2
+    "min": 122.6,
+    "pf": 216,
+    "pa": 261,
+    "pm": -45,
+    "poss": 238.2,
+    "pF": 235.6,
+    "pA": 240.9,
+    "ortg": 91.7,
+    "drtg": 108.3,
+    "net": -16.6,
+    "efg": 41.8,
+    "oefg": 49.8
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Juraj Palenik"
+    ],
+    "min": 114.8,
+    "pf": 228,
+    "pa": 277,
+    "pm": -49,
+    "poss": 234.4,
+    "pF": 232.8,
+    "pA": 236.0,
+    "ortg": 97.9,
+    "drtg": 117.4,
+    "net": -19.5,
+    "efg": 45.6,
+    "oefg": 53.4
    },
    {
     "players": [
      "Jiří Paidar",
      "Troy Thomas Dˇamico"
     ],
-    "min": 86.7,
-    "pf": 174,
-    "pa": 207,
+    "min": 108.7,
+    "pf": 215,
+    "pa": 242,
+    "pm": -27,
+    "poss": 213.4,
+    "pF": 210.6,
+    "pA": 216.1,
+    "ortg": 102.1,
+    "drtg": 112.0,
+    "net": -9.9,
+    "efg": 48.6,
+    "oefg": 52.4
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 104.2,
+    "pf": 185,
+    "pa": 197,
+    "pm": -12,
+    "poss": 197.9,
+    "pF": 198.1,
+    "pA": 197.8,
+    "ortg": 93.4,
+    "drtg": 99.6,
+    "net": -6.2,
+    "efg": 42.6,
+    "oefg": 45.9
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 94.9,
+    "pf": 185,
+    "pa": 218,
     "pm": -33,
-    "poss": 169.9,
-    "pF": 167.1,
-    "pA": 172.6,
-    "ortg": 104.1,
-    "drtg": 119.9,
-    "net": -15.8,
-    "efg": 49.0,
-    "oefg": 56.9
+    "poss": 192.2,
+    "pF": 188.8,
+    "pA": 195.6,
+    "ortg": 98.0,
+    "drtg": 111.4,
+    "net": -13.5,
+    "efg": 47.6,
+    "oefg": 53.6
    },
    {
     "players": [
      "Damon Edward Nicholas Jr",
-     "Troy Thomas Dˇamico"
+     "Jakub Kojzar"
     ],
-    "min": 80.6,
-    "pf": 145,
-    "pa": 161,
-    "pm": -16,
-    "poss": 154.9,
-    "pF": 155.5,
-    "pA": 154.2,
-    "ortg": 93.3,
-    "drtg": 104.4,
-    "net": -11.1,
-    "efg": 43.9,
-    "oefg": 48.1
+    "min": 93.2,
+    "pf": 162,
+    "pa": 187,
+    "pm": -25,
+    "poss": 173.6,
+    "pF": 170.4,
+    "pA": 176.8,
+    "ortg": 95.1,
+    "drtg": 105.8,
+    "net": -10.7,
+    "efg": 42.0,
+    "oefg": 49.3
    },
    {
     "players": [
      "Jiří Paidar",
      "Juraj Palenik"
     ],
-    "min": 80.0,
-    "pf": 174,
-    "pa": 209,
-    "pm": -35,
-    "poss": 162.5,
-    "pF": 162.0,
-    "pA": 163.1,
-    "ortg": 107.4,
-    "drtg": 128.2,
-    "net": -20.7,
-    "efg": 53.1,
-    "oefg": 58.5
+    "min": 91.5,
+    "pf": 195,
+    "pa": 238,
+    "pm": -43,
+    "poss": 186.9,
+    "pF": 186.7,
+    "pA": 187.0,
+    "ortg": 104.4,
+    "drtg": 127.2,
+    "net": -22.8,
+    "efg": 52.4,
+    "oefg": 56.3
    },
    {
     "players": [
      "Damon Edward Nicholas Jr",
      "Juraj Palenik"
     ],
-    "min": 76.6,
-    "pf": 147,
-    "pa": 172,
-    "pm": -25,
-    "poss": 152.3,
-    "pF": 152.2,
-    "pA": 152.4,
-    "ortg": 96.6,
-    "drtg": 112.9,
-    "net": -16.3,
-    "efg": 47.3,
-    "oefg": 52.8
+    "min": 90.0,
+    "pf": 168,
+    "pa": 200,
+    "pm": -32,
+    "poss": 177.0,
+    "pF": 176.4,
+    "pA": 177.5,
+    "ortg": 95.2,
+    "drtg": 112.7,
+    "net": -17.5,
+    "efg": 44.4,
+    "oefg": 51.7
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Jiří Paidar"
+    ],
+    "min": 84.3,
+    "pf": 174,
+    "pa": 188,
+    "pm": -14,
+    "poss": 166.1,
+    "pF": 162.2,
+    "pA": 170.0,
+    "ortg": 107.2,
+    "drtg": 110.6,
+    "net": -3.3,
+    "efg": 54.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Jiří Paidar"
+    ],
+    "min": 84.0,
+    "pf": 167,
+    "pa": 175,
+    "pm": -8,
+    "poss": 160.1,
+    "pF": 156.9,
+    "pA": 163.4,
+    "ortg": 106.4,
+    "drtg": 107.1,
+    "net": -0.7,
+    "efg": 47.5,
+    "oefg": 48.6
    },
    {
     "players": [
@@ -3268,39 +3444,39 @@
    },
    {
     "players": [
-     "Damon Edward Nicholas Jr",
-     "Jakub Kojzar"
+     "Eyisi Onyinyechi Brown",
+     "Troy Thomas Dˇamico"
     ],
-    "min": 72.5,
-    "pf": 129,
-    "pa": 153,
-    "pm": -24,
-    "poss": 136.8,
-    "pF": 135.4,
-    "pA": 138.2,
-    "ortg": 95.3,
-    "drtg": 110.7,
-    "net": -15.4,
-    "efg": 43.0,
-    "oefg": 51.2
+    "min": 69.3,
+    "pf": 146,
+    "pa": 165,
+    "pm": -19,
+    "poss": 142.5,
+    "pF": 143.2,
+    "pA": 141.9,
+    "ortg": 102.0,
+    "drtg": 116.3,
+    "net": -14.3,
+    "efg": 48.3,
+    "oefg": 58.5
    },
    {
     "players": [
      "František Váňa",
-     "Troy Thomas Dˇamico"
+     "Jakub Kojzar"
     ],
-    "min": 71.6,
-    "pf": 134,
-    "pa": 181,
-    "pm": -47,
-    "poss": 145.7,
-    "pF": 141.6,
-    "pA": 149.8,
-    "ortg": 94.7,
-    "drtg": 120.8,
-    "net": -26.2,
-    "efg": 45.3,
-    "oefg": 58.1
+    "min": 68.4,
+    "pf": 136,
+    "pa": 137,
+    "pm": -1,
+    "poss": 135.6,
+    "pF": 133.9,
+    "pA": 137.4,
+    "ortg": 101.6,
+    "drtg": 99.7,
+    "net": 1.9,
+    "efg": 43.9,
+    "oefg": 49.1
    },
    {
     "players": [
@@ -3322,57 +3498,21 @@
    },
    {
     "players": [
-     "Jakub Kojzar",
-     "Jiří Paidar"
+     "František Váňa",
+     "Juraj Palenik"
     ],
-    "min": 67.5,
-    "pf": 142,
+    "min": 62.5,
+    "pf": 121,
     "pa": 158,
-    "pm": -16,
-    "poss": 132.9,
-    "pF": 130.4,
-    "pA": 135.4,
-    "ortg": 108.9,
-    "drtg": 116.7,
-    "net": -7.8,
-    "efg": 55.2,
-    "oefg": 52.1
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 63.7,
-    "pf": 135,
-    "pa": 160,
-    "pm": -25,
-    "poss": 132.7,
-    "pF": 132.4,
-    "pA": 133.0,
-    "ortg": 102.0,
-    "drtg": 120.3,
-    "net": -18.3,
-    "efg": 48.2,
-    "oefg": 62.0
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Jiří Paidar"
-    ],
-    "min": 63.1,
-    "pf": 126,
-    "pa": 144,
-    "pm": -18,
-    "poss": 121.6,
-    "pF": 118.6,
-    "pA": 124.5,
-    "ortg": 106.2,
-    "drtg": 115.7,
-    "net": -9.5,
-    "efg": 50.5,
-    "oefg": 50.4
+    "pm": -37,
+    "poss": 129.8,
+    "pF": 129.1,
+    "pA": 130.6,
+    "ortg": 93.7,
+    "drtg": 121.0,
+    "net": -27.2,
+    "efg": 42.2,
+    "oefg": 56.7
    },
    {
     "players": [
@@ -3397,144 +3537,162 @@
      "Jan Matušík",
      "Juraj Palenik"
     ],
-    "min": 49.2,
-    "pf": 97,
-    "pa": 127,
-    "pm": -30,
-    "poss": 105.1,
-    "pF": 104.0,
-    "pA": 106.3,
-    "ortg": 93.3,
-    "drtg": 119.5,
-    "net": -26.1,
-    "efg": 46.9,
-    "oefg": 56.0
-   },
-   {
-    "players": [
-     "Jan Matušík",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 49.1,
-    "pf": 100,
-    "pa": 110,
-    "pm": -10,
-    "poss": 104.3,
-    "pF": 105.0,
-    "pA": 103.7,
-    "ortg": 95.2,
-    "drtg": 106.1,
-    "net": -10.9,
-    "efg": 44.5,
-    "oefg": 52.0
-   },
-   {
-    "players": [
-     "František Váňa",
-     "Jakub Kojzar"
-    ],
-    "min": 47.8,
-    "pf": 93,
-    "pa": 102,
-    "pm": -9,
-    "poss": 94.0,
-    "pF": 92.4,
-    "pA": 95.6,
-    "ortg": 100.7,
-    "drtg": 106.7,
-    "net": -6.0,
-    "efg": 41.6,
-    "oefg": 52.5
-   },
-   {
-    "players": [
-     "František Váňa",
-     "Juraj Palenik"
-    ],
-    "min": 47.7,
-    "pf": 88,
-    "pa": 124,
-    "pm": -36,
-    "poss": 97.3,
-    "pF": 96.2,
-    "pA": 98.4,
-    "ortg": 91.4,
-    "drtg": 126.0,
-    "net": -34.5,
-    "efg": 40.1,
-    "oefg": 59.9
-   },
-   {
-    "players": [
-     "Jakub Kojzar",
-     "Jan Matušík"
-    ],
-    "min": 44.6,
-    "pf": 87,
-    "pa": 93,
-    "pm": -6,
-    "poss": 89.3,
-    "pF": 88.9,
-    "pA": 89.6,
-    "ortg": 97.9,
-    "drtg": 103.7,
-    "net": -5.9,
-    "efg": 47.9,
-    "oefg": 52.1
+    "min": 52.9,
+    "pf": 99,
+    "pa": 134,
+    "pm": -35,
+    "poss": 113.4,
+    "pF": 111.7,
+    "pA": 115.1,
+    "ortg": 88.6,
+    "drtg": 116.4,
+    "net": -27.8,
+    "efg": 42.6,
+    "oefg": 55.1
    },
    {
     "players": [
      "Eyisi Onyinyechi Brown",
      "Juraj Palenik"
     ],
-    "min": 43.5,
-    "pf": 91,
-    "pa": 115,
+    "min": 52.1,
+    "pf": 106,
+    "pa": 130,
     "pm": -24,
-    "poss": 92.9,
-    "pF": 93.1,
-    "pA": 92.8,
-    "ortg": 97.8,
-    "drtg": 124.0,
-    "net": -26.2,
-    "efg": 44.9,
-    "oefg": 62.2
+    "poss": 108.3,
+    "pF": 108.2,
+    "pA": 108.5,
+    "ortg": 98.0,
+    "drtg": 119.8,
+    "net": -21.8,
+    "efg": 44.0,
+    "oefg": 58.0
    },
    {
     "players": [
      "Eyisi Onyinyechi Brown",
      "František Váňa"
     ],
-    "min": 40.8,
-    "pf": 71,
-    "pa": 118,
-    "pm": -47,
-    "poss": 87.0,
-    "pF": 85.3,
+    "min": 50.6,
+    "pf": 96,
+    "pa": 137,
+    "pm": -41,
+    "poss": 105.8,
+    "pF": 104.0,
+    "pA": 107.5,
+    "ortg": 92.3,
+    "drtg": 127.4,
+    "net": -35.1,
+    "efg": 41.2,
+    "oefg": 66.5
+   },
+   {
+    "players": [
+     "Jan Matušík",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 50.0,
+    "pf": 101,
+    "pa": 110,
+    "pm": -9,
+    "poss": 106.8,
+    "pF": 107.9,
+    "pA": 105.7,
+    "ortg": 93.6,
+    "drtg": 104.1,
+    "net": -10.5,
+    "efg": 43.5,
+    "oefg": 50.7
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "František Váňa"
+    ],
+    "min": 49.5,
+    "pf": 97,
+    "pa": 84,
+    "pm": 13,
+    "poss": 94.7,
+    "pF": 94.4,
+    "pA": 95.0,
+    "ortg": 102.8,
+    "drtg": 88.4,
+    "net": 14.4,
+    "efg": 39.2,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "František Váňa",
+     "Jiří Paidar"
+    ],
+    "min": 46.1,
+    "pf": 86,
+    "pa": 92,
+    "pm": -6,
+    "poss": 87.7,
+    "pF": 84.4,
+    "pA": 91.0,
+    "ortg": 101.8,
+    "drtg": 101.1,
+    "net": 0.7,
+    "efg": 47.9,
+    "oefg": 49.4
+   },
+   {
+    "players": [
+     "Eyisi Onyinyechi Brown",
+     "Jiří Paidar"
+    ],
+    "min": 45.3,
+    "pf": 93,
+    "pa": 105,
+    "pm": -12,
+    "poss": 88.9,
+    "pF": 89.0,
     "pA": 88.8,
-    "ortg": 83.2,
-    "drtg": 132.9,
-    "net": -49.7,
+    "ortg": 104.5,
+    "drtg": 118.3,
+    "net": -13.8,
     "efg": 41.9,
-    "oefg": 67.4
+    "oefg": 58.0
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Jan Matušík"
+    ],
+    "min": 45.0,
+    "pf": 87,
+    "pa": 94,
+    "pm": -7,
+    "poss": 90.7,
+    "pF": 89.9,
+    "pA": 91.5,
+    "ortg": 96.8,
+    "drtg": 102.7,
+    "net": -5.9,
+    "efg": 47.2,
+    "oefg": 52.1
    },
    {
     "players": [
      "Jan Matušík",
      "Jiří Paidar"
     ],
-    "min": 40.8,
-    "pf": 81,
-    "pa": 102,
-    "pm": -21,
-    "poss": 84.5,
-    "pF": 84.4,
-    "pA": 84.6,
-    "ortg": 95.9,
-    "drtg": 120.6,
-    "net": -24.6,
-    "efg": 47.0,
-    "oefg": 58.1
+    "min": 44.0,
+    "pf": 87,
+    "pa": 109,
+    "pm": -22,
+    "poss": 91.3,
+    "pF": 92.1,
+    "pA": 90.5,
+    "ortg": 94.5,
+    "drtg": 120.5,
+    "net": -26.0,
+    "efg": 41.6,
+    "oefg": 58.3
    },
    {
     "players": [
@@ -3557,6 +3715,24 @@
    {
     "players": [
      "Damon Edward Nicholas Jr",
+     "Eyisi Onyinyechi Brown"
+    ],
+    "min": 39.4,
+    "pf": 88,
+    "pa": 85,
+    "pm": 3,
+    "poss": 78.7,
+    "pF": 79.3,
+    "pA": 78.1,
+    "ortg": 110.9,
+    "drtg": 108.8,
+    "net": 2.1,
+    "efg": 45.2,
+    "oefg": 55.4
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
      "Michal Svojanovský"
     ],
     "min": 36.7,
@@ -3575,110 +3751,110 @@
    {
     "players": [
      "Eyisi Onyinyechi Brown",
-     "Jiří Paidar"
+     "Jan Matušík"
     ],
-    "min": 36.2,
-    "pf": 75,
-    "pa": 89,
-    "pm": -14,
-    "poss": 72.3,
-    "pF": 71.6,
-    "pA": 73.0,
-    "ortg": 104.8,
-    "drtg": 121.9,
-    "net": -17.1,
-    "efg": 45.3,
-    "oefg": 60.7
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Eyisi Onyinyechi Brown"
-    ],
-    "min": 31.2,
-    "pf": 65,
-    "pa": 71,
-    "pm": -6,
-    "poss": 62.9,
-    "pF": 62.6,
-    "pA": 63.1,
-    "ortg": 103.8,
-    "drtg": 112.5,
-    "net": -8.7,
-    "efg": 49.1,
-    "oefg": 54.7
+    "min": 33.6,
+    "pf": 72,
+    "pa": 82,
+    "pm": -10,
+    "poss": 76.4,
+    "pF": 78.0,
+    "pA": 74.8,
+    "ortg": 92.4,
+    "drtg": 109.7,
+    "net": -17.3,
+    "efg": 35.1,
+    "oefg": 59.4
    },
    {
     "players": [
      "Damon Edward Nicholas Jr",
      "Jan Matušík"
     ],
-    "min": 29.8,
-    "pf": 60,
-    "pa": 72,
-    "pm": -12,
-    "poss": 61.9,
-    "pF": 62.2,
-    "pA": 61.5,
-    "ortg": 96.4,
-    "drtg": 117.0,
-    "net": -20.6,
-    "efg": 43.3,
-    "oefg": 63.4
-   },
-   {
-    "players": [
-     "Eyisi Onyinyechi Brown",
-     "Jan Matušík"
-    ],
-    "min": 28.9,
+    "min": 32.7,
     "pf": 66,
-    "pa": 73,
-    "pm": -7,
-    "poss": 67.1,
-    "pF": 68.3,
-    "pA": 65.9,
-    "ortg": 96.6,
-    "drtg": 110.8,
-    "net": -14.2,
-    "efg": 43.3,
-    "oefg": 59.6
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "František Váňa"
-    ],
-    "min": 28.9,
-    "pf": 52,
-    "pa": 54,
-    "pm": -2,
-    "poss": 55.4,
-    "pF": 55.0,
-    "pA": 55.7,
-    "ortg": 94.5,
-    "drtg": 96.9,
-    "net": -2.4,
-    "efg": 40.0,
-    "oefg": 52.3
+    "pa": 77,
+    "pm": -11,
+    "poss": 67.7,
+    "pF": 67.9,
+    "pA": 67.5,
+    "ortg": 97.2,
+    "drtg": 114.0,
+    "net": -16.8,
+    "efg": 37.3,
+    "oefg": 63.3
    },
    {
     "players": [
      "František Váňa",
      "Jan Matušík"
     ],
-    "min": 26.5,
-    "pf": 48,
-    "pa": 48,
-    "pm": 0,
-    "poss": 54.9,
-    "pF": 52.7,
-    "pA": 57.2,
-    "ortg": 91.1,
-    "drtg": 84.0,
-    "net": 7.1,
-    "efg": 44.3,
-    "oefg": 45.1
+    "min": 31.1,
+    "pf": 55,
+    "pa": 58,
+    "pm": -3,
+    "poss": 65.1,
+    "pF": 62.2,
+    "pA": 67.9,
+    "ortg": 88.4,
+    "drtg": 85.4,
+    "net": 3.0,
+    "efg": 33.7,
+    "oefg": 46.8
+   },
+   {
+    "players": [
+     "Jakub Kojzar",
+     "Matěj Střelba"
+    ],
+    "min": 28.4,
+    "pf": 54,
+    "pa": 59,
+    "pm": -5,
+    "poss": 55.6,
+    "pF": 56.0,
+    "pA": 55.2,
+    "ortg": 96.4,
+    "drtg": 106.8,
+    "net": -10.4,
+    "efg": 42.0,
+    "oefg": 53.3
+   },
+   {
+    "players": [
+     "Matěj Střelba",
+     "Troy Thomas Dˇamico"
+    ],
+    "min": 27.6,
+    "pf": 60,
+    "pa": 65,
+    "pm": -5,
+    "poss": 53.4,
+    "pF": 56.4,
+    "pA": 50.4,
+    "ortg": 106.4,
+    "drtg": 129.0,
+    "net": -22.6,
+    "efg": 51.0,
+    "oefg": 65.9
+   },
+   {
+    "players": [
+     "Troy Thomas Dˇamico",
+     "Václav Honomichl"
+    ],
+    "min": 26.7,
+    "pf": 37,
+    "pa": 73,
+    "pm": -36,
+    "poss": 53.4,
+    "pF": 52.6,
+    "pA": 54.2,
+    "ortg": 70.3,
+    "drtg": 134.6,
+    "net": -64.2,
+    "efg": 32.6,
+    "oefg": 64.4
    },
    {
     "players": [
@@ -3700,111 +3876,57 @@
    },
    {
     "players": [
-     "František Váňa",
-     "Jiří Paidar"
+     "Juraj Palenik",
+     "Matěj Střelba"
     ],
-    "min": 25.6,
-    "pf": 43,
-    "pa": 56,
-    "pm": -13,
-    "poss": 47.6,
-    "pF": 45.2,
-    "pA": 50.0,
-    "ortg": 95.2,
-    "drtg": 111.9,
-    "net": -16.7,
-    "efg": 47.3,
-    "oefg": 52.2
-   },
-   {
-    "players": [
-     "Troy Thomas Dˇamico",
-     "Václav Honomichl"
-    ],
-    "min": 24.7,
-    "pf": 34,
-    "pa": 67,
-    "pm": -33,
-    "poss": 49.8,
-    "pF": 49.2,
-    "pA": 50.5,
-    "ortg": 69.2,
-    "drtg": 132.7,
-    "net": -63.6,
-    "efg": 30.7,
-    "oefg": 64.0
+    "min": 25.8,
+    "pf": 55,
+    "pa": 60,
+    "pm": -5,
+    "poss": 52.9,
+    "pF": 53.9,
+    "pA": 51.8,
+    "ortg": 102.0,
+    "drtg": 115.8,
+    "net": -13.8,
+    "efg": 47.8,
+    "oefg": 58.3
    },
    {
     "players": [
      "Jakub Kojzar",
-     "Matěj Střelba"
+     "Václav Honomichl"
     ],
-    "min": 22.6,
-    "pf": 42,
-    "pa": 48,
-    "pm": -6,
-    "poss": 44.9,
-    "pF": 45.3,
-    "pA": 44.5,
-    "ortg": 92.8,
-    "drtg": 107.9,
-    "net": -15.2,
-    "efg": 41.2,
-    "oefg": 52.7
+    "min": 23.4,
+    "pf": 28,
+    "pa": 58,
+    "pm": -30,
+    "poss": 44.3,
+    "pF": 45.2,
+    "pA": 43.5,
+    "ortg": 62.0,
+    "drtg": 133.4,
+    "net": -71.4,
+    "efg": 22.7,
+    "oefg": 57.7
    },
    {
     "players": [
      "Jan Matušík",
      "Matěj Střelba"
     ],
-    "min": 21.9,
+    "min": 22.9,
     "pf": 50,
-    "pa": 41,
-    "pm": 9,
-    "poss": 45.7,
-    "pF": 47.8,
-    "pA": 43.6,
-    "ortg": 104.5,
-    "drtg": 94.0,
-    "net": 10.5,
-    "efg": 50.0,
-    "oefg": 51.5
-   },
-   {
-    "players": [
-     "Matěj Střelba",
-     "Troy Thomas Dˇamico"
-    ],
-    "min": 21.6,
-    "pf": 45,
-    "pa": 55,
-    "pm": -10,
-    "poss": 43.1,
-    "pF": 45.6,
-    "pA": 40.5,
-    "ortg": 98.6,
-    "drtg": 135.7,
-    "net": -37.1,
-    "efg": 48.8,
-    "oefg": 70.0
-   },
-   {
-    "players": [
-     "Jakub Kojzar",
-     "Václav Honomichl"
-    ],
-    "min": 21.4,
-    "pf": 25,
-    "pa": 52,
-    "pm": -27,
-    "poss": 40.7,
-    "pF": 41.7,
-    "pA": 39.7,
-    "ortg": 59.9,
-    "drtg": 130.9,
-    "net": -71.0,
-    "efg": 20.2,
-    "oefg": 56.8
+    "pa": 42,
+    "pm": 8,
+    "poss": 48.2,
+    "pF": 49.8,
+    "pA": 46.5,
+    "ortg": 100.3,
+    "drtg": 90.4,
+    "net": 10.0,
+    "efg": 47.7,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -3844,39 +3966,57 @@
    },
    {
     "players": [
-     "Juraj Palenik",
+     "František Váňa",
      "Matěj Střelba"
     ],
-    "min": 18.8,
-    "pf": 40,
-    "pa": 49,
-    "pm": -9,
-    "poss": 40.1,
-    "pF": 41.2,
-    "pA": 39.0,
-    "ortg": 97.2,
-    "drtg": 125.5,
-    "net": -28.3,
-    "efg": 47.1,
-    "oefg": 62.5
+    "min": 20.2,
+    "pf": 36,
+    "pa": 44,
+    "pm": -8,
+    "poss": 37.8,
+    "pF": 39.0,
+    "pA": 36.6,
+    "ortg": 92.4,
+    "drtg": 120.1,
+    "net": -27.7,
+    "efg": 38.9,
+    "oefg": 57.1
    },
    {
     "players": [
      "Juraj Palenik",
      "Václav Honomichl"
     ],
-    "min": 17.6,
-    "pf": 26,
-    "pa": 40,
-    "pm": -14,
-    "poss": 35.1,
-    "pF": 36.3,
-    "pA": 34.0,
-    "ortg": 71.7,
-    "drtg": 117.8,
-    "net": -46.1,
-    "efg": 31.1,
-    "oefg": 56.9
+    "min": 19.6,
+    "pf": 30,
+    "pa": 46,
+    "pm": -16,
+    "poss": 38.9,
+    "pF": 40.2,
+    "pA": 37.7,
+    "ortg": 74.7,
+    "drtg": 122.0,
+    "net": -47.3,
+    "efg": 33.3,
+    "oefg": 58.1
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Václav Honomichl"
+    ],
+    "min": 16.8,
+    "pf": 24,
+    "pa": 43,
+    "pm": -19,
+    "poss": 32.4,
+    "pF": 31.8,
+    "pA": 32.9,
+    "ortg": 75.4,
+    "drtg": 130.6,
+    "net": -55.2,
+    "efg": 40.0,
+    "oefg": 56.0
    },
    {
     "players": [
@@ -3898,6 +4038,42 @@
    },
    {
     "players": [
+     "František Váňa",
+     "Václav Honomichl"
+    ],
+    "min": 15.7,
+    "pf": 26,
+    "pa": 53,
+    "pm": -27,
+    "poss": 34.7,
+    "pF": 34.5,
+    "pA": 34.8,
+    "ortg": 75.4,
+    "drtg": 152.1,
+    "net": -76.7,
+    "efg": 30.4,
+    "oefg": 75.9
+   },
+   {
+    "players": [
+     "Damon Edward Nicholas Jr",
+     "Matěj Střelba"
+    ],
+    "min": 15.4,
+    "pf": 22,
+    "pa": 28,
+    "pm": -6,
+    "poss": 28.1,
+    "pF": 29.4,
+    "pA": 26.7,
+    "ortg": 74.8,
+    "drtg": 104.8,
+    "net": -30.0,
+    "efg": 28.6,
+    "oefg": 60.5
+   },
+   {
+    "players": [
      "Jiří Paidar",
      "Václav Honomichl"
     ],
@@ -3916,75 +4092,21 @@
    },
    {
     "players": [
-     "František Váňa",
+     "Eyisi Onyinyechi Brown",
      "Matěj Střelba"
     ],
-    "min": 14.7,
-    "pf": 22,
-    "pa": 35,
-    "pm": -13,
-    "poss": 26.5,
-    "pF": 27.1,
-    "pA": 25.9,
-    "ortg": 81.2,
-    "drtg": 135.2,
-    "net": -54.0,
-    "efg": 30.8,
-    "oefg": 61.1
-   },
-   {
-    "players": [
-     "František Váňa",
-     "Václav Honomichl"
-    ],
-    "min": 14.6,
-    "pf": 19,
-    "pa": 50,
-    "pm": -31,
-    "poss": 32.0,
-    "pF": 31.2,
-    "pA": 32.8,
-    "ortg": 61.0,
-    "drtg": 152.3,
-    "net": -91.3,
-    "efg": 23.8,
-    "oefg": 73.2
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Matěj Střelba"
-    ],
-    "min": 13.9,
-    "pf": 21,
-    "pa": 26,
-    "pm": -5,
-    "poss": 26.6,
-    "pF": 28.5,
-    "pA": 24.7,
-    "ortg": 73.6,
-    "drtg": 105.2,
-    "net": -31.5,
-    "efg": 30.8,
-    "oefg": 61.8
-   },
-   {
-    "players": [
-     "Damon Edward Nicholas Jr",
-     "Václav Honomichl"
-    ],
-    "min": 13.6,
-    "pf": 14,
-    "pa": 34,
-    "pm": -20,
-    "poss": 26.1,
-    "pF": 25.1,
-    "pA": 27.2,
-    "ortg": 55.8,
-    "drtg": 125.2,
-    "net": -69.4,
-    "efg": 31.0,
-    "oefg": 50.0
+    "min": 14.0,
+    "pf": 31,
+    "pa": 33,
+    "pm": -2,
+    "poss": 29.1,
+    "pF": 32.0,
+    "pA": 26.3,
+    "ortg": 97.0,
+    "drtg": 125.4,
+    "net": -28.4,
+    "efg": 50.0,
+    "oefg": 60.0
    },
    {
     "players": [
@@ -4006,57 +4128,57 @@
    },
    {
     "players": [
-     "Eyisi Onyinyechi Brown",
-     "Matěj Střelba"
-    ],
-    "min": 12.8,
-    "pf": 28,
-    "pa": 33,
-    "pm": -5,
-    "poss": 27.1,
-    "pF": 30.0,
-    "pA": 24.3,
-    "ortg": 93.5,
-    "drtg": 135.7,
-    "net": -42.2,
-    "efg": 47.8,
-    "oefg": 65.2
-   },
-   {
-    "players": [
      "Dominik Thurnwald",
      "Jiří Paidar"
     ],
-    "min": 12.3,
-    "pf": 23,
+    "min": 13.1,
+    "pf": 25,
     "pa": 30,
-    "pm": -7,
-    "poss": 27.2,
-    "pF": 26.8,
-    "pA": 27.7,
-    "ortg": 85.9,
-    "drtg": 108.2,
-    "net": -22.3,
+    "pm": -5,
+    "poss": 29.2,
+    "pF": 28.6,
+    "pA": 29.7,
+    "ortg": 87.3,
+    "drtg": 100.9,
+    "net": -13.7,
     "efg": 52.8,
-    "oefg": 43.2
+    "oefg": 41.3
    },
    {
     "players": [
      "Eyisi Onyinyechi Brown",
      "Václav Honomichl"
     ],
-    "min": 11.7,
-    "pf": 22,
-    "pa": 37,
-    "pm": -15,
-    "poss": 27.3,
-    "pF": 28.2,
-    "pA": 26.5,
-    "ortg": 78.1,
-    "drtg": 139.5,
-    "net": -61.4,
-    "efg": 40.6,
-    "oefg": 75.0
+    "min": 12.8,
+    "pf": 29,
+    "pa": 40,
+    "pm": -11,
+    "poss": 30.0,
+    "pF": 31.5,
+    "pA": 28.5,
+    "ortg": 92.1,
+    "drtg": 140.3,
+    "net": -48.1,
+    "efg": 47.2,
+    "oefg": 78.6
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "Eyisi Onyinyechi Brown"
+    ],
+    "min": 12.2,
+    "pf": 28,
+    "pa": 24,
+    "pm": 4,
+    "poss": 27.8,
+    "pF": 27.2,
+    "pA": 28.4,
+    "ortg": 102.9,
+    "drtg": 84.5,
+    "net": 18.4,
+    "efg": 60.5,
+    "oefg": 45.2
    },
    {
     "players": [
@@ -4093,24 +4215,6 @@
     "net": -47.0,
     "efg": 52.8,
     "oefg": 78.1
-   },
-   {
-    "players": [
-     "Dominik Thurnwald",
-     "Eyisi Onyinyechi Brown"
-    ],
-    "min": 10.3,
-    "pf": 20,
-    "pa": 21,
-    "pm": -1,
-    "poss": 23.4,
-    "pF": 22.4,
-    "pA": 24.4,
-    "ortg": 89.1,
-    "drtg": 86.1,
-    "net": 3.1,
-    "efg": 55.9,
-    "oefg": 42.1
    },
    {
     "players": [
@@ -4240,6 +4344,42 @@
    },
    {
     "players": [
+     "Dominik Thurnwald",
+     "Václav Honomichl"
+    ],
+    "min": 7.0,
+    "pf": 9,
+    "pa": 23,
+    "pm": -14,
+    "poss": 15.9,
+    "pF": 16.2,
+    "pA": 15.6,
+    "ortg": 55.6,
+    "drtg": 147.1,
+    "net": -91.5,
+    "efg": 18.2,
+    "oefg": 90.9
+   },
+   {
+    "players": [
+     "Dominik Thurnwald",
+     "František Váňa"
+    ],
+    "min": 6.8,
+    "pf": 13,
+    "pa": 14,
+    "pm": -1,
+    "poss": 14.5,
+    "pF": 14.8,
+    "pA": 14.2,
+    "ortg": 88.1,
+    "drtg": 98.6,
+    "net": -10.5,
+    "efg": 56.2,
+    "oefg": 68.8
+   },
+   {
+    "players": [
      "Matěj Střelba",
      "Michal Svojanovský"
     ],
@@ -4273,42 +4413,6 @@
     "net": 17.7,
     "efg": 90.0,
     "oefg": 40.9
-   },
-   {
-    "players": [
-     "Dominik Thurnwald",
-     "Václav Honomichl"
-    ],
-    "min": 5.9,
-    "pf": 3,
-    "pa": 20,
-    "pm": -17,
-    "poss": 13.5,
-    "pF": 13.3,
-    "pA": 13.6,
-    "ortg": 22.5,
-    "drtg": 146.6,
-    "net": -124.1,
-    "efg": 0.0,
-    "oefg": 85.0
-   },
-   {
-    "players": [
-     "Dominik Thurnwald",
-     "František Váňa"
-    ],
-    "min": 5.0,
-    "pf": 5,
-    "pa": 11,
-    "pm": -6,
-    "poss": 10.1,
-    "pF": 10.0,
-    "pA": 10.2,
-    "ortg": 50.0,
-    "drtg": 107.8,
-    "net": -57.8,
-    "efg": 41.7,
-    "oefg": 66.7
    },
    {
     "players": [
@@ -4406,14 +4510,20 @@
   {
    "passer": "Damon Edward Nicholas Jr",
    "scorer": "Troy Thomas Dˇamico",
-   "ast": 5,
-   "pts": 13
+   "ast": 6,
+   "pts": 16
   },
   {
    "passer": "Michal Svojanovský",
    "scorer": "František Váňa",
    "ast": 5,
    "pts": 12
+  },
+  {
+   "passer": "Jiří Paidar",
+   "scorer": "Damon Edward Nicholas Jr",
+   "ast": 4,
+   "pts": 11
   },
   {
    "passer": "Troy Thomas Dˇamico",
@@ -4440,6 +4550,24 @@
    "pts": 7
   },
   {
+   "passer": "Troy Thomas Dˇamico",
+   "scorer": "Juraj Palenik",
+   "ast": 3,
+   "pts": 9
+  },
+  {
+   "passer": "Jiří Paidar",
+   "scorer": "Troy Thomas Dˇamico",
+   "ast": 3,
+   "pts": 9
+  },
+  {
+   "passer": "Matěj Střelba",
+   "scorer": "Troy Thomas Dˇamico",
+   "ast": 3,
+   "pts": 9
+  },
+  {
    "passer": "Damon Edward Nicholas Jr",
    "scorer": "Juraj Palenik",
    "ast": 3,
@@ -4464,20 +4592,14 @@
    "pts": 7
   },
   {
-   "passer": "Troy Thomas Dˇamico",
-   "scorer": "Juraj Palenik",
-   "ast": 2,
-   "pts": 6
+   "passer": "Jiří Paidar",
+   "scorer": "Eyisi Onyinyechi Brown",
+   "ast": 3,
+   "pts": 4
   },
   {
    "passer": "Jiří Paidar",
-   "scorer": "Troy Thomas Dˇamico",
-   "ast": 2,
-   "pts": 6
-  },
-  {
-   "passer": "Matěj Střelba",
-   "scorer": "Troy Thomas Dˇamico",
+   "scorer": "František Váňa",
    "ast": 2,
    "pts": 6
   },
@@ -4494,14 +4616,20 @@
    "pts": 6
   },
   {
+   "passer": "Jakub Kojzar",
+   "scorer": "Juraj Palenik",
+   "ast": 2,
+   "pts": 6
+  },
+  {
    "passer": "Eyisi Onyinyechi Brown",
    "scorer": "Troy Thomas Dˇamico",
    "ast": 2,
    "pts": 6
   },
   {
-   "passer": "Jiří Paidar",
-   "scorer": "Damon Edward Nicholas Jr",
+   "passer": "Damon Edward Nicholas Jr",
+   "scorer": "František Váňa",
    "ast": 2,
    "pts": 6
   },
@@ -4524,34 +4652,10 @@
    "pts": 5
   },
   {
-   "passer": "Michal Svojanovský",
-   "scorer": "Jakub Kojzar",
+   "passer": "Jakub Kojzar",
+   "scorer": "František Váňa",
    "ast": 2,
-   "pts": 4
-  },
-  {
-   "passer": "Troy Thomas Dˇamico",
-   "scorer": "Jakub Kojzar",
-   "ast": 2,
-   "pts": 4
-  },
-  {
-   "passer": "Troy Thomas Dˇamico",
-   "scorer": "Jan Matušík",
-   "ast": 2,
-   "pts": 4
-  },
-  {
-   "passer": "Matěj Střelba",
-   "scorer": "Jakub Kojzar",
-   "ast": 2,
-   "pts": 4
-  },
-  {
-   "passer": "Michal Svojanovský",
-   "scorer": "Eyisi Onyinyechi Brown",
-   "ast": 2,
-   "pts": 3
+   "pts": 5
   }
  ],
  "log": [
@@ -5164,6 +5268,108 @@
     "last5": [
      10,
      10
+    ]
+   }
+  },
+  {
+   "fibaId": 2909042,
+   "nblId": 544584,
+   "date": "2026-10-16",
+   "round": "7. kolo",
+   "venue": "away",
+   "opponent": "BK Olomoucko",
+   "opponentSlug": "olomoucko",
+   "opponentLabel": "Olomoucko",
+   "score": [
+    81,
+    72
+   ],
+   "result": "W",
+   "ot": false,
+   "ortg": 103.4,
+   "drtg": 92.5,
+   "net": 10.9,
+   "pace": 78.1,
+   "efg": 42.1,
+   "tov": 16.3,
+   "orb": 42.6,
+   "ftr": 31.4,
+   "topScorer": "František Váňa",
+   "oppEfg": 44.5,
+   "oppOrb": 23.1,
+   "tp": [
+    11,
+    32
+   ],
+   "ft": [
+    22,
+    28
+   ],
+   "second": [
+    11,
+    4
+   ],
+   "bench": [
+    19,
+    5
+   ],
+   "paint": [
+    22,
+    34
+   ],
+   "leading": [
+    36.1,
+    2.5
+   ],
+   "leadChanges": 5,
+   "maxLead": [
+    15,
+    3
+   ],
+   "maxRun": [
+    13,
+    5
+   ],
+   "astFg": [
+    [
+     15,
+     24
+    ],
+    [
+     11,
+     25
+    ]
+   ],
+   "quarters": [
+    [
+     23,
+     19
+    ],
+    [
+     22,
+     18
+    ],
+    [
+     16,
+     16
+    ],
+    [
+     20,
+     19
+    ]
+   ],
+   "segments": {
+    "first3": [
+     26,
+     21
+    ],
+    "last3": [
+     21,
+     31
+    ],
+    "last5": [
+     9,
+     12
     ]
    }
   }
@@ -8096,6 +8302,496 @@
     0,
     1,
     6
+   ],
+   [
+    5.7,
+    1.0,
+    1,
+    1,
+    12
+   ],
+   [
+    5.5,
+    49.5,
+    1,
+    0,
+    12
+   ],
+   [
+    8.6,
+    48.4,
+    1,
+    0,
+    2
+   ],
+   [
+    32.8,
+    49.5,
+    0,
+    1,
+    9
+   ],
+   [
+    8.2,
+    78.8,
+    1,
+    0,
+    12
+   ],
+   [
+    6.6,
+    97.2,
+    1,
+    1,
+    5
+   ],
+   [
+    8.0,
+    73.5,
+    0,
+    0,
+    12
+   ],
+   [
+    6.3,
+    95.8,
+    1,
+    1,
+    5
+   ],
+   [
+    5.7,
+    45.6,
+    0,
+    0,
+    9
+   ],
+   [
+    32.2,
+    70.9,
+    0,
+    1,
+    1
+   ],
+   [
+    17.2,
+    6.1,
+    1,
+    1,
+    1
+   ],
+   [
+    9.0,
+    47.8,
+    0,
+    0,
+    5
+   ],
+   [
+    5.8,
+    96.3,
+    0,
+    1,
+    2
+   ],
+   [
+    9.1,
+    58.5,
+    0,
+    0,
+    2
+   ],
+   [
+    26.0,
+    87.3,
+    0,
+    1,
+    2
+   ],
+   [
+    11.4,
+    46.7,
+    0,
+    0,
+    12
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    3
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    2
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    2
+   ],
+   [
+    25.2,
+    89.9,
+    0,
+    1,
+    8
+   ],
+   [
+    8.3,
+    52.0,
+    1,
+    0,
+    12
+   ],
+   [
+    3.2,
+    2.1,
+    0,
+    1,
+    12
+   ],
+   [
+    29.1,
+    21.6,
+    0,
+    1,
+    1
+   ],
+   [
+    10.7,
+    28.6,
+    0,
+    0,
+    5
+   ],
+   [
+    5.5,
+    2.7,
+    0,
+    1,
+    1
+   ],
+   [
+    22.7,
+    12.8,
+    1,
+    1,
+    2
+   ],
+   [
+    33.1,
+    44.7,
+    1,
+    1,
+    2
+   ],
+   [
+    8.8,
+    57.7,
+    0,
+    0,
+    12
+   ],
+   [
+    32.5,
+    64.2,
+    0,
+    1,
+    1
+   ],
+   [
+    6.2,
+    45.0,
+    1,
+    0,
+    2
+   ],
+   [
+    8.0,
+    49.8,
+    1,
+    0,
+    3
+   ],
+   [
+    11.4,
+    22.7,
+    0,
+    0,
+    12
+   ],
+   [
+    11.6,
+    60.0,
+    0,
+    0,
+    12
+   ],
+   [
+    31.4,
+    65.6,
+    0,
+    1,
+    5
+   ],
+   [
+    9.0,
+    61.9,
+    0,
+    0,
+    1
+   ],
+   [
+    21.1,
+    7.8,
+    0,
+    1,
+    2
+   ],
+   [
+    33.5,
+    42.3,
+    1,
+    1,
+    2
+   ],
+   [
+    4.7,
+    5.3,
+    0,
+    1,
+    2
+   ],
+   [
+    8.6,
+    47.4,
+    0,
+    0,
+    8
+   ],
+   [
+    30.7,
+    30.7,
+    1,
+    1,
+    2
+   ],
+   [
+    27.8,
+    16.3,
+    0,
+    1,
+    8
+   ],
+   [
+    4.8,
+    48.8,
+    0,
+    0,
+    12
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    12
+   ],
+   [
+    5.6,
+    81.5,
+    1,
+    0,
+    8
+   ],
+   [
+    33.5,
+    80.4,
+    0,
+    1,
+    1
+   ],
+   [
+    4.4,
+    55.6,
+    0,
+    0,
+    1
+   ],
+   [
+    29.8,
+    30.2,
+    0,
+    1,
+    2
+   ],
+   [
+    3.4,
+    43.4,
+    0,
+    0,
+    3
+   ],
+   [
+    4.8,
+    51.6,
+    0,
+    0,
+    5
+   ],
+   [
+    41.0,
+    48.8,
+    0,
+    1,
+    5
+   ],
+   [
+    17.8,
+    16.9,
+    0,
+    0,
+    12
+   ],
+   [
+    8.3,
+    45.1,
+    0,
+    0,
+    9
+   ],
+   [
+    5.8,
+    38.6,
+    1,
+    0,
+    5
+   ],
+   [
+    9.7,
+    53.0,
+    0,
+    0,
+    1
+   ],
+   [
+    6.7,
+    55.8,
+    0,
+    0,
+    12
+   ],
+   [
+    4.8,
+    96.2,
+    1,
+    1,
+    1
+   ],
+   [
+    27.9,
+    18.6,
+    0,
+    1,
+    1
+   ],
+   [
+    6.2,
+    40.9,
+    1,
+    0,
+    12
+   ],
+   [
+    3.8,
+    41.2,
+    1,
+    0,
+    12
+   ],
+   [
+    19.7,
+    90.8,
+    0,
+    1,
+    2
+   ],
+   [
+    5.0,
+    47.1,
+    0,
+    0,
+    12
+   ],
+   [
+    4.4,
+    44.3,
+    1,
+    0,
+    9
+   ],
+   [
+    25.7,
+    84.4,
+    1,
+    1,
+    1
+   ],
+   [
+    8.0,
+    2.2,
+    0,
+    1,
+    5
+   ],
+   [
+    7.0,
+    55.0,
+    1,
+    0,
+    12
+   ],
+   [
+    24.8,
+    13.2,
+    1,
+    1,
+    2
+   ],
+   [
+    31.0,
+    73.3,
+    0,
+    1,
+    8
+   ],
+   [
+    9.1,
+    99.0,
+    0,
+    1,
+    12
+   ],
+   [
+    19.3,
+    55.8,
+    0,
+    0,
+    9
+   ],
+   [
+    6.7,
+    42.6,
+    1,
+    0,
+    9
    ]
   ]
  },
@@ -8103,46 +8799,68 @@
   {
    "name": "Troy Thomas Dˇamico",
    "bands": [
-    14,
     19,
     22,
+    25,
     27,
-    12
+    14
    ],
-   "pts": 94
+   "pts": 109
   },
   {
    "name": "Juraj Palenik",
    "bands": [
     7,
     13,
-    21,
-    21,
-    12
+    25,
+    27,
+    14
    ],
-   "pts": 75
+   "pts": 87
   },
   {
    "name": "Damon Edward Nicholas Jr",
    "bands": [
-    17,
-    11,
+    19,
+    15,
     12,
-    5,
+    14,
     8
    ],
-   "pts": 53
+   "pts": 68
+  },
+  {
+   "name": "František Váňa",
+   "bands": [
+    10,
+    8,
+    22,
+    12,
+    11
+   ],
+   "pts": 63
   },
   {
    "name": "Jiří Paidar",
    "bands": [
     4,
-    4,
+    6,
     15,
     15,
     8
    ],
-   "pts": 46
+   "pts": 48
+  },
+  {
+   "name": "Jakub Kojzar",
+   "bands": [
+    6,
+    6,
+    13,
+    9,
+    6
+   ],
+   "pts": 40
   },
   {
    "name": "Michal Svojanovský",
@@ -8156,37 +8874,15 @@
    "pts": 39
   },
   {
-   "name": "František Váňa",
-   "bands": [
-    6,
-    8,
-    11,
-    6,
-    7
-   ],
-   "pts": 38
-  },
-  {
-   "name": "Jakub Kojzar",
-   "bands": [
-    6,
-    6,
-    10,
-    7,
-    6
-   ],
-   "pts": 35
-  },
-  {
    "name": "Eyisi Onyinyechi Brown",
    "bands": [
     4,
     5,
     4,
-    11,
-    9
+    13,
+    12
    ],
-   "pts": 33
+   "pts": 38
   },
   {
    "name": "Jan Matušík",
@@ -8194,10 +8890,10 @@
     4,
     7,
     7,
-    9,
+    11,
     4
    ],
-   "pts": 32
+   "pts": 34
   },
   {
    "name": "Matěj Střelba",
@@ -8246,21 +8942,21 @@
  ],
  "segments": {
   "first3": [
-   137,
-   172
+   163,
+   193
   ],
   "last3": [
-   134,
-   185
+   155,
+   216
   ],
   "last5": [
-   64,
-   81
+   73,
+   93
   ]
  },
  "ranks": {
   "ppg": 11,
-  "oppg": 12,
+  "oppg": 11,
   "diff": 11,
   "ortg": 11,
   "drtg": 11,
@@ -8271,11 +8967,11 @@
   "tov": 10,
   "orb": 3,
   "drb": 4,
-  "ftr": 9,
+  "ftr": 8,
   "three_par": 2,
   "three": 6,
   "two": 12,
-  "ft": 8,
+  "ft": 6,
   "ast_pct": 4,
   "ast_to": 11,
   "stl_pct": 11,
@@ -8287,26 +8983,26 @@
   "of": 12
  },
  "standing": {
-  "pos": 12,
+  "pos": 11,
   "slug": "plzen",
   "name": "BK Loko BaliMania Plzeň",
   "label": "Plzeň",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
-  "gp": 6,
-  "w": 0,
+  "gp": 7,
+  "w": 1,
   "l": 6,
-  "pct": 0.0,
-  "pf": 466,
-  "pa": 571,
-  "diff": -105,
-  "ppg": 77.7,
-  "oppg": 95.2,
+  "pct": 0.143,
+  "pf": 547,
+  "pa": 643,
+  "diff": -96,
+  "ppg": 78.1,
+  "oppg": 91.9,
   "home": "0-4",
-  "away": "0-2",
+  "away": "1-2",
   "close": "0-1",
   "ot": 0,
-  "streak": "L6",
-  "last5": "LLLLL"
+  "streak": "W1",
+  "last5": "LLLLW"
  },
  "players": [
   {
@@ -8317,103 +9013,103 @@
    "teamLabel": "Plzeň",
    "shirt": "8",
    "pos": "",
-   "gp": 6,
-   "gs": 6,
-   "min": 176.9,
+   "gp": 7,
+   "gs": 7,
+   "min": 209.5,
    "totals": {
-    "pts": 94,
-    "fgm": 30,
-    "fga": 60,
-    "tpm": 20,
-    "tpa": 42,
+    "pts": 109,
+    "fgm": 33,
+    "fga": 72,
+    "tpm": 23,
+    "tpa": 51,
     "twopm": 10,
-    "twopa": 18,
-    "ftm": 14,
-    "fta": 17,
-    "oreb": 7,
-    "dreb": 20,
-    "reb": 27,
-    "ast": 15,
-    "to": 2,
-    "stl": 3,
+    "twopa": 21,
+    "ftm": 20,
+    "fta": 23,
+    "oreb": 8,
+    "dreb": 28,
+    "reb": 36,
+    "ast": 16,
+    "to": 4,
+    "stl": 5,
     "blk": 3,
-    "blkr": 1,
-    "pf": 13,
-    "foulon": 11,
-    "pm": -81,
+    "blkr": 2,
+    "pf": 16,
+    "foulon": 16,
+    "pm": -73,
     "paint": 20,
-    "fast": 6,
-    "second": 33
+    "fast": 11,
+    "second": 35
    },
    "perGame": {
-    "pts": 15.7,
-    "fgm": 5.0,
-    "fga": 10.0,
+    "pts": 15.6,
+    "fgm": 4.7,
+    "fga": 10.3,
     "tpm": 3.3,
-    "tpa": 7.0,
-    "twopm": 1.7,
+    "tpa": 7.3,
+    "twopm": 1.4,
     "twopa": 3.0,
-    "ftm": 2.3,
-    "fta": 2.8,
-    "oreb": 1.2,
-    "dreb": 3.3,
-    "reb": 4.5,
-    "ast": 2.5,
-    "to": 0.3,
-    "stl": 0.5,
-    "blk": 0.5,
-    "blkr": 0.2,
-    "pf": 2.2,
-    "foulon": 1.8,
-    "pm": -13.5,
-    "paint": 3.3,
-    "fast": 1.0,
-    "second": 5.5,
-    "min": 29.5,
-    "eff": 17.8,
-    "gmsc": 13.7
+    "ftm": 2.9,
+    "fta": 3.3,
+    "oreb": 1.1,
+    "dreb": 4.0,
+    "reb": 5.1,
+    "ast": 2.3,
+    "to": 0.6,
+    "stl": 0.7,
+    "blk": 0.4,
+    "blkr": 0.3,
+    "pf": 2.3,
+    "foulon": 2.3,
+    "pm": -10.4,
+    "paint": 2.9,
+    "fast": 1.6,
+    "second": 5.0,
+    "min": 29.9,
+    "eff": 17.6,
+    "gmsc": 13.2
    },
    "per40": {
-    "pts": 21.3,
-    "reb": 6.1,
-    "ast": 3.4,
-    "stl": 0.7,
-    "blk": 0.7,
-    "to": 0.5
+    "pts": 20.8,
+    "reb": 6.9,
+    "ast": 3.1,
+    "stl": 1.0,
+    "blk": 0.6,
+    "to": 0.8
    },
-   "ts": 69.7,
-   "efg": 66.7,
-   "fg": 50.0,
-   "two": 55.6,
-   "three": 47.6,
-   "ft": 82.4,
-   "usg": 16.3,
-   "astTo": 7.5,
-   "pm": -81,
-   "pm40": -18.3,
+   "ts": 66.4,
+   "efg": 61.8,
+   "fg": 45.8,
+   "two": 47.6,
+   "three": 45.1,
+   "ft": 87.0,
+   "usg": 17.0,
+   "astTo": 4.0,
+   "pm": -73,
+   "pm40": -13.9,
    "on": {
-    "min": 176.8,
-    "pf": 337,
-    "pa": 418,
-    "ortg": 95.1,
-    "drtg": 116.1,
-    "net": -21.0
+    "min": 209.4,
+    "pf": 400,
+    "pa": 473,
+    "ortg": 95.7,
+    "drtg": 112.1,
+    "net": -16.4
    },
    "off": {
-    "min": 63.2,
-    "ortg": 97.6,
-    "drtg": 118.5,
-    "net": -20.9
+    "min": 70.6,
+    "ortg": 100.0,
+    "drtg": 117.3,
+    "net": -17.4
    },
-   "onOff": -0.1,
+   "onOff": 1.0,
    "dd": 0,
    "td": 0,
    "high": 23,
    "zones": {
     "paint": {
      "m": 10,
-     "a": 14,
-     "pct": 71.4
+     "a": 17,
+     "pct": 58.8
     },
     "mid": {
      "m": 0,
@@ -8421,14 +9117,14 @@
      "pct": 0.0
     },
     "corner3": {
-     "m": 4,
-     "a": 9,
-     "pct": 44.4
+     "m": 5,
+     "a": 11,
+     "pct": 45.5
     },
     "above3": {
-     "m": 16,
-     "a": 33,
-     "pct": 48.5
+     "m": 18,
+     "a": 40,
+     "pct": 45.0
     }
    },
    "log": [
@@ -8551,6 +9247,26 @@
      "pm": -15,
      "eff": 24,
      "ts": 91.0
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 32.6,
+     "pts": 15,
+     "reb": 9,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/12",
+     "tp": "3/9",
+     "ft": "6/6",
+     "pm": 8,
+     "eff": 16,
+     "ts": 51.2
     }
    ]
   },
@@ -8562,113 +9278,113 @@
    "teamLabel": "Plzeň",
    "shirt": "25",
    "pos": "",
-   "gp": 4,
-   "gs": 3,
-   "min": 112.9,
+   "gp": 5,
+   "gs": 4,
+   "min": 142.1,
    "totals": {
-    "pts": 53,
-    "fgm": 17,
-    "fga": 48,
-    "tpm": 6,
-    "tpa": 15,
-    "twopm": 11,
-    "twopa": 33,
+    "pts": 68,
+    "fgm": 24,
+    "fga": 67,
+    "tpm": 7,
+    "tpa": 18,
+    "twopm": 17,
+    "twopa": 49,
     "ftm": 13,
     "fta": 20,
-    "oreb": 9,
-    "dreb": 17,
-    "reb": 26,
-    "ast": 12,
-    "to": 11,
-    "stl": 2,
+    "oreb": 14,
+    "dreb": 20,
+    "reb": 34,
+    "ast": 14,
+    "to": 15,
+    "stl": 3,
     "blk": 1,
-    "blkr": 2,
-    "pf": 10,
-    "foulon": 18,
-    "pm": -32,
-    "paint": 16,
-    "fast": 21,
-    "second": 5
+    "blkr": 3,
+    "pf": 11,
+    "foulon": 22,
+    "pm": -23,
+    "paint": 26,
+    "fast": 25,
+    "second": 9
    },
    "perGame": {
-    "pts": 13.2,
-    "fgm": 4.2,
-    "fga": 12.0,
-    "tpm": 1.5,
-    "tpa": 3.8,
-    "twopm": 2.8,
-    "twopa": 8.2,
-    "ftm": 3.2,
-    "fta": 5.0,
-    "oreb": 2.2,
-    "dreb": 4.2,
-    "reb": 6.5,
-    "ast": 3.0,
-    "to": 2.8,
-    "stl": 0.5,
+    "pts": 13.6,
+    "fgm": 4.8,
+    "fga": 13.4,
+    "tpm": 1.4,
+    "tpa": 3.6,
+    "twopm": 3.4,
+    "twopa": 9.8,
+    "ftm": 2.6,
+    "fta": 4.0,
+    "oreb": 2.8,
+    "dreb": 4.0,
+    "reb": 6.8,
+    "ast": 2.8,
+    "to": 3.0,
+    "stl": 0.6,
     "blk": 0.2,
-    "blkr": 0.5,
-    "pf": 2.5,
-    "foulon": 4.5,
-    "pm": -8.0,
-    "paint": 4.0,
-    "fast": 5.2,
-    "second": 1.2,
-    "min": 28.2,
-    "eff": 11.2,
-    "gmsc": 7.7
+    "blkr": 0.6,
+    "pf": 2.2,
+    "foulon": 4.4,
+    "pm": -4.6,
+    "paint": 5.2,
+    "fast": 5.0,
+    "second": 1.8,
+    "min": 28.4,
+    "eff": 11.0,
+    "gmsc": 7.6
    },
    "per40": {
-    "pts": 18.8,
-    "reb": 9.2,
-    "ast": 4.3,
-    "stl": 0.7,
-    "blk": 0.4,
-    "to": 3.9
+    "pts": 19.1,
+    "reb": 9.6,
+    "ast": 3.9,
+    "stl": 0.8,
+    "blk": 0.3,
+    "to": 4.2
    },
-   "ts": 46.7,
-   "efg": 41.7,
-   "fg": 35.4,
-   "two": 33.3,
-   "three": 40.0,
+   "ts": 44.9,
+   "efg": 41.0,
+   "fg": 35.8,
+   "two": 34.7,
+   "three": 38.9,
    "ft": 65.0,
-   "usg": 25.0,
-   "astTo": 1.09,
-   "pm": -32,
-   "pm40": -11.3,
+   "usg": 26.4,
+   "astTo": 0.93,
+   "pm": -23,
+   "pm40": -6.5,
    "on": {
-    "min": 112.9,
-    "pf": 211,
-    "pa": 243,
-    "ortg": 96.4,
-    "drtg": 110.6,
-    "net": -14.2
+    "min": 142.1,
+    "pf": 268,
+    "pa": 291,
+    "ortg": 98.3,
+    "drtg": 106.1,
+    "net": -7.8
    },
    "off": {
-    "min": 47.1,
-    "ortg": 104.8,
-    "drtg": 108.0,
-    "net": -3.2
+    "min": 57.9,
+    "ortg": 103.2,
+    "drtg": 107.0,
+    "net": -3.8
    },
-   "onOff": -11.0,
+   "onOff": -4.0,
    "dd": 0,
    "td": 0,
    "high": 20,
    "zones": {
     "paint": {
-     "m": 8,
-     "a": 27,
-     "pct": 29.6
+     "m": 13,
+     "a": 40,
+     "pct": 32.5
     },
     "mid": {
-     "m": 3,
-     "a": 6,
-     "pct": 50.0
+     "m": 4,
+     "a": 9,
+     "pct": 44.4
     },
     "corner3": {
-     "m": 3,
-     "a": 6,
-     "pct": 50.0
+     "m": 4,
+     "a": 9,
+     "pct": 44.4
     },
     "above3": {
      "m": 3,
@@ -8756,6 +9472,251 @@
      "pm": -20,
      "eff": 5,
      "ts": 41.6
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 29.2,
+     "pts": 15,
+     "reb": 8,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 4,
+     "fg": "7/19",
+     "tp": "1/3",
+     "ft": "0/0",
+     "pm": 9,
+     "eff": 10,
+     "ts": 39.5
+    }
+   ]
+  },
+  {
+   "id": "plzen/frantisek-vana",
+   "name": "František Váňa",
+   "team": "plzen",
+   "teamName": "BK Loko BaliMania Plzeň",
+   "teamLabel": "Plzeň",
+   "shirt": "3",
+   "pos": "",
+   "gp": 5,
+   "gs": 4,
+   "min": 129.4,
+   "totals": {
+    "pts": 63,
+    "fgm": 19,
+    "fga": 68,
+    "tpm": 13,
+    "tpa": 49,
+    "twopm": 6,
+    "twopa": 19,
+    "ftm": 12,
+    "fta": 16,
+    "oreb": 7,
+    "dreb": 18,
+    "reb": 25,
+    "ast": 9,
+    "to": 12,
+    "stl": 5,
+    "blk": 1,
+    "blkr": 2,
+    "pf": 16,
+    "foulon": 13,
+    "pm": -49,
+    "paint": 12,
+    "fast": 4,
+    "second": 9
+   },
+   "perGame": {
+    "pts": 12.6,
+    "fgm": 3.8,
+    "fga": 13.6,
+    "tpm": 2.6,
+    "tpa": 9.8,
+    "twopm": 1.2,
+    "twopa": 3.8,
+    "ftm": 2.4,
+    "fta": 3.2,
+    "oreb": 1.4,
+    "dreb": 3.6,
+    "reb": 5.0,
+    "ast": 1.8,
+    "to": 2.4,
+    "stl": 1.0,
+    "blk": 0.2,
+    "blkr": 0.4,
+    "pf": 3.2,
+    "foulon": 2.6,
+    "pm": -9.8,
+    "paint": 2.4,
+    "fast": 0.8,
+    "second": 1.8,
+    "min": 25.9,
+    "eff": 7.6,
+    "gmsc": 5.1
+   },
+   "per40": {
+    "pts": 19.5,
+    "reb": 7.7,
+    "ast": 2.8,
+    "stl": 1.5,
+    "blk": 0.3,
+    "to": 3.7
+   },
+   "ts": 42.0,
+   "efg": 37.5,
+   "fg": 27.9,
+   "two": 31.6,
+   "three": 26.5,
+   "ft": 75.0,
+   "usg": 27.6,
+   "astTo": 0.75,
+   "pm": -49,
+   "pm40": -15.1,
+   "on": {
+    "min": 129.5,
+    "pf": 246,
+    "pa": 295,
+    "ortg": 95.3,
+    "drtg": 111.2,
+    "net": -15.9
+   },
+   "off": {
+    "min": 70.5,
+    "ortg": 94.2,
+    "drtg": 117.7,
+    "net": -23.5
+   },
+   "onOff": 7.6,
+   "dd": 0,
+   "td": 0,
+   "high": 25,
+   "zones": {
+    "paint": {
+     "m": 6,
+     "a": 16,
+     "pct": 37.5
+    },
+    "mid": {
+     "m": 0,
+     "a": 3,
+     "pct": 0.0
+    },
+    "corner3": {
+     "m": 1,
+     "a": 9,
+     "pct": 11.1
+    },
+    "above3": {
+     "m": 12,
+     "a": 40,
+     "pct": 30.0
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890468,
+     "date": "2026-09-17",
+     "opponent": "Děčín",
+     "venue": "home",
+     "result": "L",
+     "min": 27.3,
+     "pts": 16,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "6/17",
+     "tp": "4/13",
+     "ft": "0/0",
+     "pm": -22,
+     "eff": 9,
+     "ts": 47.1
+    },
+    {
+     "fibaId": 2890478,
+     "date": "2026-09-23",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 20.9,
+     "pts": 10,
+     "reb": 5,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "to": 3,
+     "fg": "2/10",
+     "tp": "1/8",
+     "ft": "5/6",
+     "pm": -32,
+     "eff": 6,
+     "ts": 39.6
+    },
+    {
+     "fibaId": 2890479,
+     "date": "2026-09-27",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 27.4,
+     "pts": 6,
+     "reb": 6,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/13",
+     "tp": "1/7",
+     "ft": "1/2",
+     "pm": -1,
+     "eff": 1,
+     "ts": 21.6
+    },
+    {
+     "fibaId": 2900136,
+     "date": "2026-10-11",
+     "opponent": "Brno",
+     "venue": "home",
+     "result": "L",
+     "min": 23.1,
+     "pts": 6,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "2/12",
+     "tp": "2/10",
+     "ft": "0/0",
+     "pm": -9,
+     "eff": 0,
+     "ts": 25.0
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 30.7,
+     "pts": 25,
+     "reb": 8,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "7/16",
+     "tp": "5/11",
+     "ft": "6/8",
+     "pm": 15,
+     "eff": 22,
+     "ts": 64.0
     }
    ]
   },
@@ -8767,103 +9728,103 @@
    "teamLabel": "Plzeň",
    "shirt": "26",
    "pos": "",
-   "gp": 6,
+   "gp": 7,
    "gs": 3,
-   "min": 159.2,
+   "min": 183.4,
    "totals": {
-    "pts": 75,
-    "fgm": 27,
-    "fga": 59,
-    "tpm": 12,
-    "tpa": 32,
-    "twopm": 15,
-    "twopa": 27,
-    "ftm": 9,
-    "fta": 12,
-    "oreb": 7,
-    "dreb": 12,
-    "reb": 19,
-    "ast": 8,
+    "pts": 87,
+    "fgm": 30,
+    "fga": 68,
+    "tpm": 14,
+    "tpa": 37,
+    "twopm": 16,
+    "twopa": 31,
+    "ftm": 13,
+    "fta": 19,
+    "oreb": 8,
+    "dreb": 13,
+    "reb": 21,
+    "ast": 9,
     "to": 12,
     "stl": 6,
     "blk": 1,
     "blkr": 0,
-    "pf": 13,
-    "foulon": 13,
-    "pm": -68,
-    "paint": 24,
+    "pf": 15,
+    "foulon": 17,
+    "pm": -75,
+    "paint": 26,
     "fast": 6,
-    "second": 13
+    "second": 15
    },
    "perGame": {
-    "pts": 12.5,
-    "fgm": 4.5,
-    "fga": 9.8,
+    "pts": 12.4,
+    "fgm": 4.3,
+    "fga": 9.7,
     "tpm": 2.0,
     "tpa": 5.3,
-    "twopm": 2.5,
-    "twopa": 4.5,
-    "ftm": 1.5,
-    "fta": 2.0,
-    "oreb": 1.2,
-    "dreb": 2.0,
-    "reb": 3.2,
+    "twopm": 2.3,
+    "twopa": 4.4,
+    "ftm": 1.9,
+    "fta": 2.7,
+    "oreb": 1.1,
+    "dreb": 1.9,
+    "reb": 3.0,
     "ast": 1.3,
-    "to": 2.0,
-    "stl": 1.0,
-    "blk": 0.2,
+    "to": 1.7,
+    "stl": 0.9,
+    "blk": 0.1,
     "blkr": 0.0,
-    "pf": 2.2,
-    "foulon": 2.2,
-    "pm": -11.3,
-    "paint": 4.0,
-    "fast": 1.0,
-    "second": 2.2,
-    "min": 26.5,
-    "eff": 10.3,
-    "gmsc": 7.8
+    "pf": 2.1,
+    "foulon": 2.4,
+    "pm": -10.7,
+    "paint": 3.7,
+    "fast": 0.9,
+    "second": 2.1,
+    "min": 26.2,
+    "eff": 9.7,
+    "gmsc": 7.6
    },
    "per40": {
-    "pts": 18.8,
-    "reb": 4.8,
+    "pts": 19.0,
+    "reb": 4.6,
     "ast": 2.0,
-    "stl": 1.5,
-    "blk": 0.3,
-    "to": 3.0
+    "stl": 1.3,
+    "blk": 0.2,
+    "to": 2.6
    },
-   "ts": 58.3,
-   "efg": 55.9,
-   "fg": 45.8,
-   "two": 55.6,
-   "three": 37.5,
-   "ft": 75.0,
-   "usg": 19.8,
-   "astTo": 0.67,
-   "pm": -68,
-   "pm40": -17.1,
+   "ts": 57.0,
+   "efg": 54.4,
+   "fg": 44.1,
+   "two": 51.6,
+   "three": 37.8,
+   "ft": 68.4,
+   "usg": 19.9,
+   "astTo": 0.75,
+   "pm": -75,
+   "pm40": -16.4,
    "on": {
-    "min": 159.2,
-    "pf": 324,
-    "pa": 392,
-    "ortg": 99.0,
-    "drtg": 119.4,
-    "net": -20.4
+    "min": 183.4,
+    "pf": 369,
+    "pa": 444,
+    "ortg": 98.0,
+    "drtg": 117.9,
+    "net": -19.9
    },
    "off": {
-    "min": 80.8,
-    "ortg": 89.1,
-    "drtg": 111.3,
-    "net": -22.2
+    "min": 96.6,
+    "ortg": 94.4,
+    "drtg": 104.6,
+    "net": -10.2
    },
-   "onOff": 1.8,
+   "onOff": -9.7,
    "dd": 0,
    "td": 0,
    "high": 20,
    "zones": {
     "paint": {
-     "m": 13,
-     "a": 24,
-     "pct": 54.2
+     "m": 14,
+     "a": 28,
+     "pct": 50.0
     },
     "mid": {
      "m": 2,
@@ -8871,14 +9832,14 @@
      "pct": 66.7
     },
     "corner3": {
-     "m": 5,
-     "a": 9,
-     "pct": 55.6
+     "m": 7,
+     "a": 12,
+     "pct": 58.3
     },
     "above3": {
      "m": 7,
-     "a": 23,
-     "pct": 30.4
+     "a": 25,
+     "pct": 28.0
     }
    },
    "log": [
@@ -9001,6 +9962,26 @@
      "pm": -10,
      "eff": 1,
      "ts": 25.5
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 24.2,
+     "pts": 12,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/9",
+     "tp": "2/5",
+     "ft": "4/7",
+     "pm": -7,
+     "eff": 6,
+     "ts": 49.7
     }
    ]
   },
@@ -9210,211 +10191,6 @@
    ]
   },
   {
-   "id": "plzen/frantisek-vana",
-   "name": "František Váňa",
-   "team": "plzen",
-   "teamName": "BK Loko BaliMania Plzeň",
-   "teamLabel": "Plzeň",
-   "shirt": "3",
-   "pos": "",
-   "gp": 4,
-   "gs": 3,
-   "min": 98.7,
-   "totals": {
-    "pts": 38,
-    "fgm": 12,
-    "fga": 52,
-    "tpm": 8,
-    "tpa": 38,
-    "twopm": 4,
-    "twopa": 14,
-    "ftm": 6,
-    "fta": 8,
-    "oreb": 4,
-    "dreb": 13,
-    "reb": 17,
-    "ast": 7,
-    "to": 9,
-    "stl": 4,
-    "blk": 1,
-    "blkr": 2,
-    "pf": 13,
-    "foulon": 7,
-    "pm": -64,
-    "paint": 8,
-    "fast": 0,
-    "second": 9
-   },
-   "perGame": {
-    "pts": 9.5,
-    "fgm": 3.0,
-    "fga": 13.0,
-    "tpm": 2.0,
-    "tpa": 9.5,
-    "twopm": 1.0,
-    "twopa": 3.5,
-    "ftm": 1.5,
-    "fta": 2.0,
-    "oreb": 1.0,
-    "dreb": 3.2,
-    "reb": 4.2,
-    "ast": 1.8,
-    "to": 2.2,
-    "stl": 1.0,
-    "blk": 0.2,
-    "blkr": 0.5,
-    "pf": 3.2,
-    "foulon": 1.8,
-    "pm": -16.0,
-    "paint": 2.0,
-    "fast": 0.0,
-    "second": 2.2,
-    "min": 24.7,
-    "eff": 4.0,
-    "gmsc": 1.9
-   },
-   "per40": {
-    "pts": 15.4,
-    "reb": 6.9,
-    "ast": 2.8,
-    "stl": 1.6,
-    "blk": 0.4,
-    "to": 3.6
-   },
-   "ts": 34.2,
-   "efg": 30.8,
-   "fg": 23.1,
-   "two": 28.6,
-   "three": 21.1,
-   "ft": 75.0,
-   "usg": 27.0,
-   "astTo": 0.78,
-   "pm": -64,
-   "pm40": -25.9,
-   "on": {
-    "min": 98.8,
-    "pf": 177,
-    "pa": 241,
-    "ortg": 90.4,
-    "drtg": 118.3,
-    "net": -28.0
-   },
-   "off": {
-    "min": 61.2,
-    "ortg": 96.7,
-    "drtg": 118.6,
-    "net": -21.8
-   },
-   "onOff": -6.2,
-   "dd": 0,
-   "td": 0,
-   "high": 16,
-   "zones": {
-    "paint": {
-     "m": 4,
-     "a": 11,
-     "pct": 36.4
-    },
-    "mid": {
-     "m": 0,
-     "a": 3,
-     "pct": 0.0
-    },
-    "corner3": {
-     "m": 1,
-     "a": 7,
-     "pct": 14.3
-    },
-    "above3": {
-     "m": 7,
-     "a": 31,
-     "pct": 22.6
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2890468,
-     "date": "2026-09-17",
-     "opponent": "Děčín",
-     "venue": "home",
-     "result": "L",
-     "min": 27.3,
-     "pts": 16,
-     "reb": 3,
-     "ast": 2,
-     "stl": 1,
-     "blk": 0,
-     "to": 2,
-     "fg": "6/17",
-     "tp": "4/13",
-     "ft": "0/0",
-     "pm": -22,
-     "eff": 9,
-     "ts": 47.1
-    },
-    {
-     "fibaId": 2890478,
-     "date": "2026-09-23",
-     "opponent": "Ústí",
-     "venue": "away",
-     "result": "L",
-     "min": 20.9,
-     "pts": 10,
-     "reb": 5,
-     "ast": 2,
-     "stl": 0,
-     "blk": 1,
-     "to": 3,
-     "fg": "2/10",
-     "tp": "1/8",
-     "ft": "5/6",
-     "pm": -32,
-     "eff": 6,
-     "ts": 39.6
-    },
-    {
-     "fibaId": 2890479,
-     "date": "2026-09-27",
-     "opponent": "Písek",
-     "venue": "home",
-     "result": "L",
-     "min": 27.4,
-     "pts": 6,
-     "reb": 6,
-     "ast": 0,
-     "stl": 2,
-     "blk": 0,
-     "to": 1,
-     "fg": "2/13",
-     "tp": "1/7",
-     "ft": "1/2",
-     "pm": -1,
-     "eff": 1,
-     "ts": 21.6
-    },
-    {
-     "fibaId": 2900136,
-     "date": "2026-10-11",
-     "opponent": "Brno",
-     "venue": "home",
-     "result": "L",
-     "min": 23.1,
-     "pts": 6,
-     "reb": 3,
-     "ast": 3,
-     "stl": 1,
-     "blk": 0,
-     "to": 3,
-     "fg": "2/12",
-     "tp": "2/10",
-     "ft": "0/0",
-     "pm": -9,
-     "eff": 0,
-     "ts": 25.0
-    }
-   ]
-  },
-  {
    "id": "plzen/jiri-paidar",
    "name": "Jiří Paidar",
    "team": "plzen",
@@ -9422,108 +10198,108 @@
    "teamLabel": "Plzeň",
    "shirt": "6",
    "pos": "",
-   "gp": 6,
-   "gs": 2,
-   "min": 115.6,
+   "gp": 7,
+   "gs": 3,
+   "min": 141.9,
    "totals": {
-    "pts": 46,
-    "fgm": 12,
-    "fga": 39,
+    "pts": 48,
+    "fgm": 13,
+    "fga": 44,
     "tpm": 9,
-    "tpa": 27,
-    "twopm": 3,
-    "twopa": 12,
+    "tpa": 30,
+    "twopm": 4,
+    "twopa": 14,
     "ftm": 13,
     "fta": 18,
     "oreb": 4,
-    "dreb": 4,
-    "reb": 8,
-    "ast": 12,
-    "to": 12,
+    "dreb": 6,
+    "reb": 10,
+    "ast": 17,
+    "to": 16,
     "stl": 2,
     "blk": 0,
     "blkr": 1,
-    "pf": 10,
-    "foulon": 21,
-    "pm": -45,
+    "pf": 13,
+    "foulon": 23,
+    "pm": -40,
     "paint": 6,
     "fast": 6,
     "second": 8
    },
    "perGame": {
-    "pts": 7.7,
-    "fgm": 2.0,
-    "fga": 6.5,
-    "tpm": 1.5,
-    "tpa": 4.5,
-    "twopm": 0.5,
+    "pts": 6.9,
+    "fgm": 1.9,
+    "fga": 6.3,
+    "tpm": 1.3,
+    "tpa": 4.3,
+    "twopm": 0.6,
     "twopa": 2.0,
-    "ftm": 2.2,
-    "fta": 3.0,
-    "oreb": 0.7,
-    "dreb": 0.7,
-    "reb": 1.3,
-    "ast": 2.0,
-    "to": 2.0,
+    "ftm": 1.9,
+    "fta": 2.6,
+    "oreb": 0.6,
+    "dreb": 0.9,
+    "reb": 1.4,
+    "ast": 2.4,
+    "to": 2.3,
     "stl": 0.3,
     "blk": 0.0,
-    "blkr": 0.2,
-    "pf": 1.7,
-    "foulon": 3.5,
-    "pm": -7.5,
-    "paint": 1.0,
-    "fast": 1.0,
-    "second": 1.3,
-    "min": 19.3,
-    "eff": 4.0,
-    "gmsc": 3.3
+    "blkr": 0.1,
+    "pf": 1.9,
+    "foulon": 3.3,
+    "pm": -5.7,
+    "paint": 0.9,
+    "fast": 0.9,
+    "second": 1.1,
+    "min": 20.3,
+    "eff": 3.6,
+    "gmsc": 2.5
    },
    "per40": {
-    "pts": 15.9,
+    "pts": 13.5,
     "reb": 2.8,
-    "ast": 4.2,
-    "stl": 0.7,
+    "ast": 4.8,
+    "stl": 0.6,
     "blk": 0.0,
-    "to": 4.2
+    "to": 4.5
    },
-   "ts": 49.0,
-   "efg": 42.3,
-   "fg": 30.8,
-   "two": 25.0,
-   "three": 33.3,
+   "ts": 46.2,
+   "efg": 39.8,
+   "fg": 29.5,
+   "two": 28.6,
+   "three": 30.0,
    "ft": 72.2,
-   "usg": 21.2,
-   "astTo": 1.0,
-   "pm": -45,
-   "pm40": -15.6,
+   "usg": 19.8,
+   "astTo": 1.06,
+   "pm": -40,
+   "pm40": -11.3,
    "on": {
-    "min": 115.6,
-    "pf": 236,
-    "pa": 281,
-    "ortg": 103.7,
-    "drtg": 121.2,
-    "net": -17.6
+    "min": 141.9,
+    "pf": 287,
+    "pa": 327,
+    "ortg": 102.9,
+    "drtg": 115.4,
+    "net": -12.5
    },
    "off": {
-    "min": 124.4,
-    "ortg": 88.8,
-    "drtg": 112.7,
-    "net": -23.9
+    "min": 138.1,
+    "ortg": 90.8,
+    "drtg": 111.4,
+    "net": -20.5
    },
-   "onOff": 6.3,
+   "onOff": 8.0,
    "dd": 0,
    "td": 0,
    "high": 15,
    "zones": {
     "paint": {
      "m": 3,
-     "a": 12,
-     "pct": 25.0
+     "a": 13,
+     "pct": 23.1
     },
     "mid": {
-     "m": 0,
-     "a": 0,
-     "pct": null
+     "m": 1,
+     "a": 1,
+     "pct": 100.0
     },
     "corner3": {
      "m": 2,
@@ -9532,8 +10308,8 @@
     },
     "above3": {
      "m": 7,
-     "a": 24,
-     "pct": 29.2
+     "a": 27,
+     "pct": 25.9
     }
    },
    "log": [
@@ -9656,6 +10432,26 @@
      "pm": -11,
      "eff": -4,
      "ts": 11.4
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 26.3,
+     "pts": 2,
+     "reb": 2,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "to": 4,
+     "fg": "1/5",
+     "tp": "0/3",
+     "ft": "0/0",
+     "pm": 5,
+     "eff": 1,
+     "ts": 20.0
     }
    ]
   },
@@ -9667,108 +10463,108 @@
    "teamLabel": "Plzeň",
    "shirt": "30",
    "pos": "",
-   "gp": 6,
-   "gs": 3,
-   "min": 137.0,
+   "gp": 7,
+   "gs": 4,
+   "min": 164.1,
    "totals": {
-    "pts": 35,
-    "fgm": 14,
-    "fga": 38,
+    "pts": 40,
+    "fgm": 16,
+    "fga": 44,
     "tpm": 1,
-    "tpa": 11,
-    "twopm": 13,
-    "twopa": 27,
-    "ftm": 6,
-    "fta": 12,
-    "oreb": 16,
-    "dreb": 25,
-    "reb": 41,
-    "ast": 5,
-    "to": 9,
+    "tpa": 12,
+    "twopm": 15,
+    "twopa": 32,
+    "ftm": 7,
+    "fta": 14,
+    "oreb": 21,
+    "dreb": 32,
+    "reb": 53,
+    "ast": 8,
+    "to": 10,
     "stl": 5,
     "blk": 1,
     "blkr": 0,
-    "pf": 25,
-    "foulon": 10,
+    "pf": 28,
+    "foulon": 12,
     "pm": -50,
-    "paint": 24,
+    "paint": 28,
     "fast": 6,
-    "second": 6
+    "second": 7
    },
    "perGame": {
-    "pts": 5.8,
+    "pts": 5.7,
     "fgm": 2.3,
     "fga": 6.3,
-    "tpm": 0.2,
-    "tpa": 1.8,
-    "twopm": 2.2,
-    "twopa": 4.5,
+    "tpm": 0.1,
+    "tpa": 1.7,
+    "twopm": 2.1,
+    "twopa": 4.6,
     "ftm": 1.0,
     "fta": 2.0,
-    "oreb": 2.7,
-    "dreb": 4.2,
-    "reb": 6.8,
-    "ast": 0.8,
-    "to": 1.5,
-    "stl": 0.8,
-    "blk": 0.2,
+    "oreb": 3.0,
+    "dreb": 4.6,
+    "reb": 7.6,
+    "ast": 1.1,
+    "to": 1.4,
+    "stl": 0.7,
+    "blk": 0.1,
     "blkr": 0.0,
-    "pf": 4.2,
+    "pf": 4.0,
     "foulon": 1.7,
-    "pm": -8.3,
+    "pm": -7.1,
     "paint": 4.0,
-    "fast": 1.0,
+    "fast": 0.9,
     "second": 1.0,
-    "min": 22.8,
-    "eff": 8.0,
-    "gmsc": 3.4
+    "min": 23.4,
+    "eff": 8.9,
+    "gmsc": 3.9
    },
    "per40": {
-    "pts": 10.2,
-    "reb": 12.0,
-    "ast": 1.5,
-    "stl": 1.5,
-    "blk": 0.3,
-    "to": 2.6
+    "pts": 9.8,
+    "reb": 12.9,
+    "ast": 2.0,
+    "stl": 1.2,
+    "blk": 0.2,
+    "to": 2.4
    },
-   "ts": 40.4,
-   "efg": 38.2,
-   "fg": 36.8,
-   "two": 48.1,
-   "three": 9.1,
+   "ts": 39.9,
+   "efg": 37.5,
+   "fg": 36.4,
+   "two": 46.9,
+   "three": 8.3,
    "ft": 50.0,
-   "usg": 15.8,
-   "astTo": 0.56,
+   "usg": 15.1,
+   "astTo": 0.8,
    "pm": -50,
-   "pm40": -14.6,
+   "pm40": -12.2,
    "on": {
-    "min": 137.0,
-    "pf": 258,
-    "pa": 306,
-    "ortg": 96.1,
-    "drtg": 112.7,
-    "net": -16.6
+    "min": 164.1,
+    "pf": 309,
+    "pa": 357,
+    "ortg": 96.5,
+    "drtg": 109.7,
+    "net": -13.2
    },
    "off": {
-    "min": 103.0,
-    "ortg": 95.3,
-    "drtg": 121.7,
-    "net": -26.4
+    "min": 115.9,
+    "ortg": 97.2,
+    "drtg": 118.4,
+    "net": -21.2
    },
-   "onOff": 9.8,
+   "onOff": 8.0,
    "dd": 0,
    "td": 0,
    "high": 8,
    "zones": {
     "paint": {
-     "m": 11,
-     "a": 25,
-     "pct": 44.0
+     "m": 13,
+     "a": 29,
+     "pct": 44.8
     },
     "mid": {
      "m": 2,
-     "a": 2,
-     "pct": 100.0
+     "a": 3,
+     "pct": 66.7
     },
     "corner3": {
      "m": 0,
@@ -9777,8 +10573,8 @@
     },
     "above3": {
      "m": 1,
-     "a": 10,
-     "pct": 10.0
+     "a": 11,
+     "pct": 9.1
     }
    },
    "log": [
@@ -9901,6 +10697,26 @@
      "pm": -9,
      "eff": 8,
      "ts": 42.9
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 27.1,
+     "pts": 5,
+     "reb": 12,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/6",
+     "tp": "0/1",
+     "ft": "1/2",
+     "pm": 0,
+     "eff": 14,
+     "ts": 36.3
     }
    ]
   },
@@ -9912,103 +10728,103 @@
    "teamLabel": "Plzeň",
    "shirt": "12",
    "pos": "",
-   "gp": 6,
+   "gp": 7,
    "gs": 3,
-   "min": 80.0,
+   "min": 92.6,
    "totals": {
-    "pts": 33,
-    "fgm": 9,
-    "fga": 16,
+    "pts": 38,
+    "fgm": 10,
+    "fga": 19,
     "tpm": 0,
     "tpa": 0,
-    "twopm": 9,
-    "twopa": 16,
-    "ftm": 15,
-    "fta": 23,
-    "oreb": 16,
-    "dreb": 15,
-    "reb": 31,
+    "twopm": 10,
+    "twopa": 19,
+    "ftm": 18,
+    "fta": 26,
+    "oreb": 18,
+    "dreb": 17,
+    "reb": 35,
     "ast": 2,
     "to": 9,
     "stl": 7,
-    "blk": 0,
-    "blkr": 1,
-    "pf": 12,
-    "foulon": 15,
-    "pm": -42,
-    "paint": 16,
+    "blk": 1,
+    "blkr": 2,
+    "pf": 16,
+    "foulon": 17,
+    "pm": -34,
+    "paint": 18,
     "fast": 3,
     "second": 9
    },
    "perGame": {
-    "pts": 5.5,
-    "fgm": 1.5,
+    "pts": 5.4,
+    "fgm": 1.4,
     "fga": 2.7,
     "tpm": 0.0,
     "tpa": 0.0,
-    "twopm": 1.5,
+    "twopm": 1.4,
     "twopa": 2.7,
-    "ftm": 2.5,
-    "fta": 3.8,
-    "oreb": 2.7,
-    "dreb": 2.5,
-    "reb": 5.2,
+    "ftm": 2.6,
+    "fta": 3.7,
+    "oreb": 2.6,
+    "dreb": 2.4,
+    "reb": 5.0,
     "ast": 0.3,
-    "to": 1.5,
-    "stl": 1.2,
-    "blk": 0.0,
-    "blkr": 0.2,
-    "pf": 2.0,
-    "foulon": 2.5,
-    "pm": -7.0,
-    "paint": 2.7,
-    "fast": 0.5,
-    "second": 1.5,
-    "min": 13.3,
-    "eff": 8.2,
-    "gmsc": 5.4
+    "to": 1.3,
+    "stl": 1.0,
+    "blk": 0.1,
+    "blkr": 0.3,
+    "pf": 2.3,
+    "foulon": 2.4,
+    "pm": -4.9,
+    "paint": 2.6,
+    "fast": 0.4,
+    "second": 1.3,
+    "min": 13.2,
+    "eff": 8.1,
+    "gmsc": 5.3
    },
    "per40": {
-    "pts": 16.5,
-    "reb": 15.5,
-    "ast": 1.0,
-    "stl": 3.5,
-    "blk": 0.0,
-    "to": 4.5
+    "pts": 16.4,
+    "reb": 15.1,
+    "ast": 0.9,
+    "stl": 3.0,
+    "blk": 0.4,
+    "to": 3.9
    },
-   "ts": 63.2,
-   "efg": 56.2,
-   "fg": 56.2,
-   "two": 56.2,
+   "ts": 62.4,
+   "efg": 52.6,
+   "fg": 52.6,
+   "two": 52.6,
    "three": null,
-   "ft": 65.2,
-   "usg": 18.2,
+   "ft": 69.2,
+   "usg": 17.6,
    "astTo": 0.22,
-   "pm": -42,
-   "pm40": -21.0,
+   "pm": -34,
+   "pm40": -14.7,
    "on": {
-    "min": 80.0,
-    "pf": 165,
-    "pa": 207,
-    "ortg": 96.4,
-    "drtg": 121.3,
-    "net": -24.9
+    "min": 92.6,
+    "pf": 194,
+    "pa": 228,
+    "ortg": 99.1,
+    "drtg": 117.9,
+    "net": -18.8
    },
    "off": {
-    "min": 160.0,
-    "ortg": 95.4,
-    "drtg": 114.3,
-    "net": -18.9
+    "min": 187.4,
+    "ortg": 95.6,
+    "drtg": 111.1,
+    "net": -15.5
    },
-   "onOff": -6.0,
+   "onOff": -3.3,
    "dd": 0,
    "td": 0,
    "high": 12,
    "zones": {
     "paint": {
-     "m": 8,
-     "a": 13,
-     "pct": 61.5
+     "m": 9,
+     "a": 16,
+     "pct": 56.2
     },
     "mid": {
      "m": 1,
@@ -10146,6 +10962,26 @@
      "pm": -5,
      "eff": 14,
      "ts": 78.1
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 12.6,
+     "pts": 5,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 0,
+     "fg": "1/3",
+     "tp": "0/0",
+     "ft": "3/3",
+     "pm": 8,
+     "eff": 8,
+     "ts": 57.9
     }
    ]
   },
@@ -10157,95 +10993,95 @@
    "teamLabel": "Plzeň",
    "shirt": "16",
    "pos": "",
-   "gp": 6,
+   "gp": 7,
    "gs": 0,
-   "min": 84.5,
+   "min": 89.8,
    "totals": {
-    "pts": 32,
+    "pts": 34,
     "fgm": 11,
     "fga": 30,
     "tpm": 5,
     "tpa": 11,
     "twopm": 6,
     "twopa": 19,
-    "ftm": 5,
-    "fta": 9,
-    "oreb": 3,
+    "ftm": 7,
+    "fta": 11,
+    "oreb": 5,
     "dreb": 7,
-    "reb": 10,
+    "reb": 12,
     "ast": 2,
-    "to": 6,
+    "to": 7,
     "stl": 3,
     "blk": 0,
     "blkr": 2,
     "pf": 19,
-    "foulon": 6,
-    "pm": -17,
+    "foulon": 7,
+    "pm": -20,
     "paint": 12,
     "fast": 1,
-    "second": 6
+    "second": 8
    },
    "perGame": {
-    "pts": 5.3,
-    "fgm": 1.8,
-    "fga": 5.0,
-    "tpm": 0.8,
-    "tpa": 1.8,
-    "twopm": 1.0,
-    "twopa": 3.2,
-    "ftm": 0.8,
-    "fta": 1.5,
-    "oreb": 0.5,
-    "dreb": 1.2,
+    "pts": 4.9,
+    "fgm": 1.6,
+    "fga": 4.3,
+    "tpm": 0.7,
+    "tpa": 1.6,
+    "twopm": 0.9,
+    "twopa": 2.7,
+    "ftm": 1.0,
+    "fta": 1.6,
+    "oreb": 0.7,
+    "dreb": 1.0,
     "reb": 1.7,
     "ast": 0.3,
     "to": 1.0,
-    "stl": 0.5,
+    "stl": 0.4,
     "blk": 0.0,
     "blkr": 0.3,
-    "pf": 3.2,
+    "pf": 2.7,
     "foulon": 1.0,
-    "pm": -2.8,
-    "paint": 2.0,
-    "fast": 0.2,
-    "second": 1.0,
-    "min": 14.1,
+    "pm": -2.9,
+    "paint": 1.7,
+    "fast": 0.1,
+    "second": 1.1,
+    "min": 12.8,
     "eff": 3.0,
-    "gmsc": 1.5
+    "gmsc": 1.6
    },
    "per40": {
     "pts": 15.1,
-    "reb": 4.7,
+    "reb": 5.3,
     "ast": 0.9,
-    "stl": 1.4,
+    "stl": 1.3,
     "blk": 0.0,
-    "to": 2.8
+    "to": 3.1
    },
-   "ts": 47.1,
+   "ts": 48.8,
    "efg": 45.0,
    "fg": 36.7,
    "two": 31.6,
    "three": 45.5,
-   "ft": 55.6,
-   "usg": 19.5,
-   "astTo": 0.33,
-   "pm": -17,
-   "pm40": -8.0,
+   "ft": 63.6,
+   "usg": 19.2,
+   "astTo": 0.29,
+   "pm": -20,
+   "pm40": -8.9,
    "on": {
-    "min": 84.4,
-    "pf": 174,
-    "pa": 191,
-    "ortg": 97.3,
-    "drtg": 106.9,
-    "net": -9.6
+    "min": 89.7,
+    "pf": 181,
+    "pa": 201,
+    "ortg": 95.1,
+    "drtg": 105.5,
+    "net": -10.5
    },
    "off": {
-    "min": 155.6,
-    "ortg": 94.8,
-    "drtg": 122.4,
-    "net": -27.5
+    "min": 190.3,
+    "ortg": 97.7,
+    "drtg": 117.4,
+    "net": -19.7
    },
-   "onOff": 17.9,
+   "onOff": 9.2,
    "dd": 0,
    "td": 0,
    "high": 9,
@@ -10391,6 +11227,26 @@
      "pm": 5,
      "eff": 6,
      "ts": 50.0
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 5.3,
+     "pts": 2,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "2/2",
+     "pm": -3,
+     "eff": 3,
+     "ts": 113.6
     }
    ]
   },
@@ -10587,9 +11443,9 @@
    "teamLabel": "Plzeň",
    "shirt": "2",
    "pos": "",
-   "gp": 5,
+   "gp": 6,
    "gs": 0,
-   "min": 39.9,
+   "min": 46.9,
    "totals": {
     "pts": 8,
     "fgm": 3,
@@ -10603,53 +11459,53 @@
     "oreb": 3,
     "dreb": 2,
     "reb": 5,
-    "ast": 9,
+    "ast": 10,
     "to": 4,
     "stl": 2,
     "blk": 0,
     "blkr": 2,
-    "pf": 7,
+    "pf": 8,
     "foulon": 6,
-    "pm": -10,
+    "pm": -6,
     "paint": 4,
     "fast": 0,
     "second": 0
    },
    "perGame": {
-    "pts": 1.6,
-    "fgm": 0.6,
-    "fga": 1.8,
+    "pts": 1.3,
+    "fgm": 0.5,
+    "fga": 1.5,
     "tpm": 0.2,
-    "tpa": 0.4,
-    "twopm": 0.4,
-    "twopa": 1.4,
+    "tpa": 0.3,
+    "twopm": 0.3,
+    "twopa": 1.2,
     "ftm": 0.2,
-    "fta": 0.8,
-    "oreb": 0.6,
-    "dreb": 0.4,
-    "reb": 1.0,
-    "ast": 1.8,
-    "to": 0.8,
-    "stl": 0.4,
+    "fta": 0.7,
+    "oreb": 0.5,
+    "dreb": 0.3,
+    "reb": 0.8,
+    "ast": 1.7,
+    "to": 0.7,
+    "stl": 0.3,
     "blk": 0.0,
-    "blkr": 0.4,
-    "pf": 1.4,
-    "foulon": 1.2,
-    "pm": -2.0,
-    "paint": 0.8,
+    "blkr": 0.3,
+    "pf": 1.3,
+    "foulon": 1.0,
+    "pm": -1.0,
+    "paint": 0.7,
     "fast": 0.0,
     "second": 0.0,
-    "min": 8.0,
-    "eff": 2.2,
-    "gmsc": 1.2
+    "min": 7.8,
+    "eff": 2.0,
+    "gmsc": 1.0
    },
    "per40": {
-    "pts": 8.0,
-    "reb": 5.0,
-    "ast": 9.0,
-    "stl": 2.0,
+    "pts": 6.8,
+    "reb": 4.3,
+    "ast": 8.5,
+    "stl": 1.7,
     "blk": 0.0,
-    "to": 4.0
+    "to": 3.4
    },
    "ts": 37.2,
    "efg": 38.9,
@@ -10657,25 +11513,25 @@
    "two": 28.6,
    "three": 50.0,
    "ft": 25.0,
-   "usg": 15.4,
-   "astTo": 2.25,
-   "pm": -10,
-   "pm40": -10.0,
+   "usg": 13.1,
+   "astTo": 2.5,
+   "pm": -6,
+   "pm40": -5.1,
    "on": {
-    "min": 39.8,
-    "pf": 83,
-    "pa": 93,
-    "ortg": 98.2,
-    "drtg": 121.5,
-    "net": -23.3
+    "min": 46.8,
+    "pf": 98,
+    "pa": 104,
+    "ortg": 100.7,
+    "drtg": 116.4,
+    "net": -15.7
    },
    "off": {
-    "min": 160.2,
-    "ortg": 93.6,
-    "drtg": 117.8,
-    "net": -24.3
+    "min": 193.2,
+    "ortg": 94.8,
+    "drtg": 113.9,
+    "net": -19.1
    },
-   "onOff": 1.0,
+   "onOff": 3.4,
    "dd": 0,
    "td": 0,
    "high": 5,
@@ -10801,6 +11657,26 @@
      "pm": 1,
      "eff": 3,
      "ts": 38.7
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 7.0,
+     "pts": 0,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 4,
+     "eff": 1,
+     "ts": null
     }
    ]
   },
@@ -10812,9 +11688,9 @@
    "teamLabel": "Plzeň",
    "shirt": "7",
    "pos": "",
-   "gp": 4,
+   "gp": 5,
    "gs": 2,
-   "min": 26.6,
+   "min": 28.4,
    "totals": {
     "pts": 6,
     "fgm": 2,
@@ -10835,17 +11711,17 @@
     "blkr": 0,
     "pf": 2,
     "foulon": 1,
-    "pm": -15,
+    "pm": -10,
     "paint": 0,
     "fast": 3,
     "second": 0
    },
    "perGame": {
-    "pts": 1.5,
-    "fgm": 0.5,
-    "fga": 2.0,
-    "tpm": 0.5,
-    "tpa": 2.0,
+    "pts": 1.2,
+    "fgm": 0.4,
+    "fga": 1.6,
+    "tpm": 0.4,
+    "tpa": 1.6,
     "twopm": 0.0,
     "twopa": 0.0,
     "ftm": 0.0,
@@ -10858,23 +11734,23 @@
     "stl": 0.2,
     "blk": 0.0,
     "blkr": 0.0,
-    "pf": 0.5,
+    "pf": 0.4,
     "foulon": 0.2,
-    "pm": -3.8,
+    "pm": -2.0,
     "paint": 0.0,
-    "fast": 0.8,
+    "fast": 0.6,
     "second": 0.0,
-    "min": 6.7,
-    "eff": 0.5,
+    "min": 5.7,
+    "eff": 0.4,
     "gmsc": 0.3
    },
    "per40": {
-    "pts": 9.0,
-    "reb": 1.5,
-    "ast": 1.5,
-    "stl": 1.5,
+    "pts": 8.5,
+    "reb": 1.4,
+    "ast": 1.4,
+    "stl": 1.4,
     "blk": 0.0,
-    "to": 1.5
+    "to": 1.4
    },
    "ts": 37.5,
    "efg": 37.5,
@@ -10882,25 +11758,25 @@
    "two": null,
    "three": 25.0,
    "ft": null,
-   "usg": 13.9,
+   "usg": 13.0,
    "astTo": 1.0,
-   "pm": -15,
-   "pm40": -22.6,
+   "pm": -10,
+   "pm40": -14.1,
    "on": {
-    "min": 26.5,
-    "pf": 47,
-    "pa": 62,
-    "ortg": 83.2,
-    "drtg": 107.7,
-    "net": -24.6
+    "min": 28.4,
+    "pf": 55,
+    "pa": 65,
+    "ortg": 89.8,
+    "drtg": 105.6,
+    "net": -15.8
    },
    "off": {
-    "min": 133.5,
-    "ortg": 93.2,
-    "drtg": 122.2,
-    "net": -29.0
+    "min": 171.6,
+    "ortg": 94.4,
+    "drtg": 116.1,
+    "net": -21.7
    },
-   "onOff": 4.4,
+   "onOff": 5.9,
    "dd": 0,
    "td": 0,
    "high": 3,
@@ -11006,6 +11882,26 @@
      "pm": 3,
      "eff": 2,
      "ts": 75.0
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 1.8,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 5,
+     "eff": 0,
+     "ts": null
     }
    ]
   },
@@ -11017,9 +11913,9 @@
    "teamLabel": "Plzeň",
    "shirt": "55",
    "pos": "",
-   "gp": 6,
+   "gp": 7,
    "gs": 1,
-   "min": 41.3,
+   "min": 44.4,
    "totals": {
     "pts": 2,
     "fgm": 0,
@@ -11038,9 +11934,9 @@
     "stl": 1,
     "blk": 0,
     "blkr": 0,
-    "pf": 2,
+    "pf": 3,
     "foulon": 1,
-    "pm": -58,
+    "pm": -57,
     "paint": 0,
     "fast": 2,
     "second": 0
@@ -11048,38 +11944,38 @@
    "perGame": {
     "pts": 0.3,
     "fgm": 0.0,
-    "fga": 1.7,
+    "fga": 1.4,
     "tpm": 0.0,
-    "tpa": 1.2,
+    "tpa": 1.0,
     "twopm": 0.0,
-    "twopa": 0.5,
+    "twopa": 0.4,
     "ftm": 0.3,
     "fta": 0.3,
-    "oreb": 0.8,
-    "dreb": 0.8,
-    "reb": 1.7,
+    "oreb": 0.7,
+    "dreb": 0.7,
+    "reb": 1.4,
     "ast": 0.3,
-    "to": 0.7,
-    "stl": 0.2,
+    "to": 0.6,
+    "stl": 0.1,
     "blk": 0.0,
     "blkr": 0.0,
-    "pf": 0.3,
-    "foulon": 0.2,
-    "pm": -9.7,
+    "pf": 0.4,
+    "foulon": 0.1,
+    "pm": -8.1,
     "paint": 0.0,
     "fast": 0.3,
     "second": 0.0,
-    "min": 6.9,
-    "eff": 0.2,
+    "min": 6.3,
+    "eff": 0.1,
     "gmsc": -0.4
    },
    "per40": {
-    "pts": 1.9,
-    "reb": 9.7,
-    "ast": 1.9,
-    "stl": 1.0,
+    "pts": 1.8,
+    "reb": 9.0,
+    "ast": 1.8,
+    "stl": 0.9,
     "blk": 0.0,
-    "to": 3.9
+    "to": 3.6
    },
    "ts": 9.2,
    "efg": 0.0,
@@ -11087,25 +11983,25 @@
    "two": 0.0,
    "three": 0.0,
    "ft": 100.0,
-   "usg": 14.7,
+   "usg": 13.7,
    "astTo": 0.5,
-   "pm": -58,
-   "pm40": -56.2,
+   "pm": -57,
+   "pm40": -51.4,
    "on": {
-    "min": 41.4,
-    "pf": 57,
-    "pa": 115,
-    "ortg": 66.7,
-    "drtg": 134.8,
-    "net": -68.1
+    "min": 44.6,
+    "pf": 67,
+    "pa": 124,
+    "ortg": 72.6,
+    "drtg": 136.1,
+    "net": -63.5
    },
    "off": {
-    "min": 198.6,
-    "ortg": 101.9,
-    "drtg": 112.9,
-    "net": -11.0
+    "min": 235.4,
+    "ortg": 101.5,
+    "drtg": 109.1,
+    "net": -7.5
    },
-   "onOff": -57.1,
+   "onOff": -56.0,
    "dd": 0,
    "td": 0,
    "high": 2,
@@ -11250,6 +12146,26 @@
      "ft": "0/0",
      "pm": -7,
      "eff": 1,
+     "ts": null
+    },
+    {
+     "fibaId": 2909042,
+     "date": "2026-10-16",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 3.1,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 1,
+     "eff": 0,
      "ts": null
     }
    ]
@@ -11536,8 +12452,11 @@
    "away": "BK Loko BaliMania Plzeň",
    "homeSlug": "olomoucko",
    "awaySlug": "plzen",
-   "status": "scheduled",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 72,
+    "away": 81
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544584",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2909042/",

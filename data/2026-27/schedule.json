@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-16T07:14:17+00:00",
+ "generatedAt": "2026-10-16T10:11:42+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 36,
-  "scheduled": 95,
+  "final": 37,
+  "scheduled": 94,
   "withFiba": 68
  },
  "teams": {
@@ -1718,7 +1718,10 @@
    "time": "10:00",
    "home": "BK Olomoucko",
    "away": "BK Loko BaliMania Plzeň",
-   "score": null,
+   "score": {
+    "home": 72,
+    "away": 81
+   },
    "quarters": null,
    "roundNum": 7,
    "date": "2026-10-16",
@@ -1726,14 +1729,14 @@
    "awaySlug": "plzen",
    "homeLabel": "Olomoucko",
    "awayLabel": "Plzeň",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544584",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2909042/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2909042/data.json",
     "stats": "matches/2909042.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544586,
