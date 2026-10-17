@@ -1,10 +1,10 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-17T18:32:03+00:00",
+ "generatedAt": "2026-10-17T19:05:57+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 39,
+  "final": 41,
   "scheduled": 90,
   "withFiba": 68
  },
@@ -1805,7 +1805,10 @@
    "time": "19:00",
    "home": "BK Opava",
    "away": "Sršni Photomate Písek",
-   "score": null,
+   "score": {
+    "home": 77,
+    "away": 88
+   },
    "quarters": null,
    "roundNum": 7,
    "date": "2026-10-17",
@@ -1813,14 +1816,14 @@
    "awaySlug": "pisek",
    "homeLabel": "Opava",
    "awayLabel": "Písek",
-   "status": "live",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544582",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2910248/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2910248/data.json",
     "stats": "matches/2910248.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544585,
@@ -1831,7 +1834,10 @@
    "time": "19:00",
    "home": "BK GAPA Hradec Králové",
    "away": "SLUNETA Ústí nad Labem",
-   "score": null,
+   "score": {
+    "home": 95,
+    "away": 111
+   },
    "quarters": null,
    "roundNum": 7,
    "date": "2026-10-17",
@@ -1839,14 +1845,14 @@
    "awaySlug": "usti",
    "homeLabel": "Hradec",
    "awayLabel": "Ústí",
-   "status": "live",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544585",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2910249/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2910249/data.json",
     "stats": "matches/2910249.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544583,

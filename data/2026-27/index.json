@@ -1,9 +1,9 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-17T18:32:03+00:00",
+ "generatedAt": "2026-10-17T19:05:57+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 39,
+  "final": 41,
   "teams": 12,
   "players": 159
  },
@@ -530,6 +530,28 @@
    "score": [
     91,
     79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2910248,
+   "date": "2026-10-17",
+   "home": "opava",
+   "away": "pisek",
+   "score": [
+    77,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2910249,
+   "date": "2026-10-17",
+   "home": "hradec",
+   "away": "usti",
+   "score": [
+    95,
+    111
    ],
    "status": "final"
   }
