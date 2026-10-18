@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-18T15:54:30+00:00",
+ "generatedAt": "2026-10-18T18:17:17+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 41,
-  "scheduled": 90,
+  "final": 42,
+  "scheduled": 89,
   "withFiba": 68
  },
  "teams": {
@@ -1863,7 +1863,10 @@
    "time": "18:00",
    "home": "PUMPA Basket Brno",
    "away": "USK Praha",
-   "score": null,
+   "score": {
+    "home": 91,
+    "away": 80
+   },
    "quarters": null,
    "roundNum": 7,
    "date": "2026-10-18",
@@ -1871,14 +1874,14 @@
    "awaySlug": "usk",
    "homeLabel": "Brno",
    "awayLabel": "USK",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544583",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2910404/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2910404/data.json",
     "stats": "matches/2910404.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544588,
