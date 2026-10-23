@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-23T13:29:43+00:00",
+ "generatedAt": "2026-10-23T18:12:21+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 42,
+  "final": 43,
   "teams": 12,
-  "players": 161
+  "players": 162
  },
  "teams": [
   {
@@ -563,6 +563,17 @@
    "score": [
     91,
     80
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2921929,
+   "date": "2026-10-23",
+   "home": "pisek",
+   "away": "slavia",
+   "score": [
+    81,
+    89
    ],
    "status": "final"
   }

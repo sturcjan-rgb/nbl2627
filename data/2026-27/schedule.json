@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-23T13:29:43+00:00",
+ "generatedAt": "2026-10-23T18:12:21+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 42,
-  "scheduled": 89,
+  "final": 43,
+  "scheduled": 88,
   "withFiba": 68
  },
  "teams": {
@@ -1892,7 +1892,10 @@
    "time": "18:00",
    "home": "Sršni Photomate Písek",
    "away": "SK Slavia Praha ERA NBK",
-   "score": null,
+   "score": {
+    "home": 81,
+    "away": 89
+   },
    "quarters": null,
    "roundNum": 8,
    "date": "2026-10-23",
@@ -1900,14 +1903,14 @@
    "awaySlug": "slavia",
    "homeLabel": "Písek",
    "awayLabel": "Slavia",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544588",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2921929/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2921929/data.json",
     "stats": "matches/2921929.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544592,
