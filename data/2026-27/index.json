@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-24T15:59:47+00:00",
+ "generatedAt": "2026-10-24T18:02:48+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 43,
+  "final": 46,
   "teams": 12,
-  "players": 162
+  "players": 163
  },
  "teams": [
   {
@@ -23,18 +23,18 @@
    "file": "teams/usti.json"
   },
   {
-   "slug": "pardubice",
-   "name": "BK KVIS Pardubice",
-   "label": "Pardubice",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea863234232dc6cd5da9faaab40b442eS1.png",
-   "file": "teams/pardubice.json"
-  },
-  {
    "slug": "decin",
    "name": "BK ARMEX ENERGY Děčín",
    "label": "Děčín",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/11f2fc2d4d35d0cbc7ffe466f7651ff4S1.png",
    "file": "teams/decin.json"
+  },
+  {
+   "slug": "pardubice",
+   "name": "BK KVIS Pardubice",
+   "label": "Pardubice",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea863234232dc6cd5da9faaab40b442eS1.png",
+   "file": "teams/pardubice.json"
   },
   {
    "slug": "ostrava",
@@ -51,13 +51,6 @@
    "file": "teams/pisek.json"
   },
   {
-   "slug": "opava",
-   "name": "BK Opava",
-   "label": "Opava",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
-   "file": "teams/opava.json"
-  },
-  {
    "slug": "brno",
    "name": "PUMPA Basket Brno",
    "label": "Brno",
@@ -65,11 +58,11 @@
    "file": "teams/brno.json"
   },
   {
-   "slug": "hradec",
-   "name": "BK GAPA Hradec Králové",
-   "label": "Hradec",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
-   "file": "teams/hradec.json"
+   "slug": "opava",
+   "name": "BK Opava",
+   "label": "Opava",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
+   "file": "teams/opava.json"
   },
   {
    "slug": "usk",
@@ -77,6 +70,13 @@
    "label": "USK",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
    "file": "teams/usk.json"
+  },
+  {
+   "slug": "hradec",
+   "name": "BK GAPA Hradec Králové",
+   "label": "Hradec",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
+   "file": "teams/hradec.json"
   },
   {
    "slug": "plzen",
@@ -574,6 +574,39 @@
    "score": [
     81,
     89
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2922250,
+   "date": "2026-10-24",
+   "home": "usk",
+   "away": "olomoucko",
+   "score": [
+    85,
+    61
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2922249,
+   "date": "2026-10-24",
+   "home": "decin",
+   "away": "ostrava",
+   "score": [
+    87,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2922251,
+   "date": "2026-10-24",
+   "home": "opava",
+   "away": "brno",
+   "score": [
+    72,
+    75
    ],
    "status": "final"
   }
