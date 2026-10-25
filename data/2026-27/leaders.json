@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-25T16:27:39+00:00",
+ "generatedAt": "2026-10-25T19:03:26+00:00",
  "minGames": 4,
  "pts": {
   "label": "Body na zápas",
@@ -10,8 +10,8 @@
     "name": "Jaborri Mcghee",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 23.4
+    "gp": 8,
+    "value": 22.0
    },
    {
     "id": "pisek/martin-svoboda",
@@ -42,8 +42,8 @@
     "name": "Robert Lee Bonham",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 19.1
+    "gp": 9,
+    "value": 17.9
    },
    {
     "id": "decin/erik-timko",
@@ -78,20 +78,12 @@
     "value": 15.7
    },
    {
-    "id": "plzen/troy-thomas-damico",
-    "name": "Troy Thomas Dˇamico",
-    "team": "plzen",
-    "teamLabel": "Plzeň",
-    "gp": 7,
-    "value": 15.6
-   },
-   {
     "id": "usti/rhyjon-blackwell",
     "name": "Rhyjon Blackwell",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 15.6
+    "gp": 8,
+    "value": 15.5
    },
    {
     "id": "opava/matej-svoboda",
@@ -116,6 +108,14 @@
     "teamLabel": "Hradec",
     "gp": 7,
     "value": 14.9
+   },
+   {
+    "id": "plzen/troy-thomas-damico",
+    "name": "Troy Thomas Dˇamico",
+    "team": "plzen",
+    "teamLabel": "Plzeň",
+    "gp": 8,
+    "value": 14.8
    },
    {
     "id": "usk/michael-christmas",
@@ -151,7 +151,7 @@
     "name": "Jakub Kojzar",
     "team": "plzen",
     "teamLabel": "Plzeň",
-    "gp": 7,
+    "gp": 8,
     "value": 7.6
    },
    {
@@ -187,11 +187,11 @@
     "value": 6.9
    },
    {
-    "id": "plzen/damon-edward-nicholas-jr",
-    "name": "Damon Edward Nicholas Jr",
-    "team": "plzen",
-    "teamLabel": "Plzeň",
-    "gp": 5,
+    "id": "pardubice/zed-jackson-key",
+    "name": "Zed Jackson Key",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
     "value": 6.8
    },
    {
@@ -203,11 +203,11 @@
     "value": 6.8
    },
    {
-    "id": "usti/ladislav-pecka",
-    "name": "Ladislav Pecka",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
+    "id": "plzen/damon-edward-nicholas-jr",
+    "name": "Damon Edward Nicholas Jr",
+    "team": "plzen",
+    "teamLabel": "Plzeň",
+    "gp": 6,
     "value": 6.7
    },
    {
@@ -219,10 +219,10 @@
     "value": 6.5
    },
    {
-    "id": "pardubice/zed-jackson-key",
-    "name": "Zed Jackson Key",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
+    "id": "usti/ladislav-pecka",
+    "name": "Ladislav Pecka",
+    "team": "usti",
+    "teamLabel": "Ústí",
     "gp": 8,
     "value": 6.5
    },
@@ -260,8 +260,8 @@
     "name": "Xavion Brown",
     "team": "hradec",
     "teamLabel": "Hradec",
-    "gp": 4,
-    "value": 7.5
+    "gp": 5,
+    "value": 7.6
    },
    {
     "id": "plzen/michal-svojanovsky",
@@ -292,8 +292,8 @@
     "name": "Robert Lee Bonham",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 5.6
+    "gp": 9,
+    "value": 5.3
    },
    {
     "id": "decin/tomas-vyoral",
@@ -316,7 +316,7 @@
     "name": "Kobe Langley",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
+    "gp": 8,
     "value": 5.1
    },
    {
@@ -385,24 +385,24 @@
     "name": "Jaborri Mcghee",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 2.9
+    "gp": 8,
+    "value": 3.0
    },
    {
     "id": "pardubice/robert-lee-bonham",
     "name": "Robert Lee Bonham",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 2.5
+    "gp": 9,
+    "value": 2.4
    },
    {
     "id": "usti/kobe-langley",
     "name": "Kobe Langley",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 2.3
+    "gp": 8,
+    "value": 2.4
    },
    {
     "id": "olomoucko/lamb-autrey",
@@ -410,14 +410,6 @@
     "team": "olomoucko",
     "teamLabel": "Olomoucko",
     "gp": 6,
-    "value": 2.2
-   },
-   {
-    "id": "hradec/xavion-brown",
-    "name": "Xavion Brown",
-    "team": "hradec",
-    "teamLabel": "Hradec",
-    "gp": 4,
     "value": 2.2
    },
    {
@@ -441,7 +433,15 @@
     "name": "Ryan Everett Moffatt",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
+    "gp": 9,
+    "value": 2.0
+   },
+   {
+    "id": "hradec/xavion-brown",
+    "name": "Xavion Brown",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 5,
     "value": 2.0
    },
    {
@@ -449,8 +449,8 @@
     "name": "Jamonda Roshawn Bryant",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 1.9
+    "gp": 9,
+    "value": 1.8
    },
    {
     "id": "usk/xavier-johnson",
@@ -459,14 +459,6 @@
     "teamLabel": "USK",
     "gp": 6,
     "value": 1.8
-   },
-   {
-    "id": "usti/rhyjon-blackwell",
-    "name": "Rhyjon Blackwell",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 1.7
    },
    {
     "id": "brno/petr-krivanek",
@@ -493,12 +485,20 @@
     "value": 1.5
    },
    {
-    "id": "usk/kenneth-jamar-doucet",
-    "name": "Kenneth Jamar Doucet",
-    "team": "usk",
-    "teamLabel": "USK",
-    "gp": 7,
-    "value": 1.4
+    "id": "hradec/tomas-dvorak",
+    "name": "Tomáš Dvořák",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 8,
+    "value": 1.5
+   },
+   {
+    "id": "usti/rhyjon-blackwell",
+    "name": "Rhyjon Blackwell",
+    "team": "usti",
+    "teamLabel": "Ústí",
+    "gp": 8,
+    "value": 1.5
    }
   ]
  },
@@ -510,8 +510,16 @@
     "name": "Zed Jackson Key",
     "team": "pardubice",
     "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 2.3
+   },
+   {
+    "id": "usti/chayce-polynice",
+    "name": "Chayce Polynice",
+    "team": "usti",
+    "teamLabel": "Ústí",
     "gp": 8,
-    "value": 2.1
+    "value": 1.8
    },
    {
     "id": "olomoucko/immanuel-domonick-bates",
@@ -526,14 +534,6 @@
     "name": "Andre Screen",
     "team": "ostrava",
     "teamLabel": "Ostrava",
-    "gp": 7,
-    "value": 1.6
-   },
-   {
-    "id": "usti/chayce-polynice",
-    "name": "Chayce Polynice",
-    "team": "usti",
-    "teamLabel": "Ústí",
     "gp": 7,
     "value": 1.6
    },
@@ -558,7 +558,7 @@
     "name": "Kamil Švrdlík",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
+    "gp": 9,
     "value": 1.1
    },
    {
@@ -594,11 +594,11 @@
     "value": 0.6
    },
    {
-    "id": "usti/ladislav-pecka",
-    "name": "Ladislav Pecka",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
+    "id": "hradec/xavion-brown",
+    "name": "Xavion Brown",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 5,
     "value": 0.6
    },
    {
@@ -631,20 +631,20 @@
   "label": "Efektivita (EFF) na zápas",
   "rows": [
    {
-    "id": "usti/jaborri-mcghee",
-    "name": "Jaborri Mcghee",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 24.1
-   },
-   {
     "id": "ostrava/andre-screen",
     "name": "Andre Screen",
     "team": "ostrava",
     "teamLabel": "Ostrava",
     "gp": 7,
     "value": 23.4
+   },
+   {
+    "id": "usti/jaborri-mcghee",
+    "name": "Jaborri Mcghee",
+    "team": "usti",
+    "teamLabel": "Ústí",
+    "gp": 8,
+    "value": 22.8
    },
    {
     "id": "pisek/martin-svoboda",
@@ -671,14 +671,6 @@
     "value": 19.3
    },
    {
-    "id": "pardubice/robert-lee-bonham",
-    "name": "Robert Lee Bonham",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 19.1
-   },
-   {
     "id": "olomoucko/lamb-autrey",
     "name": "Lamb Autrey",
     "team": "olomoucko",
@@ -687,12 +679,28 @@
     "value": 18.3
    },
    {
+    "id": "pardubice/zed-jackson-key",
+    "name": "Zed Jackson Key",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 17.9
+   },
+   {
+    "id": "pardubice/robert-lee-bonham",
+    "name": "Robert Lee Bonham",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 17.6
+   },
+   {
     "id": "plzen/troy-thomas-damico",
     "name": "Troy Thomas Dˇamico",
     "team": "plzen",
     "teamLabel": "Plzeň",
-    "gp": 7,
-    "value": 17.6
+    "gp": 8,
+    "value": 17.5
    },
    {
     "id": "brno/jermaine-ballisager-webb",
@@ -703,20 +711,12 @@
     "value": 17.2
    },
    {
-    "id": "pardubice/zed-jackson-key",
-    "name": "Zed Jackson Key",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 17.2
-   },
-   {
     "id": "usti/chayce-polynice",
     "name": "Chayce Polynice",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 16.7
+    "gp": 8,
+    "value": 16.5
    },
    {
     "id": "slavia/ronaldo-segu",
@@ -743,12 +743,12 @@
     "value": 14.6
    },
    {
-    "id": "ostrava/lukas-palyza",
-    "name": "Lukáš Palyza",
-    "team": "ostrava",
-    "teamLabel": "Ostrava",
-    "gp": 7,
-    "value": 14.4
+    "id": "hradec/xavion-brown",
+    "name": "Xavion Brown",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 5,
+    "value": 14.6
    }
   ]
  },
@@ -760,8 +760,8 @@
     "name": "Jaborri Mcghee",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 19.7
+    "gp": 8,
+    "value": 18.3
    },
    {
     "id": "pisek/martin-svoboda",
@@ -780,20 +780,20 @@
     "value": 16.7
    },
    {
-    "id": "pardubice/robert-lee-bonham",
-    "name": "Robert Lee Bonham",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 15.5
-   },
-   {
     "id": "usk/kenneth-jamar-doucet",
     "name": "Kenneth Jamar Doucet",
     "team": "usk",
     "teamLabel": "USK",
     "gp": 7,
     "value": 15.4
+   },
+   {
+    "id": "pardubice/robert-lee-bonham",
+    "name": "Robert Lee Bonham",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 14.0
    },
    {
     "id": "hradec/justin-banks",
@@ -808,8 +808,8 @@
     "name": "Troy Thomas Dˇamico",
     "team": "plzen",
     "teamLabel": "Plzeň",
-    "gp": 7,
-    "value": 13.2
+    "gp": 8,
+    "value": 13.0
    },
    {
     "id": "olomoucko/lamb-autrey",
@@ -820,18 +820,18 @@
     "value": 12.7
    },
    {
-    "id": "decin/erik-timko",
-    "name": "Erik Timko",
-    "team": "decin",
-    "teamLabel": "Děčín",
-    "gp": 8,
-    "value": 12.3
-   },
-   {
     "id": "pardubice/zed-jackson-key",
     "name": "Zed Jackson Key",
     "team": "pardubice",
     "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 12.6
+   },
+   {
+    "id": "decin/erik-timko",
+    "name": "Erik Timko",
+    "team": "decin",
+    "teamLabel": "Děčín",
     "gp": 8,
     "value": 12.3
    },
@@ -856,8 +856,8 @@
     "name": "Chayce Polynice",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 11.3
+    "gp": 8,
+    "value": 11.2
    },
    {
     "id": "ostrava/lukas-palyza",
@@ -868,12 +868,12 @@
     "value": 10.9
    },
    {
-    "id": "pardubice/jamonda-roshawn-bryant",
-    "name": "Jamonda Roshawn Bryant",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
+    "id": "decin/tomas-vyoral",
+    "name": "Tomáš Vyoral",
+    "team": "decin",
+    "teamLabel": "Děčín",
     "gp": 8,
-    "value": 10.8
+    "value": 10.4
    }
   ]
  },
@@ -889,20 +889,12 @@
     "value": 3.7
    },
    {
-    "id": "pardubice/robert-lee-bonham",
-    "name": "Robert Lee Bonham",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 3.4
-   },
-   {
     "id": "plzen/troy-thomas-damico",
     "name": "Troy Thomas Dˇamico",
     "team": "plzen",
     "teamLabel": "Plzeň",
-    "gp": 7,
-    "value": 3.3
+    "gp": 8,
+    "value": 3.2
    },
    {
     "id": "ostrava/michal-svoboda",
@@ -913,27 +905,43 @@
     "value": 3.1
    },
    {
-    "id": "hradec/christian-ashby",
-    "name": "Christian Ashby",
-    "team": "hradec",
-    "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 3.1
+    "id": "pardubice/robert-lee-bonham",
+    "name": "Robert Lee Bonham",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 3.0
    },
    {
     "id": "hradec/elijah-morgan",
     "name": "Elijah Morgan",
     "team": "hradec",
     "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 2.7
+    "gp": 8,
+    "value": 2.9
+   },
+   {
+    "id": "hradec/christian-ashby",
+    "name": "Christian Ashby",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 8,
+    "value": 2.8
    },
    {
     "id": "plzen/frantisek-vana",
     "name": "František Váňa",
     "team": "plzen",
     "teamLabel": "Plzeň",
-    "gp": 5,
+    "gp": 6,
+    "value": 2.7
+   },
+   {
+    "id": "pardubice/ryan-everett-moffatt",
+    "name": "Ryan Everett Moffatt",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
     "value": 2.6
    },
    {
@@ -953,22 +961,6 @@
     "value": 2.5
    },
    {
-    "id": "pardubice/ryan-everett-moffatt",
-    "name": "Ryan Everett Moffatt",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 2.4
-   },
-   {
-    "id": "usti/jaborri-mcghee",
-    "name": "Jaborri Mcghee",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 2.4
-   },
-   {
     "id": "opava/jan-svandrlik",
     "name": "Jan Švandrlík",
     "team": "opava",
@@ -985,20 +977,28 @@
     "value": 2.4
    },
    {
+    "id": "usti/jaborri-mcghee",
+    "name": "Jaborri Mcghee",
+    "team": "usti",
+    "teamLabel": "Ústí",
+    "gp": 8,
+    "value": 2.2
+   },
+   {
+    "id": "plzen/juraj-palenik",
+    "name": "Juraj Palenik",
+    "team": "plzen",
+    "teamLabel": "Plzeň",
+    "gp": 8,
+    "value": 2.2
+   },
+   {
     "id": "pardubice/nicholas-shyhime-stampley",
     "name": "Nicholas Shyhime Stampley",
     "team": "pardubice",
     "teamLabel": "Pardubice",
     "gp": 8,
     "value": 2.1
-   },
-   {
-    "id": "decin/erik-timko",
-    "name": "Erik Timko",
-    "team": "decin",
-    "teamLabel": "Děčín",
-    "gp": 8,
-    "value": 2.0
    }
   ]
  },
@@ -1010,8 +1010,8 @@
     "name": "Zed Jackson Key",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 70.4
+    "gp": 9,
+    "value": 71.2
    },
    {
     "id": "ostrava/lukas-palyza",
@@ -1022,12 +1022,36 @@
     "value": 69.5
    },
    {
+    "id": "plzen/troy-thomas-damico",
+    "name": "Troy Thomas Dˇamico",
+    "team": "plzen",
+    "teamLabel": "Plzeň",
+    "gp": 8,
+    "value": 69.3
+   },
+   {
     "id": "usk/kenneth-jamar-doucet",
     "name": "Kenneth Jamar Doucet",
     "team": "usk",
     "teamLabel": "USK",
     "gp": 7,
     "value": 69.1
+   },
+   {
+    "id": "usti/chayce-polynice",
+    "name": "Chayce Polynice",
+    "team": "usti",
+    "teamLabel": "Ústí",
+    "gp": 8,
+    "value": 68.8
+   },
+   {
+    "id": "hradec/elijah-morgan",
+    "name": "Elijah Morgan",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 8,
+    "value": 68.7
    },
    {
     "id": "hradec/justin-banks",
@@ -1038,12 +1062,12 @@
     "value": 68.6
    },
    {
-    "id": "usti/chayce-polynice",
-    "name": "Chayce Polynice",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 68.1
+    "id": "hradec/cortesao-joao-eduardo",
+    "name": "Cortesao Joao Eduardo",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 8,
+    "value": 68.4
    },
    {
     "id": "decin/jan-sterba",
@@ -1054,22 +1078,6 @@
     "value": 67.9
    },
    {
-    "id": "hradec/elijah-morgan",
-    "name": "Elijah Morgan",
-    "team": "hradec",
-    "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 67.4
-   },
-   {
-    "id": "hradec/cortesao-joao-eduardo",
-    "name": "Cortesao Joao Eduardo",
-    "team": "hradec",
-    "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 67.4
-   },
-   {
     "id": "ostrava/andre-screen",
     "name": "Andre Screen",
     "team": "ostrava",
@@ -1078,20 +1086,12 @@
     "value": 66.6
    },
    {
-    "id": "plzen/troy-thomas-damico",
-    "name": "Troy Thomas Dˇamico",
-    "team": "plzen",
-    "teamLabel": "Plzeň",
-    "gp": 7,
-    "value": 66.4
-   },
-   {
     "id": "hradec/martin-roub",
     "name": "Martin Roub",
     "team": "hradec",
     "teamLabel": "Hradec",
-    "gp": 5,
-    "value": 66.3
+    "gp": 6,
+    "value": 65.6
    },
    {
     "id": "opava/simon-pursl",
@@ -1131,12 +1131,20 @@
   "label": "Effective FG %",
   "rows": [
    {
+    "id": "pardubice/zed-jackson-key",
+    "name": "Zed Jackson Key",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 68.2
+   },
+   {
     "id": "usti/chayce-polynice",
     "name": "Chayce Polynice",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 67.8
+    "gp": 8,
+    "value": 68.0
    },
    {
     "id": "usk/kenneth-jamar-doucet",
@@ -1171,19 +1179,11 @@
     "value": 66.7
    },
    {
-    "id": "pardubice/zed-jackson-key",
-    "name": "Zed Jackson Key",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 66.7
-   },
-   {
-    "id": "hradec/martin-roub",
-    "name": "Martin Roub",
+    "id": "hradec/cortesao-joao-eduardo",
+    "name": "Cortesao Joao Eduardo",
     "team": "hradec",
     "teamLabel": "Hradec",
-    "gp": 5,
+    "gp": 8,
     "value": 65.9
    },
    {
@@ -1195,12 +1195,20 @@
     "value": 65.8
    },
    {
-    "id": "hradec/cortesao-joao-eduardo",
-    "name": "Cortesao Joao Eduardo",
+    "id": "plzen/troy-thomas-damico",
+    "name": "Troy Thomas Dˇamico",
+    "team": "plzen",
+    "teamLabel": "Plzeň",
+    "gp": 8,
+    "value": 65.3
+   },
+   {
+    "id": "hradec/martin-roub",
+    "name": "Martin Roub",
     "team": "hradec",
     "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 64.5
+    "gp": 6,
+    "value": 65.2
    },
    {
     "id": "ostrava/andre-screen",
@@ -1209,6 +1217,14 @@
     "teamLabel": "Ostrava",
     "gp": 7,
     "value": 64.4
+   },
+   {
+    "id": "hradec/elijah-morgan",
+    "name": "Elijah Morgan",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 8,
+    "value": 64.1
    },
    {
     "id": "decin/jan-sterba",
@@ -1233,22 +1249,6 @@
     "teamLabel": "Písek",
     "gp": 7,
     "value": 62.8
-   },
-   {
-    "id": "hradec/elijah-morgan",
-    "name": "Elijah Morgan",
-    "team": "hradec",
-    "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 62.5
-   },
-   {
-    "id": "plzen/troy-thomas-damico",
-    "name": "Troy Thomas Dˇamico",
-    "team": "plzen",
-    "teamLabel": "Plzeň",
-    "gp": 7,
-    "value": 61.8
    }
   ]
  },
@@ -1262,14 +1262,6 @@
     "teamLabel": "Ostrava",
     "gp": 7,
     "value": 59.1
-   },
-   {
-    "id": "usti/ladislav-pecka",
-    "name": "Ladislav Pecka",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 57.1
    },
    {
     "id": "hradec/justin-banks",
@@ -1292,7 +1284,15 @@
     "name": "Chayce Polynice",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
+    "gp": 8,
+    "value": 50.0
+   },
+   {
+    "id": "usti/ladislav-pecka",
+    "name": "Ladislav Pecka",
+    "team": "usti",
+    "teamLabel": "Ústí",
+    "gp": 8,
     "value": 50.0
    },
    {
@@ -1302,6 +1302,14 @@
     "teamLabel": "Pardubice",
     "gp": 8,
     "value": 48.6
+   },
+   {
+    "id": "plzen/troy-thomas-damico",
+    "name": "Troy Thomas Dˇamico",
+    "team": "plzen",
+    "teamLabel": "Plzeň",
+    "gp": 8,
+    "value": 48.1
    },
    {
     "id": "olomoucko/lamb-autrey",
@@ -1320,28 +1328,20 @@
     "value": 46.2
    },
    {
-    "id": "hradec/christian-ashby",
-    "name": "Christian Ashby",
-    "team": "hradec",
-    "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 45.8
-   },
-   {
-    "id": "plzen/troy-thomas-damico",
-    "name": "Troy Thomas Dˇamico",
-    "team": "plzen",
-    "teamLabel": "Plzeň",
-    "gp": 7,
-    "value": 45.1
-   },
-   {
     "id": "hradec/cortesao-joao-eduardo",
     "name": "Cortesao Joao Eduardo",
     "team": "hradec",
     "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 44.8
+    "gp": 8,
+    "value": 45.7
+   },
+   {
+    "id": "hradec/elijah-morgan",
+    "name": "Elijah Morgan",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 8,
+    "value": 45.1
    },
    {
     "id": "decin/jan-sterba",
@@ -1352,20 +1352,20 @@
     "value": 44.4
    },
    {
-    "id": "hradec/elijah-morgan",
-    "name": "Elijah Morgan",
+    "id": "hradec/christian-ashby",
+    "name": "Christian Ashby",
     "team": "hradec",
     "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 44.2
+    "gp": 8,
+    "value": 43.1
    },
    {
-    "id": "hradec/martin-roub",
-    "name": "Martin Roub",
-    "team": "hradec",
-    "teamLabel": "Hradec",
-    "gp": 5,
-    "value": 43.5
+    "id": "pardubice/jamonda-roshawn-bryant",
+    "name": "Jamonda Roshawn Bryant",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 42.9
    },
    {
     "id": "brno/milan-tomas-stranel",
@@ -1389,20 +1389,12 @@
     "value": 100.0
    },
    {
-    "id": "pardubice/jamonda-roshawn-bryant",
-    "name": "Jamonda Roshawn Bryant",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 95.8
-   },
-   {
     "id": "hradec/elijah-morgan",
     "name": "Elijah Morgan",
     "team": "hradec",
     "teamLabel": "Hradec",
-    "gp": 7,
-    "value": 94.1
+    "gp": 8,
+    "value": 94.7
    },
    {
     "id": "slavia/javian-mccollum",
@@ -1411,6 +1403,14 @@
     "teamLabel": "Slavia",
     "gp": 8,
     "value": 93.1
+   },
+   {
+    "id": "pardubice/jamonda-roshawn-bryant",
+    "name": "Jamonda Roshawn Bryant",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 92.0
    },
    {
     "id": "decin/tomas-vyoral",
@@ -1425,15 +1425,15 @@
     "name": "Rhyjon Blackwell",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 89.7
+    "gp": 8,
+    "value": 88.9
    },
    {
     "id": "plzen/troy-thomas-damico",
     "name": "Troy Thomas Dˇamico",
     "team": "plzen",
     "teamLabel": "Plzeň",
-    "gp": 7,
+    "gp": 8,
     "value": 87.0
    },
    {
@@ -1465,7 +1465,7 @@
     "name": "Kamil Švrdlík",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
+    "gp": 9,
     "value": 84.2
    },
    {
@@ -1475,6 +1475,14 @@
     "teamLabel": "Olomoucko",
     "gp": 7,
     "value": 83.3
+   },
+   {
+    "id": "usti/kobe-langley",
+    "name": "Kobe Langley",
+    "team": "usti",
+    "teamLabel": "Ústí",
+    "gp": 8,
+    "value": 82.4
    },
    {
     "id": "usk/xavier-johnson",
@@ -1491,14 +1499,6 @@
     "teamLabel": "USK",
     "gp": 5,
     "value": 81.8
-   },
-   {
-    "id": "pardubice/robert-lee-bonham",
-    "name": "Robert Lee Bonham",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 81.1
    }
   ]
  },
@@ -1510,16 +1510,16 @@
     "name": "Jaborri Mcghee",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 32.8
+    "gp": 8,
+    "value": 31.2
    },
    {
     "id": "pardubice/robert-lee-bonham",
     "name": "Robert Lee Bonham",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 31.4
+    "gp": 9,
+    "value": 30.9
    },
    {
     "id": "opava/matej-svoboda",
@@ -1542,8 +1542,16 @@
     "name": "Rhyjon Blackwell",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 28.9
+    "gp": 8,
+    "value": 29.1
+   },
+   {
+    "id": "plzen/frantisek-vana",
+    "name": "František Váňa",
+    "team": "plzen",
+    "teamLabel": "Plzeň",
+    "gp": 6,
+    "value": 28.4
    },
    {
     "id": "ostrava/andre-screen",
@@ -1559,22 +1567,6 @@
     "team": "slavia",
     "teamLabel": "Slavia",
     "gp": 8,
-    "value": 27.6
-   },
-   {
-    "id": "pardubice/jamonda-roshawn-bryant",
-    "name": "Jamonda Roshawn Bryant",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 27.6
-   },
-   {
-    "id": "plzen/frantisek-vana",
-    "name": "František Váňa",
-    "team": "plzen",
-    "teamLabel": "Plzeň",
-    "gp": 5,
     "value": 27.6
    },
    {
@@ -1602,12 +1594,12 @@
     "value": 26.6
    },
    {
-    "id": "plzen/damon-edward-nicholas-jr",
-    "name": "Damon Edward Nicholas Jr",
-    "team": "plzen",
-    "teamLabel": "Plzeň",
-    "gp": 5,
-    "value": 26.4
+    "id": "pardubice/jamonda-roshawn-bryant",
+    "name": "Jamonda Roshawn Bryant",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 26.5
    },
    {
     "id": "slavia/javian-mccollum",
@@ -1616,6 +1608,14 @@
     "teamLabel": "Slavia",
     "gp": 8,
     "value": 25.7
+   },
+   {
+    "id": "plzen/damon-edward-nicholas-jr",
+    "name": "Damon Edward Nicholas Jr",
+    "team": "plzen",
+    "teamLabel": "Plzeň",
+    "gp": 6,
+    "value": 25.5
    },
    {
     "id": "usk/michael-christmas",
@@ -1635,32 +1635,24 @@
     "name": "Jaborri Mcghee",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 122
-   },
-   {
-    "id": "usti/kobe-langley",
-    "name": "Kobe Langley",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 88
-   },
-   {
-    "id": "usti/filip-kabrt",
-    "name": "Filip Kábrt",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 81
+    "gp": 8,
+    "value": 109
    },
    {
     "id": "pardubice/robert-lee-bonham",
     "name": "Robert Lee Bonham",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 80
+    "gp": 9,
+    "value": 98
+   },
+   {
+    "id": "pardubice/ryan-everett-moffatt",
+    "name": "Ryan Everett Moffatt",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 79
    },
    {
     "id": "decin/marius-grazulis",
@@ -1676,14 +1668,6 @@
     "team": "slavia",
     "teamLabel": "Slavia",
     "gp": 8,
-    "value": 77
-   },
-   {
-    "id": "usti/josef-potocek",
-    "name": "Josef Potoček",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
     "value": 77
    },
    {
@@ -1703,20 +1687,20 @@
     "value": 76
    },
    {
-    "id": "usti/chayce-polynice",
-    "name": "Chayce Polynice",
+    "id": "usti/kobe-langley",
+    "name": "Kobe Langley",
     "team": "usti",
     "teamLabel": "Ústí",
-    "gp": 7,
+    "gp": 8,
     "value": 75
    },
    {
-    "id": "pardubice/ryan-everett-moffatt",
-    "name": "Ryan Everett Moffatt",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
+    "id": "usti/filip-kabrt",
+    "name": "Filip Kábrt",
+    "team": "usti",
+    "teamLabel": "Ústí",
     "gp": 8,
-    "value": 72
+    "value": 74
    },
    {
     "id": "slavia/martin-kriz",
@@ -1735,6 +1719,14 @@
     "value": 71
    },
    {
+    "id": "pardubice/jamonda-roshawn-bryant",
+    "name": "Jamonda Roshawn Bryant",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 70
+   },
+   {
     "id": "slavia/javian-mccollum",
     "name": "Javian Mccollum",
     "team": "slavia",
@@ -1749,6 +1741,14 @@
     "teamLabel": "Slavia",
     "gp": 8,
     "value": 70
+   },
+   {
+    "id": "usti/chayce-polynice",
+    "name": "Chayce Polynice",
+    "team": "usti",
+    "teamLabel": "Ústí",
+    "gp": 8,
+    "value": 69
    }
   ]
  },
@@ -1772,20 +1772,20 @@
     "value": 35.9
    },
    {
-    "id": "hradec/xavion-brown",
-    "name": "Xavion Brown",
-    "team": "hradec",
-    "teamLabel": "Hradec",
-    "gp": 4,
-    "value": 35.3
-   },
-   {
     "id": "olomoucko/immanuel-domonick-bates",
     "name": "Immanuel Domonick Bates",
     "team": "olomoucko",
     "teamLabel": "Olomoucko",
     "gp": 9,
     "value": 33.3
+   },
+   {
+    "id": "hradec/xavion-brown",
+    "name": "Xavion Brown",
+    "team": "hradec",
+    "teamLabel": "Hradec",
+    "gp": 5,
+    "value": 33.1
    },
    {
     "id": "opava/jakub-slavik",
@@ -1812,28 +1812,12 @@
     "value": 28.7
    },
    {
-    "id": "usti/jaborri-mcghee",
-    "name": "Jaborri Mcghee",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 27.2
-   },
-   {
-    "id": "pardubice/ryan-everett-moffatt",
-    "name": "Ryan Everett Moffatt",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 24.8
-   },
-   {
     "id": "pardubice/robert-lee-bonham",
     "name": "Robert Lee Bonham",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 24.4
+    "gp": 9,
+    "value": 27.2
    },
    {
     "id": "olomoucko/asa-williams",
@@ -1860,6 +1844,14 @@
     "value": 22.6
    },
    {
+    "id": "usti/jaborri-mcghee",
+    "name": "Jaborri Mcghee",
+    "team": "usti",
+    "teamLabel": "Ústí",
+    "gp": 8,
+    "value": 22.5
+   },
+   {
     "id": "olomoucko/lamb-autrey",
     "name": "Lamb Autrey",
     "team": "olomoucko",
@@ -1874,6 +1866,14 @@
     "teamLabel": "Plzeň",
     "gp": 4,
     "value": 19.8
+   },
+   {
+    "id": "pardubice/ryan-everett-moffatt",
+    "name": "Ryan Everett Moffatt",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 18.0
    }
   ]
  },
@@ -1913,6 +1913,14 @@
     "value": 1
    },
    {
+    "id": "pardubice/robert-lee-bonham",
+    "name": "Robert Lee Bonham",
+    "team": "pardubice",
+    "teamLabel": "Pardubice",
+    "gp": 9,
+    "value": 1
+   },
+   {
     "id": "usk/tomas-kyzlink",
     "name": "Tomáš Kyzlink",
     "team": "usk",
@@ -1929,6 +1937,14 @@
     "value": 1
    },
    {
+    "id": "usti/jaborri-mcghee",
+    "name": "Jaborri Mcghee",
+    "team": "usti",
+    "teamLabel": "Ústí",
+    "gp": 8,
+    "value": 1
+   },
+   {
     "id": "hradec/justin-banks",
     "name": "Justin Banks",
     "team": "hradec",
@@ -1937,27 +1953,11 @@
     "value": 1
    },
    {
-    "id": "pardubice/robert-lee-bonham",
-    "name": "Robert Lee Bonham",
-    "team": "pardubice",
-    "teamLabel": "Pardubice",
-    "gp": 8,
-    "value": 1
-   },
-   {
-    "id": "usti/jaborri-mcghee",
-    "name": "Jaborri Mcghee",
-    "team": "usti",
-    "teamLabel": "Ústí",
-    "gp": 7,
-    "value": 1
-   },
-   {
     "id": "pardubice/zed-jackson-key",
     "name": "Zed Jackson Key",
     "team": "pardubice",
     "teamLabel": "Pardubice",
-    "gp": 8,
+    "gp": 9,
     "value": 1
    },
    {
@@ -1965,6 +1965,14 @@
     "name": "Ronaldo Segu",
     "team": "slavia",
     "teamLabel": "Slavia",
+    "gp": 8,
+    "value": 1
+   },
+   {
+    "id": "usti/ladislav-pecka",
+    "name": "Ladislav Pecka",
+    "team": "usti",
+    "teamLabel": "Ústí",
     "gp": 8,
     "value": 1
    },
@@ -1981,14 +1989,6 @@
     "name": "Jan Karlovský",
     "team": "pisek",
     "teamLabel": "Písek",
-    "gp": 7,
-    "value": 1
-   },
-   {
-    "id": "usti/ladislav-pecka",
-    "name": "Ladislav Pecka",
-    "team": "usti",
-    "teamLabel": "Ústí",
     "gp": 7,
     "value": 1
    },

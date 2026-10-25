@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-25T16:27:39+00:00",
+ "generatedAt": "2026-10-25T19:03:26+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 46,
+  "final": 48,
   "teams": 12,
-  "players": 163
+  "players": 166
  },
  "teams": [
   {
@@ -14,6 +14,13 @@
    "label": "Slavia",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7aa188dfbe3d731fb1199e1c55a72312S1.png",
    "file": "teams/slavia.json"
+  },
+  {
+   "slug": "pardubice",
+   "name": "BK KVIS Pardubice",
+   "label": "Pardubice",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea863234232dc6cd5da9faaab40b442eS1.png",
+   "file": "teams/pardubice.json"
   },
   {
    "slug": "usti",
@@ -28,13 +35,6 @@
    "label": "Děčín",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/11f2fc2d4d35d0cbc7ffe466f7651ff4S1.png",
    "file": "teams/decin.json"
-  },
-  {
-   "slug": "pardubice",
-   "name": "BK KVIS Pardubice",
-   "label": "Pardubice",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea863234232dc6cd5da9faaab40b442eS1.png",
-   "file": "teams/pardubice.json"
   },
   {
    "slug": "ostrava",
@@ -65,18 +65,18 @@
    "file": "teams/opava.json"
   },
   {
-   "slug": "usk",
-   "name": "USK Praha",
-   "label": "USK",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
-   "file": "teams/usk.json"
-  },
-  {
    "slug": "hradec",
    "name": "BK GAPA Hradec Králové",
    "label": "Hradec",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
    "file": "teams/hradec.json"
+  },
+  {
+   "slug": "usk",
+   "name": "USK Praha",
+   "label": "USK",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
+   "file": "teams/usk.json"
   },
   {
    "slug": "plzen",
@@ -607,6 +607,28 @@
    "score": [
     72,
     75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2923364,
+   "date": "2026-10-25",
+   "home": "usti",
+   "away": "pardubice",
+   "score": [
+    64,
+    83
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2923365,
+   "date": "2026-10-25",
+   "home": "plzen",
+   "away": "hradec",
+   "score": [
+    77,
+    84
    ],
    "status": "final"
   }
