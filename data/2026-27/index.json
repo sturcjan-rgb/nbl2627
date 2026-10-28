@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-28T16:40:24+00:00",
+ "generatedAt": "2026-10-28T19:59:34+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 48,
+  "final": 52,
   "teams": 12,
-  "players": 166
+  "players": 169
  },
  "teams": [
   {
@@ -23,18 +23,18 @@
    "file": "teams/pardubice.json"
   },
   {
-   "slug": "usti",
-   "name": "SLUNETA Ústí nad Labem",
-   "label": "Ústí",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
-   "file": "teams/usti.json"
-  },
-  {
    "slug": "decin",
    "name": "BK ARMEX ENERGY Děčín",
    "label": "Děčín",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/11f2fc2d4d35d0cbc7ffe466f7651ff4S1.png",
    "file": "teams/decin.json"
+  },
+  {
+   "slug": "usti",
+   "name": "SLUNETA Ústí nad Labem",
+   "label": "Ústí",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
+   "file": "teams/usti.json"
   },
   {
    "slug": "ostrava",
@@ -51,11 +51,11 @@
    "file": "teams/pisek.json"
   },
   {
-   "slug": "brno",
-   "name": "PUMPA Basket Brno",
-   "label": "Brno",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
-   "file": "teams/brno.json"
+   "slug": "usk",
+   "name": "USK Praha",
+   "label": "USK",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
+   "file": "teams/usk.json"
   },
   {
    "slug": "opava",
@@ -65,18 +65,18 @@
    "file": "teams/opava.json"
   },
   {
+   "slug": "brno",
+   "name": "PUMPA Basket Brno",
+   "label": "Brno",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
+   "file": "teams/brno.json"
+  },
+  {
    "slug": "hradec",
    "name": "BK GAPA Hradec Králové",
    "label": "Hradec",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
    "file": "teams/hradec.json"
-  },
-  {
-   "slug": "usk",
-   "name": "USK Praha",
-   "label": "USK",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
-   "file": "teams/usk.json"
   },
   {
    "slug": "plzen",
@@ -629,6 +629,50 @@
    "score": [
     77,
     84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2927622,
+   "date": "2026-10-28",
+   "home": "pardubice",
+   "away": "plzen",
+   "score": [
+    98,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2927620,
+   "date": "2026-10-28",
+   "home": "brno",
+   "away": "pisek",
+   "score": [
+    82,
+    95
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2927623,
+   "date": "2026-10-28",
+   "home": "ostrava",
+   "away": "usti",
+   "score": [
+    82,
+    61
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2927621,
+   "date": "2026-10-28",
+   "home": "hradec",
+   "away": "usk",
+   "score": [
+    85,
+    93
    ],
    "status": "final"
   }
