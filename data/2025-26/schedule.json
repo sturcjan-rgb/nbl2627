@@ -1,7 +1,13 @@
 {
  "season": "2025/26",
- "generatedAt": null,
- "source": "https://nbl.basketball/zapasy?y=2025",
+ "generatedAt": "2026-10-29T11:58:21+00:00",
+ "source": "https://nbl.basketball/zapasy",
+ "counts": {
+  "total": 259,
+  "final": 259,
+  "scheduled": 0,
+  "withFiba": 259
+ },
  "teams": {
   "olomoucko": "BK Olomoucko",
   "hradec": "BK GAPA Hradec Králové",
@@ -44,7 +50,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2705710/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2705710/data.json",
     "stats": "matches/2705710.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512544,
@@ -72,7 +79,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2705713/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2705713/data.json",
     "stats": "matches/2705713.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512545,
@@ -100,7 +108,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2705714/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2705714/data.json",
     "stats": "matches/2705714.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512542,
@@ -128,7 +137,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2705711/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2705711/data.json",
     "stats": "matches/2705711.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512540,
@@ -156,7 +166,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2705709/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2705709/data.json",
     "stats": "matches/2705709.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512543,
@@ -184,7 +195,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2705712/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2705712/data.json",
     "stats": "matches/2705712.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512546,
@@ -212,7 +224,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2708053/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2708053/data.json",
     "stats": "matches/2708053.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512549,
@@ -240,7 +253,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2708056/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2708056/data.json",
     "stats": "matches/2708056.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512551,
@@ -268,7 +282,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2708058/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2708058/data.json",
     "stats": "matches/2708058.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512550,
@@ -296,7 +311,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2708057/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2708057/data.json",
     "stats": "matches/2708057.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512547,
@@ -324,7 +340,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2708054/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2708054/data.json",
     "stats": "matches/2708054.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512557,
@@ -352,7 +369,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2711062/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2711062/data.json",
     "stats": "matches/2711062.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512555,
@@ -364,8 +382,8 @@
    "home": "USK Praha",
    "away": "BK KVIS Pardubice",
    "score": {
-    "home": 60,
-    "away": 114
+    "home": 34,
+    "away": 66
    },
    "quarters": null,
    "roundNum": 3,
@@ -380,7 +398,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2711135/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2711135/data.json",
     "stats": "matches/2711135.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512552,
@@ -408,7 +427,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2711133/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2711133/data.json",
     "stats": "matches/2711133.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512553,
@@ -436,7 +456,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2711134/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2711134/data.json",
     "stats": "matches/2711134.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512556,
@@ -448,8 +469,8 @@
    "home": "SK Slavia Praha ERA NBK",
    "away": "PUMPA Basket Brno",
    "score": {
-    "home": 73,
-    "away": 93
+    "home": 23,
+    "away": 35
    },
    "quarters": null,
    "roundNum": 3,
@@ -464,7 +485,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2711136/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2711136/data.json",
     "stats": "matches/2711136.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512554,
@@ -492,7 +514,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2712000/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2712000/data.json",
     "stats": "matches/2712000.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512558,
@@ -520,7 +543,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2713584/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2713584/data.json",
     "stats": "matches/2713584.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512560,
@@ -548,7 +572,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2713585/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2713585/data.json",
     "stats": "matches/2713585.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512562,
@@ -576,7 +601,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2713587/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2713587/data.json",
     "stats": "matches/2713587.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512563,
@@ -604,7 +630,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2713588/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2713588/data.json",
     "stats": "matches/2713588.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512561,
@@ -632,7 +659,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2713586/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2713586/data.json",
     "stats": "matches/2713586.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512568,
@@ -660,7 +688,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2716172/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2716172/data.json",
     "stats": "matches/2716172.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512566,
@@ -688,7 +717,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2716310/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2716310/data.json",
     "stats": "matches/2716310.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512564,
@@ -716,7 +746,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2716309/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2716309/data.json",
     "stats": "matches/2716309.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512567,
@@ -744,7 +775,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2716311/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2716311/data.json",
     "stats": "matches/2716311.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512565,
@@ -772,7 +804,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2716968/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2716968/data.json",
     "stats": "matches/2716968.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512570,
@@ -800,7 +833,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2734801/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2734801/data.json",
     "stats": "matches/2734801.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512571,
@@ -828,7 +862,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2734802/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2734802/data.json",
     "stats": "matches/2734802.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512572,
@@ -856,7 +891,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2734803/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2734803/data.json",
     "stats": "matches/2734803.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512574,
@@ -884,7 +920,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2734804/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2734804/data.json",
     "stats": "matches/2734804.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512575,
@@ -912,7 +949,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2734805/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2734805/data.json",
     "stats": "matches/2734805.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512573,
@@ -940,7 +978,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2735086/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2735086/data.json",
     "stats": "matches/2735086.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512601,
@@ -968,7 +1007,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2738836/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2738836/data.json",
     "stats": "matches/2738836.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512579,
@@ -996,7 +1036,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2743123/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2743123/data.json",
     "stats": "matches/2743123.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512577,
@@ -1024,7 +1065,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2745600/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2745600/data.json",
     "stats": "matches/2745600.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512581,
@@ -1052,7 +1094,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2745603/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2745603/data.json",
     "stats": "matches/2745603.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512580,
@@ -1080,7 +1123,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2745602/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2745602/data.json",
     "stats": "matches/2745602.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512576,
@@ -1108,7 +1152,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2746120/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2746120/data.json",
     "stats": "matches/2746120.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512582,
@@ -1136,7 +1181,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2755307/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2755307/data.json",
     "stats": "matches/2755307.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512584,
@@ -1164,7 +1210,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2755309/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2755309/data.json",
     "stats": "matches/2755309.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512586,
@@ -1192,7 +1239,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2755310/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2755310/data.json",
     "stats": "matches/2755310.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512587,
@@ -1220,7 +1268,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2755311/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2755311/data.json",
     "stats": "matches/2755311.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512585,
@@ -1248,7 +1297,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2756690/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2756690/data.json",
     "stats": "matches/2756690.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512590,
@@ -1276,7 +1326,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2757722/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2757722/data.json",
     "stats": "matches/2757722.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512588,
@@ -1304,7 +1355,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2757868/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2757868/data.json",
     "stats": "matches/2757868.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512593,
@@ -1332,7 +1384,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2757871/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2757871/data.json",
     "stats": "matches/2757871.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512591,
@@ -1360,7 +1413,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2757869/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2757869/data.json",
     "stats": "matches/2757869.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512592,
@@ -1388,7 +1442,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2757870/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2757870/data.json",
     "stats": "matches/2757870.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512589,
@@ -1416,7 +1471,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2758382/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2758382/data.json",
     "stats": "matches/2758382.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512607,
@@ -1444,7 +1500,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2760642/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2760642/data.json",
     "stats": "matches/2760642.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512548,
@@ -1472,7 +1529,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2708055/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2708055/data.json",
     "stats": "matches/2708055.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512597,
@@ -1500,7 +1558,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2763368/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2763368/data.json",
     "stats": "matches/2763368.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512594,
@@ -1528,7 +1587,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2763366/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2763366/data.json",
     "stats": "matches/2763366.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512599,
@@ -1556,7 +1616,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2763369/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2763369/data.json",
     "stats": "matches/2763369.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512596,
@@ -1584,7 +1645,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2763367/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2763367/data.json",
     "stats": "matches/2763367.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512595,
@@ -1612,7 +1674,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2763799/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2763799/data.json",
     "stats": "matches/2763799.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512598,
@@ -1640,7 +1703,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2763800/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2763800/data.json",
     "stats": "matches/2763800.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512604,
@@ -1668,7 +1732,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2765926/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2765926/data.json",
     "stats": "matches/2765926.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512600,
@@ -1696,7 +1761,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2765923/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2765923/data.json",
     "stats": "matches/2765923.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512602,
@@ -1724,7 +1790,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2765924/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2765924/data.json",
     "stats": "matches/2765924.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512605,
@@ -1752,7 +1819,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2765927/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2765927/data.json",
     "stats": "matches/2765927.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512603,
@@ -1780,7 +1848,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2765925/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2765925/data.json",
     "stats": "matches/2765925.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512611,
@@ -1808,7 +1877,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2767240/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2767240/data.json",
     "stats": "matches/2767240.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512606,
@@ -1836,7 +1906,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2767343/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2767343/data.json",
     "stats": "matches/2767343.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512609,
@@ -1864,7 +1935,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2767345/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2767345/data.json",
     "stats": "matches/2767345.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512610,
@@ -1892,7 +1964,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2767346/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2767346/data.json",
     "stats": "matches/2767346.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512612,
@@ -1920,7 +1993,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2769229/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2769229/data.json",
     "stats": "matches/2769229.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512615,
@@ -1948,7 +2022,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2769232/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2769232/data.json",
     "stats": "matches/2769232.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512616,
@@ -1976,7 +2051,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2769233/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2769233/data.json",
     "stats": "matches/2769233.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512617,
@@ -2004,7 +2080,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2769234/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2769234/data.json",
     "stats": "matches/2769234.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512613,
@@ -2032,7 +2109,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2769230/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2769230/data.json",
     "stats": "matches/2769230.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512622,
@@ -2060,7 +2138,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2770367/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2770367/data.json",
     "stats": "matches/2770367.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512621,
@@ -2088,7 +2167,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2770509/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2770509/data.json",
     "stats": "matches/2770509.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512623,
@@ -2116,7 +2196,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2770725/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2770725/data.json",
     "stats": "matches/2770725.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512619,
@@ -2144,7 +2225,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2770937/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2770937/data.json",
     "stats": "matches/2770937.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512618,
@@ -2172,7 +2254,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2770936/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2770936/data.json",
     "stats": "matches/2770936.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512620,
@@ -2200,7 +2283,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2770938/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2770938/data.json",
     "stats": "matches/2770938.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512559,
@@ -2228,7 +2312,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2776835/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2776835/data.json",
     "stats": "matches/2776835.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512625,
@@ -2256,7 +2341,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2777272/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2777272/data.json",
     "stats": "matches/2777272.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512627,
@@ -2284,7 +2370,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2777446/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2777446/data.json",
     "stats": "matches/2777446.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512624,
@@ -2312,7 +2399,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2777444/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2777444/data.json",
     "stats": "matches/2777444.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512629,
@@ -2340,7 +2428,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2777447/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2777447/data.json",
     "stats": "matches/2777447.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512626,
@@ -2368,7 +2457,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2777445/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2777445/data.json",
     "stats": "matches/2777445.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512628,
@@ -2396,7 +2486,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2777740/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2777740/data.json",
     "stats": "matches/2777740.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512578,
@@ -2424,7 +2515,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2745601/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2745601/data.json",
     "stats": "matches/2745601.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512569,
@@ -2452,7 +2544,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2779305/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2779305/data.json",
     "stats": "matches/2779305.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512634,
@@ -2480,7 +2573,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2780037/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2780037/data.json",
     "stats": "matches/2780037.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512630,
@@ -2508,7 +2602,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2780135/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2780135/data.json",
     "stats": "matches/2780135.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512631,
@@ -2536,7 +2631,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2780136/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2780136/data.json",
     "stats": "matches/2780136.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512635,
@@ -2564,7 +2660,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2780138/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2780138/data.json",
     "stats": "matches/2780138.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512632,
@@ -2592,7 +2689,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2780677/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2780677/data.json",
     "stats": "matches/2780677.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512638,
@@ -2620,7 +2718,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2782832/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2782832/data.json",
     "stats": "matches/2782832.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512636,
@@ -2648,7 +2747,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2782891/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2782891/data.json",
     "stats": "matches/2782891.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512640,
@@ -2676,7 +2776,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2782894/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2782894/data.json",
     "stats": "matches/2782894.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512637,
@@ -2704,7 +2805,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2782892/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2782892/data.json",
     "stats": "matches/2782892.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512639,
@@ -2732,7 +2834,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2782893/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2782893/data.json",
     "stats": "matches/2782893.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512641,
@@ -2760,7 +2863,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2783404/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2783404/data.json",
     "stats": "matches/2783404.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512647,
@@ -2788,7 +2892,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2786092/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2786092/data.json",
     "stats": "matches/2786092.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512642,
@@ -2816,7 +2921,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787024/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787024/data.json",
     "stats": "matches/2787024.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512643,
@@ -2844,7 +2950,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787025/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787025/data.json",
     "stats": "matches/2787025.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512644,
@@ -2872,7 +2979,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787026/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787026/data.json",
     "stats": "matches/2787026.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512645,
@@ -2900,7 +3008,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787027/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787027/data.json",
     "stats": "matches/2787027.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512646,
@@ -2928,7 +3037,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787028/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787028/data.json",
     "stats": "matches/2787028.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512652,
@@ -2956,7 +3066,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787960/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787960/data.json",
     "stats": "matches/2787960.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512648,
@@ -2984,7 +3095,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787956/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787956/data.json",
     "stats": "matches/2787956.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512650,
@@ -3012,7 +3124,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787958/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787958/data.json",
     "stats": "matches/2787958.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512651,
@@ -3040,7 +3153,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787959/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787959/data.json",
     "stats": "matches/2787959.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512653,
@@ -3068,7 +3182,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787961/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787961/data.json",
     "stats": "matches/2787961.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512649,
@@ -3096,7 +3211,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2787957/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2787957/data.json",
     "stats": "matches/2787957.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512654,
@@ -3124,7 +3240,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2789368/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2789368/data.json",
     "stats": "matches/2789368.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512657,
@@ -3152,7 +3269,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2789370/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2789370/data.json",
     "stats": "matches/2789370.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512659,
@@ -3180,7 +3298,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2789371/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2789371/data.json",
     "stats": "matches/2789371.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512656,
@@ -3208,7 +3327,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2789369/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2789369/data.json",
     "stats": "matches/2789369.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512658,
@@ -3236,7 +3356,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2789898/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2789898/data.json",
     "stats": "matches/2789898.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512655,
@@ -3264,7 +3385,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2789897/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2789897/data.json",
     "stats": "matches/2789897.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512583,
@@ -3292,7 +3414,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2755308/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2755308/data.json",
     "stats": "matches/2755308.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512664,
@@ -3320,7 +3443,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2791867/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2791867/data.json",
     "stats": "matches/2791867.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512661,
@@ -3348,7 +3472,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2791866/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2791866/data.json",
     "stats": "matches/2791866.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512660,
@@ -3376,7 +3501,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2791974/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2791974/data.json",
     "stats": "matches/2791974.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512662,
@@ -3404,7 +3530,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2791975/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2791975/data.json",
     "stats": "matches/2791975.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512663,
@@ -3432,7 +3559,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2791976/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2791976/data.json",
     "stats": "matches/2791976.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512665,
@@ -3460,7 +3588,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2791977/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2791977/data.json",
     "stats": "matches/2791977.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512608,
@@ -3488,7 +3617,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2767344/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2767344/data.json",
     "stats": "matches/2767344.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512633,
@@ -3516,7 +3646,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2780137/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2780137/data.json",
     "stats": "matches/2780137.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512614,
@@ -3544,7 +3675,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2769231/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2769231/data.json",
     "stats": "matches/2769231.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512666,
@@ -3556,8 +3688,8 @@
    "home": "SK Slavia Praha ERA NBK",
    "away": "NH Ostrava",
    "score": {
-    "home": 74,
-    "away": 77
+    "home": 0,
+    "away": 0
    },
    "quarters": null,
    "roundNum": 22,
@@ -3572,7 +3704,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2794571/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2794571/data.json",
     "stats": "matches/2794571.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512667,
@@ -3600,7 +3733,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2794572/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2794572/data.json",
     "stats": "matches/2794572.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512668,
@@ -3628,7 +3762,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2794573/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2794573/data.json",
     "stats": "matches/2794573.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512669,
@@ -3656,7 +3791,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2794574/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2794574/data.json",
     "stats": "matches/2794574.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512670,
@@ -3684,7 +3820,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2794575/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2794575/data.json",
     "stats": "matches/2794575.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 512671,
@@ -3712,7 +3849,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2794576/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2794576/data.json",
     "stats": "matches/2794576.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526944,
@@ -3740,7 +3878,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803555/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803555/data.json",
     "stats": "matches/2803555.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527000,
@@ -3768,7 +3907,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803573/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803573/data.json",
     "stats": "matches/2803573.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527001,
@@ -3796,7 +3936,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803574/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803574/data.json",
     "stats": "matches/2803574.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526945,
@@ -3824,7 +3965,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803556/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803556/data.json",
     "stats": "matches/2803556.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526947,
@@ -3852,7 +3994,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803558/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803558/data.json",
     "stats": "matches/2803558.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526951,
@@ -3880,7 +4023,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803562/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803562/data.json",
     "stats": "matches/2803562.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526948,
@@ -3908,7 +4052,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803559/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803559/data.json",
     "stats": "matches/2803559.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526950,
@@ -3936,7 +4081,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803561/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803561/data.json",
     "stats": "matches/2803561.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526955,
@@ -3964,7 +4110,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803566/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803566/data.json",
     "stats": "matches/2803566.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527003,
@@ -3992,7 +4139,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803576/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803576/data.json",
     "stats": "matches/2803576.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526952,
@@ -4020,7 +4168,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803563/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803563/data.json",
     "stats": "matches/2803563.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526953,
@@ -4048,7 +4197,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803564/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803564/data.json",
     "stats": "matches/2803564.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527002,
@@ -4076,7 +4226,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803575/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803575/data.json",
     "stats": "matches/2803575.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526954,
@@ -4104,7 +4255,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803565/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803565/data.json",
     "stats": "matches/2803565.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526958,
@@ -4132,7 +4284,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803569/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803569/data.json",
     "stats": "matches/2803569.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526957,
@@ -4160,7 +4313,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803568/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803568/data.json",
     "stats": "matches/2803568.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526956,
@@ -4188,7 +4342,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803567/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803567/data.json",
     "stats": "matches/2803567.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527005,
@@ -4216,7 +4371,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803578/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803578/data.json",
     "stats": "matches/2803578.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526962,
@@ -4244,7 +4400,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803571/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803571/data.json",
     "stats": "matches/2803571.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526960,
@@ -4272,7 +4429,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803570/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803570/data.json",
     "stats": "matches/2803570.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527006,
@@ -4284,8 +4442,8 @@
    "home": "BK GAPA Hradec Králové",
    "away": "USK Praha",
    "score": {
-    "home": 88,
-    "away": 60
+    "home": 68,
+    "away": 47
    },
    "quarters": null,
    "roundNum": 4,
@@ -4300,7 +4458,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803579/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803579/data.json",
     "stats": "matches/2803579.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526961,
@@ -4328,7 +4487,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2804240/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2804240/data.json",
     "stats": "matches/2804240.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527007,
@@ -4356,7 +4516,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2805379/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2805379/data.json",
     "stats": "matches/2805379.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527008,
@@ -4384,7 +4545,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2805264/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2805264/data.json",
     "stats": "matches/2805264.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526966,
@@ -4412,7 +4574,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2805262/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2805262/data.json",
     "stats": "matches/2805262.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527009,
@@ -4440,7 +4603,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2805265/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2805265/data.json",
     "stats": "matches/2805265.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526965,
@@ -4468,7 +4632,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2805261/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2805261/data.json",
     "stats": "matches/2805261.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526964,
@@ -4496,7 +4661,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2805260/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2805260/data.json",
     "stats": "matches/2805260.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526967,
@@ -4524,7 +4690,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2805263/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2805263/data.json",
     "stats": "matches/2805263.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526969,
@@ -4552,7 +4719,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2811568/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2811568/data.json",
     "stats": "matches/2811568.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526968,
@@ -4580,7 +4748,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2812145/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2812145/data.json",
     "stats": "matches/2812145.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526970,
@@ -4608,7 +4777,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2812146/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2812146/data.json",
     "stats": "matches/2812146.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527011,
@@ -4636,7 +4806,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2812148/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2812148/data.json",
     "stats": "matches/2812148.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527010,
@@ -4664,7 +4835,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2812147/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2812147/data.json",
     "stats": "matches/2812147.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526971,
@@ -4692,7 +4864,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2812474/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2812474/data.json",
     "stats": "matches/2812474.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526946,
@@ -4720,7 +4893,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803557/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803557/data.json",
     "stats": "matches/2803557.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526975,
@@ -4748,7 +4922,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2815469/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2815469/data.json",
     "stats": "matches/2815469.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527012,
@@ -4776,7 +4951,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2815470/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2815470/data.json",
     "stats": "matches/2815470.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526972,
@@ -4804,7 +4980,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2815466/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2815466/data.json",
     "stats": "matches/2815466.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526973,
@@ -4832,7 +5009,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2815467/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2815467/data.json",
     "stats": "matches/2815467.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526974,
@@ -4860,7 +5038,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2815468/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2815468/data.json",
     "stats": "matches/2815468.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527013,
@@ -4888,7 +5067,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2815471/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2815471/data.json",
     "stats": "matches/2815471.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527004,
@@ -4916,7 +5096,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803577/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803577/data.json",
     "stats": "matches/2803577.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526959,
@@ -4944,7 +5125,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2807660/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2807660/data.json",
     "stats": "matches/2807660.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526963,
@@ -4972,7 +5154,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803572/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803572/data.json",
     "stats": "matches/2803572.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527015,
@@ -5000,7 +5183,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2818762/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2818762/data.json",
     "stats": "matches/2818762.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526976,
@@ -5028,7 +5212,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2818758/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2818758/data.json",
     "stats": "matches/2818758.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526979,
@@ -5056,7 +5241,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2818760/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2818760/data.json",
     "stats": "matches/2818760.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527014,
@@ -5084,7 +5270,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2818761/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2818761/data.json",
     "stats": "matches/2818761.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526978,
@@ -5112,7 +5299,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2818759/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2818759/data.json",
     "stats": "matches/2818759.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526977,
@@ -5140,7 +5328,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2818944/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2818944/data.json",
     "stats": "matches/2818944.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527016,
@@ -5168,7 +5357,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2820800/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2820800/data.json",
     "stats": "matches/2820800.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526981,
@@ -5196,7 +5386,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2820797/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2820797/data.json",
     "stats": "matches/2820797.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526980,
@@ -5224,7 +5415,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2820796/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2820796/data.json",
     "stats": "matches/2820796.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526982,
@@ -5252,7 +5444,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2820798/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2820798/data.json",
     "stats": "matches/2820798.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526983,
@@ -5280,7 +5473,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2820799/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2820799/data.json",
     "stats": "matches/2820799.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527017,
@@ -5308,7 +5502,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2820801/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2820801/data.json",
     "stats": "matches/2820801.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526984,
@@ -5336,7 +5531,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2822276/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2822276/data.json",
     "stats": "matches/2822276.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527018,
@@ -5364,7 +5560,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2822461/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2822461/data.json",
     "stats": "matches/2822461.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526987,
@@ -5392,7 +5589,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2822460/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2822460/data.json",
     "stats": "matches/2822460.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526985,
@@ -5420,7 +5618,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2823403/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2823403/data.json",
     "stats": "matches/2823403.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526986,
@@ -5448,7 +5647,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2823404/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2823404/data.json",
     "stats": "matches/2823404.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526990,
@@ -5476,7 +5676,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2825151/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2825151/data.json",
     "stats": "matches/2825151.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526993,
@@ -5504,7 +5705,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2826244/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2826244/data.json",
     "stats": "matches/2826244.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526994,
@@ -5532,7 +5734,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2826399/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2826399/data.json",
     "stats": "matches/2826399.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527020,
@@ -5560,7 +5763,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2826400/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2826400/data.json",
     "stats": "matches/2826400.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527021,
@@ -5588,7 +5792,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2826401/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2826401/data.json",
     "stats": "matches/2826401.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526992,
@@ -5616,7 +5821,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2826620/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2826620/data.json",
     "stats": "matches/2826620.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526995,
@@ -5644,7 +5850,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2826621/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2826621/data.json",
     "stats": "matches/2826621.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526949,
@@ -5672,7 +5879,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2803560/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2803560/data.json",
     "stats": "matches/2803560.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527019,
@@ -5700,7 +5908,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2828128/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2828128/data.json",
     "stats": "matches/2828128.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526988,
@@ -5728,7 +5937,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2825149/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2825149/data.json",
     "stats": "matches/2825149.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526991,
@@ -5756,7 +5966,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2825152/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2825152/data.json",
     "stats": "matches/2825152.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527022,
@@ -5784,7 +5995,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2828945/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2828945/data.json",
     "stats": "matches/2828945.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 527023,
@@ -5812,7 +6024,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2828946/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2828946/data.json",
     "stats": "matches/2828946.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526989,
@@ -5840,7 +6053,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2825150/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2825150/data.json",
     "stats": "matches/2825150.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526996,
@@ -5868,7 +6082,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2828941/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2828941/data.json",
     "stats": "matches/2828941.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526997,
@@ -5896,7 +6111,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2828942/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2828942/data.json",
     "stats": "matches/2828942.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526998,
@@ -5924,7 +6140,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2828943/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2828943/data.json",
     "stats": "matches/2828943.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 526999,
@@ -5952,7 +6169,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2828944/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2828944/data.json",
     "stats": "matches/2828944.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529729,
@@ -5980,7 +6198,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840884/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840884/data.json",
     "stats": "matches/2840884.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529730,
@@ -6008,7 +6227,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2839654/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2839654/data.json",
     "stats": "matches/2839654.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529731,
@@ -6036,7 +6256,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840885/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840885/data.json",
     "stats": "matches/2840885.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529732,
@@ -6064,7 +6285,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2839655/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2839655/data.json",
     "stats": "matches/2839655.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529735,
@@ -6092,7 +6314,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840887/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840887/data.json",
     "stats": "matches/2840887.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530021,
@@ -6120,7 +6343,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842864/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842864/data.json",
     "stats": "matches/2842864.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529736,
@@ -6148,7 +6372,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840888/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840888/data.json",
     "stats": "matches/2840888.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529737,
@@ -6176,7 +6401,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840889/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840889/data.json",
     "stats": "matches/2840889.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529738,
@@ -6204,7 +6430,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840890/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840890/data.json",
     "stats": "matches/2840890.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530022,
@@ -6232,7 +6459,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842865/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842865/data.json",
     "stats": "matches/2842865.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529739,
@@ -6260,7 +6488,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842966/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842966/data.json",
     "stats": "matches/2842966.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529740,
@@ -6288,7 +6517,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842775/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842775/data.json",
     "stats": "matches/2842775.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529741,
@@ -6316,7 +6546,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842967/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842967/data.json",
     "stats": "matches/2842967.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529743,
@@ -6344,7 +6575,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840891/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840891/data.json",
     "stats": "matches/2840891.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529742,
@@ -6372,7 +6604,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842776/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842776/data.json",
     "stats": "matches/2842776.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529744,
@@ -6400,7 +6633,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840892/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840892/data.json",
     "stats": "matches/2840892.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529745,
@@ -6428,7 +6662,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840893/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840893/data.json",
     "stats": "matches/2840893.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529746,
@@ -6456,7 +6691,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840894/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840894/data.json",
     "stats": "matches/2840894.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529747,
@@ -6484,7 +6720,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842968/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842968/data.json",
     "stats": "matches/2842968.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529748,
@@ -6512,7 +6749,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842777/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842777/data.json",
     "stats": "matches/2842777.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529749,
@@ -6540,7 +6778,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842969/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842969/data.json",
     "stats": "matches/2842969.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529750,
@@ -6568,7 +6807,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2842778/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2842778/data.json",
     "stats": "matches/2842778.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529751,
@@ -6596,7 +6836,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840895/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840895/data.json",
     "stats": "matches/2840895.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529752,
@@ -6624,7 +6865,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840896/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840896/data.json",
     "stats": "matches/2840896.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529755,
@@ -6652,7 +6894,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840897/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840897/data.json",
     "stats": "matches/2840897.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529756,
@@ -6680,7 +6923,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840898/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840898/data.json",
     "stats": "matches/2840898.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 529759,
@@ -6708,7 +6952,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2840899/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2840899/data.json",
     "stats": "matches/2840899.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530428,
@@ -6736,7 +6981,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848300/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848300/data.json",
     "stats": "matches/2848300.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530429,
@@ -6764,7 +7010,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848301/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848301/data.json",
     "stats": "matches/2848301.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530430,
@@ -6792,7 +7039,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848302/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848302/data.json",
     "stats": "matches/2848302.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530431,
@@ -6820,7 +7068,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848303/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848303/data.json",
     "stats": "matches/2848303.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530432,
@@ -6848,7 +7097,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848304/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848304/data.json",
     "stats": "matches/2848304.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530433,
@@ -6876,7 +7126,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848305/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848305/data.json",
     "stats": "matches/2848305.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530434,
@@ -6904,7 +7155,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848306/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848306/data.json",
     "stats": "matches/2848306.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530435,
@@ -6932,7 +7184,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848307/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848307/data.json",
     "stats": "matches/2848307.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530437,
@@ -6960,7 +7213,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848309/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848309/data.json",
     "stats": "matches/2848309.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530439,
@@ -6988,7 +7242,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2848311/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2848311/data.json",
     "stats": "matches/2848311.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530504,
@@ -7016,7 +7271,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2852862/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2852862/data.json",
     "stats": "matches/2852862.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530507,
@@ -7044,7 +7300,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2852865/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2852865/data.json",
     "stats": "matches/2852865.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530508,
@@ -7072,7 +7329,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2852866/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2852866/data.json",
     "stats": "matches/2852866.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530505,
@@ -7100,7 +7358,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2852863/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2852863/data.json",
     "stats": "matches/2852863.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530506,
@@ -7128,7 +7387,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2855214/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2855214/data.json",
     "stats": "matches/2855214.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530509,
@@ -7156,7 +7416,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2852867/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2852867/data.json",
     "stats": "matches/2852867.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530510,
@@ -7184,7 +7445,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2852868/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2852868/data.json",
     "stats": "matches/2852868.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530511,
@@ -7212,7 +7474,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2852869/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2852869/data.json",
     "stats": "matches/2852869.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530512,
@@ -7240,7 +7503,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2852870/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2852870/data.json",
     "stats": "matches/2852870.json"
-   }
+   },
+   "hasStats": true
   },
   {
    "nblId": 530513,
@@ -7268,7 +7532,8 @@
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2852871/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2852871/data.json",
     "stats": "matches/2852871.json"
-   }
+   },
+   "hasStats": true
   }
  ]
 }

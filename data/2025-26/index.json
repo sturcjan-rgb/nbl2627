@@ -1,13 +1,98 @@
 {
  "season": "2025/26",
- "generatedAt": "2026-10-29T11:50:30+00:00",
+ "generatedAt": "2026-10-29T11:58:21+00:00",
  "counts": {
-  "fixtures": 0,
-  "final": 0,
-  "teams": 0,
-  "players": 0
+  "fixtures": 259,
+  "final": 254,
+  "teams": 12,
+  "players": 213
  },
- "teams": [],
+ "teams": [
+  {
+   "slug": "nymburk",
+   "name": "ERA Basketball Nymburk",
+   "label": "Nymburk",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/e5565e376a85279258c284ddfc091a42S1.png",
+   "file": "teams/nymburk.json"
+  },
+  {
+   "slug": "pardubice",
+   "name": "BK KVIS Pardubice",
+   "label": "Pardubice",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/ea863234232dc6cd5da9faaab40b442eS1.png",
+   "file": "teams/pardubice.json"
+  },
+  {
+   "slug": "brno",
+   "name": "PUMPA Basket Brno",
+   "label": "Brno",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
+   "file": "teams/brno.json"
+  },
+  {
+   "slug": "decin",
+   "name": "BK ARMEX ENERGY Děčín",
+   "label": "Děčín",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7ae1fbae9a94dcb67a437faaf6ad6df5S1.png",
+   "file": "teams/decin.json"
+  },
+  {
+   "slug": "pisek",
+   "name": "Sršni Photomate Písek",
+   "label": "Písek",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/bd87c5d17b95173283244bbd063bd7c0S1.png",
+   "file": "teams/pisek.json"
+  },
+  {
+   "slug": "opava",
+   "name": "BK Opava",
+   "label": "Opava",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/0a7bd93d20185963deea1ffb293eee3cS1.png",
+   "file": "teams/opava.json"
+  },
+  {
+   "slug": "usti",
+   "name": "SLUNETA Ústí nad Labem",
+   "label": "Ústí",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
+   "file": "teams/usti.json"
+  },
+  {
+   "slug": "ostrava",
+   "name": "NH Ostrava",
+   "label": "Ostrava",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
+   "file": "teams/ostrava.json"
+  },
+  {
+   "slug": "olomoucko",
+   "name": "BK Olomoucko",
+   "label": "Olomoucko",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/57a333b7f2e6255e26fd40d155703a3aS1.png",
+   "file": "teams/olomoucko.json"
+  },
+  {
+   "slug": "slavia",
+   "name": "SK Slavia Praha",
+   "label": "Slavia",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/81417349120e4b56a50b99c1f55892c3S1.png",
+   "file": "teams/slavia.json"
+  },
+  {
+   "slug": "usk",
+   "name": "USK Praha",
+   "label": "USK",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/a6a79277180b1a468fa9397718712cf6S1.png",
+   "file": "teams/usk.json"
+  },
+  {
+   "slug": "hradec",
+   "name": "BK GAPA Hradec Králové",
+   "label": "Hradec",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
+   "file": "teams/hradec.json"
+  }
+ ],
  "files": {
   "schedule": "schedule.json",
   "standings": "standings.json",
@@ -18,5 +103,2855 @@
   "match": "matches/{fibaId}.json",
   "raw": "raw/{fibaId}.json.gz"
  },
- "games": []
+ "games": [
+  {
+   "fibaId": 2705710,
+   "date": "2025-09-26",
+   "home": "olomoucko",
+   "away": "hradec",
+   "score": [
+    65,
+    70
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2705713,
+   "date": "2025-09-27",
+   "home": "usk",
+   "away": "decin",
+   "score": [
+    77,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2705714,
+   "date": "2025-09-27",
+   "home": "slavia",
+   "away": "nymburk",
+   "score": [
+    65,
+    95
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2705711,
+   "date": "2025-09-27",
+   "home": "opava",
+   "away": "pardubice",
+   "score": [
+    66,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2705709,
+   "date": "2025-09-28",
+   "home": "pisek",
+   "away": "ostrava",
+   "score": [
+    84,
+    77
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2705712,
+   "date": "2025-09-28",
+   "home": "usti",
+   "away": "brno",
+   "score": [
+    64,
+    87
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2708053,
+   "date": "2025-10-01",
+   "home": "ostrava",
+   "away": "nymburk",
+   "score": [
+    91,
+    99
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2708056,
+   "date": "2025-10-01",
+   "home": "pardubice",
+   "away": "usti",
+   "score": [
+    92,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2708058,
+   "date": "2025-10-01",
+   "home": "pisek",
+   "away": "olomoucko",
+   "score": [
+    70,
+    60
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2708057,
+   "date": "2025-10-01",
+   "home": "hradec",
+   "away": "opava",
+   "score": [
+    80,
+    112
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2708054,
+   "date": "2025-10-01",
+   "home": "slavia",
+   "away": "decin",
+   "score": [
+    94,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2711062,
+   "date": "2025-10-04",
+   "home": "nymburk",
+   "away": "decin",
+   "score": [
+    97,
+    68
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2711135,
+   "date": "2025-10-04",
+   "home": "usk",
+   "away": "pardubice",
+   "score": [
+    34,
+    66
+   ],
+   "status": "live"
+  },
+  {
+   "fibaId": 2711133,
+   "date": "2025-10-04",
+   "home": "olomoucko",
+   "away": "ostrava",
+   "score": [
+    89,
+    83
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2711134,
+   "date": "2025-10-04",
+   "home": "opava",
+   "away": "pisek",
+   "score": [
+    120,
+    93
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2711136,
+   "date": "2025-10-04",
+   "home": "slavia",
+   "away": "brno",
+   "score": [
+    23,
+    35
+   ],
+   "status": "live"
+  },
+  {
+   "fibaId": 2712000,
+   "date": "2025-10-05",
+   "home": "usti",
+   "away": "hradec",
+   "score": [
+    112,
+    80
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2713584,
+   "date": "2025-10-08",
+   "home": "ostrava",
+   "away": "decin",
+   "score": [
+    77,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2713585,
+   "date": "2025-10-08",
+   "home": "slavia",
+   "away": "pardubice",
+   "score": [
+    76,
+    100
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2713587,
+   "date": "2025-10-08",
+   "home": "usti",
+   "away": "pisek",
+   "score": [
+    91,
+    73
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2713588,
+   "date": "2025-10-08",
+   "home": "olomoucko",
+   "away": "opava",
+   "score": [
+    76,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2713586,
+   "date": "2025-10-08",
+   "home": "hradec",
+   "away": "usk",
+   "score": [
+    89,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2716172,
+   "date": "2025-10-11",
+   "home": "pardubice",
+   "away": "nymburk",
+   "score": [
+    76,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2716310,
+   "date": "2025-10-11",
+   "home": "usk",
+   "away": "pisek",
+   "score": [
+    92,
+    103
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2716309,
+   "date": "2025-10-11",
+   "home": "opava",
+   "away": "ostrava",
+   "score": [
+    101,
+    86
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2716311,
+   "date": "2025-10-11",
+   "home": "slavia",
+   "away": "hradec",
+   "score": [
+    77,
+    66
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2716968,
+   "date": "2025-10-12",
+   "home": "usti",
+   "away": "olomoucko",
+   "score": [
+    72,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2734801,
+   "date": "2025-10-18",
+   "home": "ostrava",
+   "away": "brno",
+   "score": [
+    80,
+    94
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2734802,
+   "date": "2025-10-18",
+   "home": "pardubice",
+   "away": "decin",
+   "score": [
+    125,
+    77
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2734803,
+   "date": "2025-10-18",
+   "home": "hradec",
+   "away": "nymburk",
+   "score": [
+    78,
+    99
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2734804,
+   "date": "2025-10-18",
+   "home": "olomoucko",
+   "away": "usk",
+   "score": [
+    69,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2734805,
+   "date": "2025-10-18",
+   "home": "opava",
+   "away": "usti",
+   "score": [
+    85,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2735086,
+   "date": "2025-10-19",
+   "home": "pisek",
+   "away": "slavia",
+   "score": [
+    103,
+    72
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2738836,
+   "date": "2025-10-21",
+   "home": "nymburk",
+   "away": "usk",
+   "score": [
+    113,
+    67
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2743123,
+   "date": "2025-10-24",
+   "home": "nymburk",
+   "away": "pisek",
+   "score": [
+    105,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2745600,
+   "date": "2025-10-25",
+   "home": "usk",
+   "away": "opava",
+   "score": [
+    77,
+    107
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2745603,
+   "date": "2025-10-25",
+   "home": "brno",
+   "away": "pardubice",
+   "score": [
+    112,
+    85
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2745602,
+   "date": "2025-10-25",
+   "home": "hradec",
+   "away": "decin",
+   "score": [
+    70,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2746120,
+   "date": "2025-10-26",
+   "home": "usti",
+   "away": "ostrava",
+   "score": [
+    85,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2755307,
+   "date": "2025-10-29",
+   "home": "ostrava",
+   "away": "pardubice",
+   "score": [
+    100,
+    87
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2755309,
+   "date": "2025-10-29",
+   "home": "pisek",
+   "away": "decin",
+   "score": [
+    88,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2755310,
+   "date": "2025-10-29",
+   "home": "opava",
+   "away": "slavia",
+   "score": [
+    93,
+    70
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2755311,
+   "date": "2025-10-29",
+   "home": "usk",
+   "away": "usti",
+   "score": [
+    86,
+    92
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2756690,
+   "date": "2025-10-30",
+   "home": "olomoucko",
+   "away": "nymburk",
+   "score": [
+    65,
+    87
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2757722,
+   "date": "2025-11-01",
+   "home": "nymburk",
+   "away": "opava",
+   "score": [
+    115,
+    95
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2757868,
+   "date": "2025-11-01",
+   "home": "usk",
+   "away": "ostrava",
+   "score": [
+    71,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2757871,
+   "date": "2025-11-01",
+   "home": "pardubice",
+   "away": "hradec",
+   "score": [
+    105,
+    73
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2757869,
+   "date": "2025-11-01",
+   "home": "decin",
+   "away": "olomoucko",
+   "score": [
+    84,
+    55
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2757870,
+   "date": "2025-11-01",
+   "home": "brno",
+   "away": "pisek",
+   "score": [
+    110,
+    100
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2758382,
+   "date": "2025-11-02",
+   "home": "usti",
+   "away": "slavia",
+   "score": [
+    92,
+    96
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2760642,
+   "date": "2025-11-05",
+   "home": "hradec",
+   "away": "olomoucko",
+   "score": [
+    51,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2708055,
+   "date": "2025-11-06",
+   "home": "brno",
+   "away": "usk",
+   "score": [
+    103,
+    71
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2763368,
+   "date": "2025-11-08",
+   "home": "decin",
+   "away": "opava",
+   "score": [
+    78,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2763366,
+   "date": "2025-11-08",
+   "home": "ostrava",
+   "away": "hradec",
+   "score": [
+    89,
+    93
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2763369,
+   "date": "2025-11-08",
+   "home": "usk",
+   "away": "slavia",
+   "score": [
+    91,
+    84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2763367,
+   "date": "2025-11-08",
+   "home": "brno",
+   "away": "olomoucko",
+   "score": [
+    101,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2763799,
+   "date": "2025-11-09",
+   "home": "pisek",
+   "away": "pardubice",
+   "score": [
+    87,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2763800,
+   "date": "2025-11-09",
+   "home": "usti",
+   "away": "nymburk",
+   "score": [
+    83,
+    87
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2765926,
+   "date": "2025-11-12",
+   "home": "pardubice",
+   "away": "olomoucko",
+   "score": [
+    87,
+    73
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2765923,
+   "date": "2025-11-12",
+   "home": "ostrava",
+   "away": "slavia",
+   "score": [
+    109,
+    95
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2765924,
+   "date": "2025-11-12",
+   "home": "decin",
+   "away": "usti",
+   "score": [
+    87,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2765927,
+   "date": "2025-11-12",
+   "home": "hradec",
+   "away": "pisek",
+   "score": [
+    67,
+    89
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2765925,
+   "date": "2025-11-13",
+   "home": "brno",
+   "away": "opava",
+   "score": [
+    91,
+    85
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2767240,
+   "date": "2025-11-15",
+   "home": "nymburk",
+   "away": "slavia",
+   "score": [
+    113,
+    77
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2767343,
+   "date": "2025-11-15",
+   "home": "ostrava",
+   "away": "pisek",
+   "score": [
+    101,
+    105
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2767345,
+   "date": "2025-11-15",
+   "home": "brno",
+   "away": "usti",
+   "score": [
+    87,
+    73
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2767346,
+   "date": "2025-11-15",
+   "home": "decin",
+   "away": "usk",
+   "score": [
+    69,
+    62
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2769229,
+   "date": "2025-11-19",
+   "home": "nymburk",
+   "away": "ostrava",
+   "score": [
+    112,
+    84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2769232,
+   "date": "2025-11-19",
+   "home": "usti",
+   "away": "pardubice",
+   "score": [
+    84,
+    98
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2769233,
+   "date": "2025-11-19",
+   "home": "opava",
+   "away": "hradec",
+   "score": [
+    86,
+    73
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2769234,
+   "date": "2025-11-19",
+   "home": "olomoucko",
+   "away": "pisek",
+   "score": [
+    100,
+    103
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2769230,
+   "date": "2025-11-19",
+   "home": "decin",
+   "away": "slavia",
+   "score": [
+    96,
+    87
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2770367,
+   "date": "2025-11-21",
+   "home": "brno",
+   "away": "slavia",
+   "score": [
+    90,
+    83
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2770509,
+   "date": "2025-11-22",
+   "home": "pardubice",
+   "away": "usk",
+   "score": [
+    96,
+    80
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2770725,
+   "date": "2025-11-22",
+   "home": "decin",
+   "away": "nymburk",
+   "score": [
+    80,
+    85
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2770937,
+   "date": "2025-11-23",
+   "home": "pisek",
+   "away": "opava",
+   "score": [
+    84,
+    86
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2770936,
+   "date": "2025-11-23",
+   "home": "ostrava",
+   "away": "olomoucko",
+   "score": [
+    77,
+    68
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2770938,
+   "date": "2025-11-23",
+   "home": "hradec",
+   "away": "usti",
+   "score": [
+    65,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2776835,
+   "date": "2025-12-03",
+   "home": "brno",
+   "away": "nymburk",
+   "score": [
+    78,
+    101
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2777272,
+   "date": "2025-12-06",
+   "home": "nymburk",
+   "away": "brno",
+   "score": [
+    95,
+    57
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2777446,
+   "date": "2025-12-06",
+   "home": "usk",
+   "away": "hradec",
+   "score": [
+    93,
+    58
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2777444,
+   "date": "2025-12-06",
+   "home": "decin",
+   "away": "ostrava",
+   "score": [
+    86,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2777447,
+   "date": "2025-12-06",
+   "home": "opava",
+   "away": "olomoucko",
+   "score": [
+    89,
+    73
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2777445,
+   "date": "2025-12-06",
+   "home": "pardubice",
+   "away": "slavia",
+   "score": [
+    88,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2777740,
+   "date": "2025-12-07",
+   "home": "pisek",
+   "away": "usti",
+   "score": [
+    82,
+    94
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2745601,
+   "date": "2025-12-08",
+   "home": "slavia",
+   "away": "olomoucko",
+   "score": [
+    77,
+    86
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2779305,
+   "date": "2025-12-10",
+   "home": "decin",
+   "away": "brno",
+   "score": [
+    77,
+    73
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2780037,
+   "date": "2025-12-13",
+   "home": "nymburk",
+   "away": "pardubice",
+   "score": [
+    95,
+    100
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2780135,
+   "date": "2025-12-13",
+   "home": "ostrava",
+   "away": "opava",
+   "score": [
+    106,
+    102
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2780136,
+   "date": "2025-12-13",
+   "home": "olomoucko",
+   "away": "usti",
+   "score": [
+    82,
+    100
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2780138,
+   "date": "2025-12-13",
+   "home": "brno",
+   "away": "decin",
+   "score": [
+    80,
+    97
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2780677,
+   "date": "2025-12-14",
+   "home": "pisek",
+   "away": "usk",
+   "score": [
+    95,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2782832,
+   "date": "2025-12-20",
+   "home": "nymburk",
+   "away": "hradec",
+   "score": [
+    108,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2782891,
+   "date": "2025-12-20",
+   "home": "brno",
+   "away": "ostrava",
+   "score": [
+    84,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2782894,
+   "date": "2025-12-20",
+   "home": "usk",
+   "away": "olomoucko",
+   "score": [
+    99,
+    67
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2782892,
+   "date": "2025-12-20",
+   "home": "decin",
+   "away": "pardubice",
+   "score": [
+    87,
+    92
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2782893,
+   "date": "2025-12-20",
+   "home": "slavia",
+   "away": "pisek",
+   "score": [
+    73,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2783404,
+   "date": "2025-12-21",
+   "home": "usti",
+   "away": "opava",
+   "score": [
+    99,
+    95
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2786092,
+   "date": "2025-12-27",
+   "home": "pardubice",
+   "away": "brno",
+   "score": [
+    64,
+    77
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787024,
+   "date": "2025-12-27",
+   "home": "ostrava",
+   "away": "usti",
+   "score": [
+    100,
+    97
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787025,
+   "date": "2025-12-27",
+   "home": "opava",
+   "away": "usk",
+   "score": [
+    89,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787026,
+   "date": "2025-12-27",
+   "home": "olomoucko",
+   "away": "slavia",
+   "score": [
+    90,
+    84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787027,
+   "date": "2025-12-27",
+   "home": "pisek",
+   "away": "nymburk",
+   "score": [
+    92,
+    105
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787028,
+   "date": "2025-12-27",
+   "home": "decin",
+   "away": "hradec",
+   "score": [
+    89,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787960,
+   "date": "2025-12-30",
+   "home": "slavia",
+   "away": "opava",
+   "score": [
+    93,
+    98
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787956,
+   "date": "2025-12-30",
+   "home": "pardubice",
+   "away": "ostrava",
+   "score": [
+    83,
+    80
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787958,
+   "date": "2025-12-30",
+   "home": "decin",
+   "away": "pisek",
+   "score": [
+    90,
+    86
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787959,
+   "date": "2025-12-30",
+   "home": "nymburk",
+   "away": "olomoucko",
+   "score": [
+    131,
+    43
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787961,
+   "date": "2025-12-30",
+   "home": "usti",
+   "away": "usk",
+   "score": [
+    88,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2787957,
+   "date": "2025-12-30",
+   "home": "brno",
+   "away": "hradec",
+   "score": [
+    75,
+    73
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2789368,
+   "date": "2026-01-03",
+   "home": "ostrava",
+   "away": "usk",
+   "score": [
+    100,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2789370,
+   "date": "2026-01-03",
+   "home": "olomoucko",
+   "away": "decin",
+   "score": [
+    91,
+    84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2789371,
+   "date": "2026-01-03",
+   "home": "hradec",
+   "away": "pardubice",
+   "score": [
+    65,
+    86
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2789369,
+   "date": "2026-01-03",
+   "home": "opava",
+   "away": "nymburk",
+   "score": [
+    77,
+    99
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2789898,
+   "date": "2026-01-04",
+   "home": "pisek",
+   "away": "brno",
+   "score": [
+    98,
+    105
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2789897,
+   "date": "2026-01-04",
+   "home": "slavia",
+   "away": "usti",
+   "score": [
+    86,
+    107
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2755308,
+   "date": "2026-01-07",
+   "home": "hradec",
+   "away": "brno",
+   "score": [
+    88,
+    94
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2791867,
+   "date": "2026-01-10",
+   "home": "nymburk",
+   "away": "usti",
+   "score": [
+    89,
+    60
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2791866,
+   "date": "2026-01-10",
+   "home": "pardubice",
+   "away": "pisek",
+   "score": [
+    118,
+    85
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2791974,
+   "date": "2026-01-10",
+   "home": "hradec",
+   "away": "ostrava",
+   "score": [
+    89,
+    91
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2791975,
+   "date": "2026-01-10",
+   "home": "olomoucko",
+   "away": "brno",
+   "score": [
+    72,
+    50
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2791976,
+   "date": "2026-01-10",
+   "home": "opava",
+   "away": "decin",
+   "score": [
+    80,
+    87
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2791977,
+   "date": "2026-01-10",
+   "home": "slavia",
+   "away": "usk",
+   "score": [
+    86,
+    71
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2767344,
+   "date": "2026-01-14",
+   "home": "pardubice",
+   "away": "opava",
+   "score": [
+    84,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2780137,
+   "date": "2026-01-14",
+   "home": "hradec",
+   "away": "slavia",
+   "score": [
+    90,
+    93
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2769231,
+   "date": "2026-01-15",
+   "home": "usk",
+   "away": "brno",
+   "score": [
+    95,
+    83
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2794571,
+   "date": "2026-01-17",
+   "home": "slavia",
+   "away": "ostrava",
+   "score": [
+    0,
+    0
+   ],
+   "status": "scheduled"
+  },
+  {
+   "fibaId": 2794572,
+   "date": "2026-01-17",
+   "home": "usk",
+   "away": "nymburk",
+   "score": [
+    79,
+    109
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2794573,
+   "date": "2026-01-17",
+   "home": "usti",
+   "away": "decin",
+   "score": [
+    95,
+    87
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2794574,
+   "date": "2026-01-17",
+   "home": "opava",
+   "away": "brno",
+   "score": [
+    79,
+    89
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2794575,
+   "date": "2026-01-17",
+   "home": "olomoucko",
+   "away": "pardubice",
+   "score": [
+    79,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2794576,
+   "date": "2026-01-17",
+   "home": "pisek",
+   "away": "hradec",
+   "score": [
+    89,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803555,
+   "date": "2026-01-24",
+   "home": "pardubice",
+   "away": "decin",
+   "score": [
+    115,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803573,
+   "date": "2026-01-24",
+   "home": "usk",
+   "away": "hradec",
+   "score": [
+    100,
+    93
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803574,
+   "date": "2026-01-24",
+   "home": "olomoucko",
+   "away": "slavia",
+   "score": [
+    97,
+    84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803556,
+   "date": "2026-01-25",
+   "home": "pisek",
+   "away": "brno",
+   "score": [
+    101,
+    84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803558,
+   "date": "2026-01-25",
+   "home": "usti",
+   "away": "ostrava",
+   "score": [
+    105,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803562,
+   "date": "2026-01-28",
+   "home": "pardubice",
+   "away": "brno",
+   "score": [
+    111,
+    69
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803559,
+   "date": "2026-01-28",
+   "home": "ostrava",
+   "away": "decin",
+   "score": [
+    82,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803561,
+   "date": "2026-01-28",
+   "home": "pisek",
+   "away": "opava",
+   "score": [
+    87,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803566,
+   "date": "2026-01-31",
+   "home": "ostrava",
+   "away": "nymburk",
+   "score": [
+    84,
+    113
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803576,
+   "date": "2026-01-31",
+   "home": "usk",
+   "away": "olomoucko",
+   "score": [
+    101,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803563,
+   "date": "2026-01-31",
+   "home": "brno",
+   "away": "decin",
+   "score": [
+    76,
+    90
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803564,
+   "date": "2026-01-31",
+   "home": "opava",
+   "away": "pardubice",
+   "score": [
+    75,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803575,
+   "date": "2026-01-31",
+   "home": "hradec",
+   "away": "slavia",
+   "score": [
+    73,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803565,
+   "date": "2026-02-01",
+   "home": "usti",
+   "away": "pisek",
+   "score": [
+    88,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803569,
+   "date": "2026-02-07",
+   "home": "pardubice",
+   "away": "usti",
+   "score": [
+    100,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803568,
+   "date": "2026-02-07",
+   "home": "ostrava",
+   "away": "pisek",
+   "score": [
+    71,
+    99
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803567,
+   "date": "2026-02-07",
+   "home": "decin",
+   "away": "nymburk",
+   "score": [
+    92,
+    107
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803578,
+   "date": "2026-02-07",
+   "home": "slavia",
+   "away": "usk",
+   "score": [
+    98,
+    94
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803571,
+   "date": "2026-02-14",
+   "home": "pardubice",
+   "away": "ostrava",
+   "score": [
+    109,
+    72
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803570,
+   "date": "2026-02-14",
+   "home": "opava",
+   "away": "decin",
+   "score": [
+    95,
+    80
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803579,
+   "date": "2026-02-14",
+   "home": "hradec",
+   "away": "usk",
+   "score": [
+    68,
+    47
+   ],
+   "status": "live"
+  },
+  {
+   "fibaId": 2804240,
+   "date": "2026-02-15",
+   "home": "usti",
+   "away": "brno",
+   "score": [
+    82,
+    70
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2805379,
+   "date": "2026-02-15",
+   "home": "slavia",
+   "away": "olomoucko",
+   "score": [
+    81,
+    72
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2805264,
+   "date": "2026-02-17",
+   "home": "slavia",
+   "away": "hradec",
+   "score": [
+    79,
+    68
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2805262,
+   "date": "2026-02-17",
+   "home": "brno",
+   "away": "ostrava",
+   "score": [
+    100,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2805265,
+   "date": "2026-02-17",
+   "home": "olomoucko",
+   "away": "usk",
+   "score": [
+    79,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2805261,
+   "date": "2026-02-18",
+   "home": "pardubice",
+   "away": "nymburk",
+   "score": [
+    88,
+    91
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2805260,
+   "date": "2026-02-18",
+   "home": "decin",
+   "away": "pisek",
+   "score": [
+    88,
+    84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2805263,
+   "date": "2026-02-18",
+   "home": "opava",
+   "away": "usti",
+   "score": [
+    81,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2811568,
+   "date": "2026-03-04",
+   "home": "ostrava",
+   "away": "opava",
+   "score": [
+    117,
+    121
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2812145,
+   "date": "2026-03-05",
+   "home": "usti",
+   "away": "decin",
+   "score": [
+    78,
+    70
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2812146,
+   "date": "2026-03-05",
+   "home": "nymburk",
+   "away": "brno",
+   "score": [
+    92,
+    60
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2812148,
+   "date": "2026-03-05",
+   "home": "usk",
+   "away": "slavia",
+   "score": [
+    79,
+    72
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2812147,
+   "date": "2026-03-05",
+   "home": "hradec",
+   "away": "olomoucko",
+   "score": [
+    92,
+    77
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2812474,
+   "date": "2026-03-06",
+   "home": "pisek",
+   "away": "pardubice",
+   "score": [
+    84,
+    86
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803557,
+   "date": "2026-03-07",
+   "home": "nymburk",
+   "away": "opava",
+   "score": [
+    96,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2815469,
+   "date": "2026-03-14",
+   "home": "ostrava",
+   "away": "usti",
+   "score": [
+    87,
+    91
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2815470,
+   "date": "2026-03-14",
+   "home": "usk",
+   "away": "hradec",
+   "score": [
+    81,
+    60
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2815466,
+   "date": "2026-03-14",
+   "home": "decin",
+   "away": "pardubice",
+   "score": [
+    76,
+    90
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2815467,
+   "date": "2026-03-14",
+   "home": "brno",
+   "away": "pisek",
+   "score": [
+    90,
+    85
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2815468,
+   "date": "2026-03-14",
+   "home": "opava",
+   "away": "nymburk",
+   "score": [
+    105,
+    89
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2815471,
+   "date": "2026-03-14",
+   "home": "olomoucko",
+   "away": "slavia",
+   "score": [
+    78,
+    70
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803577,
+   "date": "2026-03-18",
+   "home": "olomoucko",
+   "away": "hradec",
+   "score": [
+    86,
+    71
+   ],
+   "status": "live"
+  },
+  {
+   "fibaId": 2807660,
+   "date": "2026-03-18",
+   "home": "brno",
+   "away": "opava",
+   "score": [
+    102,
+    65
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803572,
+   "date": "2026-03-19",
+   "home": "nymburk",
+   "away": "pisek",
+   "score": [
+    87,
+    95
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2818762,
+   "date": "2026-03-21",
+   "home": "usk",
+   "away": "olomoucko",
+   "score": [
+    90,
+    87
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2818758,
+   "date": "2026-03-21",
+   "home": "decin",
+   "away": "ostrava",
+   "score": [
+    81,
+    77
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2818760,
+   "date": "2026-03-21",
+   "home": "brno",
+   "away": "pardubice",
+   "score": [
+    78,
+    68
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2818761,
+   "date": "2026-03-21",
+   "home": "hradec",
+   "away": "slavia",
+   "score": [
+    66,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2818759,
+   "date": "2026-03-21",
+   "home": "opava",
+   "away": "pisek",
+   "score": [
+    86,
+    70
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2818944,
+   "date": "2026-03-22",
+   "home": "usti",
+   "away": "nymburk",
+   "score": [
+    96,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2820800,
+   "date": "2026-03-25",
+   "home": "olomoucko",
+   "away": "hradec",
+   "score": [
+    86,
+    77
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2820797,
+   "date": "2026-03-25",
+   "home": "pardubice",
+   "away": "opava",
+   "score": [
+    79,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2820796,
+   "date": "2026-03-25",
+   "home": "decin",
+   "away": "brno",
+   "score": [
+    77,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2820798,
+   "date": "2026-03-25",
+   "home": "pisek",
+   "away": "usti",
+   "score": [
+    84,
+    91
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2820799,
+   "date": "2026-03-25",
+   "home": "nymburk",
+   "away": "ostrava",
+   "score": [
+    118,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2820801,
+   "date": "2026-03-25",
+   "home": "slavia",
+   "away": "usk",
+   "score": [
+    83,
+    85
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2822276,
+   "date": "2026-03-28",
+   "home": "nymburk",
+   "away": "decin",
+   "score": [
+    110,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2822461,
+   "date": "2026-03-28",
+   "home": "hradec",
+   "away": "usk",
+   "score": [
+    97,
+    69
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2822460,
+   "date": "2026-03-28",
+   "home": "opava",
+   "away": "brno",
+   "score": [
+    66,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2823403,
+   "date": "2026-03-29",
+   "home": "pisek",
+   "away": "ostrava",
+   "score": [
+    104,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2823404,
+   "date": "2026-03-29",
+   "home": "usti",
+   "away": "pardubice",
+   "score": [
+    89,
+    101
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2825151,
+   "date": "2026-04-01",
+   "home": "ostrava",
+   "away": "pardubice",
+   "score": [
+    93,
+    101
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2826244,
+   "date": "2026-04-04",
+   "home": "nymburk",
+   "away": "pardubice",
+   "score": [
+    88,
+    86
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2826399,
+   "date": "2026-04-04",
+   "home": "ostrava",
+   "away": "brno",
+   "score": [
+    77,
+    102
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2826400,
+   "date": "2026-04-04",
+   "home": "slavia",
+   "away": "hradec",
+   "score": [
+    89,
+    97
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2826401,
+   "date": "2026-04-04",
+   "home": "olomoucko",
+   "away": "usk",
+   "score": [
+    95,
+    65
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2826620,
+   "date": "2026-04-05",
+   "home": "pisek",
+   "away": "decin",
+   "score": [
+    91,
+    76
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2826621,
+   "date": "2026-04-05",
+   "home": "usti",
+   "away": "opava",
+   "score": [
+    98,
+    95
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2803560,
+   "date": "2026-04-09",
+   "home": "nymburk",
+   "away": "usti",
+   "score": [
+    107,
+    94
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2828128,
+   "date": "2026-04-09",
+   "home": "slavia",
+   "away": "olomoucko",
+   "score": [
+    81,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2825149,
+   "date": "2026-04-11",
+   "home": "decin",
+   "away": "opava",
+   "score": [
+    70,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2825152,
+   "date": "2026-04-11",
+   "home": "pisek",
+   "away": "nymburk",
+   "score": [
+    78,
+    106
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2828945,
+   "date": "2026-04-11",
+   "home": "hradec",
+   "away": "olomoucko",
+   "score": [
+    86,
+    84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2828946,
+   "date": "2026-04-11",
+   "home": "usk",
+   "away": "slavia",
+   "score": [
+    76,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2825150,
+   "date": "2026-04-12",
+   "home": "brno",
+   "away": "usti",
+   "score": [
+    84,
+    88
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2828941,
+   "date": "2026-04-18",
+   "home": "decin",
+   "away": "usti",
+   "score": [
+    85,
+    80
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2828942,
+   "date": "2026-04-18",
+   "home": "opava",
+   "away": "ostrava",
+   "score": [
+    100,
+    68
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2828943,
+   "date": "2026-04-18",
+   "home": "brno",
+   "away": "nymburk",
+   "score": [
+    79,
+    106
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2828944,
+   "date": "2026-04-18",
+   "home": "pardubice",
+   "away": "pisek",
+   "score": [
+    100,
+    95
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840884,
+   "date": "2026-04-21",
+   "home": "pisek",
+   "away": "usk",
+   "score": [
+    78,
+    65
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2839654,
+   "date": "2026-04-22",
+   "home": "ostrava",
+   "away": "olomoucko",
+   "score": [
+    81,
+    77
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840885,
+   "date": "2026-04-23",
+   "home": "usk",
+   "away": "pisek",
+   "score": [
+    92,
+    100
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2839655,
+   "date": "2026-04-24",
+   "home": "olomoucko",
+   "away": "ostrava",
+   "score": [
+    71,
+    102
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840887,
+   "date": "2026-04-27",
+   "home": "brno",
+   "away": "decin",
+   "score": [
+    107,
+    94
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842864,
+   "date": "2026-04-27",
+   "home": "skb-fastav-zlin",
+   "away": "hradec",
+   "score": [
+    56,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840888,
+   "date": "2026-04-28",
+   "home": "brno",
+   "away": "decin",
+   "score": [
+    89,
+    98
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840889,
+   "date": "2026-04-28",
+   "home": "usti",
+   "away": "opava",
+   "score": [
+    85,
+    98
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840890,
+   "date": "2026-04-29",
+   "home": "usti",
+   "away": "opava",
+   "score": [
+    93,
+    86
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842865,
+   "date": "2026-04-29",
+   "home": "hradec",
+   "away": "strabag-zlin",
+   "score": [
+    94,
+    62
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842966,
+   "date": "2026-04-30",
+   "home": "nymburk",
+   "away": "ostrava",
+   "score": [
+    113,
+    69
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842775,
+   "date": "2026-04-30",
+   "home": "pardubice",
+   "away": "pisek",
+   "score": [
+    99,
+    81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842967,
+   "date": "2026-05-01",
+   "home": "nymburk",
+   "away": "ostrava",
+   "score": [
+    101,
+    67
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840891,
+   "date": "2026-05-01",
+   "home": "decin",
+   "away": "brno",
+   "score": [
+    82,
+    66
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842776,
+   "date": "2026-05-01",
+   "home": "pardubice",
+   "away": "pisek",
+   "score": [
+    78,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840892,
+   "date": "2026-05-02",
+   "home": "decin",
+   "away": "brno",
+   "score": [
+    84,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840893,
+   "date": "2026-05-02",
+   "home": "opava",
+   "away": "usti",
+   "score": [
+    85,
+    69
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840894,
+   "date": "2026-05-03",
+   "home": "opava",
+   "away": "usti",
+   "score": [
+    108,
+    89
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842777,
+   "date": "2026-05-04",
+   "home": "pisek",
+   "away": "pardubice",
+   "score": [
+    63,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842968,
+   "date": "2026-05-04",
+   "home": "ostrava",
+   "away": "nymburk",
+   "score": [
+    71,
+    93
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842969,
+   "date": "2026-05-05",
+   "home": "ostrava",
+   "away": "nymburk",
+   "score": [
+    70,
+    116
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840895,
+   "date": "2026-05-05",
+   "home": "brno",
+   "away": "decin",
+   "score": [
+    75,
+    65
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2842778,
+   "date": "2026-05-05",
+   "home": "pisek",
+   "away": "pardubice",
+   "score": [
+    71,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840896,
+   "date": "2026-05-06",
+   "home": "usti",
+   "away": "opava",
+   "score": [
+    87,
+    72
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840897,
+   "date": "2026-05-08",
+   "home": "decin",
+   "away": "brno",
+   "score": [
+    81,
+    86
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840898,
+   "date": "2026-05-09",
+   "home": "opava",
+   "away": "usti",
+   "score": [
+    103,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2840899,
+   "date": "2026-05-11",
+   "home": "brno",
+   "away": "decin",
+   "score": [
+    98,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848300,
+   "date": "2026-05-15",
+   "home": "nymburk",
+   "away": "opava",
+   "score": [
+    116,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848301,
+   "date": "2026-05-16",
+   "home": "nymburk",
+   "away": "opava",
+   "score": [
+    92,
+    67
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848302,
+   "date": "2026-05-17",
+   "home": "pardubice",
+   "away": "brno",
+   "score": [
+    82,
+    85
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848303,
+   "date": "2026-05-18",
+   "home": "pardubice",
+   "away": "brno",
+   "score": [
+    89,
+    92
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848304,
+   "date": "2026-05-19",
+   "home": "opava",
+   "away": "nymburk",
+   "score": [
+    67,
+    95
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848305,
+   "date": "2026-05-20",
+   "home": "opava",
+   "away": "nymburk",
+   "score": [
+    86,
+    98
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848306,
+   "date": "2026-05-21",
+   "home": "brno",
+   "away": "pardubice",
+   "score": [
+    72,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848307,
+   "date": "2026-05-22",
+   "home": "brno",
+   "away": "pardubice",
+   "score": [
+    90,
+    94
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848309,
+   "date": "2026-05-25",
+   "home": "pardubice",
+   "away": "brno",
+   "score": [
+    90,
+    75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2848311,
+   "date": "2026-05-27",
+   "home": "brno",
+   "away": "pardubice",
+   "score": [
+    87,
+    98
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2852862,
+   "date": "2026-06-01",
+   "home": "brno",
+   "away": "opava",
+   "score": [
+    99,
+    97
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2852865,
+   "date": "2026-06-02",
+   "home": "nymburk",
+   "away": "pardubice",
+   "score": [
+    81,
+    73
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2852866,
+   "date": "2026-06-03",
+   "home": "nymburk",
+   "away": "pardubice",
+   "score": [
+    80,
+    74
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2852863,
+   "date": "2026-06-04",
+   "home": "opava",
+   "away": "brno",
+   "score": [
+    96,
+    65
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2855214,
+   "date": "2026-06-06",
+   "home": "brno",
+   "away": "opava",
+   "score": [
+    101,
+    102
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2852867,
+   "date": "2026-06-07",
+   "home": "pardubice",
+   "away": "nymburk",
+   "score": [
+    79,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2852868,
+   "date": "2026-06-08",
+   "home": "pardubice",
+   "away": "nymburk",
+   "score": [
+    101,
+    100
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2852869,
+   "date": "2026-06-11",
+   "home": "nymburk",
+   "away": "pardubice",
+   "score": [
+    92,
+    71
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2852870,
+   "date": "2026-06-13",
+   "home": "pardubice",
+   "away": "nymburk",
+   "score": [
+    86,
+    57
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2852871,
+   "date": "2026-06-15",
+   "home": "nymburk",
+   "away": "pardubice",
+   "score": [
+    91,
+    74
+   ],
+   "status": "final"
+  }
+ ]
 }
