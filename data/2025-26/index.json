@@ -1,0 +1,22 @@
+{
+ "season": "2025/26",
+ "generatedAt": "2026-10-29T11:50:30+00:00",
+ "counts": {
+  "fixtures": 0,
+  "final": 0,
+  "teams": 0,
+  "players": 0
+ },
+ "teams": [],
+ "files": {
+  "schedule": "schedule.json",
+  "standings": "standings.json",
+  "league": "league.json",
+  "leaders": "leaders.json",
+  "players": "players.json",
+  "team": "teams/{slug}.json",
+  "match": "matches/{fibaId}.json",
+  "raw": "raw/{fibaId}.json.gz"
+ },
+ "games": []
+}
