@@ -250,13 +250,13 @@ async function viewGames(app) {
     const regular = ph => !ph || /z[aá]klad/i.test(ph);
     for (const f of list.slice().sort((a, b) => (a.datetime || '').localeCompare(b.datetime || ''))) {
       const ph = regular(f.phase) ? '' : f.phase;
-      const key = ph + '|' + (ph ? (f.round || '') : (f.roundNum || 0));
+      const key = ph ? ph : '|' + (f.roundNum || 0);  // nadstavba/play-off jako jeden blok podle data
       if (!byKey[key]) { byKey[key] = {ph, f0: f, rows: []}; groups.push(byKey[key]); }
       byKey[key].rows.push(f);
     }
     if (!groups.some(g => g.ph)) groups.sort((a, b) => (a.f0.roundNum || 0) - (b.f0.roundNum || 0));
     $('#rounds').innerHTML = groups.map(g => {
-      const title = g.ph ? esc(g.ph) + (g.f0.round ? ' · ' + esc(g.f0.round) : '') : (g.f0.roundNum ? g.f0.roundNum + '. kolo' : 'Ostatní');
+      const title = g.ph ? esc(g.ph) : (g.f0.roundNum ? g.f0.roundNum + '. kolo' : 'Ostatní');
       return `<section><h2>${title} <span class="muted" style="text-transform:none">${fmtDay(g.f0.datetime)}</span></h2><div class="games">${g.rows.map(f => gameCard(f)).join('')}</div></section>`;
     }).join('') || '<div class="muted">Nic.</div>';
   };

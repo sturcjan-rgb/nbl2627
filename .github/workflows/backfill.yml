@@ -1,6 +1,8 @@
 name: backfill
 # Jednorázové stažení a přepočet celé minulé sezóny (rozpis + FIBA data všech zápasů).
 # Spustí se samo při změně tohoto souboru (výchozí sezóna níže), jinak ručně přes Actions.
+# Rozpis minulé sezóny je uložený v data/<sezóna>/schedule.json (nbl.basketball z Actions nevrací
+# řádky), proto se tu jen stahují FIBA data a přepočítává. Změna: 2025/26 seed z rozpisu NBL.
 on:
   push:
     paths: [".github/workflows/backfill.yml"]
@@ -29,7 +31,7 @@ jobs:
       - name: Testy
         run: python -m unittest discover -s tests -t .
       - name: Build sezóny
-        run: python -m nbl.build --season "$SEASON"
+        run: python -m nbl.build --season "$SEASON" --no-scrape
       - name: Commit dat
         run: |
           scripts/commit_data.sh "chore: backfill $SEASON" "python -m nbl.build --season '$SEASON' --no-scrape"

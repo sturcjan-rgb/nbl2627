@@ -131,6 +131,11 @@ def fetch_games(sdir: Path, fixtures: list[dict]) -> dict:
 REGULAR_PHASE = "Základní část"
 
 
+def is_relegation(g: dict) -> bool:
+    ph = ((g.get("fixture") or {}).get("phase") or "").lower()
+    return "baráž" in ph or "baraz" in ph
+
+
 def is_regular(g: dict) -> bool:
     ph = ((g.get("fixture") or {}).get("phase") or "").lower()
     return not ph or "základ" in ph or "zaklad" in ph
@@ -194,8 +199,10 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
     # tabulka jen ze základní části (nadstavba a play-off by ji zkreslily); statistiky ze všech zápasů
     regular = [g for g in final_games if is_regular(g)]
     table = season.standings(regular or final_games)
-    teams = season.team_seasons(final_games)
-    pl = season.players(final_games)
+    # baráž (soupeř z 1. ligy) do sezónních statistik nepatří; rozbor zápasu zůstává
+    stat_games = [g for g in final_games if not is_relegation(g)]
+    teams = season.team_seasons(stat_games)
+    pl = season.players(stat_games)
     league_avg = season.league_averages(teams)
     team_games = {s: t["games"] for s, t in teams.items()}
     by_team: dict[str, list] = {}
