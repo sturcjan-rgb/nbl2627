@@ -168,7 +168,13 @@ def analyze_archive(sdir: Path, fixtures: list[dict]) -> list[dict]:
             print(f"WARN rozbor {fid} selhal: {e!r}", file=sys.stderr)
             continue
         g["fibaId"] = fid
-        if fx:
+        if g["status"] != "final" and _ended_without_marker(raw, g, fx):
+            g["status"] = "final"  # zapisovatel neuzavřel zápas, ale 4. perioda skončila a skóre sedí
+        if fx and g["status"] != "final" and fx.get("status") == "final" and fx.get("score"):
+            g["incomplete"] = True  # FIBA záznam přerušený — skóre z NBL, statistiky jen částečné
+            print(f"WARN {fid}: neúplný FIBA záznam ({g['home']['score']}:{g['away']['score']}), "
+                  f"oficiálně {fx['score']['home']}:{fx['score']['away']}", file=sys.stderr)
+        elif fx:
             # skóre a stav z FIBA mají přednost před tabulkou na webu
             fx["status"] = "final" if g["status"] == "final" else fx.get("status")
             fx["score"] = {"home": g["home"]["score"], "away": g["away"]["score"]}
@@ -176,6 +182,37 @@ def analyze_archive(sdir: Path, fixtures: list[dict]) -> list[dict]:
                 print(f"WARN {fid}: FIBA má domácí/hosty prohozené oproti rozpisu", file=sys.stderr)
         games.append(g)
     return games
+
+
+def _ended_without_marker(raw: dict, g: dict, fx: dict | None) -> bool:
+    """Konec 4. periody (nebo prodloužení) bez „game end“, nerozhodné skóre nelze, a starý zápas."""
+    pbp = raw.get("pbp") or []
+    ended = any(e.get("actionType") == "period" and e.get("subType") == "end" and (e.get("period") or 0) >= 4
+                for e in pbp[:3])
+    if not ended or g["home"]["score"] == g["away"]["score"]:
+        return False
+    if fx and fx.get("score") and (fx["score"]["home"], fx["score"]["away"]) != (g["home"]["score"], g["away"]["score"]):
+        return False
+    dt = (fx or {}).get("datetime")
+    return bool(dt) and datetime.fromisoformat(dt) + timedelta(hours=6) < now_utc()
+
+
+def result_stubs(fixtures: list[dict], games: list[dict]) -> list[dict]:
+    """Odehrané zápasy (podle NBL) bez úplných FIBA dat -> minimální záznam jen pro tabulku."""
+    have = {g["fibaId"] for g in games if g["status"] == "final"}
+    meta = {}
+    for g in games:
+        for side in ("home", "away"):
+            meta.setdefault(g[side]["slug"], {k: g[side].get(k) for k in ("name", "label", "logo")})
+    out = []
+    for f in fixtures:
+        if f.get("status") != "final" or not f.get("score") or f.get("fibaId") in have:
+            continue
+        side = lambda k: {"slug": f[k + "Slug"], **meta.get(f[k + "Slug"], {"name": f.get(k), "label": f.get(k + "Label"), "logo": None}),
+                          "score": f["score"][k]}
+        out.append({"fibaId": f.get("fibaId"), "status": "final", "period": 4, "home": side("home"), "away": side("away"),
+                    "fixture": {"phase": f.get("phase"), "datetime": f.get("datetime")}})
+    return out
 
 
 def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: bool = False) -> dict:
@@ -197,7 +234,8 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
         write_json(sdir / "matches" / f"{g['fibaId']}.json", metrics.public(g), compact=True)
 
     # tabulka jen ze základní části (nadstavba a play-off by ji zkreslily); statistiky ze všech zápasů
-    regular = [g for g in final_games if is_regular(g)]
+    # tabulka z oficiálních výsledků: i zápasy, u kterých FIBA záznam chybí nebo je přerušený
+    regular = [g for g in final_games + result_stubs(fixtures, games) if is_regular(g)]
     table = season.standings(regular or final_games)
     # baráž (soupeř z 1. ligy) do sezónních statistik nepatří; rozbor zápasu zůstává
     stat_games = [g for g in final_games if not is_relegation(g)]
@@ -213,7 +251,7 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
     for f in fixtures:
         schedule.finalize(f)
     fixtures.sort(key=lambda f: (f.get("datetime") or "", f["nblId"]))
-    played_fids = {g["fibaId"] for g in games}
+    played_fids = {g["fibaId"] for g in games if not g.get("incomplete")}
     for f in fixtures:
         f["hasStats"] = f.get("fibaId") in played_fids
 

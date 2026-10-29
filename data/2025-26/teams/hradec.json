@@ -1,6 +1,6 @@
 {
  "season": "2025/26",
- "generatedAt": "2026-10-29T11:58:21+00:00",
+ "generatedAt": "2026-10-29T11:59:45+00:00",
  "slug": "hradec",
  "name": "BK GAPA Hradec Králové",
  "label": "Hradec",
@@ -8,209 +8,209 @@
  "code": "HKR",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
  "coach": "Peda Stamenkovic",
- "games": 32,
- "minutes": 1280.0,
+ "games": 33,
+ "minutes": 1320.0,
  "totals": {
-  "pts": 2462,
-  "fgm": 901,
-  "fga": 2040,
-  "tpm": 284,
-  "tpa": 890,
-  "twopm": 617,
-  "twopa": 1150,
-  "ftm": 376,
-  "fta": 534,
-  "oreb": 356,
-  "dreb": 758,
-  "reb": 1114,
-  "ast": 604,
-  "to": 525,
-  "stl": 209,
-  "blk": 71,
-  "blkr": 79,
-  "pf": 714,
-  "foulon": 600,
-  "paint": 1104,
-  "fast": 332,
-  "second": 376,
-  "bench": 948,
-  "offto": 491
+  "pts": 2533,
+  "fgm": 925,
+  "fga": 2104,
+  "tpm": 292,
+  "tpa": 918,
+  "twopm": 633,
+  "twopa": 1186,
+  "ftm": 391,
+  "fta": 552,
+  "oreb": 367,
+  "dreb": 772,
+  "reb": 1139,
+  "ast": 619,
+  "to": 535,
+  "stl": 219,
+  "blk": 74,
+  "blkr": 81,
+  "pf": 731,
+  "foulon": 621,
+  "paint": 1130,
+  "fast": 340,
+  "second": 392,
+  "bench": 972,
+  "offto": 516
  },
  "oppTotals": {
-  "pts": 2775,
-  "fgm": 1005,
-  "fga": 2080,
-  "tpm": 279,
-  "tpa": 771,
-  "twopm": 726,
-  "twopa": 1309,
-  "ftm": 486,
-  "fta": 720,
-  "oreb": 406,
-  "dreb": 835,
-  "reb": 1241,
-  "ast": 592,
-  "to": 463,
-  "stl": 276,
-  "blk": 79,
-  "blkr": 71,
-  "pf": 606,
-  "foulon": 706,
-  "paint": 1332,
-  "fast": 458,
-  "second": 431,
-  "bench": 988,
-  "offto": 581
+  "pts": 2861,
+  "fgm": 1040,
+  "fga": 2139,
+  "tpm": 287,
+  "tpa": 791,
+  "twopm": 753,
+  "twopa": 1348,
+  "ftm": 494,
+  "fta": 732,
+  "oreb": 418,
+  "dreb": 864,
+  "reb": 1282,
+  "ast": 616,
+  "to": 481,
+  "stl": 284,
+  "blk": 81,
+  "blkr": 74,
+  "pf": 627,
+  "foulon": 723,
+  "paint": 1378,
+  "fast": 469,
+  "second": 441,
+  "bench": 1021,
+  "offto": 588
  },
  "perGame": {
-  "pts": 76.9,
-  "fgm": 28.2,
+  "pts": 76.8,
+  "fgm": 28.0,
   "fga": 63.8,
-  "tpm": 8.9,
+  "tpm": 8.8,
   "tpa": 27.8,
-  "twopm": 19.3,
+  "twopm": 19.2,
   "twopa": 35.9,
   "ftm": 11.8,
   "fta": 16.7,
   "oreb": 11.1,
-  "dreb": 23.7,
-  "reb": 34.8,
-  "ast": 18.9,
-  "to": 16.4,
-  "stl": 6.5,
+  "dreb": 23.4,
+  "reb": 34.5,
+  "ast": 18.8,
+  "to": 16.2,
+  "stl": 6.6,
   "blk": 2.2,
   "blkr": 2.5,
-  "pf": 22.3,
+  "pf": 22.2,
   "foulon": 18.8,
-  "paint": 34.5,
-  "fast": 10.4,
-  "second": 11.8,
-  "bench": 29.6,
-  "offto": 15.3,
-  "ppg": 76.9,
+  "paint": 34.2,
+  "fast": 10.3,
+  "second": 11.9,
+  "bench": 29.5,
+  "offto": 15.6,
+  "ppg": 76.8,
   "oppg": 86.7,
-  "diff": -9.8
+  "diff": -9.9
  },
  "oppPerGame": {
   "pts": 86.7,
-  "fgm": 31.4,
-  "fga": 65.0,
+  "fgm": 31.5,
+  "fga": 64.8,
   "tpm": 8.7,
-  "tpa": 24.1,
-  "twopm": 22.7,
-  "twopa": 40.9,
-  "ftm": 15.2,
-  "fta": 22.5,
+  "tpa": 24.0,
+  "twopm": 22.8,
+  "twopa": 40.8,
+  "ftm": 15.0,
+  "fta": 22.2,
   "oreb": 12.7,
-  "dreb": 26.1,
+  "dreb": 26.2,
   "reb": 38.8,
-  "ast": 18.5,
-  "to": 14.5,
+  "ast": 18.7,
+  "to": 14.6,
   "stl": 8.6,
   "blk": 2.5,
   "blkr": 2.2,
-  "pf": 18.9,
-  "foulon": 22.1,
-  "paint": 41.6,
-  "fast": 14.3,
-  "second": 13.5,
+  "pf": 19.0,
+  "foulon": 21.9,
+  "paint": 41.8,
+  "fast": 14.2,
+  "second": 13.4,
   "bench": 30.9,
-  "offto": 18.2
+  "offto": 17.8
  },
  "adv": {
-  "poss": 2444.0,
-  "pace": 76.5,
+  "poss": 2514.9,
+  "pace": 76.3,
   "ortg": 100.7,
-  "drtg": 113.1,
-  "net": -12.4,
-  "efg": 51.1,
-  "ts": 54.1,
-  "tov": 18.8,
-  "orb": 29.9,
-  "drb": 65.1,
-  "ftr": 18.4,
+  "drtg": 113.3,
+  "net": -12.6,
+  "efg": 50.9,
+  "ts": 54.0,
+  "tov": 18.6,
+  "orb": 29.8,
+  "drb": 64.9,
+  "ftr": 18.6,
   "fta_rate": 26.2,
   "three_par": 43.6,
-  "fg": 44.2,
-  "two": 53.7,
-  "three": 31.9,
-  "ft": 70.4,
-  "ast_pct": 67.0,
-  "ast_to": 1.15,
-  "stl_pct": 8.5,
-  "blk_pct": 5.4,
+  "fg": 44.0,
+  "two": 53.4,
+  "three": 31.8,
+  "ft": 70.8,
+  "ast_pct": 66.9,
+  "ast_to": 1.16,
+  "stl_pct": 8.7,
+  "blk_pct": 5.5,
   "pts_per_shot": 1.08
  },
  "oppAdv": {
-  "opp_efg": 55.0,
-  "opp_ts": 57.9,
-  "opp_tov": 16.2,
-  "opp_ftr": 23.4,
-  "opp_three_par": 37.1,
-  "opp_fg": 48.3,
-  "opp_two": 55.5,
-  "opp_three": 36.2,
+  "opp_efg": 55.3,
+  "opp_ts": 58.1,
+  "opp_tov": 16.3,
+  "opp_ftr": 23.1,
+  "opp_three_par": 37.0,
+  "opp_fg": 48.6,
+  "opp_two": 55.9,
+  "opp_three": 36.3,
   "opp_ft": 67.5
  },
  "factors": {
-  "efg": 51.1,
-  "tov": 18.8,
-  "orb": 29.9,
-  "ftr": 18.4,
-  "opp_efg": 55.0,
-  "opp_tov": 16.2,
-  "drb": 65.1,
-  "opp_ftr": 23.4
+  "efg": 50.9,
+  "tov": 18.6,
+  "orb": 29.8,
+  "ftr": 18.6,
+  "opp_efg": 55.3,
+  "opp_tov": 16.3,
+  "drb": 64.9,
+  "opp_ftr": 23.1
  },
  "zones": {
   "paint": {
-   "m": 572,
-   "a": 1035,
-   "pct": 55.3,
-   "share": 50.7
+   "m": 585,
+   "a": 1064,
+   "pct": 55.0,
+   "share": 50.6
   },
   "mid": {
-   "m": 45,
-   "a": 115,
-   "pct": 39.1,
-   "share": 5.6
+   "m": 48,
+   "a": 122,
+   "pct": 39.3,
+   "share": 5.8
   },
   "corner3": {
-   "m": 62,
-   "a": 177,
-   "pct": 35.0,
+   "m": 64,
+   "a": 182,
+   "pct": 35.2,
    "share": 8.7
   },
   "above3": {
-   "m": 222,
-   "a": 713,
-   "pct": 31.1,
+   "m": 228,
+   "a": 736,
+   "pct": 31.0,
    "share": 35.0
   }
  },
  "oppZones": {
   "paint": {
-   "m": 685,
-   "a": 1181,
-   "pct": 58.0,
+   "m": 708,
+   "a": 1214,
+   "pct": 58.3,
    "share": null
   },
   "mid": {
-   "m": 41,
-   "a": 128,
-   "pct": 32.0,
+   "m": 45,
+   "a": 134,
+   "pct": 33.6,
    "share": null
   },
   "corner3": {
    "m": 73,
-   "a": 181,
-   "pct": 40.3,
+   "a": 183,
+   "pct": 39.9,
    "share": null
   },
   "above3": {
-   "m": 206,
-   "a": 590,
-   "pct": 34.9,
+   "m": 214,
+   "a": 608,
+   "pct": 35.2,
    "share": null
   }
  },
@@ -223,63 +223,63 @@
    "20+"
   ],
   "pts": [
-   331,
-   329,
-   593,
-   613,
-   581
+   341,
+   335,
+   602,
+   637,
+   603
   ],
   "unassigned": 15,
-  "possessions": 2484,
+  "possessions": 2558,
   "ptsPerPoss": 0.99,
   "avgSec": 15.2
  },
  "clutch": {
   "pts": 84,
-  "opp": 97,
+  "opp": 99,
   "fgm": 27,
   "fga": 62,
   "ftm": 22,
   "fta": 38,
   "to": 16,
-  "games": 14,
+  "games": 15,
   "w": 5,
-  "l": 9,
+  "l": 10,
   "fgPct": 43.5,
-  "net": -13
+  "net": -15
  },
  "quarters": [
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 19.9,
+   "ppg": 19.7,
    "oppg": 20.9,
-   "diff": -1.1,
-   "n": 32
+   "diff": -1.2,
+   "n": 33
   },
   {
    "period": 2,
    "label": "Q2",
    "ppg": 19.5,
-   "oppg": 22.3,
-   "diff": -2.9,
-   "n": 32
+   "oppg": 22.2,
+   "diff": -2.6,
+   "n": 33
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 19.2,
-   "oppg": 21.0,
-   "diff": -1.8,
-   "n": 32
+   "ppg": 19.1,
+   "oppg": 21.1,
+   "diff": -2.1,
+   "n": 33
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 18.4,
-   "oppg": 22.4,
+   "ppg": 18.5,
+   "oppg": 22.5,
    "diff": -4.0,
-   "n": 32
+   "n": 33
   }
  ],
  "flow": {
@@ -287,7 +287,7 @@
   "biggestDeficit": 42,
   "biggestRun": 13,
   "biggestRunAllowed": 20,
-  "leadChangesPerGame": 6.0
+  "leadChangesPerGame": 6.2
  },
  "lineups": {
   "fives": [
@@ -755,6 +755,28 @@
    },
    {
     "players": [
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub",
+     "Tomáš Dvořák",
+     "Vojtěch Synáček"
+    ],
+    "min": 11.5,
+    "pf": 24,
+    "pa": 28,
+    "pm": -4,
+    "poss": 20.4,
+    "pF": 19.9,
+    "pA": 20.9,
+    "ortg": 120.7,
+    "drtg": 134.1,
+    "net": -13.4,
+    "efg": 44.2,
+    "oefg": 65.0,
+    "games": 4
+   },
+   {
+    "players": [
      "David Škranc",
      "Kareem Lamonte Brewton",
      "Lassi Paavo Verner Nikkarinen",
@@ -931,6 +953,72 @@
    },
    {
     "players": [
+     "Austin Calvin Johnson",
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Dvořák",
+     "Vojtěch Synáček"
+    ],
+    "min": 9.0,
+    "pf": 33,
+    "pa": 12,
+    "pm": 21,
+    "poss": 15.4,
+    "pF": 16.1,
+    "pA": 14.8,
+    "ortg": 205.2,
+    "drtg": 81.3,
+    "net": 123.9,
+    "efg": 81.2,
+    "oefg": 45.8,
+    "games": 2
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub",
+     "Vojtěch Synáček"
+    ],
+    "min": 8.9,
+    "pf": 18,
+    "pa": 15,
+    "pm": 3,
+    "poss": 16.9,
+    "pF": 17.8,
+    "pA": 16.0,
+    "ortg": 101.4,
+    "drtg": 94.0,
+    "net": 7.4,
+    "efg": 57.1,
+    "oefg": 33.3,
+    "games": 4
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Jan Bubeníček",
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub",
+     "Vojtěch Synáček"
+    ],
+    "min": 8.6,
+    "pf": 7,
+    "pa": 16,
+    "pm": -9,
+    "poss": 15.2,
+    "pF": 14.3,
+    "pA": 16.0,
+    "ortg": 48.9,
+    "drtg": 100.0,
+    "net": -51.1,
+    "efg": 19.2,
+    "oefg": 50.0,
+    "games": 3
+   },
+   {
+    "players": [
      "David Škranc",
      "Kameron Jamal Chatman",
      "Kareem Lamonte Brewton",
@@ -950,28 +1038,6 @@
     "efg": 46.7,
     "oefg": 28.6,
     "games": 4
-   },
-   {
-    "players": [
-     "Kareem Lamonte Brewton",
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub",
-     "Tomáš Dvořák",
-     "Vojtěch Synáček"
-    ],
-    "min": 8.3,
-    "pf": 21,
-    "pa": 15,
-    "pm": 6,
-    "poss": 14.5,
-    "pF": 14.0,
-    "pA": 15.0,
-    "ortg": 150.0,
-    "drtg": 100.0,
-    "net": 50.0,
-    "efg": 55.3,
-    "oefg": 50.0,
-    "games": 3
    },
    {
     "players": [
@@ -1173,25 +1239,47 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Kareem Lamonte Brewton",
+     "Jan Bubeníček",
      "Lassi Paavo Verner Nikkarinen",
      "Martin Roub",
+     "Tomáš Dvořák",
      "Vojtěch Synáček"
     ],
     "min": 7.7,
-    "pf": 16,
-    "pa": 12,
-    "pm": 4,
-    "poss": 14.9,
-    "pF": 15.8,
-    "pA": 14.1,
-    "ortg": 101.5,
-    "drtg": 85.2,
-    "net": 16.3,
-    "efg": 58.3,
-    "oefg": 27.3,
-    "games": 3
+    "pf": 17,
+    "pa": 15,
+    "pm": 2,
+    "poss": 13.9,
+    "pF": 14.9,
+    "pA": 13.0,
+    "ortg": 114.2,
+    "drtg": 115.7,
+    "net": -1.5,
+    "efg": 72.7,
+    "oefg": 38.9,
+    "games": 4
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Jan Bubeníček",
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub"
+    ],
+    "min": 7.7,
+    "pf": 9,
+    "pa": 18,
+    "pm": -9,
+    "poss": 12.5,
+    "pF": 11.9,
+    "pA": 13.1,
+    "ortg": 75.8,
+    "drtg": 137.6,
+    "net": -61.9,
+    "efg": 50.0,
+    "oefg": 59.1,
+    "games": 2
    },
    {
     "players": [
@@ -1459,28 +1547,6 @@
    },
    {
     "players": [
-     "Jan Bubeníček",
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub",
-     "Tomáš Dvořák",
-     "Vojtěch Synáček"
-    ],
-    "min": 6.8,
-    "pf": 12,
-    "pa": 15,
-    "pm": -3,
-    "poss": 11.7,
-    "pF": 12.4,
-    "pA": 11.0,
-    "ortg": 96.5,
-    "drtg": 136.9,
-    "net": -40.4,
-    "efg": 66.7,
-    "oefg": 38.9,
-    "games": 3
-   },
-   {
-    "players": [
      "David Škranc",
      "Jan Bubeníček",
      "Martin Roub",
@@ -1654,6 +1720,28 @@
     "efg": 50.0,
     "oefg": 50.0,
     "games": 3
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub",
+     "Tomáš Merta"
+    ],
+    "min": 6.0,
+    "pf": 13,
+    "pa": 10,
+    "pm": 3,
+    "poss": 10.5,
+    "pF": 12.0,
+    "pA": 9.0,
+    "ortg": 108.3,
+    "drtg": 111.1,
+    "net": -2.8,
+    "efg": 59.1,
+    "oefg": 71.4,
+    "games": 2
    },
    {
     "players": [
@@ -1907,16 +1995,16 @@
     ],
     "min": 5.2,
     "pf": 18,
-    "pa": 13,
-    "pm": 5,
-    "poss": 10.6,
+    "pa": 16,
+    "pm": 2,
+    "poss": 11.1,
     "pF": 10.4,
-    "pA": 10.8,
+    "pA": 11.8,
     "ortg": 173.1,
-    "drtg": 120.8,
-    "net": 52.3,
+    "drtg": 136.1,
+    "net": 37.0,
     "efg": 71.4,
-    "oefg": 64.3,
+    "oefg": 75.0,
     "games": 4
    },
    {
@@ -2005,6 +2093,28 @@
     "net": 37.8,
     "efg": 50.0,
     "oefg": 44.4,
+    "games": 4
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub",
+     "Tomáš Merta"
+    ],
+    "min": 5.0,
+    "pf": 6,
+    "pa": 17,
+    "pm": -11,
+    "poss": 11.4,
+    "pF": 10.8,
+    "pA": 12.1,
+    "ortg": 55.8,
+    "drtg": 140.7,
+    "net": -85.0,
+    "efg": 20.0,
+    "oefg": 92.9,
     "games": 4
    },
    {
@@ -2495,6 +2605,28 @@
     "players": [
      "Austin Calvin Johnson",
      "Jan Bubeníček",
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Dvořák",
+     "Vojtěch Synáček"
+    ],
+    "min": 4.3,
+    "pf": 7,
+    "pa": 7,
+    "pm": 0,
+    "poss": 8.4,
+    "pF": 8.0,
+    "pA": 8.9,
+    "ortg": 87.5,
+    "drtg": 78.8,
+    "net": 8.7,
+    "efg": 38.9,
+    "oefg": 37.5,
+    "games": 3
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Jan Bubeníček",
      "Kareem Lamonte Brewton",
      "Lassi Paavo Verner Nikkarinen",
      "Tomáš Dvořák"
@@ -2560,24 +2692,24 @@
    {
     "players": [
      "Austin Calvin Johnson",
-     "Kareem Lamonte Brewton",
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub",
-     "Tomáš Merta"
+     "Jan Bubeníček",
+     "Tomáš Dvořák",
+     "Tomáš Merta",
+     "Vojtěch Synáček"
     ],
     "min": 4.2,
-    "pf": 6,
-    "pa": 15,
-    "pm": -9,
-    "poss": 10.4,
-    "pF": 9.8,
-    "pA": 11.1,
-    "ortg": 61.5,
-    "drtg": 135.4,
-    "net": -73.9,
-    "efg": 20.0,
-    "oefg": 91.7,
-    "games": 3
+    "pf": 7,
+    "pa": 7,
+    "pm": 0,
+    "poss": 9.6,
+    "pF": 10.5,
+    "pA": 8.6,
+    "ortg": 66.5,
+    "drtg": 81.0,
+    "net": -14.5,
+    "efg": 22.2,
+    "oefg": 20.0,
+    "games": 2
    },
    {
     "players": [
@@ -2644,28 +2776,6 @@
     "efg": 25.0,
     "oefg": 45.0,
     "games": 1
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
-     "Jan Bubeníček",
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub",
-     "Vojtěch Synáček"
-    ],
-    "min": 3.8,
-    "pf": 4,
-    "pa": 8,
-    "pm": -4,
-    "poss": 6.2,
-    "pF": 6.3,
-    "pA": 6.0,
-    "ortg": 63.3,
-    "drtg": 133.3,
-    "net": -70.0,
-    "efg": 20.0,
-    "oefg": 66.7,
-    "games": 2
    },
    {
     "players": [
@@ -3021,24 +3131,24 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Jan Bubeníček",
+     "Kareem Lamonte Brewton",
      "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub",
      "Tomáš Dvořák",
-     "Vojtěch Synáček"
+     "Tomáš Merta"
     ],
     "min": 3.5,
-    "pf": 5,
-    "pa": 5,
-    "pm": 0,
-    "poss": 6.4,
-    "pF": 6.0,
-    "pA": 6.9,
-    "ortg": 83.3,
-    "drtg": 72.7,
-    "net": 10.7,
-    "efg": 35.7,
-    "oefg": 33.3,
+    "pf": 7,
+    "pa": 8,
+    "pm": -1,
+    "poss": 7.8,
+    "pF": 8.9,
+    "pA": 6.8,
+    "ortg": 78.8,
+    "drtg": 118.3,
+    "net": -39.5,
+    "efg": 50.0,
+    "oefg": 116.7,
     "games": 2
    },
    {
@@ -3171,28 +3281,6 @@
     "net": 52.4,
     "efg": 50.0,
     "oefg": 40.0,
-    "games": 1
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
-     "Jan Bubeníček",
-     "Kareem Lamonte Brewton",
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub"
-    ],
-    "min": 3.3,
-    "pf": 4,
-    "pa": 8,
-    "pm": -4,
-    "poss": 5.1,
-    "pF": 5.0,
-    "pA": 5.2,
-    "ortg": 80.0,
-    "drtg": 153.8,
-    "net": -73.8,
-    "efg": 66.7,
-    "oefg": 83.3,
     "games": 1
    },
    {
@@ -3996,18 +4084,18 @@
      "Martin Roub",
      "Tomáš Merta"
     ],
-    "min": 165.8,
-    "pf": 271,
-    "pa": 337,
-    "pm": -66,
-    "poss": 305.9,
-    "pF": 306.0,
-    "pA": 305.9,
-    "ortg": 88.6,
-    "drtg": 110.2,
-    "net": -21.6,
-    "efg": 44.9,
-    "oefg": 54.8
+    "min": 174.4,
+    "pf": 279,
+    "pa": 354,
+    "pm": -75,
+    "poss": 320.9,
+    "pF": 322.0,
+    "pA": 319.8,
+    "ortg": 86.7,
+    "drtg": 110.7,
+    "net": -24.0,
+    "efg": 44.2,
+    "oefg": 55.9
    },
    {
     "players": [
@@ -4053,18 +4141,18 @@
      "Martin Roub",
      "Tomáš Merta"
     ],
-    "min": 148.5,
-    "pf": 299,
-    "pa": 292,
-    "pm": 7,
-    "poss": 276.9,
-    "pF": 277.3,
-    "pA": 276.6,
-    "ortg": 107.8,
-    "drtg": 105.6,
-    "net": 2.3,
-    "efg": 53.6,
-    "oefg": 52.0
+    "min": 155.9,
+    "pf": 307,
+    "pa": 307,
+    "pm": 0,
+    "poss": 290.4,
+    "pF": 291.3,
+    "pA": 289.5,
+    "ortg": 105.4,
+    "drtg": 106.1,
+    "net": -0.7,
+    "efg": 52.8,
+    "oefg": 53.3
    },
    {
     "players": [
@@ -4110,18 +4198,56 @@
      "Martin Roub",
      "Tomáš Dvořák"
     ],
-    "min": 134.4,
-    "pf": 305,
-    "pa": 304,
-    "pm": 1,
-    "poss": 253.2,
-    "pF": 253.6,
-    "pA": 252.8,
-    "ortg": 120.2,
-    "drtg": 120.2,
-    "net": 0.0,
-    "efg": 60.0,
-    "oefg": 55.1
+    "min": 140.6,
+    "pf": 315,
+    "pa": 320,
+    "pm": -5,
+    "poss": 265.3,
+    "pF": 267.0,
+    "pA": 263.6,
+    "ortg": 118.0,
+    "drtg": 121.4,
+    "net": -3.4,
+    "efg": 58.5,
+    "oefg": 56.7
+   },
+   {
+    "players": [
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub"
+    ],
+    "min": 132.4,
+    "pf": 258,
+    "pa": 298,
+    "pm": -40,
+    "poss": 257.2,
+    "pF": 259.1,
+    "pA": 255.3,
+    "ortg": 99.6,
+    "drtg": 116.7,
+    "net": -17.2,
+    "efg": 51.2,
+    "oefg": 58.5
+   },
+   {
+    "players": [
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub",
+     "Vojtěch Synáček"
+    ],
+    "min": 121.9,
+    "pf": 240,
+    "pa": 251,
+    "pm": -11,
+    "poss": 227.1,
+    "pF": 228.2,
+    "pA": 226.0,
+    "ortg": 105.2,
+    "drtg": 111.1,
+    "net": -5.9,
+    "efg": 52.3,
+    "oefg": 52.9
    },
    {
     "players": [
@@ -4144,25 +4270,6 @@
    },
    {
     "players": [
-     "Kareem Lamonte Brewton",
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub"
-    ],
-    "min": 116.6,
-    "pf": 240,
-    "pa": 259,
-    "pm": -19,
-    "poss": 229.6,
-    "pF": 230.4,
-    "pA": 228.8,
-    "ortg": 104.2,
-    "drtg": 113.2,
-    "net": -9.0,
-    "efg": 53.9,
-    "oefg": 56.0
-   },
-   {
-    "players": [
      "Kameron Jamal Chatman",
      "Kareem Lamonte Brewton",
      "Tomáš Merta"
@@ -4179,6 +4286,25 @@
     "net": -23.3,
     "efg": 45.7,
     "oefg": 52.2
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen"
+    ],
+    "min": 116.0,
+    "pf": 228,
+    "pa": 246,
+    "pm": -18,
+    "poss": 218.0,
+    "pF": 213.5,
+    "pA": 222.6,
+    "ortg": 106.8,
+    "drtg": 110.5,
+    "net": -3.8,
+    "efg": 52.3,
+    "oefg": 53.3
    },
    {
     "players": [
@@ -4236,25 +4362,6 @@
     "net": -21.7,
     "efg": 42.0,
     "oefg": 54.1
-   },
-   {
-    "players": [
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub",
-     "Vojtěch Synáček"
-    ],
-    "min": 110.8,
-    "pf": 227,
-    "pa": 225,
-    "pm": 2,
-    "poss": 206.6,
-    "pF": 208.9,
-    "pA": 204.2,
-    "ortg": 108.7,
-    "drtg": 110.2,
-    "net": -1.5,
-    "efg": 54.7,
-    "oefg": 51.4
    },
    {
     "players": [
@@ -4410,25 +4517,6 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Kareem Lamonte Brewton",
-     "Lassi Paavo Verner Nikkarinen"
-    ],
-    "min": 101.6,
-    "pf": 191,
-    "pa": 218,
-    "pm": -27,
-    "poss": 194.5,
-    "pF": 190.0,
-    "pA": 198.9,
-    "ortg": 100.5,
-    "drtg": 109.6,
-    "net": -9.1,
-    "efg": 49.7,
-    "oefg": 53.1
-   },
-   {
-    "players": [
      "David Škranc",
      "Kameron Jamal Chatman",
      "Tomáš Dvořák"
@@ -4445,6 +4533,44 @@
     "net": 0.9,
     "efg": 55.5,
     "oefg": 55.2
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Kareem Lamonte Brewton",
+     "Tomáš Dvořák"
+    ],
+    "min": 100.4,
+    "pf": 223,
+    "pa": 196,
+    "pm": 27,
+    "poss": 191.2,
+    "pF": 188.6,
+    "pA": 193.9,
+    "ortg": 118.2,
+    "drtg": 101.1,
+    "net": 17.1,
+    "efg": 56.2,
+    "oefg": 52.2
+   },
+   {
+    "players": [
+     "Kareem Lamonte Brewton",
+     "Tomáš Dvořák",
+     "Tomáš Merta"
+    ],
+    "min": 100.1,
+    "pf": 216,
+    "pa": 202,
+    "pm": 14,
+    "poss": 186.9,
+    "pF": 185.0,
+    "pA": 188.7,
+    "ortg": 116.8,
+    "drtg": 107.0,
+    "net": 9.7,
+    "efg": 55.2,
+    "oefg": 56.9
    },
    {
     "players": [
@@ -4467,6 +4593,25 @@
    },
    {
     "players": [
+     "Kareem Lamonte Brewton",
+     "Martin Roub",
+     "Tomáš Dvořák"
+    ],
+    "min": 95.7,
+    "pf": 158,
+    "pa": 196,
+    "pm": -38,
+    "poss": 179.1,
+    "pF": 176.2,
+    "pA": 182.0,
+    "ortg": 89.7,
+    "drtg": 107.7,
+    "net": -18.1,
+    "efg": 45.0,
+    "oefg": 51.6
+   },
+   {
+    "players": [
      "Martin Roub",
      "Matija Popović",
      "Tomáš Merta"
@@ -4483,25 +4628,6 @@
     "net": -15.2,
     "efg": 46.6,
     "oefg": 53.7
-   },
-   {
-    "players": [
-     "Kareem Lamonte Brewton",
-     "Tomáš Dvořák",
-     "Tomáš Merta"
-    ],
-    "min": 95.0,
-    "pf": 211,
-    "pa": 186,
-    "pm": 25,
-    "poss": 177.2,
-    "pF": 175.6,
-    "pA": 178.8,
-    "ortg": 120.2,
-    "drtg": 104.0,
-    "net": 16.2,
-    "efg": 56.5,
-    "oefg": 54.9
    },
    {
     "players": [
@@ -4620,40 +4746,21 @@
    {
     "players": [
      "Austin Calvin Johnson",
-     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
      "Tomáš Dvořák"
     ],
-    "min": 90.2,
-    "pf": 190,
-    "pa": 175,
-    "pm": 15,
-    "poss": 174.3,
-    "pF": 171.5,
-    "pA": 177.0,
-    "ortg": 110.8,
-    "drtg": 98.9,
-    "net": 11.9,
-    "efg": 54.0,
-    "oefg": 51.4
-   },
-   {
-    "players": [
-     "Kareem Lamonte Brewton",
-     "Martin Roub",
-     "Tomáš Dvořák"
-    ],
-    "min": 89.1,
-    "pf": 153,
-    "pa": 178,
-    "pm": -25,
-    "poss": 167.3,
-    "pF": 163.4,
-    "pA": 171.2,
-    "ortg": 93.7,
-    "drtg": 104.0,
-    "net": -10.3,
-    "efg": 47.3,
-    "oefg": 49.0
+    "min": 89.2,
+    "pf": 183,
+    "pa": 184,
+    "pm": -1,
+    "poss": 162.2,
+    "pF": 159.4,
+    "pA": 165.1,
+    "ortg": 114.8,
+    "drtg": 111.5,
+    "net": 3.3,
+    "efg": 52.8,
+    "oefg": 54.7
    },
    {
     "players": [
@@ -4692,6 +4799,25 @@
     "net": -13.5,
     "efg": 50.7,
     "oefg": 56.8
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
+     "Kareem Lamonte Brewton",
+     "Martin Roub"
+    ],
+    "min": 85.8,
+    "pf": 134,
+    "pa": 193,
+    "pm": -59,
+    "poss": 161.9,
+    "pF": 161.3,
+    "pA": 162.6,
+    "ortg": 83.1,
+    "drtg": 118.7,
+    "net": -35.7,
+    "efg": 43.8,
+    "oefg": 59.6
    },
    {
     "players": [
@@ -4790,6 +4916,25 @@
    },
    {
     "players": [
+     "Austin Calvin Johnson",
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub"
+    ],
+    "min": 80.7,
+    "pf": 118,
+    "pa": 185,
+    "pm": -67,
+    "poss": 147.1,
+    "pF": 146.4,
+    "pA": 147.7,
+    "ortg": 80.6,
+    "drtg": 125.2,
+    "net": -44.7,
+    "efg": 43.9,
+    "oefg": 53.8
+   },
+   {
+    "players": [
      "David Škranc",
      "Kameron Jamal Chatman",
      "Matija Popović"
@@ -4809,41 +4954,41 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
+     "Jan Bubeníček",
      "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Dvořák"
+     "Martin Roub"
     ],
-    "min": 78.2,
-    "pf": 145,
-    "pa": 161,
-    "pm": -16,
-    "poss": 143.1,
-    "pF": 140.0,
-    "pA": 146.2,
-    "ortg": 103.6,
-    "drtg": 110.1,
-    "net": -6.6,
-    "efg": 49.2,
-    "oefg": 53.3
+    "min": 77.6,
+    "pf": 117,
+    "pa": 156,
+    "pm": -39,
+    "poss": 140.0,
+    "pF": 137.9,
+    "pA": 142.1,
+    "ortg": 84.8,
+    "drtg": 109.8,
+    "net": -25.0,
+    "efg": 45.3,
+    "oefg": 54.6
    },
    {
     "players": [
-     "Jan Bubeníček",
+     "Austin Calvin Johnson",
      "Kareem Lamonte Brewton",
-     "Martin Roub"
+     "Tomáš Merta"
     ],
-    "min": 76.2,
-    "pf": 123,
-    "pa": 173,
-    "pm": -50,
-    "poss": 145.6,
-    "pF": 144.4,
-    "pA": 146.7,
-    "ortg": 85.2,
-    "drtg": 117.9,
-    "net": -32.8,
-    "efg": 45.3,
-    "oefg": 59.1
+    "min": 75.4,
+    "pf": 185,
+    "pa": 166,
+    "pm": 19,
+    "poss": 142.3,
+    "pF": 142.0,
+    "pA": 142.5,
+    "ortg": 130.2,
+    "drtg": 116.5,
+    "net": 13.7,
+    "efg": 61.6,
+    "oefg": 57.6
    },
    {
     "players": [
@@ -4866,6 +5011,25 @@
    },
    {
     "players": [
+     "Austin Calvin Johnson",
+     "Lassi Paavo Verner Nikkarinen",
+     "Vojtěch Synáček"
+    ],
+    "min": 74.7,
+    "pf": 149,
+    "pa": 140,
+    "pm": 9,
+    "poss": 139.4,
+    "pF": 141.0,
+    "pA": 137.8,
+    "ortg": 105.7,
+    "drtg": 101.6,
+    "net": 4.1,
+    "efg": 52.2,
+    "oefg": 50.0
+   },
+   {
+    "players": [
      "Alessandro Petric",
      "Martin Roub",
      "Tomáš Merta"
@@ -4885,22 +5049,41 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Kareem Lamonte Brewton",
+     "Martin Roub",
+     "Tomáš Dvořák",
      "Tomáš Merta"
     ],
-    "min": 72.3,
-    "pf": 182,
-    "pa": 153,
-    "pm": 29,
-    "poss": 137.0,
-    "pF": 137.6,
-    "pA": 136.5,
-    "ortg": 132.3,
-    "drtg": 112.1,
-    "net": 20.2,
-    "efg": 62.3,
-    "oefg": 55.4
+    "min": 73.2,
+    "pf": 157,
+    "pa": 163,
+    "pm": -6,
+    "poss": 141.7,
+    "pF": 137.5,
+    "pA": 146.0,
+    "ortg": 114.2,
+    "drtg": 111.7,
+    "net": 2.5,
+    "efg": 60.3,
+    "oefg": 58.9
+   },
+   {
+    "players": [
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Vojtěch Synáček"
+    ],
+    "min": 72.1,
+    "pf": 158,
+    "pa": 143,
+    "pm": 15,
+    "poss": 136.2,
+    "pF": 137.5,
+    "pA": 134.8,
+    "ortg": 114.9,
+    "drtg": 106.1,
+    "net": 8.9,
+    "efg": 50.0,
+    "oefg": 52.7
    },
    {
     "players": [
@@ -4920,6 +5103,25 @@
     "net": -17.0,
     "efg": 48.9,
     "oefg": 54.4
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Tomáš Dvořák",
+     "Tomáš Merta"
+    ],
+    "min": 71.8,
+    "pf": 175,
+    "pa": 159,
+    "pm": 16,
+    "poss": 131.5,
+    "pF": 130.7,
+    "pA": 132.2,
+    "ortg": 133.9,
+    "drtg": 120.2,
+    "net": 13.7,
+    "efg": 56.6,
+    "oefg": 60.4
    },
    {
     "players": [
@@ -4944,20 +5146,20 @@
     "players": [
      "Martin Roub",
      "Tomáš Dvořák",
-     "Tomáš Merta"
+     "Vojtěch Synáček"
     ],
-    "min": 70.4,
-    "pf": 155,
-    "pa": 158,
-    "pm": -3,
-    "poss": 136.3,
-    "pF": 131.5,
-    "pA": 141.1,
-    "ortg": 117.9,
-    "drtg": 112.0,
-    "net": 5.9,
-    "efg": 61.6,
-    "oefg": 58.3
+    "min": 69.7,
+    "pf": 158,
+    "pa": 139,
+    "pm": 19,
+    "poss": 134.3,
+    "pF": 136.2,
+    "pA": 132.4,
+    "ortg": 116.0,
+    "drtg": 105.0,
+    "net": 11.1,
+    "efg": 57.1,
+    "oefg": 53.6
    },
    {
     "players": [
@@ -4980,22 +5182,22 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub"
+     "Kareem Lamonte Brewton",
+     "Martin Roub",
+     "Vojtěch Synáček"
     ],
-    "min": 69.5,
-    "pf": 108,
-    "pa": 162,
-    "pm": -54,
-    "poss": 127.8,
-    "pF": 128.6,
-    "pA": 127.0,
-    "ortg": 84.0,
-    "drtg": 127.6,
-    "net": -43.6,
-    "efg": 46.0,
-    "oefg": 54.5
+    "min": 69.0,
+    "pf": 118,
+    "pa": 149,
+    "pm": -31,
+    "poss": 133.0,
+    "pF": 130.1,
+    "pA": 135.8,
+    "ortg": 90.7,
+    "drtg": 109.7,
+    "net": -19.0,
+    "efg": 43.7,
+    "oefg": 55.5
    },
    {
     "players": [
@@ -5018,6 +5220,25 @@
    },
    {
     "players": [
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Dvořák"
+    ],
+    "min": 67.8,
+    "pf": 161,
+    "pa": 142,
+    "pm": 19,
+    "poss": 130.5,
+    "pF": 128.1,
+    "pA": 132.8,
+    "ortg": 125.7,
+    "drtg": 106.9,
+    "net": 18.8,
+    "efg": 57.2,
+    "oefg": 56.0
+   },
+   {
+    "players": [
      "Alessandro Petric",
      "Kameron Jamal Chatman",
      "Matija Popović"
@@ -5037,22 +5258,41 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
+     "Lassi Paavo Verner Nikkarinen",
      "Tomáš Dvořák",
-     "Tomáš Merta"
+     "Vojtěch Synáček"
     ],
-    "min": 65.0,
-    "pf": 162,
-    "pa": 138,
-    "pm": 24,
-    "poss": 119.0,
-    "pF": 118.6,
-    "pA": 119.4,
-    "ortg": 136.6,
-    "drtg": 115.6,
-    "net": 21.0,
-    "efg": 58.6,
-    "oefg": 57.4
+    "min": 66.1,
+    "pf": 161,
+    "pa": 127,
+    "pm": 34,
+    "poss": 122.3,
+    "pF": 124.3,
+    "pA": 120.2,
+    "ortg": 129.5,
+    "drtg": 105.7,
+    "net": 23.8,
+    "efg": 60.5,
+    "oefg": 51.5
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Kareem Lamonte Brewton",
+     "Vojtěch Synáček"
+    ],
+    "min": 66.0,
+    "pf": 131,
+    "pa": 124,
+    "pm": 7,
+    "poss": 125.2,
+    "pF": 125.6,
+    "pA": 124.8,
+    "ortg": 104.3,
+    "drtg": 99.4,
+    "net": 4.9,
+    "efg": 47.6,
+    "oefg": 48.6
    },
    {
     "players": [
@@ -5072,25 +5312,6 @@
     "net": -11.2,
     "efg": 53.8,
     "oefg": 51.4
-   },
-   {
-    "players": [
-     "Martin Roub",
-     "Tomáš Dvořák",
-     "Vojtěch Synáček"
-    ],
-    "min": 64.4,
-    "pf": 150,
-    "pa": 124,
-    "pm": 26,
-    "poss": 124.2,
-    "pF": 125.9,
-    "pA": 122.6,
-    "ortg": 119.2,
-    "drtg": 101.2,
-    "net": 18.0,
-    "efg": 59.6,
-    "oefg": 51.0
    },
    {
     "players": [
@@ -5114,40 +5335,21 @@
    {
     "players": [
      "Jan Bubeníček",
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub"
-    ],
-    "min": 62.3,
-    "pf": 98,
-    "pa": 128,
-    "pm": -30,
-    "poss": 111.9,
-    "pF": 110.6,
-    "pA": 113.2,
-    "ortg": 88.6,
-    "drtg": 113.1,
-    "net": -24.5,
-    "efg": 47.8,
-    "oefg": 54.7
-   },
-   {
-    "players": [
-     "Kareem Lamonte Brewton",
      "Martin Roub",
-     "Vojtěch Synáček"
+     "Tomáš Merta"
     ],
-    "min": 62.3,
-    "pf": 113,
-    "pa": 129,
-    "pm": -16,
-    "poss": 122.1,
-    "pF": 119.2,
-    "pA": 125.1,
-    "ortg": 94.8,
-    "drtg": 103.1,
-    "net": -8.3,
-    "efg": 46.5,
-    "oefg": 52.0
+    "min": 63.0,
+    "pf": 117,
+    "pa": 113,
+    "pm": 4,
+    "poss": 110.3,
+    "pF": 111.1,
+    "pA": 109.4,
+    "ortg": 105.3,
+    "drtg": 103.3,
+    "net": 2.0,
+    "efg": 50.5,
+    "oefg": 55.8
    },
    {
     "players": [
@@ -5265,22 +5467,22 @@
    },
    {
     "players": [
-     "Kareem Lamonte Brewton",
+     "Austin Calvin Johnson",
      "Lassi Paavo Verner Nikkarinen",
-     "Vojtěch Synáček"
+     "Tomáš Merta"
     ],
-    "min": 59.6,
-    "pf": 123,
-    "pa": 117,
-    "pm": 6,
-    "poss": 115.6,
-    "pF": 116.0,
-    "pA": 115.2,
-    "ortg": 106.1,
-    "drtg": 101.6,
-    "net": 4.5,
-    "efg": 47.5,
-    "oefg": 50.5
+    "min": 59.5,
+    "pf": 119,
+    "pa": 141,
+    "pm": -22,
+    "poss": 107.9,
+    "pF": 105.1,
+    "pA": 110.7,
+    "ortg": 113.2,
+    "drtg": 127.4,
+    "net": -14.1,
+    "efg": 52.8,
+    "oefg": 64.4
    },
    {
     "players": [
@@ -5322,41 +5524,22 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Lassi Paavo Verner Nikkarinen",
-     "Vojtěch Synáček"
-    ],
-    "min": 57.6,
-    "pf": 106,
-    "pa": 109,
-    "pm": -3,
-    "poss": 109.8,
-    "pF": 111.6,
-    "pA": 108.0,
-    "ortg": 95.0,
-    "drtg": 100.9,
-    "net": -5.9,
-    "efg": 50.0,
-    "oefg": 48.9
-   },
-   {
-    "players": [
      "Jan Bubeníček",
      "Martin Roub",
-     "Tomáš Merta"
+     "Vojtěch Synáček"
     ],
-    "min": 57.2,
-    "pf": 111,
-    "pa": 101,
-    "pm": 10,
-    "poss": 100.3,
-    "pF": 101.1,
-    "pA": 99.4,
-    "ortg": 109.8,
-    "drtg": 101.6,
-    "net": 8.2,
-    "efg": 52.2,
-    "oefg": 53.2
+    "min": 57.9,
+    "pf": 106,
+    "pa": 120,
+    "pm": -14,
+    "poss": 110.4,
+    "pF": 109.4,
+    "pA": 111.3,
+    "ortg": 96.9,
+    "drtg": 107.8,
+    "net": -10.9,
+    "efg": 50.6,
+    "oefg": 58.4
    },
    {
     "players": [
@@ -5376,25 +5559,6 @@
     "net": 7.0,
     "efg": 53.1,
     "oefg": 57.2
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
-     "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Merta"
-    ],
-    "min": 56.4,
-    "pf": 113,
-    "pa": 128,
-    "pm": -15,
-    "poss": 102.5,
-    "pF": 100.3,
-    "pA": 104.7,
-    "ortg": 112.6,
-    "drtg": 122.3,
-    "net": -9.6,
-    "efg": 52.9,
-    "oefg": 60.4
    },
    {
     "players": [
@@ -5436,44 +5600,6 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Kareem Lamonte Brewton",
-     "Vojtěch Synáček"
-    ],
-    "min": 54.5,
-    "pf": 96,
-    "pa": 103,
-    "pm": -7,
-    "poss": 106.8,
-    "pF": 106.5,
-    "pA": 107.0,
-    "ortg": 90.1,
-    "drtg": 96.3,
-    "net": -6.1,
-    "efg": 41.9,
-    "oefg": 47.3
-   },
-   {
-    "players": [
-     "Kareem Lamonte Brewton",
-     "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Dvořák"
-    ],
-    "min": 54.4,
-    "pf": 126,
-    "pa": 113,
-    "pm": 13,
-    "poss": 107.4,
-    "pF": 103.6,
-    "pA": 111.2,
-    "ortg": 121.7,
-    "drtg": 101.6,
-    "net": 20.0,
-    "efg": 57.5,
-    "oefg": 52.8
-   },
-   {
-    "players": [
      "Cody Chevell Christian John",
      "Kameron Jamal Chatman",
      "Lassi Paavo Verner Nikkarinen"
@@ -5497,17 +5623,17 @@
      "Martin Roub",
      "Tomáš Dvořák"
     ],
-    "min": 52.8,
-    "pf": 114,
+    "min": 54.1,
+    "pf": 119,
     "pa": 117,
-    "pm": -3,
-    "poss": 100.2,
-    "pF": 98.8,
-    "pA": 101.6,
-    "ortg": 115.4,
-    "drtg": 115.2,
-    "net": 0.2,
-    "efg": 63.8,
+    "pm": 2,
+    "poss": 102.9,
+    "pF": 102.2,
+    "pA": 103.6,
+    "ortg": 116.4,
+    "drtg": 113.0,
+    "net": 3.4,
+    "efg": 63.9,
     "oefg": 60.8
    },
    {
@@ -5550,6 +5676,25 @@
    },
    {
     "players": [
+     "Austin Calvin Johnson",
+     "Jan Bubeníček",
+     "Lassi Paavo Verner Nikkarinen"
+    ],
+    "min": 51.9,
+    "pf": 72,
+    "pa": 101,
+    "pm": -29,
+    "poss": 95.7,
+    "pF": 95.5,
+    "pA": 95.8,
+    "ortg": 75.4,
+    "drtg": 105.4,
+    "net": -30.1,
+    "efg": 39.8,
+    "oefg": 52.4
+   },
+   {
+    "players": [
      "Kareem Lamonte Brewton",
      "Matija Popović",
      "Tomáš Dvořák"
@@ -5588,41 +5733,22 @@
    },
    {
     "players": [
-     "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Dvořák",
-     "Vojtěch Synáček"
+     "Austin Calvin Johnson",
+     "Kareem Lamonte Brewton",
+     "Martin Roub"
     ],
-    "min": 51.0,
-    "pf": 115,
-    "pa": 94,
-    "pm": 21,
-    "poss": 95.5,
-    "pF": 96.6,
-    "pA": 94.4,
-    "ortg": 119.0,
-    "drtg": 99.5,
-    "net": 19.5,
-    "efg": 59.8,
-    "oefg": 46.3
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
-     "Martin Roub",
-     "Vojtěch Synáček"
-    ],
-    "min": 50.4,
-    "pf": 98,
-    "pa": 108,
-    "pm": -10,
-    "poss": 96.7,
-    "pF": 97.0,
-    "pA": 96.3,
-    "ortg": 101.0,
-    "drtg": 112.1,
-    "net": -11.1,
-    "efg": 53.2,
-    "oefg": 59.9
+    "min": 50.5,
+    "pf": 82,
+    "pa": 112,
+    "pm": -30,
+    "poss": 97.1,
+    "pF": 95.0,
+    "pA": 99.2,
+    "ortg": 86.3,
+    "drtg": 112.9,
+    "net": -26.6,
+    "efg": 49.3,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -5642,6 +5768,25 @@
     "net": 15.2,
     "efg": 58.5,
     "oefg": 42.2
+   },
+   {
+    "players": [
+     "Kareem Lamonte Brewton",
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Merta"
+    ],
+    "min": 49.0,
+    "pf": 107,
+    "pa": 108,
+    "pm": -1,
+    "poss": 92.7,
+    "pF": 93.8,
+    "pA": 91.6,
+    "ortg": 114.1,
+    "drtg": 118.0,
+    "net": -3.8,
+    "efg": 54.5,
+    "oefg": 64.6
    },
    {
     "players": [
@@ -5722,21 +5867,40 @@
    {
     "players": [
      "Austin Calvin Johnson",
-     "Kareem Lamonte Brewton",
-     "Martin Roub"
+     "Jan Bubeníček",
+     "Vojtěch Synáček"
     ],
-    "min": 44.1,
-    "pf": 75,
-    "pa": 97,
-    "pm": -22,
-    "poss": 86.8,
-    "pF": 85.2,
-    "pA": 88.5,
-    "ortg": 88.1,
-    "drtg": 109.6,
-    "net": -21.6,
-    "efg": 50.0,
-    "oefg": 48.6
+    "min": 46.8,
+    "pf": 76,
+    "pa": 96,
+    "pm": -20,
+    "poss": 90.2,
+    "pF": 89.4,
+    "pA": 90.9,
+    "ortg": 85.0,
+    "drtg": 105.6,
+    "net": -20.7,
+    "efg": 40.0,
+    "oefg": 47.5
+   },
+   {
+    "players": [
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Dvořák",
+     "Tomáš Merta"
+    ],
+    "min": 44.4,
+    "pf": 119,
+    "pa": 103,
+    "pm": 16,
+    "poss": 85.2,
+    "pF": 83.6,
+    "pA": 86.8,
+    "ortg": 142.3,
+    "drtg": 118.6,
+    "net": 23.7,
+    "efg": 67.9,
+    "oefg": 60.9
    },
    {
     "players": [
@@ -5816,6 +5980,25 @@
    },
    {
     "players": [
+     "Austin Calvin Johnson",
+     "Jan Bubeníček",
+     "Kareem Lamonte Brewton"
+    ],
+    "min": 43.5,
+    "pf": 77,
+    "pa": 85,
+    "pm": -8,
+    "poss": 81.1,
+    "pF": 78.9,
+    "pA": 83.2,
+    "ortg": 97.6,
+    "drtg": 102.1,
+    "net": -4.5,
+    "efg": 49.2,
+    "oefg": 50.0
+   },
+   {
+    "players": [
      "David Škranc",
      "Jan Bubeníček",
      "Kareem Lamonte Brewton"
@@ -5854,25 +6037,6 @@
    },
    {
     "players": [
-     "Kareem Lamonte Brewton",
-     "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Merta"
-    ],
-    "min": 42.5,
-    "pf": 99,
-    "pa": 92,
-    "pm": 7,
-    "poss": 80.2,
-    "pF": 80.8,
-    "pA": 79.7,
-    "ortg": 122.6,
-    "drtg": 115.5,
-    "net": 7.1,
-    "efg": 57.6,
-    "oefg": 60.2
-   },
-   {
-    "players": [
      "David Škranc",
      "Jan Bubeníček",
      "Tomáš Dvořák"
@@ -5889,25 +6053,6 @@
     "net": -6.6,
     "efg": 65.8,
     "oefg": 64.1
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
-     "Jan Bubeníček",
-     "Lassi Paavo Verner Nikkarinen"
-    ],
-    "min": 42.0,
-    "pf": 62,
-    "pa": 81,
-    "pm": -19,
-    "poss": 77.3,
-    "pF": 78.6,
-    "pA": 75.9,
-    "ortg": 78.8,
-    "drtg": 106.7,
-    "net": -27.9,
-    "efg": 42.0,
-    "oefg": 54.7
    },
    {
     "players": [
@@ -5930,22 +6075,60 @@
    },
    {
     "players": [
+     "Austin Calvin Johnson",
+     "Jan Bubeníček",
+     "Tomáš Dvořák"
+    ],
+    "min": 40.2,
+    "pf": 78,
+    "pa": 84,
+    "pm": -6,
+    "poss": 79.7,
+    "pF": 82.6,
+    "pA": 76.8,
+    "ortg": 94.5,
+    "drtg": 109.4,
+    "net": -15.0,
+    "efg": 44.2,
+    "oefg": 59.3
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
      "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Dvořák",
+     "Vojtěch Synáček"
+    ],
+    "min": 40.1,
+    "pf": 69,
+    "pa": 88,
+    "pm": -19,
+    "poss": 74.9,
+    "pF": 74.6,
+    "pA": 75.1,
+    "ortg": 92.4,
+    "drtg": 117.1,
+    "net": -24.7,
+    "efg": 53.2,
+    "oefg": 57.6
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
+     "Kareem Lamonte Brewton",
      "Tomáš Merta"
     ],
-    "min": 40.4,
-    "pf": 111,
-    "pa": 89,
-    "pm": 22,
-    "poss": 77.4,
-    "pF": 75.9,
-    "pA": 79.0,
-    "ortg": 146.3,
-    "drtg": 112.7,
-    "net": 33.6,
-    "efg": 70.0,
-    "oefg": 54.7
+    "min": 40.0,
+    "pf": 74,
+    "pa": 90,
+    "pm": -16,
+    "poss": 74.9,
+    "pF": 76.6,
+    "pA": 73.2,
+    "ortg": 96.6,
+    "drtg": 122.9,
+    "net": -26.3,
+    "efg": 53.3,
+    "oefg": 57.9
    },
    {
     "players": [
@@ -6008,20 +6191,20 @@
     "players": [
      "Austin Calvin Johnson",
      "Jan Bubeníček",
-     "Kareem Lamonte Brewton"
+     "Martin Roub"
     ],
     "min": 39.2,
-    "pf": 72,
-    "pa": 75,
-    "pm": -3,
-    "poss": 73.7,
-    "pF": 72.0,
-    "pA": 75.4,
-    "ortg": 99.9,
-    "drtg": 99.5,
-    "net": 0.4,
-    "efg": 50.0,
-    "oefg": 50.0
+    "pf": 62,
+    "pa": 81,
+    "pm": -19,
+    "poss": 69.3,
+    "pF": 66.4,
+    "pA": 72.2,
+    "ortg": 93.4,
+    "drtg": 112.1,
+    "net": -18.8,
+    "efg": 46.6,
+    "oefg": 53.2
    },
    {
     "players": [
@@ -6064,25 +6247,6 @@
    {
     "players": [
      "Austin Calvin Johnson",
-     "Jan Bubeníček",
-     "Vojtěch Synáček"
-    ],
-    "min": 39.0,
-    "pf": 67,
-    "pa": 84,
-    "pm": -17,
-    "poss": 74.8,
-    "pF": 74.6,
-    "pA": 75.0,
-    "ortg": 89.9,
-    "drtg": 112.0,
-    "net": -22.1,
-    "efg": 43.2,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
      "Cody Chevell Christian John",
      "Kareem Lamonte Brewton"
     ],
@@ -6117,6 +6281,25 @@
     "net": -29.2,
     "efg": 44.9,
     "oefg": 52.2
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Tomáš Dvořák",
+     "Vojtěch Synáček"
+    ],
+    "min": 38.3,
+    "pf": 92,
+    "pa": 88,
+    "pm": 4,
+    "poss": 71.7,
+    "pF": 73.6,
+    "pA": 69.8,
+    "ortg": 124.9,
+    "drtg": 126.1,
+    "net": -1.1,
+    "efg": 54.0,
+    "oefg": 64.4
    },
    {
     "players": [
@@ -6234,22 +6417,41 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Jan Bubeníček",
-     "Tomáš Dvořák"
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Merta",
+     "Vojtěch Synáček"
     ],
-    "min": 37.2,
+    "min": 37.1,
     "pf": 72,
-    "pa": 80,
-    "pm": -8,
-    "poss": 73.3,
-    "pF": 75.7,
-    "pA": 70.9,
-    "ortg": 95.1,
-    "drtg": 112.9,
-    "net": -17.7,
-    "efg": 45.1,
-    "oefg": 62.0
+    "pa": 76,
+    "pm": -4,
+    "poss": 68.6,
+    "pF": 67.6,
+    "pA": 69.5,
+    "ortg": 106.5,
+    "drtg": 109.3,
+    "net": -2.8,
+    "efg": 55.7,
+    "oefg": 51.5
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
+     "Tomáš Dvořák",
+     "Vojtěch Synáček"
+    ],
+    "min": 37.0,
+    "pf": 87,
+    "pa": 70,
+    "pm": 17,
+    "poss": 72.7,
+    "pF": 76.4,
+    "pA": 69.0,
+    "ortg": 113.8,
+    "drtg": 101.4,
+    "net": 12.4,
+    "efg": 53.8,
+    "oefg": 51.0
    },
    {
     "players": [
@@ -6312,20 +6514,39 @@
     "players": [
      "Jan Bubeníček",
      "Kareem Lamonte Brewton",
-     "Tomáš Merta"
+     "Lassi Paavo Verner Nikkarinen"
     ],
-    "min": 35.1,
-    "pf": 68,
-    "pa": 80,
-    "pm": -12,
-    "poss": 66.4,
-    "pF": 67.6,
-    "pA": 65.2,
-    "ortg": 100.6,
-    "drtg": 122.6,
-    "net": -22.0,
-    "efg": 56.9,
-    "oefg": 55.3
+    "min": 35.8,
+    "pf": 53,
+    "pa": 81,
+    "pm": -28,
+    "poss": 65.8,
+    "pF": 65.5,
+    "pA": 66.0,
+    "ortg": 80.9,
+    "drtg": 122.7,
+    "net": -41.8,
+    "efg": 45.1,
+    "oefg": 67.3
+   },
+   {
+    "players": [
+     "Kareem Lamonte Brewton",
+     "Tomáš Dvořák",
+     "Vojtěch Synáček"
+    ],
+    "min": 35.3,
+    "pf": 72,
+    "pa": 77,
+    "pm": -5,
+    "poss": 65.6,
+    "pF": 64.2,
+    "pA": 67.0,
+    "ortg": 112.2,
+    "drtg": 115.0,
+    "net": -2.8,
+    "efg": 44.7,
+    "oefg": 61.9
    },
    {
     "players": [
@@ -6345,25 +6566,6 @@
     "net": -65.3,
     "efg": 42.9,
     "oefg": 66.0
-   },
-   {
-    "players": [
-     "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Merta",
-     "Vojtěch Synáček"
-    ],
-    "min": 33.9,
-    "pf": 66,
-    "pa": 66,
-    "pm": 0,
-    "poss": 63.2,
-    "pF": 62.8,
-    "pA": 63.5,
-    "ortg": 105.0,
-    "drtg": 103.9,
-    "net": 1.1,
-    "efg": 55.9,
-    "oefg": 46.9
    },
    {
     "players": [
@@ -6425,25 +6627,6 @@
    {
     "players": [
      "Jan Bubeníček",
-     "Tomáš Dvořák",
-     "Vojtěch Synáček"
-    ],
-    "min": 33.1,
-    "pf": 76,
-    "pa": 66,
-    "pm": 10,
-    "poss": 64.1,
-    "pF": 67.1,
-    "pA": 61.1,
-    "ortg": 113.2,
-    "drtg": 108.0,
-    "net": 5.2,
-    "efg": 54.5,
-    "oefg": 53.3
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
      "Kameron Jamal Chatman",
      "Tomáš Mikyska"
     ],
@@ -6463,40 +6646,59 @@
    {
     "players": [
      "Jan Bubeníček",
-     "Lassi Paavo Verner Nikkarinen",
-     "Vojtěch Synáček"
-    ],
-    "min": 32.8,
-    "pf": 59,
-    "pa": 76,
-    "pm": -17,
-    "poss": 60.2,
-    "pF": 61.2,
-    "pA": 59.1,
-    "ortg": 96.4,
-    "drtg": 128.6,
-    "net": -32.1,
-    "efg": 57.0,
-    "oefg": 60.9
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
      "Kareem Lamonte Brewton",
      "Vojtěch Synáček"
     ],
-    "min": 31.4,
+    "min": 32.4,
     "pf": 45,
-    "pa": 66,
-    "pm": -21,
-    "poss": 63.6,
-    "pF": 60.5,
-    "pA": 66.8,
-    "ortg": 74.4,
-    "drtg": 98.8,
-    "net": -24.4,
-    "efg": 37.0,
-    "oefg": 52.1
+    "pa": 68,
+    "pm": -23,
+    "poss": 64.6,
+    "pF": 61.5,
+    "pA": 67.8,
+    "ortg": 73.2,
+    "drtg": 100.3,
+    "net": -27.1,
+    "efg": 36.2,
+    "oefg": 53.1
+   },
+   {
+    "players": [
+     "Martin Roub",
+     "Tomáš Merta",
+     "Vojtěch Synáček"
+    ],
+    "min": 32.1,
+    "pf": 59,
+    "pa": 63,
+    "pm": -4,
+    "poss": 59.7,
+    "pF": 58.7,
+    "pA": 60.6,
+    "ortg": 100.5,
+    "drtg": 103.9,
+    "net": -3.4,
+    "efg": 54.3,
+    "oefg": 47.6
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Tomáš Merta",
+     "Vojtěch Synáček"
+    ],
+    "min": 31.8,
+    "pf": 66,
+    "pa": 76,
+    "pm": -10,
+    "poss": 59.6,
+    "pF": 58.9,
+    "pA": 60.3,
+    "ortg": 112.1,
+    "drtg": 126.1,
+    "net": -14.0,
+    "efg": 51.1,
+    "oefg": 61.1
    },
    {
     "players": [
@@ -6577,21 +6779,21 @@
    {
     "players": [
      "Austin Calvin Johnson",
-     "Jan Bubeníček",
-     "Martin Roub"
+     "Martin Roub",
+     "Vojtěch Synáček"
     ],
-    "min": 30.1,
-    "pf": 54,
-    "pa": 63,
-    "pm": -9,
-    "poss": 52.9,
-    "pF": 51.5,
-    "pA": 54.4,
-    "ortg": 104.8,
-    "drtg": 115.9,
-    "net": -11.1,
-    "efg": 52.2,
-    "oefg": 56.7
+    "min": 29.9,
+    "pf": 52,
+    "pa": 60,
+    "pm": -8,
+    "poss": 56.0,
+    "pF": 55.2,
+    "pA": 56.8,
+    "ortg": 94.3,
+    "drtg": 105.6,
+    "net": -11.3,
+    "efg": 48.8,
+    "oefg": 46.4
    },
    {
     "players": [
@@ -6652,22 +6854,22 @@
    },
    {
     "players": [
+     "Austin Calvin Johnson",
      "Martin Roub",
-     "Tomáš Merta",
-     "Vojtěch Synáček"
+     "Tomáš Merta"
     ],
-    "min": 29.0,
-    "pf": 59,
-    "pa": 57,
+    "min": 27.8,
+    "pf": 58,
+    "pa": 56,
     "pm": 2,
-    "poss": 55.2,
-    "pF": 54.7,
-    "pA": 55.6,
-    "ortg": 107.8,
-    "drtg": 102.4,
-    "net": 5.4,
-    "efg": 56.8,
-    "oefg": 45.7
+    "poss": 52.0,
+    "pF": 53.5,
+    "pA": 50.5,
+    "ortg": 108.5,
+    "drtg": 110.9,
+    "net": -2.5,
+    "efg": 50.0,
+    "oefg": 62.8
    },
    {
     "players": [
@@ -6691,6 +6893,25 @@
    {
     "players": [
      "Jan Bubeníček",
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Dvořák"
+    ],
+    "min": 27.4,
+    "pf": 50,
+    "pa": 48,
+    "pm": 2,
+    "poss": 50.9,
+    "pF": 52.9,
+    "pA": 48.8,
+    "ortg": 94.6,
+    "drtg": 98.3,
+    "net": -3.7,
+    "efg": 50.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
      "Kareem Lamonte Brewton",
      "Matija Popović"
     ],
@@ -6706,44 +6927,6 @@
     "net": -26.6,
     "efg": 51.0,
     "oefg": 56.5
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
-     "Kareem Lamonte Brewton",
-     "Lassi Paavo Verner Nikkarinen"
-    ],
-    "min": 27.1,
-    "pf": 42,
-    "pa": 63,
-    "pm": -21,
-    "poss": 50.4,
-    "pF": 49.6,
-    "pA": 51.2,
-    "ortg": 84.6,
-    "drtg": 123.1,
-    "net": -38.5,
-    "efg": 48.7,
-    "oefg": 69.2
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
-     "Martin Roub",
-     "Tomáš Merta"
-    ],
-    "min": 27.0,
-    "pf": 58,
-    "pa": 54,
-    "pm": 4,
-    "poss": 51.0,
-    "pF": 52.5,
-    "pA": 49.5,
-    "ortg": 110.5,
-    "drtg": 109.1,
-    "net": 1.4,
-    "efg": 50.0,
-    "oefg": 61.8
    },
    {
     "players": [
@@ -6861,25 +7044,6 @@
    },
    {
     "players": [
-     "Jan Bubeníček",
-     "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Dvořák"
-    ],
-    "min": 25.3,
-    "pf": 43,
-    "pa": 46,
-    "pm": -3,
-    "poss": 46.1,
-    "pF": 47.4,
-    "pA": 44.8,
-    "ortg": 90.6,
-    "drtg": 102.6,
-    "net": -11.9,
-    "efg": 48.9,
-    "oefg": 50.0
-   },
-   {
-    "players": [
      "Austin Calvin Johnson",
      "Martin Roub",
      "Tomáš Dvořák"
@@ -6896,25 +7060,6 @@
     "net": -31.8,
     "efg": 48.7,
     "oefg": 54.7
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
-     "Tomáš Merta",
-     "Vojtěch Synáček"
-    ],
-    "min": 25.0,
-    "pf": 53,
-    "pa": 58,
-    "pm": -5,
-    "poss": 47.6,
-    "pF": 46.8,
-    "pA": 48.4,
-    "ortg": 113.2,
-    "drtg": 119.8,
-    "net": -6.6,
-    "efg": 55.6,
-    "oefg": 56.8
    },
    {
     "players": [
@@ -6994,6 +7139,25 @@
    },
    {
     "players": [
+     "Austin Calvin Johnson",
+     "Jan Bubeníček",
+     "Tomáš Merta"
+    ],
+    "min": 24.4,
+    "pf": 53,
+    "pa": 45,
+    "pm": 8,
+    "poss": 44.6,
+    "pF": 45.7,
+    "pA": 43.5,
+    "ortg": 115.9,
+    "drtg": 103.5,
+    "net": 12.4,
+    "efg": 52.3,
+    "oefg": 48.6
+   },
+   {
+    "players": [
      "Alessandro Petric",
      "Kameron Jamal Chatman",
      "Tomáš Mikyska"
@@ -7032,6 +7196,25 @@
    },
    {
     "players": [
+     "Jan Bubeníček",
+     "Kareem Lamonte Brewton",
+     "Tomáš Dvořák"
+    ],
+    "min": 23.9,
+    "pf": 31,
+    "pa": 46,
+    "pm": -15,
+    "poss": 47.1,
+    "pF": 45.8,
+    "pA": 48.4,
+    "ortg": 67.7,
+    "drtg": 95.0,
+    "net": -27.3,
+    "efg": 36.5,
+    "oefg": 52.6
+   },
+   {
+    "players": [
      "Cody Chevell Christian John",
      "David Škranc",
      "Tomáš Dvořák"
@@ -7051,22 +7234,22 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Martin Roub",
-     "Vojtěch Synáček"
+     "Jan Bubeníček",
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Merta"
     ],
     "min": 23.9,
-    "pf": 47,
-    "pa": 49,
-    "pm": -2,
-    "poss": 45.1,
-    "pF": 45.2,
-    "pA": 45.0,
-    "ortg": 104.1,
-    "drtg": 109.0,
-    "net": -4.9,
-    "efg": 56.1,
-    "oefg": 46.6
+    "pf": 45,
+    "pa": 35,
+    "pm": 10,
+    "poss": 41.6,
+    "pF": 40.8,
+    "pA": 42.5,
+    "ortg": 110.4,
+    "drtg": 82.3,
+    "net": 28.1,
+    "efg": 56.6,
+    "oefg": 48.4
    },
    {
     "players": [
@@ -7086,25 +7269,6 @@
     "net": -29.1,
     "efg": 53.8,
     "oefg": 59.8
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
-     "Kareem Lamonte Brewton",
-     "Tomáš Dvořák"
-    ],
-    "min": 23.5,
-    "pf": 31,
-    "pa": 46,
-    "pm": -15,
-    "poss": 46.6,
-    "pF": 44.8,
-    "pA": 48.4,
-    "ortg": 69.3,
-    "drtg": 95.0,
-    "net": -25.8,
-    "efg": 37.5,
-    "oefg": 52.6
    },
    {
     "players": [
@@ -7143,25 +7307,6 @@
     "net": -20.7,
     "efg": 63.6,
     "oefg": 56.6
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
-     "Tomáš Dvořák",
-     "Vojtěch Synáček"
-    ],
-    "min": 22.8,
-    "pf": 47,
-    "pa": 58,
-    "pm": -11,
-    "poss": 45.0,
-    "pF": 45.9,
-    "pA": 44.0,
-    "ortg": 102.4,
-    "drtg": 131.7,
-    "net": -29.3,
-    "efg": 47.2,
-    "oefg": 68.1
    },
    {
     "players": [
@@ -7219,25 +7364,6 @@
     "net": -42.8,
     "efg": 44.4,
     "oefg": 56.6
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
-     "Jan Bubeníček",
-     "Tomáš Merta"
-    ],
-    "min": 22.2,
-    "pf": 49,
-    "pa": 43,
-    "pm": 6,
-    "poss": 40.2,
-    "pF": 40.8,
-    "pA": 39.6,
-    "ortg": 120.0,
-    "drtg": 108.6,
-    "net": 11.4,
-    "efg": 55.4,
-    "oefg": 51.5
    },
    {
     "players": [
@@ -7317,25 +7443,6 @@
    },
    {
     "players": [
-     "Kareem Lamonte Brewton",
-     "Tomáš Dvořák",
-     "Vojtěch Synáček"
-    ],
-    "min": 20.6,
-    "pf": 36,
-    "pa": 44,
-    "pm": -8,
-    "poss": 41.2,
-    "pF": 39.2,
-    "pA": 43.2,
-    "ortg": 91.8,
-    "drtg": 101.9,
-    "net": -10.0,
-    "efg": 37.8,
-    "oefg": 59.7
-   },
-   {
-    "players": [
      "Alessandro Petric",
      "David Škranc",
      "Tomáš Mikyska"
@@ -7409,25 +7516,6 @@
     "net": -21.9,
     "efg": 30.0,
     "oefg": 53.3
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
-     "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Merta"
-    ],
-    "min": 18.9,
-    "pf": 39,
-    "pa": 25,
-    "pm": 14,
-    "poss": 32.6,
-    "pF": 31.8,
-    "pA": 33.5,
-    "ortg": 122.8,
-    "drtg": 74.6,
-    "net": 48.2,
-    "efg": 61.7,
-    "oefg": 40.0
    },
    {
     "players": [
@@ -7507,6 +7595,25 @@
    },
    {
     "players": [
+     "Tomáš Dvořák",
+     "Tomáš Merta",
+     "Vojtěch Synáček"
+    ],
+    "min": 18.3,
+    "pf": 47,
+    "pa": 42,
+    "pm": 5,
+    "poss": 35.9,
+    "pF": 35.8,
+    "pA": 36.0,
+    "ortg": 131.3,
+    "drtg": 116.8,
+    "net": 14.5,
+    "efg": 58.9,
+    "oefg": 53.0
+   },
+   {
+    "players": [
      "Kareem Lamonte Brewton",
      "Martin Roub",
      "Tomáš Tkadlec"
@@ -7564,6 +7671,25 @@
    },
    {
     "players": [
+     "Jan Bubeníček",
+     "Tomáš Dvořák",
+     "Tomáš Merta"
+    ],
+    "min": 16.4,
+    "pf": 43,
+    "pa": 34,
+    "pm": 9,
+    "poss": 30.7,
+    "pF": 31.5,
+    "pA": 29.8,
+    "ortg": 136.6,
+    "drtg": 113.9,
+    "net": 22.7,
+    "efg": 63.5,
+    "oefg": 54.2
+   },
+   {
+    "players": [
      "David Škranc",
      "Matija Popović",
      "Tomáš Mikyska"
@@ -7599,6 +7725,25 @@
     "net": -51.6,
     "efg": 39.3,
     "oefg": 65.5
+   },
+   {
+    "players": [
+     "Kareem Lamonte Brewton",
+     "Tomáš Merta",
+     "Vojtěch Synáček"
+    ],
+    "min": 16.2,
+    "pf": 26,
+    "pa": 38,
+    "pm": -12,
+    "poss": 29.6,
+    "pF": 27.4,
+    "pA": 31.9,
+    "ortg": 94.9,
+    "drtg": 119.2,
+    "net": -24.3,
+    "efg": 43.2,
+    "oefg": 61.7
    },
    {
     "players": [
@@ -7713,25 +7858,6 @@
     "net": -76.4,
     "efg": 28.6,
     "oefg": 59.3
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
-     "Tomáš Dvořák",
-     "Tomáš Merta"
-    ],
-    "min": 14.1,
-    "pf": 39,
-    "pa": 32,
-    "pm": 7,
-    "poss": 26.3,
-    "pF": 26.6,
-    "pA": 26.0,
-    "ortg": 146.6,
-    "drtg": 123.3,
-    "net": 23.3,
-    "efg": 72.5,
-    "oefg": 59.1
    },
    {
     "players": [
@@ -8020,25 +8146,6 @@
    },
    {
     "players": [
-     "Kareem Lamonte Brewton",
-     "Tomáš Merta",
-     "Vojtěch Synáček"
-    ],
-    "min": 11.8,
-    "pf": 23,
-    "pa": 26,
-    "pm": -3,
-    "poss": 22.9,
-    "pF": 21.0,
-    "pA": 24.9,
-    "ortg": 109.7,
-    "drtg": 104.5,
-    "net": 5.2,
-    "efg": 50.0,
-    "oefg": 56.8
-   },
-   {
-    "players": [
      "David Škranc",
      "Tomáš Dvořák",
      "Tomáš Tkadlec"
@@ -8055,6 +8162,25 @@
     "net": -60.8,
     "efg": 44.7,
     "oefg": 70.6
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
+     "Tomáš Merta",
+     "Vojtěch Synáček"
+    ],
+    "min": 11.7,
+    "pf": 17,
+    "pa": 24,
+    "pm": -7,
+    "poss": 21.2,
+    "pF": 22.4,
+    "pA": 20.0,
+    "ortg": 75.9,
+    "drtg": 120.2,
+    "net": -44.3,
+    "efg": 32.5,
+    "oefg": 53.1
    },
    {
     "players": [
@@ -8150,25 +8276,6 @@
     "net": 2.8,
     "efg": 36.1,
     "oefg": 47.1
-   },
-   {
-    "players": [
-     "Tomáš Dvořák",
-     "Tomáš Merta",
-     "Vojtěch Synáček"
-    ],
-    "min": 10.3,
-    "pf": 34,
-    "pa": 22,
-    "pm": 12,
-    "poss": 21.9,
-    "pF": 21.7,
-    "pA": 22.1,
-    "ortg": 156.5,
-    "drtg": 99.6,
-    "net": 56.9,
-    "efg": 78.1,
-    "oefg": 40.5
    },
    {
     "players": [
@@ -8473,25 +8580,6 @@
     "net": -110.0,
     "efg": 50.0,
     "oefg": 88.5
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
-     "Tomáš Merta",
-     "Vojtěch Synáček"
-    ],
-    "min": 7.5,
-    "pf": 13,
-    "pa": 18,
-    "pm": -5,
-    "poss": 14.3,
-    "pF": 15.5,
-    "pA": 13.1,
-    "ortg": 83.8,
-    "drtg": 137.6,
-    "net": -53.9,
-    "efg": 34.6,
-    "oefg": 54.2
    },
    {
     "players": [
@@ -8916,18 +9004,54 @@
      "Kareem Lamonte Brewton",
      "Martin Roub"
     ],
-    "min": 388.4,
-    "pf": 698,
-    "pa": 812,
-    "pm": -114,
-    "poss": 741.9,
-    "pF": 742.2,
-    "pA": 741.6,
-    "ortg": 94.0,
-    "drtg": 109.5,
-    "net": -15.5,
-    "efg": 47.8,
-    "oefg": 52.8
+    "min": 406.3,
+    "pf": 716,
+    "pa": 855,
+    "pm": -139,
+    "poss": 772.5,
+    "pF": 774.0,
+    "pA": 771.1,
+    "ortg": 92.5,
+    "drtg": 110.9,
+    "net": -18.4,
+    "efg": 47.0,
+    "oefg": 53.8
+   },
+   {
+    "players": [
+     "Lassi Paavo Verner Nikkarinen",
+     "Martin Roub"
+    ],
+    "min": 395.0,
+    "pf": 773,
+    "pa": 857,
+    "pm": -84,
+    "poss": 745.4,
+    "pF": 749.7,
+    "pA": 741.0,
+    "ortg": 103.1,
+    "drtg": 115.7,
+    "net": -12.5,
+    "efg": 51.6,
+    "oefg": 54.6
+   },
+   {
+    "players": [
+     "Martin Roub",
+     "Tomáš Merta"
+    ],
+    "min": 387.4,
+    "pf": 712,
+    "pa": 791,
+    "pm": -79,
+    "poss": 720.5,
+    "pF": 721.0,
+    "pA": 720.0,
+    "ortg": 98.8,
+    "drtg": 109.9,
+    "net": -11.1,
+    "efg": 49.7,
+    "oefg": 54.2
    },
    {
     "players": [
@@ -8964,42 +9088,6 @@
     "net": -8.0,
     "efg": 48.7,
     "oefg": 51.8
-   },
-   {
-    "players": [
-     "Martin Roub",
-     "Tomáš Merta"
-    ],
-    "min": 377.8,
-    "pf": 704,
-    "pa": 772,
-    "pm": -68,
-    "poss": 704.0,
-    "pF": 704.0,
-    "pA": 704.1,
-    "ortg": 100.0,
-    "drtg": 109.6,
-    "net": -9.6,
-    "efg": 50.2,
-    "oefg": 53.6
-   },
-   {
-    "players": [
-     "Lassi Paavo Verner Nikkarinen",
-     "Martin Roub"
-    ],
-    "min": 372.7,
-    "pf": 747,
-    "pa": 808,
-    "pm": -61,
-    "poss": 705.0,
-    "pF": 709.5,
-    "pA": 700.5,
-    "ortg": 105.3,
-    "drtg": 115.3,
-    "net": -10.1,
-    "efg": 52.8,
-    "oefg": 53.9
    },
    {
     "players": [
@@ -9060,18 +9148,18 @@
      "Kareem Lamonte Brewton",
      "Tomáš Merta"
     ],
-    "min": 286.3,
-    "pf": 550,
-    "pa": 605,
-    "pm": -55,
-    "poss": 543.8,
-    "pF": 540.5,
-    "pA": 547.2,
-    "ortg": 101.8,
-    "drtg": 110.6,
-    "net": -8.8,
-    "efg": 51.5,
-    "oefg": 53.9
+    "min": 297.1,
+    "pf": 561,
+    "pa": 633,
+    "pm": -72,
+    "poss": 563.0,
+    "pF": 559.9,
+    "pA": 566.1,
+    "ortg": 100.2,
+    "drtg": 111.8,
+    "net": -11.6,
+    "efg": 50.8,
+    "oefg": 55.1
    },
    {
     "players": [
@@ -9111,6 +9199,24 @@
    },
    {
     "players": [
+     "Martin Roub",
+     "Tomáš Dvořák"
+    ],
+    "min": 258.1,
+    "pf": 538,
+    "pa": 589,
+    "pm": -51,
+    "poss": 488.5,
+    "pF": 483.9,
+    "pA": 493.1,
+    "ortg": 111.2,
+    "drtg": 119.4,
+    "net": -8.3,
+    "efg": 56.5,
+    "oefg": 58.4
+   },
+   {
+    "players": [
      "David Škranc",
      "Lassi Paavo Verner Nikkarinen"
     ],
@@ -9129,21 +9235,21 @@
    },
    {
     "players": [
-     "Martin Roub",
+     "Kareem Lamonte Brewton",
      "Tomáš Dvořák"
     ],
-    "min": 250.7,
-    "pf": 528,
-    "pa": 571,
-    "pm": -43,
-    "poss": 474.5,
-    "pF": 468.6,
-    "pA": 480.4,
-    "ortg": 112.7,
-    "drtg": 118.9,
-    "net": -6.2,
-    "efg": 57.5,
-    "oefg": 57.6
+    "min": 239.9,
+    "pf": 473,
+    "pa": 484,
+    "pm": -11,
+    "poss": 456.4,
+    "pF": 450.8,
+    "pA": 461.9,
+    "ortg": 104.9,
+    "drtg": 104.8,
+    "net": 0.1,
+    "efg": 51.0,
+    "oefg": 54.1
    },
    {
     "players": [
@@ -9165,57 +9271,111 @@
    },
    {
     "players": [
-     "Kareem Lamonte Brewton",
-     "Tomáš Dvořák"
+     "Austin Calvin Johnson",
+     "Lassi Paavo Verner Nikkarinen"
     ],
-    "min": 223.1,
-    "pf": 435,
-    "pa": 445,
-    "pm": -10,
-    "poss": 427.6,
-    "pF": 420.9,
-    "pA": 434.2,
-    "ortg": 103.4,
-    "drtg": 102.5,
-    "net": 0.9,
-    "efg": 50.9,
-    "oefg": 52.9
+    "min": 223.3,
+    "pf": 398,
+    "pa": 478,
+    "pm": -80,
+    "poss": 412.8,
+    "pF": 408.7,
+    "pA": 416.9,
+    "ortg": 97.4,
+    "drtg": 114.7,
+    "net": -17.3,
+    "efg": 47.7,
+    "oefg": 54.7
    },
    {
     "players": [
      "Austin Calvin Johnson",
      "Kareem Lamonte Brewton"
     ],
-    "min": 206.2,
-    "pf": 400,
-    "pa": 423,
-    "pm": -23,
-    "poss": 398.3,
-    "pF": 392.0,
-    "pA": 404.6,
-    "ortg": 102.0,
-    "drtg": 104.6,
-    "net": -2.5,
-    "efg": 51.2,
-    "oefg": 51.7
+    "min": 222.8,
+    "pf": 440,
+    "pa": 459,
+    "pm": -19,
+    "poss": 425.6,
+    "pF": 419.0,
+    "pA": 432.2,
+    "ortg": 105.0,
+    "drtg": 106.2,
+    "net": -1.2,
+    "efg": 52.3,
+    "oefg": 52.2
    },
    {
     "players": [
-     "Austin Calvin Johnson",
+     "Kareem Lamonte Brewton",
      "Lassi Paavo Verner Nikkarinen"
     ],
-    "min": 201.1,
-    "pf": 350,
-    "pa": 432,
-    "pm": -82,
-    "poss": 374.4,
-    "pF": 371.4,
-    "pA": 377.3,
-    "ortg": 94.2,
-    "drtg": 114.5,
-    "net": -20.3,
-    "efg": 46.8,
-    "oefg": 54.5
+    "min": 214.5,
+    "pf": 433,
+    "pa": 463,
+    "pm": -30,
+    "poss": 410.6,
+    "pF": 408.7,
+    "pA": 412.6,
+    "ortg": 106.0,
+    "drtg": 112.2,
+    "net": -6.3,
+    "efg": 51.6,
+    "oefg": 56.5
+   },
+   {
+    "players": [
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Dvořák"
+    ],
+    "min": 213.2,
+    "pf": 484,
+    "pa": 460,
+    "pm": 24,
+    "poss": 400.6,
+    "pF": 401.6,
+    "pA": 399.6,
+    "ortg": 120.5,
+    "drtg": 115.1,
+    "net": 5.4,
+    "efg": 57.8,
+    "oefg": 55.7
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
+     "Martin Roub"
+    ],
+    "min": 208.5,
+    "pf": 374,
+    "pa": 443,
+    "pm": -69,
+    "poss": 388.7,
+    "pF": 386.3,
+    "pA": 391.1,
+    "ortg": 96.8,
+    "drtg": 113.3,
+    "net": -16.5,
+    "efg": 50.0,
+    "oefg": 59.2
+   },
+   {
+    "players": [
+     "Lassi Paavo Verner Nikkarinen",
+     "Tomáš Merta"
+    ],
+    "min": 199.7,
+    "pf": 400,
+    "pa": 414,
+    "pm": -14,
+    "poss": 369.1,
+    "pF": 366.3,
+    "pA": 371.9,
+    "ortg": 109.2,
+    "drtg": 111.3,
+    "net": -2.1,
+    "efg": 53.3,
+    "oefg": 55.1
    },
    {
     "players": [
@@ -9237,78 +9397,6 @@
    },
    {
     "players": [
-     "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Dvořák"
-    ],
-    "min": 196.0,
-    "pf": 436,
-    "pa": 421,
-    "pm": 15,
-    "poss": 369.4,
-    "pF": 368.8,
-    "pA": 370.0,
-    "ortg": 118.2,
-    "drtg": 113.8,
-    "net": 4.4,
-    "efg": 57.7,
-    "oefg": 54.1
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
-     "Martin Roub"
-    ],
-    "min": 192.3,
-    "pf": 355,
-    "pa": 413,
-    "pm": -58,
-    "poss": 359.6,
-    "pF": 358.0,
-    "pA": 361.2,
-    "ortg": 99.2,
-    "drtg": 114.3,
-    "net": -15.2,
-    "efg": 51.4,
-    "oefg": 59.5
-   },
-   {
-    "players": [
-     "Kareem Lamonte Brewton",
-     "Lassi Paavo Verner Nikkarinen"
-    ],
-    "min": 190.8,
-    "pf": 385,
-    "pa": 411,
-    "pm": -26,
-    "poss": 369.7,
-    "pF": 366.3,
-    "pA": 373.2,
-    "ortg": 105.1,
-    "drtg": 110.1,
-    "net": -5.0,
-    "efg": 51.8,
-    "oefg": 55.1
-   },
-   {
-    "players": [
-     "Lassi Paavo Verner Nikkarinen",
-     "Tomáš Merta"
-    ],
-    "min": 190.0,
-    "pf": 386,
-    "pa": 388,
-    "pm": -2,
-    "poss": 351.3,
-    "pF": 348.5,
-    "pA": 354.0,
-    "ortg": 110.8,
-    "drtg": 109.6,
-    "net": 1.1,
-    "efg": 54.0,
-    "oefg": 53.1
-   },
-   {
-    "players": [
      "Jan Bubeníček",
      "Kameron Jamal Chatman"
     ],
@@ -9324,6 +9412,42 @@
     "net": -19.2,
     "efg": 53.5,
     "oefg": 63.4
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Tomáš Dvořák"
+    ],
+    "min": 186.4,
+    "pf": 384,
+    "pa": 396,
+    "pm": -12,
+    "poss": 349.4,
+    "pF": 349.0,
+    "pA": 349.8,
+    "ortg": 110.0,
+    "drtg": 113.2,
+    "net": -3.2,
+    "efg": 52.0,
+    "oefg": 56.6
+   },
+   {
+    "players": [
+     "Tomáš Dvořák",
+     "Tomáš Merta"
+    ],
+    "min": 182.0,
+    "pf": 402,
+    "pa": 396,
+    "pm": 6,
+    "poss": 343.1,
+    "pF": 336.4,
+    "pA": 349.8,
+    "ortg": 119.5,
+    "drtg": 113.2,
+    "net": 6.3,
+    "efg": 57.7,
+    "oefg": 58.8
    },
    {
     "players": [
@@ -9381,21 +9505,21 @@
    },
    {
     "players": [
-     "Tomáš Dvořák",
-     "Tomáš Merta"
+     "Lassi Paavo Verner Nikkarinen",
+     "Vojtěch Synáček"
     ],
-    "min": 172.4,
-    "pf": 387,
-    "pa": 370,
-    "pm": 17,
-    "poss": 325.2,
-    "pF": 318.4,
-    "pA": 332.1,
-    "ortg": 121.6,
-    "drtg": 111.4,
-    "net": 10.1,
-    "efg": 59.0,
-    "oefg": 57.5
+    "min": 173.3,
+    "pf": 356,
+    "pa": 348,
+    "pm": 8,
+    "poss": 325.4,
+    "pF": 329.0,
+    "pA": 321.8,
+    "ortg": 108.2,
+    "drtg": 108.2,
+    "net": 0.1,
+    "efg": 53.0,
+    "oefg": 52.6
    },
    {
     "players": [
@@ -9417,24 +9541,6 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Tomáš Dvořák"
-    ],
-    "min": 170.9,
-    "pf": 339,
-    "pa": 363,
-    "pm": -24,
-    "poss": 322.1,
-    "pF": 321.2,
-    "pA": 323.0,
-    "ortg": 105.5,
-    "drtg": 112.4,
-    "net": -6.8,
-    "efg": 50.9,
-    "oefg": 56.0
-   },
-   {
-    "players": [
      "Matija Popović",
      "Tomáš Merta"
     ],
@@ -9450,6 +9556,24 @@
     "net": -6.3,
     "efg": 50.6,
     "oefg": 52.0
+   },
+   {
+    "players": [
+     "Martin Roub",
+     "Vojtěch Synáček"
+    ],
+    "min": 159.8,
+    "pf": 317,
+    "pa": 324,
+    "pm": -7,
+    "poss": 304.0,
+    "pF": 305.7,
+    "pA": 302.2,
+    "ortg": 103.7,
+    "drtg": 107.2,
+    "net": -3.5,
+    "efg": 51.9,
+    "oefg": 53.0
    },
    {
     "players": [
@@ -9489,42 +9613,6 @@
    },
    {
     "players": [
-     "Lassi Paavo Verner Nikkarinen",
-     "Vojtěch Synáček"
-    ],
-    "min": 151.2,
-    "pf": 305,
-    "pa": 302,
-    "pm": 3,
-    "poss": 286.2,
-    "pF": 290.3,
-    "pA": 282.1,
-    "ortg": 105.1,
-    "drtg": 107.0,
-    "net": -2.0,
-    "efg": 53.1,
-    "oefg": 51.0
-   },
-   {
-    "players": [
-     "Martin Roub",
-     "Vojtěch Synáček"
-    ],
-    "min": 146.6,
-    "pf": 304,
-    "pa": 294,
-    "pm": 10,
-    "poss": 280.4,
-    "pF": 283.4,
-    "pA": 277.5,
-    "ortg": 107.3,
-    "drtg": 106.0,
-    "net": 1.3,
-    "efg": 54.2,
-    "oefg": 51.7
-   },
-   {
-    "players": [
      "David Škranc",
      "Jan Bubeníček"
     ],
@@ -9561,6 +9649,24 @@
    },
    {
     "players": [
+     "Jan Bubeníček",
+     "Kareem Lamonte Brewton"
+    ],
+    "min": 142.0,
+    "pf": 238,
+    "pa": 321,
+    "pm": -83,
+    "poss": 274.1,
+    "pF": 271.9,
+    "pA": 276.4,
+    "ortg": 87.5,
+    "drtg": 116.1,
+    "net": -28.6,
+    "efg": 46.5,
+    "oefg": 57.2
+   },
+   {
+    "players": [
      "Austin Calvin Johnson",
      "Kameron Jamal Chatman"
     ],
@@ -9579,39 +9685,57 @@
    },
    {
     "players": [
-     "Jan Bubeníček",
-     "Kareem Lamonte Brewton"
+     "Austin Calvin Johnson",
+     "Tomáš Merta"
     ],
-    "min": 132.3,
-    "pf": 227,
-    "pa": 301,
-    "pm": -74,
-    "poss": 257.8,
-    "pF": 255.0,
-    "pA": 260.5,
-    "ortg": 89.0,
-    "drtg": 115.5,
-    "net": -26.5,
-    "efg": 47.5,
-    "oefg": 56.8
+    "min": 137.7,
+    "pf": 297,
+    "pa": 309,
+    "pm": -12,
+    "poss": 254.0,
+    "pF": 252.0,
+    "pA": 256.0,
+    "ortg": 117.9,
+    "drtg": 120.7,
+    "net": -2.9,
+    "efg": 54.0,
+    "oefg": 60.0
+   },
+   {
+    "players": [
+     "Kareem Lamonte Brewton",
+     "Vojtěch Synáček"
+    ],
+    "min": 120.5,
+    "pf": 225,
+    "pa": 243,
+    "pm": -18,
+    "poss": 230.3,
+    "pF": 227.9,
+    "pA": 232.8,
+    "ortg": 98.7,
+    "drtg": 104.4,
+    "net": -5.7,
+    "efg": 44.9,
+    "oefg": 53.1
    },
    {
     "players": [
      "Austin Calvin Johnson",
-     "Tomáš Merta"
+     "Vojtěch Synáček"
     ],
-    "min": 130.1,
-    "pf": 284,
-    "pa": 286,
-    "pm": -2,
-    "poss": 240.5,
-    "pF": 238.9,
-    "pA": 242.1,
-    "ortg": 118.9,
-    "drtg": 118.1,
-    "net": 0.7,
-    "efg": 55.0,
-    "oefg": 58.3
+    "min": 119.5,
+    "pf": 228,
+    "pa": 244,
+    "pm": -16,
+    "poss": 225.3,
+    "pF": 225.8,
+    "pA": 224.9,
+    "ortg": 101.0,
+    "drtg": 108.5,
+    "net": -7.5,
+    "efg": 47.8,
+    "oefg": 52.8
    },
    {
     "players": [
@@ -9630,6 +9754,60 @@
     "net": -22.8,
     "efg": 47.7,
     "oefg": 60.0
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
+     "Tomáš Merta"
+    ],
+    "min": 111.9,
+    "pf": 227,
+    "pa": 226,
+    "pm": 1,
+    "poss": 213.1,
+    "pF": 213.0,
+    "pA": 213.2,
+    "ortg": 106.6,
+    "drtg": 106.0,
+    "net": 0.6,
+    "efg": 55.0,
+    "oefg": 52.4
+   },
+   {
+    "players": [
+     "Jan Bubeníček",
+     "Tomáš Dvořák"
+    ],
+    "min": 110.1,
+    "pf": 223,
+    "pa": 232,
+    "pm": -9,
+    "poss": 214.2,
+    "pF": 218.2,
+    "pA": 210.2,
+    "ortg": 102.2,
+    "drtg": 110.4,
+    "net": -8.2,
+    "efg": 53.2,
+    "oefg": 59.5
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Jan Bubeníček"
+    ],
+    "min": 109.0,
+    "pf": 182,
+    "pa": 230,
+    "pm": -48,
+    "poss": 204.3,
+    "pF": 204.4,
+    "pA": 204.3,
+    "ortg": 89.1,
+    "drtg": 112.6,
+    "net": -23.5,
+    "efg": 44.1,
+    "oefg": 55.0
    },
    {
     "players": [
@@ -9652,56 +9830,56 @@
    {
     "players": [
      "Jan Bubeníček",
-     "Tomáš Dvořák"
+     "Lassi Paavo Verner Nikkarinen"
     ],
-    "min": 105.8,
-    "pf": 212,
-    "pa": 228,
-    "pm": -16,
-    "poss": 205.1,
-    "pF": 207.9,
-    "pA": 202.3,
-    "ortg": 102.0,
-    "drtg": 112.7,
-    "net": -10.7,
-    "efg": 53.7,
-    "oefg": 60.4
+    "min": 106.6,
+    "pf": 167,
+    "pa": 213,
+    "pm": -46,
+    "poss": 198.0,
+    "pF": 197.2,
+    "pA": 198.8,
+    "ortg": 84.7,
+    "drtg": 107.1,
+    "net": -22.5,
+    "efg": 45.5,
+    "oefg": 54.5
    },
    {
     "players": [
-     "Jan Bubeníček",
-     "Tomáš Merta"
-    ],
-    "min": 103.8,
-    "pf": 217,
-    "pa": 212,
-    "pm": 5,
-    "poss": 198.7,
-    "pF": 198.1,
-    "pA": 199.4,
-    "ortg": 109.6,
-    "drtg": 106.3,
-    "net": 3.2,
-    "efg": 57.1,
-    "oefg": 51.6
-   },
-   {
-    "players": [
-     "Kareem Lamonte Brewton",
+     "Tomáš Dvořák",
      "Vojtěch Synáček"
     ],
-    "min": 103.5,
-    "pf": 187,
-    "pa": 205,
-    "pm": -18,
-    "poss": 203.0,
-    "pF": 200.0,
-    "pA": 206.1,
-    "ortg": 93.5,
-    "drtg": 99.5,
-    "net": -5.9,
-    "efg": 43.4,
-    "oefg": 50.9
+    "min": 105.2,
+    "pf": 246,
+    "pa": 215,
+    "pm": 31,
+    "poss": 200.9,
+    "pF": 204.5,
+    "pA": 197.2,
+    "ortg": 120.3,
+    "drtg": 109.0,
+    "net": 11.3,
+    "efg": 56.4,
+    "oefg": 56.1
+   },
+   {
+    "players": [
+     "Austin Calvin Johnson",
+     "Martin Roub"
+    ],
+    "min": 103.6,
+    "pf": 165,
+    "pa": 237,
+    "pm": -72,
+    "poss": 191.8,
+    "pF": 188.8,
+    "pA": 194.8,
+    "ortg": 87.4,
+    "drtg": 121.7,
+    "net": -34.3,
+    "efg": 46.0,
+    "oefg": 54.8
    },
    {
     "players": [
@@ -9723,42 +9901,6 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Vojtěch Synáček"
-    ],
-    "min": 97.9,
-    "pf": 178,
-    "pa": 203,
-    "pm": -25,
-    "poss": 187.7,
-    "pF": 188.1,
-    "pA": 187.2,
-    "ortg": 94.6,
-    "drtg": 108.4,
-    "net": -13.8,
-    "efg": 46.6,
-    "oefg": 52.5
-   },
-   {
-    "players": [
-     "Austin Calvin Johnson",
-     "Jan Bubeníček"
-    ],
-    "min": 96.9,
-    "pf": 168,
-    "pa": 208,
-    "pm": -40,
-    "poss": 181.6,
-    "pF": 182.6,
-    "pA": 180.5,
-    "ortg": 92.0,
-    "drtg": 115.2,
-    "net": -23.2,
-    "efg": 46.0,
-    "oefg": 57.1
-   },
-   {
-    "players": [
      "Alessandro Petric",
      "Tomáš Merta"
     ],
@@ -9777,39 +9919,21 @@
    },
    {
     "players": [
-     "Austin Calvin Johnson",
-     "Martin Roub"
-    ],
-    "min": 92.5,
-    "pf": 155,
-    "pa": 214,
-    "pm": -59,
-    "poss": 172.5,
-    "pF": 171.0,
-    "pA": 174.0,
-    "ortg": 90.7,
-    "drtg": 123.0,
-    "net": -32.3,
-    "efg": 47.8,
-    "oefg": 55.5
-   },
-   {
-    "players": [
      "Jan Bubeníček",
-     "Lassi Paavo Verner Nikkarinen"
+     "Vojtěch Synáček"
     ],
-    "min": 90.5,
-    "pf": 146,
-    "pa": 183,
-    "pm": -37,
-    "poss": 167.9,
-    "pF": 167.9,
-    "pA": 167.9,
-    "ortg": 86.9,
-    "drtg": 109.0,
-    "net": -22.0,
-    "efg": 47.2,
-    "oefg": 54.7
+    "min": 91.6,
+    "pf": 170,
+    "pa": 190,
+    "pm": -20,
+    "poss": 176.0,
+    "pF": 176.7,
+    "pA": 175.3,
+    "ortg": 96.2,
+    "drtg": 108.4,
+    "net": -12.2,
+    "efg": 48.6,
+    "oefg": 54.8
    },
    {
     "players": [
@@ -9828,42 +9952,6 @@
     "net": -20.1,
     "efg": 47.4,
     "oefg": 55.0
-   },
-   {
-    "players": [
-     "Tomáš Dvořák",
-     "Vojtěch Synáček"
-    ],
-    "min": 84.4,
-    "pf": 193,
-    "pa": 170,
-    "pm": 23,
-    "poss": 164.0,
-    "pF": 166.5,
-    "pA": 161.6,
-    "ortg": 115.9,
-    "drtg": 105.2,
-    "net": 10.7,
-    "efg": 57.0,
-    "oefg": 53.8
-   },
-   {
-    "players": [
-     "Jan Bubeníček",
-     "Vojtěch Synáček"
-    ],
-    "min": 81.0,
-    "pf": 156,
-    "pa": 174,
-    "pm": -18,
-    "poss": 155.9,
-    "pF": 157.4,
-    "pA": 154.4,
-    "ortg": 99.1,
-    "drtg": 112.7,
-    "net": -13.5,
-    "efg": 50.8,
-    "oefg": 56.3
    },
    {
     "players": [
@@ -10029,6 +10117,24 @@
    },
    {
     "players": [
+     "Tomáš Merta",
+     "Vojtěch Synáček"
+    ],
+    "min": 60.4,
+    "pf": 114,
+    "pa": 132,
+    "pm": -18,
+    "poss": 112.6,
+    "pF": 111.3,
+    "pA": 113.9,
+    "ortg": 102.4,
+    "drtg": 115.9,
+    "net": -13.4,
+    "efg": 50.6,
+    "oefg": 54.6
+   },
+   {
+    "players": [
      "David Škranc",
      "Vojtěch Synáček"
     ],
@@ -10134,24 +10240,6 @@
     "net": -32.8,
     "efg": 57.4,
     "oefg": 62.7
-   },
-   {
-    "players": [
-     "Tomáš Merta",
-     "Vojtěch Synáček"
-    ],
-    "min": 50.5,
-    "pf": 101,
-    "pa": 108,
-    "pm": -7,
-    "poss": 96.1,
-    "pF": 95.2,
-    "pA": 97.0,
-    "ortg": 106.1,
-    "drtg": 111.3,
-    "net": -5.2,
-    "efg": 54.0,
-    "oefg": 51.1
    },
    {
     "players": [
@@ -10627,20 +10715,20 @@
   {
    "passer": "Lassi Paavo Verner Nikkarinen",
    "scorer": "Martin Roub",
-   "ast": 37,
-   "pts": 89
+   "ast": 39,
+   "pts": 93
+  },
+  {
+   "passer": "Kareem Lamonte Brewton",
+   "scorer": "Martin Roub",
+   "ast": 27,
+   "pts": 58
   },
   {
    "passer": "Lassi Paavo Verner Nikkarinen",
    "scorer": "Kameron Jamal Chatman",
    "ast": 26,
    "pts": 67
-  },
-  {
-   "passer": "Kareem Lamonte Brewton",
-   "scorer": "Martin Roub",
-   "ast": 26,
-   "pts": 56
   },
   {
    "passer": "David Škranc",
@@ -10657,8 +10745,8 @@
   {
    "passer": "Tomáš Dvořák",
    "scorer": "Martin Roub",
-   "ast": 21,
-   "pts": 42
+   "ast": 22,
+   "pts": 44
   },
   {
    "passer": "Kareem Lamonte Brewton",
@@ -10671,6 +10759,12 @@
    "scorer": "Martin Roub",
    "ast": 14,
    "pts": 32
+  },
+  {
+   "passer": "Lassi Paavo Verner Nikkarinen",
+   "scorer": "Austin Calvin Johnson",
+   "ast": 13,
+   "pts": 26
   },
   {
    "passer": "Lassi Paavo Verner Nikkarinen",
@@ -10697,12 +10791,6 @@
    "pts": 22
   },
   {
-   "passer": "Lassi Paavo Verner Nikkarinen",
-   "scorer": "Austin Calvin Johnson",
-   "ast": 11,
-   "pts": 22
-  },
-  {
    "passer": "Jan Bubeníček",
    "scorer": "Martin Roub",
    "ast": 11,
@@ -10713,6 +10801,18 @@
    "scorer": "David Škranc",
    "ast": 10,
    "pts": 26
+  },
+  {
+   "passer": "Lassi Paavo Verner Nikkarinen",
+   "scorer": "Vojtěch Synáček",
+   "ast": 10,
+   "pts": 26
+  },
+  {
+   "passer": "Lassi Paavo Verner Nikkarinen",
+   "scorer": "Kareem Lamonte Brewton",
+   "ast": 9,
+   "pts": 22
   },
   {
    "passer": "Tomáš Dvořák",
@@ -10746,7 +10846,7 @@
   },
   {
    "passer": "Lassi Paavo Verner Nikkarinen",
-   "scorer": "Vojtěch Synáček",
+   "scorer": "Tomáš Dvořák",
    "ast": 7,
    "pts": 18
   },
@@ -10758,18 +10858,6 @@
   },
   {
    "passer": "Matija Popović",
-   "scorer": "Kareem Lamonte Brewton",
-   "ast": 7,
-   "pts": 17
-  },
-  {
-   "passer": "Tomáš Dvořák",
-   "scorer": "Kareem Lamonte Brewton",
-   "ast": 7,
-   "pts": 17
-  },
-  {
-   "passer": "Lassi Paavo Verner Nikkarinen",
    "scorer": "Kareem Lamonte Brewton",
    "ast": 7,
    "pts": 17
@@ -13526,6 +13614,108 @@
     ],
     "last5": [
      0,
+     15
+    ]
+   }
+  },
+  {
+   "fibaId": 2803577,
+   "nblId": 527004,
+   "date": "2026-03-18",
+   "round": "3. kolo",
+   "venue": "away",
+   "opponent": "BK Olomoucko",
+   "opponentSlug": "olomoucko",
+   "opponentLabel": "Olomoucko",
+   "score": [
+    71,
+    86
+   ],
+   "result": "L",
+   "ot": false,
+   "ortg": 100.1,
+   "drtg": 122.4,
+   "net": -22.3,
+   "pace": 70.6,
+   "efg": 43.8,
+   "tov": 12.2,
+   "orb": 27.5,
+   "ftr": 23.4,
+   "topScorer": "Vojtěch Synáček",
+   "oppEfg": 66.1,
+   "oppOrb": 46.2,
+   "tp": [
+    8,
+    28
+   ],
+   "ft": [
+    15,
+    18
+   ],
+   "second": [
+    16,
+    10
+   ],
+   "bench": [
+    24,
+    33
+   ],
+   "paint": [
+    26,
+    46
+   ],
+   "leading": [
+    10.7,
+    28.9
+   ],
+   "leadChanges": 12,
+   "maxLead": [
+    9,
+    19
+   ],
+   "maxRun": [
+    10,
+    16
+   ],
+   "astFg": [
+    [
+     15,
+     24
+    ],
+    [
+     24,
+     35
+    ]
+   ],
+   "quarters": [
+    [
+     14,
+     21
+    ],
+    [
+     22,
+     17
+    ],
+    [
+     15,
+     25
+    ],
+    [
+     20,
+     23
+    ]
+   ],
+   "segments": {
+    "first3": [
+     27,
+     18
+    ],
+    "last3": [
+     15,
+     36
+    ],
+    "last5": [
+     5,
      15
     ]
    }
@@ -26018,6 +26208,454 @@
     2
    ],
    [
+    30.8,
+    63.3,
+    0,
+    1,
+    2
+   ],
+   [
+    28.0,
+    79.1,
+    1,
+    1,
+    15
+   ],
+   [
+    3.8,
+    52.2,
+    0,
+    0,
+    12
+   ],
+   [
+    27.7,
+    83.0,
+    0,
+    1,
+    15
+   ],
+   [
+    22.1,
+    88.7,
+    0,
+    1,
+    0
+   ],
+   [
+    31.4,
+    62.4,
+    0,
+    1,
+    13
+   ],
+   [
+    6.8,
+    42.9,
+    0,
+    0,
+    12
+   ],
+   [
+    26.1,
+    18.9,
+    0,
+    1,
+    7
+   ],
+   [
+    5.5,
+    2.8,
+    0,
+    1,
+    4
+   ],
+   [
+    4.8,
+    42.9,
+    1,
+    0,
+    0
+   ],
+   [
+    5.5,
+    41.5,
+    1,
+    0,
+    13
+   ],
+   [
+    4.8,
+    41.0,
+    1,
+    0,
+    4
+   ],
+   [
+    7.2,
+    40.1,
+    1,
+    0,
+    0
+   ],
+   [
+    29.2,
+    24.6,
+    0,
+    1,
+    4
+   ],
+   [
+    30.0,
+    20.3,
+    0,
+    1,
+    13
+   ],
+   [
+    4.6,
+    74.6,
+    0,
+    0,
+    15
+   ],
+   [
+    7.9,
+    52.5,
+    1,
+    0,
+    12
+   ],
+   [
+    10.1,
+    49.4,
+    0,
+    0,
+    7
+   ],
+   [
+    4.8,
+    95.2,
+    1,
+    1,
+    11
+   ],
+   [
+    10.8,
+    44.0,
+    1,
+    0,
+    4
+   ],
+   [
+    4.4,
+    41.5,
+    0,
+    0,
+    15
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    12
+   ],
+   [
+    31.7,
+    48.3,
+    1,
+    1,
+    12
+   ],
+   [
+    5.4,
+    3.7,
+    1,
+    1,
+    15
+   ],
+   [
+    3.8,
+    3.1,
+    0,
+    1,
+    11
+   ],
+   [
+    20.2,
+    36.1,
+    1,
+    0,
+    15
+   ],
+   [
+    6.8,
+    11.3,
+    1,
+    0,
+    15
+   ],
+   [
+    8.3,
+    50.0,
+    1,
+    0,
+    0
+   ],
+   [
+    10.4,
+    42.6,
+    0,
+    0,
+    0
+   ],
+   [
+    32.5,
+    54.5,
+    0,
+    1,
+    13
+   ],
+   [
+    16.3,
+    64.4,
+    0,
+    0,
+    4
+   ],
+   [
+    8.7,
+    69.5,
+    0,
+    0,
+    2
+   ],
+   [
+    17.8,
+    65.3,
+    0,
+    0,
+    2
+   ],
+   [
+    8.3,
+    80.5,
+    0,
+    0,
+    12
+   ],
+   [
+    26.2,
+    80.5,
+    1,
+    1,
+    4
+   ],
+   [
+    8.2,
+    52.3,
+    0,
+    0,
+    4
+   ],
+   [
+    23.1,
+    89.0,
+    0,
+    1,
+    11
+   ],
+   [
+    5.8,
+    64.4,
+    1,
+    0,
+    0
+   ],
+   [
+    5.8,
+    58.2,
+    0,
+    0,
+    4
+   ],
+   [
+    14.1,
+    80.5,
+    0,
+    0,
+    15
+   ],
+   [
+    5.5,
+    98.3,
+    0,
+    1,
+    15
+   ],
+   [
+    6.3,
+    58.5,
+    1,
+    0,
+    15
+   ],
+   [
+    6.8,
+    50.3,
+    0,
+    0,
+    11
+   ],
+   [
+    8.9,
+    57.6,
+    0,
+    0,
+    12
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    12
+   ],
+   [
+    8.9,
+    49.7,
+    0,
+    0,
+    15
+   ],
+   [
+    30.0,
+    76.8,
+    0,
+    1,
+    13
+   ],
+   [
+    28.3,
+    78.3,
+    1,
+    1,
+    13
+   ],
+   [
+    27.5,
+    76.3,
+    1,
+    1,
+    4
+   ],
+   [
+    28.0,
+    80.5,
+    0,
+    1,
+    13
+   ],
+   [
+    13.8,
+    96.9,
+    1,
+    1,
+    15
+   ],
+   [
+    18.1,
+    49.2,
+    1,
+    0,
+    4
+   ],
+   [
+    12.1,
+    63.3,
+    0,
+    0,
+    12
+   ],
+   [
+    12.2,
+    52.6,
+    0,
+    0,
+    13
+   ],
+   [
+    32.2,
+    37.0,
+    0,
+    1,
+    0
+   ],
+   [
+    30.3,
+    27.4,
+    0,
+    1,
+    0
+   ],
+   [
+    30.6,
+    32.2,
+    0,
+    1,
+    4
+   ],
+   [
+    29.2,
+    78.5,
+    0,
+    1,
+    13
+   ],
+   [
+    22.7,
+    21.2,
+    0,
+    0,
+    15
+   ],
+   [
+    29.2,
+    77.4,
+    0,
+    1,
+    11
+   ],
+   [
+    8.5,
+    48.6,
+    0,
+    0,
+    2
+   ],
+   [
+    31.9,
+    55.4,
+    0,
+    1,
+    12
+   ],
+   [
+    21.3,
+    47.8,
+    1,
+    0,
+    15
+   ],
+   [
+    7.6,
+    58.5,
+    1,
+    0,
+    11
+   ],
+   [
     28.7,
     78.1,
     0,
@@ -28347,13 +28985,13 @@
   {
    "name": "Martin Roub",
    "bands": [
-    28,
+    30,
     67,
     130,
-    127,
-    112
+    129,
+    116
    ],
-   "pts": 470
+   "pts": 478
   },
   {
    "name": "Kameron Jamal Chatman",
@@ -28370,12 +29008,12 @@
    "name": "Kareem Lamonte Brewton",
    "bands": [
     50,
-    46,
+    52,
     61,
-    63,
-    74
+    67,
+    80
    ],
-   "pts": 294
+   "pts": 310
   },
   {
    "name": "David Škranc",
@@ -28391,13 +29029,13 @@
   {
    "name": "Tomáš Dvořák",
    "bands": [
-    32,
+    34,
     25,
     24,
-    42,
-    51
+    46,
+    53
    ],
-   "pts": 174
+   "pts": 182
   },
   {
    "name": "Lassi Paavo Verner Nikkarinen",
@@ -28405,21 +29043,21 @@
     16,
     18,
     47,
-    35,
-    51
+    40,
+    53
    ],
-   "pts": 167
+   "pts": 174
   },
   {
    "name": "Austin Calvin Johnson",
    "bands": [
-    15,
+    18,
     19,
-    43,
-    43,
-    34
+    45,
+    47,
+    37
    ],
-   "pts": 154
+   "pts": 166
   },
   {
    "name": "Matija Popović",
@@ -28433,6 +29071,17 @@
    "pts": 126
   },
   {
+   "name": "Vojtěch Synáček",
+   "bands": [
+    19,
+    13,
+    26,
+    20,
+    27
+   ],
+   "pts": 107
+  },
+  {
    "name": "Cody Chevell Christian John",
    "bands": [
     25,
@@ -28442,17 +29091,6 @@
     21
    ],
    "pts": 91
-  },
-  {
-   "name": "Vojtěch Synáček",
-   "bands": [
-    16,
-    13,
-    19,
-    15,
-    22
-   ],
-   "pts": 87
   },
   {
    "name": "Tomáš Merta",
@@ -28523,16 +29161,16 @@
  ],
  "segments": {
   "first3": [
-   680,
-   815
+   707,
+   833
   ],
   "last3": [
-   791,
-   844
+   806,
+   880
   ],
   "last5": [
-   306,
-   373
+   311,
+   388
   ]
  },
  "ranks": {
@@ -28541,25 +29179,25 @@
   "diff": 11,
   "ortg": 12,
   "drtg": 9,
-  "net": 11,
+  "net": 12,
   "pace": 11,
-  "efg": 5,
+  "efg": 7,
   "ts": 9,
   "tov": 12,
-  "orb": 10,
+  "orb": 11,
   "drb": 12,
   "ftr": 11,
   "three_par": 5,
   "three": 6,
-  "two": 6,
+  "two": 7,
   "ft": 4,
   "ast_pct": 2,
   "ast_to": 9,
-  "stl_pct": 9,
+  "stl_pct": 8,
   "blk_pct": 8,
   "opp_efg": 11,
   "opp_tov": 3,
-  "opp_ftr": 5,
+  "opp_ftr": 4,
   "opp_three": 12,
   "of": 12
  },
@@ -28808,771 +29446,6 @@
      "pm": -5,
      "eff": 8,
      "ts": 45.4
-    }
-   ]
-  },
-  {
-   "id": "hradec/martin-roub",
-   "name": "Martin Roub",
-   "team": "hradec",
-   "teamName": "BK GAPA Hradec Králové",
-   "teamLabel": "Hradec",
-   "shirt": "24",
-   "pos": "",
-   "gp": 32,
-   "gs": 32,
-   "min": 818.4,
-   "totals": {
-    "pts": 470,
-    "fgm": 182,
-    "fga": 351,
-    "tpm": 45,
-    "tpa": 120,
-    "twopm": 137,
-    "twopa": 231,
-    "ftm": 61,
-    "fta": 83,
-    "oreb": 81,
-    "dreb": 122,
-    "reb": 203,
-    "ast": 40,
-    "to": 39,
-    "stl": 17,
-    "blk": 10,
-    "blkr": 13,
-    "pf": 74,
-    "foulon": 82,
-    "pm": -195,
-    "paint": 266,
-    "fast": 28,
-    "second": 85
-   },
-   "perGame": {
-    "pts": 14.7,
-    "fgm": 5.7,
-    "fga": 11.0,
-    "tpm": 1.4,
-    "tpa": 3.8,
-    "twopm": 4.3,
-    "twopa": 7.2,
-    "ftm": 1.9,
-    "fta": 2.6,
-    "oreb": 2.5,
-    "dreb": 3.8,
-    "reb": 6.3,
-    "ast": 1.2,
-    "to": 1.2,
-    "stl": 0.5,
-    "blk": 0.3,
-    "blkr": 0.4,
-    "pf": 2.3,
-    "foulon": 2.6,
-    "pm": -6.1,
-    "paint": 8.3,
-    "fast": 0.9,
-    "second": 2.7,
-    "min": 25.6,
-    "eff": 15.9,
-    "gmsc": 11.4
-   },
-   "per40": {
-    "pts": 23.0,
-    "reb": 9.9,
-    "ast": 2.0,
-    "stl": 0.8,
-    "blk": 0.5,
-    "to": 1.9
-   },
-   "ts": 60.6,
-   "efg": 58.3,
-   "fg": 51.9,
-   "two": 59.3,
-   "three": 37.5,
-   "ft": 73.5,
-   "usg": 23.9,
-   "astTo": 1.03,
-   "pm": -195,
-   "pm40": -9.5,
-   "on": {
-    "min": 818.4,
-    "pf": 1573,
-    "pa": 1769,
-    "ortg": 101.3,
-    "drtg": 114.6,
-    "net": -13.2
-   },
-   "off": {
-    "min": 450.7,
-    "ortg": 99.4,
-    "drtg": 109.7,
-    "net": -10.3
-   },
-   "onOff": -2.9,
-   "dd": 4,
-   "td": 0,
-   "high": 27,
-   "zones": {
-    "paint": {
-     "m": 136,
-     "a": 224,
-     "pct": 60.7
-    },
-    "mid": {
-     "m": 1,
-     "a": 7,
-     "pct": 14.3
-    },
-    "corner3": {
-     "m": 7,
-     "a": 13,
-     "pct": 53.8
-    },
-    "above3": {
-     "m": 38,
-     "a": 107,
-     "pct": 35.5
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2705710,
-     "date": "2025-09-26",
-     "opponent": "Olomoucko",
-     "venue": "away",
-     "result": "W",
-     "min": 27.3,
-     "pts": 10,
-     "reb": 5,
-     "ast": 0,
-     "stl": 0,
-     "blk": 1,
-     "to": 2,
-     "fg": "4/6",
-     "tp": "1/3",
-     "ft": "1/3",
-     "pm": 3,
-     "eff": 10,
-     "ts": 68.3
-    },
-    {
-     "fibaId": 2708057,
-     "date": "2025-10-01",
-     "opponent": "Opava",
-     "venue": "home",
-     "result": "L",
-     "min": 24.0,
-     "pts": 17,
-     "reb": 7,
-     "ast": 2,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "7/12",
-     "tp": "1/4",
-     "ft": "2/2",
-     "pm": -18,
-     "eff": 20,
-     "ts": 66.0
-    },
-    {
-     "fibaId": 2712000,
-     "date": "2025-10-05",
-     "opponent": "Ústí",
-     "venue": "away",
-     "result": "L",
-     "min": 22.4,
-     "pts": 15,
-     "reb": 7,
-     "ast": 2,
-     "stl": 1,
-     "blk": 0,
-     "to": 1,
-     "fg": "7/11",
-     "tp": "1/4",
-     "ft": "0/0",
-     "pm": -28,
-     "eff": 20,
-     "ts": 68.2
-    },
-    {
-     "fibaId": 2713586,
-     "date": "2025-10-08",
-     "opponent": "USK",
-     "venue": "home",
-     "result": "W",
-     "min": 17.0,
-     "pts": 15,
-     "reb": 2,
-     "ast": 0,
-     "stl": 0,
-     "blk": 1,
-     "to": 1,
-     "fg": "5/13",
-     "tp": "3/4",
-     "ft": "2/2",
-     "pm": -5,
-     "eff": 9,
-     "ts": 54.0
-    },
-    {
-     "fibaId": 2716311,
-     "date": "2025-10-11",
-     "opponent": "Slavia",
-     "venue": "away",
-     "result": "L",
-     "min": 26.2,
-     "pts": 4,
-     "reb": 5,
-     "ast": 1,
-     "stl": 0,
-     "blk": 1,
-     "to": 1,
-     "fg": "1/10",
-     "tp": "0/5",
-     "ft": "2/2",
-     "pm": -8,
-     "eff": 1,
-     "ts": 18.4
-    },
-    {
-     "fibaId": 2734803,
-     "date": "2025-10-18",
-     "opponent": "Nymburk",
-     "venue": "home",
-     "result": "L",
-     "min": 25.9,
-     "pts": 24,
-     "reb": 3,
-     "ast": 3,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "8/11",
-     "tp": "4/4",
-     "ft": "4/4",
-     "pm": -6,
-     "eff": 25,
-     "ts": 94.0
-    },
-    {
-     "fibaId": 2745602,
-     "date": "2025-10-25",
-     "opponent": "Děčín",
-     "venue": "home",
-     "result": "L",
-     "min": 28.3,
-     "pts": 14,
-     "reb": 5,
-     "ast": 1,
-     "stl": 1,
-     "blk": 0,
-     "to": 1,
-     "fg": "6/16",
-     "tp": "1/5",
-     "ft": "1/2",
-     "pm": -8,
-     "eff": 9,
-     "ts": 41.5
-    },
-    {
-     "fibaId": 2757871,
-     "date": "2025-11-01",
-     "opponent": "Pardubice",
-     "venue": "away",
-     "result": "L",
-     "min": 15.3,
-     "pts": 10,
-     "reb": 1,
-     "ast": 1,
-     "stl": 2,
-     "blk": 0,
-     "to": 0,
-     "fg": "5/7",
-     "tp": "0/1",
-     "ft": "0/0",
-     "pm": -26,
-     "eff": 12,
-     "ts": 71.4
-    },
-    {
-     "fibaId": 2760642,
-     "date": "2025-11-05",
-     "opponent": "Olomoucko",
-     "venue": "home",
-     "result": "L",
-     "min": 24.2,
-     "pts": 10,
-     "reb": 13,
-     "ast": 0,
-     "stl": 0,
-     "blk": 1,
-     "to": 1,
-     "fg": "3/10",
-     "tp": "1/5",
-     "ft": "3/4",
-     "pm": -9,
-     "eff": 15,
-     "ts": 42.5
-    },
-    {
-     "fibaId": 2763366,
-     "date": "2025-11-08",
-     "opponent": "Ostrava",
-     "venue": "away",
-     "result": "W",
-     "min": 25.6,
-     "pts": 27,
-     "reb": 6,
-     "ast": 4,
-     "stl": 1,
-     "blk": 0,
-     "to": 1,
-     "fg": "10/13",
-     "tp": "0/0",
-     "ft": "7/8",
-     "pm": 10,
-     "eff": 33,
-     "ts": 81.7
-    },
-    {
-     "fibaId": 2765927,
-     "date": "2025-11-12",
-     "opponent": "Písek",
-     "venue": "home",
-     "result": "L",
-     "min": 20.7,
-     "pts": 2,
-     "reb": 4,
-     "ast": 2,
-     "stl": 1,
-     "blk": 1,
-     "to": 1,
-     "fg": "1/5",
-     "tp": "0/2",
-     "ft": "0/0",
-     "pm": -10,
-     "eff": 5,
-     "ts": 20.0
-    },
-    {
-     "fibaId": 2769233,
-     "date": "2025-11-19",
-     "opponent": "Opava",
-     "venue": "away",
-     "result": "L",
-     "min": 28.6,
-     "pts": 14,
-     "reb": 7,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "6/12",
-     "tp": "1/3",
-     "ft": "1/3",
-     "pm": -15,
-     "eff": 13,
-     "ts": 52.6
-    },
-    {
-     "fibaId": 2770938,
-     "date": "2025-11-23",
-     "opponent": "Ústí",
-     "venue": "home",
-     "result": "L",
-     "min": 30.6,
-     "pts": 22,
-     "reb": 7,
-     "ast": 2,
-     "stl": 0,
-     "blk": 1,
-     "to": 0,
-     "fg": "8/13",
-     "tp": "3/5",
-     "ft": "3/4",
-     "pm": 1,
-     "eff": 26,
-     "ts": 74.5
-    },
-    {
-     "fibaId": 2777446,
-     "date": "2025-12-06",
-     "opponent": "USK",
-     "venue": "away",
-     "result": "L",
-     "min": 24.8,
-     "pts": 9,
-     "reb": 7,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "3/9",
-     "tp": "0/4",
-     "ft": "3/3",
-     "pm": -28,
-     "eff": 8,
-     "ts": 43.6
-    },
-    {
-     "fibaId": 2782832,
-     "date": "2025-12-20",
-     "opponent": "Nymburk",
-     "venue": "away",
-     "result": "L",
-     "min": 23.9,
-     "pts": 1,
-     "reb": 8,
-     "ast": 2,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "0/5",
-     "tp": "0/2",
-     "ft": "1/2",
-     "pm": -12,
-     "eff": 5,
-     "ts": 8.5
-    },
-    {
-     "fibaId": 2787028,
-     "date": "2025-12-27",
-     "opponent": "Děčín",
-     "venue": "away",
-     "result": "L",
-     "min": 22.6,
-     "pts": 7,
-     "reb": 5,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "3/9",
-     "tp": "1/4",
-     "ft": "0/0",
-     "pm": -3,
-     "eff": 4,
-     "ts": 38.9
-    },
-    {
-     "fibaId": 2787957,
-     "date": "2025-12-30",
-     "opponent": "Brno",
-     "venue": "away",
-     "result": "L",
-     "min": 26.2,
-     "pts": 18,
-     "reb": 6,
-     "ast": 1,
-     "stl": 0,
-     "blk": 2,
-     "to": 0,
-     "fg": "7/10",
-     "tp": "4/4",
-     "ft": "0/0",
-     "pm": 4,
-     "eff": 24,
-     "ts": 90.0
-    },
-    {
-     "fibaId": 2789371,
-     "date": "2026-01-03",
-     "opponent": "Pardubice",
-     "venue": "home",
-     "result": "L",
-     "min": 30.0,
-     "pts": 10,
-     "reb": 4,
-     "ast": 3,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "4/9",
-     "tp": "1/4",
-     "ft": "1/2",
-     "pm": -9,
-     "eff": 12,
-     "ts": 50.6
-    },
-    {
-     "fibaId": 2755308,
-     "date": "2026-01-07",
-     "opponent": "Brno",
-     "venue": "home",
-     "result": "L",
-     "min": 29.8,
-     "pts": 19,
-     "reb": 10,
-     "ast": 2,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "7/14",
-     "tp": "1/2",
-     "ft": "4/5",
-     "pm": -1,
-     "eff": 23,
-     "ts": 58.6
-    },
-    {
-     "fibaId": 2791974,
-     "date": "2026-01-10",
-     "opponent": "Ostrava",
-     "venue": "home",
-     "result": "L",
-     "min": 27.4,
-     "pts": 18,
-     "reb": 5,
-     "ast": 2,
-     "stl": 1,
-     "blk": 0,
-     "to": 5,
-     "fg": "7/10",
-     "tp": "2/5",
-     "ft": "2/2",
-     "pm": 6,
-     "eff": 18,
-     "ts": 82.7
-    },
-    {
-     "fibaId": 2780137,
-     "date": "2026-01-14",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "L",
-     "min": 32.1,
-     "pts": 23,
-     "reb": 6,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "10/16",
-     "tp": "1/7",
-     "ft": "2/3",
-     "pm": -1,
-     "eff": 21,
-     "ts": 66.4
-    },
-    {
-     "fibaId": 2794576,
-     "date": "2026-01-17",
-     "opponent": "Písek",
-     "venue": "away",
-     "result": "L",
-     "min": 27.9,
-     "pts": 16,
-     "reb": 6,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "7/11",
-     "tp": "0/3",
-     "ft": "2/3",
-     "pm": -19,
-     "eff": 17,
-     "ts": 64.9
-    },
-    {
-     "fibaId": 2803573,
-     "date": "2026-01-24",
-     "opponent": "USK",
-     "venue": "away",
-     "result": "L",
-     "min": 27.4,
-     "pts": 16,
-     "reb": 7,
-     "ast": 3,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "7/11",
-     "tp": "2/6",
-     "ft": "0/0",
-     "pm": 0,
-     "eff": 23,
-     "ts": 72.7
-    },
-    {
-     "fibaId": 2803575,
-     "date": "2026-01-31",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "L",
-     "min": 24.4,
-     "pts": 15,
-     "reb": 7,
-     "ast": 1,
-     "stl": 0,
-     "blk": 1,
-     "to": 3,
-     "fg": "5/13",
-     "tp": "1/3",
-     "ft": "4/7",
-     "pm": -6,
-     "eff": 10,
-     "ts": 46.6
-    },
-    {
-     "fibaId": 2805264,
-     "date": "2026-02-17",
-     "opponent": "Slavia",
-     "venue": "away",
-     "result": "L",
-     "min": 27.9,
-     "pts": 13,
-     "reb": 7,
-     "ast": 3,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "3/5",
-     "tp": "1/2",
-     "ft": "6/6",
-     "pm": -3,
-     "eff": 20,
-     "ts": 85.1
-    },
-    {
-     "fibaId": 2812147,
-     "date": "2026-03-05",
-     "opponent": "Olomoucko",
-     "venue": "home",
-     "result": "W",
-     "min": 23.0,
-     "pts": 21,
-     "reb": 10,
-     "ast": 0,
-     "stl": 1,
-     "blk": 0,
-     "to": 3,
-     "fg": "8/15",
-     "tp": "4/8",
-     "ft": "1/4",
-     "pm": 13,
-     "eff": 19,
-     "ts": 62.6
-    },
-    {
-     "fibaId": 2815470,
-     "date": "2026-03-14",
-     "opponent": "USK",
-     "venue": "away",
-     "result": "L",
-     "min": 28.6,
-     "pts": 10,
-     "reb": 5,
-     "ast": 0,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "4/13",
-     "tp": "2/7",
-     "ft": "0/0",
-     "pm": -21,
-     "eff": 7,
-     "ts": 38.5
-    },
-    {
-     "fibaId": 2818761,
-     "date": "2026-03-21",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "L",
-     "min": 28.9,
-     "pts": 20,
-     "reb": 11,
-     "ast": 1,
-     "stl": 1,
-     "blk": 0,
-     "to": 2,
-     "fg": "9/13",
-     "tp": "2/2",
-     "ft": "0/0",
-     "pm": 0,
-     "eff": 27,
-     "ts": 76.9
-    },
-    {
-     "fibaId": 2820800,
-     "date": "2026-03-25",
-     "opponent": "Olomoucko",
-     "venue": "away",
-     "result": "L",
-     "min": 26.9,
-     "pts": 17,
-     "reb": 8,
-     "ast": 0,
-     "stl": 2,
-     "blk": 0,
-     "to": 1,
-     "fg": "7/13",
-     "tp": "1/2",
-     "ft": "2/2",
-     "pm": -3,
-     "eff": 20,
-     "ts": 61.2
-    },
-    {
-     "fibaId": 2822461,
-     "date": "2026-03-28",
-     "opponent": "USK",
-     "venue": "home",
-     "result": "W",
-     "min": 20.1,
-     "pts": 14,
-     "reb": 5,
-     "ast": 1,
-     "stl": 0,
-     "blk": 1,
-     "to": 1,
-     "fg": "5/8",
-     "tp": "2/2",
-     "ft": "2/3",
-     "pm": 18,
-     "eff": 16,
-     "ts": 75.1
-    },
-    {
-     "fibaId": 2826400,
-     "date": "2026-04-04",
-     "opponent": "Slavia",
-     "venue": "away",
-     "result": "W",
-     "min": 23.4,
-     "pts": 17,
-     "reb": 5,
-     "ast": 1,
-     "stl": 1,
-     "blk": 0,
-     "to": 2,
-     "fg": "7/15",
-     "tp": "1/3",
-     "ft": "2/3",
-     "pm": -5,
-     "eff": 13,
-     "ts": 52.1
-    },
-    {
-     "fibaId": 2828945,
-     "date": "2026-04-11",
-     "opponent": "Olomoucko",
-     "venue": "home",
-     "result": "W",
-     "min": 27.0,
-     "pts": 22,
-     "reb": 9,
-     "ast": 0,
-     "stl": 2,
-     "blk": 0,
-     "to": 2,
-     "fg": "8/13",
-     "tp": "3/5",
-     "ft": "3/4",
-     "pm": -6,
-     "eff": 25,
-     "ts": 74.5
     }
    ]
   },
@@ -30262,6 +30135,791 @@
    ]
   },
   {
+   "id": "hradec/martin-roub",
+   "name": "Martin Roub",
+   "team": "hradec",
+   "teamName": "BK GAPA Hradec Králové",
+   "teamLabel": "Hradec",
+   "shirt": "24",
+   "pos": "",
+   "gp": 33,
+   "gs": 33,
+   "min": 842.8,
+   "totals": {
+    "pts": 478,
+    "fgm": 186,
+    "fga": 359,
+    "tpm": 45,
+    "tpa": 123,
+    "twopm": 141,
+    "twopa": 236,
+    "ftm": 61,
+    "fta": 83,
+    "oreb": 82,
+    "dreb": 125,
+    "reb": 207,
+    "ast": 40,
+    "to": 40,
+    "stl": 17,
+    "blk": 10,
+    "blkr": 13,
+    "pf": 74,
+    "foulon": 82,
+    "pm": -222,
+    "paint": 274,
+    "fast": 30,
+    "second": 87
+   },
+   "perGame": {
+    "pts": 14.5,
+    "fgm": 5.6,
+    "fga": 10.9,
+    "tpm": 1.4,
+    "tpa": 3.7,
+    "twopm": 4.3,
+    "twopa": 7.2,
+    "ftm": 1.8,
+    "fta": 2.5,
+    "oreb": 2.5,
+    "dreb": 3.8,
+    "reb": 6.3,
+    "ast": 1.2,
+    "to": 1.2,
+    "stl": 0.5,
+    "blk": 0.3,
+    "blkr": 0.4,
+    "pf": 2.2,
+    "foulon": 2.5,
+    "pm": -6.7,
+    "paint": 8.3,
+    "fast": 0.9,
+    "second": 2.6,
+    "min": 25.5,
+    "eff": 15.7,
+    "gmsc": 11.2
+   },
+   "per40": {
+    "pts": 22.7,
+    "reb": 9.8,
+    "ast": 1.9,
+    "stl": 0.8,
+    "blk": 0.5,
+    "to": 1.9
+   },
+   "ts": 60.4,
+   "efg": 58.1,
+   "fg": 51.8,
+   "two": 59.7,
+   "three": 36.6,
+   "ft": 73.5,
+   "usg": 23.7,
+   "astTo": 1.0,
+   "pm": -222,
+   "pm40": -10.5,
+   "on": {
+    "min": 842.8,
+    "pf": 1599,
+    "pa": 1822,
+    "ortg": 100.2,
+    "drtg": 114.8,
+    "net": -14.5
+   },
+   "off": {
+    "min": 466.3,
+    "ortg": 101.4,
+    "drtg": 110.1,
+    "net": -8.7
+   },
+   "onOff": -5.8,
+   "dd": 4,
+   "td": 0,
+   "high": 27,
+   "zones": {
+    "paint": {
+     "m": 140,
+     "a": 229,
+     "pct": 61.1
+    },
+    "mid": {
+     "m": 1,
+     "a": 7,
+     "pct": 14.3
+    },
+    "corner3": {
+     "m": 7,
+     "a": 13,
+     "pct": 53.8
+    },
+    "above3": {
+     "m": 38,
+     "a": 110,
+     "pct": 34.5
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2705710,
+     "date": "2025-09-26",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 27.3,
+     "pts": 10,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 2,
+     "fg": "4/6",
+     "tp": "1/3",
+     "ft": "1/3",
+     "pm": 3,
+     "eff": 10,
+     "ts": 68.3
+    },
+    {
+     "fibaId": 2708057,
+     "date": "2025-10-01",
+     "opponent": "Opava",
+     "venue": "home",
+     "result": "L",
+     "min": 24.0,
+     "pts": 17,
+     "reb": 7,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "7/12",
+     "tp": "1/4",
+     "ft": "2/2",
+     "pm": -18,
+     "eff": 20,
+     "ts": 66.0
+    },
+    {
+     "fibaId": 2712000,
+     "date": "2025-10-05",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 22.4,
+     "pts": 15,
+     "reb": 7,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "7/11",
+     "tp": "1/4",
+     "ft": "0/0",
+     "pm": -28,
+     "eff": 20,
+     "ts": 68.2
+    },
+    {
+     "fibaId": 2713586,
+     "date": "2025-10-08",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 17.0,
+     "pts": 15,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 1,
+     "fg": "5/13",
+     "tp": "3/4",
+     "ft": "2/2",
+     "pm": -5,
+     "eff": 9,
+     "ts": 54.0
+    },
+    {
+     "fibaId": 2716311,
+     "date": "2025-10-11",
+     "opponent": "Slavia",
+     "venue": "away",
+     "result": "L",
+     "min": 26.2,
+     "pts": 4,
+     "reb": 5,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "to": 1,
+     "fg": "1/10",
+     "tp": "0/5",
+     "ft": "2/2",
+     "pm": -8,
+     "eff": 1,
+     "ts": 18.4
+    },
+    {
+     "fibaId": 2734803,
+     "date": "2025-10-18",
+     "opponent": "Nymburk",
+     "venue": "home",
+     "result": "L",
+     "min": 25.9,
+     "pts": 24,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "8/11",
+     "tp": "4/4",
+     "ft": "4/4",
+     "pm": -6,
+     "eff": 25,
+     "ts": 94.0
+    },
+    {
+     "fibaId": 2745602,
+     "date": "2025-10-25",
+     "opponent": "Děčín",
+     "venue": "home",
+     "result": "L",
+     "min": 28.3,
+     "pts": 14,
+     "reb": 5,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "6/16",
+     "tp": "1/5",
+     "ft": "1/2",
+     "pm": -8,
+     "eff": 9,
+     "ts": 41.5
+    },
+    {
+     "fibaId": 2757871,
+     "date": "2025-11-01",
+     "opponent": "Pardubice",
+     "venue": "away",
+     "result": "L",
+     "min": 15.3,
+     "pts": 10,
+     "reb": 1,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "to": 0,
+     "fg": "5/7",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": -26,
+     "eff": 12,
+     "ts": 71.4
+    },
+    {
+     "fibaId": 2760642,
+     "date": "2025-11-05",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "L",
+     "min": 24.2,
+     "pts": 10,
+     "reb": 13,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 1,
+     "fg": "3/10",
+     "tp": "1/5",
+     "ft": "3/4",
+     "pm": -9,
+     "eff": 15,
+     "ts": 42.5
+    },
+    {
+     "fibaId": 2763366,
+     "date": "2025-11-08",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "W",
+     "min": 25.6,
+     "pts": 27,
+     "reb": 6,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "10/13",
+     "tp": "0/0",
+     "ft": "7/8",
+     "pm": 10,
+     "eff": 33,
+     "ts": 81.7
+    },
+    {
+     "fibaId": 2765927,
+     "date": "2025-11-12",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 20.7,
+     "pts": 2,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 1,
+     "to": 1,
+     "fg": "1/5",
+     "tp": "0/2",
+     "ft": "0/0",
+     "pm": -10,
+     "eff": 5,
+     "ts": 20.0
+    },
+    {
+     "fibaId": 2769233,
+     "date": "2025-11-19",
+     "opponent": "Opava",
+     "venue": "away",
+     "result": "L",
+     "min": 28.6,
+     "pts": 14,
+     "reb": 7,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "6/12",
+     "tp": "1/3",
+     "ft": "1/3",
+     "pm": -15,
+     "eff": 13,
+     "ts": 52.6
+    },
+    {
+     "fibaId": 2770938,
+     "date": "2025-11-23",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "L",
+     "min": 30.6,
+     "pts": 22,
+     "reb": 7,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "to": 0,
+     "fg": "8/13",
+     "tp": "3/5",
+     "ft": "3/4",
+     "pm": 1,
+     "eff": 26,
+     "ts": 74.5
+    },
+    {
+     "fibaId": 2777446,
+     "date": "2025-12-06",
+     "opponent": "USK",
+     "venue": "away",
+     "result": "L",
+     "min": 24.8,
+     "pts": 9,
+     "reb": 7,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/9",
+     "tp": "0/4",
+     "ft": "3/3",
+     "pm": -28,
+     "eff": 8,
+     "ts": 43.6
+    },
+    {
+     "fibaId": 2782832,
+     "date": "2025-12-20",
+     "opponent": "Nymburk",
+     "venue": "away",
+     "result": "L",
+     "min": 23.9,
+     "pts": 1,
+     "reb": 8,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/5",
+     "tp": "0/2",
+     "ft": "1/2",
+     "pm": -12,
+     "eff": 5,
+     "ts": 8.5
+    },
+    {
+     "fibaId": 2787028,
+     "date": "2025-12-27",
+     "opponent": "Děčín",
+     "venue": "away",
+     "result": "L",
+     "min": 22.6,
+     "pts": 7,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/9",
+     "tp": "1/4",
+     "ft": "0/0",
+     "pm": -3,
+     "eff": 4,
+     "ts": 38.9
+    },
+    {
+     "fibaId": 2787957,
+     "date": "2025-12-30",
+     "opponent": "Brno",
+     "venue": "away",
+     "result": "L",
+     "min": 26.2,
+     "pts": 18,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 2,
+     "to": 0,
+     "fg": "7/10",
+     "tp": "4/4",
+     "ft": "0/0",
+     "pm": 4,
+     "eff": 24,
+     "ts": 90.0
+    },
+    {
+     "fibaId": 2789371,
+     "date": "2026-01-03",
+     "opponent": "Pardubice",
+     "venue": "home",
+     "result": "L",
+     "min": 30.0,
+     "pts": 10,
+     "reb": 4,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "4/9",
+     "tp": "1/4",
+     "ft": "1/2",
+     "pm": -9,
+     "eff": 12,
+     "ts": 50.6
+    },
+    {
+     "fibaId": 2755308,
+     "date": "2026-01-07",
+     "opponent": "Brno",
+     "venue": "home",
+     "result": "L",
+     "min": 29.8,
+     "pts": 19,
+     "reb": 10,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "7/14",
+     "tp": "1/2",
+     "ft": "4/5",
+     "pm": -1,
+     "eff": 23,
+     "ts": 58.6
+    },
+    {
+     "fibaId": 2791974,
+     "date": "2026-01-10",
+     "opponent": "Ostrava",
+     "venue": "home",
+     "result": "L",
+     "min": 27.4,
+     "pts": 18,
+     "reb": 5,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 5,
+     "fg": "7/10",
+     "tp": "2/5",
+     "ft": "2/2",
+     "pm": 6,
+     "eff": 18,
+     "ts": 82.7
+    },
+    {
+     "fibaId": 2780137,
+     "date": "2026-01-14",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "L",
+     "min": 32.1,
+     "pts": 23,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "10/16",
+     "tp": "1/7",
+     "ft": "2/3",
+     "pm": -1,
+     "eff": 21,
+     "ts": 66.4
+    },
+    {
+     "fibaId": 2794576,
+     "date": "2026-01-17",
+     "opponent": "Písek",
+     "venue": "away",
+     "result": "L",
+     "min": 27.9,
+     "pts": 16,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "7/11",
+     "tp": "0/3",
+     "ft": "2/3",
+     "pm": -19,
+     "eff": 17,
+     "ts": 64.9
+    },
+    {
+     "fibaId": 2803573,
+     "date": "2026-01-24",
+     "opponent": "USK",
+     "venue": "away",
+     "result": "L",
+     "min": 27.4,
+     "pts": 16,
+     "reb": 7,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "7/11",
+     "tp": "2/6",
+     "ft": "0/0",
+     "pm": 0,
+     "eff": 23,
+     "ts": 72.7
+    },
+    {
+     "fibaId": 2803575,
+     "date": "2026-01-31",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "L",
+     "min": 24.4,
+     "pts": 15,
+     "reb": 7,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "to": 3,
+     "fg": "5/13",
+     "tp": "1/3",
+     "ft": "4/7",
+     "pm": -6,
+     "eff": 10,
+     "ts": 46.6
+    },
+    {
+     "fibaId": 2805264,
+     "date": "2026-02-17",
+     "opponent": "Slavia",
+     "venue": "away",
+     "result": "L",
+     "min": 27.9,
+     "pts": 13,
+     "reb": 7,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "3/5",
+     "tp": "1/2",
+     "ft": "6/6",
+     "pm": -3,
+     "eff": 20,
+     "ts": 85.1
+    },
+    {
+     "fibaId": 2812147,
+     "date": "2026-03-05",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 23.0,
+     "pts": 21,
+     "reb": 10,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "8/15",
+     "tp": "4/8",
+     "ft": "1/4",
+     "pm": 13,
+     "eff": 19,
+     "ts": 62.6
+    },
+    {
+     "fibaId": 2815470,
+     "date": "2026-03-14",
+     "opponent": "USK",
+     "venue": "away",
+     "result": "L",
+     "min": 28.6,
+     "pts": 10,
+     "reb": 5,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "4/13",
+     "tp": "2/7",
+     "ft": "0/0",
+     "pm": -21,
+     "eff": 7,
+     "ts": 38.5
+    },
+    {
+     "fibaId": 2803577,
+     "date": "2026-03-18",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 24.4,
+     "pts": 8,
+     "reb": 4,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/8",
+     "tp": "0/3",
+     "ft": "0/0",
+     "pm": -27,
+     "eff": 7,
+     "ts": 50.0
+    },
+    {
+     "fibaId": 2818761,
+     "date": "2026-03-21",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "L",
+     "min": 28.9,
+     "pts": 20,
+     "reb": 11,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "9/13",
+     "tp": "2/2",
+     "ft": "0/0",
+     "pm": 0,
+     "eff": 27,
+     "ts": 76.9
+    },
+    {
+     "fibaId": 2820800,
+     "date": "2026-03-25",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 26.9,
+     "pts": 17,
+     "reb": 8,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "to": 1,
+     "fg": "7/13",
+     "tp": "1/2",
+     "ft": "2/2",
+     "pm": -3,
+     "eff": 20,
+     "ts": 61.2
+    },
+    {
+     "fibaId": 2822461,
+     "date": "2026-03-28",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 20.1,
+     "pts": 14,
+     "reb": 5,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "to": 1,
+     "fg": "5/8",
+     "tp": "2/2",
+     "ft": "2/3",
+     "pm": 18,
+     "eff": 16,
+     "ts": 75.1
+    },
+    {
+     "fibaId": 2826400,
+     "date": "2026-04-04",
+     "opponent": "Slavia",
+     "venue": "away",
+     "result": "W",
+     "min": 23.4,
+     "pts": 17,
+     "reb": 5,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "7/15",
+     "tp": "1/3",
+     "ft": "2/3",
+     "pm": -5,
+     "eff": 13,
+     "ts": 52.1
+    },
+    {
+     "fibaId": 2828945,
+     "date": "2026-04-11",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 27.0,
+     "pts": 22,
+     "reb": 9,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "to": 2,
+     "fg": "8/13",
+     "tp": "3/5",
+     "ft": "3/4",
+     "pm": -6,
+     "eff": 25,
+     "ts": 74.5
+    }
+   ]
+  },
+  {
    "id": "hradec/kareem-lamonte-brewton",
    "name": "Kareem Lamonte Brewton",
    "team": "hradec",
@@ -30269,103 +30927,103 @@
    "teamLabel": "Hradec",
    "shirt": "2",
    "pos": "",
-   "gp": 27,
+   "gp": 28,
    "gs": 6,
-   "min": 673.6,
+   "min": 701.7,
    "totals": {
-    "pts": 294,
-    "fgm": 117,
-    "fga": 242,
-    "tpm": 29,
-    "tpa": 85,
-    "twopm": 88,
-    "twopa": 157,
-    "ftm": 31,
-    "fta": 45,
-    "oreb": 31,
-    "dreb": 84,
-    "reb": 115,
-    "ast": 114,
-    "to": 76,
-    "stl": 47,
+    "pts": 310,
+    "fgm": 122,
+    "fga": 253,
+    "tpm": 31,
+    "tpa": 90,
+    "twopm": 91,
+    "twopa": 163,
+    "ftm": 35,
+    "fta": 49,
+    "oreb": 32,
+    "dreb": 86,
+    "reb": 118,
+    "ast": 116,
+    "to": 77,
+    "stl": 50,
     "blk": 2,
-    "blkr": 10,
-    "pf": 74,
-    "foulon": 69,
-    "pm": -152,
-    "paint": 150,
+    "blkr": 11,
+    "pf": 77,
+    "foulon": 75,
+    "pm": -165,
+    "paint": 156,
     "fast": 51,
     "second": 48
    },
    "perGame": {
-    "pts": 10.9,
-    "fgm": 4.3,
+    "pts": 11.1,
+    "fgm": 4.4,
     "fga": 9.0,
     "tpm": 1.1,
-    "tpa": 3.1,
-    "twopm": 3.3,
+    "tpa": 3.2,
+    "twopm": 3.2,
     "twopa": 5.8,
-    "ftm": 1.1,
-    "fta": 1.7,
+    "ftm": 1.2,
+    "fta": 1.8,
     "oreb": 1.1,
     "dreb": 3.1,
-    "reb": 4.3,
-    "ast": 4.2,
+    "reb": 4.2,
+    "ast": 4.1,
     "to": 2.8,
-    "stl": 1.7,
+    "stl": 1.8,
     "blk": 0.1,
     "blkr": 0.4,
-    "pf": 2.7,
-    "foulon": 2.6,
-    "pm": -5.6,
+    "pf": 2.8,
+    "foulon": 2.7,
+    "pm": -5.9,
     "paint": 5.6,
-    "fast": 1.9,
-    "second": 1.8,
-    "min": 24.9,
-    "eff": 13.2,
-    "gmsc": 8.7
+    "fast": 1.8,
+    "second": 1.7,
+    "min": 25.1,
+    "eff": 13.4,
+    "gmsc": 8.9
    },
    "per40": {
-    "pts": 17.5,
-    "reb": 6.8,
-    "ast": 6.8,
-    "stl": 2.8,
+    "pts": 17.7,
+    "reb": 6.7,
+    "ast": 6.6,
+    "stl": 2.9,
     "blk": 0.1,
-    "to": 4.5
+    "to": 4.4
    },
-   "ts": 56.1,
+   "ts": 56.5,
    "efg": 54.3,
-   "fg": 48.3,
-   "two": 56.1,
-   "three": 34.1,
-   "ft": 68.9,
-   "usg": 22.9,
-   "astTo": 1.5,
-   "pm": -152,
-   "pm40": -9.0,
+   "fg": 48.2,
+   "two": 55.8,
+   "three": 34.4,
+   "ft": 71.4,
+   "usg": 23.0,
+   "astTo": 1.51,
+   "pm": -165,
+   "pm40": -9.4,
    "on": {
-    "min": 673.5,
-    "pf": 1262,
-    "pa": 1416,
-    "ortg": 97.4,
-    "drtg": 108.1,
-    "net": -10.7
+    "min": 701.6,
+    "pf": 1313,
+    "pa": 1480,
+    "ortg": 97.6,
+    "drtg": 109.1,
+    "net": -11.5
    },
    "off": {
-    "min": 395.6,
-    "ortg": 103.1,
-    "drtg": 118.2,
-    "net": -15.1
+    "min": 407.5,
+    "ortg": 102.7,
+    "drtg": 117.3,
+    "net": -14.6
    },
-   "onOff": 4.4,
+   "onOff": 3.1,
    "dd": 2,
    "td": 0,
    "high": 22,
    "zones": {
     "paint": {
-     "m": 79,
-     "a": 135,
-     "pct": 58.5
+     "m": 82,
+     "a": 141,
+     "pct": 58.2
     },
     "mid": {
      "m": 9,
@@ -30374,13 +31032,13 @@
     },
     "corner3": {
      "m": 3,
-     "a": 7,
-     "pct": 42.9
+     "a": 8,
+     "pct": 37.5
     },
     "above3": {
-     "m": 26,
-     "a": 78,
-     "pct": 33.3
+     "m": 28,
+     "a": 82,
+     "pct": 34.1
     }
    },
    "log": [
@@ -30825,6 +31483,26 @@
      "ts": 50.0
     },
     {
+     "fibaId": 2803577,
+     "date": "2026-03-18",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 28.1,
+     "pts": 16,
+     "reb": 3,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "to": 1,
+     "fg": "5/11",
+     "tp": "2/5",
+     "ft": "4/4",
+     "pm": -13,
+     "eff": 17,
+     "ts": 62.7
+    },
+    {
      "fibaId": 2818761,
      "date": "2026-03-21",
      "opponent": "Slavia",
@@ -30927,6 +31605,331 @@
    ]
   },
   {
+   "id": "hradec/vojtech-synacek",
+   "name": "Vojtěch Synáček",
+   "team": "hradec",
+   "teamName": "BK GAPA Hradec Králové",
+   "teamLabel": "Hradec",
+   "shirt": "27",
+   "pos": "",
+   "gp": 10,
+   "gs": 5,
+   "min": 249.9,
+   "totals": {
+    "pts": 107,
+    "fgm": 32,
+    "fga": 85,
+    "tpm": 14,
+    "tpa": 41,
+    "twopm": 18,
+    "twopa": 44,
+    "ftm": 29,
+    "fta": 37,
+    "oreb": 5,
+    "dreb": 14,
+    "reb": 19,
+    "ast": 14,
+    "to": 15,
+    "stl": 7,
+    "blk": 0,
+    "blkr": 6,
+    "pf": 23,
+    "foulon": 47,
+    "pm": -10,
+    "paint": 28,
+    "fast": 19,
+    "second": 14
+   },
+   "perGame": {
+    "pts": 10.7,
+    "fgm": 3.2,
+    "fga": 8.5,
+    "tpm": 1.4,
+    "tpa": 4.1,
+    "twopm": 1.8,
+    "twopa": 4.4,
+    "ftm": 2.9,
+    "fta": 3.7,
+    "oreb": 0.5,
+    "dreb": 1.4,
+    "reb": 1.9,
+    "ast": 1.4,
+    "to": 1.5,
+    "stl": 0.7,
+    "blk": 0.0,
+    "blkr": 0.6,
+    "pf": 2.3,
+    "foulon": 4.7,
+    "pm": -1.0,
+    "paint": 2.8,
+    "fast": 1.9,
+    "second": 1.4,
+    "min": 25.0,
+    "eff": 7.1,
+    "gmsc": 5.7
+   },
+   "per40": {
+    "pts": 17.1,
+    "reb": 3.0,
+    "ast": 2.2,
+    "stl": 1.1,
+    "blk": 0.0,
+    "to": 2.4
+   },
+   "ts": 52.8,
+   "efg": 45.9,
+   "fg": 37.6,
+   "two": 40.9,
+   "three": 34.1,
+   "ft": 78.4,
+   "usg": 21.7,
+   "astTo": 0.93,
+   "pm": -10,
+   "pm40": -1.6,
+   "on": {
+    "min": 249.9,
+    "pf": 498,
+    "pa": 508,
+    "ortg": 104.1,
+    "drtg": 107.8,
+    "net": -3.7
+   },
+   "off": {
+    "min": 150.1,
+    "ortg": 109.4,
+    "drtg": 111.5,
+    "net": -2.1
+   },
+   "onOff": -1.6,
+   "dd": 0,
+   "td": 0,
+   "high": 20,
+   "zones": {
+    "paint": {
+     "m": 13,
+     "a": 35,
+     "pct": 37.1
+    },
+    "mid": {
+     "m": 5,
+     "a": 9,
+     "pct": 55.6
+    },
+    "corner3": {
+     "m": 5,
+     "a": 9,
+     "pct": 55.6
+    },
+    "above3": {
+     "m": 9,
+     "a": 32,
+     "pct": 28.1
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2803573,
+     "date": "2026-01-24",
+     "opponent": "USK",
+     "venue": "away",
+     "result": "L",
+     "min": 24.3,
+     "pts": 15,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/9",
+     "tp": "3/4",
+     "ft": "4/5",
+     "pm": 0,
+     "eff": 9,
+     "ts": 67.0
+    },
+    {
+     "fibaId": 2803575,
+     "date": "2026-01-31",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "L",
+     "min": 20.0,
+     "pts": 2,
+     "reb": 0,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "0/5",
+     "tp": "0/3",
+     "ft": "2/4",
+     "pm": 4,
+     "eff": -4,
+     "ts": 14.8
+    },
+    {
+     "fibaId": 2805264,
+     "date": "2026-02-17",
+     "opponent": "Slavia",
+     "venue": "away",
+     "result": "L",
+     "min": 31.5,
+     "pts": 13,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 4,
+     "fg": "2/5",
+     "tp": "1/4",
+     "ft": "8/10",
+     "pm": 0,
+     "eff": 10,
+     "ts": 69.1
+    },
+    {
+     "fibaId": 2812147,
+     "date": "2026-03-05",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 28.6,
+     "pts": 14,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/9",
+     "tp": "2/4",
+     "ft": "6/6",
+     "pm": 19,
+     "eff": 14,
+     "ts": 60.1
+    },
+    {
+     "fibaId": 2815470,
+     "date": "2026-03-14",
+     "opponent": "USK",
+     "venue": "away",
+     "result": "L",
+     "min": 29.0,
+     "pts": 5,
+     "reb": 1,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "2/9",
+     "tp": "1/4",
+     "ft": "0/0",
+     "pm": -20,
+     "eff": -2,
+     "ts": 27.8
+    },
+    {
+     "fibaId": 2803577,
+     "date": "2026-03-18",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 28.8,
+     "pts": 20,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "7/14",
+     "tp": "3/5",
+     "ft": "3/3",
+     "pm": -2,
+     "eff": 16,
+     "ts": 65.3
+    },
+    {
+     "fibaId": 2818761,
+     "date": "2026-03-21",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "L",
+     "min": 27.1,
+     "pts": 5,
+     "reb": 1,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "2/8",
+     "tp": "1/4",
+     "ft": "0/0",
+     "pm": -4,
+     "eff": 3,
+     "ts": 31.2
+    },
+    {
+     "fibaId": 2820800,
+     "date": "2026-03-25",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 20.6,
+     "pts": 13,
+     "reb": 2,
+     "ast": 4,
+     "stl": 2,
+     "blk": 0,
+     "to": 1,
+     "fg": "5/9",
+     "tp": "0/4",
+     "ft": "3/5",
+     "pm": 6,
+     "eff": 14,
+     "ts": 58.0
+    },
+    {
+     "fibaId": 2822461,
+     "date": "2026-03-28",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 21.6,
+     "pts": 11,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/11",
+     "tp": "2/6",
+     "ft": "1/2",
+     "pm": 2,
+     "eff": 5,
+     "ts": 46.3
+    },
+    {
+     "fibaId": 2826400,
+     "date": "2026-04-04",
+     "opponent": "Slavia",
+     "venue": "away",
+     "result": "W",
+     "min": 18.4,
+     "pts": 9,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/6",
+     "tp": "1/3",
+     "ft": "2/2",
+     "pm": -15,
+     "eff": 6,
+     "ts": 65.4
+    }
+   ]
+  },
+  {
    "id": "hradec/lassi-paavo-verner-nikkarinen",
    "name": "Lassi Paavo Verner Nikkarinen",
    "team": "hradec",
@@ -30934,102 +31937,102 @@
    "teamLabel": "Hradec",
    "shirt": "4",
    "pos": "",
-   "gp": 17,
-   "gs": 17,
-   "min": 507.5,
+   "gp": 18,
+   "gs": 18,
+   "min": 540.8,
    "totals": {
-    "pts": 167,
-    "fgm": 58,
-    "fga": 161,
-    "tpm": 27,
-    "tpa": 99,
-    "twopm": 31,
-    "twopa": 62,
-    "ftm": 24,
-    "fta": 34,
+    "pts": 174,
+    "fgm": 60,
+    "fga": 170,
+    "tpm": 28,
+    "tpa": 106,
+    "twopm": 32,
+    "twopa": 64,
+    "ftm": 26,
+    "fta": 36,
     "oreb": 10,
     "dreb": 25,
     "reb": 35,
-    "ast": 116,
-    "to": 41,
-    "stl": 18,
+    "ast": 126,
+    "to": 44,
+    "stl": 23,
     "blk": 3,
     "blkr": 2,
-    "pf": 39,
-    "foulon": 49,
-    "pm": -82,
-    "paint": 46,
+    "pf": 42,
+    "foulon": 52,
+    "pm": -90,
+    "paint": 48,
     "fast": 15,
-    "second": 17
+    "second": 20
    },
    "perGame": {
-    "pts": 9.8,
-    "fgm": 3.4,
-    "fga": 9.5,
+    "pts": 9.7,
+    "fgm": 3.3,
+    "fga": 9.4,
     "tpm": 1.6,
-    "tpa": 5.8,
+    "tpa": 5.9,
     "twopm": 1.8,
     "twopa": 3.6,
     "ftm": 1.4,
     "fta": 2.0,
     "oreb": 0.6,
-    "dreb": 1.5,
-    "reb": 2.1,
-    "ast": 6.8,
+    "dreb": 1.4,
+    "reb": 1.9,
+    "ast": 7.0,
     "to": 2.4,
-    "stl": 1.1,
+    "stl": 1.3,
     "blk": 0.2,
     "blkr": 0.1,
     "pf": 2.3,
     "foulon": 2.9,
-    "pm": -4.8,
+    "pm": -5.0,
     "paint": 2.7,
-    "fast": 0.9,
-    "second": 1.0,
-    "min": 29.9,
+    "fast": 0.8,
+    "second": 1.1,
+    "min": 30.0,
     "eff": 10.9,
-    "gmsc": 7.8
+    "gmsc": 7.9
    },
    "per40": {
-    "pts": 13.2,
-    "reb": 2.8,
-    "ast": 9.1,
-    "stl": 1.4,
+    "pts": 12.9,
+    "reb": 2.6,
+    "ast": 9.3,
+    "stl": 1.7,
     "blk": 0.2,
-    "to": 3.2
+    "to": 3.3
    },
-   "ts": 47.5,
-   "efg": 44.4,
-   "fg": 36.0,
+   "ts": 46.8,
+   "efg": 43.5,
+   "fg": 35.3,
    "two": 50.0,
-   "three": 27.3,
-   "ft": 70.6,
+   "three": 26.4,
+   "ft": 72.2,
    "usg": 19.6,
-   "astTo": 2.83,
-   "pm": -82,
-   "pm40": -6.5,
+   "astTo": 2.86,
+   "pm": -90,
+   "pm40": -6.7,
    "on": {
-    "min": 507.5,
-    "pf": 1001,
-    "pa": 1083,
-    "ortg": 104.2,
-    "drtg": 113.2,
-    "net": -9.0
+    "min": 540.8,
+    "pf": 1065,
+    "pa": 1155,
+    "ortg": 104.4,
+    "drtg": 113.7,
+    "net": -9.3
    },
    "off": {
-    "min": 172.5,
-    "ortg": 103.9,
-    "drtg": 113.8,
-    "net": -9.9
+    "min": 179.2,
+    "ortg": 102.5,
+    "drtg": 114.3,
+    "net": -11.7
    },
-   "onOff": 0.9,
+   "onOff": 2.4,
    "dd": 4,
    "td": 0,
    "high": 20,
    "zones": {
     "paint": {
-     "m": 23,
-     "a": 45,
+     "m": 24,
+     "a": 47,
      "pct": 51.1
     },
     "mid": {
@@ -31043,9 +32046,9 @@
      "pct": 40.0
     },
     "above3": {
-     "m": 25,
-     "a": 94,
-     "pct": 26.6
+     "m": 26,
+     "a": 101,
+     "pct": 25.7
     }
    },
    "log": [
@@ -31310,6 +32313,26 @@
      "ts": 55.9
     },
     {
+     "fibaId": 2803577,
+     "date": "2026-03-18",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 33.3,
+     "pts": 7,
+     "reb": 0,
+     "ast": 10,
+     "stl": 5,
+     "blk": 0,
+     "to": 3,
+     "fg": "2/9",
+     "tp": "1/7",
+     "ft": "2/2",
+     "pm": -8,
+     "eff": 12,
+     "ts": 35.4
+    },
+    {
      "fibaId": 2818761,
      "date": "2026-03-21",
      "opponent": "Slavia",
@@ -31388,311 +32411,6 @@
      "pm": -2,
      "eff": 7,
      "ts": 43.1
-    }
-   ]
-  },
-  {
-   "id": "hradec/vojtech-synacek",
-   "name": "Vojtěch Synáček",
-   "team": "hradec",
-   "teamName": "BK GAPA Hradec Králové",
-   "teamLabel": "Hradec",
-   "shirt": "27",
-   "pos": "",
-   "gp": 9,
-   "gs": 4,
-   "min": 221.1,
-   "totals": {
-    "pts": 87,
-    "fgm": 25,
-    "fga": 71,
-    "tpm": 11,
-    "tpa": 36,
-    "twopm": 14,
-    "twopa": 35,
-    "ftm": 26,
-    "fta": 34,
-    "oreb": 4,
-    "dreb": 12,
-    "reb": 16,
-    "ast": 14,
-    "to": 14,
-    "stl": 6,
-    "blk": 0,
-    "blkr": 6,
-    "pf": 21,
-    "foulon": 42,
-    "pm": -8,
-    "paint": 26,
-    "fast": 16,
-    "second": 11
-   },
-   "perGame": {
-    "pts": 9.7,
-    "fgm": 2.8,
-    "fga": 7.9,
-    "tpm": 1.2,
-    "tpa": 4.0,
-    "twopm": 1.6,
-    "twopa": 3.9,
-    "ftm": 2.9,
-    "fta": 3.8,
-    "oreb": 0.4,
-    "dreb": 1.3,
-    "reb": 1.8,
-    "ast": 1.6,
-    "to": 1.6,
-    "stl": 0.7,
-    "blk": 0.0,
-    "blkr": 0.7,
-    "pf": 2.3,
-    "foulon": 4.7,
-    "pm": -0.9,
-    "paint": 2.9,
-    "fast": 1.8,
-    "second": 1.2,
-    "min": 24.6,
-    "eff": 6.1,
-    "gmsc": 4.9
-   },
-   "per40": {
-    "pts": 15.7,
-    "reb": 2.9,
-    "ast": 2.5,
-    "stl": 1.1,
-    "blk": 0.0,
-    "to": 2.5
-   },
-   "ts": 50.6,
-   "efg": 43.0,
-   "fg": 35.2,
-   "two": 40.0,
-   "three": 30.6,
-   "ft": 76.5,
-   "usg": 21.0,
-   "astTo": 1.0,
-   "pm": -8,
-   "pm40": -1.4,
-   "on": {
-    "min": 221.1,
-    "pf": 440,
-    "pa": 448,
-    "ortg": 102.8,
-    "drtg": 106.5,
-    "net": -3.7
-   },
-   "off": {
-    "min": 138.9,
-    "ortg": 113.3,
-    "drtg": 110.0,
-    "net": 3.3
-   },
-   "onOff": -7.0,
-   "dd": 0,
-   "td": 0,
-   "high": 15,
-   "zones": {
-    "paint": {
-     "m": 12,
-     "a": 31,
-     "pct": 38.7
-    },
-    "mid": {
-     "m": 2,
-     "a": 4,
-     "pct": 50.0
-    },
-    "corner3": {
-     "m": 4,
-     "a": 7,
-     "pct": 57.1
-    },
-    "above3": {
-     "m": 7,
-     "a": 29,
-     "pct": 24.1
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2803573,
-     "date": "2026-01-24",
-     "opponent": "USK",
-     "venue": "away",
-     "result": "L",
-     "min": 24.3,
-     "pts": 15,
-     "reb": 1,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "4/9",
-     "tp": "3/4",
-     "ft": "4/5",
-     "pm": 0,
-     "eff": 9,
-     "ts": 67.0
-    },
-    {
-     "fibaId": 2803575,
-     "date": "2026-01-31",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "L",
-     "min": 20.0,
-     "pts": 2,
-     "reb": 0,
-     "ast": 2,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "0/5",
-     "tp": "0/3",
-     "ft": "2/4",
-     "pm": 4,
-     "eff": -4,
-     "ts": 14.8
-    },
-    {
-     "fibaId": 2805264,
-     "date": "2026-02-17",
-     "opponent": "Slavia",
-     "venue": "away",
-     "result": "L",
-     "min": 31.5,
-     "pts": 13,
-     "reb": 3,
-     "ast": 2,
-     "stl": 1,
-     "blk": 0,
-     "to": 4,
-     "fg": "2/5",
-     "tp": "1/4",
-     "ft": "8/10",
-     "pm": 0,
-     "eff": 10,
-     "ts": 69.1
-    },
-    {
-     "fibaId": 2812147,
-     "date": "2026-03-05",
-     "opponent": "Olomoucko",
-     "venue": "home",
-     "result": "W",
-     "min": 28.6,
-     "pts": 14,
-     "reb": 4,
-     "ast": 1,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "3/9",
-     "tp": "2/4",
-     "ft": "6/6",
-     "pm": 19,
-     "eff": 14,
-     "ts": 60.1
-    },
-    {
-     "fibaId": 2815470,
-     "date": "2026-03-14",
-     "opponent": "USK",
-     "venue": "away",
-     "result": "L",
-     "min": 29.0,
-     "pts": 5,
-     "reb": 1,
-     "ast": 0,
-     "stl": 1,
-     "blk": 0,
-     "to": 2,
-     "fg": "2/9",
-     "tp": "1/4",
-     "ft": "0/0",
-     "pm": -20,
-     "eff": -2,
-     "ts": 27.8
-    },
-    {
-     "fibaId": 2818761,
-     "date": "2026-03-21",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "L",
-     "min": 27.1,
-     "pts": 5,
-     "reb": 1,
-     "ast": 4,
-     "stl": 1,
-     "blk": 0,
-     "to": 2,
-     "fg": "2/8",
-     "tp": "1/4",
-     "ft": "0/0",
-     "pm": -4,
-     "eff": 3,
-     "ts": 31.2
-    },
-    {
-     "fibaId": 2820800,
-     "date": "2026-03-25",
-     "opponent": "Olomoucko",
-     "venue": "away",
-     "result": "L",
-     "min": 20.6,
-     "pts": 13,
-     "reb": 2,
-     "ast": 4,
-     "stl": 2,
-     "blk": 0,
-     "to": 1,
-     "fg": "5/9",
-     "tp": "0/4",
-     "ft": "3/5",
-     "pm": 6,
-     "eff": 14,
-     "ts": 58.0
-    },
-    {
-     "fibaId": 2822461,
-     "date": "2026-03-28",
-     "opponent": "USK",
-     "venue": "home",
-     "result": "W",
-     "min": 21.6,
-     "pts": 11,
-     "reb": 2,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "4/11",
-     "tp": "2/6",
-     "ft": "1/2",
-     "pm": 2,
-     "eff": 5,
-     "ts": 46.3
-    },
-    {
-     "fibaId": 2826400,
-     "date": "2026-04-04",
-     "opponent": "Slavia",
-     "venue": "away",
-     "result": "W",
-     "min": 18.4,
-     "pts": 9,
-     "reb": 2,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "3/6",
-     "tp": "1/3",
-     "ft": "2/2",
-     "pm": -15,
-     "eff": 6,
-     "ts": 65.4
     }
    ]
   },
@@ -32109,108 +32827,108 @@
    "teamLabel": "Hradec",
    "shirt": "0",
    "pos": "",
-   "gp": 19,
-   "gs": 3,
-   "min": 347.0,
+   "gp": 20,
+   "gs": 4,
+   "min": 373.7,
    "totals": {
-    "pts": 154,
-    "fgm": 58,
-    "fga": 107,
-    "tpm": 5,
-    "tpa": 17,
-    "twopm": 53,
-    "twopa": 90,
-    "ftm": 33,
-    "fta": 51,
-    "oreb": 26,
-    "dreb": 71,
-    "reb": 97,
+    "pts": 166,
+    "fgm": 62,
+    "fga": 117,
+    "tpm": 6,
+    "tpa": 19,
+    "twopm": 56,
+    "twopa": 98,
+    "ftm": 36,
+    "fta": 54,
+    "oreb": 30,
+    "dreb": 73,
+    "reb": 103,
     "ast": 14,
     "to": 32,
     "stl": 8,
-    "blk": 10,
-    "blkr": 7,
-    "pf": 47,
-    "foulon": 49,
-    "pm": -117,
-    "paint": 106,
-    "fast": 12,
-    "second": 34
+    "blk": 13,
+    "blkr": 8,
+    "pf": 49,
+    "foulon": 52,
+    "pm": -118,
+    "paint": 112,
+    "fast": 15,
+    "second": 41
    },
    "perGame": {
-    "pts": 8.1,
+    "pts": 8.3,
     "fgm": 3.1,
-    "fga": 5.6,
+    "fga": 5.8,
     "tpm": 0.3,
     "tpa": 0.9,
     "twopm": 2.8,
-    "twopa": 4.7,
-    "ftm": 1.7,
+    "twopa": 4.9,
+    "ftm": 1.8,
     "fta": 2.7,
-    "oreb": 1.4,
-    "dreb": 3.7,
-    "reb": 5.1,
+    "oreb": 1.5,
+    "dreb": 3.6,
+    "reb": 5.2,
     "ast": 0.7,
-    "to": 1.7,
+    "to": 1.6,
     "stl": 0.4,
-    "blk": 0.5,
+    "blk": 0.7,
     "blkr": 0.4,
     "pf": 2.5,
     "foulon": 2.6,
-    "pm": -6.2,
+    "pm": -5.9,
     "paint": 5.6,
-    "fast": 0.6,
-    "second": 1.8,
-    "min": 18.3,
-    "eff": 9.7,
-    "gmsc": 5.7
+    "fast": 0.8,
+    "second": 2.0,
+    "min": 18.7,
+    "eff": 9.9,
+    "gmsc": 6.0
    },
    "per40": {
     "pts": 17.8,
-    "reb": 11.2,
-    "ast": 1.6,
+    "reb": 11.0,
+    "ast": 1.5,
     "stl": 0.9,
-    "blk": 1.2,
-    "to": 3.7
+    "blk": 1.4,
+    "to": 3.4
    },
-   "ts": 59.5,
-   "efg": 56.5,
-   "fg": 54.2,
-   "two": 58.9,
-   "three": 29.4,
-   "ft": 64.7,
-   "usg": 21.3,
+   "ts": 59.0,
+   "efg": 55.6,
+   "fg": 53.0,
+   "two": 57.1,
+   "three": 31.6,
+   "ft": 66.7,
+   "usg": 21.2,
    "astTo": 0.44,
-   "pm": -117,
-   "pm40": -13.5,
+   "pm": -118,
+   "pm40": -12.6,
    "on": {
-    "min": 347.0,
-    "pf": 636,
-    "pa": 753,
-    "ortg": 97.8,
-    "drtg": 114.2,
-    "net": -16.4
+    "min": 373.8,
+    "pf": 691,
+    "pa": 809,
+    "ortg": 99.3,
+    "drtg": 114.4,
+    "net": -15.1
    },
    "off": {
-    "min": 413.0,
-    "ortg": 109.3,
-    "drtg": 111.9,
-    "net": -2.6
+    "min": 426.2,
+    "ortg": 107.9,
+    "drtg": 112.4,
+    "net": -4.6
    },
-   "onOff": -13.8,
+   "onOff": -10.5,
    "dd": 1,
    "td": 0,
    "high": 19,
    "zones": {
     "paint": {
-     "m": 51,
-     "a": 83,
-     "pct": 61.4
+     "m": 54,
+     "a": 90,
+     "pct": 60.0
     },
     "mid": {
      "m": 2,
-     "a": 7,
-     "pct": 28.6
+     "a": 8,
+     "pct": 25.0
     },
     "corner3": {
      "m": 0,
@@ -32218,9 +32936,9 @@
      "pct": null
     },
     "above3": {
-     "m": 5,
-     "a": 17,
-     "pct": 29.4
+     "m": 6,
+     "a": 19,
+     "pct": 31.6
     }
    },
    "log": [
@@ -32505,6 +33223,26 @@
      "ts": 65.8
     },
     {
+     "fibaId": 2803577,
+     "date": "2026-03-18",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 26.7,
+     "pts": 12,
+     "reb": 6,
+     "ast": 0,
+     "stl": 0,
+     "blk": 3,
+     "to": 0,
+     "fg": "4/10",
+     "tp": "1/2",
+     "ft": "3/3",
+     "pm": -1,
+     "eff": 15,
+     "ts": 53.0
+    },
+    {
      "fibaId": 2818761,
      "date": "2026-03-21",
      "opponent": "Slavia",
@@ -32614,33 +33352,33 @@
    "teamLabel": "Hradec",
    "shirt": "44",
    "pos": "",
-   "gp": 22,
+   "gp": 23,
    "gs": 9,
-   "min": 483.9,
+   "min": 506.8,
    "totals": {
-    "pts": 174,
-    "fgm": 62,
-    "fga": 161,
-    "tpm": 25,
-    "tpa": 81,
-    "twopm": 37,
-    "twopa": 80,
-    "ftm": 25,
-    "fta": 34,
-    "oreb": 16,
+    "pts": 182,
+    "fgm": 64,
+    "fga": 167,
+    "tpm": 26,
+    "tpa": 85,
+    "twopm": 38,
+    "twopa": 82,
+    "ftm": 28,
+    "fta": 38,
+    "oreb": 17,
     "dreb": 44,
-    "reb": 60,
-    "ast": 63,
+    "reb": 61,
+    "ast": 65,
     "to": 41,
-    "stl": 15,
+    "stl": 16,
     "blk": 2,
     "blkr": 9,
-    "pf": 59,
-    "foulon": 36,
-    "pm": -60,
-    "paint": 70,
+    "pf": 61,
+    "foulon": 39,
+    "pm": -56,
+    "paint": 72,
     "fast": 32,
-    "second": 20
+    "second": 21
    },
    "perGame": {
     "pts": 7.9,
@@ -32650,67 +33388,67 @@
     "tpa": 3.7,
     "twopm": 1.7,
     "twopa": 3.6,
-    "ftm": 1.1,
-    "fta": 1.5,
+    "ftm": 1.2,
+    "fta": 1.7,
     "oreb": 0.7,
-    "dreb": 2.0,
+    "dreb": 1.9,
     "reb": 2.7,
-    "ast": 2.9,
-    "to": 1.9,
+    "ast": 2.8,
+    "to": 1.8,
     "stl": 0.7,
     "blk": 0.1,
     "blkr": 0.4,
     "pf": 2.7,
-    "foulon": 1.6,
-    "pm": -2.7,
-    "paint": 3.2,
-    "fast": 1.5,
+    "foulon": 1.7,
+    "pm": -2.4,
+    "paint": 3.1,
+    "fast": 1.4,
     "second": 0.9,
     "min": 22.0,
     "eff": 7.5,
-    "gmsc": 4.7
+    "gmsc": 4.8
    },
    "per40": {
     "pts": 14.4,
-    "reb": 5.0,
-    "ast": 5.2,
-    "stl": 1.2,
+    "reb": 4.8,
+    "ast": 5.1,
+    "stl": 1.3,
     "blk": 0.2,
-    "to": 3.4
+    "to": 3.2
    },
-   "ts": 49.4,
-   "efg": 46.3,
-   "fg": 38.5,
-   "two": 46.2,
-   "three": 30.9,
-   "ft": 73.5,
-   "usg": 20.7,
-   "astTo": 1.54,
-   "pm": -60,
-   "pm40": -5.0,
+   "ts": 49.5,
+   "efg": 46.1,
+   "fg": 38.3,
+   "two": 46.3,
+   "three": 30.6,
+   "ft": 73.7,
+   "usg": 20.5,
+   "astTo": 1.59,
+   "pm": -56,
+   "pm40": -4.4,
    "on": {
-    "min": 483.9,
-    "pf": 998,
-    "pa": 1058,
-    "ortg": 109.2,
-    "drtg": 114.2,
-    "net": -5.0
+    "min": 506.9,
+    "pf": 1053,
+    "pa": 1109,
+    "ortg": 110.1,
+    "drtg": 114.8,
+    "net": -4.7
    },
    "off": {
-    "min": 385.1,
-    "ortg": 97.0,
-    "drtg": 109.3,
-    "net": -12.3
+    "min": 402.2,
+    "ortg": 95.5,
+    "drtg": 109.5,
+    "net": -13.9
    },
-   "onOff": 7.3,
+   "onOff": 9.2,
    "dd": 0,
    "td": 0,
    "high": 16,
    "zones": {
     "paint": {
-     "m": 35,
-     "a": 76,
-     "pct": 46.1
+     "m": 36,
+     "a": 78,
+     "pct": 46.2
     },
     "mid": {
      "m": 2,
@@ -32718,14 +33456,14 @@
      "pct": 50.0
     },
     "corner3": {
-     "m": 7,
-     "a": 17,
-     "pct": 41.2
+     "m": 8,
+     "a": 19,
+     "pct": 42.1
     },
     "above3": {
      "m": 18,
-     "a": 64,
-     "pct": 28.1
+     "a": 66,
+     "pct": 27.3
     }
    },
    "log": [
@@ -33068,6 +33806,26 @@
      "pm": 12,
      "eff": 7,
      "ts": 34.0
+    },
+    {
+     "fibaId": 2803577,
+     "date": "2026-03-18",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 22.9,
+     "pts": 8,
+     "reb": 1,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "2/6",
+     "tp": "1/4",
+     "ft": "3/4",
+     "pm": 4,
+     "eff": 7,
+     "ts": 51.5
     },
     {
      "fibaId": 2818761,
@@ -34634,44 +35392,44 @@
    "teamLabel": "Hradec",
    "shirt": "23",
    "pos": "",
-   "gp": 31,
+   "gp": 32,
    "gs": 17,
-   "min": 591.0,
+   "min": 607.3,
    "totals": {
     "pts": 86,
     "fgm": 26,
-    "fga": 77,
+    "fga": 79,
     "tpm": 12,
-    "tpa": 44,
+    "tpa": 45,
     "twopm": 14,
-    "twopa": 33,
+    "twopa": 34,
     "ftm": 22,
-    "fta": 35,
+    "fta": 37,
     "oreb": 29,
-    "dreb": 39,
-    "reb": 68,
+    "dreb": 42,
+    "reb": 71,
     "ast": 47,
-    "to": 28,
+    "to": 29,
     "stl": 19,
     "blk": 7,
     "blkr": 6,
-    "pf": 101,
-    "foulon": 50,
-    "pm": -84,
+    "pf": 104,
+    "foulon": 51,
+    "pm": -103,
     "paint": 28,
     "fast": 9,
     "second": 19
    },
    "perGame": {
-    "pts": 2.8,
+    "pts": 2.7,
     "fgm": 0.8,
     "fga": 2.5,
     "tpm": 0.4,
     "tpa": 1.4,
-    "twopm": 0.5,
+    "twopm": 0.4,
     "twopa": 1.1,
     "ftm": 0.7,
-    "fta": 1.1,
+    "fta": 1.2,
     "oreb": 0.9,
     "dreb": 1.3,
     "reb": 2.2,
@@ -34680,57 +35438,57 @@
     "stl": 0.6,
     "blk": 0.2,
     "blkr": 0.2,
-    "pf": 3.3,
+    "pf": 3.2,
     "foulon": 1.6,
-    "pm": -2.7,
+    "pm": -3.2,
     "paint": 0.9,
     "fast": 0.3,
     "second": 0.6,
-    "min": 19.1,
-    "eff": 4.4,
-    "gmsc": 1.9
+    "min": 19.0,
+    "eff": 4.2,
+    "gmsc": 1.7
    },
    "per40": {
-    "pts": 5.8,
-    "reb": 4.6,
-    "ast": 3.2,
+    "pts": 5.7,
+    "reb": 4.7,
+    "ast": 3.1,
     "stl": 1.3,
     "blk": 0.5,
     "to": 1.9
    },
-   "ts": 46.5,
-   "efg": 41.6,
-   "fg": 33.8,
-   "two": 42.4,
-   "three": 27.3,
-   "ft": 62.9,
+   "ts": 45.1,
+   "efg": 40.5,
+   "fg": 32.9,
+   "two": 41.2,
+   "three": 26.7,
+   "ft": 59.5,
    "usg": 9.3,
-   "astTo": 1.68,
-   "pm": -84,
-   "pm40": -5.7,
+   "astTo": 1.62,
+   "pm": -103,
+   "pm40": -6.8,
    "on": {
-    "min": 591.2,
-    "pf": 1161,
-    "pa": 1245,
-    "ortg": 104.4,
-    "drtg": 109.9,
-    "net": -5.4
+    "min": 607.5,
+    "pf": 1182,
+    "pa": 1285,
+    "ortg": 103.6,
+    "drtg": 110.6,
+    "net": -7.0
    },
    "off": {
-    "min": 637.9,
-    "ortg": 96.2,
-    "drtg": 116.6,
-    "net": -20.5
+    "min": 661.6,
+    "ortg": 96.9,
+    "drtg": 116.4,
+    "net": -19.5
    },
-   "onOff": 15.1,
+   "onOff": 12.5,
    "dd": 0,
    "td": 0,
    "high": 12,
    "zones": {
     "paint": {
      "m": 14,
-     "a": 31,
-     "pct": 45.2
+     "a": 32,
+     "pct": 43.8
     },
     "mid": {
      "m": 0,
@@ -34744,8 +35502,8 @@
     },
     "above3": {
      "m": 6,
-     "a": 19,
-     "pct": 31.6
+     "a": 20,
+     "pct": 30.0
     }
    },
    "log": [
@@ -35270,6 +36028,26 @@
      "ts": null
     },
     {
+     "fibaId": 2803577,
+     "date": "2026-03-18",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 16.3,
+     "pts": 0,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "0/2",
+     "tp": "0/1",
+     "ft": "0/2",
+     "pm": -19,
+     "eff": -2,
+     "ts": 0.0
+    },
+    {
      "fibaId": 2818761,
      "date": "2026-03-21",
      "opponent": "Slavia",
@@ -35379,107 +36157,107 @@
    "teamLabel": "Hradec",
    "shirt": "16",
    "pos": "",
-   "gp": 23,
-   "gs": 5,
-   "min": 333.7,
+   "gp": 24,
+   "gs": 6,
+   "min": 353.0,
    "totals": {
     "pts": 63,
     "fgm": 20,
-    "fga": 69,
+    "fga": 73,
     "tpm": 4,
-    "tpa": 21,
+    "tpa": 22,
     "twopm": 16,
-    "twopa": 48,
+    "twopa": 51,
     "ftm": 19,
     "fta": 25,
-    "oreb": 8,
-    "dreb": 18,
-    "reb": 26,
-    "ast": 36,
-    "to": 34,
+    "oreb": 10,
+    "dreb": 19,
+    "reb": 29,
+    "ast": 37,
+    "to": 35,
     "stl": 15,
     "blk": 4,
     "blkr": 6,
-    "pf": 57,
+    "pf": 59,
     "foulon": 29,
-    "pm": -123,
+    "pm": -132,
     "paint": 28,
     "fast": 5,
     "second": 8
    },
    "perGame": {
-    "pts": 2.7,
-    "fgm": 0.9,
+    "pts": 2.6,
+    "fgm": 0.8,
     "fga": 3.0,
     "tpm": 0.2,
     "tpa": 0.9,
     "twopm": 0.7,
     "twopa": 2.1,
     "ftm": 0.8,
-    "fta": 1.1,
-    "oreb": 0.3,
+    "fta": 1.0,
+    "oreb": 0.4,
     "dreb": 0.8,
-    "reb": 1.1,
-    "ast": 1.6,
+    "reb": 1.2,
+    "ast": 1.5,
     "to": 1.5,
-    "stl": 0.7,
+    "stl": 0.6,
     "blk": 0.2,
-    "blkr": 0.3,
+    "blkr": 0.2,
     "pf": 2.5,
-    "foulon": 1.3,
-    "pm": -5.3,
+    "foulon": 1.2,
+    "pm": -5.5,
     "paint": 1.2,
     "fast": 0.2,
     "second": 0.3,
-    "min": 14.5,
-    "eff": 2.4,
-    "gmsc": 0.8
+    "min": 14.7,
+    "eff": 2.2,
+    "gmsc": 0.6
    },
    "per40": {
-    "pts": 7.6,
-    "reb": 3.1,
-    "ast": 4.3,
-    "stl": 1.8,
+    "pts": 7.1,
+    "reb": 3.3,
+    "ast": 4.2,
+    "stl": 1.7,
     "blk": 0.5,
-    "to": 4.1
+    "to": 4.0
    },
-   "ts": 39.4,
-   "efg": 31.9,
-   "fg": 29.0,
-   "two": 33.3,
-   "three": 19.0,
+   "ts": 37.5,
+   "efg": 30.1,
+   "fg": 27.4,
+   "two": 31.4,
+   "three": 18.2,
    "ft": 76.0,
-   "usg": 15.6,
+   "usg": 15.4,
    "astTo": 1.06,
-   "pm": -123,
-   "pm40": -14.7,
+   "pm": -132,
+   "pm40": -15.0,
    "on": {
-    "min": 333.6,
-    "pf": 625,
-    "pa": 747,
-    "ortg": 97.4,
-    "drtg": 116.4,
-    "net": -19.0
+    "min": 352.9,
+    "pf": 650,
+    "pa": 781,
+    "ortg": 96.0,
+    "drtg": 115.3,
+    "net": -19.3
    },
    "off": {
-    "min": 575.5,
-    "ortg": 99.5,
-    "drtg": 109.9,
-    "net": -10.3
+    "min": 596.1,
+    "ortg": 100.5,
+    "drtg": 111.1,
+    "net": -10.7
    },
-   "onOff": -8.7,
+   "onOff": -8.6,
    "dd": 0,
    "td": 0,
    "high": 10,
    "zones": {
     "paint": {
      "m": 16,
-     "a": 44,
-     "pct": 36.4
+     "a": 46,
+     "pct": 34.8
     },
     "mid": {
      "m": 0,
-     "a": 4,
+     "a": 5,
      "pct": 0.0
     },
     "corner3": {
@@ -35489,8 +36267,8 @@
     },
     "above3": {
      "m": 2,
-     "a": 14,
-     "pct": 14.3
+     "a": 15,
+     "pct": 13.3
     }
    },
    "log": [
@@ -35873,6 +36651,26 @@
      "pm": -10,
      "eff": 3,
      "ts": 42.9
+    },
+    {
+     "fibaId": 2803577,
+     "date": "2026-03-18",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 19.3,
+     "pts": 0,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "0/4",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": -9,
+     "eff": -1,
+     "ts": 0.0
     },
     {
      "fibaId": 2818761,
@@ -37348,8 +38146,8 @@
    "awaySlug": "usk",
    "status": "final",
    "score": {
-    "home": 68,
-    "away": 47
+    "home": 88,
+    "away": 60
    },
    "links": {
     "nbl": "https://nbl.basketball/zapas/527006",
