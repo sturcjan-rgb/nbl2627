@@ -27,6 +27,7 @@ header.site .bar{display:flex;align-items:center;gap:18px;height:var(--hdr)}
 .logo{font-weight:700;font-size:1.25rem;color:var(--accent);text-transform:uppercase;white-space:nowrap}
 .logo span{color:var(--ink)}
 .logo:hover{text-decoration:none}
+select.season{font:600 .86rem var(--f-mono);padding:4px 6px;margin-left:-6px;color:var(--ink)}
 nav.main{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;flex:1}
 nav.main::-webkit-scrollbar{display:none}
 nav.main a{font:600 .78rem var(--f-body);text-transform:uppercase;letter-spacing:.06em;color:var(--muted);padding:8px 10px;white-space:nowrap}

@@ -24,6 +24,14 @@ Zveřejnění: **Settings → Pages → Build and deployment → Deploy from a b
 Web pak běží na `https://sturcjan-rgb.github.io/nbl2627/` a data čte relativně. Lokálně:
 `python3 -m http.server` a otevřít `http://localhost:8000/`.
 
+## Sezóny
+
+Data každé sezóny leží v `data/<sezóna>/` (např. `data/2025-26/`), seznam je v `data/seasons.json`.
+Web ukazuje aktuální sezónu, starší přes přepínač v hlavičce nebo `?s=2025-26` v adrese
+(živá data jen u aktuální). U sezóny s nadstavbou/play-off se tabulka počítá jen ze základní části,
+ostatní statistiky ze všech zápasů. Minulou sezónu stáhne workflow `backfill.yml`
+(ručně: Actions → backfill → Run workflow, zadat sezónu).
+
 ## Jak to běží
 
 | Workflow | Kdy | Co dělá |

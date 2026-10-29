@@ -1,12 +1,18 @@
-/* NBL 2026/27 — ligové statistiky. Statický frontend nad JSONy v data/<sezóna>/ a živou větví „live“. */
+/* NBL — ligové statistiky (sezóna podle ?s=, výchozí aktuální). Statický frontend nad JSONy v data/<sezóna>/ a živou větví „live“. */
 (function () {
 'use strict';
 
 const REPO = 'sturcjan-rgb/nbl2627';
-const SEASON = '2026-27';
+// sezóna: ?s=2025-26 v adrese, jinak aktuální podle data (od července nová sezóna)
+const CURRENT_SEASON = (() => { const d = new Date(), y = d.getMonth() >= 6 ? d.getFullYear() : d.getFullYear() - 1; return y + '-' + String(y + 1).slice(-2); })();
+const SEASON = (() => { const q = new URLSearchParams(location.search).get('s'); return q && /^\d{4}-\d{2}$/.test(q) ? q : CURRENT_SEASON; })();
+const IS_CURRENT = SEASON === CURRENT_SEASON;
+const SEASON_LABEL = SEASON.replace('-', '/');
+const SEASON_SHORT = SEASON.slice(2).replace('-', '/');
 const DATA_REL = 'data/' + SEASON + '/';
 // větev s daty = výchozí větev repa; při otevření z GitHub Pages se čte relativně
-const DATA_RAW = 'https://raw.githubusercontent.com/' + REPO + '/HEAD/' + DATA_REL;
+const DATA_ROOT_RAW = 'https://raw.githubusercontent.com/' + REPO + '/HEAD/data/';
+const DATA_RAW = DATA_ROOT_RAW + SEASON + '/';
 const LIVE_RAW = 'https://raw.githubusercontent.com/' + REPO + '/live/';
 const LIVE_POLL_MS = 5000;
 
@@ -39,6 +45,7 @@ async function getJSON(path) {
   throw new Error('Nepodařilo se načíst ' + path + ' (' + (err && err.message) + ')');
 }
 async function getLive(name) {
+  if (!IS_CURRENT) return null; // živá data jen pro běžící sezónu
   // raw.githubusercontent drží soubory 5 min v cache → soubory po 5s oknech (jako srsni-data)
   const b = Math.floor(Date.now() / 5000);
   const urls = [2, 3, 4, 5].map(k => LIVE_RAW + name + '/' + (b - k) + '.json').concat(LIVE_RAW + name + '.json');
@@ -46,6 +53,25 @@ async function getLive(name) {
     try { const r = await fetch(u, {cache: 'no-store'}); if (r.ok) return await r.json(); } catch (e) { /* další */ }
   }
   return null;
+}
+
+/* ---------------- přepínač sezóny ---------------- */
+async function seasonSwitcher() {
+  const el = $('#season');
+  if (!el || el.dataset.ready) return;
+  el.dataset.ready = '1';
+  let list = [{key: SEASON, label: SEASON_LABEL}];
+  for (const u of (location.protocol.startsWith('http') ? ['data/seasons.json'] : []).concat(DATA_ROOT_RAW + 'seasons.json')) {
+    try { const r = await fetch(u, {cache: 'no-cache'}); if (r.ok) { list = (await r.json()).seasons || list; break; } } catch (e) { /* další */ }
+  }
+  if (!list.some(x => x.key === SEASON)) list.push({key: SEASON, label: SEASON_LABEL});
+  el.innerHTML = list.map(x => `<option value="${esc(x.key)}"${x.key === SEASON ? ' selected' : ''}>${esc(x.label)}</option>`).join('');
+  el.onchange = () => {
+    const k = el.value;
+    // detail týmu má smysl i v jiné sezóně, ostatní detaily (zápas) ne
+    const h = /^#\/(tym\/[\w-]+|zapasy|liga|hraci|zebricky)$/.test(location.hash) ? location.hash : '#/';
+    location.href = location.pathname + (k === CURRENT_SEASON ? '' : '?s=' + k) + h;
+  };
 }
 
 let TEAMS = {};   // slug -> {name,label,logo}
@@ -115,6 +141,7 @@ async function route() {
     document.querySelectorAll('nav.main a').forEach(a => a.classList.toggle('active', a.dataset.nav === nav));
     app.innerHTML = '<div class="loading">Načítám…</div>';
     try {
+      seasonSwitcher();
       await base();
       await fn(app, ...m.slice(1));
     } catch (e) {
@@ -175,7 +202,7 @@ async function viewHome(app) {
   app.innerHTML = `
     <section id="live-sec" class="hidden"><h2><span class="badge live">živě</span> Dnes</h2><div class="games" id="live-games"></div></section>
     <div class="grid g2">
-      <section><h2>Tabulka</h2><div id="tbl"></div><div class="caption">Při shodě rozhodují vzájemné zápasy, pak celkový rozdíl skóre. Klikni na záhlaví pro řazení.</div></section>
+      <section><h2>Tabulka${st.phase ? ' · ' + esc(st.phase.toLowerCase()) : ''}</h2><div id="tbl"></div><div class="caption">Při shodě rozhodují vzájemné zápasy, pak celkový rozdíl skóre. Klikni na záhlaví pro řazení.</div></section>
       <section>
         <h2>Nejbližší zápasy</h2><div class="games">${upcoming.slice(0, 6).map(f => gameCard(f)).join('') || '<div class="muted">Sezóna dohraná.</div>'}</div>
         <h2 style="margin-top:22px">Poslední výsledky${lastRound ? ' · ' + esc(lastRound) : ''}</h2><div class="games">${played.slice(0, 6).map(f => gameCard(f)).join('')}</div>
@@ -196,8 +223,7 @@ async function viewHome(app) {
     sec.classList.remove('hidden');
     $('#live-games').innerHTML = rows.map(r => gameCard({...r, status: r.status}, r)).join('');
   };
-  pollToday();
-  liveTimer = setInterval(pollToday, 15000);
+  if (IS_CURRENT) { pollToday(); liveTimer = setInterval(pollToday, 15000); }
 }
 
 function leaderCard(L, n) {
@@ -218,10 +244,21 @@ async function viewGames(app) {
   const draw = () => {
     const t = $('#fTeam').value, s = $('#fState').value;
     const list = fx.filter(f => (!t || f.homeSlug === t || f.awaySlug === t) && (!s || (s === 'final' ? f.status === 'final' : f.status !== 'final')));
-    const byRound = {};
-    for (const f of list) (byRound[f.roundNum || 0] = byRound[f.roundNum || 0] || []).push(f);
-    $('#rounds').innerHTML = Object.keys(byRound).sort((a, b) => a - b).map(r =>
-      `<section><h2>${r === '0' ? 'Ostatní' : r + '. kolo'} <span class="muted" style="text-transform:none">${fmtDay(byRound[r][0].datetime)}</span></h2><div class="games">${byRound[r].map(f => gameCard(f)).join('')}</div></section>`).join('') || '<div class="muted">Nic.</div>';
+    // skupiny podle fáze (základní část, nadstavba, play-off…) a kola, v pořadí prvního zápasu
+    const groups = [];
+    const byKey = {};
+    const regular = ph => !ph || /z[aá]klad/i.test(ph);
+    for (const f of list.slice().sort((a, b) => (a.datetime || '').localeCompare(b.datetime || ''))) {
+      const ph = regular(f.phase) ? '' : f.phase;
+      const key = ph + '|' + (ph ? (f.round || '') : (f.roundNum || 0));
+      if (!byKey[key]) { byKey[key] = {ph, f0: f, rows: []}; groups.push(byKey[key]); }
+      byKey[key].rows.push(f);
+    }
+    if (!groups.some(g => g.ph)) groups.sort((a, b) => (a.f0.roundNum || 0) - (b.f0.roundNum || 0));
+    $('#rounds').innerHTML = groups.map(g => {
+      const title = g.ph ? esc(g.ph) + (g.f0.round ? ' · ' + esc(g.f0.round) : '') : (g.f0.roundNum ? g.f0.roundNum + '. kolo' : 'Ostatní');
+      return `<section><h2>${title} <span class="muted" style="text-transform:none">${fmtDay(g.f0.datetime)}</span></h2><div class="games">${g.rows.map(f => gameCard(f)).join('')}</div></section>`;
+    }).join('') || '<div class="muted">Nic.</div>';
   };
   $('#fTeam').onchange = draw; $('#fState').onchange = draw;
   draw();
@@ -376,7 +413,7 @@ async function viewTeam(app, slug) {
   const secs = [['t-zap', 'Zápasy'], ['t-str', 'Mapa střel'], ['t-hr', 'Hráči'], ['t-ses', 'Kdo s kým'], ['t-met', 'Metriky'], ['t-utok', 'Čas útoku'], ['t-pr', 'Průběh'], ['t-sil', 'Silné a slabé stránky']];
   app.innerHTML = `
     <div class="team-hero">${t.logo ? `<img src="${esc(t.logo)}" alt="" onerror="this.remove()">` : ''}<div>
-      <div class="eyebrow">Maxa NBL 2026/27 · trenér ${esc(t.coach || '—')} · ${t.games} ${t.games === 1 ? 'zápas' : t.games < 5 ? 'zápasy' : 'zápasů'}</div>
+      <div class="eyebrow">Maxa NBL ${SEASON_LABEL} · trenér ${esc(t.coach || '—')} · ${t.games} ${t.games === 1 ? 'zápas' : t.games < 5 ? 'zápasy' : 'zápasů'}</div>
       <h1>${esc(t.name)}</h1>
       <div class="muted">${s.pos ? s.pos + '. místo · ' : ''}${s.w}-${s.l} · skóre ${s.pf}:${s.pa} · doma ${s.home} · venku ${s.away} · série ${s.streak || '—'}</div></div>
       <div style="margin-left:auto"><select id="teamPick">${Object.keys(TEAMS).sort((a, b) => label(a).localeCompare(label(b), 'cs')).map(x => `<option value="${x}" ${x === slug ? 'selected' : ''}>${esc(TEAMS[x].name)}</option>`).join('')}</select></div></div>

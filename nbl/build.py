@@ -53,7 +53,10 @@ def update_schedule(season_label: str, fixtures: list[dict], *, debug: bool = Fa
     if not found and fixtures:
         print("WARN rozpis se nepodařilo stáhnout — ponechávám uložený", file=sys.stderr)
         return fixtures, res
-    n = schedule.resolve_fiba_ids(found, fetcher)
+    if season_label == schedule.current_season():
+        n = schedule.resolve_fiba_ids(found, fetcher)
+    else:  # minulá sezóna: dohledat FIBA ID u všech zápasů (týmové stránky už ukazují novou sezónu)
+        n = schedule.resolve_fiba_ids(found, fetcher, days_back=100000, days_ahead=0)
     print(f"rozpis: {len(found)} zápasů, {len(res['teams'])} týmů, zdroje {res['sources']}, nově FIBA ID: {n}")
     return found, res
 
@@ -125,6 +128,27 @@ def fetch_games(sdir: Path, fixtures: list[dict]) -> dict:
 
 # ------------------------------------------------------------------ přepočet
 
+REGULAR_PHASE = "Základní část"
+
+
+def is_regular(g: dict) -> bool:
+    ph = ((g.get("fixture") or {}).get("phase") or "").lower()
+    return not ph or "základ" in ph or "zaklad" in ph
+
+
+def write_seasons_manifest() -> None:
+    """data/seasons.json — seznam sezón s daty (pro přepínač na webu). Bez času, ať necommituje změny zbytečně."""
+    rows = []
+    for d in sorted(DATA.glob("[0-9][0-9][0-9][0-9]-[0-9][0-9]"), reverse=True):
+        idx = read_json(d / "index.json", None)
+        if not idx:
+            continue
+        rows.append({"key": d.name, "label": idx.get("season") or d.name.replace("-", "/"),
+                     "final": (idx.get("counts") or {}).get("final", 0),
+                     "fixtures": (idx.get("counts") or {}).get("fixtures", 0)})
+    write_json(DATA / "seasons.json", {"current": schedule.season_key(schedule.current_season()), "seasons": rows})
+
+
 def analyze_archive(sdir: Path, fixtures: list[dict]) -> list[dict]:
     by_fid = {f["fibaId"]: f for f in fixtures if f.get("fibaId")}
     games = []
@@ -167,7 +191,9 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
     for g in games:
         write_json(sdir / "matches" / f"{g['fibaId']}.json", metrics.public(g), compact=True)
 
-    table = season.standings(final_games)
+    # tabulka jen ze základní části (nadstavba a play-off by ji zkreslily); statistiky ze všech zápasů
+    regular = [g for g in final_games if is_regular(g)]
+    table = season.standings(regular or final_games)
     teams = season.team_seasons(final_games)
     pl = season.players(final_games)
     league_avg = season.league_averages(teams)
@@ -191,7 +217,10 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
                    "withFiba": sum(bool(f.get("fibaId")) for f in fixtures)},
         "teams": teams_meta, "fixtures": fixtures,
     })
-    write_json(sdir / "standings.json", {"season": season_label, "generatedAt": generated, "table": table})
+    phases = sorted({(g.get("fixture") or {}).get("phase") or "" for g in final_games} - {""})
+    write_json(sdir / "standings.json", {"season": season_label, "generatedAt": generated,
+                                         "phase": REGULAR_PHASE if regular and len(regular) < len(final_games) else None,
+                                         "phases": phases, "table": table})
     league_rows = []
     for row in table:
         t = teams.get(row["slug"])
@@ -232,6 +261,7 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
                   for g in sorted(games, key=lambda g: ((g.get("fixture") or {}).get("datetime") or "", g["fibaId"]))],
     }
     write_json(sdir / "index.json", index)
+    write_seasons_manifest()
     print(f"hotovo: {len(final_games)} dohraných zápasů, {len(teams)} týmů, {len(pl)} hráčů -> {sdir}")
     return index
 
