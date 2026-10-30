@@ -1,9 +1,9 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-30T13:00:24+00:00",
+ "generatedAt": "2026-10-30T19:06:02+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 52,
+  "final": 53,
   "teams": 12,
   "players": 169
  },
@@ -58,13 +58,6 @@
    "file": "teams/usk.json"
   },
   {
-   "slug": "opava",
-   "name": "BK Opava",
-   "label": "Opava",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
-   "file": "teams/opava.json"
-  },
-  {
    "slug": "brno",
    "name": "PUMPA Basket Brno",
    "label": "Brno",
@@ -77,6 +70,13 @@
    "label": "Hradec",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
    "file": "teams/hradec.json"
+  },
+  {
+   "slug": "opava",
+   "name": "BK Opava",
+   "label": "Opava",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
+   "file": "teams/opava.json"
   },
   {
    "slug": "plzen",
@@ -673,6 +673,17 @@
    "score": [
     85,
     93
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2931311,
+   "date": "2026-10-30",
+   "home": "opava",
+   "away": "slavia",
+   "score": [
+    96,
+    121
    ],
    "status": "final"
   }
