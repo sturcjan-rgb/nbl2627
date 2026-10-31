@@ -1,9 +1,9 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-10-31T12:38:46+00:00",
+ "generatedAt": "2026-10-31T18:35:46+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 53,
+  "final": 55,
   "teams": 12,
   "players": 169
  },
@@ -30,18 +30,18 @@
    "file": "teams/decin.json"
   },
   {
-   "slug": "usti",
-   "name": "SLUNETA Ústí nad Labem",
-   "label": "Ústí",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
-   "file": "teams/usti.json"
-  },
-  {
    "slug": "ostrava",
    "name": "NH Ostrava",
    "label": "Ostrava",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
    "file": "teams/ostrava.json"
+  },
+  {
+   "slug": "usti",
+   "name": "SLUNETA Ústí nad Labem",
+   "label": "Ústí",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
+   "file": "teams/usti.json"
   },
   {
    "slug": "pisek",
@@ -79,18 +79,18 @@
    "file": "teams/opava.json"
   },
   {
-   "slug": "plzen",
-   "name": "BK Loko BaliMania Plzeň",
-   "label": "Plzeň",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
-   "file": "teams/plzen.json"
-  },
-  {
    "slug": "olomoucko",
    "name": "BK Olomoucko",
    "label": "Olomoucko",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
    "file": "teams/olomoucko.json"
+  },
+  {
+   "slug": "plzen",
+   "name": "BK Loko BaliMania Plzeň",
+   "label": "Plzeň",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
+   "file": "teams/plzen.json"
   }
  ],
  "files": {
@@ -684,6 +684,28 @@
    "score": [
     96,
     121
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2931565,
+   "date": "2026-10-31",
+   "home": "ostrava",
+   "away": "plzen",
+   "score": [
+    82,
+    64
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2931566,
+   "date": "2026-10-31",
+   "home": "usk",
+   "away": "pardubice",
+   "score": [
+    85,
+    102
    ],
    "status": "final"
   }
