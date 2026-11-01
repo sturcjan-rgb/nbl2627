@@ -1,9 +1,9 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-01T13:32:04+00:00",
+ "generatedAt": "2026-11-01T18:57:52+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 55,
+  "final": 56,
   "teams": 12,
   "players": 169
  },
@@ -23,11 +23,11 @@
    "file": "teams/pardubice.json"
   },
   {
-   "slug": "decin",
-   "name": "BK ARMEX ENERGY Děčín",
-   "label": "Děčín",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/11f2fc2d4d35d0cbc7ffe466f7651ff4S1.png",
-   "file": "teams/decin.json"
+   "slug": "pisek",
+   "name": "Sršni Photomate Písek",
+   "label": "Písek",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/bd87c5d17b95173283244bbd063bd7c0S1.png",
+   "file": "teams/pisek.json"
   },
   {
    "slug": "ostrava",
@@ -37,18 +37,18 @@
    "file": "teams/ostrava.json"
   },
   {
+   "slug": "decin",
+   "name": "BK ARMEX ENERGY Děčín",
+   "label": "Děčín",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/11f2fc2d4d35d0cbc7ffe466f7651ff4S1.png",
+   "file": "teams/decin.json"
+  },
+  {
    "slug": "usti",
    "name": "SLUNETA Ústí nad Labem",
    "label": "Ústí",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
    "file": "teams/usti.json"
-  },
-  {
-   "slug": "pisek",
-   "name": "Sršni Photomate Písek",
-   "label": "Písek",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/bd87c5d17b95173283244bbd063bd7c0S1.png",
-   "file": "teams/pisek.json"
   },
   {
    "slug": "usk",
@@ -706,6 +706,17 @@
    "score": [
     85,
     102
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2932740,
+   "date": "2026-11-01",
+   "home": "pisek",
+   "away": "decin",
+   "score": [
+    99,
+    84
    ],
    "status": "final"
   }

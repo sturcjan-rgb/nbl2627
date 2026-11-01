@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-01T13:32:04+00:00",
+ "generatedAt": "2026-11-01T18:57:52+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 55,
-  "scheduled": 76,
+  "final": 56,
+  "scheduled": 73,
   "withFiba": 68
  },
  "teams": {
@@ -2269,7 +2269,10 @@
    "time": "17:00",
    "home": "Sršni Photomate Písek",
    "away": "BK ARMEX ENERGY Děčín",
-   "score": null,
+   "score": {
+    "home": 99,
+    "away": 84
+   },
    "quarters": null,
    "roundNum": 10,
    "date": "2026-11-01",
@@ -2277,14 +2280,14 @@
    "awaySlug": "decin",
    "homeLabel": "Písek",
    "awayLabel": "Děčín",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544600",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2932740/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2932740/data.json",
     "stats": "matches/2932740.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544601,
@@ -2303,7 +2306,7 @@
    "awaySlug": "slavia",
    "homeLabel": "Ústí",
    "awayLabel": "Slavia",
-   "status": "scheduled",
+   "status": "live",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544601",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2932741/",
@@ -2329,7 +2332,7 @@
    "awaySlug": "hradec",
    "homeLabel": "Opava",
    "awayLabel": "Hradec",
-   "status": "scheduled",
+   "status": "live",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544604",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2932742/",
