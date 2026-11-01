@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-01T18:57:52+00:00",
+ "generatedAt": "2026-11-01T19:09:02+00:00",
  "slug": "slavia",
  "name": "SK Slavia Praha ERA NBK",
  "label": "Slavia",
@@ -8,209 +8,209 @@
  "code": "SKS",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7aa188dfbe3d731fb1199e1c55a72312S1.png",
  "coach": "Oren Amiel",
- "games": 9,
- "minutes": 360.0,
+ "games": 10,
+ "minutes": 400.0,
  "totals": {
-  "pts": 893,
-  "fgm": 318,
-  "fga": 654,
-  "tpm": 115,
-  "tpa": 317,
-  "twopm": 203,
-  "twopa": 337,
-  "ftm": 142,
-  "fta": 196,
-  "oreb": 118,
-  "dreb": 273,
-  "reb": 391,
-  "ast": 204,
-  "to": 106,
-  "stl": 88,
-  "blk": 23,
-  "blkr": 23,
-  "pf": 211,
-  "foulon": 177,
-  "paint": 352,
-  "fast": 152,
-  "second": 145,
-  "bench": 445,
-  "offto": 175
+  "pts": 984,
+  "fgm": 348,
+  "fga": 726,
+  "tpm": 128,
+  "tpa": 353,
+  "twopm": 220,
+  "twopa": 373,
+  "ftm": 160,
+  "fta": 222,
+  "oreb": 136,
+  "dreb": 301,
+  "reb": 437,
+  "ast": 224,
+  "to": 117,
+  "stl": 92,
+  "blk": 25,
+  "blkr": 25,
+  "pf": 235,
+  "foulon": 200,
+  "paint": 376,
+  "fast": 163,
+  "second": 161,
+  "bench": 513,
+  "offto": 188
  },
  "oppTotals": {
-  "pts": 722,
-  "fgm": 235,
-  "fga": 569,
-  "tpm": 74,
-  "tpa": 252,
-  "twopm": 161,
-  "twopa": 317,
-  "ftm": 178,
-  "fta": 257,
-  "oreb": 102,
-  "dreb": 243,
-  "reb": 345,
-  "ast": 152,
-  "to": 143,
-  "stl": 56,
-  "blk": 23,
-  "blkr": 23,
-  "pf": 181,
-  "foulon": 208,
-  "paint": 306,
-  "fast": 88,
-  "second": 101,
-  "bench": 242,
-  "offto": 92
+  "pts": 811,
+  "fgm": 264,
+  "fga": 634,
+  "tpm": 85,
+  "tpa": 283,
+  "twopm": 179,
+  "twopa": 351,
+  "ftm": 198,
+  "fta": 289,
+  "oreb": 114,
+  "dreb": 268,
+  "reb": 382,
+  "ast": 169,
+  "to": 153,
+  "stl": 61,
+  "blk": 25,
+  "blkr": 25,
+  "pf": 205,
+  "foulon": 232,
+  "paint": 336,
+  "fast": 97,
+  "second": 116,
+  "bench": 284,
+  "offto": 105
  },
  "perGame": {
-  "pts": 99.2,
-  "fgm": 35.3,
-  "fga": 72.7,
+  "pts": 98.4,
+  "fgm": 34.8,
+  "fga": 72.6,
   "tpm": 12.8,
-  "tpa": 35.2,
-  "twopm": 22.6,
-  "twopa": 37.4,
-  "ftm": 15.8,
-  "fta": 21.8,
-  "oreb": 13.1,
-  "dreb": 30.3,
-  "reb": 43.4,
-  "ast": 22.7,
-  "to": 11.8,
-  "stl": 9.8,
-  "blk": 2.6,
-  "blkr": 2.6,
-  "pf": 23.4,
-  "foulon": 19.7,
-  "paint": 39.1,
-  "fast": 16.9,
+  "tpa": 35.3,
+  "twopm": 22.0,
+  "twopa": 37.3,
+  "ftm": 16.0,
+  "fta": 22.2,
+  "oreb": 13.6,
+  "dreb": 30.1,
+  "reb": 43.7,
+  "ast": 22.4,
+  "to": 11.7,
+  "stl": 9.2,
+  "blk": 2.5,
+  "blkr": 2.5,
+  "pf": 23.5,
+  "foulon": 20.0,
+  "paint": 37.6,
+  "fast": 16.3,
   "second": 16.1,
-  "bench": 49.4,
-  "offto": 19.4,
-  "ppg": 99.2,
-  "oppg": 80.2,
-  "diff": 19.0
+  "bench": 51.3,
+  "offto": 18.8,
+  "ppg": 98.4,
+  "oppg": 81.1,
+  "diff": 17.3
  },
  "oppPerGame": {
-  "pts": 80.2,
-  "fgm": 26.1,
-  "fga": 63.2,
-  "tpm": 8.2,
-  "tpa": 28.0,
+  "pts": 81.1,
+  "fgm": 26.4,
+  "fga": 63.4,
+  "tpm": 8.5,
+  "tpa": 28.3,
   "twopm": 17.9,
-  "twopa": 35.2,
+  "twopa": 35.1,
   "ftm": 19.8,
-  "fta": 28.6,
-  "oreb": 11.3,
-  "dreb": 27.0,
-  "reb": 38.3,
+  "fta": 28.9,
+  "oreb": 11.4,
+  "dreb": 26.8,
+  "reb": 38.2,
   "ast": 16.9,
-  "to": 15.9,
-  "stl": 6.2,
-  "blk": 2.6,
-  "blkr": 2.6,
-  "pf": 20.1,
-  "foulon": 23.1,
-  "paint": 34.0,
-  "fast": 9.8,
-  "second": 11.2,
-  "bench": 26.9,
-  "offto": 10.2
+  "to": 15.3,
+  "stl": 6.1,
+  "blk": 2.5,
+  "blkr": 2.5,
+  "pf": 20.5,
+  "foulon": 23.2,
+  "paint": 33.6,
+  "fast": 9.7,
+  "second": 11.6,
+  "bench": 28.4,
+  "offto": 10.5
  },
  "adv": {
-  "poss": 728.2,
-  "pace": 80.6,
-  "ortg": 122.6,
-  "drtg": 99.9,
-  "net": 22.8,
-  "efg": 57.4,
-  "ts": 60.3,
-  "tov": 12.5,
-  "orb": 32.7,
-  "drb": 72.8,
-  "ftr": 21.7,
-  "fta_rate": 30.0,
-  "three_par": 48.5,
-  "fg": 48.6,
-  "two": 60.2,
+  "poss": 804.7,
+  "pace": 80.2,
+  "ortg": 122.3,
+  "drtg": 101.4,
+  "net": 20.9,
+  "efg": 56.7,
+  "ts": 59.7,
+  "tov": 12.4,
+  "orb": 33.7,
+  "drb": 72.5,
+  "ftr": 22.0,
+  "fta_rate": 30.6,
+  "three_par": 48.6,
+  "fg": 47.9,
+  "two": 59.0,
   "three": 36.3,
-  "ft": 72.4,
-  "ast_pct": 64.2,
-  "ast_to": 1.92,
-  "stl_pct": 12.2,
-  "blk_pct": 7.3,
-  "pts_per_shot": 1.21
+  "ft": 72.1,
+  "ast_pct": 64.4,
+  "ast_to": 1.91,
+  "stl_pct": 11.5,
+  "blk_pct": 7.1,
+  "pts_per_shot": 1.19
  },
  "oppAdv": {
-  "opp_efg": 47.8,
-  "opp_ts": 52.9,
-  "opp_tov": 17.3,
-  "opp_ftr": 31.3,
-  "opp_three_par": 44.3,
-  "opp_fg": 41.3,
-  "opp_two": 50.8,
-  "opp_three": 29.4,
-  "opp_ft": 69.3
+  "opp_efg": 48.3,
+  "opp_ts": 53.3,
+  "opp_tov": 16.7,
+  "opp_ftr": 31.2,
+  "opp_three_par": 44.6,
+  "opp_fg": 41.6,
+  "opp_two": 51.0,
+  "opp_three": 30.0,
+  "opp_ft": 68.5
  },
  "factors": {
-  "efg": 57.4,
-  "tov": 12.5,
-  "orb": 32.7,
-  "ftr": 21.7,
-  "opp_efg": 47.8,
-  "opp_tov": 17.3,
-  "drb": 72.8,
-  "opp_ftr": 31.3
+  "efg": 56.7,
+  "tov": 12.4,
+  "orb": 33.7,
+  "ftr": 22.0,
+  "opp_efg": 48.3,
+  "opp_tov": 16.7,
+  "drb": 72.5,
+  "opp_ftr": 31.2
  },
  "zones": {
   "paint": {
-   "m": 182,
-   "a": 283,
-   "pct": 64.3,
-   "share": 43.3
+   "m": 195,
+   "a": 312,
+   "pct": 62.5,
+   "share": 43.0
   },
   "mid": {
-   "m": 21,
-   "a": 54,
-   "pct": 38.9,
-   "share": 8.3
+   "m": 25,
+   "a": 61,
+   "pct": 41.0,
+   "share": 8.4
   },
   "corner3": {
-   "m": 29,
-   "a": 63,
-   "pct": 46.0,
-   "share": 9.6
+   "m": 32,
+   "a": 68,
+   "pct": 47.1,
+   "share": 9.4
   },
   "above3": {
-   "m": 86,
-   "a": 254,
-   "pct": 33.9,
-   "share": 38.8
+   "m": 96,
+   "a": 285,
+   "pct": 33.7,
+   "share": 39.3
   }
  },
  "oppZones": {
   "paint": {
-   "m": 152,
-   "a": 280,
-   "pct": 54.3,
+   "m": 169,
+   "a": 305,
+   "pct": 55.4,
    "share": null
   },
   "mid": {
-   "m": 9,
-   "a": 37,
-   "pct": 24.3,
+   "m": 10,
+   "a": 46,
+   "pct": 21.7,
    "share": null
   },
   "corner3": {
-   "m": 17,
-   "a": 45,
-   "pct": 37.8,
+   "m": 18,
+   "a": 50,
+   "pct": 36.0,
    "share": null
   },
   "above3": {
-   "m": 57,
-   "a": 207,
-   "pct": 27.5,
+   "m": 67,
+   "a": 233,
+   "pct": 28.8,
    "share": null
   }
  },
@@ -223,63 +223,63 @@
    "20+"
   ],
   "pts": [
-   198,
-   177,
+   212,
    200,
-   165,
-   148
+   223,
+   185,
+   159
   ],
   "unassigned": 5,
-  "possessions": 748,
+  "possessions": 825,
   "ptsPerPoss": 1.19,
   "avgSec": 12.6
  },
  "clutch": {
-  "pts": 0,
-  "opp": 0,
-  "fgm": 0,
-  "fga": 0,
-  "ftm": 0,
-  "fta": 0,
-  "to": 0,
-  "games": 0,
-  "w": 0,
+  "pts": 15,
+  "opp": 6,
+  "fgm": 6,
+  "fga": 9,
+  "ftm": 1,
+  "fta": 1,
+  "to": 1,
+  "games": 1,
+  "w": 1,
   "l": 0,
-  "fgPct": null,
-  "net": 0
+  "fgPct": 66.7,
+  "net": 9
  },
  "quarters": [
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 25.6,
-   "oppg": 17.8,
-   "diff": 7.8,
-   "n": 9
+   "ppg": 25.3,
+   "oppg": 18.1,
+   "diff": 7.2,
+   "n": 10
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 27.0,
-   "oppg": 21.4,
-   "diff": 5.6,
-   "n": 9
+   "ppg": 26.7,
+   "oppg": 22.5,
+   "diff": 4.2,
+   "n": 10
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 26.1,
-   "oppg": 21.4,
-   "diff": 4.7,
-   "n": 9
+   "ppg": 25.1,
+   "oppg": 20.8,
+   "diff": 4.3,
+   "n": 10
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 20.6,
-   "oppg": 19.6,
-   "diff": 1.0,
-   "n": 9
+   "ppg": 21.3,
+   "oppg": 19.7,
+   "diff": 1.6,
+   "n": 10
   }
  ],
  "flow": {
@@ -287,7 +287,7 @@
   "biggestDeficit": 15,
   "biggestRun": 14,
   "biggestRunAllowed": 13,
-  "leadChangesPerGame": 4.1
+  "leadChangesPerGame": 4.6
  },
  "lineups": {
   "fives": [
@@ -339,45 +339,45 @@
     "players": [
      "František Rylich",
      "Jaromír Bohačík",
-     "Martez Brown",
+     "Javian Mccollum",
      "Martin Kříž",
-     "Ronaldo Segu"
+     "Pauly Paulicap"
     ],
-    "min": 11.4,
-    "pf": 37,
-    "pa": 17,
-    "pm": 20,
-    "poss": 21.1,
-    "pF": 20.4,
-    "pA": 21.8,
-    "ortg": 181.0,
-    "drtg": 78.1,
-    "net": 102.9,
-    "efg": 77.1,
-    "oefg": 50.0,
-    "games": 4
+    "min": 14.8,
+    "pf": 32,
+    "pa": 30,
+    "pm": 2,
+    "poss": 30.6,
+    "pF": 30.6,
+    "pA": 30.6,
+    "ortg": 104.4,
+    "drtg": 97.9,
+    "net": 6.5,
+    "efg": 55.6,
+    "oefg": 56.0,
+    "games": 3
    },
    {
     "players": [
      "František Rylich",
      "Jaromír Bohačík",
-     "Javian Mccollum",
+     "Martez Brown",
      "Martin Kříž",
-     "Pauly Paulicap"
+     "Ronaldo Segu"
     ],
-    "min": 10.3,
-    "pf": 23,
-    "pa": 18,
-    "pm": 5,
-    "poss": 22.6,
-    "pF": 22.6,
-    "pA": 22.6,
-    "ortg": 101.6,
-    "drtg": 79.5,
-    "net": 22.1,
-    "efg": 58.3,
+    "min": 12.1,
+    "pf": 37,
+    "pa": 19,
+    "pm": 18,
+    "poss": 22.1,
+    "pF": 21.4,
+    "pA": 22.8,
+    "ortg": 172.6,
+    "drtg": 83.5,
+    "net": 89.1,
+    "efg": 68.5,
     "oefg": 50.0,
-    "games": 2
+    "games": 5
    },
    {
     "players": [
@@ -510,6 +510,28 @@
     "efg": 36.4,
     "oefg": 40.9,
     "games": 3
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Martez Brown",
+     "Ronaldo Segu",
+     "Travis Harper Ii",
+     "Vojtěch Hruban"
+    ],
+    "min": 6.4,
+    "pf": 25,
+    "pa": 3,
+    "pm": 22,
+    "poss": 12.3,
+    "pF": 14.1,
+    "pA": 10.4,
+    "ortg": 177.6,
+    "drtg": 28.7,
+    "net": 148.8,
+    "efg": 64.3,
+    "oefg": 16.7,
+    "games": 2
    },
    {
     "players": [
@@ -668,6 +690,28 @@
    {
     "players": [
      "David Böhm",
+     "Martin Kříž",
+     "Patrick Samoura",
+     "Ronaldo Segu",
+     "Travis Harper Ii"
+    ],
+    "min": 4.8,
+    "pf": 9,
+    "pa": 8,
+    "pm": 1,
+    "poss": 8.9,
+    "pF": 8.9,
+    "pA": 8.9,
+    "ortg": 101.4,
+    "drtg": 90.1,
+    "net": 11.3,
+    "efg": 43.8,
+    "oefg": 30.0,
+    "games": 3
+   },
+   {
+    "players": [
+     "David Böhm",
      "Patrick Samoura",
      "Ronaldo Segu",
      "Travis Harper Ii",
@@ -751,6 +795,28 @@
     "net": -21.5,
     "efg": 25.0,
     "oefg": 33.3,
+    "games": 1
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Martin Kříž",
+     "Pauly Paulicap",
+     "Ronaldo Segu",
+     "Travis Harper Ii"
+    ],
+    "min": 4.1,
+    "pf": 8,
+    "pa": 8,
+    "pm": 0,
+    "poss": 7.7,
+    "pF": 7.0,
+    "pA": 8.3,
+    "ortg": 114.3,
+    "drtg": 96.2,
+    "net": 18.1,
+    "efg": 66.7,
+    "oefg": 35.7,
     "games": 1
    },
    {
@@ -887,6 +953,28 @@
    },
    {
     "players": [
+     "Martin Kříž",
+     "Patrick Samoura",
+     "Ronaldo Segu",
+     "Travis Harper Ii",
+     "Vojtěch Hruban"
+    ],
+    "min": 3.7,
+    "pf": 9,
+    "pa": 12,
+    "pm": -3,
+    "poss": 7.6,
+    "pF": 7.3,
+    "pA": 7.9,
+    "ortg": 123.0,
+    "drtg": 152.3,
+    "net": -29.3,
+    "efg": 43.8,
+    "oefg": 62.5,
+    "games": 1
+   },
+   {
+    "players": [
      "David Böhm",
      "Jaromír Bohačík",
      "Patrick Samoura",
@@ -906,6 +994,28 @@
     "efg": 80.0,
     "oefg": 50.0,
     "games": 3
+   },
+   {
+    "players": [
+     "Martez Brown",
+     "Patrick Samoura",
+     "Ronaldo Segu",
+     "Travis Harper Ii",
+     "Vojtěch Hruban"
+    ],
+    "min": 3.6,
+    "pf": 11,
+    "pa": 4,
+    "pm": 7,
+    "poss": 7.1,
+    "pF": 6.6,
+    "pA": 7.6,
+    "ortg": 165.7,
+    "drtg": 52.4,
+    "net": 113.3,
+    "efg": 60.0,
+    "oefg": 16.7,
+    "games": 1
    },
    {
     "players": [
@@ -950,6 +1060,28 @@
     "efg": 78.6,
     "oefg": 0.0,
     "games": 3
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Martez Brown",
+     "Martin Kříž",
+     "Patrick Samoura",
+     "Ronaldo Segu"
+    ],
+    "min": 3.4,
+    "pf": 2,
+    "pa": 4,
+    "pm": -2,
+    "poss": 6.0,
+    "pF": 6.0,
+    "pA": 6.0,
+    "ortg": 33.3,
+    "drtg": 66.7,
+    "net": -33.3,
+    "efg": 12.5,
+    "oefg": 33.3,
+    "games": 2
    },
    {
     "players": [
@@ -1333,19 +1465,19 @@
      "Martin Kříž",
      "Ronaldo Segu"
     ],
-    "min": 2.5,
-    "pf": 4,
+    "min": 2.6,
+    "pf": 6,
     "pa": 6,
-    "pm": -2,
-    "poss": 5.0,
-    "pF": 5.0,
+    "pm": 0,
+    "poss": 5.4,
+    "pF": 5.9,
     "pA": 5.0,
-    "ortg": 80.0,
+    "ortg": 102.0,
     "drtg": 120.0,
-    "net": -40.0,
+    "net": -18.0,
     "efg": 28.6,
     "oefg": 60.0,
-    "games": 2
+    "games": 3
    },
    {
     "players": [
@@ -1396,18 +1528,37 @@
      "Jaromír Bohačík",
      "Ronaldo Segu"
     ],
-    "min": 62.7,
+    "min": 66.4,
+    "pf": 176,
+    "pa": 126,
+    "pm": 50,
+    "poss": 125.6,
+    "pF": 126.3,
+    "pA": 124.8,
+    "ortg": 139.3,
+    "drtg": 101.0,
+    "net": 38.4,
+    "efg": 61.3,
+    "oefg": 46.9
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Martez Brown",
+     "Ronaldo Segu"
+    ],
+    "min": 60.6,
     "pf": 169,
-    "pa": 114,
-    "pm": 55,
-    "poss": 117.5,
-    "pF": 118.4,
-    "pA": 116.6,
-    "ortg": 142.7,
-    "drtg": 97.8,
-    "net": 44.9,
-    "efg": 64.4,
-    "oefg": 45.6
+    "pa": 88,
+    "pm": 81,
+    "poss": 111.6,
+    "pF": 112.4,
+    "pA": 110.9,
+    "ortg": 150.4,
+    "drtg": 79.4,
+    "net": 71.0,
+    "efg": 62.4,
+    "oefg": 43.5
    },
    {
     "players": [
@@ -1415,18 +1566,18 @@
      "Martin Kříž",
      "Ronaldo Segu"
     ],
-    "min": 56.1,
-    "pf": 133,
-    "pa": 114,
-    "pm": 19,
-    "poss": 107.9,
-    "pF": 109.1,
-    "pA": 106.6,
-    "ortg": 121.9,
-    "drtg": 106.9,
-    "net": 14.9,
-    "efg": 56.1,
-    "oefg": 50.0
+    "min": 60.0,
+    "pf": 137,
+    "pa": 120,
+    "pm": 17,
+    "poss": 114.8,
+    "pF": 117.0,
+    "pA": 112.6,
+    "ortg": 117.1,
+    "drtg": 106.6,
+    "net": 10.5,
+    "efg": 51.7,
+    "oefg": 49.5
    },
    {
     "players": [
@@ -1449,6 +1600,25 @@
    },
    {
     "players": [
+     "Ronaldo Segu",
+     "Travis Harper Ii",
+     "Vojtěch Hruban"
+    ],
+    "min": 52.5,
+    "pf": 133,
+    "pa": 118,
+    "pm": 15,
+    "poss": 109.9,
+    "pF": 108.6,
+    "pA": 111.1,
+    "ortg": 122.5,
+    "drtg": 106.2,
+    "net": 16.3,
+    "efg": 54.7,
+    "oefg": 51.8
+   },
+   {
+    "players": [
      "František Rylich",
      "Nana Owusu-Anane",
      "Ronaldo Segu"
@@ -1468,22 +1638,22 @@
    },
    {
     "players": [
+     "David Böhm",
      "Jaromír Bohačík",
-     "Martez Brown",
      "Ronaldo Segu"
     ],
-    "min": 48.0,
-    "pf": 141,
-    "pa": 73,
-    "pm": 68,
-    "poss": 89.1,
-    "pF": 89.2,
-    "pA": 89.1,
-    "ortg": 158.1,
-    "drtg": 81.9,
-    "net": 76.2,
-    "efg": 67.3,
-    "oefg": 44.0
+    "min": 49.6,
+    "pf": 117,
+    "pa": 97,
+    "pm": 20,
+    "poss": 100.3,
+    "pF": 101.8,
+    "pA": 98.8,
+    "ortg": 114.9,
+    "drtg": 98.2,
+    "net": 16.7,
+    "efg": 51.7,
+    "oefg": 40.1
    },
    {
     "players": [
@@ -1491,37 +1661,18 @@
      "Martin Kříž",
      "Vojtěch Hruban"
     ],
-    "min": 47.9,
-    "pf": 143,
-    "pa": 99,
-    "pm": 44,
-    "poss": 98.0,
-    "pF": 98.4,
-    "pA": 97.6,
-    "ortg": 145.3,
-    "drtg": 101.4,
-    "net": 43.9,
+    "min": 48.4,
+    "pf": 144,
+    "pa": 101,
+    "pm": 43,
+    "poss": 98.9,
+    "pF": 99.3,
+    "pA": 98.5,
+    "ortg": 145.0,
+    "drtg": 102.5,
+    "net": 42.5,
     "efg": 62.6,
     "oefg": 49.3
-   },
-   {
-    "players": [
-     "David Böhm",
-     "Jaromír Bohačík",
-     "Ronaldo Segu"
-    ],
-    "min": 47.7,
-    "pf": 110,
-    "pa": 90,
-    "pm": 20,
-    "poss": 95.3,
-    "pF": 97.0,
-    "pA": 93.6,
-    "ortg": 113.4,
-    "drtg": 96.2,
-    "net": 17.3,
-    "efg": 51.8,
-    "oefg": 39.7
    },
    {
     "players": [
@@ -1544,6 +1695,120 @@
    },
    {
     "players": [
+     "František Rylich",
+     "Jaromír Bohačík",
+     "Javian Mccollum"
+    ],
+    "min": 43.1,
+    "pf": 102,
+    "pa": 101,
+    "pm": 1,
+    "poss": 88.4,
+    "pF": 88.0,
+    "pA": 88.8,
+    "ortg": 115.9,
+    "drtg": 113.8,
+    "net": 2.1,
+    "efg": 64.1,
+    "oefg": 63.4
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Martez Brown",
+     "Ronaldo Segu"
+    ],
+    "min": 43.1,
+    "pf": 117,
+    "pa": 100,
+    "pm": 17,
+    "poss": 81.7,
+    "pF": 78.2,
+    "pA": 85.1,
+    "ortg": 149.6,
+    "drtg": 117.5,
+    "net": 32.1,
+    "efg": 67.4,
+    "oefg": 61.9
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Patrick Samoura",
+     "Ronaldo Segu"
+    ],
+    "min": 43.1,
+    "pf": 91,
+    "pa": 74,
+    "pm": 17,
+    "poss": 84.8,
+    "pF": 84.0,
+    "pA": 85.6,
+    "ortg": 108.3,
+    "drtg": 86.4,
+    "net": 21.9,
+    "efg": 49.4,
+    "oefg": 44.6
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Jaromír Bohačík",
+     "Martin Kříž"
+    ],
+    "min": 42.0,
+    "pf": 108,
+    "pa": 85,
+    "pm": 23,
+    "poss": 79.6,
+    "pF": 80.6,
+    "pA": 78.7,
+    "ortg": 134.0,
+    "drtg": 108.0,
+    "net": 26.0,
+    "efg": 61.9,
+    "oefg": 58.2
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Martin Kříž",
+     "Ronaldo Segu"
+    ],
+    "min": 41.3,
+    "pf": 111,
+    "pa": 91,
+    "pm": 20,
+    "poss": 75.5,
+    "pF": 75.2,
+    "pA": 75.8,
+    "ortg": 147.7,
+    "drtg": 120.1,
+    "net": 27.6,
+    "efg": 64.6,
+    "oefg": 60.0
+   },
+   {
+    "players": [
+     "Martin Kříž",
+     "Ronaldo Segu",
+     "Travis Harper Ii"
+    ],
+    "min": 40.1,
+    "pf": 95,
+    "pa": 82,
+    "pm": 13,
+    "poss": 78.4,
+    "pF": 78.1,
+    "pA": 78.6,
+    "ortg": 121.6,
+    "drtg": 104.3,
+    "net": 17.3,
+    "efg": 55.6,
+    "oefg": 45.6
+   },
+   {
+    "players": [
      "David Böhm",
      "Jaromír Bohačík",
      "Nana Owusu-Anane"
@@ -1563,136 +1828,117 @@
    },
    {
     "players": [
-     "František Rylich",
-     "Martez Brown",
-     "Ronaldo Segu"
-    ],
-    "min": 38.9,
-    "pf": 112,
-    "pa": 89,
-    "pm": 23,
-    "poss": 73.4,
-    "pF": 69.8,
-    "pA": 77.1,
-    "ortg": 160.6,
-    "drtg": 115.4,
-    "net": 45.1,
-    "efg": 73.0,
-    "oefg": 61.0
-   },
-   {
-    "players": [
      "David Böhm",
      "František Rylich",
      "Jaromír Bohačík"
     ],
-    "min": 37.2,
-    "pf": 96,
-    "pa": 69,
+    "min": 39.2,
+    "pf": 103,
+    "pa": 76,
     "pm": 27,
-    "poss": 74.4,
-    "pF": 76.1,
-    "pA": 72.8,
-    "ortg": 126.1,
-    "drtg": 94.8,
-    "net": 31.3,
-    "efg": 63.7,
-    "oefg": 42.9
+    "poss": 79.5,
+    "pF": 81.0,
+    "pA": 78.0,
+    "ortg": 127.2,
+    "drtg": 97.5,
+    "net": 29.7,
+    "efg": 62.7,
+    "oefg": 43.2
    },
    {
     "players": [
+     "Martin Kříž",
      "Ronaldo Segu",
-     "Travis Harper Ii",
      "Vojtěch Hruban"
     ],
-    "min": 37.1,
-    "pf": 87,
-    "pa": 86,
-    "pm": 1,
-    "poss": 81.1,
-    "pF": 80.3,
-    "pA": 82.0,
-    "ortg": 108.3,
-    "drtg": 104.9,
-    "net": 3.4,
-    "efg": 49.3,
-    "oefg": 53.4
+    "min": 38.9,
+    "pf": 90,
+    "pa": 98,
+    "pm": -8,
+    "poss": 77.5,
+    "pF": 76.1,
+    "pA": 79.0,
+    "ortg": 118.2,
+    "drtg": 124.1,
+    "net": -5.9,
+    "efg": 54.4,
+    "oefg": 64.9
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Ronaldo Segu",
+     "Travis Harper Ii"
+    ],
+    "min": 38.1,
+    "pf": 97,
+    "pa": 63,
+    "pm": 34,
+    "poss": 72.1,
+    "pF": 72.8,
+    "pA": 71.4,
+    "ortg": 133.2,
+    "drtg": 88.2,
+    "net": 45.0,
+    "efg": 54.6,
+    "oefg": 41.2
    },
    {
     "players": [
      "František Rylich",
      "Jaromír Bohačík",
+     "Martez Brown"
+    ],
+    "min": 37.3,
+    "pf": 106,
+    "pa": 75,
+    "pm": 31,
+    "poss": 69.3,
+    "pF": 69.1,
+    "pA": 69.6,
+    "ortg": 153.4,
+    "drtg": 107.8,
+    "net": 45.7,
+    "efg": 68.9,
+    "oefg": 58.3
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Javian Mccollum",
      "Martin Kříž"
     ],
-    "min": 36.7,
-    "pf": 97,
-    "pa": 71,
-    "pm": 26,
-    "poss": 70.2,
-    "pF": 70.7,
-    "pA": 69.7,
-    "ortg": 137.2,
-    "drtg": 101.9,
-    "net": 35.3,
-    "efg": 66.2,
-    "oefg": 57.0
+    "min": 36.6,
+    "pf": 79,
+    "pa": 83,
+    "pm": -4,
+    "poss": 77.1,
+    "pF": 74.9,
+    "pA": 79.2,
+    "ortg": 105.4,
+    "drtg": 104.8,
+    "net": 0.6,
+    "efg": 54.1,
+    "oefg": 50.8
    },
    {
     "players": [
-     "František Rylich",
-     "Jaromír Bohačík",
-     "Javian Mccollum"
-    ],
-    "min": 36.4,
-    "pf": 86,
-    "pa": 82,
-    "pm": 4,
-    "poss": 74.6,
-    "pF": 74.2,
-    "pA": 75.0,
-    "ortg": 116.0,
-    "drtg": 109.3,
-    "net": 6.6,
-    "efg": 65.3,
-    "oefg": 62.7
-   },
-   {
-    "players": [
-     "František Rylich",
+     "Martez Brown",
      "Martin Kříž",
      "Ronaldo Segu"
     ],
-    "min": 35.9,
-    "pf": 98,
-    "pa": 79,
-    "pm": 19,
-    "poss": 64.9,
-    "pF": 64.4,
-    "pA": 65.5,
-    "ortg": 152.2,
-    "drtg": 120.6,
-    "net": 31.5,
-    "efg": 65.9,
-    "oefg": 62.7
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
-     "Patrick Samoura",
-     "Ronaldo Segu"
-    ],
-    "min": 35.7,
-    "pf": 82,
-    "pa": 63,
-    "pm": 19,
-    "poss": 71.1,
-    "pF": 71.2,
-    "pA": 71.0,
-    "ortg": 115.2,
-    "drtg": 88.7,
-    "net": 26.5,
-    "efg": 56.9,
-    "oefg": 44.5
+    "min": 36.1,
+    "pf": 92,
+    "pa": 69,
+    "pm": 23,
+    "poss": 70.0,
+    "pF": 71.8,
+    "pA": 68.2,
+    "ortg": 128.2,
+    "drtg": 101.2,
+    "net": 27.0,
+    "efg": 54.2,
+    "oefg": 53.6
    },
    {
     "players": [
@@ -1716,21 +1962,78 @@
    {
     "players": [
      "Martin Kříž",
+     "Travis Harper Ii",
+     "Vojtěch Hruban"
+    ],
+    "min": 35.4,
+    "pf": 99,
+    "pa": 69,
+    "pm": 30,
+    "poss": 73.3,
+    "pF": 74.9,
+    "pA": 71.7,
+    "ortg": 132.2,
+    "drtg": 96.3,
+    "net": 36.0,
+    "efg": 60.8,
+    "oefg": 43.2
+   },
+   {
+    "players": [
+     "David Böhm",
+     "František Rylich",
+     "Ronaldo Segu"
+    ],
+    "min": 35.3,
+    "pf": 92,
+    "pa": 75,
+    "pm": 17,
+    "poss": 69.7,
+    "pF": 72.5,
+    "pA": 66.9,
+    "ortg": 126.9,
+    "drtg": 112.1,
+    "net": 14.7,
+    "efg": 55.6,
+    "oefg": 46.6
+   },
+   {
+    "players": [
+     "Martez Brown",
+     "Travis Harper Ii",
+     "Vojtěch Hruban"
+    ],
+    "min": 34.8,
+    "pf": 79,
+    "pa": 57,
+    "pm": 22,
+    "poss": 69.3,
+    "pF": 69.0,
+    "pA": 69.7,
+    "ortg": 114.5,
+    "drtg": 81.8,
+    "net": 32.7,
+    "efg": 54.4,
+    "oefg": 36.0
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
      "Ronaldo Segu",
      "Vojtěch Hruban"
     ],
-    "min": 34.7,
-    "pf": 80,
-    "pa": 84,
-    "pm": -4,
-    "poss": 69.1,
-    "pF": 67.9,
-    "pA": 70.2,
-    "ortg": 117.8,
-    "drtg": 119.7,
-    "net": -1.9,
-    "efg": 55.8,
-    "oefg": 65.3
+    "min": 34.5,
+    "pf": 83,
+    "pa": 67,
+    "pm": 16,
+    "poss": 68.0,
+    "pF": 69.6,
+    "pA": 66.4,
+    "ortg": 119.3,
+    "drtg": 100.9,
+    "net": 18.4,
+    "efg": 52.4,
+    "oefg": 46.1
    },
    {
     "players": [
@@ -1754,6 +2057,25 @@
    {
     "players": [
      "David Böhm",
+     "Ronaldo Segu",
+     "Travis Harper Ii"
+    ],
+    "min": 34.3,
+    "pf": 85,
+    "pa": 67,
+    "pm": 18,
+    "poss": 70.4,
+    "pF": 72.3,
+    "pA": 68.6,
+    "ortg": 117.5,
+    "drtg": 97.7,
+    "net": 19.8,
+    "efg": 54.9,
+    "oefg": 44.2
+   },
+   {
+    "players": [
+     "David Böhm",
      "František Rylich",
      "Nana Owusu-Anane"
     ],
@@ -1772,22 +2094,22 @@
    },
    {
     "players": [
-     "František Rylich",
-     "Jaromír Bohačík",
-     "Martez Brown"
+     "Martin Kříž",
+     "Patrick Samoura",
+     "Ronaldo Segu"
     ],
     "min": 34.1,
-    "pf": 101,
-    "pa": 67,
-    "pm": 34,
-    "poss": 63.3,
-    "pF": 63.1,
-    "pA": 63.6,
-    "ortg": 160.1,
-    "drtg": 105.3,
-    "net": 54.8,
-    "efg": 74.6,
-    "oefg": 57.3
+    "pf": 66,
+    "pa": 76,
+    "pm": -10,
+    "poss": 68.4,
+    "pF": 68.8,
+    "pA": 68.0,
+    "ortg": 95.9,
+    "drtg": 111.7,
+    "net": -15.8,
+    "efg": 44.6,
+    "oefg": 50.8
    },
    {
     "players": [
@@ -1867,6 +2189,44 @@
    },
    {
     "players": [
+     "Martez Brown",
+     "Ronaldo Segu",
+     "Vojtěch Hruban"
+    ],
+    "min": 33.8,
+    "pf": 84,
+    "pa": 76,
+    "pm": 8,
+    "poss": 68.7,
+    "pF": 67.4,
+    "pA": 70.0,
+    "ortg": 124.6,
+    "drtg": 108.6,
+    "net": 15.9,
+    "efg": 52.4,
+    "oefg": 53.9
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Javian Mccollum",
+     "Martin Kříž"
+    ],
+    "min": 33.8,
+    "pf": 88,
+    "pa": 71,
+    "pm": 17,
+    "poss": 67.1,
+    "pF": 67.0,
+    "pA": 67.1,
+    "ortg": 131.3,
+    "drtg": 105.8,
+    "net": 25.5,
+    "efg": 63.9,
+    "oefg": 53.8
+   },
+   {
+    "players": [
      "Javian Mccollum",
      "Martez Brown",
      "Travis Harper Ii"
@@ -1943,79 +2303,22 @@
    },
    {
     "players": [
-     "Martez Brown",
-     "Martin Kříž",
-     "Ronaldo Segu"
-    ],
-    "min": 32.3,
-    "pf": 90,
-    "pa": 63,
-    "pm": 27,
-    "poss": 63.5,
-    "pF": 64.8,
-    "pA": 62.2,
-    "ortg": 139.0,
-    "drtg": 101.4,
-    "net": 37.6,
-    "efg": 61.0,
-    "oefg": 55.1
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
-     "Javian Mccollum",
-     "Martin Kříž"
-    ],
-    "min": 32.1,
-    "pf": 70,
-    "pa": 71,
-    "pm": -1,
-    "poss": 69.1,
-    "pF": 66.9,
-    "pA": 71.2,
-    "ortg": 104.6,
-    "drtg": 99.7,
-    "net": 4.9,
-    "efg": 54.8,
-    "oefg": 48.1
-   },
-   {
-    "players": [
-     "Martin Kříž",
-     "Travis Harper Ii",
+     "Patrick Samoura",
+     "Ronaldo Segu",
      "Vojtěch Hruban"
     ],
-    "min": 31.7,
-    "pf": 90,
-    "pa": 57,
-    "pm": 33,
-    "poss": 65.7,
-    "pF": 67.6,
-    "pA": 63.8,
-    "ortg": 133.2,
-    "drtg": 89.3,
-    "net": 43.9,
-    "efg": 63.2,
-    "oefg": 40.2
-   },
-   {
-    "players": [
-     "David Böhm",
-     "František Rylich",
-     "Ronaldo Segu"
-    ],
-    "min": 31.6,
-    "pf": 82,
-    "pa": 63,
-    "pm": 19,
-    "poss": 61.0,
-    "pF": 63.3,
-    "pA": 58.7,
-    "ortg": 129.5,
-    "drtg": 107.4,
-    "net": 22.1,
-    "efg": 55.5,
-    "oefg": 44.2
+    "min": 32.0,
+    "pf": 85,
+    "pa": 64,
+    "pm": 21,
+    "poss": 66.4,
+    "pF": 64.3,
+    "pA": 68.5,
+    "ortg": 132.2,
+    "drtg": 93.4,
+    "net": 38.7,
+    "efg": 55.1,
+    "oefg": 46.9
    },
    {
     "players": [
@@ -2035,6 +2338,25 @@
     "net": 3.0,
     "efg": 58.7,
     "oefg": 54.3
+   },
+   {
+    "players": [
+     "David Böhm",
+     "Patrick Samoura",
+     "Ronaldo Segu"
+    ],
+    "min": 31.4,
+    "pf": 75,
+    "pa": 50,
+    "pm": 25,
+    "poss": 60.7,
+    "pF": 62.0,
+    "pA": 59.4,
+    "ortg": 121.0,
+    "drtg": 84.2,
+    "net": 36.7,
+    "efg": 55.7,
+    "oefg": 37.5
    },
    {
     "players": [
@@ -2058,25 +2380,6 @@
    {
     "players": [
      "Jaromír Bohačík",
-     "Ronaldo Segu",
-     "Travis Harper Ii"
-    ],
-    "min": 30.8,
-    "pf": 74,
-    "pa": 49,
-    "pm": 25,
-    "poss": 59.5,
-    "pF": 59.5,
-    "pA": 59.5,
-    "ortg": 124.4,
-    "drtg": 82.3,
-    "net": 42.1,
-    "efg": 49.2,
-    "oefg": 37.2
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
      "Nana Owusu-Anane",
      "Patrick Samoura"
     ],
@@ -2095,22 +2398,22 @@
    },
    {
     "players": [
-     "David Böhm",
+     "Patrick Samoura",
      "Ronaldo Segu",
      "Travis Harper Ii"
     ],
-    "min": 30.3,
-    "pf": 80,
-    "pa": 56,
-    "pm": 24,
-    "poss": 63.3,
-    "pF": 65.0,
-    "pA": 61.6,
-    "ortg": 123.1,
-    "drtg": 91.0,
-    "net": 32.1,
-    "efg": 56.4,
-    "oefg": 40.4
+    "min": 30.1,
+    "pf": 78,
+    "pa": 61,
+    "pm": 17,
+    "poss": 59.5,
+    "pF": 58.1,
+    "pA": 60.9,
+    "ortg": 134.2,
+    "drtg": 100.2,
+    "net": 34.0,
+    "efg": 55.3,
+    "oefg": 45.0
    },
    {
     "players": [
@@ -2133,6 +2436,25 @@
    },
    {
     "players": [
+     "David Böhm",
+     "Martin Kříž",
+     "Ronaldo Segu"
+    ],
+    "min": 29.7,
+    "pf": 67,
+    "pa": 55,
+    "pm": 12,
+    "poss": 58.3,
+    "pF": 59.6,
+    "pA": 56.9,
+    "ortg": 112.4,
+    "drtg": 96.6,
+    "net": 15.8,
+    "efg": 52.8,
+    "oefg": 44.9
+   },
+   {
+    "players": [
      "Nana Owusu-Anane",
      "Ronaldo Segu",
      "Travis Harper Ii"
@@ -2152,60 +2474,41 @@
    },
    {
     "players": [
-     "Martin Kříž",
+     "Martez Brown",
      "Ronaldo Segu",
      "Travis Harper Ii"
     ],
-    "min": 29.3,
-    "pf": 73,
+    "min": 28.1,
+    "pf": 70,
     "pa": 54,
-    "pm": 19,
-    "poss": 58.2,
-    "pF": 58.9,
-    "pA": 57.4,
-    "ortg": 123.9,
-    "drtg": 94.0,
-    "net": 29.9,
-    "efg": 56.6,
-    "oefg": 41.5
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Javian Mccollum",
-     "Martin Kříž"
-    ],
-    "min": 29.3,
-    "pf": 79,
-    "pa": 59,
-    "pm": 20,
-    "poss": 59.1,
-    "pF": 59.0,
-    "pA": 59.1,
-    "ortg": 133.8,
-    "drtg": 99.8,
-    "net": 34.0,
-    "efg": 66.3,
-    "oefg": 51.2
+    "pm": 16,
+    "poss": 55.7,
+    "pF": 56.9,
+    "pA": 54.6,
+    "ortg": 123.0,
+    "drtg": 99.0,
+    "net": 24.0,
+    "efg": 56.0,
+    "oefg": 46.2
    },
    {
     "players": [
      "David Böhm",
-     "Patrick Samoura",
-     "Ronaldo Segu"
+     "Martin Kříž",
+     "Travis Harper Ii"
     ],
-    "min": 29.1,
-    "pf": 73,
-    "pa": 44,
-    "pm": 29,
-    "poss": 57.2,
-    "pF": 59.0,
-    "pA": 55.4,
-    "ortg": 123.7,
-    "drtg": 79.5,
-    "net": 44.2,
-    "efg": 58.2,
-    "oefg": 35.1
+    "min": 27.9,
+    "pf": 77,
+    "pa": 49,
+    "pm": 28,
+    "poss": 56.4,
+    "pF": 57.9,
+    "pA": 54.9,
+    "ortg": 132.9,
+    "drtg": 89.2,
+    "net": 43.7,
+    "efg": 63.3,
+    "oefg": 37.5
    },
    {
     "players": [
@@ -2228,25 +2531,6 @@
    },
    {
     "players": [
-     "Martez Brown",
-     "Travis Harper Ii",
-     "Vojtěch Hruban"
-    ],
-    "min": 26.9,
-    "pf": 51,
-    "pa": 51,
-    "pm": 0,
-    "poss": 55.0,
-    "pF": 54.0,
-    "pA": 56.0,
-    "ortg": 94.4,
-    "drtg": 91.0,
-    "net": 3.4,
-    "efg": 45.7,
-    "oefg": 40.2
-   },
-   {
-    "players": [
      "David Böhm",
      "Javian Mccollum",
      "Martin Kříž"
@@ -2263,25 +2547,6 @@
     "net": 41.2,
     "efg": 69.1,
     "oefg": 50.0
-   },
-   {
-    "players": [
-     "David Böhm",
-     "Martin Kříž",
-     "Ronaldo Segu"
-    ],
-    "min": 26.6,
-    "pf": 60,
-    "pa": 47,
-    "pm": 13,
-    "poss": 52.9,
-    "pF": 53.8,
-    "pA": 51.9,
-    "ortg": 111.4,
-    "drtg": 90.5,
-    "net": 20.9,
-    "efg": 53.1,
-    "oefg": 41.9
    },
    {
     "players": [
@@ -2401,6 +2666,25 @@
     "players": [
      "František Rylich",
      "Martez Brown",
+     "Martin Kříž"
+    ],
+    "min": 25.9,
+    "pf": 79,
+    "pa": 57,
+    "pm": 22,
+    "poss": 49.3,
+    "pF": 49.0,
+    "pA": 49.7,
+    "ortg": 161.4,
+    "drtg": 114.6,
+    "net": 46.7,
+    "efg": 65.5,
+    "oefg": 60.3
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Martez Brown",
      "Nana Owusu-Anane"
     ],
     "min": 25.4,
@@ -2419,21 +2703,40 @@
    {
     "players": [
      "František Rylich",
+     "Ronaldo Segu",
+     "Travis Harper Ii"
+    ],
+    "min": 25.4,
+    "pf": 61,
+    "pa": 55,
+    "pm": 6,
+    "poss": 50.8,
+    "pF": 49.4,
+    "pA": 52.3,
+    "ortg": 123.5,
+    "drtg": 105.2,
+    "net": 18.3,
+    "efg": 61.1,
+    "oefg": 45.8
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
      "Martez Brown",
      "Martin Kříž"
     ],
-    "min": 25.2,
-    "pf": 79,
-    "pa": 55,
-    "pm": 24,
-    "poss": 48.3,
-    "pF": 48.0,
-    "pA": 48.7,
-    "ortg": 164.7,
-    "drtg": 112.9,
-    "net": 51.8,
-    "efg": 69.2,
-    "oefg": 60.8
+    "min": 25.3,
+    "pf": 66,
+    "pa": 40,
+    "pm": 26,
+    "poss": 49.6,
+    "pF": 51.1,
+    "pA": 48.0,
+    "ortg": 129.2,
+    "drtg": 83.3,
+    "net": 45.9,
+    "efg": 54.5,
+    "oefg": 38.9
    },
    {
     "players": [
@@ -2456,41 +2759,22 @@
    },
    {
     "players": [
-     "Martin Kříž",
+     "Martez Brown",
      "Patrick Samoura",
      "Ronaldo Segu"
     ],
-    "min": 24.9,
-    "pf": 53,
-    "pa": 54,
-    "pm": -1,
-    "poss": 51.8,
-    "pF": 52.5,
-    "pA": 51.2,
-    "ortg": 100.9,
-    "drtg": 105.6,
-    "net": -4.6,
-    "efg": 52.2,
-    "oefg": 48.9
-   },
-   {
-    "players": [
-     "David Böhm",
-     "Martin Kříž",
-     "Travis Harper Ii"
-    ],
-    "min": 24.9,
-    "pf": 72,
-    "pa": 41,
-    "pm": 31,
-    "poss": 51.5,
-    "pF": 53.0,
-    "pA": 49.9,
-    "ortg": 135.7,
-    "drtg": 82.1,
-    "net": 53.6,
-    "efg": 64.8,
-    "oefg": 33.3
+    "min": 24.7,
+    "pf": 56,
+    "pa": 37,
+    "pm": 19,
+    "poss": 47.4,
+    "pF": 46.0,
+    "pA": 48.9,
+    "ortg": 121.8,
+    "drtg": 75.6,
+    "net": 46.2,
+    "efg": 49.0,
+    "oefg": 41.2
    },
    {
     "players": [
@@ -2513,22 +2797,22 @@
    },
    {
     "players": [
-     "Jaromír Bohačík",
+     "David Böhm",
      "Ronaldo Segu",
      "Vojtěch Hruban"
     ],
-    "min": 24.3,
-    "pf": 56,
-    "pa": 45,
-    "pm": 11,
-    "poss": 49.0,
-    "pF": 51.4,
-    "pA": 46.6,
-    "ortg": 109.0,
-    "drtg": 96.6,
-    "net": 12.4,
-    "efg": 46.7,
-    "oefg": 41.9
+    "min": 24.2,
+    "pf": 70,
+    "pa": 55,
+    "pm": 15,
+    "poss": 49.7,
+    "pF": 50.2,
+    "pA": 49.1,
+    "ortg": 139.3,
+    "drtg": 112.0,
+    "net": 27.4,
+    "efg": 64.3,
+    "oefg": 52.6
    },
    {
     "players": [
@@ -2548,44 +2832,6 @@
     "net": 9.2,
     "efg": 47.9,
     "oefg": 59.7
-   },
-   {
-    "players": [
-     "David Böhm",
-     "Ronaldo Segu",
-     "Vojtěch Hruban"
-    ],
-    "min": 23.7,
-    "pf": 70,
-    "pa": 51,
-    "pm": 19,
-    "poss": 48.1,
-    "pF": 49.2,
-    "pA": 46.9,
-    "ortg": 142.2,
-    "drtg": 108.7,
-    "net": 33.5,
-    "efg": 65.9,
-    "oefg": 52.6
-   },
-   {
-    "players": [
-     "Martez Brown",
-     "Ronaldo Segu",
-     "Vojtěch Hruban"
-    ],
-    "min": 23.4,
-    "pf": 52,
-    "pa": 66,
-    "pm": -14,
-    "poss": 49.6,
-    "pF": 48.6,
-    "pA": 50.6,
-    "ortg": 107.0,
-    "drtg": 130.5,
-    "net": -23.5,
-    "efg": 44.8,
-    "oefg": 63.2
    },
    {
     "players": [
@@ -2629,6 +2875,25 @@
     "players": [
      "František Rylich",
      "Javian Mccollum",
+     "Vojtěch Hruban"
+    ],
+    "min": 22.6,
+    "pf": 49,
+    "pa": 38,
+    "pm": 11,
+    "poss": 47.7,
+    "pF": 48.0,
+    "pA": 47.3,
+    "ortg": 102.0,
+    "drtg": 80.4,
+    "net": 21.6,
+    "efg": 43.2,
+    "oefg": 40.3
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Javian Mccollum",
      "Travis Harper Ii"
     ],
     "min": 22.4,
@@ -2646,22 +2911,79 @@
    },
    {
     "players": [
+     "David Böhm",
+     "Martin Kříž",
+     "Patrick Samoura"
+    ],
+    "min": 22.3,
+    "pf": 48,
+    "pa": 38,
+    "pm": 10,
+    "poss": 45.1,
+    "pF": 45.3,
+    "pA": 45.0,
+    "ortg": 106.0,
+    "drtg": 84.5,
+    "net": 21.5,
+    "efg": 47.5,
+    "oefg": 41.0
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Martin Kříž",
+     "Pauly Paulicap"
+    ],
+    "min": 22.3,
+    "pf": 52,
+    "pa": 46,
+    "pm": 6,
+    "poss": 43.4,
+    "pF": 43.8,
+    "pA": 43.0,
+    "ortg": 118.6,
+    "drtg": 107.1,
+    "net": 11.5,
+    "efg": 57.5,
+    "oefg": 55.4
+   },
+   {
+    "players": [
+     "František Rylich",
      "Jaromír Bohačík",
-     "Martez Brown",
-     "Martin Kříž"
+     "Pauly Paulicap"
+    ],
+    "min": 21.6,
+    "pf": 56,
+    "pa": 49,
+    "pm": 7,
+    "poss": 44.9,
+    "pF": 45.3,
+    "pA": 44.6,
+    "ortg": 123.7,
+    "drtg": 109.9,
+    "net": 13.8,
+    "efg": 64.5,
+    "oefg": 57.1
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Martin Kříž",
+     "Patrick Samoura"
     ],
     "min": 21.5,
-    "pf": 64,
-    "pa": 34,
-    "pm": 30,
-    "poss": 43.1,
-    "pF": 44.1,
-    "pA": 42.0,
-    "ortg": 145.2,
-    "drtg": 80.9,
-    "net": 64.3,
-    "efg": 65.6,
-    "oefg": 37.9
+    "pf": 40,
+    "pa": 50,
+    "pm": -10,
+    "poss": 46.1,
+    "pF": 45.1,
+    "pA": 47.0,
+    "ortg": 88.7,
+    "drtg": 106.3,
+    "net": -17.6,
+    "efg": 43.8,
+    "oefg": 47.6
    },
    {
     "players": [
@@ -2685,21 +3007,21 @@
    {
     "players": [
      "Patrick Samoura",
-     "Ronaldo Segu",
+     "Travis Harper Ii",
      "Vojtěch Hruban"
     ],
-    "min": 20.7,
-    "pf": 55,
-    "pa": 40,
-    "pm": 15,
-    "poss": 43.5,
-    "pF": 43.5,
-    "pA": 43.5,
-    "ortg": 126.5,
-    "drtg": 92.0,
-    "net": 34.5,
-    "efg": 58.1,
-    "oefg": 48.3
+    "min": 20.2,
+    "pf": 56,
+    "pa": 42,
+    "pm": 14,
+    "poss": 39.7,
+    "pF": 39.2,
+    "pA": 40.2,
+    "ortg": 142.7,
+    "drtg": 104.6,
+    "net": 38.1,
+    "efg": 55.4,
+    "oefg": 48.6
    },
    {
     "players": [
@@ -2722,41 +3044,22 @@
    },
    {
     "players": [
-     "František Rylich",
-     "Javian Mccollum",
+     "Martin Kříž",
+     "Patrick Samoura",
      "Vojtěch Hruban"
     ],
     "min": 20.0,
-    "pf": 42,
-    "pa": 31,
-    "pm": 11,
-    "poss": 41.3,
-    "pF": 41.2,
-    "pA": 41.5,
-    "ortg": 102.0,
-    "drtg": 74.7,
-    "net": 27.4,
-    "efg": 40.2,
-    "oefg": 37.9
-   },
-   {
-    "players": [
-     "David Böhm",
-     "Martin Kříž",
-     "Patrick Samoura"
-    ],
-    "min": 20.0,
-    "pf": 46,
-    "pa": 32,
-    "pm": 14,
-    "poss": 41.6,
-    "pF": 42.3,
-    "pA": 41.0,
-    "ortg": 108.8,
-    "drtg": 78.1,
-    "net": 30.7,
-    "efg": 50.0,
-    "oefg": 38.2
+    "pf": 54,
+    "pa": 47,
+    "pm": 7,
+    "poss": 39.9,
+    "pF": 40.3,
+    "pA": 39.5,
+    "ortg": 134.1,
+    "drtg": 118.9,
+    "net": 15.1,
+    "efg": 51.2,
+    "oefg": 66.7
    },
    {
     "players": [
@@ -2779,41 +3082,79 @@
    },
    {
     "players": [
+     "František Rylich",
+     "Martez Brown",
+     "Travis Harper Ii"
+    ],
+    "min": 19.9,
+    "pf": 55,
+    "pa": 42,
+    "pm": 13,
+    "poss": 41.9,
+    "pF": 43.0,
+    "pA": 40.8,
+    "ortg": 127.8,
+    "drtg": 102.8,
+    "net": 24.9,
+    "efg": 75.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Javian Mccollum",
+     "Martin Kříž",
+     "Pauly Paulicap"
+    ],
+    "min": 19.6,
+    "pf": 50,
+    "pa": 46,
+    "pm": 4,
+    "poss": 42.3,
+    "pF": 42.3,
+    "pA": 42.3,
+    "ortg": 118.3,
+    "drtg": 108.8,
+    "net": 9.5,
+    "efg": 62.9,
+    "oefg": 55.9
+   },
+   {
+    "players": [
      "David Böhm",
      "Jaromír Bohačík",
      "Martin Kříž"
     ],
-    "min": 19.4,
-    "pf": 41,
+    "min": 19.5,
+    "pf": 43,
     "pa": 35,
-    "pm": 6,
-    "poss": 39.4,
-    "pF": 39.2,
+    "pm": 8,
+    "poss": 39.8,
+    "pF": 40.1,
     "pA": 39.6,
-    "ortg": 104.6,
+    "ortg": 107.3,
     "drtg": 88.4,
-    "net": 16.2,
+    "net": 18.9,
     "efg": 51.4,
     "oefg": 43.5
    },
    {
     "players": [
+     "Jaromír Bohačík",
      "Martez Brown",
-     "Ronaldo Segu",
-     "Travis Harper Ii"
+     "Patrick Samoura"
     ],
-    "min": 19.1,
-    "pf": 42,
-    "pa": 45,
-    "pm": -3,
-    "poss": 39.2,
-    "pF": 39.5,
-    "pA": 38.9,
-    "ortg": 106.3,
-    "drtg": 115.6,
-    "net": -9.3,
-    "efg": 47.4,
-    "oefg": 55.6
+    "min": 19.4,
+    "pf": 45,
+    "pa": 17,
+    "pm": 28,
+    "poss": 34.1,
+    "pF": 32.8,
+    "pA": 35.4,
+    "ortg": 137.4,
+    "drtg": 48.0,
+    "net": 89.3,
+    "efg": 53.8,
+    "oefg": 26.1
    },
    {
     "players": [
@@ -2833,44 +3174,6 @@
     "net": 22.0,
     "efg": 48.6,
     "oefg": 43.3
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Ronaldo Segu",
-     "Travis Harper Ii"
-    ],
-    "min": 18.9,
-    "pf": 47,
-    "pa": 40,
-    "pm": 7,
-    "poss": 38.1,
-    "pF": 37.1,
-    "pA": 39.2,
-    "ortg": 126.8,
-    "drtg": 102.0,
-    "net": 24.7,
-    "efg": 56.9,
-    "oefg": 44.2
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Martez Brown",
-     "Travis Harper Ii"
-    ],
-    "min": 18.8,
-    "pf": 55,
-    "pa": 39,
-    "pm": 16,
-    "poss": 39.7,
-    "pF": 40.6,
-    "pA": 38.8,
-    "ortg": 135.5,
-    "drtg": 100.4,
-    "net": 35.1,
-    "efg": 77.6,
-    "oefg": 48.5
    },
    {
     "players": [
@@ -2895,6 +3198,25 @@
     "players": [
      "Martez Brown",
      "Martin Kříž",
+     "Patrick Samoura"
+    ],
+    "min": 18.4,
+    "pf": 34,
+    "pa": 39,
+    "pm": -5,
+    "poss": 36.4,
+    "pF": 36.6,
+    "pA": 36.2,
+    "ortg": 92.8,
+    "drtg": 107.7,
+    "net": -14.9,
+    "efg": 37.5,
+    "oefg": 62.1
+   },
+   {
+    "players": [
+     "Martez Brown",
+     "Martin Kříž",
      "Travis Harper Ii"
     ],
     "min": 18.4,
@@ -2912,41 +3234,22 @@
    },
    {
     "players": [
-     "Jaromír Bohačík",
-     "Martin Kříž",
-     "Patrick Samoura"
-    ],
-    "min": 18.4,
-    "pf": 38,
-    "pa": 46,
-    "pm": -8,
-    "poss": 40.6,
-    "pF": 39.1,
-    "pA": 42.0,
-    "ortg": 97.2,
-    "drtg": 109.4,
-    "net": -12.2,
-    "efg": 51.6,
-    "oefg": 48.6
-   },
-   {
-    "players": [
-     "Patrick Samoura",
+     "František Rylich",
      "Ronaldo Segu",
-     "Travis Harper Ii"
+     "Vojtěch Hruban"
     ],
     "min": 18.4,
-    "pf": 50,
-    "pa": 32,
-    "pm": 18,
-    "poss": 36.9,
-    "pF": 37.2,
-    "pA": 36.6,
-    "ortg": 134.6,
-    "drtg": 87.4,
-    "net": 47.1,
-    "efg": 60.0,
-    "oefg": 40.7
+    "pf": 45,
+    "pa": 54,
+    "pm": -9,
+    "poss": 36.7,
+    "pF": 35.1,
+    "pA": 38.3,
+    "ortg": 128.3,
+    "drtg": 140.9,
+    "net": -12.6,
+    "efg": 62.9,
+    "oefg": 69.2
    },
    {
     "players": [
@@ -2988,6 +3291,63 @@
    },
    {
     "players": [
+     "David Böhm",
+     "Patrick Samoura",
+     "Travis Harper Ii"
+    ],
+    "min": 18.2,
+    "pf": 43,
+    "pa": 30,
+    "pm": 13,
+    "poss": 34.9,
+    "pF": 34.6,
+    "pA": 35.3,
+    "ortg": 124.3,
+    "drtg": 85.0,
+    "net": 39.2,
+    "efg": 55.0,
+    "oefg": 37.9
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Javian Mccollum",
+     "Pauly Paulicap"
+    ],
+    "min": 18.2,
+    "pf": 41,
+    "pa": 39,
+    "pm": 2,
+    "poss": 38.0,
+    "pF": 38.5,
+    "pA": 37.4,
+    "ortg": 106.4,
+    "drtg": 104.3,
+    "net": 2.2,
+    "efg": 57.8,
+    "oefg": 58.6
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Martin Kříž",
+     "Pauly Paulicap"
+    ],
+    "min": 18.0,
+    "pf": 42,
+    "pa": 41,
+    "pm": 1,
+    "poss": 37.2,
+    "pF": 37.4,
+    "pA": 37.0,
+    "ortg": 112.3,
+    "drtg": 110.9,
+    "net": 1.4,
+    "efg": 56.2,
+    "oefg": 56.2
+   },
+   {
+    "players": [
      "Martez Brown",
      "Nana Owusu-Anane",
      "Vojtěch Hruban"
@@ -3004,6 +3364,25 @@
     "net": -26.6,
     "efg": 41.4,
     "oefg": 45.3
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Javian Mccollum",
+     "Pauly Paulicap"
+    ],
+    "min": 17.9,
+    "pf": 41,
+    "pa": 44,
+    "pm": -3,
+    "poss": 40.0,
+    "pF": 39.4,
+    "pA": 40.6,
+    "ortg": 104.1,
+    "drtg": 108.4,
+    "net": -4.3,
+    "efg": 58.3,
+    "oefg": 54.8
    },
    {
     "players": [
@@ -3102,41 +3481,22 @@
    },
    {
     "players": [
-     "František Rylich",
-     "Ronaldo Segu",
+     "Jaromír Bohačík",
+     "Travis Harper Ii",
      "Vojtěch Hruban"
     ],
-    "min": 16.5,
-    "pf": 42,
-    "pa": 45,
-    "pm": -3,
-    "poss": 32.2,
-    "pF": 31.1,
-    "pA": 33.4,
-    "ortg": 135.1,
-    "drtg": 134.9,
-    "net": 0.2,
-    "efg": 62.1,
-    "oefg": 66.0
-   },
-   {
-    "players": [
-     "Martin Kříž",
-     "Patrick Samoura",
-     "Vojtěch Hruban"
-    ],
-    "min": 16.3,
-    "pf": 45,
-    "pa": 35,
-    "pm": 10,
-    "poss": 32.3,
-    "pF": 33.0,
-    "pA": 31.6,
-    "ortg": 136.5,
-    "drtg": 110.6,
-    "net": 25.9,
-    "efg": 52.9,
-    "oefg": 68.2
+    "min": 16.2,
+    "pf": 44,
+    "pa": 28,
+    "pm": 16,
+    "poss": 31.3,
+    "pF": 32.3,
+    "pA": 30.4,
+    "ortg": 136.3,
+    "drtg": 92.1,
+    "net": 44.2,
+    "efg": 53.1,
+    "oefg": 45.7
    },
    {
     "players": [
@@ -3156,25 +3516,6 @@
     "net": 38.4,
     "efg": 48.4,
     "oefg": 36.4
-   },
-   {
-    "players": [
-     "David Böhm",
-     "Patrick Samoura",
-     "Travis Harper Ii"
-    ],
-    "min": 15.9,
-    "pf": 41,
-    "pa": 24,
-    "pm": 17,
-    "poss": 31.4,
-    "pF": 31.6,
-    "pA": 31.3,
-    "ortg": 129.7,
-    "drtg": 76.7,
-    "net": 53.0,
-    "efg": 59.6,
-    "oefg": 33.3
    },
    {
     "players": [
@@ -3216,41 +3557,41 @@
    },
    {
     "players": [
-     "Martez Brown",
+     "Martin Kříž",
      "Patrick Samoura",
-     "Ronaldo Segu"
+     "Travis Harper Ii"
     ],
-    "min": 15.4,
-    "pf": 39,
-    "pa": 28,
-    "pm": 11,
-    "poss": 30.0,
-    "pF": 29.4,
-    "pA": 30.5,
-    "ortg": 132.5,
-    "drtg": 91.7,
-    "net": 40.7,
-    "efg": 61.3,
-    "oefg": 50.0
+    "min": 15.2,
+    "pf": 32,
+    "pa": 36,
+    "pm": -4,
+    "poss": 31.5,
+    "pF": 32.0,
+    "pA": 31.0,
+    "ortg": 99.9,
+    "drtg": 116.3,
+    "net": -16.4,
+    "efg": 42.0,
+    "oefg": 53.7
    },
    {
     "players": [
+     "Jaromír Bohačík",
      "Martez Brown",
-     "Martin Kříž",
-     "Patrick Samoura"
+     "Vojtěch Hruban"
     ],
-    "min": 15.3,
-    "pf": 32,
-    "pa": 35,
-    "pm": -3,
-    "poss": 30.9,
-    "pF": 30.6,
-    "pA": 31.2,
-    "ortg": 104.4,
-    "drtg": 112.2,
-    "net": -7.7,
-    "efg": 43.8,
-    "oefg": 66.7
+    "min": 15.2,
+    "pf": 45,
+    "pa": 20,
+    "pm": 25,
+    "poss": 29.9,
+    "pF": 31.5,
+    "pA": 28.3,
+    "ortg": 142.9,
+    "drtg": 70.7,
+    "net": 72.2,
+    "efg": 55.2,
+    "oefg": 34.1
    },
    {
     "players": [
@@ -3368,44 +3709,6 @@
    },
    {
     "players": [
-     "František Rylich",
-     "Jaromír Bohačík",
-     "Pauly Paulicap"
-    ],
-    "min": 14.8,
-    "pf": 40,
-    "pa": 30,
-    "pm": 10,
-    "poss": 31.1,
-    "pF": 31.4,
-    "pA": 30.8,
-    "ortg": 127.4,
-    "drtg": 97.3,
-    "net": 30.1,
-    "efg": 67.3,
-    "oefg": 52.2
-   },
-   {
-    "players": [
-     "Javian Mccollum",
-     "Martin Kříž",
-     "Pauly Paulicap"
-    ],
-    "min": 14.6,
-    "pf": 40,
-    "pa": 32,
-    "pm": 8,
-    "poss": 33.4,
-    "pF": 33.4,
-    "pA": 33.4,
-    "ortg": 119.8,
-    "drtg": 95.8,
-    "net": 24.0,
-    "efg": 67.3,
-    "oefg": 52.0
-   },
-   {
-    "players": [
      "Martin Kříž",
      "Nana Owusu-Anane",
      "Travis Harper Ii"
@@ -3463,6 +3766,25 @@
    },
    {
     "players": [
+     "František Rylich",
+     "Martez Brown",
+     "Vojtěch Hruban"
+    ],
+    "min": 14.4,
+    "pf": 24,
+    "pa": 37,
+    "pm": -13,
+    "poss": 28.2,
+    "pF": 26.0,
+    "pA": 30.5,
+    "ortg": 92.4,
+    "drtg": 121.2,
+    "net": -28.8,
+    "efg": 39.6,
+    "oefg": 59.6
+   },
+   {
+    "players": [
      "David Böhm",
      "Patrick Samoura",
      "Vojtěch Hruban"
@@ -3482,22 +3804,22 @@
    },
    {
     "players": [
-     "František Rylich",
      "Martez Brown",
+     "Patrick Samoura",
      "Vojtěch Hruban"
     ],
-    "min": 14.0,
-    "pf": 24,
-    "pa": 34,
-    "pm": -10,
-    "poss": 27.2,
-    "pF": 25.0,
-    "pA": 29.5,
-    "ortg": 96.2,
-    "drtg": 115.2,
-    "net": -19.0,
-    "efg": 39.6,
-    "oefg": 56.0
+    "min": 13.8,
+    "pf": 34,
+    "pa": 31,
+    "pm": 3,
+    "poss": 27.7,
+    "pF": 25.4,
+    "pA": 30.0,
+    "ortg": 133.9,
+    "drtg": 103.2,
+    "net": 30.7,
+    "efg": 46.4,
+    "oefg": 57.5
    },
    {
     "players": [
@@ -3520,44 +3842,6 @@
    },
    {
     "players": [
-     "Jaromír Bohačík",
-     "Martez Brown",
-     "Patrick Samoura"
-    ],
-    "min": 13.7,
-    "pf": 39,
-    "pa": 12,
-    "pm": 27,
-    "poss": 23.8,
-    "pF": 22.9,
-    "pA": 24.6,
-    "ortg": 170.5,
-    "drtg": 48.7,
-    "net": 121.8,
-    "efg": 74.0,
-    "oefg": 23.5
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Martin Kříž",
-     "Pauly Paulicap"
-    ],
-    "min": 13.6,
-    "pf": 33,
-    "pa": 26,
-    "pm": 7,
-    "poss": 27.1,
-    "pF": 27.5,
-    "pA": 26.6,
-    "ortg": 119.9,
-    "drtg": 97.6,
-    "net": 22.3,
-    "efg": 58.0,
-    "oefg": 57.1
-   },
-   {
-    "players": [
      "Javian Mccollum",
      "Patrick Samoura",
      "Vojtěch Hruban"
@@ -3577,22 +3861,60 @@
    },
    {
     "players": [
-     "Jaromír Bohačík",
+     "František Rylich",
      "Martin Kříž",
-     "Pauly Paulicap"
+     "Travis Harper Ii"
     ],
     "min": 13.5,
-    "pf": 33,
-    "pa": 29,
-    "pm": 4,
-    "poss": 29.2,
-    "pF": 29.4,
-    "pA": 29.0,
-    "ortg": 112.2,
-    "drtg": 100.1,
-    "net": 12.1,
-    "efg": 58.7,
-    "oefg": 52.2
+    "pf": 45,
+    "pa": 32,
+    "pm": 13,
+    "poss": 26.5,
+    "pF": 27.4,
+    "pA": 25.6,
+    "ortg": 164.2,
+    "drtg": 125.0,
+    "net": 39.2,
+    "efg": 90.5,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "David Böhm",
+     "František Rylich",
+     "Martin Kříž"
+    ],
+    "min": 12.5,
+    "pf": 36,
+    "pa": 28,
+    "pm": 8,
+    "poss": 24.4,
+    "pF": 24.6,
+    "pA": 24.1,
+    "ortg": 146.1,
+    "drtg": 116.3,
+    "net": 29.8,
+    "efg": 71.7,
+    "oefg": 63.2
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Martez Brown",
+     "Travis Harper Ii"
+    ],
+    "min": 12.5,
+    "pf": 41,
+    "pa": 17,
+    "pm": 24,
+    "poss": 24.8,
+    "pF": 27.5,
+    "pA": 22.1,
+    "ortg": 149.0,
+    "drtg": 77.0,
+    "net": 72.0,
+    "efg": 58.9,
+    "oefg": 39.3
    },
    {
     "players": [
@@ -3631,25 +3953,6 @@
     "net": 56.8,
     "efg": 81.0,
     "oefg": 45.2
-   },
-   {
-    "players": [
-     "David Böhm",
-     "František Rylich",
-     "Martin Kříž"
-    ],
-    "min": 11.8,
-    "pf": 31,
-    "pa": 26,
-    "pm": 5,
-    "poss": 22.5,
-    "pF": 21.9,
-    "pA": 23.1,
-    "ortg": 141.7,
-    "drtg": 112.7,
-    "net": 29.0,
-    "efg": 68.2,
-    "oefg": 61.1
    },
    {
     "players": [
@@ -3710,44 +4013,6 @@
    },
    {
     "players": [
-     "František Rylich",
-     "Javian Mccollum",
-     "Pauly Paulicap"
-    ],
-    "min": 11.1,
-    "pf": 25,
-    "pa": 20,
-    "pm": 5,
-    "poss": 23.6,
-    "pF": 23.6,
-    "pA": 23.6,
-    "ortg": 105.8,
-    "drtg": 84.6,
-    "net": 21.2,
-    "efg": 57.5,
-    "oefg": 52.9
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
-     "Javian Mccollum",
-     "Pauly Paulicap"
-    ],
-    "min": 11.1,
-    "pf": 25,
-    "pa": 25,
-    "pm": 0,
-    "poss": 26.2,
-    "pF": 25.5,
-    "pA": 26.8,
-    "ortg": 98.0,
-    "drtg": 93.1,
-    "net": 4.8,
-    "efg": 58.3,
-    "oefg": 47.4
-   },
-   {
-    "players": [
      "David Böhm",
      "Jaromír Bohačík",
      "Travis Harper Ii"
@@ -3767,22 +4032,41 @@
    },
    {
     "players": [
-     "Patrick Samoura",
-     "Travis Harper Ii",
+     "Jaromír Bohačík",
+     "Javian Mccollum",
      "Vojtěch Hruban"
     ],
-    "min": 10.9,
-    "pf": 30,
-    "pa": 19,
-    "pm": 11,
-    "poss": 20.6,
-    "pF": 21.3,
-    "pA": 19.9,
-    "ortg": 141.0,
-    "drtg": 95.6,
-    "net": 45.4,
-    "efg": 57.9,
-    "oefg": 50.0
+    "min": 10.6,
+    "pf": 22,
+    "pa": 29,
+    "pm": -7,
+    "poss": 21.5,
+    "pF": 21.5,
+    "pA": 21.5,
+    "ortg": 102.2,
+    "drtg": 134.8,
+    "net": -32.5,
+    "efg": 53.8,
+    "oefg": 63.9
+   },
+   {
+    "players": [
+     "David Böhm",
+     "František Rylich",
+     "Travis Harper Ii"
+    ],
+    "min": 10.2,
+    "pf": 27,
+    "pa": 22,
+    "pm": 5,
+    "poss": 20.0,
+    "pF": 21.5,
+    "pA": 18.5,
+    "ortg": 125.5,
+    "drtg": 118.8,
+    "net": 6.7,
+    "efg": 67.6,
+    "oefg": 55.9
    },
    {
     "players": [
@@ -3809,18 +4093,37 @@
      "Martin Kříž",
      "Ronaldo Segu"
     ],
-    "min": 9.4,
-    "pf": 20,
-    "pa": 22,
-    "pm": -2,
-    "poss": 19.1,
-    "pF": 17.9,
-    "pA": 20.4,
+    "min": 9.9,
+    "pf": 21,
+    "pa": 24,
+    "pm": -3,
+    "poss": 20.0,
+    "pF": 18.8,
+    "pA": 21.3,
     "ortg": 111.9,
-    "drtg": 107.8,
-    "net": 4.0,
+    "drtg": 112.8,
+    "net": -0.8,
     "efg": 64.3,
     "oefg": 46.7
+   },
+   {
+    "players": [
+     "David Böhm",
+     "František Rylich",
+     "Vojtěch Hruban"
+    ],
+    "min": 9.5,
+    "pf": 33,
+    "pa": 23,
+    "pm": 10,
+    "poss": 21.3,
+    "pF": 22.0,
+    "pA": 20.6,
+    "ortg": 150.3,
+    "drtg": 111.4,
+    "net": 38.8,
+    "efg": 54.3,
+    "oefg": 52.9
    },
    {
     "players": [
@@ -3843,6 +4146,25 @@
    },
    {
     "players": [
+     "František Rylich",
+     "Pauly Paulicap",
+     "Ronaldo Segu"
+    ],
+    "min": 9.3,
+    "pf": 25,
+    "pa": 21,
+    "pm": 4,
+    "poss": 17.1,
+    "pF": 16.8,
+    "pA": 17.4,
+    "ortg": 149.2,
+    "drtg": 120.7,
+    "net": 28.5,
+    "efg": 78.6,
+    "oefg": 46.4
+   },
+   {
+    "players": [
      "Thomas Stanko",
      "Travis Harper Ii",
      "Vojtěch Hruban"
@@ -3862,25 +4184,6 @@
    },
    {
     "players": [
-     "David Böhm",
-     "František Rylich",
-     "Vojtěch Hruban"
-    ],
-    "min": 9.1,
-    "pf": 33,
-    "pa": 19,
-    "pm": 14,
-    "poss": 19.7,
-    "pF": 21.0,
-    "pA": 18.4,
-    "ortg": 157.4,
-    "drtg": 103.0,
-    "net": 54.4,
-    "efg": 56.8,
-    "oefg": 52.9
-   },
-   {
-    "players": [
      "František Rylich",
      "Thomas Stanko",
      "Travis Harper Ii"
@@ -3897,25 +4200,6 @@
     "net": 61.3,
     "efg": 90.6,
     "oefg": 53.6
-   },
-   {
-    "players": [
-     "Martin Kříž",
-     "Patrick Samoura",
-     "Travis Harper Ii"
-    ],
-    "min": 9.0,
-    "pf": 19,
-    "pa": 18,
-    "pm": 1,
-    "poss": 19.7,
-    "pF": 20.4,
-    "pA": 19.1,
-    "ortg": 93.1,
-    "drtg": 94.3,
-    "net": -1.2,
-    "efg": 46.2,
-    "oefg": 46.4
    },
    {
     "players": [
@@ -3939,97 +4223,21 @@
    {
     "players": [
      "Jaromír Bohačík",
-     "Travis Harper Ii",
-     "Vojtěch Hruban"
-    ],
-    "min": 8.9,
-    "pf": 21,
-    "pa": 14,
-    "pm": 7,
-    "poss": 18.7,
-    "pF": 19.0,
-    "pA": 18.5,
-    "ortg": 110.8,
-    "drtg": 75.6,
-    "net": 35.2,
-    "efg": 35.0,
-    "oefg": 36.4
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Martin Kříž",
+     "Patrick Samoura",
      "Travis Harper Ii"
-    ],
-    "min": 8.7,
-    "pf": 32,
-    "pa": 22,
-    "pm": 10,
-    "poss": 16.7,
-    "pF": 17.2,
-    "pA": 16.3,
-    "ortg": 186.0,
-    "drtg": 135.1,
-    "net": 50.9,
-    "efg": 96.4,
-    "oefg": 53.6
-   },
-   {
-    "players": [
-     "David Böhm",
-     "František Rylich",
-     "Travis Harper Ii"
-    ],
-    "min": 8.6,
-    "pf": 24,
-    "pa": 17,
-    "pm": 7,
-    "poss": 16.4,
-    "pF": 17.2,
-    "pA": 15.5,
-    "ortg": 139.5,
-    "drtg": 109.5,
-    "net": 30.0,
-    "efg": 66.7,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
-     "Martez Brown",
-     "Vojtěch Hruban"
     ],
     "min": 8.4,
-    "pf": 24,
-    "pa": 14,
-    "pm": 10,
-    "poss": 17.9,
-    "pF": 19.3,
-    "pA": 16.5,
-    "ortg": 124.5,
-    "drtg": 84.7,
-    "net": 39.7,
-    "efg": 39.5,
-    "oefg": 33.3
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
-     "Javian Mccollum",
-     "Vojtěch Hruban"
-    ],
-    "min": 8.3,
-    "pf": 15,
-    "pa": 22,
-    "pm": -7,
-    "poss": 15.7,
-    "pF": 15.6,
-    "pA": 15.8,
-    "ortg": 95.9,
-    "drtg": 139.6,
-    "net": -43.7,
-    "efg": 45.0,
-    "oefg": 63.3
+    "pf": 20,
+    "pa": 19,
+    "pm": 1,
+    "poss": 16.2,
+    "pF": 14.9,
+    "pA": 17.6,
+    "ortg": 134.4,
+    "drtg": 108.0,
+    "net": 26.5,
+    "efg": 55.6,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -4054,39 +4262,20 @@
     "players": [
      "Martez Brown",
      "Patrick Samoura",
-     "Vojtěch Hruban"
-    ],
-    "min": 8.2,
-    "pf": 19,
-    "pa": 26,
-    "pm": -7,
-    "poss": 16.8,
-    "pF": 15.9,
-    "pA": 17.6,
-    "ortg": 119.6,
-    "drtg": 147.4,
-    "net": -27.7,
-    "efg": 44.7,
-    "oefg": 80.8
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
-     "Martez Brown",
      "Travis Harper Ii"
     ],
-    "min": 8.2,
-    "pf": 24,
+    "min": 8.1,
+    "pf": 15,
     "pa": 15,
-    "pm": 9,
-    "poss": 17.6,
-    "pF": 19.2,
-    "pA": 16.1,
-    "ortg": 125.0,
-    "drtg": 93.3,
-    "net": 31.7,
-    "efg": 43.2,
-    "oefg": 50.0
+    "pm": 0,
+    "poss": 15.9,
+    "pF": 15.4,
+    "pA": 16.4,
+    "ortg": 97.4,
+    "drtg": 91.5,
+    "net": 5.9,
+    "efg": 40.0,
+    "oefg": 45.5
    },
    {
     "players": [
@@ -4113,18 +4302,94 @@
      "Ronaldo Segu",
      "Vojtěch Hruban"
     ],
-    "min": 6.9,
-    "pf": 13,
-    "pa": 20,
-    "pm": -7,
-    "poss": 15.4,
-    "pF": 13.9,
-    "pA": 16.8,
-    "ortg": 93.7,
-    "drtg": 118.8,
-    "net": -25.1,
+    "min": 7.8,
+    "pf": 14,
+    "pa": 22,
+    "pm": -8,
+    "poss": 16.7,
+    "pF": 15.8,
+    "pA": 17.7,
+    "ortg": 88.8,
+    "drtg": 124.2,
+    "net": -35.3,
     "efg": 61.1,
     "oefg": 83.3
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Pauly Paulicap",
+     "Ronaldo Segu"
+    ],
+    "min": 7.8,
+    "pf": 25,
+    "pa": 19,
+    "pm": 6,
+    "poss": 15.4,
+    "pF": 15.8,
+    "pA": 15.1,
+    "ortg": 158.6,
+    "drtg": 126.0,
+    "net": 32.6,
+    "efg": 73.3,
+    "oefg": 53.8
+   },
+   {
+    "players": [
+     "Martin Kříž",
+     "Pauly Paulicap",
+     "Ronaldo Segu"
+    ],
+    "min": 7.8,
+    "pf": 20,
+    "pa": 18,
+    "pm": 2,
+    "poss": 13.5,
+    "pF": 12.8,
+    "pA": 14.2,
+    "ortg": 156.7,
+    "drtg": 126.8,
+    "net": 30.0,
+    "efg": 70.8,
+    "oefg": 54.2
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Jaromír Bohačík",
+     "Vojtěch Hruban"
+    ],
+    "min": 7.5,
+    "pf": 15,
+    "pa": 22,
+    "pm": -7,
+    "poss": 15.8,
+    "pF": 15.9,
+    "pA": 15.7,
+    "ortg": 94.5,
+    "drtg": 139.9,
+    "net": -45.5,
+    "efg": 65.0,
+    "oefg": 54.2
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Travis Harper Ii",
+     "Vojtěch Hruban"
+    ],
+    "min": 7.4,
+    "pf": 14,
+    "pa": 14,
+    "pm": 0,
+    "poss": 15.2,
+    "pF": 13.8,
+    "pA": 16.6,
+    "ortg": 101.7,
+    "drtg": 84.3,
+    "net": 17.4,
+    "efg": 54.5,
+    "oefg": 30.0
    },
    {
     "players": [
@@ -4147,60 +4412,79 @@
    },
    {
     "players": [
-     "Jaromír Bohačík",
-     "Patrick Samoura",
-     "Travis Harper Ii"
-    ],
-    "min": 6.7,
-    "pf": 17,
-    "pa": 13,
-    "pm": 4,
-    "poss": 12.8,
-    "pF": 11.9,
-    "pA": 13.7,
-    "ortg": 143.1,
-    "drtg": 94.8,
-    "net": 48.3,
-    "efg": 60.7,
-    "oefg": 40.0
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Travis Harper Ii",
+     "Pauly Paulicap",
+     "Ronaldo Segu",
      "Vojtěch Hruban"
     ],
     "min": 6.7,
-    "pf": 11,
-    "pa": 12,
-    "pm": -1,
+    "pf": 12,
+    "pa": 17,
+    "pm": -5,
     "poss": 13.8,
-    "pF": 12.8,
-    "pA": 14.8,
-    "ortg": 86.2,
-    "drtg": 80.9,
-    "net": 5.3,
-    "efg": 45.0,
-    "oefg": 30.0
+    "pF": 12.9,
+    "pA": 14.6,
+    "ortg": 93.2,
+    "drtg": 116.1,
+    "net": -23.0,
+    "efg": 61.1,
+    "oefg": 65.0
+   },
+   {
+    "players": [
+     "Pauly Paulicap",
+     "Ronaldo Segu",
+     "Travis Harper Ii"
+    ],
+    "min": 6.7,
+    "pf": 11,
+    "pa": 20,
+    "pm": -9,
+    "poss": 12.6,
+    "pF": 11.0,
+    "pA": 14.2,
+    "ortg": 100.0,
+    "drtg": 140.8,
+    "net": -40.8,
+    "efg": 61.1,
+    "oefg": 66.7
    },
    {
     "players": [
      "Jaromír Bohačík",
      "Pauly Paulicap",
-     "Ronaldo Segu"
+     "Vojtěch Hruban"
     ],
-    "min": 6.5,
-    "pf": 22,
-    "pa": 13,
-    "pm": 9,
-    "poss": 13.4,
-    "pF": 13.8,
-    "pA": 13.1,
-    "ortg": 159.9,
-    "drtg": 99.4,
-    "net": 60.5,
-    "efg": 73.1,
-    "oefg": 40.0
+    "min": 6.2,
+    "pf": 15,
+    "pa": 14,
+    "pm": 1,
+    "poss": 13.8,
+    "pF": 13.9,
+    "pA": 13.6,
+    "ortg": 108.1,
+    "drtg": 102.6,
+    "net": 5.4,
+    "efg": 65.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Patrick Samoura",
+     "Vojtěch Hruban"
+    ],
+    "min": 6.0,
+    "pf": 14,
+    "pa": 8,
+    "pm": 6,
+    "poss": 13.1,
+    "pF": 12.8,
+    "pA": 13.5,
+    "ortg": 109.7,
+    "drtg": 59.2,
+    "net": 50.5,
+    "efg": 39.3,
+    "oefg": 31.2
    },
    {
     "players": [
@@ -4224,6 +4508,63 @@
    {
     "players": [
      "Javian Mccollum",
+     "Pauly Paulicap",
+     "Vojtěch Hruban"
+    ],
+    "min": 5.8,
+    "pf": 19,
+    "pa": 12,
+    "pm": 7,
+    "poss": 11.9,
+    "pF": 12.8,
+    "pA": 11.1,
+    "ortg": 148.9,
+    "drtg": 108.3,
+    "net": 40.6,
+    "efg": 80.0,
+    "oefg": 60.0
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Patrick Samoura",
+     "Ronaldo Segu"
+    ],
+    "min": 5.7,
+    "pf": 16,
+    "pa": 10,
+    "pm": 6,
+    "poss": 11.4,
+    "pF": 11.9,
+    "pA": 10.8,
+    "ortg": 134.7,
+    "drtg": 92.3,
+    "net": 42.4,
+    "efg": 50.0,
+    "oefg": 33.3
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Jaromír Bohačík",
+     "Patrick Samoura"
+    ],
+    "min": 5.7,
+    "pf": 20,
+    "pa": 8,
+    "pm": 12,
+    "poss": 12.1,
+    "pF": 12.9,
+    "pA": 11.4,
+    "ortg": 155.3,
+    "drtg": 70.2,
+    "net": 85.1,
+    "efg": 60.0,
+    "oefg": 37.5
+   },
+   {
+    "players": [
+     "Javian Mccollum",
      "Martin Kříž",
      "Thomas Stanko"
     ],
@@ -4239,6 +4580,25 @@
     "net": -45.2,
     "efg": 40.0,
     "oefg": 85.7
+   },
+   {
+    "players": [
+     "David Böhm",
+     "Jaromír Bohačík",
+     "Vojtěch Hruban"
+    ],
+    "min": 5.1,
+    "pf": 15,
+    "pa": 16,
+    "pm": -1,
+    "poss": 11.9,
+    "pF": 10.8,
+    "pA": 13.0,
+    "ortg": 139.4,
+    "drtg": 123.5,
+    "net": 15.9,
+    "efg": 61.1,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -4258,25 +4618,6 @@
     "net": 91.0,
     "efg": 81.8,
     "oefg": 43.8
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Jaromír Bohačík",
-     "Patrick Samoura"
-    ],
-    "min": 5.1,
-    "pf": 20,
-    "pa": 8,
-    "pm": 12,
-    "poss": 11.1,
-    "pF": 11.9,
-    "pA": 10.4,
-    "ortg": 168.4,
-    "drtg": 76.9,
-    "net": 91.4,
-    "efg": 69.2,
-    "oefg": 37.5
    },
    {
     "players": [
@@ -4315,6 +4656,25 @@
     "net": 112.4,
     "efg": 70.0,
     "oefg": 12.5
+   },
+   {
+    "players": [
+     "Martin Kříž",
+     "Pauly Paulicap",
+     "Travis Harper Ii"
+    ],
+    "min": 5.0,
+    "pf": 14,
+    "pa": 12,
+    "pm": 2,
+    "poss": 10.8,
+    "pF": 11.2,
+    "pA": 10.3,
+    "ortg": 125.0,
+    "drtg": 116.3,
+    "net": 8.7,
+    "efg": 78.6,
+    "oefg": 45.0
    }
   ],
   "pairs": [
@@ -4323,18 +4683,54 @@
      "Jaromír Bohačík",
      "Ronaldo Segu"
     ],
-    "min": 130.8,
-    "pf": 322,
+    "min": 147.1,
+    "pf": 358,
+    "pa": 269,
+    "pm": 89,
+    "poss": 281.3,
+    "pF": 283.8,
+    "pA": 278.8,
+    "ortg": 126.1,
+    "drtg": 96.5,
+    "net": 29.6,
+    "efg": 56.3,
+    "oefg": 45.3
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Jaromír Bohačík"
+    ],
+    "min": 109.6,
+    "pf": 277,
+    "pa": 224,
+    "pm": 53,
+    "poss": 213.5,
+    "pF": 215.4,
+    "pA": 211.7,
+    "ortg": 128.6,
+    "drtg": 105.8,
+    "net": 22.8,
+    "efg": 61.8,
+    "oefg": 53.4
+   },
+   {
+    "players": [
+     "Martin Kříž",
+     "Ronaldo Segu"
+    ],
+    "min": 109.5,
+    "pf": 256,
     "pa": 238,
-    "pm": 84,
-    "poss": 251.3,
-    "pF": 253.7,
-    "pA": 248.9,
-    "ortg": 126.9,
-    "drtg": 95.6,
-    "net": 31.3,
-    "efg": 58.1,
-    "oefg": 44.5
+    "pm": 18,
+    "poss": 212.4,
+    "pF": 211.7,
+    "pA": 213.1,
+    "ortg": 120.9,
+    "drtg": 111.7,
+    "net": 9.3,
+    "efg": 54.9,
+    "oefg": 52.5
    },
    {
     "players": [
@@ -4375,146 +4771,218 @@
    {
     "players": [
      "František Rylich",
-     "Jaromír Bohačík"
+     "Ronaldo Segu"
     ],
-    "min": 99.2,
-    "pf": 254,
-    "pa": 193,
-    "pm": 61,
-    "poss": 191.7,
-    "pF": 193.6,
-    "pA": 189.7,
-    "ortg": 131.2,
-    "drtg": 101.7,
-    "net": 29.5,
-    "efg": 64.0,
+    "min": 99.4,
+    "pf": 259,
+    "pa": 212,
+    "pm": 47,
+    "poss": 189.2,
+    "pF": 187.8,
+    "pA": 190.6,
+    "ortg": 137.9,
+    "drtg": 111.2,
+    "net": 26.7,
+    "efg": 62.6,
     "oefg": 51.7
-   },
-   {
-    "players": [
-     "Martin Kříž",
-     "Ronaldo Segu"
-    ],
-    "min": 94.4,
-    "pf": 229,
-    "pa": 202,
-    "pm": 27,
-    "poss": 184.4,
-    "pF": 183.7,
-    "pA": 185.0,
-    "ortg": 124.6,
-    "drtg": 109.2,
-    "net": 15.5,
-    "efg": 58.0,
-    "oefg": 52.6
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Ronaldo Segu"
-    ],
-    "min": 88.9,
-    "pf": 238,
-    "pa": 185,
-    "pm": 53,
-    "poss": 168.0,
-    "pF": 166.6,
-    "pA": 169.4,
-    "ortg": 142.9,
-    "drtg": 109.2,
-    "net": 33.6,
-    "efg": 64.1,
-    "oefg": 51.1
-   },
-   {
-    "players": [
-     "Javian Mccollum",
-     "Martin Kříž"
-    ],
-    "min": 87.5,
-    "pf": 234,
-    "pa": 183,
-    "pm": 51,
-    "poss": 181.7,
-    "pF": 181.5,
-    "pA": 181.9,
-    "ortg": 128.9,
-    "drtg": 100.6,
-    "net": 28.3,
-    "efg": 60.9,
-    "oefg": 48.9
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
-     "Martin Kříž"
-    ],
-    "min": 85.3,
-    "pf": 201,
-    "pa": 177,
-    "pm": 24,
-    "poss": 170.5,
-    "pF": 170.0,
-    "pA": 170.9,
-    "ortg": 118.2,
-    "drtg": 103.6,
-    "net": 14.7,
-    "efg": 56.5,
-    "oefg": 49.3
-   },
-   {
-    "players": [
-     "Javian Mccollum",
-     "Vojtěch Hruban"
-    ],
-    "min": 82.5,
-    "pf": 210,
-    "pa": 151,
-    "pm": 59,
-    "poss": 169.9,
-    "pF": 171.0,
-    "pA": 168.8,
-    "ortg": 122.8,
-    "drtg": 89.5,
-    "net": 33.3,
-    "efg": 54.1,
-    "oefg": 39.7
    },
    {
     "players": [
      "Travis Harper Ii",
      "Vojtěch Hruban"
     ],
-    "min": 81.8,
-    "pf": 201,
-    "pa": 156,
-    "pm": 45,
-    "poss": 170.2,
-    "pF": 171.8,
-    "pA": 168.7,
-    "ortg": 117.0,
-    "drtg": 92.5,
-    "net": 24.6,
-    "efg": 54.0,
-    "oefg": 39.7
+    "min": 97.2,
+    "pf": 247,
+    "pa": 188,
+    "pm": 59,
+    "poss": 199.0,
+    "pF": 200.0,
+    "pA": 197.9,
+    "ortg": 123.5,
+    "drtg": 95.0,
+    "net": 28.5,
+    "efg": 56.2,
+    "oefg": 41.0
+   },
+   {
+    "players": [
+     "Ronaldo Segu",
+     "Travis Harper Ii"
+    ],
+    "min": 97.1,
+    "pf": 236,
+    "pa": 201,
+    "pm": 35,
+    "poss": 194.9,
+    "pF": 193.3,
+    "pA": 196.6,
+    "ortg": 122.1,
+    "drtg": 102.2,
+    "net": 19.9,
+    "efg": 55.1,
+    "oefg": 46.8
+   },
+   {
+    "players": [
+     "Ronaldo Segu",
+     "Vojtěch Hruban"
+    ],
+    "min": 94.8,
+    "pf": 231,
+    "pa": 222,
+    "pm": 9,
+    "poss": 193.0,
+    "pF": 189.0,
+    "pA": 197.0,
+    "ortg": 122.2,
+    "drtg": 112.7,
+    "net": 9.5,
+    "efg": 55.8,
+    "oefg": 54.9
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Martin Kříž"
+    ],
+    "min": 93.7,
+    "pf": 214,
+    "pa": 195,
+    "pm": 19,
+    "poss": 185.4,
+    "pF": 185.9,
+    "pA": 184.9,
+    "ortg": 115.1,
+    "drtg": 105.5,
+    "net": 9.7,
+    "efg": 53.2,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Javian Mccollum",
+     "Martin Kříž"
+    ],
+    "min": 92.5,
+    "pf": 244,
+    "pa": 197,
+    "pm": 47,
+    "poss": 190.6,
+    "pF": 190.4,
+    "pA": 190.8,
+    "ortg": 128.2,
+    "drtg": 103.2,
+    "net": 24.9,
+    "efg": 60.3,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Martez Brown",
+     "Ronaldo Segu"
+    ],
+    "min": 91.2,
+    "pf": 234,
+    "pa": 174,
+    "pm": 60,
+    "poss": 175.1,
+    "pF": 173.6,
+    "pA": 176.6,
+    "ortg": 134.8,
+    "drtg": 98.5,
+    "net": 36.3,
+    "efg": 59.1,
+    "oefg": 50.7
+   },
+   {
+    "players": [
+     "Javian Mccollum",
+     "Vojtěch Hruban"
+    ],
+    "min": 85.6,
+    "pf": 218,
+    "pa": 160,
+    "pm": 58,
+    "poss": 177.1,
+    "pF": 178.8,
+    "pA": 175.4,
+    "ortg": 122.0,
+    "drtg": 91.2,
+    "net": 30.7,
+    "efg": 54.7,
+    "oefg": 40.3
+   },
+   {
+    "players": [
+     "David Böhm",
+     "Ronaldo Segu"
+    ],
+    "min": 82.8,
+    "pf": 203,
+    "pa": 162,
+    "pm": 41,
+    "poss": 165.7,
+    "pF": 169.6,
+    "pA": 161.7,
+    "ortg": 119.7,
+    "drtg": 100.2,
+    "net": 19.5,
+    "efg": 54.5,
+    "oefg": 43.8
    },
    {
     "players": [
      "Martin Kříž",
      "Vojtěch Hruban"
     ],
-    "min": 78.6,
-    "pf": 214,
-    "pa": 170,
+    "min": 82.8,
+    "pf": 224,
+    "pa": 184,
+    "pm": 40,
+    "poss": 167.3,
+    "pF": 167.5,
+    "pA": 167.1,
+    "ortg": 133.7,
+    "drtg": 110.1,
+    "net": 23.6,
+    "efg": 58.1,
+    "oefg": 55.1
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Javian Mccollum"
+    ],
+    "min": 80.4,
+    "pf": 207,
+    "pa": 163,
     "pm": 44,
-    "poss": 158.8,
-    "pF": 159.3,
-    "pA": 158.3,
-    "ortg": 134.3,
-    "drtg": 107.4,
-    "net": 26.9,
-    "efg": 58.9,
-    "oefg": 54.6
+    "poss": 167.6,
+    "pF": 170.0,
+    "pA": 165.2,
+    "ortg": 121.7,
+    "drtg": 98.6,
+    "net": 23.1,
+    "efg": 63.0,
+    "oefg": 52.7
+   },
+   {
+    "players": [
+     "Patrick Samoura",
+     "Ronaldo Segu"
+    ],
+    "min": 79.0,
+    "pf": 180,
+    "pa": 147,
+    "pm": 33,
+    "poss": 157.0,
+    "pF": 155.5,
+    "pA": 158.5,
+    "ortg": 115.8,
+    "drtg": 92.7,
+    "net": 23.0,
+    "efg": 51.4,
+    "oefg": 45.6
    },
    {
     "players": [
@@ -4536,24 +5004,6 @@
    },
    {
     "players": [
-     "David Böhm",
-     "Ronaldo Segu"
-    ],
-    "min": 76.8,
-    "pf": 191,
-    "pa": 144,
-    "pm": 47,
-    "poss": 153.5,
-    "pF": 157.4,
-    "pA": 149.5,
-    "ortg": 121.3,
-    "drtg": 96.3,
-    "net": 25.0,
-    "efg": 55.2,
-    "oefg": 42.1
-   },
-   {
-    "players": [
      "Javian Mccollum",
      "Travis Harper Ii"
     ],
@@ -4572,93 +5022,111 @@
    },
    {
     "players": [
-     "Ronaldo Segu",
-     "Vojtěch Hruban"
+     "František Rylich",
+     "Martin Kříž"
     ],
-    "min": 75.7,
-    "pf": 180,
-    "pa": 180,
-    "pm": 0,
-    "poss": 156.5,
-    "pF": 154.0,
-    "pA": 159.0,
-    "ortg": 116.9,
-    "drtg": 113.2,
-    "net": 3.7,
-    "efg": 54.1,
-    "oefg": 56.0
+    "min": 75.0,
+    "pf": 200,
+    "pa": 162,
+    "pm": 38,
+    "poss": 142.7,
+    "pF": 143.4,
+    "pA": 141.9,
+    "ortg": 139.5,
+    "drtg": 114.1,
+    "net": 25.3,
+    "efg": 63.7,
+    "oefg": 58.3
    },
    {
     "players": [
-     "Martez Brown",
-     "Ronaldo Segu"
+     "Jaromír Bohačík",
+     "Martez Brown"
     ],
-    "min": 74.0,
-    "pf": 195,
-    "pa": 152,
-    "pm": 43,
-    "poss": 143.3,
-    "pF": 141.4,
-    "pA": 145.2,
-    "ortg": 137.9,
-    "drtg": 104.7,
-    "net": 33.3,
-    "efg": 62.2,
-    "oefg": 53.6
-   },
-   {
-    "players": [
-     "Ronaldo Segu",
-     "Travis Harper Ii"
-    ],
-    "min": 73.6,
-    "pf": 177,
-    "pa": 150,
-    "pm": 27,
-    "poss": 151.4,
-    "pF": 150.7,
-    "pA": 152.1,
-    "ortg": 117.5,
-    "drtg": 98.6,
-    "net": 18.9,
-    "efg": 52.6,
+    "min": 74.8,
+    "pf": 208,
+    "pa": 120,
+    "pm": 88,
+    "poss": 139.5,
+    "pF": 141.9,
+    "pA": 137.2,
+    "ortg": 146.6,
+    "drtg": 87.5,
+    "net": 59.1,
+    "efg": 62.7,
     "oefg": 45.6
    },
    {
     "players": [
-     "František Rylich",
-     "Javian Mccollum"
+     "Martin Kříž",
+     "Travis Harper Ii"
     ],
-    "min": 73.3,
-    "pf": 191,
-    "pa": 144,
-    "pm": 47,
-    "poss": 153.3,
-    "pF": 155.2,
-    "pA": 151.5,
-    "ortg": 123.1,
-    "drtg": 95.1,
-    "net": 28.0,
-    "efg": 63.5,
-    "oefg": 51.3
+    "min": 74.5,
+    "pf": 197,
+    "pa": 151,
+    "pm": 46,
+    "poss": 150.8,
+    "pF": 153.2,
+    "pA": 148.4,
+    "ortg": 128.6,
+    "drtg": 101.8,
+    "net": 26.8,
+    "efg": 60.3,
+    "oefg": 44.3
    },
    {
     "players": [
      "David Böhm",
      "Jaromír Bohačík"
     ],
-    "min": 70.2,
-    "pf": 162,
-    "pa": 136,
+    "min": 72.2,
+    "pf": 169,
+    "pa": 143,
     "pm": 26,
-    "poss": 141.7,
-    "pF": 143.0,
-    "pA": 140.4,
-    "ortg": 113.3,
-    "drtg": 96.8,
-    "net": 16.4,
-    "efg": 55.0,
-    "oefg": 45.5
+    "poss": 146.8,
+    "pF": 147.9,
+    "pA": 145.6,
+    "ortg": 114.3,
+    "drtg": 98.2,
+    "net": 16.1,
+    "efg": 54.8,
+    "oefg": 45.7
+   },
+   {
+    "players": [
+     "Jaromír Bohačík",
+     "Javian Mccollum"
+    ],
+    "min": 72.1,
+    "pf": 158,
+    "pa": 165,
+    "pm": -7,
+    "poss": 148.1,
+    "pF": 146.2,
+    "pA": 150.0,
+    "ortg": 108.1,
+    "drtg": 110.0,
+    "net": -1.9,
+    "efg": 55.4,
+    "oefg": 56.5
+   },
+   {
+    "players": [
+     "František Rylich",
+     "Martez Brown"
+    ],
+    "min": 71.8,
+    "pf": 193,
+    "pa": 150,
+    "pm": 43,
+    "poss": 141.4,
+    "pF": 140.3,
+    "pA": 142.4,
+    "ortg": 137.5,
+    "drtg": 105.3,
+    "net": 32.2,
+    "efg": 66.2,
+    "oefg": 54.3
    },
    {
     "players": [
@@ -4677,24 +5145,6 @@
     "net": 6.7,
     "efg": 48.8,
     "oefg": 44.0
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Martez Brown"
-    ],
-    "min": 67.6,
-    "pf": 188,
-    "pa": 139,
-    "pm": 49,
-    "poss": 133.1,
-    "pF": 131.9,
-    "pA": 134.4,
-    "ortg": 142.6,
-    "drtg": 103.4,
-    "net": 39.1,
-    "efg": 69.5,
-    "oefg": 53.3
    },
    {
     "players": [
@@ -4717,92 +5167,20 @@
    {
     "players": [
      "Jaromír Bohačík",
-     "Javian Mccollum"
+     "Patrick Samoura"
     ],
-    "min": 65.3,
-    "pf": 142,
-    "pa": 146,
-    "pm": -4,
-    "poss": 134.3,
-    "pF": 132.3,
-    "pA": 136.2,
-    "ortg": 107.3,
-    "drtg": 107.2,
-    "net": 0.2,
-    "efg": 55.0,
-    "oefg": 55.3
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Martin Kříž"
-    ],
-    "min": 64.8,
-    "pf": 176,
-    "pa": 138,
-    "pm": 38,
-    "poss": 123.5,
-    "pF": 123.3,
-    "pA": 123.6,
-    "ortg": 142.7,
-    "drtg": 111.7,
-    "net": 31.1,
-    "efg": 65.4,
-    "oefg": 58.9
-   },
-   {
-    "players": [
-     "Martin Kříž",
-     "Travis Harper Ii"
-    ],
-    "min": 63.6,
-    "pf": 173,
-    "pa": 123,
-    "pm": 50,
-    "poss": 129.9,
-    "pF": 132.7,
-    "pA": 127.2,
-    "ortg": 130.4,
-    "drtg": 96.7,
-    "net": 33.7,
-    "efg": 61.6,
-    "oefg": 42.1
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
-     "Martez Brown"
-    ],
-    "min": 62.1,
-    "pf": 180,
-    "pa": 105,
-    "pm": 75,
-    "poss": 117.0,
-    "pF": 118.7,
-    "pA": 115.4,
-    "ortg": 151.7,
-    "drtg": 91.0,
-    "net": 60.7,
-    "efg": 66.7,
-    "oefg": 46.5
-   },
-   {
-    "players": [
-     "Patrick Samoura",
-     "Ronaldo Segu"
-    ],
-    "min": 61.6,
-    "pf": 146,
-    "pa": 113,
-    "pm": 33,
-    "poss": 124.1,
-    "pF": 124.6,
-    "pA": 123.5,
-    "ortg": 117.1,
-    "drtg": 91.5,
-    "net": 25.6,
-    "efg": 56.2,
-    "oefg": 45.3
+    "min": 62.2,
+    "pf": 134,
+    "pa": 110,
+    "pm": 24,
+    "poss": 123.7,
+    "pF": 122.1,
+    "pA": 125.2,
+    "ortg": 109.7,
+    "drtg": 87.8,
+    "net": 21.9,
+    "efg": 49.2,
+    "oefg": 44.2
    },
    {
     "players": [
@@ -4821,6 +5199,24 @@
     "net": 25.0,
     "efg": 49.5,
     "oefg": 39.7
+   },
+   {
+    "players": [
+     "Martez Brown",
+     "Travis Harper Ii"
+    ],
+    "min": 61.1,
+    "pf": 150,
+    "pa": 118,
+    "pm": 32,
+    "poss": 125.5,
+    "pF": 127.5,
+    "pA": 123.5,
+    "ortg": 117.7,
+    "drtg": 95.6,
+    "net": 22.1,
+    "efg": 59.8,
+    "oefg": 45.4
    },
    {
     "players": [
@@ -4843,6 +5239,24 @@
    {
     "players": [
      "David Böhm",
+     "Travis Harper Ii"
+    ],
+    "min": 60.7,
+    "pf": 164,
+    "pa": 109,
+    "pm": 55,
+    "poss": 125.3,
+    "pF": 129.4,
+    "pA": 121.2,
+    "ortg": 126.8,
+    "drtg": 89.9,
+    "net": 36.9,
+    "efg": 58.5,
+    "oefg": 37.1
+   },
+   {
+    "players": [
+     "David Böhm",
      "Javian Mccollum"
     ],
     "min": 60.5,
@@ -4857,6 +5271,24 @@
     "net": 37.7,
     "efg": 61.1,
     "oefg": 44.3
+   },
+   {
+    "players": [
+     "Martez Brown",
+     "Vojtěch Hruban"
+    ],
+    "min": 60.0,
+    "pf": 134,
+    "pa": 119,
+    "pm": 15,
+    "poss": 120.8,
+    "pF": 118.6,
+    "pA": 122.9,
+    "ortg": 113.0,
+    "drtg": 96.8,
+    "net": 16.2,
+    "efg": 49.1,
+    "oefg": 46.4
    },
    {
     "players": [
@@ -4878,111 +5310,93 @@
    },
    {
     "players": [
-     "David Böhm",
-     "Travis Harper Ii"
-    ],
-    "min": 56.7,
-    "pf": 159,
-    "pa": 98,
-    "pm": 61,
-    "poss": 118.1,
-    "pF": 122.0,
-    "pA": 114.2,
-    "ortg": 130.3,
-    "drtg": 85.8,
-    "net": 44.5,
-    "efg": 59.4,
-    "oefg": 34.5
-   },
-   {
-    "players": [
-     "Jaromír Bohačík",
+     "Martin Kříž",
      "Patrick Samoura"
     ],
-    "min": 54.8,
-    "pf": 125,
-    "pa": 99,
-    "pm": 26,
-    "poss": 109.9,
-    "pF": 109.2,
-    "pA": 110.6,
-    "ortg": 114.4,
-    "drtg": 89.5,
-    "net": 24.9,
-    "efg": 53.9,
-    "oefg": 44.1
-   },
-   {
-    "players": [
-     "David Böhm",
-     "Vojtěch Hruban"
-    ],
-    "min": 54.7,
-    "pf": 167,
-    "pa": 102,
-    "pm": 65,
-    "poss": 114.9,
-    "pF": 117.9,
-    "pA": 112.0,
-    "ortg": 141.6,
-    "drtg": 91.1,
-    "net": 50.5,
-    "efg": 61.7,
-    "oefg": 41.1
+    "min": 58.4,
+    "pf": 128,
+    "pa": 132,
+    "pm": -4,
+    "poss": 120.4,
+    "pF": 121.1,
+    "pA": 119.6,
+    "ortg": 105.7,
+    "drtg": 110.3,
+    "net": -4.6,
+    "efg": 46.0,
+    "oefg": 54.5
    },
    {
     "players": [
      "Martez Brown",
      "Martin Kříž"
     ],
-    "min": 54.2,
-    "pf": 144,
-    "pa": 105,
-    "pm": 39,
-    "poss": 107.3,
-    "pF": 109.2,
-    "pA": 105.3,
-    "ortg": 131.8,
+    "min": 58.0,
+    "pf": 146,
+    "pa": 111,
+    "pm": 35,
+    "poss": 113.8,
+    "pF": 116.2,
+    "pA": 111.3,
+    "ortg": 125.6,
     "drtg": 99.7,
-    "net": 32.1,
-    "efg": 58.5,
-    "oefg": 52.5
+    "net": 25.9,
+    "efg": 54.1,
+    "oefg": 51.7
    },
    {
     "players": [
      "David Böhm",
      "František Rylich"
     ],
-    "min": 52.6,
-    "pf": 147,
-    "pa": 102,
-    "pm": 45,
-    "poss": 105.6,
-    "pF": 109.3,
-    "pA": 101.8,
-    "ortg": 134.5,
-    "drtg": 100.2,
-    "net": 34.4,
-    "efg": 62.8,
-    "oefg": 47.6
+    "min": 56.2,
+    "pf": 157,
+    "pa": 114,
+    "pm": 43,
+    "poss": 114.3,
+    "pF": 118.5,
+    "pA": 110.0,
+    "ortg": 132.5,
+    "drtg": 103.6,
+    "net": 28.9,
+    "efg": 62.4,
+    "oefg": 48.9
    },
    {
     "players": [
-     "Martez Brown",
-     "Travis Harper Ii"
+     "David Böhm",
+     "Vojtěch Hruban"
     ],
-    "min": 52.2,
-    "pf": 122,
-    "pa": 109,
-    "pm": 13,
-    "poss": 109.0,
-    "pF": 110.1,
-    "pA": 107.8,
-    "ortg": 110.8,
-    "drtg": 101.1,
-    "net": 9.8,
-    "efg": 56.7,
-    "oefg": 48.2
+    "min": 55.1,
+    "pf": 167,
+    "pa": 106,
+    "pm": 61,
+    "poss": 116.5,
+    "pF": 118.9,
+    "pA": 114.2,
+    "ortg": 140.4,
+    "drtg": 92.9,
+    "net": 47.6,
+    "efg": 61.1,
+    "oefg": 41.1
+   },
+   {
+    "players": [
+     "David Böhm",
+     "Martin Kříž"
+    ],
+    "min": 54.7,
+    "pf": 141,
+    "pa": 102,
+    "pm": 39,
+    "poss": 110.4,
+    "pF": 112.2,
+    "pA": 108.6,
+    "ortg": 125.7,
+    "drtg": 93.9,
+    "net": 31.8,
+    "efg": 59.7,
+    "oefg": 45.6
    },
    {
     "players": [
@@ -5005,74 +5419,74 @@
    {
     "players": [
      "David Böhm",
-     "Martin Kříž"
+     "Patrick Samoura"
     ],
-    "min": 51.7,
-    "pf": 134,
-    "pa": 94,
-    "pm": 40,
-    "poss": 105.0,
-    "pF": 106.4,
-    "pA": 103.6,
-    "ortg": 125.9,
-    "drtg": 90.7,
-    "net": 35.2,
-    "efg": 60.2,
-    "oefg": 44.0
+    "min": 49.2,
+    "pf": 115,
+    "pa": 86,
+    "pm": 29,
+    "poss": 99.3,
+    "pF": 100.3,
+    "pA": 98.3,
+    "ortg": 114.7,
+    "drtg": 87.5,
+    "net": 27.2,
+    "efg": 51.8,
+    "oefg": 43.8
    },
    {
     "players": [
-     "Martez Brown",
-     "Vojtěch Hruban"
+     "František Rylich",
+     "Travis Harper Ii"
     ],
-    "min": 49.6,
-    "pf": 102,
-    "pa": 109,
-    "pm": -7,
-    "poss": 101.6,
-    "pF": 99.8,
-    "pA": 103.5,
-    "ortg": 102.2,
-    "drtg": 105.3,
-    "net": -3.0,
-    "efg": 44.7,
+    "min": 48.0,
+    "pf": 126,
+    "pa": 104,
+    "pm": 22,
+    "poss": 98.9,
+    "pF": 99.3,
+    "pA": 98.6,
+    "ortg": 126.9,
+    "drtg": 105.5,
+    "net": 21.3,
+    "efg": 65.9,
     "oefg": 49.4
    },
    {
     "players": [
-     "Martin Kříž",
-     "Patrick Samoura"
+     "Jaromír Bohačík",
+     "Travis Harper Ii"
     ],
-    "min": 49.1,
-    "pf": 113,
-    "pa": 110,
-    "pm": 3,
-    "poss": 103.1,
-    "pF": 103.4,
-    "pA": 102.8,
-    "ortg": 109.2,
-    "drtg": 107.0,
-    "net": 2.2,
-    "efg": 50.0,
-    "oefg": 54.2
+    "min": 47.0,
+    "pf": 112,
+    "pa": 93,
+    "pm": 19,
+    "poss": 93.0,
+    "pF": 92.1,
+    "pA": 93.8,
+    "ortg": 121.6,
+    "drtg": 99.1,
+    "net": 22.4,
+    "efg": 51.1,
+    "oefg": 45.7
    },
    {
     "players": [
-     "David Böhm",
-     "Patrick Samoura"
+     "Patrick Samoura",
+     "Vojtěch Hruban"
     ],
-    "min": 47.0,
-    "pf": 113,
-    "pa": 80,
-    "pm": 33,
-    "poss": 95.8,
-    "pF": 97.3,
-    "pA": 94.3,
-    "ortg": 116.2,
-    "drtg": 84.8,
-    "net": 31.3,
-    "efg": 53.1,
-    "oefg": 42.7
+    "min": 45.1,
+    "pf": 123,
+    "pa": 92,
+    "pm": 31,
+    "poss": 91.7,
+    "pF": 90.7,
+    "pA": 92.7,
+    "ortg": 135.6,
+    "drtg": 99.2,
+    "net": 36.4,
+    "efg": 53.4,
+    "oefg": 51.5
    },
    {
     "players": [
@@ -5094,6 +5508,42 @@
    },
    {
     "players": [
+     "Jaromír Bohačík",
+     "Vojtěch Hruban"
+    ],
+    "min": 43.8,
+    "pf": 105,
+    "pa": 91,
+    "pm": 14,
+    "poss": 87.0,
+    "pF": 88.1,
+    "pA": 85.9,
+    "ortg": 119.2,
+    "drtg": 105.9,
+    "net": 13.3,
+    "efg": 53.4,
+    "oefg": 48.5
+   },
+   {
+    "players": [
+     "Martez Brown",
+     "Patrick Samoura"
+    ],
+    "min": 42.6,
+    "pf": 95,
+    "pa": 70,
+    "pm": 25,
+    "poss": 81.7,
+    "pF": 79.0,
+    "pA": 84.3,
+    "ortg": 120.2,
+    "drtg": 83.0,
+    "net": 37.2,
+    "efg": 49.4,
+    "oefg": 45.0
+   },
+   {
+    "players": [
      "Nana Owusu-Anane",
      "Patrick Samoura"
     ],
@@ -5112,21 +5562,21 @@
    },
    {
     "players": [
-     "František Rylich",
+     "Patrick Samoura",
      "Travis Harper Ii"
     ],
-    "min": 41.4,
-    "pf": 110,
-    "pa": 89,
-    "pm": 21,
-    "poss": 85.6,
-    "pF": 85.7,
-    "pA": 85.5,
-    "ortg": 128.4,
-    "drtg": 104.1,
-    "net": 24.3,
-    "efg": 64.4,
-    "oefg": 49.3
+    "min": 41.3,
+    "pf": 99,
+    "pa": 85,
+    "pm": 14,
+    "poss": 82.3,
+    "pF": 81.8,
+    "pA": 82.8,
+    "ortg": 121.0,
+    "drtg": 102.6,
+    "net": 18.4,
+    "efg": 52.1,
+    "oefg": 47.7
    },
    {
     "players": [
@@ -5148,111 +5598,75 @@
    },
    {
     "players": [
-     "Jaromír Bohačík",
-     "Travis Harper Ii"
+     "František Rylich",
+     "Vojtěch Hruban"
     ],
-    "min": 39.7,
-    "pf": 89,
-    "pa": 79,
-    "pm": 10,
-    "poss": 80.4,
-    "pF": 78.8,
-    "pA": 81.9,
-    "ortg": 112.9,
-    "drtg": 96.4,
-    "net": 16.5,
-    "efg": 46.3,
-    "oefg": 43.9
+    "min": 41.1,
+    "pf": 96,
+    "pa": 94,
+    "pm": 2,
+    "poss": 84.8,
+    "pF": 83.0,
+    "pA": 86.6,
+    "ortg": 115.7,
+    "drtg": 108.5,
+    "net": 7.1,
+    "efg": 51.3,
+    "oefg": 53.2
    },
    {
     "players": [
      "František Rylich",
-     "Vojtěch Hruban"
+     "Pauly Paulicap"
     ],
-    "min": 36.9,
-    "pf": 86,
-    "pa": 78,
+    "min": 27.3,
+    "pf": 68,
+    "pa": 60,
     "pm": 8,
-    "poss": 74.5,
-    "pF": 73.1,
-    "pA": 75.9,
-    "ortg": 117.6,
-    "drtg": 102.8,
-    "net": 14.8,
-    "efg": 49.3,
-    "oefg": 50.8
+    "poss": 55.2,
+    "pF": 55.6,
+    "pA": 54.8,
+    "ortg": 122.3,
+    "drtg": 109.5,
+    "net": 12.8,
+    "efg": 64.1,
+    "oefg": 54.7
    },
    {
     "players": [
-     "Patrick Samoura",
-     "Vojtěch Hruban"
+     "Martin Kříž",
+     "Pauly Paulicap"
     ],
-    "min": 33.8,
-    "pf": 93,
-    "pa": 68,
-    "pm": 25,
-    "poss": 68.8,
-    "pF": 69.9,
-    "pA": 67.7,
-    "ortg": 133.1,
-    "drtg": 100.5,
-    "net": 32.6,
-    "efg": 54.5,
-    "oefg": 54.2
-   },
-   {
-    "players": [
-     "Martez Brown",
-     "Patrick Samoura"
-    ],
-    "min": 33.2,
-    "pf": 78,
-    "pa": 61,
-    "pm": 17,
-    "poss": 64.2,
-    "pF": 62.5,
-    "pA": 65.9,
+    "min": 26.3,
+    "pf": 68,
+    "pa": 60,
+    "pm": 8,
+    "poss": 54.0,
+    "pF": 54.5,
+    "pA": 53.6,
     "ortg": 124.8,
-    "drtg": 92.5,
-    "net": 32.2,
-    "efg": 55.4,
-    "oefg": 50.0
+    "drtg": 111.9,
+    "net": 12.9,
+    "efg": 63.0,
+    "oefg": 54.4
    },
    {
     "players": [
      "Jaromír Bohačík",
-     "Vojtěch Hruban"
+     "Pauly Paulicap"
     ],
-    "min": 31.3,
-    "pf": 71,
-    "pa": 62,
-    "pm": 9,
-    "poss": 62.2,
-    "pF": 64.0,
-    "pA": 60.3,
-    "ortg": 110.9,
-    "drtg": 102.8,
-    "net": 8.2,
-    "efg": 47.2,
-    "oefg": 45.0
-   },
-   {
-    "players": [
-     "Patrick Samoura",
-     "Travis Harper Ii"
-    ],
-    "min": 29.5,
-    "pf": 69,
-    "pa": 56,
-    "pm": 13,
-    "poss": 59.1,
-    "pF": 59.6,
-    "pA": 58.6,
-    "ortg": 115.8,
-    "drtg": 95.6,
-    "net": 20.2,
-    "efg": 54.0,
-    "oefg": 46.4
+    "min": 25.7,
+    "pf": 66,
+    "pa": 63,
+    "pm": 3,
+    "poss": 55.4,
+    "pF": 55.2,
+    "pA": 55.7,
+    "ortg": 119.7,
+    "drtg": 113.1,
+    "net": 6.5,
+    "efg": 63.3,
+    "oefg": 54.5
    },
    {
     "players": [
@@ -5271,6 +5685,24 @@
     "net": 34.0,
     "efg": 62.0,
     "oefg": 50.0
+   },
+   {
+    "players": [
+     "Javian Mccollum",
+     "Pauly Paulicap"
+    ],
+    "min": 22.9,
+    "pf": 59,
+    "pa": 55,
+    "pm": 4,
+    "poss": 49.5,
+    "pF": 50.2,
+    "pA": 48.9,
+    "ortg": 117.6,
+    "drtg": 112.4,
+    "net": 5.2,
+    "efg": 63.8,
+    "oefg": 56.8
    },
    {
     "players": [
@@ -5310,60 +5742,6 @@
    },
    {
     "players": [
-     "Jaromír Bohačík",
-     "Pauly Paulicap"
-    ],
-    "min": 17.6,
-    "pf": 47,
-    "pa": 38,
-    "pm": 9,
-    "poss": 39.6,
-    "pF": 39.3,
-    "pA": 39.9,
-    "ortg": 119.7,
-    "drtg": 95.2,
-    "net": 24.5,
-    "efg": 64.5,
-    "oefg": 44.8
-   },
-   {
-    "players": [
-     "Martin Kříž",
-     "Pauly Paulicap"
-    ],
-    "min": 17.1,
-    "pf": 48,
-    "pa": 38,
-    "pm": 10,
-    "poss": 36.8,
-    "pF": 37.3,
-    "pA": 36.4,
-    "ortg": 128.8,
-    "drtg": 104.4,
-    "net": 24.4,
-    "efg": 66.1,
-    "oefg": 55.2
-   },
-   {
-    "players": [
-     "František Rylich",
-     "Pauly Paulicap"
-    ],
-    "min": 15.6,
-    "pf": 42,
-    "pa": 32,
-    "pm": 10,
-    "poss": 32.1,
-    "pF": 32.4,
-    "pA": 31.8,
-    "ortg": 129.6,
-    "drtg": 100.5,
-    "net": 29.1,
-    "efg": 66.1,
-    "oefg": 54.2
-   },
-   {
-    "players": [
      "František Rylich",
      "Thomas Stanko"
     ],
@@ -5382,37 +5760,37 @@
    },
    {
     "players": [
-     "Javian Mccollum",
-     "Pauly Paulicap"
+     "Pauly Paulicap",
+     "Ronaldo Segu"
     ],
-    "min": 15.4,
-    "pf": 42,
-    "pa": 34,
-    "pm": 8,
-    "poss": 34.3,
-    "pF": 34.4,
-    "pA": 34.3,
-    "ortg": 122.1,
-    "drtg": 99.2,
-    "net": 22.9,
-    "efg": 66.1,
-    "oefg": 52.0
+    "min": 14.7,
+    "pf": 37,
+    "pa": 37,
+    "pm": 0,
+    "poss": 28.9,
+    "pF": 27.6,
+    "pA": 30.2,
+    "ortg": 133.9,
+    "drtg": 122.7,
+    "net": 11.2,
+    "efg": 71.7,
+    "oefg": 56.5
    },
    {
     "players": [
      "Javian Mccollum",
      "Ronaldo Segu"
     ],
-    "min": 12.3,
-    "pf": 25,
-    "pa": 28,
-    "pm": -3,
-    "poss": 26.2,
-    "pF": 23.9,
-    "pA": 28.6,
-    "ortg": 104.7,
-    "drtg": 97.9,
-    "net": 6.8,
+    "min": 13.2,
+    "pf": 26,
+    "pa": 30,
+    "pm": -4,
+    "poss": 27.6,
+    "pF": 25.8,
+    "pA": 29.5,
+    "ortg": 100.9,
+    "drtg": 101.8,
+    "net": -0.8,
     "efg": 63.9,
     "oefg": 44.4
    },
@@ -5439,52 +5817,70 @@
      "František Rylich",
      "Patrick Samoura"
     ],
-    "min": 10.3,
-    "pf": 35,
-    "pa": 20,
-    "pm": 15,
-    "poss": 22.1,
-    "pF": 22.6,
-    "pA": 21.6,
-    "ortg": 154.6,
-    "drtg": 92.6,
-    "net": 62.0,
-    "efg": 65.9,
+    "min": 11.4,
+    "pf": 40,
+    "pa": 21,
+    "pm": 19,
+    "poss": 24.7,
+    "pF": 26.0,
+    "pA": 23.5,
+    "ortg": 154.1,
+    "drtg": 89.4,
+    "net": 64.6,
+    "efg": 64.0,
     "oefg": 45.8
    },
    {
     "players": [
      "Pauly Paulicap",
-     "Ronaldo Segu"
+     "Vojtěch Hruban"
     ],
-    "min": 8.1,
-    "pf": 25,
-    "pa": 20,
-    "pm": 5,
-    "poss": 17.4,
-    "pF": 16.8,
-    "pA": 18.1,
-    "ortg": 149.2,
-    "drtg": 110.6,
-    "net": 38.5,
-    "efg": 73.3,
-    "oefg": 57.7
+    "min": 10.9,
+    "pf": 27,
+    "pa": 25,
+    "pm": 2,
+    "poss": 22.8,
+    "pF": 22.8,
+    "pA": 22.8,
+    "ortg": 118.6,
+    "drtg": 109.5,
+    "net": 9.2,
+    "efg": 66.7,
+    "oefg": 60.7
+   },
+   {
+    "players": [
+     "Pauly Paulicap",
+     "Travis Harper Ii"
+    ],
+    "min": 8.4,
+    "pf": 19,
+    "pa": 26,
+    "pm": -7,
+    "poss": 16.6,
+    "pF": 16.2,
+    "pA": 17.1,
+    "ortg": 117.3,
+    "drtg": 152.2,
+    "net": -34.9,
+    "efg": 66.7,
+    "oefg": 66.7
    },
    {
     "players": [
      "Patrick Samoura",
      "Pauly Paulicap"
     ],
-    "min": 7.2,
-    "pf": 21,
+    "min": 7.3,
+    "pf": 23,
     "pa": 20,
-    "pm": 1,
-    "poss": 17.6,
-    "pF": 17.8,
+    "pm": 3,
+    "poss": 18.3,
+    "pF": 19.1,
     "pA": 17.5,
-    "ortg": 118.2,
+    "ortg": 120.5,
     "drtg": 114.2,
-    "net": 4.1,
+    "net": 6.4,
     "efg": 60.0,
     "oefg": 50.0
    },
@@ -5505,24 +5901,6 @@
     "net": -4.6,
     "efg": 28.1,
     "oefg": 42.3
-   },
-   {
-    "players": [
-     "Pauly Paulicap",
-     "Vojtěch Hruban"
-    ],
-    "min": 6.1,
-    "pf": 16,
-    "pa": 9,
-    "pm": 7,
-    "poss": 13.2,
-    "pF": 13.0,
-    "pA": 13.3,
-    "ortg": 123.1,
-    "drtg": 67.6,
-    "net": 55.5,
-    "efg": 61.5,
-    "oefg": 43.8
    },
    {
     "players": [
@@ -5649,6 +6027,24 @@
     "net": -35.4,
     "efg": 46.2,
     "oefg": 60.0
+   },
+   {
+    "players": [
+     "David Böhm",
+     "Martez Brown"
+    ],
+    "min": 3.1,
+    "pf": 8,
+    "pa": 10,
+    "pm": -2,
+    "poss": 7.4,
+    "pF": 7.9,
+    "pA": 6.9,
+    "ortg": 101.5,
+    "drtg": 145.3,
+    "net": -43.8,
+    "efg": 50.0,
+    "oefg": 66.7
    }
   ]
  },
@@ -5656,20 +6052,26 @@
   {
    "passer": "Ronaldo Segu",
    "scorer": "Martin Kříž",
-   "ast": 11,
-   "pts": 25
+   "ast": 12,
+   "pts": 27
   },
   {
    "passer": "Ronaldo Segu",
    "scorer": "Jaromír Bohačík",
-   "ast": 10,
-   "pts": 28
+   "ast": 11,
+   "pts": 31
   },
   {
    "passer": "Javian Mccollum",
    "scorer": "David Böhm",
    "ast": 9,
    "pts": 18
+  },
+  {
+   "passer": "Ronaldo Segu",
+   "scorer": "Travis Harper Ii",
+   "ast": 7,
+   "pts": 17
   },
   {
    "passer": "Javian Mccollum",
@@ -5679,15 +6081,9 @@
   },
   {
    "passer": "Ronaldo Segu",
-   "scorer": "Travis Harper Ii",
-   "ast": 6,
-   "pts": 16
-  },
-  {
-   "passer": "Ronaldo Segu",
    "scorer": "David Böhm",
-   "ast": 6,
-   "pts": 12
+   "ast": 7,
+   "pts": 13
   },
   {
    "passer": "Jaromír Bohačík",
@@ -5714,6 +6110,12 @@
    "pts": 13
   },
   {
+   "passer": "František Rylich",
+   "scorer": "Jaromír Bohačík",
+   "ast": 5,
+   "pts": 12
+  },
+  {
    "passer": "Vojtěch Hruban",
    "scorer": "Martin Kříž",
    "ast": 5,
@@ -5732,8 +6134,20 @@
    "pts": 11
   },
   {
+   "passer": "Jaromír Bohačík",
+   "scorer": "Ronaldo Segu",
+   "ast": 4,
+   "pts": 11
+  },
+  {
    "passer": "Javian Mccollum",
    "scorer": "Jaromír Bohačík",
+   "ast": 4,
+   "pts": 11
+  },
+  {
+   "passer": "Patrick Samoura",
+   "scorer": "Vojtěch Hruban",
    "ast": 4,
    "pts": 11
   },
@@ -5756,14 +6170,14 @@
    "pts": 9
   },
   {
-   "passer": "Javian Mccollum",
-   "scorer": "Vojtěch Hruban",
+   "passer": "Travis Harper Ii",
+   "scorer": "Ronaldo Segu",
    "ast": 3,
-   "pts": 8
+   "pts": 9
   },
   {
-   "passer": "Jaromír Bohačík",
-   "scorer": "Ronaldo Segu",
+   "passer": "Javian Mccollum",
+   "scorer": "Vojtěch Hruban",
    "ast": 3,
    "pts": 8
   },
@@ -5784,24 +6198,6 @@
    "scorer": "Nana Owusu-Anane",
    "ast": 3,
    "pts": 8
-  },
-  {
-   "passer": "Patrick Samoura",
-   "scorer": "Vojtěch Hruban",
-   "ast": 3,
-   "pts": 8
-  },
-  {
-   "passer": "Vojtěch Hruban",
-   "scorer": "Javian Mccollum",
-   "ast": 3,
-   "pts": 8
-  },
-  {
-   "passer": "František Rylich",
-   "scorer": "Ronaldo Segu",
-   "ast": 3,
-   "pts": 7
   }
  ],
  "log": [
@@ -6720,6 +7116,108 @@
     "last5": [
      11,
      12
+    ]
+   }
+  },
+  {
+   "fibaId": 2932741,
+   "nblId": 544601,
+   "date": "2026-11-01",
+   "round": "10. kolo",
+   "venue": "away",
+   "opponent": "SLUNETA Ústí nad Labem",
+   "opponentSlug": "usti",
+   "opponentLabel": "Ústí",
+   "score": [
+    91,
+    89
+   ],
+   "result": "W",
+   "ot": false,
+   "ortg": 119.0,
+   "drtg": 115.5,
+   "net": 3.6,
+   "pace": 76.8,
+   "efg": 50.7,
+   "tov": 11.6,
+   "orb": 41.9,
+   "ftr": 25.0,
+   "topScorer": "Ronaldo Segu",
+   "oppEfg": 53.1,
+   "oppOrb": 30.0,
+   "tp": [
+    13,
+    36
+   ],
+   "ft": [
+    18,
+    26
+   ],
+   "second": [
+    16,
+    15
+   ],
+   "bench": [
+    68,
+    42
+   ],
+   "paint": [
+    24,
+    30
+   ],
+   "leading": [
+    6.8,
+    29.9
+   ],
+   "leadChanges": 9,
+   "maxLead": [
+    7,
+    13
+   ],
+   "maxRun": [
+    12,
+    9
+   ],
+   "astFg": [
+    [
+     20,
+     30
+    ],
+    [
+     17,
+     29
+    ]
+   ],
+   "quarters": [
+    [
+     23,
+     21
+    ],
+    [
+     24,
+     32
+    ],
+    [
+     16,
+     15
+    ],
+    [
+     28,
+     21
+    ]
+   ],
+   "segments": {
+    "first3": [
+     21,
+     30
+    ],
+    "last3": [
+     38,
+     24
+    ],
+    "last5": [
+     17,
+     8
     ]
    }
   }
@@ -11319,6 +11817,510 @@
     1,
     0,
     8
+   ],
+   [
+    8.8,
+    44.0,
+    0,
+    0,
+    7
+   ],
+   [
+    23.9,
+    91.4,
+    0,
+    1,
+    0
+   ],
+   [
+    7.5,
+    42.5,
+    1,
+    0,
+    3
+   ],
+   [
+    24.4,
+    16.6,
+    1,
+    1,
+    3
+   ],
+   [
+    8.9,
+    62.0,
+    1,
+    0,
+    3
+   ],
+   [
+    19.7,
+    89.9,
+    0,
+    1,
+    0
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    7
+   ],
+   [
+    8.9,
+    95.6,
+    0,
+    1,
+    0
+   ],
+   [
+    13.9,
+    47.9,
+    0,
+    0,
+    13
+   ],
+   [
+    10.0,
+    31.8,
+    0,
+    0,
+    3
+   ],
+   [
+    12.5,
+    27.0,
+    0,
+    0,
+    0
+   ],
+   [
+    28.2,
+    30.7,
+    0,
+    1,
+    3
+   ],
+   [
+    21.4,
+    12.9,
+    1,
+    1,
+    5
+   ],
+   [
+    13.1,
+    57.8,
+    0,
+    0,
+    9
+   ],
+   [
+    17.3,
+    92.5,
+    1,
+    1,
+    5
+   ],
+   [
+    7.5,
+    95.9,
+    1,
+    1,
+    6
+   ],
+   [
+    28.6,
+    29.8,
+    0,
+    1,
+    2
+   ],
+   [
+    24.8,
+    19.7,
+    0,
+    1,
+    6
+   ],
+   [
+    20.8,
+    33.8,
+    1,
+    0,
+    2
+   ],
+   [
+    23.3,
+    18.0,
+    0,
+    1,
+    2
+   ],
+   [
+    5.2,
+    45.7,
+    0,
+    0,
+    7
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    7
+   ],
+   [
+    11.4,
+    50.2,
+    0,
+    0,
+    2
+   ],
+   [
+    25.4,
+    20.2,
+    1,
+    1,
+    6
+   ],
+   [
+    4.7,
+    47.1,
+    1,
+    0,
+    13
+   ],
+   [
+    7.7,
+    57.2,
+    0,
+    0,
+    0
+   ],
+   [
+    32.0,
+    50.7,
+    0,
+    1,
+    2
+   ],
+   [
+    6.6,
+    42.8,
+    0,
+    0,
+    7
+   ],
+   [
+    6.3,
+    58.6,
+    1,
+    0,
+    2
+   ],
+   [
+    30.3,
+    29.0,
+    0,
+    1,
+    6
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    7
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    9
+   ],
+   [
+    6.3,
+    59.5,
+    0,
+    0,
+    2
+   ],
+   [
+    23.7,
+    15.2,
+    1,
+    1,
+    2
+   ],
+   [
+    48.0,
+    6.4,
+    1,
+    1,
+    6
+   ],
+   [
+    22.8,
+    15.4,
+    0,
+    1,
+    7
+   ],
+   [
+    22.2,
+    13.4,
+    0,
+    1,
+    2
+   ],
+   [
+    15.2,
+    91.3,
+    0,
+    1,
+    9
+   ],
+   [
+    24.8,
+    18.8,
+    0,
+    1,
+    7
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    9
+   ],
+   [
+    19.5,
+    10.9,
+    0,
+    1,
+    3
+   ],
+   [
+    20.3,
+    11.2,
+    0,
+    1,
+    2
+   ],
+   [
+    9.4,
+    95.6,
+    0,
+    1,
+    7
+   ],
+   [
+    10.3,
+    55.8,
+    0,
+    0,
+    6
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    9
+   ],
+   [
+    31.5,
+    52.9,
+    1,
+    1,
+    3
+   ],
+   [
+    31.2,
+    54.1,
+    0,
+    1,
+    3
+   ],
+   [
+    19.5,
+    26.7,
+    0,
+    0,
+    2
+   ],
+   [
+    21.9,
+    12.6,
+    0,
+    1,
+    3
+   ],
+   [
+    11.6,
+    40.0,
+    1,
+    0,
+    3
+   ],
+   [
+    18.3,
+    8.3,
+    0,
+    1,
+    0
+   ],
+   [
+    25.0,
+    80.9,
+    0,
+    1,
+    4
+   ],
+   [
+    4.9,
+    3.0,
+    1,
+    1,
+    2
+   ],
+   [
+    7.5,
+    54.1,
+    0,
+    0,
+    2
+   ],
+   [
+    27.9,
+    72.7,
+    1,
+    1,
+    2
+   ],
+   [
+    20.5,
+    88.8,
+    0,
+    1,
+    5
+   ],
+   [
+    16.9,
+    39.4,
+    1,
+    0,
+    5
+   ],
+   [
+    5.6,
+    75.5,
+    1,
+    0,
+    2
+   ],
+   [
+    26.8,
+    22.2,
+    0,
+    1,
+    7
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    13
+   ],
+   [
+    6.9,
+    40.8,
+    1,
+    0,
+    7
+   ],
+   [
+    6.1,
+    2.4,
+    1,
+    1,
+    5
+   ],
+   [
+    26.2,
+    22.2,
+    0,
+    1,
+    6
+   ],
+   [
+    19.2,
+    30.1,
+    1,
+    0,
+    6
+   ],
+   [
+    22.5,
+    78.9,
+    1,
+    0,
+    6
+   ],
+   [
+    7.2,
+    50.1,
+    1,
+    0,
+    10
+   ],
+   [
+    26.5,
+    80.9,
+    1,
+    1,
+    5
+   ],
+   [
+    19.7,
+    31.2,
+    1,
+    0,
+    2
+   ],
+   [
+    23.7,
+    85.7,
+    1,
+    1,
+    2
+   ],
+   [
+    21.2,
+    29.5,
+    0,
+    0,
+    2
+   ],
+   [
+    8.1,
+    56.3,
+    0,
+    0,
+    2
+   ],
+   [
+    6.0,
+    50.0,
+    0,
+    0,
+    9
    ]
   ]
  },
@@ -11326,68 +12328,68 @@
   {
    "name": "Ronaldo Segu",
    "bands": [
-    20,
     23,
+    32,
     28,
-    36,
+    45,
     28
    ],
-   "pts": 135
+   "pts": 156
   },
   {
    "name": "Jaromír Bohačík",
    "bands": [
     27,
-    15,
-    31,
-    22,
+    17,
+    36,
+    27,
     15
    ],
-   "pts": 112
+   "pts": 124
   },
   {
    "name": "Javian Mccollum",
    "bands": [
-    38,
+    40,
     19,
     26,
     13,
     14
    ],
-   "pts": 112
-  },
-  {
-   "name": "Martin Kříž",
-   "bands": [
-    9,
-    42,
-    9,
-    18,
-    12
-   ],
-   "pts": 90
+   "pts": 114
   },
   {
    "name": "Travis Harper Ii",
    "bands": [
     23,
-    17,
-    11,
-    15,
-    20
+    19,
+    22,
+    18,
+    23
    ],
-   "pts": 86
+   "pts": 105
   },
   {
    "name": "Vojtěch Hruban",
    "bands": [
-    21,
-    9,
-    28,
-    11,
+    30,
+    13,
+    31,
+    13,
     10
    ],
-   "pts": 80
+   "pts": 98
+  },
+  {
+   "name": "Martin Kříž",
+   "bands": [
+    9,
+    44,
+    9,
+    18,
+    14
+   ],
+   "pts": 94
   },
   {
    "name": "David Böhm",
@@ -11396,9 +12398,9 @@
     22,
     18,
     15,
-    8
+    10
    ],
-   "pts": 76
+   "pts": 78
   },
   {
    "name": "Nana Owusu-Anane",
@@ -11426,34 +12428,34 @@
    "name": "Martez Brown",
    "bands": [
     11,
-    7,
+    9,
     16,
     11,
     8
    ],
-   "pts": 53
+   "pts": 55
   },
   {
    "name": "Patrick Samoura",
    "bands": [
     5,
     1,
-    2,
-    6,
-    4
+    5,
+    7,
+    6
    ],
-   "pts": 18
+   "pts": 24
   },
   {
    "name": "Pauly Paulicap",
    "bands": [
     0,
-    1,
-    5,
+    3,
+    6,
     2,
-    4
+    6
    ],
-   "pts": 12
+   "pts": 17
   },
   {
    "name": "Thomas Stanko",
@@ -11469,16 +12471,16 @@
  ],
  "segments": {
   "first3": [
-   261,
-   205
+   282,
+   235
   ],
   "last3": [
-   283,
-   225
+   321,
+   249
   ],
   "last5": [
-   90,
-   79
+   107,
+   87
   ]
  },
  "ranks": {
@@ -11492,7 +12494,7 @@
   "efg": 2,
   "ts": 2,
   "tov": 1,
-  "orb": 6,
+  "orb": 4,
   "drb": 1,
   "ftr": 8,
   "three_par": 3,
@@ -11503,8 +12505,8 @@
   "ast_to": 1,
   "stl_pct": 3,
   "blk_pct": 6,
-  "opp_efg": 3,
-  "opp_tov": 3,
+  "opp_efg": 4,
+  "opp_tov": 4,
   "opp_ftr": 12,
   "opp_three": 3,
   "of": 12
@@ -11515,21 +12517,21 @@
   "name": "SK Slavia Praha ERA NBK",
   "label": "Slavia",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7aa188dfbe3d731fb1199e1c55a72312S1.png",
-  "gp": 9,
-  "w": 8,
+  "gp": 10,
+  "w": 9,
   "l": 1,
-  "pct": 0.889,
-  "pf": 893,
-  "pa": 722,
-  "diff": 171,
-  "ppg": 99.2,
-  "oppg": 80.2,
+  "pct": 0.9,
+  "pf": 984,
+  "pa": 811,
+  "diff": 173,
+  "ppg": 98.4,
+  "oppg": 81.1,
   "home": "3-0",
-  "away": "5-1",
-  "close": "0-0",
+  "away": "6-1",
+  "close": "1-0",
   "ot": 0,
-  "streak": "W2",
-  "last5": "WWLWW"
+  "streak": "W3",
+  "last5": "WLWWW"
  },
  "players": [
   {
@@ -11540,93 +12542,93 @@
    "teamLabel": "Slavia",
    "shirt": "10",
    "pos": "",
-   "gp": 9,
+   "gp": 10,
    "gs": 6,
-   "min": 202.9,
+   "min": 236.0,
    "totals": {
-    "pts": 135,
-    "fgm": 53,
-    "fga": 105,
-    "tpm": 17,
-    "tpa": 51,
-    "twopm": 36,
-    "twopa": 54,
-    "ftm": 12,
-    "fta": 18,
-    "oreb": 8,
-    "dreb": 23,
-    "reb": 31,
-    "ast": 46,
-    "to": 16,
+    "pts": 156,
+    "fgm": 61,
+    "fga": 124,
+    "tpm": 21,
+    "tpa": 60,
+    "twopm": 40,
+    "twopa": 64,
+    "ftm": 13,
+    "fta": 21,
+    "oreb": 9,
+    "dreb": 27,
+    "reb": 36,
+    "ast": 51,
+    "to": 18,
     "stl": 7,
     "blk": 0,
-    "blkr": 3,
-    "pf": 17,
-    "foulon": 19,
-    "pm": 84,
-    "paint": 52,
-    "fast": 14,
+    "blkr": 4,
+    "pf": 19,
+    "foulon": 23,
+    "pm": 87,
+    "paint": 54,
+    "fast": 20,
     "second": 17
    },
    "perGame": {
-    "pts": 15.0,
-    "fgm": 5.9,
-    "fga": 11.7,
-    "tpm": 1.9,
-    "tpa": 5.7,
+    "pts": 15.6,
+    "fgm": 6.1,
+    "fga": 12.4,
+    "tpm": 2.1,
+    "tpa": 6.0,
     "twopm": 4.0,
-    "twopa": 6.0,
+    "twopa": 6.4,
     "ftm": 1.3,
-    "fta": 2.0,
+    "fta": 2.1,
     "oreb": 0.9,
-    "dreb": 2.6,
-    "reb": 3.4,
+    "dreb": 2.7,
+    "reb": 3.6,
     "ast": 5.1,
     "to": 1.8,
-    "stl": 0.8,
+    "stl": 0.7,
     "blk": 0.0,
-    "blkr": 0.3,
+    "blkr": 0.4,
     "pf": 1.9,
-    "foulon": 2.1,
-    "pm": 9.3,
-    "paint": 5.8,
-    "fast": 1.6,
-    "second": 1.9,
-    "min": 22.5,
+    "foulon": 2.3,
+    "pm": 8.7,
+    "paint": 5.4,
+    "fast": 2.0,
+    "second": 1.7,
+    "min": 23.6,
     "eff": 16.1,
-    "gmsc": 12.1
+    "gmsc": 12.2
    },
    "per40": {
-    "pts": 26.6,
+    "pts": 26.4,
     "reb": 6.1,
-    "ast": 9.1,
-    "stl": 1.4,
+    "ast": 8.6,
+    "stl": 1.2,
     "blk": 0.0,
-    "to": 3.2
+    "to": 3.1
    },
-   "ts": 59.8,
-   "efg": 58.6,
-   "fg": 50.5,
-   "two": 66.7,
-   "three": 33.3,
-   "ft": 66.7,
-   "usg": 27.0,
-   "astTo": 2.88,
-   "pm": 84,
-   "pm40": 16.6,
+   "ts": 58.5,
+   "efg": 57.7,
+   "fg": 49.2,
+   "two": 62.5,
+   "three": 35.0,
+   "ft": 61.9,
+   "usg": 27.3,
+   "astTo": 2.83,
+   "pm": 87,
+   "pm40": 14.7,
    "on": {
-    "min": 202.8,
-    "pf": 497,
-    "pa": 413,
-    "ortg": 124.8,
-    "drtg": 102.9,
-    "net": 22.0
+    "min": 235.9,
+    "pf": 570,
+    "pa": 483,
+    "ortg": 124.1,
+    "drtg": 103.9,
+    "net": 20.2
    },
    "off": {
-    "min": 157.2,
-    "ortg": 120.0,
-    "drtg": 96.1,
-    "net": 23.9
+    "min": 164.1,
+    "ortg": 119.9,
+    "drtg": 97.8,
+    "net": 22.1
    },
    "onOff": -1.9,
    "dd": 1,
@@ -11634,24 +12636,24 @@
    "high": 26,
    "zones": {
     "paint": {
-     "m": 28,
-     "a": 34,
-     "pct": 82.4
+     "m": 30,
+     "a": 40,
+     "pct": 75.0
     },
     "mid": {
-     "m": 8,
-     "a": 20,
-     "pct": 40.0
+     "m": 10,
+     "a": 24,
+     "pct": 41.7
     },
     "corner3": {
-     "m": 2,
-     "a": 6,
-     "pct": 33.3
+     "m": 3,
+     "a": 7,
+     "pct": 42.9
     },
     "above3": {
-     "m": 15,
-     "a": 45,
-     "pct": 33.3
+     "m": 18,
+     "a": 53,
+     "pct": 34.0
     }
    },
    "log": [
@@ -11834,6 +12836,26 @@
      "pm": 13,
      "eff": 17,
      "ts": 75.0
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 33.1,
+     "pts": 21,
+     "reb": 5,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "8/19",
+     "tp": "4/9",
+     "ft": "1/3",
+     "pm": 3,
+     "eff": 16,
+     "ts": 51.7
     }
    ]
   },
@@ -11845,103 +12867,103 @@
    "teamLabel": "Slavia",
    "shirt": "17",
    "pos": "",
-   "gp": 9,
-   "gs": 9,
-   "min": 192.2,
+   "gp": 10,
+   "gs": 10,
+   "min": 215.1,
    "totals": {
-    "pts": 112,
-    "fgm": 37,
-    "fga": 78,
-    "tpm": 23,
-    "tpa": 55,
-    "twopm": 14,
-    "twopa": 23,
+    "pts": 124,
+    "fgm": 42,
+    "fga": 88,
+    "tpm": 25,
+    "tpa": 61,
+    "twopm": 17,
+    "twopa": 27,
     "ftm": 15,
     "fta": 20,
-    "oreb": 4,
-    "dreb": 23,
-    "reb": 27,
-    "ast": 24,
-    "to": 15,
+    "oreb": 5,
+    "dreb": 25,
+    "reb": 30,
+    "ast": 29,
+    "to": 16,
     "stl": 12,
     "blk": 0,
     "blkr": 1,
-    "pf": 23,
+    "pf": 26,
     "foulon": 19,
-    "pm": 86,
-    "paint": 24,
+    "pm": 88,
+    "paint": 30,
     "fast": 15,
-    "second": 21
+    "second": 23
    },
    "perGame": {
     "pts": 12.4,
-    "fgm": 4.1,
-    "fga": 8.7,
-    "tpm": 2.6,
+    "fgm": 4.2,
+    "fga": 8.8,
+    "tpm": 2.5,
     "tpa": 6.1,
-    "twopm": 1.6,
-    "twopa": 2.6,
-    "ftm": 1.7,
-    "fta": 2.2,
-    "oreb": 0.4,
-    "dreb": 2.6,
+    "twopm": 1.7,
+    "twopa": 2.7,
+    "ftm": 1.5,
+    "fta": 2.0,
+    "oreb": 0.5,
+    "dreb": 2.5,
     "reb": 3.0,
-    "ast": 2.7,
-    "to": 1.7,
-    "stl": 1.3,
+    "ast": 2.9,
+    "to": 1.6,
+    "stl": 1.2,
     "blk": 0.0,
     "blkr": 0.1,
     "pf": 2.6,
-    "foulon": 2.1,
-    "pm": 9.6,
-    "paint": 2.7,
-    "fast": 1.7,
+    "foulon": 1.9,
+    "pm": 8.8,
+    "paint": 3.0,
+    "fast": 1.5,
     "second": 2.3,
-    "min": 21.4,
-    "eff": 12.7,
+    "min": 21.5,
+    "eff": 12.8,
     "gmsc": 9.4
    },
    "per40": {
-    "pts": 23.3,
+    "pts": 23.1,
     "reb": 5.6,
-    "ast": 5.0,
-    "stl": 2.5,
+    "ast": 5.4,
+    "stl": 2.2,
     "blk": 0.0,
-    "to": 3.1
+    "to": 3.0
    },
-   "ts": 64.5,
-   "efg": 62.2,
-   "fg": 47.4,
-   "two": 60.9,
-   "three": 41.8,
+   "ts": 64.0,
+   "efg": 61.9,
+   "fg": 47.7,
+   "two": 63.0,
+   "three": 41.0,
    "ft": 75.0,
-   "usg": 22.5,
-   "astTo": 1.6,
-   "pm": 86,
-   "pm40": 17.9,
+   "usg": 22.3,
+   "astTo": 1.81,
+   "pm": 88,
+   "pm40": 16.4,
    "on": {
-    "min": 192.2,
-    "pf": 459,
-    "pa": 373,
-    "ortg": 121.4,
-    "drtg": 99.4,
-    "net": 22.1
+    "min": 215.1,
+    "pf": 511,
+    "pa": 423,
+    "ortg": 121.1,
+    "drtg": 101.0,
+    "net": 20.1
    },
    "off": {
-    "min": 167.8,
-    "ortg": 123.9,
-    "drtg": 100.4,
-    "net": 23.5
+    "min": 184.9,
+    "ortg": 123.6,
+    "drtg": 101.8,
+    "net": 21.8
    },
-   "onOff": -1.4,
+   "onOff": -1.7,
    "dd": 0,
    "td": 0,
    "high": 20,
    "zones": {
     "paint": {
-     "m": 14,
-     "a": 22,
-     "pct": 63.6
+     "m": 17,
+     "a": 26,
+     "pct": 65.4
     },
     "mid": {
      "m": 0,
@@ -11954,9 +12976,9 @@
      "pct": 53.3
     },
     "above3": {
-     "m": 15,
-     "a": 40,
-     "pct": 37.5
+     "m": 17,
+     "a": 46,
+     "pct": 37.0
     }
    },
    "log": [
@@ -12139,6 +13161,26 @@
      "pm": 19,
      "eff": 12,
      "ts": 72.2
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 22.9,
+     "pts": 12,
+     "reb": 3,
+     "ast": 5,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "5/10",
+     "tp": "2/6",
+     "ft": "0/0",
+     "pm": 2,
+     "eff": 14,
+     "ts": 60.0
     }
    ]
   },
@@ -12150,95 +13192,95 @@
    "teamLabel": "Slavia",
    "shirt": "0",
    "pos": "",
-   "gp": 9,
-   "gs": 3,
-   "min": 167.7,
+   "gp": 10,
+   "gs": 4,
+   "min": 175.3,
    "totals": {
-    "pts": 112,
+    "pts": 114,
     "fgm": 34,
     "fga": 80,
     "tpm": 14,
     "tpa": 39,
     "twopm": 20,
     "twopa": 41,
-    "ftm": 30,
-    "fta": 33,
+    "ftm": 32,
+    "fta": 35,
     "oreb": 6,
-    "dreb": 15,
-    "reb": 21,
+    "dreb": 16,
+    "reb": 22,
     "ast": 40,
-    "to": 7,
-    "stl": 10,
+    "to": 9,
+    "stl": 11,
     "blk": 0,
     "blkr": 5,
-    "pf": 13,
-    "foulon": 29,
-    "pm": 84,
+    "pf": 15,
+    "foulon": 30,
+    "pm": 80,
     "paint": 30,
-    "fast": 31,
+    "fast": 33,
     "second": 16
    },
    "perGame": {
-    "pts": 12.4,
-    "fgm": 3.8,
-    "fga": 8.9,
-    "tpm": 1.6,
-    "tpa": 4.3,
-    "twopm": 2.2,
-    "twopa": 4.6,
-    "ftm": 3.3,
-    "fta": 3.7,
-    "oreb": 0.7,
-    "dreb": 1.7,
-    "reb": 2.3,
-    "ast": 4.4,
-    "to": 0.8,
+    "pts": 11.4,
+    "fgm": 3.4,
+    "fga": 8.0,
+    "tpm": 1.4,
+    "tpa": 3.9,
+    "twopm": 2.0,
+    "twopa": 4.1,
+    "ftm": 3.2,
+    "fta": 3.5,
+    "oreb": 0.6,
+    "dreb": 1.6,
+    "reb": 2.2,
+    "ast": 4.0,
+    "to": 0.9,
     "stl": 1.1,
     "blk": 0.0,
-    "blkr": 0.6,
-    "pf": 1.4,
-    "foulon": 3.2,
-    "pm": 9.3,
-    "paint": 3.3,
-    "fast": 3.4,
-    "second": 1.8,
-    "min": 18.6,
-    "eff": 14.1,
-    "gmsc": 11.4
+    "blkr": 0.5,
+    "pf": 1.5,
+    "foulon": 3.0,
+    "pm": 8.0,
+    "paint": 3.0,
+    "fast": 3.3,
+    "second": 1.6,
+    "min": 17.5,
+    "eff": 12.9,
+    "gmsc": 10.3
    },
    "per40": {
-    "pts": 26.7,
+    "pts": 26.0,
     "reb": 5.0,
-    "ast": 9.5,
-    "stl": 2.4,
+    "ast": 9.1,
+    "stl": 2.5,
     "blk": 0.0,
-    "to": 1.7
+    "to": 2.1
    },
-   "ts": 59.2,
+   "ts": 59.7,
    "efg": 51.2,
    "fg": 42.5,
    "two": 48.8,
    "three": 35.9,
-   "ft": 90.9,
-   "usg": 25.8,
-   "astTo": 5.71,
-   "pm": 84,
-   "pm40": 20.0,
+   "ft": 91.4,
+   "usg": 25.3,
+   "astTo": 4.44,
+   "pm": 80,
+   "pm40": 18.3,
    "on": {
-    "min": 167.8,
-    "pf": 417,
-    "pa": 333,
-    "ortg": 119.1,
-    "drtg": 95.9,
-    "net": 23.2
+    "min": 175.3,
+    "pf": 434,
+    "pa": 354,
+    "ortg": 118.6,
+    "drtg": 97.8,
+    "net": 20.8
    },
    "off": {
-    "min": 192.2,
-    "ortg": 125.9,
-    "drtg": 103.5,
-    "net": 22.4
+    "min": 224.7,
+    "ortg": 125.3,
+    "drtg": 104.3,
+    "net": 21.1
    },
-   "onOff": 0.8,
+   "onOff": -0.3,
    "dd": 0,
    "td": 0,
    "high": 22,
@@ -12444,311 +13486,26 @@
      "pm": 14,
      "eff": 29,
      "ts": 93.5
-    }
-   ]
-  },
-  {
-   "id": "slavia/martin-kriz",
-   "name": "Martin Kříž",
-   "team": "slavia",
-   "teamName": "SK Slavia Praha ERA NBK",
-   "teamLabel": "Slavia",
-   "shirt": "31",
-   "pos": "",
-   "gp": 9,
-   "gs": 2,
-   "min": 174.3,
-   "totals": {
-    "pts": 90,
-    "fgm": 34,
-    "fga": 63,
-    "tpm": 12,
-    "tpa": 30,
-    "twopm": 22,
-    "twopa": 33,
-    "ftm": 10,
-    "fta": 20,
-    "oreb": 11,
-    "dreb": 17,
-    "reb": 28,
-    "ast": 12,
-    "to": 8,
-    "stl": 8,
-    "blk": 0,
-    "blkr": 0,
-    "pf": 19,
-    "foulon": 17,
-    "pm": 80,
-    "paint": 40,
-    "fast": 18,
-    "second": 8
-   },
-   "perGame": {
-    "pts": 10.0,
-    "fgm": 3.8,
-    "fga": 7.0,
-    "tpm": 1.3,
-    "tpa": 3.3,
-    "twopm": 2.4,
-    "twopa": 3.7,
-    "ftm": 1.1,
-    "fta": 2.2,
-    "oreb": 1.2,
-    "dreb": 1.9,
-    "reb": 3.1,
-    "ast": 1.3,
-    "to": 0.9,
-    "stl": 0.9,
-    "blk": 0.0,
-    "blkr": 0.0,
-    "pf": 2.1,
-    "foulon": 1.9,
-    "pm": 8.9,
-    "paint": 4.4,
-    "fast": 2.0,
-    "second": 0.9,
-    "min": 19.4,
-    "eff": 10.1,
-    "gmsc": 7.7
-   },
-   "per40": {
-    "pts": 20.7,
-    "reb": 6.4,
-    "ast": 2.8,
-    "stl": 1.8,
-    "blk": 0.0,
-    "to": 1.8
-   },
-   "ts": 62.7,
-   "efg": 63.5,
-   "fg": 54.0,
-   "two": 66.7,
-   "three": 40.0,
-   "ft": 50.0,
-   "usg": 19.5,
-   "astTo": 1.5,
-   "pm": 80,
-   "pm40": 18.4,
-   "on": {
-    "min": 174.3,
-    "pf": 447,
-    "pa": 367,
-    "ortg": 127.3,
-    "drtg": 105.0,
-    "net": 22.3
-   },
-   "off": {
-    "min": 185.7,
-    "ortg": 118.3,
-    "drtg": 95.0,
-    "net": 23.3
-   },
-   "onOff": -1.0,
-   "dd": 0,
-   "td": 0,
-   "high": 19,
-   "zones": {
-    "paint": {
-     "m": 21,
-     "a": 31,
-     "pct": 67.7
     },
-    "mid": {
-     "m": 1,
-     "a": 2,
-     "pct": 50.0
-    },
-    "corner3": {
-     "m": 3,
-     "a": 7,
-     "pct": 42.9
-    },
-    "above3": {
-     "m": 9,
-     "a": 23,
-     "pct": 39.1
-    }
-   },
-   "log": [
     {
-     "fibaId": 2890469,
-     "date": "2026-09-19",
-     "opponent": "USK",
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
      "venue": "away",
      "result": "W",
-     "min": 24.5,
-     "pts": 5,
-     "reb": 5,
-     "ast": 2,
-     "stl": 1,
-     "blk": 0,
-     "to": 2,
-     "fg": "1/8",
-     "tp": "0/5",
-     "ft": "3/5",
-     "pm": 8,
-     "eff": 2,
-     "ts": 24.5
-    },
-    {
-     "fibaId": 2890476,
-     "date": "2026-09-23",
-     "opponent": "Opava",
-     "venue": "home",
-     "result": "W",
-     "min": 15.6,
-     "pts": 12,
-     "reb": 4,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "5/6",
-     "tp": "0/1",
-     "ft": "2/3",
-     "pm": 11,
-     "eff": 14,
-     "ts": 82.0
-    },
-    {
-     "fibaId": 2890482,
-     "date": "2026-09-26",
-     "opponent": "Brno",
-     "venue": "away",
-     "result": "W",
-     "min": 26.1,
-     "pts": 19,
-     "reb": 2,
-     "ast": 1,
-     "stl": 2,
-     "blk": 0,
-     "to": 0,
-     "fg": "6/9",
-     "tp": "4/5",
-     "ft": "3/4",
-     "pm": 3,
-     "eff": 20,
-     "ts": 88.3
-    },
-    {
-     "fibaId": 2892254,
-     "date": "2026-09-30",
-     "opponent": "Olomoucko",
-     "venue": "home",
-     "result": "W",
-     "min": 18.2,
-     "pts": 10,
-     "reb": 4,
-     "ast": 1,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "4/6",
-     "tp": "2/3",
-     "ft": "0/0",
-     "pm": 18,
-     "eff": 14,
-     "ts": 83.3
-    },
-    {
-     "fibaId": 2893125,
-     "date": "2026-10-03",
-     "opponent": "Hradec",
-     "venue": "away",
-     "result": "W",
-     "min": 21.2,
-     "pts": 15,
-     "reb": 3,
-     "ast": 1,
-     "stl": 1,
-     "blk": 0,
-     "to": 2,
-     "fg": "6/9",
-     "tp": "3/4",
-     "ft": "0/0",
-     "pm": 16,
-     "eff": 15,
-     "ts": 83.3
-    },
-    {
-     "fibaId": 2899969,
-     "date": "2026-10-10",
-     "opponent": "Pardubice",
-     "venue": "home",
-     "result": "W",
-     "min": 11.6,
-     "pts": 6,
-     "reb": 5,
-     "ast": 3,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "3/6",
-     "tp": "0/2",
-     "ft": "0/0",
-     "pm": 23,
-     "eff": 12,
-     "ts": 50.0
-    },
-    {
-     "fibaId": 2910251,
-     "date": "2026-10-17",
-     "opponent": "Ostrava",
-     "venue": "away",
-     "result": "L",
-     "min": 21.1,
-     "pts": 4,
-     "reb": 2,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "2/7",
-     "tp": "0/4",
-     "ft": "0/2",
-     "pm": -9,
-     "eff": -3,
-     "ts": 25.4
-    },
-    {
-     "fibaId": 2921929,
-     "date": "2026-10-23",
-     "opponent": "Písek",
-     "venue": "away",
-     "result": "W",
-     "min": 19.4,
-     "pts": 14,
-     "reb": 2,
-     "ast": 2,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "5/6",
-     "tp": "2/2",
-     "ft": "2/6",
-     "pm": 2,
-     "eff": 14,
-     "ts": 81.0
-    },
-    {
-     "fibaId": 2931311,
-     "date": "2026-10-30",
-     "opponent": "Opava",
-     "venue": "away",
-     "result": "W",
-     "min": 16.6,
-     "pts": 5,
+     "min": 7.6,
+     "pts": 2,
      "reb": 1,
-     "ast": 1,
+     "ast": 0,
      "stl": 1,
      "blk": 0,
-     "to": 1,
-     "fg": "2/6",
-     "tp": "1/4",
-     "ft": "0/0",
-     "pm": 8,
-     "eff": 3,
-     "ts": 41.7
+     "to": 2,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "2/2",
+     "pm": -4,
+     "eff": 2,
+     "ts": 113.6
     }
    ]
   },
@@ -12760,103 +13517,103 @@
    "teamLabel": "Slavia",
    "shirt": "2",
    "pos": "",
-   "gp": 9,
+   "gp": 10,
    "gs": 0,
-   "min": 148.9,
+   "min": 172.5,
    "totals": {
-    "pts": 86,
-    "fgm": 32,
-    "fga": 64,
-    "tpm": 13,
-    "tpa": 34,
-    "twopm": 19,
-    "twopa": 30,
-    "ftm": 9,
-    "fta": 16,
+    "pts": 105,
+    "fgm": 37,
+    "fga": 70,
+    "tpm": 17,
+    "tpa": 39,
+    "twopm": 20,
+    "twopa": 31,
+    "ftm": 14,
+    "fta": 22,
     "oreb": 8,
-    "dreb": 28,
-    "reb": 36,
-    "ast": 7,
+    "dreb": 30,
+    "reb": 38,
+    "ast": 8,
     "to": 10,
     "stl": 6,
     "blk": 1,
     "blkr": 2,
-    "pf": 13,
-    "foulon": 9,
-    "pm": 73,
-    "paint": 30,
+    "pf": 15,
+    "foulon": 11,
+    "pm": 83,
+    "paint": 32,
     "fast": 21,
     "second": 14
    },
    "perGame": {
-    "pts": 9.6,
-    "fgm": 3.6,
-    "fga": 7.1,
-    "tpm": 1.4,
-    "tpa": 3.8,
-    "twopm": 2.1,
-    "twopa": 3.3,
-    "ftm": 1.0,
-    "fta": 1.8,
-    "oreb": 0.9,
-    "dreb": 3.1,
-    "reb": 4.0,
+    "pts": 10.5,
+    "fgm": 3.7,
+    "fga": 7.0,
+    "tpm": 1.7,
+    "tpa": 3.9,
+    "twopm": 2.0,
+    "twopa": 3.1,
+    "ftm": 1.4,
+    "fta": 2.2,
+    "oreb": 0.8,
+    "dreb": 3.0,
+    "reb": 3.8,
     "ast": 0.8,
-    "to": 1.1,
-    "stl": 0.7,
+    "to": 1.0,
+    "stl": 0.6,
     "blk": 0.1,
     "blkr": 0.2,
-    "pf": 1.4,
-    "foulon": 1.0,
-    "pm": 8.1,
-    "paint": 3.3,
-    "fast": 2.3,
-    "second": 1.6,
-    "min": 16.5,
-    "eff": 9.7,
-    "gmsc": 6.8
+    "pf": 1.5,
+    "foulon": 1.1,
+    "pm": 8.3,
+    "paint": 3.2,
+    "fast": 2.1,
+    "second": 1.4,
+    "min": 17.2,
+    "eff": 10.7,
+    "gmsc": 7.8
    },
    "per40": {
-    "pts": 23.1,
-    "reb": 9.7,
+    "pts": 24.3,
+    "reb": 8.8,
     "ast": 1.9,
-    "stl": 1.6,
-    "blk": 0.3,
-    "to": 2.7
+    "stl": 1.4,
+    "blk": 0.2,
+    "to": 2.3
    },
-   "ts": 60.5,
-   "efg": 60.2,
-   "fg": 50.0,
-   "two": 63.3,
-   "three": 38.2,
-   "ft": 56.2,
-   "usg": 23.2,
-   "astTo": 0.7,
-   "pm": 73,
-   "pm40": 19.6,
+   "ts": 65.9,
+   "efg": 65.0,
+   "fg": 52.9,
+   "two": 64.5,
+   "three": 43.6,
+   "ft": 63.6,
+   "usg": 22.1,
+   "astTo": 0.8,
+   "pm": 83,
+   "pm40": 19.2,
    "on": {
-    "min": 149.0,
-    "pf": 372,
-    "pa": 299,
-    "ortg": 119.3,
-    "drtg": 97.6,
-    "net": 21.7
+    "min": 172.6,
+    "pf": 433,
+    "pa": 350,
+    "ortg": 121.7,
+    "drtg": 99.8,
+    "net": 22.0
    },
    "off": {
-    "min": 211.0,
-    "ortg": 125.1,
-    "drtg": 101.5,
-    "net": 23.6
+    "min": 227.4,
+    "ortg": 122.7,
+    "drtg": 102.6,
+    "net": 20.1
    },
-   "onOff": -1.9,
+   "onOff": 1.9,
    "dd": 0,
    "td": 0,
-   "high": 15,
+   "high": 19,
    "zones": {
     "paint": {
-     "m": 16,
-     "a": 23,
-     "pct": 69.6
+     "m": 17,
+     "a": 24,
+     "pct": 70.8
     },
     "mid": {
      "m": 3,
@@ -12864,14 +13621,14 @@
      "pct": 42.9
     },
     "corner3": {
-     "m": 2,
-     "a": 5,
-     "pct": 40.0
+     "m": 3,
+     "a": 6,
+     "pct": 50.0
     },
     "above3": {
-     "m": 11,
-     "a": 29,
-     "pct": 37.9
+     "m": 14,
+     "a": 33,
+     "pct": 42.4
     }
    },
    "log": [
@@ -13054,6 +13811,26 @@
      "pm": 3,
      "eff": 14,
      "ts": 76.1
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 23.6,
+     "pts": 19,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "5/6",
+     "tp": "4/5",
+     "ft": "5/6",
+     "pm": 10,
+     "eff": 20,
+     "ts": 110.0
     }
    ]
   },
@@ -13065,118 +13842,118 @@
    "teamLabel": "Slavia",
    "shirt": "77",
    "pos": "",
-   "gp": 9,
+   "gp": 10,
    "gs": 0,
-   "min": 152.0,
+   "min": 173.4,
    "totals": {
-    "pts": 80,
-    "fgm": 26,
-    "fga": 56,
-    "tpm": 14,
-    "tpa": 31,
-    "twopm": 12,
-    "twopa": 25,
-    "ftm": 14,
-    "fta": 15,
-    "oreb": 4,
-    "dreb": 17,
-    "reb": 21,
-    "ast": 16,
+    "pts": 98,
+    "fgm": 31,
+    "fga": 65,
+    "tpm": 17,
+    "tpa": 37,
+    "twopm": 14,
+    "twopa": 28,
+    "ftm": 19,
+    "fta": 21,
+    "oreb": 5,
+    "dreb": 22,
+    "reb": 27,
+    "ast": 18,
     "to": 10,
     "stl": 4,
-    "blk": 4,
+    "blk": 6,
     "blkr": 0,
-    "pf": 20,
-    "foulon": 16,
-    "pm": 64,
+    "pf": 23,
+    "foulon": 19,
+    "pm": 73,
     "paint": 18,
-    "fast": 9,
-    "second": 17
+    "fast": 12,
+    "second": 21
    },
    "perGame": {
-    "pts": 8.9,
-    "fgm": 2.9,
-    "fga": 6.2,
-    "tpm": 1.6,
-    "tpa": 3.4,
-    "twopm": 1.3,
+    "pts": 9.8,
+    "fgm": 3.1,
+    "fga": 6.5,
+    "tpm": 1.7,
+    "tpa": 3.7,
+    "twopm": 1.4,
     "twopa": 2.8,
-    "ftm": 1.6,
-    "fta": 1.7,
-    "oreb": 0.4,
-    "dreb": 1.9,
-    "reb": 2.3,
+    "ftm": 1.9,
+    "fta": 2.1,
+    "oreb": 0.5,
+    "dreb": 2.2,
+    "reb": 2.7,
     "ast": 1.8,
-    "to": 1.1,
+    "to": 1.0,
     "stl": 0.4,
-    "blk": 0.4,
+    "blk": 0.6,
     "blkr": 0.0,
-    "pf": 2.2,
-    "foulon": 1.8,
-    "pm": 7.1,
-    "paint": 2.0,
-    "fast": 1.0,
-    "second": 1.9,
-    "min": 16.9,
-    "eff": 9.3,
-    "gmsc": 6.5
+    "pf": 2.3,
+    "foulon": 1.9,
+    "pm": 7.3,
+    "paint": 1.8,
+    "fast": 1.2,
+    "second": 2.1,
+    "min": 17.3,
+    "eff": 10.7,
+    "gmsc": 7.6
    },
    "per40": {
-    "pts": 21.1,
-    "reb": 5.5,
+    "pts": 22.6,
+    "reb": 6.2,
     "ast": 4.2,
-    "stl": 1.1,
-    "blk": 1.1,
-    "to": 2.6
+    "stl": 0.9,
+    "blk": 1.4,
+    "to": 2.3
    },
-   "ts": 63.9,
-   "efg": 58.9,
-   "fg": 46.4,
-   "two": 48.0,
-   "three": 45.2,
-   "ft": 93.3,
-   "usg": 20.3,
-   "astTo": 1.6,
-   "pm": 64,
+   "ts": 66.0,
+   "efg": 60.8,
+   "fg": 47.7,
+   "two": 50.0,
+   "three": 45.9,
+   "ft": 90.5,
+   "usg": 20.6,
+   "astTo": 1.8,
+   "pm": 73,
    "pm40": 16.8,
    "on": {
-    "min": 152.2,
-    "pf": 379,
-    "pa": 315,
-    "ortg": 121.1,
-    "drtg": 100.7,
-    "net": 20.4
+    "min": 173.5,
+    "pf": 437,
+    "pa": 364,
+    "ortg": 123.5,
+    "drtg": 102.1,
+    "net": 21.4
    },
    "off": {
-    "min": 207.8,
-    "ortg": 123.8,
-    "drtg": 99.2,
-    "net": 24.6
+    "min": 226.5,
+    "ortg": 121.4,
+    "drtg": 100.8,
+    "net": 20.6
    },
-   "onOff": -4.2,
+   "onOff": 0.8,
    "dd": 0,
    "td": 0,
    "high": 18,
    "zones": {
     "paint": {
      "m": 9,
-     "a": 17,
-     "pct": 52.9
+     "a": 18,
+     "pct": 50.0
     },
     "mid": {
-     "m": 3,
-     "a": 8,
-     "pct": 37.5
+     "m": 5,
+     "a": 10,
+     "pct": 50.0
     },
     "corner3": {
-     "m": 7,
-     "a": 8,
-     "pct": 87.5
+     "m": 8,
+     "a": 9,
+     "pct": 88.9
     },
     "above3": {
-     "m": 7,
-     "a": 23,
-     "pct": 30.4
+     "m": 9,
+     "a": 28,
+     "pct": 32.1
     }
    },
    "log": [
@@ -13359,6 +14136,351 @@
      "pm": 7,
      "eff": 9,
      "ts": 69.9
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 21.4,
+     "pts": 18,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 2,
+     "to": 0,
+     "fg": "5/9",
+     "tp": "3/6",
+     "ft": "5/6",
+     "pm": 9,
+     "eff": 23,
+     "ts": 77.3
+    }
+   ]
+  },
+  {
+   "id": "slavia/martin-kriz",
+   "name": "Martin Kříž",
+   "team": "slavia",
+   "teamName": "SK Slavia Praha ERA NBK",
+   "teamLabel": "Slavia",
+   "shirt": "31",
+   "pos": "",
+   "gp": 10,
+   "gs": 3,
+   "min": 194.0,
+   "totals": {
+    "pts": 94,
+    "fgm": 36,
+    "fga": 74,
+    "tpm": 12,
+    "tpa": 34,
+    "twopm": 24,
+    "twopa": 40,
+    "ftm": 10,
+    "fta": 20,
+    "oreb": 14,
+    "dreb": 18,
+    "reb": 32,
+    "ast": 13,
+    "to": 9,
+    "stl": 8,
+    "blk": 0,
+    "blkr": 0,
+    "pf": 20,
+    "foulon": 18,
+    "pm": 70,
+    "paint": 44,
+    "fast": 18,
+    "second": 10
+   },
+   "perGame": {
+    "pts": 9.4,
+    "fgm": 3.6,
+    "fga": 7.4,
+    "tpm": 1.2,
+    "tpa": 3.4,
+    "twopm": 2.4,
+    "twopa": 4.0,
+    "ftm": 1.0,
+    "fta": 2.0,
+    "oreb": 1.4,
+    "dreb": 1.8,
+    "reb": 3.2,
+    "ast": 1.3,
+    "to": 0.9,
+    "stl": 0.8,
+    "blk": 0.0,
+    "blkr": 0.0,
+    "pf": 2.0,
+    "foulon": 1.8,
+    "pm": 7.0,
+    "paint": 4.4,
+    "fast": 1.8,
+    "second": 1.0,
+    "min": 19.4,
+    "eff": 9.0,
+    "gmsc": 6.8
+   },
+   "per40": {
+    "pts": 19.4,
+    "reb": 6.6,
+    "ast": 2.7,
+    "stl": 1.6,
+    "blk": 0.0,
+    "to": 1.9
+   },
+   "ts": 56.8,
+   "efg": 56.8,
+   "fg": 48.6,
+   "two": 60.0,
+   "three": 35.3,
+   "ft": 50.0,
+   "usg": 20.1,
+   "astTo": 1.44,
+   "pm": 70,
+   "pm40": 14.4,
+   "on": {
+    "min": 194.1,
+    "pf": 485,
+    "pa": 415,
+    "ortg": 124.8,
+    "drtg": 107.6,
+    "net": 17.2
+   },
+   "off": {
+    "min": 205.9,
+    "ortg": 119.9,
+    "drtg": 95.5,
+    "net": 24.4
+   },
+   "onOff": -7.2,
+   "dd": 0,
+   "td": 0,
+   "high": 19,
+   "zones": {
+    "paint": {
+     "m": 23,
+     "a": 38,
+     "pct": 60.5
+    },
+    "mid": {
+     "m": 1,
+     "a": 2,
+     "pct": 50.0
+    },
+    "corner3": {
+     "m": 3,
+     "a": 8,
+     "pct": 37.5
+    },
+    "above3": {
+     "m": 9,
+     "a": 26,
+     "pct": 34.6
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890469,
+     "date": "2026-09-19",
+     "opponent": "USK",
+     "venue": "away",
+     "result": "W",
+     "min": 24.5,
+     "pts": 5,
+     "reb": 5,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "1/8",
+     "tp": "0/5",
+     "ft": "3/5",
+     "pm": 8,
+     "eff": 2,
+     "ts": 24.5
+    },
+    {
+     "fibaId": 2890476,
+     "date": "2026-09-23",
+     "opponent": "Opava",
+     "venue": "home",
+     "result": "W",
+     "min": 15.6,
+     "pts": 12,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "5/6",
+     "tp": "0/1",
+     "ft": "2/3",
+     "pm": 11,
+     "eff": 14,
+     "ts": 82.0
+    },
+    {
+     "fibaId": 2890482,
+     "date": "2026-09-26",
+     "opponent": "Brno",
+     "venue": "away",
+     "result": "W",
+     "min": 26.1,
+     "pts": 19,
+     "reb": 2,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "to": 0,
+     "fg": "6/9",
+     "tp": "4/5",
+     "ft": "3/4",
+     "pm": 3,
+     "eff": 20,
+     "ts": 88.3
+    },
+    {
+     "fibaId": 2892254,
+     "date": "2026-09-30",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 18.2,
+     "pts": 10,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "4/6",
+     "tp": "2/3",
+     "ft": "0/0",
+     "pm": 18,
+     "eff": 14,
+     "ts": 83.3
+    },
+    {
+     "fibaId": 2893125,
+     "date": "2026-10-03",
+     "opponent": "Hradec",
+     "venue": "away",
+     "result": "W",
+     "min": 21.2,
+     "pts": 15,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "6/9",
+     "tp": "3/4",
+     "ft": "0/0",
+     "pm": 16,
+     "eff": 15,
+     "ts": 83.3
+    },
+    {
+     "fibaId": 2899969,
+     "date": "2026-10-10",
+     "opponent": "Pardubice",
+     "venue": "home",
+     "result": "W",
+     "min": 11.6,
+     "pts": 6,
+     "reb": 5,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/6",
+     "tp": "0/2",
+     "ft": "0/0",
+     "pm": 23,
+     "eff": 12,
+     "ts": 50.0
+    },
+    {
+     "fibaId": 2910251,
+     "date": "2026-10-17",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 21.1,
+     "pts": 4,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "2/7",
+     "tp": "0/4",
+     "ft": "0/2",
+     "pm": -9,
+     "eff": -3,
+     "ts": 25.4
+    },
+    {
+     "fibaId": 2921929,
+     "date": "2026-10-23",
+     "opponent": "Písek",
+     "venue": "away",
+     "result": "W",
+     "min": 19.4,
+     "pts": 14,
+     "reb": 2,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "5/6",
+     "tp": "2/2",
+     "ft": "2/6",
+     "pm": 2,
+     "eff": 14,
+     "ts": 81.0
+    },
+    {
+     "fibaId": 2931311,
+     "date": "2026-10-30",
+     "opponent": "Opava",
+     "venue": "away",
+     "result": "W",
+     "min": 16.6,
+     "pts": 5,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/6",
+     "tp": "1/4",
+     "ft": "0/0",
+     "pm": 8,
+     "eff": 3,
+     "ts": 41.7
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 19.7,
+     "pts": 4,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/11",
+     "tp": "0/4",
+     "ft": "0/0",
+     "pm": -10,
+     "eff": -1,
+     "ts": 18.2
     }
    ]
   },
@@ -13370,95 +14492,95 @@
    "teamLabel": "Slavia",
    "shirt": "7",
    "pos": "",
-   "gp": 9,
+   "gp": 10,
    "gs": 3,
-   "min": 134.7,
+   "min": 140.7,
    "totals": {
-    "pts": 76,
+    "pts": 78,
     "fgm": 29,
-    "fga": 48,
+    "fga": 49,
     "tpm": 1,
-    "tpa": 9,
+    "tpa": 10,
     "twopm": 28,
     "twopa": 39,
-    "ftm": 17,
-    "fta": 20,
-    "oreb": 12,
-    "dreb": 30,
-    "reb": 42,
+    "ftm": 19,
+    "fta": 24,
+    "oreb": 13,
+    "dreb": 31,
+    "reb": 44,
     "ast": 5,
     "to": 9,
     "stl": 5,
     "blk": 2,
     "blkr": 3,
-    "pf": 24,
-    "foulon": 16,
-    "pm": 102,
+    "pf": 27,
+    "foulon": 18,
+    "pm": 96,
     "paint": 56,
     "fast": 10,
     "second": 17
    },
    "perGame": {
-    "pts": 8.4,
-    "fgm": 3.2,
-    "fga": 5.3,
+    "pts": 7.8,
+    "fgm": 2.9,
+    "fga": 4.9,
     "tpm": 0.1,
     "tpa": 1.0,
-    "twopm": 3.1,
-    "twopa": 4.3,
+    "twopm": 2.8,
+    "twopa": 3.9,
     "ftm": 1.9,
-    "fta": 2.2,
+    "fta": 2.4,
     "oreb": 1.3,
-    "dreb": 3.3,
-    "reb": 4.7,
-    "ast": 0.6,
-    "to": 1.0,
-    "stl": 0.6,
+    "dreb": 3.1,
+    "reb": 4.4,
+    "ast": 0.5,
+    "to": 0.9,
+    "stl": 0.5,
     "blk": 0.2,
     "blkr": 0.3,
     "pf": 2.7,
     "foulon": 1.8,
-    "pm": 11.3,
-    "paint": 6.2,
-    "fast": 1.1,
-    "second": 1.9,
-    "min": 15.0,
-    "eff": 11.0,
-    "gmsc": 6.8
+    "pm": 9.6,
+    "paint": 5.6,
+    "fast": 1.0,
+    "second": 1.7,
+    "min": 14.1,
+    "eff": 10.0,
+    "gmsc": 6.2
    },
    "per40": {
-    "pts": 22.6,
+    "pts": 22.2,
     "reb": 12.5,
-    "ast": 1.5,
-    "stl": 1.5,
+    "ast": 1.4,
+    "stl": 1.4,
     "blk": 0.6,
-    "to": 2.7
+    "to": 2.6
    },
-   "ts": 66.9,
-   "efg": 61.5,
-   "fg": 60.4,
+   "ts": 65.5,
+   "efg": 60.2,
+   "fg": 59.2,
    "two": 71.8,
-   "three": 11.1,
-   "ft": 85.0,
-   "usg": 20.8,
+   "three": 10.0,
+   "ft": 79.2,
+   "usg": 20.7,
    "astTo": 0.56,
-   "pm": 102,
-   "pm40": 30.3,
+   "pm": 96,
+   "pm40": 27.3,
    "on": {
-    "min": 134.7,
-    "pf": 351,
-    "pa": 249,
-    "ortg": 124.5,
-    "drtg": 92.4,
-    "net": 32.1
+    "min": 140.6,
+    "pf": 363,
+    "pa": 267,
+    "ortg": 123.4,
+    "drtg": 94.8,
+    "net": 28.6
    },
    "off": {
-    "min": 225.3,
-    "ortg": 121.5,
-    "drtg": 104.3,
-    "net": 17.2
+    "min": 259.4,
+    "ortg": 121.7,
+    "drtg": 104.9,
+    "net": 16.7
    },
-   "onOff": 14.9,
+   "onOff": 11.9,
    "dd": 0,
    "td": 0,
    "high": 16,
@@ -13480,7 +14602,7 @@
     },
     "above3": {
      "m": 0,
-     "a": 7,
+     "a": 8,
      "pct": 0.0
     }
    },
@@ -13664,6 +14786,26 @@
      "pm": 26,
      "eff": 18,
      "ts": 88.0
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 6.0,
+     "pts": 2,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/1",
+     "tp": "0/1",
+     "ft": "2/4",
+     "pm": -6,
+     "eff": 1,
+     "ts": 36.2
     }
    ]
   },
@@ -13960,103 +15102,103 @@
    "teamLabel": "Slavia",
    "shirt": "20",
    "pos": "",
-   "gp": 8,
+   "gp": 9,
    "gs": 4,
-   "min": 132.3,
+   "min": 149.6,
    "totals": {
-    "pts": 53,
-    "fgm": 23,
-    "fga": 40,
+    "pts": 55,
+    "fgm": 24,
+    "fga": 41,
     "tpm": 0,
     "tpa": 1,
-    "twopm": 23,
-    "twopa": 39,
+    "twopm": 24,
+    "twopa": 40,
     "ftm": 7,
     "fta": 14,
-    "oreb": 20,
-    "dreb": 35,
-    "reb": 55,
-    "ast": 5,
-    "to": 8,
-    "stl": 9,
+    "oreb": 22,
+    "dreb": 38,
+    "reb": 60,
+    "ast": 6,
+    "to": 11,
+    "stl": 10,
     "blk": 4,
     "blkr": 4,
-    "pf": 19,
-    "foulon": 11,
-    "pm": 74,
-    "paint": 46,
+    "pf": 22,
+    "foulon": 12,
+    "pm": 91,
+    "paint": 48,
     "fast": 13,
     "second": 19
    },
    "perGame": {
-    "pts": 6.6,
-    "fgm": 2.9,
-    "fga": 5.0,
+    "pts": 6.1,
+    "fgm": 2.7,
+    "fga": 4.6,
     "tpm": 0.0,
     "tpa": 0.1,
-    "twopm": 2.9,
-    "twopa": 4.9,
-    "ftm": 0.9,
-    "fta": 1.8,
-    "oreb": 2.5,
-    "dreb": 4.4,
-    "reb": 6.9,
-    "ast": 0.6,
-    "to": 1.0,
+    "twopm": 2.7,
+    "twopa": 4.4,
+    "ftm": 0.8,
+    "fta": 1.6,
+    "oreb": 2.4,
+    "dreb": 4.2,
+    "reb": 6.7,
+    "ast": 0.7,
+    "to": 1.2,
     "stl": 1.1,
-    "blk": 0.5,
-    "blkr": 0.5,
+    "blk": 0.4,
+    "blkr": 0.4,
     "pf": 2.4,
-    "foulon": 1.4,
-    "pm": 9.2,
-    "paint": 5.8,
-    "fast": 1.6,
-    "second": 2.4,
-    "min": 16.5,
-    "eff": 11.8,
-    "gmsc": 7.0
+    "foulon": 1.3,
+    "pm": 10.1,
+    "paint": 5.3,
+    "fast": 1.4,
+    "second": 2.1,
+    "min": 16.6,
+    "eff": 11.1,
+    "gmsc": 6.3
    },
    "per40": {
-    "pts": 16.0,
-    "reb": 16.6,
-    "ast": 1.5,
+    "pts": 14.7,
+    "reb": 16.0,
+    "ast": 1.6,
     "stl": 2.7,
-    "blk": 1.2,
-    "to": 2.4
+    "blk": 1.1,
+    "to": 2.9
    },
-   "ts": 57.4,
-   "efg": 57.5,
-   "fg": 57.5,
-   "two": 59.0,
+   "ts": 58.3,
+   "efg": 58.5,
+   "fg": 58.5,
+   "two": 60.0,
    "three": 0.0,
    "ft": 50.0,
-   "usg": 17.5,
-   "astTo": 0.62,
-   "pm": 74,
-   "pm40": 22.4,
+   "usg": 16.6,
+   "astTo": 0.55,
+   "pm": 91,
+   "pm40": 24.3,
    "on": {
-    "min": 132.3,
-    "pf": 334,
-    "pa": 260,
-    "ortg": 127.6,
-    "drtg": 99.1,
-    "net": 28.5
+    "min": 149.5,
+    "pf": 373,
+    "pa": 282,
+    "ortg": 126.9,
+    "drtg": 96.0,
+    "net": 30.9
    },
    "off": {
-    "min": 187.7,
-    "ortg": 122.6,
-    "drtg": 101.4,
-    "net": 21.2
+    "min": 210.5,
+    "ortg": 122.1,
+    "drtg": 106.3,
+    "net": 15.8
    },
-   "onOff": 7.3,
+   "onOff": 15.1,
    "dd": 0,
    "td": 0,
    "high": 12,
    "zones": {
     "paint": {
-     "m": 23,
-     "a": 39,
-     "pct": 59.0
+     "m": 24,
+     "a": 40,
+     "pct": 60.0
     },
     "mid": {
      "m": 0,
@@ -14234,6 +15376,26 @@
      "pm": -2,
      "eff": 2,
      "ts": 34.7
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 17.3,
+     "pts": 2,
+     "reb": 5,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "1/1",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 17,
+     "eff": 6,
+     "ts": 100.0
     }
    ]
   },
@@ -14245,118 +15407,118 @@
    "teamLabel": "Slavia",
    "shirt": "73",
    "pos": "",
-   "gp": 9,
-   "gs": 7,
-   "min": 161.0,
+   "gp": 10,
+   "gs": 8,
+   "min": 178.4,
    "totals": {
     "pts": 57,
     "fgm": 19,
-    "fga": 42,
+    "fga": 48,
     "tpm": 13,
-    "tpa": 31,
+    "tpa": 35,
     "twopm": 6,
-    "twopa": 11,
+    "twopa": 13,
     "ftm": 6,
     "fta": 7,
     "oreb": 4,
-    "dreb": 7,
-    "reb": 11,
-    "ast": 18,
+    "dreb": 8,
+    "reb": 12,
+    "ast": 21,
     "to": 4,
-    "stl": 10,
+    "stl": 11,
     "blk": 2,
     "blkr": 1,
-    "pf": 15,
-    "foulon": 12,
-    "pm": 99,
+    "pf": 18,
+    "foulon": 15,
+    "pm": 92,
     "paint": 12,
     "fast": 11,
     "second": 2
    },
    "perGame": {
-    "pts": 6.3,
-    "fgm": 2.1,
-    "fga": 4.7,
-    "tpm": 1.4,
-    "tpa": 3.4,
-    "twopm": 0.7,
-    "twopa": 1.2,
-    "ftm": 0.7,
-    "fta": 0.8,
+    "pts": 5.7,
+    "fgm": 1.9,
+    "fga": 4.8,
+    "tpm": 1.3,
+    "tpa": 3.5,
+    "twopm": 0.6,
+    "twopa": 1.3,
+    "ftm": 0.6,
+    "fta": 0.7,
     "oreb": 0.4,
     "dreb": 0.8,
     "reb": 1.2,
-    "ast": 2.0,
+    "ast": 2.1,
     "to": 0.4,
     "stl": 1.1,
     "blk": 0.2,
     "blkr": 0.1,
-    "pf": 1.7,
-    "foulon": 1.3,
-    "pm": 11.0,
-    "paint": 1.3,
-    "fast": 1.2,
+    "pf": 1.8,
+    "foulon": 1.5,
+    "pm": 9.2,
+    "paint": 1.2,
+    "fast": 1.1,
     "second": 0.2,
-    "min": 17.9,
-    "eff": 7.8,
-    "gmsc": 6.0
+    "min": 17.8,
+    "eff": 6.9,
+    "gmsc": 5.2
    },
    "per40": {
-    "pts": 14.2,
+    "pts": 12.8,
     "reb": 2.7,
-    "ast": 4.5,
+    "ast": 4.7,
     "stl": 2.5,
-    "blk": 0.5,
-    "to": 1.0
+    "blk": 0.4,
+    "to": 0.9
    },
-   "ts": 63.2,
-   "efg": 60.7,
-   "fg": 45.2,
-   "two": 54.5,
-   "three": 41.9,
+   "ts": 55.8,
+   "efg": 53.1,
+   "fg": 39.6,
+   "two": 46.2,
+   "three": 37.1,
    "ft": 85.7,
-   "usg": 13.0,
-   "astTo": 4.5,
-   "pm": 99,
-   "pm40": 24.6,
+   "usg": 13.2,
+   "astTo": 5.25,
+   "pm": 92,
+   "pm40": 20.6,
    "on": {
-    "min": 161.1,
-    "pf": 425,
-    "pa": 326,
-    "ortg": 132.5,
-    "drtg": 102.9,
-    "net": 29.7
+    "min": 178.5,
+    "pf": 464,
+    "pa": 372,
+    "ortg": 130.0,
+    "drtg": 105.7,
+    "net": 24.3
    },
    "off": {
-    "min": 198.9,
-    "ortg": 114.8,
-    "drtg": 97.5,
-    "net": 17.3
+    "min": 221.5,
+    "ortg": 116.2,
+    "drtg": 98.0,
+    "net": 18.2
    },
-   "onOff": 12.4,
+   "onOff": 6.1,
    "dd": 0,
    "td": 0,
    "high": 12,
    "zones": {
     "paint": {
      "m": 6,
-     "a": 11,
-     "pct": 54.5
+     "a": 12,
+     "pct": 50.0
     },
     "mid": {
      "m": 0,
-     "a": 0,
-     "pct": null
+     "a": 1,
+     "pct": 0.0
     },
     "corner3": {
      "m": 5,
-     "a": 10,
-     "pct": 50.0
+     "a": 11,
+     "pct": 45.5
     },
     "above3": {
      "m": 8,
-     "a": 21,
-     "pct": 38.1
+     "a": 24,
+     "pct": 33.3
     }
    },
    "log": [
@@ -14539,6 +15701,26 @@
      "pm": 22,
      "eff": 14,
      "ts": 100.0
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 17.4,
+     "pts": 0,
+     "reb": 1,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/6",
+     "tp": "0/4",
+     "ft": "0/0",
+     "pm": -7,
+     "eff": -1,
+     "ts": 0.0
     }
    ]
   },
@@ -14550,103 +15732,103 @@
    "teamLabel": "Slavia",
    "shirt": "33",
    "pos": "",
-   "gp": 2,
-   "gs": 2,
-   "min": 22.7,
+   "gp": 3,
+   "gs": 3,
+   "min": 36.2,
    "totals": {
-    "pts": 12,
-    "fgm": 5,
-    "fga": 7,
+    "pts": 17,
+    "fgm": 7,
+    "fga": 10,
     "tpm": 0,
     "tpa": 0,
-    "twopm": 5,
-    "twopa": 7,
-    "ftm": 2,
-    "fta": 6,
-    "oreb": 4,
+    "twopm": 7,
+    "twopa": 10,
+    "ftm": 3,
+    "fta": 8,
+    "oreb": 5,
     "dreb": 7,
-    "reb": 11,
+    "reb": 12,
     "ast": 2,
-    "to": 6,
+    "to": 8,
     "stl": 1,
     "blk": 3,
     "blkr": 0,
-    "pf": 5,
-    "foulon": 5,
-    "pm": 12,
-    "paint": 10,
+    "pf": 6,
+    "foulon": 6,
+    "pm": 6,
+    "paint": 14,
     "fast": 0,
-    "second": 5
+    "second": 7
    },
    "perGame": {
-    "pts": 6.0,
-    "fgm": 2.5,
-    "fga": 3.5,
+    "pts": 5.7,
+    "fgm": 2.3,
+    "fga": 3.3,
     "tpm": 0.0,
     "tpa": 0.0,
-    "twopm": 2.5,
-    "twopa": 3.5,
+    "twopm": 2.3,
+    "twopa": 3.3,
     "ftm": 1.0,
-    "fta": 3.0,
-    "oreb": 2.0,
-    "dreb": 3.5,
-    "reb": 5.5,
-    "ast": 1.0,
-    "to": 3.0,
-    "stl": 0.5,
-    "blk": 1.5,
+    "fta": 2.7,
+    "oreb": 1.7,
+    "dreb": 2.3,
+    "reb": 4.0,
+    "ast": 0.7,
+    "to": 2.7,
+    "stl": 0.3,
+    "blk": 1.0,
     "blkr": 0.0,
-    "pf": 2.5,
-    "foulon": 2.5,
-    "pm": 6.0,
-    "paint": 5.0,
+    "pf": 2.0,
+    "foulon": 2.0,
+    "pm": 2.0,
+    "paint": 4.7,
     "fast": 0.0,
-    "second": 2.5,
-    "min": 11.3,
-    "eff": 8.5,
-    "gmsc": 4.5
+    "second": 2.3,
+    "min": 12.1,
+    "eff": 6.3,
+    "gmsc": 3.5
    },
    "per40": {
-    "pts": 21.1,
-    "reb": 19.4,
-    "ast": 3.5,
-    "stl": 1.8,
-    "blk": 5.3,
-    "to": 10.6
+    "pts": 18.8,
+    "reb": 13.3,
+    "ast": 2.2,
+    "stl": 1.1,
+    "blk": 3.3,
+    "to": 8.8
    },
-   "ts": 62.2,
-   "efg": 71.4,
-   "fg": 71.4,
-   "two": 71.4,
+   "ts": 62.9,
+   "efg": 70.0,
+   "fg": 70.0,
+   "two": 70.0,
    "three": null,
-   "ft": 33.3,
-   "usg": 29.5,
-   "astTo": 0.33,
-   "pm": 12,
-   "pm40": 21.1,
+   "ft": 37.5,
+   "usg": 25.4,
+   "astTo": 0.25,
+   "pm": 6,
+   "pm40": 6.6,
    "on": {
-    "min": 22.7,
-    "pf": 64,
-    "pa": 52,
-    "ortg": 127.6,
-    "drtg": 103.3,
-    "net": 24.3
+    "min": 36.2,
+    "pf": 94,
+    "pa": 88,
+    "ortg": 123.3,
+    "drtg": 115.5,
+    "net": 7.8
    },
    "off": {
-    "min": 57.3,
-    "ortg": 126.6,
-    "drtg": 107.8,
-    "net": 18.9
+    "min": 83.8,
+    "ortg": 125.0,
+    "drtg": 106.4,
+    "net": 18.5
    },
-   "onOff": 5.4,
+   "onOff": -10.7,
    "dd": 0,
    "td": 0,
    "high": 10,
    "zones": {
     "paint": {
-     "m": 5,
-     "a": 7,
-     "pct": 71.4
+     "m": 7,
+     "a": 10,
+     "pct": 70.0
     },
     "mid": {
      "m": 0,
@@ -14704,6 +15886,26 @@
      "pm": 4,
      "eff": 12,
      "ts": 65.4
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 13.5,
+     "pts": 5,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "2/3",
+     "tp": "0/0",
+     "ft": "1/2",
+     "pm": -6,
+     "eff": 2,
+     "ts": 64.4
     }
    ]
   },
@@ -14715,103 +15917,103 @@
    "teamLabel": "Slavia",
    "shirt": "6",
    "pos": "",
-   "gp": 8,
+   "gp": 9,
    "gs": 2,
-   "min": 105.7,
+   "min": 123.2,
    "totals": {
-    "pts": 18,
-    "fgm": 7,
-    "fga": 20,
+    "pts": 24,
+    "fgm": 9,
+    "fga": 26,
     "tpm": 0,
-    "tpa": 8,
-    "twopm": 7,
-    "twopa": 12,
-    "ftm": 4,
-    "fta": 7,
-    "oreb": 4,
-    "dreb": 14,
-    "reb": 18,
-    "ast": 12,
+    "tpa": 9,
+    "twopm": 9,
+    "twopa": 17,
+    "ftm": 6,
+    "fta": 10,
+    "oreb": 8,
+    "dreb": 19,
+    "reb": 27,
+    "ast": 14,
     "to": 4,
-    "stl": 7,
+    "stl": 8,
     "blk": 1,
-    "blkr": 2,
-    "pf": 18,
-    "foulon": 7,
-    "pm": 47,
-    "paint": 12,
+    "blkr": 3,
+    "pf": 19,
+    "foulon": 12,
+    "pm": 49,
+    "paint": 16,
     "fast": 5,
-    "second": 0
+    "second": 6
    },
    "perGame": {
-    "pts": 2.2,
-    "fgm": 0.9,
-    "fga": 2.5,
+    "pts": 2.7,
+    "fgm": 1.0,
+    "fga": 2.9,
     "tpm": 0.0,
     "tpa": 1.0,
-    "twopm": 0.9,
-    "twopa": 1.5,
-    "ftm": 0.5,
-    "fta": 0.9,
-    "oreb": 0.5,
-    "dreb": 1.8,
-    "reb": 2.2,
-    "ast": 1.5,
-    "to": 0.5,
+    "twopm": 1.0,
+    "twopa": 1.9,
+    "ftm": 0.7,
+    "fta": 1.1,
+    "oreb": 0.9,
+    "dreb": 2.1,
+    "reb": 3.0,
+    "ast": 1.6,
+    "to": 0.4,
     "stl": 0.9,
     "blk": 0.1,
-    "blkr": 0.2,
-    "pf": 2.2,
-    "foulon": 0.9,
-    "pm": 5.9,
-    "paint": 1.5,
+    "blkr": 0.3,
+    "pf": 2.1,
+    "foulon": 1.3,
+    "pm": 5.4,
+    "paint": 1.8,
     "fast": 0.6,
-    "second": 0.0,
-    "min": 13.2,
-    "eff": 4.5,
-    "gmsc": 2.2
+    "second": 0.7,
+    "min": 13.7,
+    "eff": 5.4,
+    "gmsc": 2.9
    },
    "per40": {
-    "pts": 6.8,
-    "reb": 6.8,
+    "pts": 7.8,
+    "reb": 8.8,
     "ast": 4.5,
     "stl": 2.6,
-    "blk": 0.4,
-    "to": 1.5
+    "blk": 0.3,
+    "to": 1.3
    },
-   "ts": 39.0,
-   "efg": 35.0,
-   "fg": 35.0,
-   "two": 58.3,
+   "ts": 39.5,
+   "efg": 34.6,
+   "fg": 34.6,
+   "two": 52.9,
    "three": 0.0,
-   "ft": 57.1,
-   "usg": 10.9,
-   "astTo": 3.0,
-   "pm": 47,
-   "pm40": 17.8,
+   "ft": 60.0,
+   "usg": 11.8,
+   "astTo": 3.5,
+   "pm": 49,
+   "pm40": 15.9,
    "on": {
-    "min": 105.8,
-    "pf": 251,
-    "pa": 204,
-    "ortg": 116.9,
-    "drtg": 95.2,
-    "net": 21.7
+    "min": 123.3,
+    "pf": 287,
+    "pa": 238,
+    "ortg": 116.3,
+    "drtg": 95.5,
+    "net": 20.8
    },
    "off": {
-    "min": 214.2,
-    "ortg": 123.2,
-    "drtg": 98.2,
-    "net": 25.0
+    "min": 236.7,
+    "ortg": 123.3,
+    "drtg": 101.1,
+    "net": 22.2
    },
-   "onOff": -3.3,
+   "onOff": -1.4,
    "dd": 0,
    "td": 0,
-   "high": 5,
+   "high": 6,
    "zones": {
     "paint": {
-     "m": 6,
-     "a": 10,
-     "pct": 60.0
+     "m": 8,
+     "a": 15,
+     "pct": 53.3
     },
     "mid": {
      "m": 1,
@@ -14825,7 +16027,7 @@
     },
     "above3": {
      "m": 0,
-     "a": 6,
+     "a": 7,
      "pct": 0.0
     }
    },
@@ -14989,6 +16191,26 @@
      "pm": 20,
      "eff": 9,
      "ts": 69.4
+    },
+    {
+     "fibaId": 2932741,
+     "date": "2026-11-01",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 17.5,
+     "pts": 6,
+     "reb": 9,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "2/6",
+     "tp": "0/1",
+     "ft": "2/3",
+     "pm": 2,
+     "eff": 13,
+     "ts": 41.0
     }
    ]
   },
@@ -15542,8 +16764,11 @@
    "away": "SK Slavia Praha ERA NBK",
    "homeSlug": "usti",
    "awaySlug": "slavia",
-   "status": "live",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 89,
+    "away": 91
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544601",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2932741/",

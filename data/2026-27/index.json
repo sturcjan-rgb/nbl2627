@@ -1,9 +1,9 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-01T18:57:52+00:00",
+ "generatedAt": "2026-11-01T19:09:02+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 56,
+  "final": 58,
   "teams": 12,
   "players": 169
  },
@@ -30,13 +30,6 @@
    "file": "teams/pisek.json"
   },
   {
-   "slug": "ostrava",
-   "name": "NH Ostrava",
-   "label": "Ostrava",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
-   "file": "teams/ostrava.json"
-  },
-  {
    "slug": "decin",
    "name": "BK ARMEX ENERGY Děčín",
    "label": "Děčín",
@@ -44,11 +37,25 @@
    "file": "teams/decin.json"
   },
   {
+   "slug": "ostrava",
+   "name": "NH Ostrava",
+   "label": "Ostrava",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
+   "file": "teams/ostrava.json"
+  },
+  {
    "slug": "usti",
    "name": "SLUNETA Ústí nad Labem",
    "label": "Ústí",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
    "file": "teams/usti.json"
+  },
+  {
+   "slug": "opava",
+   "name": "BK Opava",
+   "label": "Opava",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
+   "file": "teams/opava.json"
   },
   {
    "slug": "usk",
@@ -70,13 +77,6 @@
    "label": "Hradec",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
    "file": "teams/hradec.json"
-  },
-  {
-   "slug": "opava",
-   "name": "BK Opava",
-   "label": "Opava",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/1d1218c08ef7c36394cde630381d58f5S1.png",
-   "file": "teams/opava.json"
   },
   {
    "slug": "olomoucko",
@@ -717,6 +717,28 @@
    "score": [
     99,
     84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2932741,
+   "date": "2026-11-01",
+   "home": "usti",
+   "away": "slavia",
+   "score": [
+    89,
+    91
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2932742,
+   "date": "2026-11-01",
+   "home": "opava",
+   "away": "hradec",
+   "score": [
+    83,
+    75
    ],
    "status": "final"
   }
