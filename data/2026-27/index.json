@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-04T16:21:45+00:00",
+ "generatedAt": "2026-11-04T19:04:41+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 58,
+  "final": 60,
   "teams": 12,
-  "players": 169
+  "players": 170
  },
  "teams": [
   {
@@ -23,11 +23,25 @@
    "file": "teams/pardubice.json"
   },
   {
+   "slug": "ostrava",
+   "name": "NH Ostrava",
+   "label": "Ostrava",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
+   "file": "teams/ostrava.json"
+  },
+  {
    "slug": "pisek",
    "name": "Sršni Photomate Písek",
    "label": "Písek",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/bd87c5d17b95173283244bbd063bd7c0S1.png",
    "file": "teams/pisek.json"
+  },
+  {
+   "slug": "usti",
+   "name": "SLUNETA Ústí nad Labem",
+   "label": "Ústí",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
+   "file": "teams/usti.json"
   },
   {
    "slug": "decin",
@@ -37,18 +51,11 @@
    "file": "teams/decin.json"
   },
   {
-   "slug": "ostrava",
-   "name": "NH Ostrava",
-   "label": "Ostrava",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
-   "file": "teams/ostrava.json"
-  },
-  {
-   "slug": "usti",
-   "name": "SLUNETA Ústí nad Labem",
-   "label": "Ústí",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
-   "file": "teams/usti.json"
+   "slug": "brno",
+   "name": "PUMPA Basket Brno",
+   "label": "Brno",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
+   "file": "teams/brno.json"
   },
   {
    "slug": "opava",
@@ -65,13 +72,6 @@
    "file": "teams/usk.json"
   },
   {
-   "slug": "brno",
-   "name": "PUMPA Basket Brno",
-   "label": "Brno",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
-   "file": "teams/brno.json"
-  },
-  {
    "slug": "hradec",
    "name": "BK GAPA Hradec Králové",
    "label": "Hradec",
@@ -79,18 +79,18 @@
    "file": "teams/hradec.json"
   },
   {
-   "slug": "olomoucko",
-   "name": "BK Olomoucko",
-   "label": "Olomoucko",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
-   "file": "teams/olomoucko.json"
-  },
-  {
    "slug": "plzen",
    "name": "BK Loko BaliMania Plzeň",
    "label": "Plzeň",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
    "file": "teams/plzen.json"
+  },
+  {
+   "slug": "olomoucko",
+   "name": "BK Olomoucko",
+   "label": "Olomoucko",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
+   "file": "teams/olomoucko.json"
   }
  ],
  "files": {
@@ -739,6 +739,28 @@
    "score": [
     83,
     75
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2936752,
+   "date": "2026-11-04",
+   "home": "slavia",
+   "away": "decin",
+   "score": [
+    89,
+    78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2936753,
+   "date": "2026-11-04",
+   "home": "brno",
+   "away": "olomoucko",
+   "score": [
+    81,
+    76
    ],
    "status": "final"
   }
