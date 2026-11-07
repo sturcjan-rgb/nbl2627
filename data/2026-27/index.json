@@ -1,9 +1,9 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-07T21:54:35+00:00",
+ "generatedAt": "2026-11-07T23:05:48+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 63,
+  "final": 64,
   "teams": 12,
   "players": 171
  },
@@ -51,18 +51,18 @@
    "file": "teams/usti.json"
   },
   {
-   "slug": "usk",
-   "name": "USK Praha",
-   "label": "USK",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
-   "file": "teams/usk.json"
-  },
-  {
    "slug": "brno",
    "name": "PUMPA Basket Brno",
    "label": "Brno",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
    "file": "teams/brno.json"
+  },
+  {
+   "slug": "usk",
+   "name": "USK Praha",
+   "label": "USK",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
+   "file": "teams/usk.json"
   },
   {
    "slug": "opava",
@@ -783,6 +783,17 @@
    "score": [
     82,
     85
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2938697,
+   "date": "2026-11-07",
+   "home": "brno",
+   "away": "hradec",
+   "score": [
+    82,
+    64
    ],
    "status": "final"
   },

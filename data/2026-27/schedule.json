@@ -1,10 +1,10 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-07T21:54:35+00:00",
+ "generatedAt": "2026-11-07T23:05:48+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 63,
+  "final": 64,
   "scheduled": 67,
   "withFiba": 68
  },
@@ -2472,7 +2472,10 @@
    "time": "18:00",
    "home": "PUMPA Basket Brno",
    "away": "BK GAPA Hradec Králové",
-   "score": null,
+   "score": {
+    "home": 82,
+    "away": 64
+   },
    "quarters": null,
    "roundNum": 11,
    "date": "2026-11-07",
@@ -2480,14 +2483,14 @@
    "awaySlug": "hradec",
    "homeLabel": "Brno",
    "awayLabel": "Hradec",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544607",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2938697/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2938697/data.json",
     "stats": "matches/2938697.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544611,

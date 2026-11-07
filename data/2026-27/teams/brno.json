@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-07T21:54:35+00:00",
+ "generatedAt": "2026-11-07T23:05:48+00:00",
  "slug": "brno",
  "name": "PUMPA Basket Brno",
  "label": "Brno",
@@ -8,209 +8,209 @@
  "code": "BRN",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
  "coach": "Jan Pavlík",
- "games": 10,
- "minutes": 400.0,
+ "games": 11,
+ "minutes": 440.0,
  "totals": {
-  "pts": 809,
-  "fgm": 271,
-  "fga": 665,
-  "tpm": 76,
-  "tpa": 258,
-  "twopm": 195,
-  "twopa": 407,
-  "ftm": 191,
-  "fta": 280,
-  "oreb": 145,
-  "dreb": 297,
-  "reb": 442,
-  "ast": 183,
-  "to": 167,
-  "stl": 72,
-  "blk": 36,
-  "blkr": 30,
-  "pf": 255,
-  "foulon": 240,
-  "paint": 364,
-  "fast": 128,
-  "second": 145,
-  "bench": 326,
-  "offto": 134
+  "pts": 891,
+  "fgm": 301,
+  "fga": 736,
+  "tpm": 82,
+  "tpa": 280,
+  "twopm": 219,
+  "twopa": 456,
+  "ftm": 207,
+  "fta": 299,
+  "oreb": 160,
+  "dreb": 330,
+  "reb": 490,
+  "ast": 207,
+  "to": 179,
+  "stl": 79,
+  "blk": 39,
+  "blkr": 37,
+  "pf": 279,
+  "foulon": 258,
+  "paint": 406,
+  "fast": 142,
+  "second": 159,
+  "bench": 360,
+  "offto": 149
  },
  "oppTotals": {
-  "pts": 839,
-  "fgm": 273,
-  "fga": 661,
-  "tpm": 95,
-  "tpa": 282,
-  "twopm": 178,
-  "twopa": 379,
-  "ftm": 198,
-  "fta": 283,
-  "oreb": 132,
-  "dreb": 274,
-  "reb": 406,
-  "ast": 186,
-  "to": 147,
-  "stl": 94,
-  "blk": 30,
-  "blkr": 36,
-  "pf": 250,
-  "foulon": 245,
-  "paint": 310,
-  "fast": 150,
-  "second": 119,
-  "bench": 260,
-  "offto": 184
+  "pts": 903,
+  "fgm": 295,
+  "fga": 721,
+  "tpm": 100,
+  "tpa": 304,
+  "twopm": 195,
+  "twopa": 417,
+  "ftm": 213,
+  "fta": 306,
+  "oreb": 139,
+  "dreb": 299,
+  "reb": 438,
+  "ast": 196,
+  "to": 162,
+  "stl": 102,
+  "blk": 37,
+  "blkr": 39,
+  "pf": 268,
+  "foulon": 269,
+  "paint": 338,
+  "fast": 153,
+  "second": 124,
+  "bench": 284,
+  "offto": 195
  },
  "perGame": {
-  "pts": 80.9,
-  "fgm": 27.1,
-  "fga": 66.5,
-  "tpm": 7.6,
-  "tpa": 25.8,
-  "twopm": 19.5,
-  "twopa": 40.7,
-  "ftm": 19.1,
-  "fta": 28.0,
+  "pts": 81.0,
+  "fgm": 27.4,
+  "fga": 66.9,
+  "tpm": 7.5,
+  "tpa": 25.5,
+  "twopm": 19.9,
+  "twopa": 41.5,
+  "ftm": 18.8,
+  "fta": 27.2,
   "oreb": 14.5,
-  "dreb": 29.7,
-  "reb": 44.2,
-  "ast": 18.3,
-  "to": 16.7,
+  "dreb": 30.0,
+  "reb": 44.5,
+  "ast": 18.8,
+  "to": 16.3,
   "stl": 7.2,
-  "blk": 3.6,
-  "blkr": 3.0,
-  "pf": 25.5,
-  "foulon": 24.0,
-  "paint": 36.4,
-  "fast": 12.8,
+  "blk": 3.5,
+  "blkr": 3.4,
+  "pf": 25.4,
+  "foulon": 23.5,
+  "paint": 36.9,
+  "fast": 12.9,
   "second": 14.5,
-  "bench": 32.6,
-  "offto": 13.4,
-  "ppg": 80.9,
-  "oppg": 83.9,
-  "diff": -3.0
+  "bench": 32.7,
+  "offto": 13.5,
+  "ppg": 81.0,
+  "oppg": 82.1,
+  "diff": -1.1
  },
  "oppPerGame": {
-  "pts": 83.9,
-  "fgm": 27.3,
-  "fga": 66.1,
-  "tpm": 9.5,
-  "tpa": 28.2,
-  "twopm": 17.8,
+  "pts": 82.1,
+  "fgm": 26.8,
+  "fga": 65.5,
+  "tpm": 9.1,
+  "tpa": 27.6,
+  "twopm": 17.7,
   "twopa": 37.9,
-  "ftm": 19.8,
-  "fta": 28.3,
-  "oreb": 13.2,
-  "dreb": 27.4,
-  "reb": 40.6,
-  "ast": 18.6,
+  "ftm": 19.4,
+  "fta": 27.8,
+  "oreb": 12.6,
+  "dreb": 27.2,
+  "reb": 39.8,
+  "ast": 17.8,
   "to": 14.7,
-  "stl": 9.4,
-  "blk": 3.0,
-  "blkr": 3.6,
-  "pf": 25.0,
+  "stl": 9.3,
+  "blk": 3.4,
+  "blkr": 3.5,
+  "pf": 24.4,
   "foulon": 24.5,
-  "paint": 31.0,
-  "fast": 15.0,
-  "second": 11.9,
-  "bench": 26.0,
-  "offto": 18.4
+  "paint": 30.7,
+  "fast": 13.9,
+  "second": 11.3,
+  "bench": 25.8,
+  "offto": 17.7
  },
  "adv": {
-  "poss": 810.2,
-  "pace": 80.5,
-  "ortg": 99.9,
-  "drtg": 104.8,
-  "net": -5.0,
+  "poss": 886.6,
+  "pace": 80.2,
+  "ortg": 100.5,
+  "drtg": 102.8,
+  "net": -2.3,
   "efg": 46.5,
-  "ts": 51.3,
-  "tov": 17.5,
-  "orb": 34.6,
-  "drb": 69.2,
-  "ftr": 28.7,
-  "fta_rate": 42.1,
-  "three_par": 38.8,
-  "fg": 40.8,
-  "two": 47.9,
-  "three": 29.5,
-  "ft": 68.2,
-  "ast_pct": 67.5,
-  "ast_to": 1.1,
+  "ts": 51.4,
+  "tov": 17.1,
+  "orb": 34.9,
+  "drb": 70.4,
+  "ftr": 28.1,
+  "fta_rate": 40.6,
+  "three_par": 38.0,
+  "fg": 40.9,
+  "two": 48.0,
+  "three": 29.3,
+  "ft": 69.2,
+  "ast_pct": 68.8,
+  "ast_to": 1.16,
   "stl_pct": 9.0,
-  "blk_pct": 9.5,
+  "blk_pct": 9.4,
   "pts_per_shot": 1.03
  },
  "oppAdv": {
-  "opp_efg": 48.5,
-  "opp_ts": 53.4,
-  "opp_tov": 15.8,
-  "opp_ftr": 30.0,
-  "opp_three_par": 42.7,
-  "opp_fg": 41.3,
-  "opp_two": 47.0,
-  "opp_three": 33.7,
-  "opp_ft": 70.0
+  "opp_efg": 47.9,
+  "opp_ts": 52.8,
+  "opp_tov": 15.9,
+  "opp_ftr": 29.5,
+  "opp_three_par": 42.2,
+  "opp_fg": 40.9,
+  "opp_two": 46.8,
+  "opp_three": 32.9,
+  "opp_ft": 69.6
  },
  "factors": {
   "efg": 46.5,
-  "tov": 17.5,
-  "orb": 34.6,
-  "ftr": 28.7,
-  "opp_efg": 48.5,
-  "opp_tov": 15.8,
-  "drb": 69.2,
-  "opp_ftr": 30.0
+  "tov": 17.1,
+  "orb": 34.9,
+  "ftr": 28.1,
+  "opp_efg": 47.9,
+  "opp_tov": 15.9,
+  "drb": 70.4,
+  "opp_ftr": 29.5
  },
  "zones": {
   "paint": {
-   "m": 184,
-   "a": 364,
-   "pct": 50.5,
-   "share": 54.7
+   "m": 206,
+   "a": 404,
+   "pct": 51.0,
+   "share": 54.9
   },
   "mid": {
-   "m": 11,
-   "a": 43,
-   "pct": 25.6,
-   "share": 6.5
+   "m": 13,
+   "a": 52,
+   "pct": 25.0,
+   "share": 7.1
   },
   "corner3": {
-   "m": 16,
-   "a": 50,
-   "pct": 32.0,
-   "share": 7.5
+   "m": 17,
+   "a": 56,
+   "pct": 30.4,
+   "share": 7.6
   },
   "above3": {
-   "m": 60,
-   "a": 208,
-   "pct": 28.8,
-   "share": 31.3
+   "m": 65,
+   "a": 224,
+   "pct": 29.0,
+   "share": 30.4
   }
  },
  "oppZones": {
   "paint": {
-   "m": 155,
-   "a": 322,
-   "pct": 48.1,
+   "m": 169,
+   "a": 352,
+   "pct": 48.0,
    "share": null
   },
   "mid": {
-   "m": 23,
-   "a": 57,
-   "pct": 40.4,
+   "m": 26,
+   "a": 65,
+   "pct": 40.0,
    "share": null
   },
   "corner3": {
-   "m": 23,
-   "a": 56,
-   "pct": 41.1,
+   "m": 25,
+   "a": 61,
+   "pct": 41.0,
    "share": null
   },
   "above3": {
-   "m": 72,
-   "a": 226,
-   "pct": 31.9,
+   "m": 75,
+   "a": 243,
+   "pct": 30.9,
    "share": null
   }
  },
@@ -223,16 +223,16 @@
    "20+"
   ],
   "pts": [
-   140,
-   164,
+   154,
    183,
-   152,
-   163
+   203,
+   164,
+   180
   ],
   "unassigned": 7,
-  "possessions": 825,
-  "ptsPerPoss": 0.98,
-  "avgSec": 13.6
+  "possessions": 904,
+  "ptsPerPoss": 0.99,
+  "avgSec": 13.7
  },
  "clutch": {
   "pts": 18,
@@ -252,34 +252,34 @@
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 21.2,
-   "oppg": 22.1,
-   "diff": -0.9,
-   "n": 10
+   "ppg": 20.9,
+   "oppg": 21.5,
+   "diff": -0.5,
+   "n": 11
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 18.5,
-   "oppg": 17.6,
-   "diff": 0.9,
-   "n": 10
+   "ppg": 18.8,
+   "oppg": 17.5,
+   "diff": 1.3,
+   "n": 11
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 21.8,
-   "oppg": 21.4,
-   "diff": 0.4,
-   "n": 10
+   "ppg": 21.9,
+   "oppg": 20.5,
+   "diff": 1.4,
+   "n": 11
   },
   {
    "period": 4,
    "label": "Q4",
    "ppg": 19.4,
-   "oppg": 22.8,
-   "diff": -3.4,
-   "n": 10
+   "oppg": 22.5,
+   "diff": -3.2,
+   "n": 11
   }
  ],
  "flow": {
@@ -287,7 +287,7 @@
   "biggestDeficit": 20,
   "biggestRun": 12,
   "biggestRunAllowed": 20,
-  "leadChangesPerGame": 4.4
+  "leadChangesPerGame": 4.0
  },
  "lineups": {
   "fives": [
@@ -299,19 +299,19 @@
      "Petr Křivánek",
      "Viktor Půlpán"
     ],
-    "min": 23.0,
-    "pf": 41,
-    "pa": 53,
-    "pm": -12,
-    "poss": 45.2,
-    "pF": 45.0,
-    "pA": 45.4,
-    "ortg": 91.2,
-    "drtg": 116.7,
-    "net": -25.5,
-    "efg": 47.1,
-    "oefg": 48.9,
-    "games": 5
+    "min": 24.6,
+    "pf": 44,
+    "pa": 58,
+    "pm": -14,
+    "poss": 47.1,
+    "pF": 46.8,
+    "pA": 47.4,
+    "ortg": 93.9,
+    "drtg": 122.4,
+    "net": -28.4,
+    "efg": 47.2,
+    "oefg": 51.0,
+    "games": 6
    },
    {
     "players": [
@@ -337,6 +337,28 @@
    },
    {
     "players": [
+     "Jaden Dewar Edwards",
+     "Jermaine Ballisager Webb",
+     "Petr Křivánek",
+     "Viktor Půlpán",
+     "Šimon Svoboda"
+    ],
+    "min": 16.6,
+    "pf": 40,
+    "pa": 19,
+    "pm": 21,
+    "poss": 31.4,
+    "pF": 30.5,
+    "pA": 32.3,
+    "ortg": 131.1,
+    "drtg": 58.8,
+    "net": 72.3,
+    "efg": 50.0,
+    "oefg": 37.5,
+    "games": 2
+   },
+   {
+    "players": [
      "Jermaine Ballisager Webb",
      "Matěj Rychtecký",
      "Petr Křivánek",
@@ -356,6 +378,28 @@
     "efg": 38.9,
     "oefg": 35.7,
     "games": 3
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Milan Tomáš Stráněl",
+     "Viktor Půlpán",
+     "Vojtěch Synáček",
+     "Šimon Svoboda"
+    ],
+    "min": 11.2,
+    "pf": 18,
+    "pa": 22,
+    "pm": -4,
+    "poss": 23.6,
+    "pF": 22.8,
+    "pA": 24.5,
+    "ortg": 79.1,
+    "drtg": 89.7,
+    "net": -10.6,
+    "efg": 41.2,
+    "oefg": 45.0,
+    "games": 5
    },
    {
     "players": [
@@ -425,6 +469,28 @@
    },
    {
     "players": [
+     "Jermaine Ballisager Webb",
+     "Matěj Rychtecký",
+     "Milan Tomáš Stráněl",
+     "Viktor Půlpán",
+     "Vojtěch Synáček"
+    ],
+    "min": 9.6,
+    "pf": 22,
+    "pa": 21,
+    "pm": 1,
+    "poss": 19.0,
+    "pF": 20.2,
+    "pA": 17.9,
+    "ortg": 109.1,
+    "drtg": 117.4,
+    "net": -8.3,
+    "efg": 46.7,
+    "oefg": 55.9,
+    "games": 4
+   },
+   {
+    "players": [
      "Jaden Dewar Edwards",
      "Jermaine Ballisager Webb",
      "Petr Křivánek",
@@ -447,47 +513,25 @@
    },
    {
     "players": [
-     "Jermaine Ballisager Webb",
+     "Corey Maurice Thomas",
      "Matěj Rychtecký",
-     "Milan Tomáš Stráněl",
-     "Viktor Půlpán",
+     "Petr Křivánek",
+     "Viktor Ivánek",
      "Vojtěch Synáček"
     ],
-    "min": 8.1,
-    "pf": 17,
-    "pa": 21,
-    "pm": -4,
-    "poss": 16.1,
-    "pF": 16.4,
-    "pA": 15.9,
-    "ortg": 103.7,
-    "drtg": 132.2,
-    "net": -28.6,
-    "efg": 50.0,
-    "oefg": 63.3,
-    "games": 3
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Milan Tomáš Stráněl",
-     "Viktor Půlpán",
-     "Vojtěch Synáček",
-     "Šimon Svoboda"
-    ],
-    "min": 8.0,
-    "pf": 12,
-    "pa": 18,
-    "pm": -6,
-    "poss": 17.2,
+    "min": 8.7,
+    "pf": 16,
+    "pa": 12,
+    "pm": 4,
+    "poss": 15.0,
     "pF": 15.9,
-    "pA": 18.5,
-    "ortg": 75.6,
-    "drtg": 97.2,
-    "net": -21.6,
-    "efg": 45.5,
-    "oefg": 43.8,
-    "games": 4
+    "pA": 14.2,
+    "ortg": 100.8,
+    "drtg": 84.5,
+    "net": 16.2,
+    "efg": 41.2,
+    "oefg": 32.1,
+    "games": 1
    },
    {
     "players": [
@@ -667,6 +711,72 @@
    },
    {
     "players": [
+     "Jaden Dewar Edwards",
+     "Jermaine Ballisager Webb",
+     "Milan Tomáš Stráněl",
+     "Viktor Půlpán",
+     "Vojtěch Synáček"
+    ],
+    "min": 5.7,
+    "pf": 11,
+    "pa": 13,
+    "pm": -2,
+    "poss": 11.0,
+    "pF": 10.3,
+    "pA": 11.8,
+    "ortg": 106.6,
+    "drtg": 110.5,
+    "net": -4.0,
+    "efg": 50.0,
+    "oefg": 45.5,
+    "games": 3
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Milan Tomáš Stráněl",
+     "Petr Křivánek",
+     "Vojtěch Synáček",
+     "Šimon Svoboda"
+    ],
+    "min": 5.5,
+    "pf": 8,
+    "pa": 9,
+    "pm": -1,
+    "poss": 8.3,
+    "pF": 10.0,
+    "pA": 6.6,
+    "ortg": 80.0,
+    "drtg": 135.5,
+    "net": -55.5,
+    "efg": 50.0,
+    "oefg": 62.5,
+    "games": 3
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Jermaine Ballisager Webb",
+     "Viktor Půlpán",
+     "Vojtěch Synáček",
+     "Šimon Svoboda"
+    ],
+    "min": 5.5,
+    "pf": 8,
+    "pa": 18,
+    "pm": -10,
+    "poss": 11.1,
+    "pF": 11.8,
+    "pA": 10.4,
+    "ortg": 68.0,
+    "drtg": 172.4,
+    "net": -104.4,
+    "efg": 25.0,
+    "oefg": 112.5,
+    "games": 4
+   },
+   {
+    "players": [
      "Corey Maurice Thomas",
      "Jermaine Ballisager Webb",
      "Petr Křivánek",
@@ -685,50 +795,6 @@
     "net": 26.9,
     "efg": 50.0,
     "oefg": 46.2,
-    "games": 2
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Jermaine Ballisager Webb",
-     "Milan Tomáš Stráněl",
-     "Viktor Půlpán",
-     "Vojtěch Synáček"
-    ],
-    "min": 5.3,
-    "pf": 11,
-    "pa": 13,
-    "pm": -2,
-    "poss": 10.5,
-    "pF": 10.3,
-    "pA": 10.8,
-    "ortg": 106.6,
-    "drtg": 120.8,
-    "net": -14.2,
-    "efg": 50.0,
-    "oefg": 50.0,
-    "games": 2
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Milan Tomáš Stráněl",
-     "Petr Křivánek",
-     "Vojtěch Synáček",
-     "Šimon Svoboda"
-    ],
-    "min": 5.2,
-    "pf": 8,
-    "pa": 9,
-    "pm": -1,
-    "poss": 8.3,
-    "pF": 10.0,
-    "pA": 6.6,
-    "ortg": 80.0,
-    "drtg": 135.5,
-    "net": -55.5,
-    "efg": 50.0,
-    "oefg": 62.5,
     "games": 2
    },
    {
@@ -752,28 +818,6 @@
     "efg": 75.0,
     "oefg": 34.6,
     "games": 2
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Jermaine Ballisager Webb",
-     "Petr Křivánek",
-     "Viktor Půlpán",
-     "Šimon Svoboda"
-    ],
-    "min": 5.1,
-    "pf": 15,
-    "pa": 6,
-    "pm": 9,
-    "poss": 9.2,
-    "pF": 9.3,
-    "pA": 9.0,
-    "ortg": 160.9,
-    "drtg": 66.7,
-    "net": 94.3,
-    "efg": 60.0,
-    "oefg": 42.9,
-    "games": 1
    },
    {
     "players": [
@@ -818,28 +862,6 @@
     "efg": 50.0,
     "oefg": 44.4,
     "games": 1
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Jermaine Ballisager Webb",
-     "Viktor Půlpán",
-     "Vojtěch Synáček",
-     "Šimon Svoboda"
-    ],
-    "min": 4.3,
-    "pf": 8,
-    "pa": 13,
-    "pm": -5,
-    "poss": 8.6,
-    "pF": 9.8,
-    "pA": 7.4,
-    "ortg": 82.0,
-    "drtg": 174.7,
-    "net": -92.8,
-    "efg": 31.2,
-    "oefg": 130.0,
-    "games": 3
    },
    {
     "players": [
@@ -1531,37 +1553,18 @@
      "Petr Křivánek",
      "Viktor Půlpán"
     ],
-    "min": 118.4,
-    "pf": 250,
-    "pa": 212,
-    "pm": 38,
-    "poss": 226.3,
-    "pF": 232.2,
-    "pA": 220.4,
-    "ortg": 107.7,
-    "drtg": 96.2,
-    "net": 11.5,
-    "efg": 48.4,
-    "oefg": 44.2
-   },
-   {
-    "players": [
-     "Jermaine Ballisager Webb",
-     "Matěj Rychtecký",
-     "Viktor Půlpán"
-    ],
-    "min": 76.3,
-    "pf": 132,
-    "pa": 146,
-    "pm": -14,
-    "poss": 149.3,
-    "pF": 151.9,
-    "pA": 146.8,
-    "ortg": 86.9,
-    "drtg": 99.5,
-    "net": -12.6,
-    "efg": 46.9,
-    "oefg": 47.7
+    "min": 132.7,
+    "pf": 282,
+    "pa": 232,
+    "pm": 50,
+    "poss": 252.1,
+    "pF": 257.1,
+    "pA": 247.1,
+    "ortg": 109.7,
+    "drtg": 93.9,
+    "net": 15.8,
+    "efg": 47.9,
+    "oefg": 44.3
    },
    {
     "players": [
@@ -1569,18 +1572,56 @@
      "Milan Tomáš Stráněl",
      "Viktor Půlpán"
     ],
-    "min": 74.8,
-    "pf": 157,
-    "pa": 167,
-    "pm": -10,
-    "poss": 145.8,
-    "pF": 147.8,
-    "pA": 143.7,
-    "ortg": 106.2,
-    "drtg": 116.2,
-    "net": -10.0,
+    "min": 80.2,
+    "pf": 168,
+    "pa": 176,
+    "pm": -8,
+    "poss": 155.0,
+    "pF": 157.4,
+    "pA": 152.6,
+    "ortg": 106.7,
+    "drtg": 115.3,
+    "net": -8.6,
+    "efg": 50.0,
+    "oefg": 50.3
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Matěj Rychtecký",
+     "Viktor Půlpán"
+    ],
+    "min": 79.4,
+    "pf": 140,
+    "pa": 151,
+    "pm": -11,
+    "poss": 154.2,
+    "pF": 157.6,
+    "pA": 150.8,
+    "ortg": 88.9,
+    "drtg": 100.2,
+    "net": -11.3,
+    "efg": 46.6,
+    "oefg": 47.8
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Petr Křivánek",
+     "Šimon Svoboda"
+    ],
+    "min": 79.3,
+    "pf": 169,
+    "pa": 141,
+    "pm": 28,
+    "poss": 161.4,
+    "pF": 160.8,
+    "pA": 162.1,
+    "ortg": 105.1,
+    "drtg": 87.0,
+    "net": 18.2,
     "efg": 49.6,
-    "oefg": 50.7
+    "oefg": 43.4
    },
    {
     "players": [
@@ -1588,18 +1629,75 @@
      "Viktor Půlpán",
      "Vojtěch Synáček"
     ],
-    "min": 72.3,
-    "pf": 149,
-    "pa": 171,
-    "pm": -22,
-    "poss": 149.5,
-    "pF": 153.2,
-    "pA": 145.8,
-    "ortg": 97.3,
-    "drtg": 117.3,
-    "net": -20.0,
-    "efg": 44.7,
-    "oefg": 53.6
+    "min": 76.6,
+    "pf": 157,
+    "pa": 176,
+    "pm": -19,
+    "poss": 157.3,
+    "pF": 160.9,
+    "pA": 153.8,
+    "ortg": 97.6,
+    "drtg": 114.5,
+    "net": -16.9,
+    "efg": 44.2,
+    "oefg": 52.7
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Viktor Půlpán",
+     "Šimon Svoboda"
+    ],
+    "min": 71.6,
+    "pf": 142,
+    "pa": 131,
+    "pm": 11,
+    "poss": 144.2,
+    "pF": 143.1,
+    "pA": 145.4,
+    "ortg": 99.2,
+    "drtg": 90.1,
+    "net": 9.1,
+    "efg": 45.6,
+    "oefg": 47.7
+   },
+   {
+    "players": [
+     "Viktor Půlpán",
+     "Vojtěch Synáček",
+     "Šimon Svoboda"
+    ],
+    "min": 69.8,
+    "pf": 152,
+    "pa": 154,
+    "pm": -2,
+    "poss": 143.7,
+    "pF": 143.4,
+    "pA": 144.0,
+    "ortg": 106.0,
+    "drtg": 106.9,
+    "net": -1.0,
+    "efg": 48.7,
+    "oefg": 52.6
+   },
+   {
+    "players": [
+     "Milan Tomáš Stráněl",
+     "Viktor Půlpán",
+     "Vojtěch Synáček"
+    ],
+    "min": 67.7,
+    "pf": 147,
+    "pa": 139,
+    "pm": 8,
+    "poss": 137.4,
+    "pF": 137.3,
+    "pA": 137.6,
+    "ortg": 107.1,
+    "drtg": 101.0,
+    "net": 6.0,
+    "efg": 48.6,
+    "oefg": 48.6
    },
    {
     "players": [
@@ -1622,30 +1720,11 @@
    },
    {
     "players": [
-     "Jermaine Ballisager Webb",
-     "Petr Křivánek",
-     "Šimon Svoboda"
-    ],
-    "min": 66.0,
-    "pf": 140,
-    "pa": 123,
-    "pm": 17,
-    "poss": 135.7,
-    "pF": 136.6,
-    "pA": 134.9,
-    "ortg": 102.5,
-    "drtg": 91.2,
-    "net": 11.4,
-    "efg": 49.5,
-    "oefg": 44.2
-   },
-   {
-    "players": [
      "Petr Křivánek",
      "Vojtěch Synáček",
      "Šimon Svoboda"
     ],
-    "min": 65.8,
+    "min": 66.0,
     "pf": 159,
     "pa": 133,
     "pm": 26,
@@ -1660,60 +1739,41 @@
    },
    {
     "players": [
-     "Viktor Půlpán",
-     "Vojtěch Synáček",
-     "Šimon Svoboda"
-    ],
-    "min": 65.4,
-    "pf": 146,
-    "pa": 145,
-    "pm": 1,
-    "poss": 134.8,
-    "pF": 134.6,
-    "pA": 135.0,
-    "ortg": 108.5,
-    "drtg": 107.4,
-    "net": 1.1,
-    "efg": 50.5,
-    "oefg": 51.8
-   },
-   {
-    "players": [
      "Milan Tomáš Stráněl",
      "Petr Křivánek",
      "Viktor Půlpán"
     ],
-    "min": 64.0,
-    "pf": 134,
-    "pa": 126,
-    "pm": 8,
-    "poss": 120.4,
-    "pF": 122.7,
-    "pA": 118.0,
-    "ortg": 109.2,
-    "drtg": 106.8,
-    "net": 2.4,
+    "min": 65.6,
+    "pf": 137,
+    "pa": 131,
+    "pm": 6,
+    "poss": 122.3,
+    "pF": 124.6,
+    "pA": 120.0,
+    "ortg": 110.0,
+    "drtg": 109.2,
+    "net": 0.8,
     "efg": 49.1,
-    "oefg": 49.1
+    "oefg": 50.0
    },
    {
     "players": [
-     "Milan Tomáš Stráněl",
-     "Viktor Půlpán",
-     "Vojtěch Synáček"
+     "Jaden Dewar Edwards",
+     "Petr Křivánek",
+     "Šimon Svoboda"
     ],
-    "min": 62.2,
-    "pf": 136,
-    "pa": 135,
-    "pm": 1,
-    "poss": 127.1,
-    "pF": 126.6,
-    "pA": 127.6,
-    "ortg": 107.4,
-    "drtg": 105.8,
-    "net": 1.6,
+    "min": 63.5,
+    "pf": 146,
+    "pa": 119,
+    "pm": 27,
+    "poss": 125.5,
+    "pF": 126.4,
+    "pA": 124.6,
+    "ortg": 115.5,
+    "drtg": 95.5,
+    "net": 20.1,
     "efg": 50.0,
-    "oefg": 50.0
+    "oefg": 45.6
    },
    {
     "players": [
@@ -1736,6 +1796,44 @@
    },
    {
     "players": [
+     "Jaden Dewar Edwards",
+     "Jermaine Ballisager Webb",
+     "Petr Křivánek"
+    ],
+    "min": 61.9,
+    "pf": 135,
+    "pa": 106,
+    "pm": 29,
+    "poss": 119.7,
+    "pF": 119.3,
+    "pA": 120.2,
+    "ortg": 113.2,
+    "drtg": 88.2,
+    "net": 25.0,
+    "efg": 49.1,
+    "oefg": 46.3
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Matěj Rychtecký",
+     "Petr Křivánek"
+    ],
+    "min": 61.5,
+    "pf": 105,
+    "pa": 117,
+    "pm": -12,
+    "poss": 125.0,
+    "pF": 125.8,
+    "pA": 124.2,
+    "ortg": 83.4,
+    "drtg": 94.2,
+    "net": -10.8,
+    "efg": 42.3,
+    "oefg": 47.0
+   },
+   {
+    "players": [
      "Jermaine Ballisager Webb",
      "Petr Křivánek",
      "Vojtěch Synáček"
@@ -1755,60 +1853,41 @@
    },
    {
     "players": [
+     "Jaden Dewar Edwards",
      "Jermaine Ballisager Webb",
-     "Matěj Rychtecký",
-     "Petr Křivánek"
+     "Viktor Půlpán"
     ],
     "min": 59.9,
-    "pf": 102,
-    "pa": 112,
-    "pm": -10,
-    "poss": 123.1,
-    "pF": 124.0,
-    "pA": 122.2,
-    "ortg": 82.3,
-    "drtg": 91.7,
-    "net": -9.4,
-    "efg": 42.2,
-    "oefg": 45.9
+    "pf": 121,
+    "pa": 97,
+    "pm": 24,
+    "poss": 112.9,
+    "pF": 114.6,
+    "pA": 111.1,
+    "ortg": 105.5,
+    "drtg": 87.3,
+    "net": 18.3,
+    "efg": 47.6,
+    "oefg": 46.6
    },
    {
     "players": [
-     "Jermaine Ballisager Webb",
-     "Milan Tomáš Stráněl",
-     "Petr Křivánek"
-    ],
-    "min": 55.4,
-    "pf": 115,
-    "pa": 128,
-    "pm": -13,
-    "poss": 105.8,
-    "pF": 106.5,
-    "pA": 105.0,
-    "ortg": 108.0,
-    "drtg": 121.9,
-    "net": -13.9,
-    "efg": 49.5,
-    "oefg": 55.2
-   },
-   {
-    "players": [
-     "Jermaine Ballisager Webb",
+     "Jaden Dewar Edwards",
      "Viktor Půlpán",
      "Šimon Svoboda"
     ],
-    "min": 54.6,
-    "pf": 110,
-    "pa": 107,
-    "pm": 3,
-    "poss": 109.7,
-    "pF": 109.9,
-    "pA": 109.4,
-    "ortg": 100.1,
-    "drtg": 97.8,
-    "net": 2.3,
-    "efg": 45.7,
-    "oefg": 50.6
+    "min": 59.1,
+    "pf": 131,
+    "pa": 122,
+    "pm": 9,
+    "poss": 126.3,
+    "pF": 125.7,
+    "pA": 127.0,
+    "ortg": 104.2,
+    "drtg": 96.1,
+    "net": 8.1,
+    "efg": 49.0,
+    "oefg": 53.1
    },
    {
     "players": [
@@ -1816,18 +1895,18 @@
      "Milan Tomáš Stráněl",
      "Viktor Půlpán"
     ],
-    "min": 54.2,
-    "pf": 90,
-    "pa": 125,
-    "pm": -35,
-    "poss": 108.9,
-    "pF": 107.3,
-    "pA": 110.5,
-    "ortg": 83.9,
-    "drtg": 113.1,
-    "net": -29.2,
-    "efg": 44.9,
-    "oefg": 52.0
+    "min": 57.7,
+    "pf": 98,
+    "pa": 130,
+    "pm": -32,
+    "poss": 114.2,
+    "pF": 113.0,
+    "pA": 115.5,
+    "ortg": 86.8,
+    "drtg": 112.5,
+    "net": -25.8,
+    "efg": 44.6,
+    "oefg": 51.9
    },
    {
     "players": [
@@ -1835,75 +1914,56 @@
      "Vojtěch Synáček",
      "Šimon Svoboda"
     ],
-    "min": 52.9,
-    "pf": 130,
-    "pa": 137,
-    "pm": -7,
-    "poss": 111.1,
-    "pF": 114.5,
-    "pA": 107.7,
-    "ortg": 113.5,
-    "drtg": 127.2,
-    "net": -13.7,
-    "efg": 53.7,
-    "oefg": 60.0
+    "min": 57.5,
+    "pf": 136,
+    "pa": 146,
+    "pm": -10,
+    "poss": 120.1,
+    "pF": 123.4,
+    "pA": 116.7,
+    "ortg": 110.2,
+    "drtg": 125.1,
+    "net": -14.9,
+    "efg": 51.5,
+    "oefg": 60.3
    },
    {
     "players": [
-     "Jaden Dewar Edwards",
-     "Petr Křivánek",
-     "Šimon Svoboda"
+     "Jermaine Ballisager Webb",
+     "Milan Tomáš Stráněl",
+     "Petr Křivánek"
     ],
-    "min": 51.8,
-    "pf": 121,
-    "pa": 106,
-    "pm": 15,
-    "poss": 103.2,
-    "pF": 105.2,
-    "pA": 101.3,
-    "ortg": 115.1,
-    "drtg": 104.6,
-    "net": 10.4,
-    "efg": 51.1,
-    "oefg": 47.9
+    "min": 56.9,
+    "pf": 118,
+    "pa": 133,
+    "pm": -15,
+    "poss": 107.7,
+    "pF": 108.4,
+    "pA": 107.0,
+    "ortg": 108.9,
+    "drtg": 124.3,
+    "net": -15.4,
+    "efg": 49.5,
+    "oefg": 56.0
    },
    {
     "players": [
      "Jaden Dewar Edwards",
      "Jermaine Ballisager Webb",
-     "Petr Křivánek"
+     "Šimon Svoboda"
     ],
-    "min": 49.0,
-    "pf": 106,
-    "pa": 91,
-    "pm": 15,
-    "poss": 95.8,
-    "pF": 96.2,
-    "pA": 95.4,
-    "ortg": 110.2,
-    "drtg": 95.3,
-    "net": 14.8,
-    "efg": 50.6,
-    "oefg": 48.1
-   },
-   {
-    "players": [
-     "Matěj Rychtecký",
-     "Petr Křivánek",
-     "Viktor Půlpán"
-    ],
-    "min": 47.3,
-    "pf": 81,
-    "pa": 81,
-    "pm": 0,
-    "poss": 93.9,
-    "pF": 95.2,
-    "pA": 92.5,
-    "ortg": 85.0,
-    "drtg": 87.6,
-    "net": -2.5,
-    "efg": 44.0,
-    "oefg": 43.1
+    "min": 53.1,
+    "pf": 117,
+    "pa": 100,
+    "pm": 17,
+    "poss": 106.9,
+    "pF": 108.4,
+    "pA": 105.3,
+    "ortg": 107.9,
+    "drtg": 94.9,
+    "net": 13.0,
+    "efg": 51.1,
+    "oefg": 51.9
    },
    {
     "players": [
@@ -1911,18 +1971,75 @@
      "Milan Tomáš Stráněl",
      "Viktor Půlpán"
     ],
-    "min": 46.0,
+    "min": 51.5,
+    "pf": 93,
+    "pa": 92,
+    "pm": 1,
+    "poss": 100.3,
+    "pF": 99.4,
+    "pA": 101.2,
+    "ortg": 93.6,
+    "drtg": 90.9,
+    "net": 2.7,
+    "efg": 47.0,
+    "oefg": 48.1
+   },
+   {
+    "players": [
+     "Petr Křivánek",
+     "Viktor Půlpán",
+     "Šimon Svoboda"
+    ],
+    "min": 50.9,
+    "pf": 110,
+    "pa": 59,
+    "pm": 51,
+    "poss": 101.0,
+    "pF": 100.2,
+    "pA": 101.8,
+    "ortg": 109.8,
+    "drtg": 58.0,
+    "net": 51.9,
+    "efg": 47.3,
+    "oefg": 30.4
+   },
+   {
+    "players": [
+     "Matěj Rychtecký",
+     "Petr Křivánek",
+     "Viktor Půlpán"
+    ],
+    "min": 48.8,
     "pf": 84,
-    "pa": 84,
-    "pm": 0,
-    "poss": 89.4,
-    "pF": 88.5,
-    "pA": 90.3,
-    "ortg": 94.9,
-    "drtg": 93.0,
-    "net": 1.9,
-    "efg": 46.7,
-    "oefg": 48.6
+    "pa": 86,
+    "pm": -2,
+    "poss": 95.8,
+    "pF": 97.1,
+    "pA": 94.5,
+    "ortg": 86.5,
+    "drtg": 91.0,
+    "net": -4.5,
+    "efg": 44.2,
+    "oefg": 44.6
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Matěj Rychtecký",
+     "Milan Tomáš Stráněl"
+    ],
+    "min": 46.4,
+    "pf": 83,
+    "pa": 105,
+    "pm": -22,
+    "poss": 91.8,
+    "pF": 92.2,
+    "pA": 91.5,
+    "ortg": 90.0,
+    "drtg": 114.8,
+    "net": -24.8,
+    "efg": 45.6,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -1930,18 +2047,37 @@
      "Petr Křivánek",
      "Viktor Ivánek"
     ],
-    "min": 44.6,
-    "pf": 79,
-    "pa": 76,
-    "pm": 3,
-    "poss": 93.5,
-    "pF": 93.9,
-    "pA": 93.1,
-    "ortg": 84.1,
-    "drtg": 81.6,
-    "net": 2.5,
-    "efg": 38.1,
-    "oefg": 40.3
+    "min": 45.9,
+    "pf": 83,
+    "pa": 78,
+    "pm": 5,
+    "poss": 95.2,
+    "pF": 95.8,
+    "pA": 94.6,
+    "ortg": 86.7,
+    "drtg": 82.5,
+    "net": 4.2,
+    "efg": 38.0,
+    "oefg": 41.1
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Vojtěch Synáček",
+     "Šimon Svoboda"
+    ],
+    "min": 45.6,
+    "pf": 106,
+    "pa": 109,
+    "pm": -3,
+    "poss": 98.3,
+    "pF": 98.5,
+    "pA": 98.0,
+    "ortg": 107.6,
+    "drtg": 111.2,
+    "net": -3.5,
+    "efg": 48.1,
+    "oefg": 54.1
    },
    {
     "players": [
@@ -1964,98 +2100,41 @@
    },
    {
     "players": [
-     "Jermaine Ballisager Webb",
-     "Vojtěch Synáček",
-     "Šimon Svoboda"
-    ],
-    "min": 44.4,
-    "pf": 106,
-    "pa": 104,
-    "pm": 2,
-    "poss": 95.8,
-    "pF": 96.5,
-    "pA": 95.0,
-    "ortg": 109.9,
-    "drtg": 109.4,
-    "net": 0.4,
-    "efg": 49.3,
-    "oefg": 52.9
-   },
-   {
-    "players": [
-     "Jermaine Ballisager Webb",
-     "Matěj Rychtecký",
-     "Milan Tomáš Stráněl"
-    ],
-    "min": 43.2,
-    "pf": 75,
-    "pa": 100,
-    "pm": -25,
-    "poss": 87.0,
-    "pF": 86.6,
-    "pA": 87.5,
-    "ortg": 86.6,
-    "drtg": 114.3,
-    "net": -27.7,
-    "efg": 46.0,
-    "oefg": 50.0
-   },
-   {
-    "players": [
      "Jaden Dewar Edwards",
+     "Viktor Půlpán",
+     "Vojtěch Synáček"
+    ],
+    "min": 42.9,
+    "pf": 93,
+    "pa": 101,
+    "pm": -8,
+    "poss": 89.2,
+    "pF": 89.7,
+    "pA": 88.6,
+    "ortg": 103.7,
+    "drtg": 113.9,
+    "net": -10.2,
+    "efg": 48.7,
+    "oefg": 59.4
+   },
+   {
+    "players": [
      "Jermaine Ballisager Webb",
+     "Viktor Ivánek",
      "Viktor Půlpán"
     ],
-    "min": 40.1,
-    "pf": 82,
-    "pa": 71,
-    "pm": 11,
-    "poss": 74.1,
+    "min": 39.5,
+    "pf": 78,
+    "pa": 83,
+    "pm": -5,
+    "poss": 75.8,
     "pF": 77.6,
-    "pA": 70.7,
-    "ortg": 105.7,
-    "drtg": 100.4,
-    "net": 5.3,
-    "efg": 48.5,
-    "oefg": 50.8
-   },
-   {
-    "players": [
-     "Petr Křivánek",
-     "Viktor Půlpán",
-     "Šimon Svoboda"
-    ],
-    "min": 39.3,
-    "pf": 85,
-    "pa": 46,
-    "pm": 39,
-    "poss": 78.7,
-    "pF": 79.0,
-    "pA": 78.5,
-    "ortg": 107.6,
-    "drtg": 58.6,
-    "net": 49.0,
-    "efg": 47.8,
-    "oefg": 29.0
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Viktor Půlpán",
-     "Šimon Svoboda"
-    ],
-    "min": 39.0,
-    "pf": 93,
-    "pa": 94,
-    "pm": -1,
-    "poss": 85.3,
-    "pF": 85.6,
-    "pA": 85.0,
-    "ortg": 108.6,
-    "drtg": 110.6,
-    "net": -2.0,
-    "efg": 52.2,
-    "oefg": 58.7
+    "pA": 74.0,
+    "ortg": 100.5,
+    "drtg": 112.2,
+    "net": -11.7,
+    "efg": 41.4,
+    "oefg": 48.6
    },
    {
     "players": [
@@ -2078,6 +2157,25 @@
    },
    {
     "players": [
+     "Milan Tomáš Stráněl",
+     "Vojtěch Synáček",
+     "Šimon Svoboda"
+    ],
+    "min": 38.5,
+    "pf": 69,
+    "pa": 74,
+    "pm": -5,
+    "poss": 75.8,
+    "pF": 76.0,
+    "pA": 75.6,
+    "ortg": 90.8,
+    "drtg": 97.8,
+    "net": -7.0,
+    "efg": 43.0,
+    "oefg": 52.0
+   },
+   {
+    "players": [
      "Jermaine Ballisager Webb",
      "Matěj Rychtecký",
      "Šimon Svoboda"
@@ -2097,41 +2195,60 @@
    },
    {
     "players": [
-     "Jermaine Ballisager Webb",
-     "Viktor Ivánek",
-     "Viktor Půlpán"
+     "Matěj Rychtecký",
+     "Milan Tomáš Stráněl",
+     "Petr Křivánek"
     ],
-    "min": 37.1,
-    "pf": 71,
+    "min": 37.5,
+    "pf": 66,
     "pa": 81,
-    "pm": -10,
-    "poss": 72.2,
-    "pF": 73.8,
-    "pA": 70.6,
-    "ortg": 96.3,
-    "drtg": 114.8,
-    "net": -18.5,
-    "efg": 40.8,
-    "oefg": 48.5
+    "pm": -15,
+    "poss": 74.9,
+    "pF": 76.4,
+    "pA": 73.5,
+    "ortg": 86.4,
+    "drtg": 110.2,
+    "net": -23.8,
+    "efg": 43.9,
+    "oefg": 50.0
    },
    {
     "players": [
-     "Jaden Dewar Edwards",
-     "Viktor Půlpán",
+     "Petr Křivánek",
+     "Viktor Ivánek",
      "Vojtěch Synáček"
     ],
-    "min": 37.0,
-    "pf": 84,
-    "pa": 92,
-    "pm": -8,
-    "poss": 77.7,
-    "pF": 78.8,
-    "pA": 76.6,
-    "ortg": 106.6,
-    "drtg": 120.0,
-    "net": -13.4,
-    "efg": 50.8,
-    "oefg": 60.8
+    "min": 37.1,
+    "pf": 78,
+    "pa": 77,
+    "pm": 1,
+    "poss": 79.3,
+    "pF": 78.0,
+    "pA": 80.6,
+    "ortg": 100.0,
+    "drtg": 95.6,
+    "net": 4.4,
+    "efg": 43.4,
+    "oefg": 42.4
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Milan Tomáš Stráněl",
+     "Vojtěch Synáček"
+    ],
+    "min": 36.8,
+    "pf": 88,
+    "pa": 91,
+    "pm": -3,
+    "poss": 77.0,
+    "pF": 77.0,
+    "pA": 77.0,
+    "ortg": 114.2,
+    "drtg": 118.2,
+    "net": -4.0,
+    "efg": 48.4,
+    "oefg": 50.7
    },
    {
     "players": [
@@ -2154,25 +2271,6 @@
    },
    {
     "players": [
-     "Jaden Dewar Edwards",
-     "Jermaine Ballisager Webb",
-     "Šimon Svoboda"
-    ],
-    "min": 36.2,
-    "pf": 85,
-    "pa": 76,
-    "pm": 9,
-    "poss": 72.3,
-    "pF": 75.2,
-    "pA": 69.4,
-    "ortg": 113.0,
-    "drtg": 109.6,
-    "net": 3.5,
-    "efg": 54.2,
-    "oefg": 58.0
-   },
-   {
-    "players": [
      "Petr Křivánek",
      "Viktor Ivánek",
      "Šimon Svoboda"
@@ -2192,39 +2290,20 @@
    },
    {
     "players": [
-     "Matěj Rychtecký",
-     "Milan Tomáš Stráněl",
-     "Petr Křivánek"
-    ],
-    "min": 35.8,
-    "pf": 63,
-    "pa": 74,
-    "pm": -11,
-    "poss": 72.5,
-    "pF": 74.5,
-    "pA": 70.6,
-    "ortg": 84.6,
-    "drtg": 104.8,
-    "net": -20.2,
-    "efg": 43.6,
-    "oefg": 48.5
-   },
-   {
-    "players": [
      "Milan Tomáš Stráněl",
      "Petr Křivánek",
      "Vojtěch Synáček"
     ],
-    "min": 35.6,
+    "min": 36.0,
     "pf": 81,
-    "pa": 78,
-    "pm": 3,
-    "poss": 71.8,
+    "pa": 80,
+    "pm": 1,
+    "poss": 72.2,
     "pF": 74.5,
-    "pA": 69.1,
+    "pA": 70.0,
     "ortg": 108.7,
-    "drtg": 112.9,
-    "net": -4.2,
+    "drtg": 114.4,
+    "net": -5.7,
     "efg": 46.1,
     "oefg": 57.3
    },
@@ -2249,6 +2328,25 @@
    },
    {
     "players": [
+     "Jaden Dewar Edwards",
+     "Petr Křivánek",
+     "Viktor Půlpán"
+    ],
+    "min": 35.5,
+    "pf": 79,
+    "pa": 45,
+    "pm": 34,
+    "poss": 64.9,
+    "pF": 65.2,
+    "pA": 64.5,
+    "ortg": 121.1,
+    "drtg": 69.7,
+    "net": 51.3,
+    "efg": 47.0,
+    "oefg": 41.8
+   },
+   {
+    "players": [
      "Jermaine Ballisager Webb",
      "Radek Farský",
      "Vojtěch Synáček"
@@ -2268,44 +2366,6 @@
    },
    {
     "players": [
-     "Milan Tomáš Stráněl",
-     "Vojtěch Synáček",
-     "Šimon Svoboda"
-    ],
-    "min": 35.2,
-    "pf": 63,
-    "pa": 70,
-    "pm": -7,
-    "poss": 69.4,
-    "pF": 69.1,
-    "pA": 69.6,
-    "ortg": 91.1,
-    "drtg": 100.5,
-    "net": -9.4,
-    "efg": 44.1,
-    "oefg": 52.1
-   },
-   {
-    "players": [
-     "Jermaine Ballisager Webb",
-     "Milan Tomáš Stráněl",
-     "Vojtěch Synáček"
-    ],
-    "min": 34.8,
-    "pf": 83,
-    "pa": 91,
-    "pm": -8,
-    "poss": 73.6,
-    "pF": 73.3,
-    "pA": 74.0,
-    "ortg": 113.3,
-    "drtg": 123.0,
-    "net": -9.7,
-    "efg": 49.1,
-    "oefg": 53.0
-   },
-   {
-    "players": [
      "Matěj Rychtecký",
      "Petr Křivánek",
      "Šimon Svoboda"
@@ -2322,6 +2382,25 @@
     "net": 11.2,
     "efg": 41.2,
     "oefg": 48.9
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Milan Tomáš Stráněl",
+     "Vojtěch Synáček"
+    ],
+    "min": 34.2,
+    "pf": 62,
+    "pa": 68,
+    "pm": -6,
+    "poss": 67.0,
+    "pF": 66.2,
+    "pA": 67.8,
+    "ortg": 93.7,
+    "drtg": 100.4,
+    "net": -6.6,
+    "efg": 48.1,
+    "oefg": 46.3
    },
    {
     "players": [
@@ -2348,7 +2427,7 @@
      "Petr Křivánek",
      "Vojtěch Synáček"
     ],
-    "min": 33.5,
+    "min": 33.7,
     "pf": 83,
     "pa": 83,
     "pm": 0,
@@ -2360,6 +2439,25 @@
     "net": -3.6,
     "efg": 52.4,
     "oefg": 53.3
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
+     "Viktor Půlpán",
+     "Vojtěch Synáček"
+    ],
+    "min": 33.3,
+    "pf": 81,
+    "pa": 70,
+    "pm": 11,
+    "poss": 61.9,
+    "pF": 65.4,
+    "pA": 58.4,
+    "ortg": 123.8,
+    "drtg": 119.9,
+    "net": 3.8,
+    "efg": 63.2,
+    "oefg": 56.5
    },
    {
     "players": [
@@ -2383,21 +2481,21 @@
    {
     "players": [
      "Corey Maurice Thomas",
-     "Viktor Půlpán",
+     "Petr Křivánek",
      "Vojtěch Synáček"
     ],
-    "min": 32.9,
-    "pf": 81,
-    "pa": 70,
-    "pm": 11,
-    "poss": 61.4,
-    "pF": 65.4,
-    "pA": 57.4,
-    "ortg": 123.8,
-    "drtg": 122.0,
-    "net": 1.7,
-    "efg": 63.2,
-    "oefg": 56.5
+    "min": 32.4,
+    "pf": 64,
+    "pa": 59,
+    "pm": 5,
+    "poss": 60.3,
+    "pF": 60.7,
+    "pA": 60.0,
+    "ortg": 105.5,
+    "drtg": 98.3,
+    "net": 7.1,
+    "efg": 45.4,
+    "oefg": 45.9
    },
    {
     "players": [
@@ -2439,22 +2537,41 @@
    },
    {
     "players": [
-     "Jaden Dewar Edwards",
-     "Milan Tomáš Stráněl",
+     "Viktor Ivánek",
+     "Viktor Půlpán",
      "Vojtěch Synáček"
     ],
     "min": 30.4,
-    "pf": 56,
-    "pa": 64,
+    "pf": 61,
+    "pa": 69,
     "pm": -8,
-    "poss": 60.0,
-    "pF": 59.3,
-    "pA": 60.8,
-    "ortg": 94.5,
-    "drtg": 105.3,
-    "net": -10.9,
-    "efg": 50.0,
-    "oefg": 46.9
+    "poss": 62.2,
+    "pF": 63.3,
+    "pA": 61.1,
+    "ortg": 96.3,
+    "drtg": 113.0,
+    "net": -16.6,
+    "efg": 40.8,
+    "oefg": 55.6
+   },
+   {
+    "players": [
+     "Milan Tomáš Stráněl",
+     "Viktor Půlpán",
+     "Šimon Svoboda"
+    ],
+    "min": 30.4,
+    "pf": 48,
+    "pa": 57,
+    "pm": -9,
+    "poss": 61.6,
+    "pF": 59.9,
+    "pA": 63.2,
+    "ortg": 80.1,
+    "drtg": 90.1,
+    "net": -10.0,
+    "efg": 42.7,
+    "oefg": 45.8
    },
    {
     "players": [
@@ -2496,6 +2613,25 @@
    },
    {
     "players": [
+     "Matěj Rychtecký",
+     "Viktor Půlpán",
+     "Vojtěch Synáček"
+    ],
+    "min": 29.8,
+    "pf": 60,
+    "pa": 70,
+    "pm": -10,
+    "poss": 59.0,
+    "pF": 58.8,
+    "pA": 59.2,
+    "ortg": 102.1,
+    "drtg": 118.3,
+    "net": -16.2,
+    "efg": 51.2,
+    "oefg": 60.2
+   },
+   {
+    "players": [
      "Jaden Dewar Edwards",
      "Jermaine Ballisager Webb",
      "Matěj Rychtecký"
@@ -2515,60 +2651,79 @@
    },
    {
     "players": [
-     "Viktor Ivánek",
-     "Viktor Půlpán",
+     "Jaden Dewar Edwards",
+     "Jermaine Ballisager Webb",
      "Vojtěch Synáček"
     ],
-    "min": 29.3,
-    "pf": 58,
-    "pa": 69,
-    "pm": -11,
-    "poss": 60.2,
-    "pF": 61.3,
-    "pA": 59.1,
-    "ortg": 94.6,
-    "drtg": 116.8,
-    "net": -22.2,
-    "efg": 39.4,
-    "oefg": 56.8
+    "min": 28.7,
+    "pf": 61,
+    "pa": 74,
+    "pm": -13,
+    "poss": 59.3,
+    "pF": 58.8,
+    "pA": 59.8,
+    "ortg": 103.7,
+    "drtg": 123.7,
+    "net": -20.0,
+    "efg": 46.8,
+    "oefg": 61.0
    },
    {
     "players": [
-     "Petr Křivánek",
-     "Viktor Ivánek",
+     "Jaden Dewar Edwards",
+     "Jermaine Ballisager Webb",
+     "Milan Tomáš Stráněl"
+    ],
+    "min": 27.8,
+    "pf": 56,
+    "pa": 54,
+    "pm": 2,
+    "poss": 52.1,
+    "pF": 51.7,
+    "pA": 52.4,
+    "ortg": 108.3,
+    "drtg": 103.1,
+    "net": 5.2,
+    "efg": 54.7,
+    "oefg": 48.9
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Matěj Rychtecký",
      "Vojtěch Synáček"
     ],
-    "min": 28.3,
-    "pf": 62,
-    "pa": 63,
-    "pm": -1,
-    "poss": 63.8,
-    "pF": 62.1,
-    "pA": 65.5,
-    "ortg": 99.8,
-    "drtg": 96.2,
-    "net": 3.6,
-    "efg": 44.1,
-    "oefg": 46.9
+    "min": 27.6,
+    "pf": 59,
+    "pa": 55,
+    "pm": 4,
+    "poss": 55.2,
+    "pF": 55.0,
+    "pA": 55.4,
+    "ortg": 107.3,
+    "drtg": 99.3,
+    "net": 8.0,
+    "efg": 53.6,
+    "oefg": 50.0
    },
    {
     "players": [
      "Matěj Rychtecký",
-     "Viktor Půlpán",
+     "Milan Tomáš Stráněl",
      "Vojtěch Synáček"
     ],
-    "min": 27.8,
-    "pf": 55,
-    "pa": 70,
-    "pm": -15,
-    "poss": 55.6,
-    "pF": 55.0,
-    "pA": 56.2,
-    "ortg": 100.0,
-    "drtg": 124.6,
-    "net": -24.6,
-    "efg": 52.6,
-    "oefg": 62.8
+    "min": 27.1,
+    "pf": 45,
+    "pa": 67,
+    "pm": -22,
+    "poss": 56.8,
+    "pF": 54.4,
+    "pA": 59.1,
+    "ortg": 82.7,
+    "drtg": 113.3,
+    "net": -30.7,
+    "efg": 36.2,
+    "oefg": 58.0
    },
    {
     "players": [
@@ -2629,44 +2784,6 @@
    },
    {
     "players": [
-     "Jermaine Ballisager Webb",
-     "Matěj Rychtecký",
-     "Vojtěch Synáček"
-    ],
-    "min": 26.1,
-    "pf": 54,
-    "pa": 55,
-    "pm": -1,
-    "poss": 52.3,
-    "pF": 51.2,
-    "pA": 53.4,
-    "ortg": 105.4,
-    "drtg": 103.0,
-    "net": 2.4,
-    "efg": 55.1,
-    "oefg": 52.3
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Jermaine Ballisager Webb",
-     "Vojtěch Synáček"
-    ],
-    "min": 26.0,
-    "pf": 58,
-    "pa": 69,
-    "pm": -11,
-    "poss": 54.3,
-    "pF": 54.8,
-    "pA": 53.8,
-    "ortg": 105.8,
-    "drtg": 128.3,
-    "net": -22.4,
-    "efg": 47.7,
-    "oefg": 62.2
-   },
-   {
-    "players": [
      "Petr Křivánek",
      "Radek Farský",
      "Viktor Ivánek"
@@ -2683,6 +2800,25 @@
     "net": 5.8,
     "efg": 50.0,
     "oefg": 39.6
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
+     "Viktor Ivánek",
+     "Vojtěch Synáček"
+    ],
+    "min": 25.7,
+    "pf": 50,
+    "pa": 44,
+    "pm": 6,
+    "poss": 47.9,
+    "pF": 48.2,
+    "pA": 47.6,
+    "ortg": 103.8,
+    "drtg": 92.4,
+    "net": 11.4,
+    "efg": 54.3,
+    "oefg": 45.1
    },
    {
     "players": [
@@ -2725,40 +2861,21 @@
    {
     "players": [
      "Jaden Dewar Edwards",
-     "Jermaine Ballisager Webb",
-     "Milan Tomáš Stráněl"
+     "Matěj Rychtecký",
+     "Petr Křivánek"
     ],
     "min": 25.5,
-    "pf": 53,
-    "pa": 50,
-    "pm": 3,
-    "poss": 47.6,
-    "pF": 47.7,
-    "pA": 47.5,
-    "ortg": 111.1,
-    "drtg": 105.2,
-    "net": 5.8,
-    "efg": 52.4,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Milan Tomáš Stráněl",
-     "Viktor Půlpán",
-     "Šimon Svoboda"
-    ],
-    "min": 25.3,
-    "pf": 39,
-    "pa": 49,
-    "pm": -10,
-    "poss": 51.2,
-    "pF": 49.0,
-    "pA": 53.4,
-    "ortg": 79.5,
-    "drtg": 91.8,
-    "net": -12.3,
-    "efg": 41.2,
-    "oefg": 45.2
+    "pf": 49,
+    "pa": 45,
+    "pm": 4,
+    "poss": 55.3,
+    "pF": 55.2,
+    "pA": 55.4,
+    "ortg": 88.7,
+    "drtg": 81.3,
+    "net": 7.4,
+    "efg": 44.2,
+    "oefg": 42.5
    },
    {
     "players": [
@@ -2766,7 +2883,7 @@
      "Milan Tomáš Stráněl",
      "Petr Křivánek"
     ],
-    "min": 25.0,
+    "min": 25.2,
     "pf": 49,
     "pa": 44,
     "pm": 5,
@@ -2778,6 +2895,25 @@
     "net": -7.4,
     "efg": 51.2,
     "oefg": 54.4
+   },
+   {
+    "players": [
+     "Petr Křivánek",
+     "Viktor Ivánek",
+     "Viktor Půlpán"
+    ],
+    "min": 25.1,
+    "pf": 54,
+    "pa": 28,
+    "pm": 26,
+    "poss": 49.0,
+    "pF": 49.6,
+    "pA": 48.5,
+    "ortg": 109.0,
+    "drtg": 57.7,
+    "net": 51.3,
+    "efg": 39.0,
+    "oefg": 26.7
    },
    {
     "players": [
@@ -2800,30 +2936,11 @@
    },
    {
     "players": [
-     "Matěj Rychtecký",
-     "Milan Tomáš Stráněl",
-     "Vojtěch Synáček"
-    ],
-    "min": 24.9,
-    "pf": 40,
-    "pa": 65,
-    "pm": -25,
-    "poss": 53.0,
-    "pF": 50.7,
-    "pA": 55.2,
-    "ortg": 78.9,
-    "drtg": 117.7,
-    "net": -38.7,
-    "efg": 36.5,
-    "oefg": 60.7
-   },
-   {
-    "players": [
      "Milan Tomáš Stráněl",
      "Petr Křivánek",
      "Šimon Svoboda"
     ],
-    "min": 24.6,
+    "min": 24.8,
     "pf": 47,
     "pa": 41,
     "pm": 6,
@@ -2838,22 +2955,41 @@
    },
    {
     "players": [
-     "Jaden Dewar Edwards",
      "Matěj Rychtecký",
-     "Petr Křivánek"
+     "Petr Křivánek",
+     "Vojtěch Synáček"
     ],
-    "min": 24.5,
+    "min": 24.8,
+    "pf": 48,
+    "pa": 44,
+    "pm": 4,
+    "poss": 51.7,
+    "pF": 51.7,
+    "pA": 51.7,
+    "ortg": 92.8,
+    "drtg": 85.1,
+    "net": 7.7,
+    "efg": 42.6,
+    "oefg": 41.9
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
+     "Petr Křivánek",
+     "Viktor Ivánek"
+    ],
+    "min": 24.2,
     "pf": 46,
     "pa": 41,
     "pm": 5,
-    "poss": 52.3,
-    "pF": 52.2,
-    "pA": 52.4,
-    "ortg": 88.1,
-    "drtg": 78.3,
-    "net": 9.8,
-    "efg": 41.7,
-    "oefg": 40.5
+    "poss": 47.3,
+    "pF": 47.5,
+    "pA": 47.0,
+    "ortg": 96.8,
+    "drtg": 87.2,
+    "net": 9.6,
+    "efg": 51.3,
+    "oefg": 36.0
    },
    {
     "players": [
@@ -2876,25 +3012,6 @@
    },
    {
     "players": [
-     "Petr Křivánek",
-     "Viktor Ivánek",
-     "Viktor Půlpán"
-    ],
-    "min": 23.9,
-    "pf": 50,
-    "pa": 26,
-    "pm": 24,
-    "poss": 47.4,
-    "pF": 47.7,
-    "pA": 47.1,
-    "ortg": 104.9,
-    "drtg": 55.2,
-    "net": 49.6,
-    "efg": 39.4,
-    "oefg": 25.0
-   },
-   {
-    "players": [
      "Matěj Rychtecký",
      "Vojtěch Synáček",
      "Šimon Svoboda"
@@ -2911,25 +3028,6 @@
     "net": 11.4,
     "efg": 55.6,
     "oefg": 55.6
-   },
-   {
-    "players": [
-     "Corey Maurice Thomas",
-     "Petr Křivánek",
-     "Vojtěch Synáček"
-    ],
-    "min": 23.7,
-    "pf": 48,
-    "pa": 47,
-    "pm": 1,
-    "poss": 45.3,
-    "pF": 44.8,
-    "pA": 45.8,
-    "ortg": 107.1,
-    "drtg": 102.6,
-    "net": 4.5,
-    "efg": 47.3,
-    "oefg": 51.4
    },
    {
     "players": [
@@ -2972,21 +3070,21 @@
    {
     "players": [
      "Jaden Dewar Edwards",
-     "Petr Křivánek",
-     "Viktor Půlpán"
+     "Milan Tomáš Stráněl",
+     "Šimon Svoboda"
     ],
-    "min": 22.6,
-    "pf": 50,
-    "pa": 30,
-    "pm": 20,
-    "poss": 41.0,
-    "pF": 42.2,
-    "pA": 39.8,
-    "ortg": 118.6,
-    "drtg": 75.5,
-    "net": 43.1,
-    "efg": 48.8,
-    "oefg": 43.5
+    "min": 22.3,
+    "pf": 31,
+    "pa": 45,
+    "pm": -14,
+    "poss": 44.3,
+    "pF": 44.8,
+    "pA": 43.9,
+    "ortg": 69.3,
+    "drtg": 102.5,
+    "net": -33.2,
+    "efg": 43.5,
+    "oefg": 51.5
    },
    {
     "players": [
@@ -3006,6 +3104,25 @@
     "net": -20.7,
     "efg": 29.2,
     "oefg": 54.3
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Viktor Ivánek",
+     "Vojtěch Synáček"
+    ],
+    "min": 21.8,
+    "pf": 36,
+    "pa": 60,
+    "pm": -24,
+    "poss": 50.1,
+    "pF": 50.0,
+    "pA": 50.2,
+    "ortg": 71.9,
+    "drtg": 119.5,
+    "net": -47.6,
+    "efg": 31.0,
+    "oefg": 66.7
    },
    {
     "players": [
@@ -3104,22 +3221,41 @@
    },
    {
     "players": [
-     "Jermaine Ballisager Webb",
-     "Viktor Ivánek",
-     "Vojtěch Synáček"
+     "Jaden Dewar Edwards",
+     "Petr Křivánek",
+     "Viktor Ivánek"
     ],
-    "min": 20.7,
-    "pf": 33,
-    "pa": 60,
-    "pm": -27,
-    "poss": 48.1,
-    "pF": 48.0,
-    "pA": 48.2,
-    "ortg": 68.7,
-    "drtg": 124.5,
-    "net": -55.8,
-    "efg": 28.8,
-    "oefg": 69.0
+    "min": 19.5,
+    "pf": 44,
+    "pa": 38,
+    "pm": 6,
+    "poss": 42.0,
+    "pF": 40.8,
+    "pA": 43.1,
+    "ortg": 107.7,
+    "drtg": 88.1,
+    "net": 19.6,
+    "efg": 47.3,
+    "oefg": 37.5
+   },
+   {
+    "players": [
+     "Matěj Rychtecký",
+     "Petr Křivánek",
+     "Viktor Ivánek"
+    ],
+    "min": 19.2,
+    "pf": 34,
+    "pa": 32,
+    "pm": 2,
+    "poss": 40.3,
+    "pF": 40.8,
+    "pA": 39.7,
+    "ortg": 83.3,
+    "drtg": 80.6,
+    "net": 2.7,
+    "efg": 37.5,
+    "oefg": 39.7
    },
    {
     "players": [
@@ -3184,75 +3320,37 @@
      "Viktor Ivánek",
      "Vojtěch Synáček"
     ],
-    "min": 17.4,
+    "min": 17.5,
     "pf": 39,
-    "pa": 35,
-    "pm": 4,
-    "poss": 34.4,
+    "pa": 37,
+    "pm": 2,
+    "poss": 34.9,
     "pF": 34.0,
-    "pA": 34.8,
+    "pA": 35.7,
     "ortg": 114.6,
-    "drtg": 100.6,
-    "net": 14.0,
+    "drtg": 103.7,
+    "net": 10.9,
     "efg": 46.6,
     "oefg": 43.8
    },
    {
     "players": [
      "Jaden Dewar Edwards",
-     "Petr Křivánek",
+     "Jermaine Ballisager Webb",
      "Viktor Ivánek"
     ],
     "min": 17.2,
-    "pf": 37,
-    "pa": 32,
-    "pm": 5,
-    "poss": 37.3,
-    "pF": 36.0,
-    "pA": 38.7,
-    "ortg": 102.9,
-    "drtg": 82.7,
-    "net": 20.2,
-    "efg": 45.5,
-    "oefg": 31.2
-   },
-   {
-    "players": [
-     "Corey Maurice Thomas",
-     "Viktor Ivánek",
-     "Vojtěch Synáček"
-    ],
-    "min": 17.0,
-    "pf": 34,
-    "pa": 32,
-    "pm": 2,
-    "poss": 32.8,
-    "pF": 32.3,
-    "pA": 33.4,
-    "ortg": 105.3,
-    "drtg": 95.8,
-    "net": 9.5,
-    "efg": 66.7,
-    "oefg": 51.9
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Milan Tomáš Stráněl",
-     "Šimon Svoboda"
-    ],
-    "min": 17.0,
-    "pf": 22,
-    "pa": 37,
-    "pm": -15,
-    "poss": 34.0,
-    "pF": 33.9,
-    "pA": 34.0,
-    "ortg": 64.9,
-    "drtg": 108.7,
-    "net": -43.8,
-    "efg": 41.7,
-    "oefg": 51.9
+    "pf": 33,
+    "pa": 21,
+    "pm": 12,
+    "poss": 32.6,
+    "pF": 32.5,
+    "pA": 32.7,
+    "ortg": 101.5,
+    "drtg": 64.2,
+    "net": 37.3,
+    "efg": 43.5,
+    "oefg": 26.0
    },
    {
     "players": [
@@ -3291,25 +3389,6 @@
     "net": 21.2,
     "efg": 62.2,
     "oefg": 66.7
-   },
-   {
-    "players": [
-     "Matěj Rychtecký",
-     "Petr Křivánek",
-     "Vojtěch Synáček"
-    ],
-    "min": 15.9,
-    "pf": 32,
-    "pa": 30,
-    "pm": 2,
-    "poss": 36.2,
-    "pF": 35.8,
-    "pA": 36.6,
-    "ortg": 89.3,
-    "drtg": 82.0,
-    "net": 7.3,
-    "efg": 43.3,
-    "oefg": 47.8
    },
    {
     "players": [
@@ -3386,25 +3465,6 @@
     "net": 24.2,
     "efg": 48.4,
     "oefg": 31.0
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Jermaine Ballisager Webb",
-     "Viktor Ivánek"
-    ],
-    "min": 14.8,
-    "pf": 26,
-    "pa": 19,
-    "pm": 7,
-    "poss": 29.0,
-    "pF": 28.6,
-    "pA": 29.3,
-    "ortg": 90.8,
-    "drtg": 64.9,
-    "net": 25.9,
-    "efg": 42.3,
-    "oefg": 23.9
    },
    {
     "players": [
@@ -3545,16 +3605,16 @@
      "Petr Křivánek",
      "Viktor Ivánek"
     ],
-    "min": 13.1,
+    "min": 13.2,
     "pf": 21,
-    "pa": 31,
-    "pm": -10,
-    "poss": 25.6,
+    "pa": 33,
+    "pm": -12,
+    "poss": 26.0,
     "pF": 24.5,
-    "pA": 26.6,
+    "pA": 27.5,
     "ortg": 85.6,
-    "drtg": 116.5,
-    "net": -30.9,
+    "drtg": 120.1,
+    "net": -34.4,
     "efg": 32.6,
     "oefg": 41.7
    },
@@ -3576,25 +3636,6 @@
     "net": -53.7,
     "efg": 43.8,
     "oefg": 67.5
-   },
-   {
-    "players": [
-     "Corey Maurice Thomas",
-     "Petr Křivánek",
-     "Viktor Ivánek"
-    ],
-    "min": 12.7,
-    "pf": 21,
-    "pa": 19,
-    "pm": 2,
-    "poss": 24.4,
-    "pF": 23.8,
-    "pA": 25.1,
-    "ortg": 88.4,
-    "drtg": 75.8,
-    "net": 12.6,
-    "efg": 56.2,
-    "oefg": 34.1
    },
    {
     "players": [
@@ -3640,18 +3681,37 @@
      "Milan Tomáš Stráněl",
      "Viktor Půlpán"
     ],
-    "min": 12.2,
+    "min": 12.6,
     "pf": 26,
     "pa": 23,
     "pm": 3,
-    "poss": 21.6,
+    "poss": 22.1,
     "pF": 22.1,
-    "pA": 21.1,
+    "pA": 22.1,
     "ortg": 117.8,
-    "drtg": 109.1,
-    "net": 8.6,
+    "drtg": 104.2,
+    "net": 13.6,
     "efg": 57.5,
     "oefg": 61.8
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Viktor Ivánek",
+     "Viktor Půlpán"
+    ],
+    "min": 12.4,
+    "pf": 30,
+    "pa": 14,
+    "pm": 16,
+    "poss": 24.9,
+    "pF": 26.0,
+    "pA": 23.7,
+    "ortg": 115.2,
+    "drtg": 59.0,
+    "net": 56.2,
+    "efg": 41.3,
+    "oefg": 20.0
    },
    {
     "players": [
@@ -3659,16 +3719,16 @@
      "Milan Tomáš Stráněl",
      "Vojtěch Synáček"
     ],
-    "min": 11.5,
+    "min": 11.9,
     "pf": 26,
     "pa": 21,
     "pm": 5,
-    "poss": 20.6,
+    "poss": 21.1,
     "pF": 21.1,
-    "pA": 20.1,
+    "pA": 21.1,
     "ortg": 123.3,
-    "drtg": 104.6,
-    "net": 18.8,
+    "drtg": 99.6,
+    "net": 23.7,
     "efg": 60.5,
     "oefg": 59.4
    },
@@ -3697,18 +3757,37 @@
      "Jaden Dewar Edwards",
      "Petr Křivánek"
     ],
-    "min": 10.3,
-    "pf": 18,
-    "pa": 26,
-    "pm": -8,
-    "poss": 19.4,
-    "pF": 19.5,
-    "pA": 19.3,
-    "ortg": 92.2,
-    "drtg": 134.9,
-    "net": -42.6,
-    "efg": 36.8,
-    "oefg": 67.9
+    "min": 11.3,
+    "pf": 21,
+    "pa": 30,
+    "pm": -9,
+    "poss": 22.4,
+    "pF": 22.5,
+    "pA": 22.3,
+    "ortg": 93.3,
+    "drtg": 134.6,
+    "net": -41.4,
+    "efg": 42.5,
+    "oefg": 67.6
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
+     "Matěj Rychtecký",
+     "Petr Křivánek"
+    ],
+    "min": 11.2,
+    "pf": 22,
+    "pa": 22,
+    "pm": 0,
+    "poss": 21.9,
+    "pF": 22.6,
+    "pA": 21.2,
+    "ortg": 97.2,
+    "drtg": 103.8,
+    "net": -6.6,
+    "efg": 45.2,
+    "oefg": 47.5
    },
    {
     "players": [
@@ -3732,59 +3811,78 @@
    {
     "players": [
      "Jaden Dewar Edwards",
-     "Viktor Ivánek",
-     "Viktor Půlpán"
+     "Matěj Rychtecký",
+     "Viktor Ivánek"
     ],
-    "min": 10.0,
-    "pf": 23,
+    "min": 10.1,
+    "pf": 19,
     "pa": 12,
-    "pm": 11,
-    "poss": 21.2,
-    "pF": 22.2,
-    "pA": 20.3,
-    "ortg": 103.8,
-    "drtg": 59.2,
-    "net": 44.6,
-    "efg": 38.9,
-    "oefg": 15.4
+    "pm": 7,
+    "poss": 20.9,
+    "pF": 21.2,
+    "pA": 20.6,
+    "ortg": 89.6,
+    "drtg": 58.1,
+    "net": 31.5,
+    "efg": 53.6,
+    "oefg": 25.0
    },
    {
     "players": [
+     "Corey Maurice Thomas",
      "Matěj Rychtecký",
-     "Petr Křivánek",
-     "Viktor Ivánek"
+     "Vojtěch Synáček"
     ],
-    "min": 9.4,
-    "pf": 15,
-    "pa": 14,
-    "pm": 1,
-    "poss": 21.8,
-    "pF": 22.0,
-    "pA": 21.6,
-    "ortg": 68.3,
-    "drtg": 64.7,
-    "net": 3.6,
-    "efg": 27.8,
-    "oefg": 41.7
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Matěj Rychtecký",
-     "Viktor Ivánek"
-    ],
-    "min": 9.1,
+    "min": 9.7,
     "pf": 16,
-    "pa": 8,
-    "pm": 8,
-    "poss": 17.9,
-    "pF": 18.2,
-    "pA": 17.6,
-    "ortg": 87.9,
-    "drtg": 45.4,
-    "net": 42.6,
-    "efg": 46.2,
-    "oefg": 15.4
+    "pa": 14,
+    "pm": 2,
+    "poss": 16.4,
+    "pF": 16.8,
+    "pA": 16.1,
+    "ortg": 95.5,
+    "drtg": 87.1,
+    "net": 8.4,
+    "efg": 38.9,
+    "oefg": 36.7
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
+     "Matěj Rychtecký",
+     "Viktor Ivánek"
+    ],
+    "min": 9.7,
+    "pf": 19,
+    "pa": 16,
+    "pm": 3,
+    "poss": 18.0,
+    "pF": 18.9,
+    "pA": 17.2,
+    "ortg": 100.6,
+    "drtg": 93.0,
+    "net": 7.6,
+    "efg": 47.2,
+    "oefg": 38.2
+   },
+   {
+    "players": [
+     "Matěj Rychtecký",
+     "Viktor Ivánek",
+     "Vojtěch Synáček"
+    ],
+    "min": 9.3,
+    "pf": 16,
+    "pa": 14,
+    "pm": 2,
+    "poss": 16.0,
+    "pF": 15.9,
+    "pA": 16.1,
+    "ortg": 100.8,
+    "drtg": 87.1,
+    "net": 13.7,
+    "efg": 41.2,
+    "oefg": 30.0
    },
    {
     "players": [
@@ -3845,6 +3943,44 @@
    },
    {
     "players": [
+     "Jaden Dewar Edwards",
+     "Viktor Ivánek",
+     "Vojtěch Synáček"
+    ],
+    "min": 8.1,
+    "pf": 24,
+    "pa": 22,
+    "pm": 2,
+    "poss": 20.4,
+    "pF": 19.6,
+    "pA": 21.1,
+    "ortg": 122.2,
+    "drtg": 104.2,
+    "net": 18.0,
+    "efg": 47.4,
+    "oefg": 33.3
+   },
+   {
+    "players": [
+     "Jakub Urda",
+     "Jermaine Ballisager Webb",
+     "Petr Křivánek"
+    ],
+    "min": 7.5,
+    "pf": 17,
+    "pa": 14,
+    "pm": 3,
+    "poss": 17.0,
+    "pF": 18.0,
+    "pA": 16.1,
+    "ortg": 94.4,
+    "drtg": 87.1,
+    "net": 7.4,
+    "efg": 65.4,
+    "oefg": 30.8
+   },
+   {
+    "players": [
      "Milan Tomáš Stráněl",
      "Radek Farský",
      "Šimon Svoboda"
@@ -3864,22 +4000,22 @@
    },
    {
     "players": [
-     "Jaden Dewar Edwards",
-     "Viktor Ivánek",
-     "Vojtěch Synáček"
+     "Jakub Urda",
+     "Petr Křivánek",
+     "Viktor Ivánek"
     ],
-    "min": 7.0,
-    "pf": 21,
-    "pa": 22,
-    "pm": -1,
-    "poss": 18.4,
-    "pF": 17.6,
-    "pA": 19.1,
-    "ortg": 119.0,
-    "drtg": 115.1,
-    "net": 4.0,
-    "efg": 44.1,
-    "oefg": 40.0
+    "min": 6.6,
+    "pf": 17,
+    "pa": 11,
+    "pm": 6,
+    "poss": 15.6,
+    "pF": 15.9,
+    "pA": 15.4,
+    "ortg": 107.1,
+    "drtg": 71.4,
+    "net": 35.6,
+    "efg": 57.7,
+    "oefg": 31.2
    },
    {
     "players": [
@@ -3922,6 +4058,25 @@
    {
     "players": [
      "Corey Maurice Thomas",
+     "Jakub Urda",
+     "Petr Křivánek"
+    ],
+    "min": 6.2,
+    "pf": 11,
+    "pa": 14,
+    "pm": -3,
+    "poss": 14.1,
+    "pF": 13.9,
+    "pA": 14.4,
+    "ortg": 79.3,
+    "drtg": 97.2,
+    "net": -18.0,
+    "efg": 56.2,
+    "oefg": 29.2
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
      "Viktor Ivánek",
      "Šimon Svoboda"
     ],
@@ -3959,22 +4114,22 @@
    },
    {
     "players": [
-     "Jakub Urda",
-     "Jermaine Ballisager Webb",
-     "Petr Křivánek"
+     "Corey Maurice Thomas",
+     "Jaden Dewar Edwards",
+     "Matěj Rychtecký"
     ],
-    "min": 5.8,
-    "pf": 13,
-    "pa": 9,
-    "pm": 4,
-    "poss": 13.6,
-    "pF": 15.0,
-    "pA": 12.2,
-    "ortg": 86.7,
-    "drtg": 73.8,
-    "net": 12.9,
-    "efg": 59.1,
-    "oefg": 22.7
+    "min": 5.9,
+    "pf": 10,
+    "pa": 14,
+    "pm": -4,
+    "poss": 13.3,
+    "pF": 12.6,
+    "pA": 14.0,
+    "ortg": 79.1,
+    "drtg": 100.0,
+    "net": -20.9,
+    "efg": 50.0,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -4059,252 +4214,360 @@
      "Jermaine Ballisager Webb",
      "Viktor Půlpán"
     ],
-    "min": 194.6,
-    "pf": 393,
-    "pa": 401,
-    "pm": -8,
-    "poss": 380.1,
-    "pF": 387.6,
-    "pA": 372.6,
-    "ortg": 101.4,
-    "drtg": 107.6,
-    "net": -6.2,
-    "efg": 47.0,
-    "oefg": 48.5
+    "min": 217.4,
+    "pf": 440,
+    "pa": 432,
+    "pm": 8,
+    "poss": 423.6,
+    "pF": 430.3,
+    "pA": 417.0,
+    "ortg": 102.3,
+    "drtg": 103.6,
+    "net": -1.3,
+    "efg": 46.8,
+    "oefg": 47.7
    },
    {
     "players": [
      "Jermaine Ballisager Webb",
      "Petr Křivánek"
     ],
-    "min": 186.8,
-    "pf": 397,
-    "pa": 372,
-    "pm": 25,
-    "poss": 378.5,
-    "pF": 384.1,
-    "pA": 372.9,
-    "ortg": 103.4,
-    "drtg": 99.8,
-    "net": 3.6,
+    "min": 202.9,
+    "pf": 433,
+    "pa": 397,
+    "pm": 36,
+    "poss": 407.8,
+    "pF": 412.1,
+    "pA": 403.5,
+    "ortg": 105.1,
+    "drtg": 98.4,
+    "net": 6.7,
     "efg": 47.6,
-    "oefg": 46.5
+    "oefg": 46.6
    },
    {
     "players": [
      "Petr Křivánek",
      "Viktor Půlpán"
     ],
-    "min": 142.4,
-    "pf": 301,
-    "pa": 247,
-    "pm": 54,
-    "poss": 275.3,
-    "pF": 281.6,
-    "pA": 269.1,
-    "ortg": 106.9,
-    "drtg": 91.8,
-    "net": 15.1,
-    "efg": 47.6,
-    "oefg": 42.5
+    "min": 156.8,
+    "pf": 333,
+    "pa": 267,
+    "pm": 66,
+    "poss": 301.2,
+    "pF": 306.6,
+    "pA": 295.8,
+    "ortg": 108.6,
+    "drtg": 90.3,
+    "net": 18.4,
+    "efg": 47.3,
+    "oefg": 42.7
    },
    {
     "players": [
      "Viktor Půlpán",
      "Vojtěch Synáček"
     ],
-    "min": 130.8,
-    "pf": 283,
-    "pa": 296,
-    "pm": -13,
-    "poss": 266.9,
-    "pF": 270.8,
-    "pA": 263.0,
-    "ortg": 104.5,
-    "drtg": 112.5,
-    "net": -8.1,
-    "efg": 48.8,
-    "oefg": 52.7
+    "min": 138.6,
+    "pf": 297,
+    "pa": 305,
+    "pm": -8,
+    "poss": 281.7,
+    "pF": 285.5,
+    "pA": 278.0,
+    "ortg": 104.0,
+    "drtg": 109.7,
+    "net": -5.7,
+    "efg": 48.0,
+    "oefg": 52.2
    },
    {
     "players": [
      "Milan Tomáš Stráněl",
      "Viktor Půlpán"
     ],
-    "min": 128.9,
-    "pf": 252,
-    "pa": 269,
-    "pm": -17,
-    "poss": 252.0,
-    "pF": 252.2,
-    "pA": 251.9,
-    "ortg": 99.9,
-    "drtg": 106.8,
-    "net": -6.9,
-    "efg": 47.3,
-    "oefg": 49.3
+    "min": 137.9,
+    "pf": 269,
+    "pa": 282,
+    "pm": -13,
+    "poss": 268.2,
+    "pF": 268.7,
+    "pA": 267.8,
+    "ortg": 100.1,
+    "drtg": 105.3,
+    "net": -5.2,
+    "efg": 47.2,
+    "oefg": 49.1
    },
    {
     "players": [
      "Petr Křivánek",
      "Šimon Svoboda"
     ],
-    "min": 116.8,
-    "pf": 249,
-    "pa": 217,
-    "pm": 32,
-    "poss": 235.1,
-    "pF": 236.7,
-    "pA": 233.6,
-    "ortg": 105.2,
-    "drtg": 92.9,
-    "net": 12.3,
-    "efg": 46.7,
-    "oefg": 43.5
+    "min": 130.4,
+    "pf": 278,
+    "pa": 235,
+    "pm": 43,
+    "poss": 260.8,
+    "pF": 260.9,
+    "pA": 260.8,
+    "ortg": 106.6,
+    "drtg": 90.1,
+    "net": 16.4,
+    "efg": 47.1,
+    "oefg": 43.1
+   },
+   {
+    "players": [
+     "Viktor Půlpán",
+     "Šimon Svoboda"
+    ],
+    "min": 124.5,
+    "pf": 247,
+    "pa": 243,
+    "pm": 4,
+    "poss": 254.4,
+    "pF": 250.8,
+    "pA": 258.0,
+    "ortg": 98.5,
+    "drtg": 94.2,
+    "net": 4.3,
+    "efg": 45.6,
+    "oefg": 48.2
    },
    {
     "players": [
      "Vojtěch Synáček",
      "Šimon Svoboda"
     ],
-    "min": 116.8,
-    "pf": 266,
-    "pa": 264,
-    "pm": 2,
-    "poss": 240.6,
-    "pF": 241.4,
-    "pA": 239.9,
-    "ortg": 110.2,
-    "drtg": 110.0,
-    "net": 0.2,
-    "efg": 49.0,
-    "oefg": 52.9
-   },
-   {
-    "players": [
-     "Jermaine Ballisager Webb",
-     "Vojtěch Synáček"
-    ],
-    "min": 113.5,
-    "pf": 251,
-    "pa": 276,
-    "pm": -25,
-    "poss": 245.8,
-    "pF": 248.0,
-    "pA": 243.7,
-    "ortg": 101.2,
-    "drtg": 113.3,
-    "net": -12.0,
-    "efg": 45.4,
-    "oefg": 52.6
+    "min": 121.4,
+    "pf": 272,
+    "pa": 273,
+    "pm": -1,
+    "poss": 249.6,
+    "pF": 250.2,
+    "pA": 248.9,
+    "ortg": 108.7,
+    "drtg": 109.7,
+    "net": -1.0,
+    "efg": 48.0,
+    "oefg": 53.4
    },
    {
     "players": [
      "Petr Křivánek",
      "Vojtěch Synáček"
     ],
-    "min": 110.7,
-    "pf": 258,
-    "pa": 236,
-    "pm": 22,
-    "poss": 234.2,
-    "pF": 236.8,
-    "pA": 231.6,
-    "ortg": 109.0,
-    "drtg": 101.9,
+    "min": 119.7,
+    "pf": 274,
+    "pa": 250,
+    "pm": 24,
+    "poss": 249.7,
+    "pF": 252.6,
+    "pA": 246.7,
+    "ortg": 108.5,
+    "drtg": 101.3,
     "net": 7.1,
-    "efg": 47.4,
-    "oefg": 47.8
+    "efg": 46.9,
+    "oefg": 46.6
    },
    {
     "players": [
-     "Viktor Půlpán",
+     "Jermaine Ballisager Webb",
+     "Vojtěch Synáček"
+    ],
+    "min": 117.8,
+    "pf": 259,
+    "pa": 281,
+    "pm": -22,
+    "poss": 253.7,
+    "pF": 255.7,
+    "pA": 251.7,
+    "ortg": 101.3,
+    "drtg": 111.6,
+    "net": -10.4,
+    "efg": 45.0,
+    "oefg": 52.0
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
      "Šimon Svoboda"
     ],
-    "min": 104.4,
-    "pf": 209,
-    "pa": 215,
-    "pm": -6,
-    "poss": 213.4,
-    "pF": 210.8,
-    "pA": 216.0,
-    "ortg": 99.2,
-    "drtg": 99.5,
-    "net": -0.4,
-    "efg": 46.2,
+    "min": 113.4,
+    "pf": 230,
+    "pa": 227,
+    "pm": 3,
+    "poss": 232.4,
+    "pF": 231.6,
+    "pA": 233.2,
+    "ortg": 99.3,
+    "drtg": 97.3,
+    "net": 2.0,
+    "efg": 46.8,
     "oefg": 49.7
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Viktor Půlpán"
+    ],
+    "min": 104.2,
+    "pf": 217,
+    "pa": 186,
+    "pm": 31,
+    "poss": 207.6,
+    "pF": 209.1,
+    "pA": 206.2,
+    "ortg": 103.8,
+    "drtg": 90.2,
+    "net": 13.6,
+    "efg": 48.1,
+    "oefg": 47.5
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Šimon Svoboda"
+    ],
+    "min": 103.6,
+    "pf": 231,
+    "pa": 219,
+    "pm": 12,
+    "poss": 214.2,
+    "pF": 215.9,
+    "pA": 212.4,
+    "ortg": 107.0,
+    "drtg": 103.1,
+    "net": 3.9,
+    "efg": 50.0,
+    "oefg": 52.2
    },
    {
     "players": [
      "Matěj Rychtecký",
      "Viktor Půlpán"
     ],
-    "min": 100.0,
-    "pf": 174,
-    "pa": 196,
-    "pm": -22,
-    "poss": 199.5,
-    "pF": 199.8,
-    "pA": 199.1,
-    "ortg": 87.1,
-    "drtg": 98.4,
-    "net": -11.4,
-    "efg": 45.9,
-    "oefg": 47.7
+    "min": 103.5,
+    "pf": 182,
+    "pa": 201,
+    "pm": -19,
+    "poss": 204.8,
+    "pF": 205.5,
+    "pA": 204.1,
+    "ortg": 88.6,
+    "drtg": 98.5,
+    "net": -9.9,
+    "efg": 45.8,
+    "oefg": 47.8
    },
    {
     "players": [
      "Jermaine Ballisager Webb",
      "Matěj Rychtecký"
     ],
-    "min": 98.5,
-    "pf": 173,
-    "pa": 190,
-    "pm": -17,
-    "poss": 197.3,
-    "pF": 198.7,
-    "pA": 195.8,
-    "ortg": 87.1,
-    "drtg": 97.0,
-    "net": -10.0,
-    "efg": 45.9,
-    "oefg": 47.3
+    "min": 101.6,
+    "pf": 181,
+    "pa": 195,
+    "pm": -14,
+    "poss": 202.1,
+    "pF": 204.4,
+    "pA": 199.8,
+    "ortg": 88.6,
+    "drtg": 97.6,
+    "net": -9.0,
+    "efg": 45.8,
+    "oefg": 47.4
    },
    {
     "players": [
-     "Jermaine Ballisager Webb",
-     "Šimon Svoboda"
+     "Milan Tomáš Stráněl",
+     "Vojtěch Synáček"
     ],
-    "min": 94.7,
-    "pf": 194,
-    "pa": 198,
-    "pm": -4,
-    "poss": 194.4,
-    "pF": 195.4,
-    "pA": 193.4,
-    "ortg": 99.3,
-    "drtg": 102.4,
-    "net": -3.1,
-    "efg": 46.4,
-    "oefg": 51.4
+    "min": 95.8,
+    "pf": 198,
+    "pa": 211,
+    "pm": -13,
+    "poss": 194.5,
+    "pF": 194.2,
+    "pA": 194.8,
+    "ortg": 102.0,
+    "drtg": 108.3,
+    "net": -6.4,
+    "efg": 46.1,
+    "oefg": 52.0
    },
    {
     "players": [
      "Milan Tomáš Stráněl",
      "Petr Křivánek"
     ],
-    "min": 92.8,
-    "pf": 185,
-    "pa": 194,
-    "pm": -9,
-    "poss": 178.1,
-    "pF": 182.5,
-    "pA": 173.8,
-    "ortg": 101.4,
-    "drtg": 111.6,
-    "net": -10.3,
-    "efg": 46.4,
-    "oefg": 50.3
+    "min": 94.7,
+    "pf": 188,
+    "pa": 201,
+    "pm": -13,
+    "poss": 180.5,
+    "pF": 184.4,
+    "pA": 176.6,
+    "ortg": 102.0,
+    "drtg": 113.8,
+    "net": -11.8,
+    "efg": 46.5,
+    "oefg": 51.0
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Jermaine Ballisager Webb"
+    ],
+    "min": 94.6,
+    "pf": 194,
+    "pa": 168,
+    "pm": 26,
+    "poss": 185.2,
+    "pF": 185.8,
+    "pA": 184.7,
+    "ortg": 104.4,
+    "drtg": 91.0,
+    "net": 13.5,
+    "efg": 48.7,
+    "oefg": 46.3
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Petr Křivánek"
+    ],
+    "min": 92.0,
+    "pf": 202,
+    "pa": 170,
+    "pm": 32,
+    "poss": 181.4,
+    "pF": 183.0,
+    "pA": 179.8,
+    "ortg": 110.4,
+    "drtg": 94.5,
+    "net": 15.9,
+    "efg": 48.8,
+    "oefg": 47.0
+   },
+   {
+    "players": [
+     "Jermaine Ballisager Webb",
+     "Milan Tomáš Stráněl"
+    ],
+    "min": 91.9,
+    "pf": 192,
+    "pa": 210,
+    "pm": -18,
+    "poss": 179.6,
+    "pF": 181.2,
+    "pA": 178.1,
+    "ortg": 106.0,
+    "drtg": 117.9,
+    "net": -11.9,
+    "efg": 49.3,
+    "oefg": 51.2
    },
    {
     "players": [
@@ -4326,57 +4589,39 @@
    },
    {
     "players": [
-     "Milan Tomáš Stráněl",
-     "Vojtěch Synáček"
+     "Matěj Rychtecký",
+     "Petr Křivánek"
     ],
-    "min": 89.9,
-    "pf": 187,
-    "pa": 205,
-    "pm": -18,
-    "poss": 183.7,
-    "pF": 183.6,
-    "pA": 183.9,
-    "ortg": 101.9,
-    "drtg": 111.5,
-    "net": -9.6,
-    "efg": 46.9,
-    "oefg": 53.1
+    "min": 88.1,
+    "pf": 158,
+    "pa": 163,
+    "pm": -5,
+    "poss": 179.4,
+    "pF": 181.2,
+    "pA": 177.6,
+    "ortg": 87.2,
+    "drtg": 91.8,
+    "net": -4.6,
+    "efg": 42.5,
+    "oefg": 46.1
    },
    {
     "players": [
-     "Jermaine Ballisager Webb",
-     "Milan Tomáš Stráněl"
+     "Petr Křivánek",
+     "Viktor Ivánek"
     ],
-    "min": 86.5,
-    "pf": 181,
-    "pa": 201,
-    "pm": -20,
-    "poss": 170.4,
-    "pF": 171.5,
-    "pA": 169.2,
-    "ortg": 105.5,
-    "drtg": 118.8,
-    "net": -13.2,
-    "efg": 48.9,
-    "oefg": 51.6
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Šimon Svoboda"
-    ],
-    "min": 83.3,
-    "pf": 193,
-    "pa": 191,
-    "pm": 2,
-    "poss": 173.1,
-    "pF": 175.8,
-    "pA": 170.4,
-    "ortg": 109.8,
-    "drtg": 112.1,
-    "net": -2.3,
-    "efg": 51.7,
-    "oefg": 55.0
+    "min": 86.4,
+    "pf": 170,
+    "pa": 161,
+    "pm": 9,
+    "poss": 180.4,
+    "pF": 178.6,
+    "pA": 182.1,
+    "ortg": 95.2,
+    "drtg": 88.4,
+    "net": 6.8,
+    "efg": 42.5,
+    "oefg": 38.7
    },
    {
     "players": [
@@ -4399,38 +4644,20 @@
    {
     "players": [
      "Jaden Dewar Edwards",
-     "Viktor Půlpán"
+     "Vojtěch Synáček"
     ],
-    "min": 81.4,
-    "pf": 172,
-    "pa": 156,
-    "pm": 16,
-    "poss": 162.5,
-    "pF": 165.1,
-    "pA": 159.8,
-    "ortg": 104.2,
-    "drtg": 97.6,
-    "net": 6.5,
-    "efg": 49.3,
-    "oefg": 49.6
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Petr Křivánek"
-    ],
-    "min": 78.0,
-    "pf": 170,
-    "pa": 151,
-    "pm": 19,
-    "poss": 154.5,
-    "pF": 156.9,
-    "pA": 152.0,
+    "min": 79.2,
+    "pf": 178,
+    "pa": 190,
+    "pm": -12,
+    "poss": 163.6,
+    "pF": 164.2,
+    "pA": 163.0,
     "ortg": 108.4,
-    "drtg": 99.3,
-    "net": 9.0,
-    "efg": 48.9,
-    "oefg": 47.8
+    "drtg": 116.6,
+    "net": -8.2,
+    "efg": 50.0,
+    "oefg": 55.8
    },
    {
     "players": [
@@ -4453,127 +4680,55 @@
    {
     "players": [
      "Matěj Rychtecký",
-     "Petr Křivánek"
+     "Milan Tomáš Stráněl"
     ],
-    "min": 76.7,
-    "pf": 136,
-    "pa": 140,
-    "pm": -4,
-    "poss": 159.0,
-    "pF": 160.4,
-    "pA": 157.5,
-    "ortg": 84.8,
-    "drtg": 88.9,
-    "net": -4.1,
-    "efg": 41.7,
-    "oefg": 46.3
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Jermaine Ballisager Webb"
-    ],
-    "min": 74.9,
-    "pf": 155,
-    "pa": 142,
-    "pm": 13,
-    "poss": 146.5,
-    "pF": 148.7,
-    "pA": 144.3,
-    "ortg": 104.3,
-    "drtg": 98.4,
-    "net": 5.8,
-    "efg": 49.6,
-    "oefg": 48.4
-   },
-   {
-    "players": [
-     "Petr Křivánek",
-     "Viktor Ivánek"
-    ],
-    "min": 73.5,
-    "pf": 141,
-    "pa": 135,
-    "pm": 6,
-    "poss": 155.4,
-    "pF": 153.0,
-    "pA": 157.8,
-    "ortg": 92.2,
-    "drtg": 85.5,
-    "net": 6.6,
-    "efg": 41.8,
-    "oefg": 38.3
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Vojtěch Synáček"
-    ],
-    "min": 73.1,
-    "pf": 169,
-    "pa": 181,
-    "pm": -12,
-    "poss": 152.2,
-    "pF": 153.4,
-    "pA": 151.0,
-    "ortg": 110.2,
-    "drtg": 119.9,
-    "net": -9.7,
-    "efg": 51.1,
-    "oefg": 56.2
+    "min": 71.7,
+    "pf": 119,
+    "pa": 162,
+    "pm": -43,
+    "poss": 144.4,
+    "pF": 142.4,
+    "pA": 146.4,
+    "ortg": 83.6,
+    "drtg": 110.7,
+    "net": -27.1,
+    "efg": 41.9,
+    "oefg": 51.5
    },
    {
     "players": [
      "Viktor Ivánek",
      "Viktor Půlpán"
     ],
-    "min": 68.6,
-    "pf": 127,
-    "pa": 133,
-    "pm": -6,
-    "poss": 133.0,
-    "pF": 133.4,
-    "pA": 132.7,
-    "ortg": 95.2,
-    "drtg": 100.2,
-    "net": -5.0,
-    "efg": 38.7,
-    "oefg": 45.2
-   },
-   {
-    "players": [
-     "Matěj Rychtecký",
-     "Milan Tomáš Stráněl"
-    ],
-    "min": 68.0,
-    "pf": 111,
-    "pa": 155,
-    "pm": -44,
-    "poss": 138.6,
-    "pF": 136.7,
-    "pA": 140.5,
-    "ortg": 81.2,
-    "drtg": 110.3,
-    "net": -29.1,
-    "efg": 42.0,
-    "oefg": 51.6
+    "min": 71.0,
+    "pf": 134,
+    "pa": 135,
+    "pm": -1,
+    "poss": 136.7,
+    "pF": 137.3,
+    "pA": 136.1,
+    "ortg": 97.6,
+    "drtg": 99.2,
+    "net": -1.6,
+    "efg": 39.2,
+    "oefg": 45.3
    },
    {
     "players": [
      "Jermaine Ballisager Webb",
      "Viktor Ivánek"
     ],
-    "min": 67.1,
-    "pf": 118,
-    "pa": 144,
-    "pm": -26,
-    "poss": 138.2,
-    "pF": 138.8,
-    "pA": 137.7,
-    "ortg": 85.0,
-    "drtg": 104.6,
-    "net": -19.6,
-    "efg": 38.4,
+    "min": 69.5,
+    "pf": 125,
+    "pa": 146,
+    "pm": -21,
+    "poss": 141.9,
+    "pF": 142.7,
+    "pA": 141.1,
+    "ortg": 87.6,
+    "drtg": 103.5,
+    "net": -15.8,
+    "efg": 38.8,
     "oefg": 49.1
    },
    {
@@ -4581,18 +4736,90 @@
      "Corey Maurice Thomas",
      "Viktor Půlpán"
     ],
-    "min": 66.3,
+    "min": 66.7,
     "pf": 141,
     "pa": 143,
     "pm": -2,
-    "poss": 120.7,
+    "poss": 121.2,
     "pF": 123.0,
-    "pA": 118.4,
+    "pA": 119.4,
     "ortg": 114.7,
-    "drtg": 120.8,
-    "net": -6.1,
+    "drtg": 119.8,
+    "net": -5.1,
     "efg": 53.0,
     "oefg": 52.6
+   },
+   {
+    "players": [
+     "Viktor Ivánek",
+     "Vojtěch Synáček"
+    ],
+    "min": 65.8,
+    "pf": 135,
+    "pa": 144,
+    "pm": -9,
+    "poss": 138.6,
+    "pF": 137.9,
+    "pA": 139.3,
+    "ortg": 97.9,
+    "drtg": 103.4,
+    "net": -5.4,
+    "efg": 43.2,
+    "oefg": 48.9
+   },
+   {
+    "players": [
+     "Jaden Dewar Edwards",
+     "Milan Tomáš Stráněl"
+    ],
+    "min": 65.4,
+    "pf": 115,
+    "pa": 121,
+    "pm": -6,
+    "poss": 126.0,
+    "pF": 127.0,
+    "pA": 125.0,
+    "ortg": 90.6,
+    "drtg": 96.8,
+    "net": -6.2,
+    "efg": 47.1,
+    "oefg": 48.0
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
+     "Vojtěch Synáček"
+    ],
+    "min": 63.4,
+    "pf": 144,
+    "pa": 124,
+    "pm": 20,
+    "poss": 117.5,
+    "pF": 120.6,
+    "pA": 114.5,
+    "ortg": 119.4,
+    "drtg": 108.3,
+    "net": 11.1,
+    "efg": 56.2,
+    "oefg": 51.0
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
+     "Petr Křivánek"
+    ],
+    "min": 63.1,
+    "pf": 132,
+    "pa": 131,
+    "pm": 1,
+    "poss": 122.0,
+    "pF": 123.5,
+    "pA": 120.5,
+    "ortg": 106.9,
+    "drtg": 108.7,
+    "net": -1.9,
+    "efg": 48.2,
+    "oefg": 47.2
    },
    {
     "players": [
@@ -4614,39 +4841,21 @@
    },
    {
     "players": [
-     "Jaden Dewar Edwards",
-     "Milan Tomáš Stráněl"
-    ],
-    "min": 59.7,
-    "pf": 106,
-    "pa": 113,
-    "pm": -7,
-    "poss": 115.1,
-    "pF": 116.1,
-    "pA": 114.2,
-    "ortg": 91.3,
-    "drtg": 99.0,
-    "net": -7.7,
-    "efg": 46.9,
-    "oefg": 48.4
-   },
-   {
-    "players": [
-     "Viktor Ivánek",
+     "Matěj Rychtecký",
      "Vojtěch Synáček"
     ],
-    "min": 55.8,
-    "pf": 116,
-    "pa": 130,
-    "pm": -14,
-    "poss": 121.1,
-    "pF": 120.0,
-    "pA": 122.2,
-    "ortg": 96.7,
-    "drtg": 106.3,
-    "net": -9.7,
-    "efg": 42.9,
-    "oefg": 52.6
+    "min": 56.7,
+    "pf": 110,
+    "pa": 121,
+    "pm": -11,
+    "poss": 114.2,
+    "pF": 111.8,
+    "pA": 116.6,
+    "ortg": 98.4,
+    "drtg": 103.8,
+    "net": -5.4,
+    "efg": 45.6,
+    "oefg": 50.5
    },
    {
     "players": [
@@ -4668,39 +4877,21 @@
    },
    {
     "players": [
-     "Corey Maurice Thomas",
-     "Vojtěch Synáček"
-    ],
-    "min": 54.3,
-    "pf": 128,
-    "pa": 112,
-    "pm": 16,
-    "poss": 102.0,
-    "pF": 104.7,
-    "pA": 99.3,
-    "ortg": 122.2,
-    "drtg": 112.8,
-    "net": 9.4,
-    "efg": 59.1,
-    "oefg": 54.1
-   },
-   {
-    "players": [
      "Jaden Dewar Edwards",
      "Matěj Rychtecký"
     ],
-    "min": 53.7,
-    "pf": 96,
-    "pa": 95,
-    "pm": 1,
-    "poss": 112.1,
-    "pF": 110.7,
-    "pA": 113.5,
-    "ortg": 86.7,
-    "drtg": 83.7,
-    "net": 3.0,
-    "efg": 44.0,
-    "oefg": 40.0
+    "min": 54.7,
+    "pf": 99,
+    "pa": 99,
+    "pm": 0,
+    "poss": 115.1,
+    "pF": 113.7,
+    "pA": 116.5,
+    "ortg": 87.1,
+    "drtg": 85.0,
+    "net": 2.1,
+    "efg": 45.3,
+    "oefg": 40.8
    },
    {
     "players": [
@@ -4722,21 +4913,21 @@
    },
    {
     "players": [
-     "Corey Maurice Thomas",
-     "Petr Křivánek"
+     "Milan Tomáš Stráněl",
+     "Šimon Svoboda"
     ],
-    "min": 51.6,
-    "pf": 107,
-    "pa": 109,
-    "pm": -2,
-    "poss": 99.1,
-    "pF": 99.8,
-    "pA": 98.5,
-    "ortg": 107.3,
-    "drtg": 110.6,
-    "net": -3.4,
-    "efg": 48.4,
-    "oefg": 49.4
+    "min": 49.4,
+    "pf": 81,
+    "pa": 97,
+    "pm": -16,
+    "poss": 97.0,
+    "pF": 96.3,
+    "pA": 97.6,
+    "ortg": 84.1,
+    "drtg": 99.4,
+    "net": -15.3,
+    "efg": 42.1,
+    "oefg": 48.0
    },
    {
     "players": [
@@ -4758,42 +4949,6 @@
    },
    {
     "players": [
-     "Matěj Rychtecký",
-     "Vojtěch Synáček"
-    ],
-    "min": 45.9,
-    "pf": 89,
-    "pa": 107,
-    "pm": -18,
-    "poss": 95.3,
-    "pF": 92.2,
-    "pA": 98.5,
-    "ortg": 96.6,
-    "drtg": 108.6,
-    "net": -12.0,
-    "efg": 47.1,
-    "oefg": 55.3
-   },
-   {
-    "players": [
-     "Milan Tomáš Stráněl",
-     "Šimon Svoboda"
-    ],
-    "min": 44.1,
-    "pf": 72,
-    "pa": 89,
-    "pm": -17,
-    "poss": 86.6,
-    "pF": 85.4,
-    "pA": 87.7,
-    "ortg": 84.3,
-    "drtg": 101.5,
-    "net": -17.2,
-    "efg": 41.3,
-    "oefg": 47.8
-   },
-   {
-    "players": [
      "Corey Maurice Thomas",
      "Jermaine Ballisager Webb"
     ],
@@ -4809,6 +4964,24 @@
     "net": -1.8,
     "efg": 51.2,
     "oefg": 46.0
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
+     "Viktor Ivánek"
+    ],
+    "min": 42.1,
+    "pf": 76,
+    "pa": 84,
+    "pm": -8,
+    "poss": 79.6,
+    "pF": 78.8,
+    "pA": 80.4,
+    "ortg": 96.4,
+    "drtg": 104.4,
+    "net": -8.0,
+    "efg": 47.6,
+    "oefg": 46.6
    },
    {
     "players": [
@@ -4866,57 +5039,57 @@
    },
    {
     "players": [
-     "Corey Maurice Thomas",
+     "Jaden Dewar Edwards",
      "Viktor Ivánek"
     ],
-    "min": 30.6,
-    "pf": 51,
-    "pa": 62,
-    "pm": -11,
-    "poss": 56.8,
-    "pF": 55.0,
-    "pA": 58.5,
-    "ortg": 92.7,
-    "drtg": 106.0,
-    "net": -13.4,
-    "efg": 47.5,
-    "oefg": 50.0
+    "min": 29.6,
+    "pf": 66,
+    "pa": 50,
+    "pm": 16,
+    "poss": 62.3,
+    "pF": 62.2,
+    "pA": 62.4,
+    "ortg": 106.0,
+    "drtg": 80.1,
+    "net": 25.9,
+    "efg": 46.3,
+    "oefg": 31.2
+   },
+   {
+    "players": [
+     "Matěj Rychtecký",
+     "Viktor Ivánek"
+    ],
+    "min": 29.2,
+    "pf": 53,
+    "pa": 44,
+    "pm": 9,
+    "poss": 56.7,
+    "pF": 57.8,
+    "pA": 55.6,
+    "ortg": 91.7,
+    "drtg": 79.1,
+    "net": 12.6,
+    "efg": 42.4,
+    "oefg": 38.6
    },
    {
     "players": [
      "Milan Tomáš Stráněl",
      "Viktor Ivánek"
     ],
-    "min": 28.2,
+    "min": 28.4,
     "pf": 52,
-    "pa": 54,
-    "pm": -2,
-    "poss": 53.3,
+    "pa": 56,
+    "pm": -4,
+    "poss": 53.7,
     "pF": 52.1,
-    "pA": 54.4,
+    "pA": 55.3,
     "ortg": 99.8,
-    "drtg": 99.2,
-    "net": 0.6,
+    "drtg": 101.2,
+    "net": -1.5,
     "efg": 40.7,
     "oefg": 40.2
-   },
-   {
-    "players": [
-     "Jaden Dewar Edwards",
-     "Viktor Ivánek"
-    ],
-    "min": 26.2,
-    "pf": 56,
-    "pa": 44,
-    "pm": 12,
-    "poss": 55.7,
-    "pF": 55.4,
-    "pA": 56.0,
-    "ortg": 101.2,
-    "drtg": 78.6,
-    "net": 22.5,
-    "efg": 43.8,
-    "oefg": 27.1
    },
    {
     "players": [
@@ -4941,52 +5114,52 @@
      "Corey Maurice Thomas",
      "Jaden Dewar Edwards"
     ],
-    "min": 23.7,
-    "pf": 57,
-    "pa": 52,
-    "pm": 5,
-    "poss": 45.6,
-    "pF": 47.3,
-    "pA": 43.9,
-    "ortg": 120.6,
-    "drtg": 118.4,
-    "net": 2.2,
-    "efg": 55.4,
-    "oefg": 60.0
+    "min": 24.7,
+    "pf": 60,
+    "pa": 56,
+    "pm": 4,
+    "poss": 48.6,
+    "pF": 50.3,
+    "pA": 46.9,
+    "ortg": 119.3,
+    "drtg": 119.4,
+    "net": -0.0,
+    "efg": 57.4,
+    "oefg": 60.5
    },
    {
     "players": [
-     "Matěj Rychtecký",
-     "Viktor Ivánek"
+     "Corey Maurice Thomas",
+     "Matěj Rychtecký"
     ],
-    "min": 19.3,
-    "pf": 34,
-    "pa": 26,
-    "pm": 8,
-    "poss": 38.2,
-    "pF": 38.9,
-    "pA": 37.5,
-    "ortg": 87.4,
-    "drtg": 69.3,
-    "net": 18.1,
-    "efg": 39.3,
-    "oefg": 38.9
+    "min": 15.7,
+    "pf": 26,
+    "pa": 28,
+    "pm": -2,
+    "poss": 29.7,
+    "pF": 29.4,
+    "pA": 30.1,
+    "ortg": 88.4,
+    "drtg": 93.1,
+    "net": -4.6,
+    "efg": 42.3,
+    "oefg": 43.1
    },
    {
     "players": [
      "Corey Maurice Thomas",
      "Milan Tomáš Stráněl"
     ],
-    "min": 14.2,
+    "min": 14.6,
     "pf": 26,
     "pa": 26,
     "pm": 0,
-    "poss": 25.3,
+    "poss": 25.8,
     "pF": 26.1,
-    "pA": 24.5,
+    "pA": 25.5,
     "ortg": 99.7,
-    "drtg": 106.0,
-    "net": -6.3,
+    "drtg": 101.9,
+    "net": -2.2,
     "efg": 52.3,
     "oefg": 57.5
    },
@@ -4995,18 +5168,18 @@
      "Jakub Urda",
      "Petr Křivánek"
     ],
-    "min": 9.7,
-    "pf": 18,
-    "pa": 14,
-    "pm": 4,
-    "poss": 21.2,
-    "pF": 22.0,
-    "pA": 20.4,
-    "ortg": 81.8,
-    "drtg": 68.6,
-    "net": 13.2,
-    "efg": 60.0,
-    "oefg": 21.9
+    "min": 13.2,
+    "pf": 28,
+    "pa": 25,
+    "pm": 3,
+    "poss": 29.5,
+    "pF": 29.9,
+    "pA": 29.0,
+    "ortg": 93.7,
+    "drtg": 86.1,
+    "net": 7.6,
+    "efg": 61.9,
+    "oefg": 29.5
    },
    {
     "players": [
@@ -5064,6 +5237,24 @@
    },
    {
     "players": [
+     "Jakub Urda",
+     "Jermaine Ballisager Webb"
+    ],
+    "min": 8.7,
+    "pf": 17,
+    "pa": 20,
+    "pm": -3,
+    "poss": 20.4,
+    "pF": 21.0,
+    "pA": 19.8,
+    "ortg": 81.0,
+    "drtg": 100.8,
+    "net": -19.9,
+    "efg": 56.7,
+    "oefg": 29.4
+   },
+   {
+    "players": [
      "Matěj Rychtecký",
      "Radek Farský"
     ],
@@ -5083,20 +5274,56 @@
    {
     "players": [
      "Jakub Urda",
-     "Jermaine Ballisager Webb"
+     "Viktor Ivánek"
     ],
-    "min": 7.0,
-    "pf": 13,
-    "pa": 15,
-    "pm": -2,
-    "poss": 17.0,
-    "pF": 18.0,
-    "pA": 16.0,
-    "ortg": 72.2,
-    "drtg": 94.0,
-    "net": -21.8,
-    "efg": 50.0,
-    "oefg": 23.3
+    "min": 7.3,
+    "pf": 23,
+    "pa": 11,
+    "pm": 12,
+    "poss": 18.2,
+    "pF": 19.1,
+    "pA": 17.4,
+    "ortg": 120.5,
+    "drtg": 63.2,
+    "net": 57.3,
+    "efg": 64.3,
+    "oefg": 25.0
+   },
+   {
+    "players": [
+     "Corey Maurice Thomas",
+     "Jakub Urda"
+    ],
+    "min": 7.1,
+    "pf": 14,
+    "pa": 14,
+    "pm": 0,
+    "poss": 15.4,
+    "pF": 15.3,
+    "pA": 15.4,
+    "ortg": 91.4,
+    "drtg": 90.9,
+    "net": 0.5,
+    "efg": 61.1,
+    "oefg": 26.9
+   },
+   {
+    "players": [
+     "Jakub Urda",
+     "Martin Čech"
+    ],
+    "min": 6.0,
+    "pf": 17,
+    "pa": 13,
+    "pm": 4,
+    "poss": 14.1,
+    "pF": 14.6,
+    "pA": 13.6,
+    "ortg": 116.1,
+    "drtg": 95.3,
+    "net": 20.8,
+    "efg": 65.0,
+    "oefg": 40.0
    },
    {
     "players": [
@@ -5136,57 +5363,57 @@
    },
    {
     "players": [
-     "Jakub Urda",
-     "Viktor Ivánek"
+     "Jaden Dewar Edwards",
+     "Martin Čech"
     ],
     "min": 5.5,
-    "pf": 17,
-    "pa": 5,
-    "pm": 12,
-    "poss": 13.4,
-    "pF": 14.2,
-    "pA": 12.6,
-    "ortg": 119.7,
-    "drtg": 39.6,
-    "net": 80.2,
-    "efg": 70.0,
-    "oefg": 16.7
+    "pf": 6,
+    "pa": 9,
+    "pm": -3,
+    "poss": 12.3,
+    "pF": 12.0,
+    "pA": 12.5,
+    "ortg": 50.0,
+    "drtg": 71.9,
+    "net": -21.9,
+    "efg": 25.0,
+    "oefg": 25.0
    },
    {
     "players": [
-     "Corey Maurice Thomas",
-     "Matěj Rychtecký"
+     "Martin Čech",
+     "Šimon Svoboda"
     ],
-    "min": 5.5,
-    "pf": 7,
-    "pa": 12,
-    "pm": -5,
-    "poss": 11.2,
-    "pF": 10.5,
-    "pA": 11.9,
-    "ortg": 66.5,
-    "drtg": 101.0,
-    "net": -34.5,
-    "efg": 31.2,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Corey Maurice Thomas",
-     "Jakub Urda"
-    ],
-    "min": 5.3,
+    "min": 5.4,
     "pf": 8,
-    "pa": 8,
-    "pm": 0,
-    "poss": 10.5,
-    "pF": 10.4,
+    "pa": 10,
+    "pm": -2,
+    "poss": 11.3,
+    "pF": 11.0,
+    "pA": 11.6,
+    "ortg": 72.7,
+    "drtg": 85.9,
+    "net": -13.2,
+    "efg": 44.4,
+    "oefg": 42.9
+   },
+   {
+    "players": [
+     "Martin Čech",
+     "Viktor Půlpán"
+    ],
+    "min": 5.0,
+    "pf": 6,
+    "pa": 5,
+    "pm": 1,
+    "poss": 10.8,
+    "pF": 11.0,
     "pA": 10.6,
-    "ortg": 76.6,
-    "drtg": 75.2,
-    "net": 1.4,
-    "efg": 70.0,
-    "oefg": 22.2
+    "ortg": 54.5,
+    "drtg": 47.0,
+    "net": 7.6,
+    "efg": 25.0,
+    "oefg": 16.7
    },
    {
     "players": [
@@ -5244,21 +5471,39 @@
    },
    {
     "players": [
-     "Jaden Dewar Edwards",
+     "Jermaine Ballisager Webb",
      "Martin Čech"
     ],
-    "min": 3.2,
-    "pf": 2,
+    "min": 4.0,
+    "pf": 8,
     "pa": 7,
-    "pm": -5,
-    "poss": 6.4,
-    "pF": 6.0,
-    "pA": 6.8,
-    "ortg": 33.3,
-    "drtg": 103.6,
-    "net": -70.2,
-    "efg": 14.3,
-    "oefg": 35.7
+    "pm": 1,
+    "poss": 9.3,
+    "pF": 9.0,
+    "pA": 9.6,
+    "ortg": 88.9,
+    "drtg": 72.6,
+    "net": 16.3,
+    "efg": 57.1,
+    "oefg": 30.0
+   },
+   {
+    "players": [
+     "Martin Čech",
+     "Petr Křivánek"
+    ],
+    "min": 3.5,
+    "pf": 10,
+    "pa": 11,
+    "pm": -1,
+    "poss": 8.3,
+    "pF": 7.9,
+    "pA": 8.6,
+    "ortg": 126.9,
+    "drtg": 127.3,
+    "net": -0.4,
+    "efg": 66.7,
+    "oefg": 50.0
    }
   ]
  },
@@ -5266,26 +5511,44 @@
   {
    "passer": "Viktor Půlpán",
    "scorer": "Jermaine Ballisager Webb",
-   "ast": 16,
-   "pts": 34
+   "ast": 18,
+   "pts": 37
   },
   {
    "passer": "Petr Křivánek",
    "scorer": "Jermaine Ballisager Webb",
-   "ast": 9,
-   "pts": 18
+   "ast": 11,
+   "pts": 23
   },
   {
    "passer": "Viktor Půlpán",
    "scorer": "Petr Křivánek",
-   "ast": 8,
-   "pts": 18
+   "ast": 9,
+   "pts": 20
   },
   {
    "passer": "Viktor Půlpán",
    "scorer": "Milan Tomáš Stráněl",
-   "ast": 8,
-   "pts": 18
+   "ast": 9,
+   "pts": 20
+  },
+  {
+   "passer": "Petr Křivánek",
+   "scorer": "Viktor Ivánek",
+   "ast": 7,
+   "pts": 19
+  },
+  {
+   "passer": "Viktor Půlpán",
+   "scorer": "Jaden Dewar Edwards",
+   "ast": 7,
+   "pts": 19
+  },
+  {
+   "passer": "Petr Křivánek",
+   "scorer": "Vojtěch Synáček",
+   "ast": 7,
+   "pts": 15
   },
   {
    "passer": "Viktor Půlpán",
@@ -5300,14 +5563,8 @@
    "pts": 13
   },
   {
-   "passer": "Petr Křivánek",
-   "scorer": "Viktor Ivánek",
-   "ast": 6,
-   "pts": 17
-  },
-  {
-   "passer": "Petr Křivánek",
-   "scorer": "Vojtěch Synáček",
+   "passer": "Viktor Půlpán",
+   "scorer": "Šimon Svoboda",
    "ast": 6,
    "pts": 13
   },
@@ -5319,9 +5576,9 @@
   },
   {
    "passer": "Viktor Půlpán",
-   "scorer": "Šimon Svoboda",
+   "scorer": "Vojtěch Synáček",
    "ast": 5,
-   "pts": 11
+   "pts": 10
   },
   {
    "passer": "Petr Křivánek",
@@ -5336,14 +5593,14 @@
    "pts": 7
   },
   {
-   "passer": "Jermaine Ballisager Webb",
-   "scorer": "Petr Křivánek",
+   "passer": "Petr Křivánek",
+   "scorer": "Jaden Dewar Edwards",
    "ast": 4,
-   "pts": 10
+   "pts": 11
   },
   {
-   "passer": "Viktor Půlpán",
-   "scorer": "Jaden Dewar Edwards",
+   "passer": "Jermaine Ballisager Webb",
+   "scorer": "Petr Křivánek",
    "ast": 4,
    "pts": 10
   },
@@ -5354,12 +5611,6 @@
    "pts": 9
   },
   {
-   "passer": "Viktor Půlpán",
-   "scorer": "Vojtěch Synáček",
-   "ast": 4,
-   "pts": 8
-  },
-  {
    "passer": "Corey Maurice Thomas",
    "scorer": "Vojtěch Synáček",
    "ast": 3,
@@ -5367,13 +5618,13 @@
   },
   {
    "passer": "Petr Křivánek",
-   "scorer": "Jaden Dewar Edwards",
+   "scorer": "Corey Maurice Thomas",
    "ast": 3,
-   "pts": 8
+   "pts": 7
   },
   {
-   "passer": "Petr Křivánek",
-   "scorer": "Corey Maurice Thomas",
+   "passer": "Milan Tomáš Stráněl",
+   "scorer": "Petr Křivánek",
    "ast": 3,
    "pts": 7
   },
@@ -5405,12 +5656,6 @@
    "passer": "Petr Křivánek",
    "scorer": "Šimon Svoboda",
    "ast": 3,
-   "pts": 6
-  },
-  {
-   "passer": "Vojtěch Synáček",
-   "scorer": "Radek Farský",
-   "ast": 2,
    "pts": 6
   }
  ],
@@ -6432,6 +6677,108 @@
     "last5": [
      16,
      10
+    ]
+   }
+  },
+  {
+   "fibaId": 2938697,
+   "nblId": 544607,
+   "date": "2026-11-07",
+   "round": "11. kolo",
+   "venue": "home",
+   "opponent": "BK GAPA Hradec Králové",
+   "opponentSlug": "hradec",
+   "opponentLabel": "Hradec",
+   "score": [
+    82,
+    64
+   ],
+   "result": "W",
+   "ot": false,
+   "ortg": 107.4,
+   "drtg": 81.9,
+   "net": 25.5,
+   "pace": 77.2,
+   "efg": 46.5,
+   "tov": 13.1,
+   "orb": 37.5,
+   "ftr": 22.5,
+   "topScorer": "Jermaine Ballisager Webb",
+   "oppEfg": 40.8,
+   "oppOrb": 17.5,
+   "tp": [
+    6,
+    22
+   ],
+   "ft": [
+    16,
+    19
+   ],
+   "second": [
+    14,
+    5
+   ],
+   "bench": [
+    34,
+    24
+   ],
+   "paint": [
+    42,
+    28
+   ],
+   "leading": [
+    39.2,
+    0.0
+   ],
+   "leadChanges": 0,
+   "maxLead": [
+    20,
+    0
+   ],
+   "maxRun": [
+    7,
+    6
+   ],
+   "astFg": [
+    [
+     24,
+     30
+    ],
+    [
+     10,
+     22
+    ]
+   ],
+   "quarters": [
+    [
+     18,
+     15
+    ],
+    [
+     22,
+     17
+    ],
+    [
+     23,
+     12
+    ],
+    [
+     19,
+     20
+    ]
+   ],
+   "segments": {
+    "first3": [
+     23,
+     20
+    ],
+    "last3": [
+     26,
+     20
+    ],
+    "last5": [
+     12,
+     12
     ]
    }
   }
@@ -11108,6 +11455,503 @@
     0,
     0,
     0
+   ],
+   [
+    4.8,
+    53.5,
+    0,
+    0,
+    0
+   ],
+   [
+    6.2,
+    47.3,
+    1,
+    0,
+    13
+   ],
+   [
+    7.7,
+    50.8,
+    0,
+    0,
+    13
+   ],
+   [
+    5.7,
+    47.8,
+    1,
+    0,
+    1
+   ],
+   [
+    16.6,
+    51.2,
+    0,
+    0,
+    7
+   ],
+   [
+    7.9,
+    53.5,
+    0,
+    0,
+    9
+   ],
+   [
+    13.6,
+    94.7,
+    1,
+    1,
+    13
+   ],
+   [
+    28.6,
+    26.4,
+    0,
+    1,
+    7
+   ],
+   [
+    6.3,
+    42.7,
+    0,
+    0,
+    13
+   ],
+   [
+    20.0,
+    29.2,
+    0,
+    0,
+    0
+   ],
+   [
+    6.3,
+    37.1,
+    0,
+    0,
+    1
+   ],
+   [
+    6.2,
+    52.9,
+    1,
+    0,
+    0
+   ],
+   [
+    11.6,
+    4.9,
+    0,
+    1,
+    11
+   ],
+   [
+    6.0,
+    45.6,
+    1,
+    0,
+    10
+   ],
+   [
+    7.4,
+    34.6,
+    0,
+    0,
+    4
+   ],
+   [
+    13.9,
+    38.0,
+    0,
+    0,
+    4
+   ],
+   [
+    30.3,
+    65.3,
+    0,
+    1,
+    3
+   ],
+   [
+    19.2,
+    10.9,
+    0,
+    1,
+    5
+   ],
+   [
+    5.8,
+    52.0,
+    1,
+    0,
+    11
+   ],
+   [
+    6.6,
+    53.8,
+    1,
+    0,
+    0
+   ],
+   [
+    22.4,
+    40.8,
+    0,
+    0,
+    0
+   ],
+   [
+    20.5,
+    88.7,
+    1,
+    1,
+    13
+   ],
+   [
+    27.4,
+    24.1,
+    0,
+    1,
+    0
+   ],
+   [
+    11.0,
+    96.1,
+    0,
+    1,
+    13
+   ],
+   [
+    5.1,
+    54.9,
+    1,
+    0,
+    0
+   ],
+   [
+    19.7,
+    10.6,
+    1,
+    1,
+    4
+   ],
+   [
+    4.8,
+    4.9,
+    0,
+    1,
+    4
+   ],
+   [
+    30.9,
+    59.1,
+    0,
+    1,
+    9
+   ],
+   [
+    26.4,
+    35.1,
+    0,
+    0,
+    4
+   ],
+   [
+    19.7,
+    55.2,
+    0,
+    0,
+    4
+   ],
+   [
+    5.5,
+    50.6,
+    1,
+    0,
+    4
+   ],
+   [
+    4.9,
+    47.8,
+    0,
+    0,
+    7
+   ],
+   [
+    5.5,
+    45.8,
+    1,
+    0,
+    10
+   ],
+   [
+    26.3,
+    79.7,
+    0,
+    1,
+    13
+   ],
+   [
+    11.8,
+    25.0,
+    0,
+    0,
+    10
+   ],
+   [
+    6.9,
+    49.8,
+    1,
+    0,
+    9
+   ],
+   [
+    5.1,
+    44.2,
+    1,
+    0,
+    13
+   ],
+   [
+    19.4,
+    10.0,
+    0,
+    1,
+    1
+   ],
+   [
+    26.8,
+    19.4,
+    0,
+    1,
+    13
+   ],
+   [
+    8.6,
+    30.7,
+    1,
+    0,
+    1
+   ],
+   [
+    23.2,
+    30.2,
+    0,
+    0,
+    0
+   ],
+   [
+    22.5,
+    13.5,
+    0,
+    1,
+    13
+   ],
+   [
+    8.3,
+    46.2,
+    0,
+    0,
+    9
+   ],
+   [
+    11.4,
+    4.8,
+    1,
+    1,
+    13
+   ],
+   [
+    9.5,
+    46.0,
+    1,
+    0,
+    1
+   ],
+   [
+    11.2,
+    48.0,
+    0,
+    0,
+    1
+   ],
+   [
+    6.1,
+    53.9,
+    0,
+    0,
+    13
+   ],
+   [
+    31.2,
+    57.3,
+    1,
+    1,
+    1
+   ],
+   [
+    8.7,
+    44.8,
+    0,
+    0,
+    4
+   ],
+   [
+    22.8,
+    35.8,
+    1,
+    0,
+    4
+   ],
+   [
+    16.2,
+    40.0,
+    1,
+    0,
+    0
+   ],
+   [
+    6.7,
+    55.8,
+    0,
+    0,
+    4
+   ],
+   [
+    6.2,
+    4.5,
+    0,
+    1,
+    4
+   ],
+   [
+    6.9,
+    53.9,
+    1,
+    0,
+    3
+   ],
+   [
+    6.9,
+    56.7,
+    1,
+    0,
+    4
+   ],
+   [
+    24.5,
+    14.9,
+    0,
+    1,
+    11
+   ],
+   [
+    20.1,
+    35.0,
+    1,
+    0,
+    3
+   ],
+   [
+    24.8,
+    16.3,
+    0,
+    1,
+    4
+   ],
+   [
+    6.4,
+    45.1,
+    0,
+    0,
+    4
+   ],
+   [
+    15.6,
+    92.2,
+    1,
+    1,
+    13
+   ],
+   [
+    5.2,
+    55.0,
+    1,
+    0,
+    1
+   ],
+   [
+    11.1,
+    46.0,
+    0,
+    0,
+    1
+   ],
+   [
+    11.4,
+    54.4,
+    0,
+    0,
+    1
+   ],
+   [
+    7.7,
+    51.3,
+    1,
+    0,
+    1
+   ],
+   [
+    7.8,
+    48.0,
+    0,
+    0,
+    13
+   ],
+   [
+    15.4,
+    47.4,
+    1,
+    0,
+    1
+   ],
+   [
+    7.5,
+    44.3,
+    1,
+    0,
+    12
+   ],
+   [
+    12.8,
+    3.9,
+    0,
+    1,
+    8
+   ],
+   [
+    21.1,
+    33.3,
+    0,
+    0,
+    12
+   ],
+   [
+    7.2,
+    54.2,
+    1,
+    0,
+    5
+   ],
+   [
+    11.4,
+    54.4,
+    1,
+    0,
+    8
    ]
   ]
  },
@@ -11115,35 +11959,35 @@
   {
    "name": "Jermaine Ballisager Webb",
    "bands": [
-    18,
-    21,
+    20,
+    24,
     42,
-    40,
-    44
+    44,
+    52
    ],
-   "pts": 165
+   "pts": 182
   },
   {
    "name": "Vojtěch Synáček",
    "bands": [
-    27,
-    42,
-    24,
+    29,
+    44,
+    31,
     22,
     18
    ],
-   "pts": 139
+   "pts": 150
   },
   {
    "name": "Petr Křivánek",
    "bands": [
-    13,
-    23,
-    27,
+    17,
+    25,
+    29,
     9,
     25
    ],
-   "pts": 97
+   "pts": 105
   },
   {
    "name": "Viktor Půlpán",
@@ -11151,52 +11995,63 @@
     25,
     14,
     21,
-    16,
+    18,
     12
    ],
-   "pts": 88
+   "pts": 90
   },
   {
    "name": "Jaden Dewar Edwards",
    "bands": [
     4,
     8,
-    19,
-    18,
-    18
+    29,
+    21,
+    21
    ],
-   "pts": 67
+   "pts": 83
   },
   {
    "name": "Milan Tomáš Stráněl",
    "bands": [
     18,
-    12,
-    15,
+    14,
+    16,
     5,
-    11
+    13
    ],
-   "pts": 61
+   "pts": 66
   },
   {
    "name": "Šimon Svoboda",
    "bands": [
-    6,
+    8,
     15,
     16,
-    14,
+    17,
     5
    ],
-   "pts": 56
+   "pts": 61
   },
   {
    "name": "Viktor Ivánek",
    "bands": [
-    6,
-    7,
+    8,
+    9,
     2,
     5,
-    18
+    20
+   ],
+   "pts": 44
+  },
+  {
+   "name": "Corey Maurice Thomas",
+   "bands": [
+    9,
+    11,
+    7,
+    4,
+    7
    ],
    "pts": 38
   },
@@ -11212,40 +12067,40 @@
    "pts": 35
   },
   {
-   "name": "Corey Maurice Thomas",
-   "bands": [
-    9,
-    7,
-    7,
-    4,
-    5
-   ],
-   "pts": 32
-  },
-  {
    "name": "Matěj Rychtecký",
    "bands": [
-    4,
+    6,
     5,
     3,
     11,
     3
    ],
-   "pts": 26
+   "pts": 28
   },
   {
    "name": "Jakub Urda",
    "bands": [
     3,
-    0,
+    2,
     0,
     0,
     0
    ],
-   "pts": 3
+   "pts": 5
   },
   {
    "name": "Adam Plaček",
+   "bands": [
+    0,
+    2,
+    0,
+    0,
+    0
+   ],
+   "pts": 2
+  },
+  {
+   "name": "Martin Čech",
    "bands": [
     0,
     2,
@@ -11258,67 +12113,67 @@
  ],
  "segments": {
   "first3": [
-   226,
-   240
-  ],
-  "last3": [
-   237,
+   249,
    260
   ],
+  "last3": [
+   263,
+   280
+  ],
   "last5": [
-   103,
-   119
+   115,
+   131
   ]
  },
  "ranks": {
   "ppg": 10,
   "oppg": 6,
-  "diff": 8,
+  "diff": 7,
   "ortg": 10,
-  "drtg": 6,
+  "drtg": 5,
   "net": 8,
   "pace": 4,
   "efg": 10,
   "ts": 10,
   "tov": 9,
-  "orb": 3,
-  "drb": 7,
+  "orb": 2,
+  "drb": 5,
   "ftr": 3,
   "three_par": 12,
   "three": 9,
   "two": 10,
-  "ft": 6,
-  "ast_pct": 3,
-  "ast_to": 10,
+  "ft": 4,
+  "ast_pct": 2,
+  "ast_to": 8,
   "stl_pct": 8,
   "blk_pct": 2,
-  "opp_efg": 4,
-  "opp_tov": 7,
+  "opp_efg": 2,
+  "opp_tov": 6,
   "opp_ftr": 11,
-  "opp_three": 8,
+  "opp_three": 7,
   "of": 12
  },
  "standing": {
-  "pos": 8,
+  "pos": 7,
   "slug": "brno",
   "name": "PUMPA Basket Brno",
   "label": "Brno",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
-  "gp": 10,
-  "w": 4,
+  "gp": 11,
+  "w": 5,
   "l": 6,
-  "pct": 0.4,
-  "pf": 809,
-  "pa": 839,
-  "diff": -30,
-  "ppg": 80.9,
-  "oppg": 83.9,
-  "home": "2-2",
+  "pct": 0.455,
+  "pf": 891,
+  "pa": 903,
+  "diff": -12,
+  "ppg": 81.0,
+  "oppg": 82.1,
+  "home": "3-2",
   "away": "2-4",
   "close": "2-0",
   "ot": 0,
-  "streak": "W1",
-  "last5": "WWWLW"
+  "streak": "W2",
+  "last5": "WWLWW"
  },
  "players": [
   {
@@ -11329,103 +12184,103 @@
    "teamLabel": "Brno",
    "shirt": "22",
    "pos": "",
-   "gp": 10,
-   "gs": 10,
-   "min": 266.1,
+   "gp": 11,
+   "gs": 11,
+   "min": 290.7,
    "totals": {
-    "pts": 165,
-    "fgm": 55,
-    "fga": 103,
-    "tpm": 11,
-    "tpa": 33,
-    "twopm": 44,
-    "twopa": 70,
-    "ftm": 44,
-    "fta": 59,
-    "oreb": 23,
-    "dreb": 47,
-    "reb": 70,
+    "pts": 182,
+    "fgm": 62,
+    "fga": 115,
+    "tpm": 12,
+    "tpa": 35,
+    "twopm": 50,
+    "twopa": 80,
+    "ftm": 46,
+    "fta": 63,
+    "oreb": 24,
+    "dreb": 51,
+    "reb": 75,
     "ast": 14,
-    "to": 22,
+    "to": 23,
     "stl": 6,
     "blk": 6,
     "blkr": 4,
-    "pf": 27,
-    "foulon": 52,
-    "pm": -24,
-    "paint": 82,
-    "fast": 13,
-    "second": 33
+    "pf": 28,
+    "foulon": 54,
+    "pm": -9,
+    "paint": 92,
+    "fast": 15,
+    "second": 34
    },
    "perGame": {
     "pts": 16.5,
-    "fgm": 5.5,
-    "fga": 10.3,
+    "fgm": 5.6,
+    "fga": 10.5,
     "tpm": 1.1,
-    "tpa": 3.3,
-    "twopm": 4.4,
-    "twopa": 7.0,
-    "ftm": 4.4,
-    "fta": 5.9,
-    "oreb": 2.3,
-    "dreb": 4.7,
-    "reb": 7.0,
-    "ast": 1.4,
-    "to": 2.2,
-    "stl": 0.6,
-    "blk": 0.6,
+    "tpa": 3.2,
+    "twopm": 4.5,
+    "twopa": 7.3,
+    "ftm": 4.2,
+    "fta": 5.7,
+    "oreb": 2.2,
+    "dreb": 4.6,
+    "reb": 6.8,
+    "ast": 1.3,
+    "to": 2.1,
+    "stl": 0.5,
+    "blk": 0.5,
     "blkr": 0.4,
-    "pf": 2.7,
-    "foulon": 5.2,
-    "pm": -2.4,
-    "paint": 8.2,
-    "fast": 1.3,
-    "second": 3.3,
-    "min": 26.6,
-    "eff": 17.6,
-    "gmsc": 12.6
+    "pf": 2.5,
+    "foulon": 4.9,
+    "pm": -0.8,
+    "paint": 8.4,
+    "fast": 1.4,
+    "second": 3.1,
+    "min": 26.4,
+    "eff": 17.3,
+    "gmsc": 12.5
    },
    "per40": {
-    "pts": 24.8,
-    "reb": 10.5,
-    "ast": 2.1,
-    "stl": 0.9,
-    "blk": 0.9,
-    "to": 3.3
+    "pts": 25.0,
+    "reb": 10.3,
+    "ast": 1.9,
+    "stl": 0.8,
+    "blk": 0.8,
+    "to": 3.2
    },
-   "ts": 64.0,
-   "efg": 58.7,
-   "fg": 53.4,
-   "two": 62.9,
-   "three": 33.3,
-   "ft": 74.6,
-   "usg": 23.8,
-   "astTo": 0.64,
-   "pm": -24,
-   "pm40": -3.6,
+   "ts": 63.8,
+   "efg": 59.1,
+   "fg": 53.9,
+   "two": 62.5,
+   "three": 34.3,
+   "ft": 73.0,
+   "usg": 24.0,
+   "astTo": 0.61,
+   "pm": -9,
+   "pm40": -1.2,
    "on": {
-    "min": 266.3,
-    "pf": 544,
-    "pa": 568,
-    "ortg": 99.7,
-    "drtg": 106.7,
-    "net": -6.9
+    "min": 290.9,
+    "pf": 595,
+    "pa": 604,
+    "ortg": 100.7,
+    "drtg": 104.0,
+    "net": -3.4
    },
    "off": {
-    "min": 133.7,
-    "ortg": 100.1,
-    "drtg": 101.1,
-    "net": -1.0
+    "min": 149.2,
+    "ortg": 100.2,
+    "drtg": 100.3,
+    "net": -0.2
    },
-   "onOff": -5.9,
+   "onOff": -3.2,
    "dd": 1,
    "td": 0,
    "high": 26,
    "zones": {
     "paint": {
-     "m": 43,
-     "a": 67,
-     "pct": 64.2
+     "m": 49,
+     "a": 77,
+     "pct": 63.6
     },
     "mid": {
      "m": 1,
@@ -11438,9 +12293,9 @@
      "pct": 0.0
     },
     "above3": {
-     "m": 11,
-     "a": 32,
-     "pct": 34.4
+     "m": 12,
+     "a": 34,
+     "pct": 35.3
     }
    },
    "log": [
@@ -11643,6 +12498,271 @@
      "pm": -2,
      "eff": 31,
      "ts": 82.7
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 24.6,
+     "pts": 17,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "7/12",
+     "tp": "1/2",
+     "ft": "2/4",
+     "pm": 15,
+     "eff": 14,
+     "ts": 61.8
+    }
+   ]
+  },
+  {
+   "id": "brno/jaden-dewar-edwards",
+   "name": "Jaden Dewar Edwards",
+   "team": "brno",
+   "teamName": "PUMPA Basket Brno",
+   "teamLabel": "Brno",
+   "shirt": "20",
+   "pos": "",
+   "gp": 6,
+   "gs": 2,
+   "min": 163.3,
+   "totals": {
+    "pts": 83,
+    "fgm": 35,
+    "fga": 84,
+    "tpm": 13,
+    "tpa": 34,
+    "twopm": 22,
+    "twopa": 50,
+    "ftm": 0,
+    "fta": 3,
+    "oreb": 10,
+    "dreb": 36,
+    "reb": 46,
+    "ast": 4,
+    "to": 11,
+    "stl": 2,
+    "blk": 3,
+    "blkr": 7,
+    "pf": 12,
+    "foulon": 2,
+    "pm": 25,
+    "paint": 40,
+    "fast": 4,
+    "second": 23
+   },
+   "perGame": {
+    "pts": 13.8,
+    "fgm": 5.8,
+    "fga": 14.0,
+    "tpm": 2.2,
+    "tpa": 5.7,
+    "twopm": 3.7,
+    "twopa": 8.3,
+    "ftm": 0.0,
+    "fta": 0.5,
+    "oreb": 1.7,
+    "dreb": 6.0,
+    "reb": 7.7,
+    "ast": 0.7,
+    "to": 1.8,
+    "stl": 0.3,
+    "blk": 0.5,
+    "blkr": 1.2,
+    "pf": 2.0,
+    "foulon": 0.3,
+    "pm": 4.2,
+    "paint": 6.7,
+    "fast": 0.7,
+    "second": 3.8,
+    "min": 27.2,
+    "eff": 12.5,
+    "gmsc": 7.6
+   },
+   "per40": {
+    "pts": 20.3,
+    "reb": 11.3,
+    "ast": 1.0,
+    "stl": 0.5,
+    "blk": 0.7,
+    "to": 2.7
+   },
+   "ts": 48.6,
+   "efg": 49.4,
+   "fg": 41.7,
+   "two": 44.0,
+   "three": 38.2,
+   "ft": 0.0,
+   "usg": 24.6,
+   "astTo": 0.36,
+   "pm": 25,
+   "pm40": 6.1,
+   "on": {
+    "min": 163.4,
+    "pf": 342,
+    "pa": 317,
+    "ortg": 103.4,
+    "drtg": 96.8,
+    "net": 6.6
+   },
+   "off": {
+    "min": 76.6,
+    "ortg": 102.1,
+    "drtg": 96.2,
+    "net": 5.9
+   },
+   "onOff": 0.7,
+   "dd": 2,
+   "td": 0,
+   "high": 20,
+   "zones": {
+    "paint": {
+     "m": 19,
+     "a": 37,
+     "pct": 51.4
+    },
+    "mid": {
+     "m": 3,
+     "a": 13,
+     "pct": 23.1
+    },
+    "corner3": {
+     "m": 6,
+     "a": 9,
+     "pct": 66.7
+    },
+    "above3": {
+     "m": 7,
+     "a": 25,
+     "pct": 28.0
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2900136,
+     "date": "2026-10-11",
+     "opponent": "Plzeň",
+     "venue": "away",
+     "result": "W",
+     "min": 25.9,
+     "pts": 16,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 2,
+     "fg": "7/16",
+     "tp": "2/6",
+     "ft": "0/3",
+     "pm": 4,
+     "eff": 8,
+     "ts": 46.2
+    },
+    {
+     "fibaId": 2910404,
+     "date": "2026-10-18",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 28.9,
+     "pts": 12,
+     "reb": 9,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "6/12",
+     "tp": "0/2",
+     "ft": "0/0",
+     "pm": 1,
+     "eff": 13,
+     "ts": 50.0
+    },
+    {
+     "fibaId": 2922251,
+     "date": "2026-10-24",
+     "opponent": "Opava",
+     "venue": "away",
+     "result": "W",
+     "min": 26.3,
+     "pts": 10,
+     "reb": 11,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "5/9",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": 7,
+     "eff": 16,
+     "ts": 55.6
+    },
+    {
+     "fibaId": 2927620,
+     "date": "2026-10-28",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 31.2,
+     "pts": 20,
+     "reb": 5,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "to": 1,
+     "fg": "8/22",
+     "tp": "4/11",
+     "ft": "0/0",
+     "pm": -10,
+     "eff": 12,
+     "ts": 45.5
+    },
+    {
+     "fibaId": 2936753,
+     "date": "2026-11-04",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 26.9,
+     "pts": 9,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "to": 2,
+     "fg": "3/11",
+     "tp": "3/6",
+     "ft": "0/0",
+     "pm": 9,
+     "eff": 5,
+     "ts": 40.9
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 24.1,
+     "pts": 16,
+     "reb": 13,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "6/14",
+     "tp": "4/8",
+     "ft": "0/0",
+     "pm": 14,
+     "eff": 21,
+     "ts": 57.1
     }
    ]
   },
@@ -11654,118 +12774,118 @@
    "teamLabel": "Brno",
    "shirt": "27",
    "pos": "",
-   "gp": 10,
+   "gp": 11,
    "gs": 0,
-   "min": 215.7,
+   "min": 232.6,
    "totals": {
-    "pts": 139,
-    "fgm": 37,
-    "fga": 102,
-    "tpm": 14,
-    "tpa": 47,
-    "twopm": 23,
-    "twopa": 55,
-    "ftm": 51,
-    "fta": 63,
-    "oreb": 7,
-    "dreb": 14,
-    "reb": 21,
-    "ast": 22,
+    "pts": 150,
+    "fgm": 41,
+    "fga": 116,
+    "tpm": 15,
+    "tpa": 51,
+    "twopm": 26,
+    "twopa": 65,
+    "ftm": 53,
+    "fta": 65,
+    "oreb": 8,
+    "dreb": 16,
+    "reb": 24,
+    "ast": 25,
     "to": 28,
-    "stl": 11,
+    "stl": 12,
     "blk": 0,
-    "blkr": 8,
-    "pf": 27,
-    "foulon": 45,
-    "pm": -15,
-    "paint": 42,
-    "fast": 38,
+    "blkr": 11,
+    "pf": 29,
+    "foulon": 48,
+    "pm": -8,
+    "paint": 46,
+    "fast": 40,
     "second": 16
    },
    "perGame": {
-    "pts": 13.9,
+    "pts": 13.6,
     "fgm": 3.7,
-    "fga": 10.2,
+    "fga": 10.5,
     "tpm": 1.4,
-    "tpa": 4.7,
-    "twopm": 2.3,
-    "twopa": 5.5,
-    "ftm": 5.1,
-    "fta": 6.3,
+    "tpa": 4.6,
+    "twopm": 2.4,
+    "twopa": 5.9,
+    "ftm": 4.8,
+    "fta": 5.9,
     "oreb": 0.7,
-    "dreb": 1.4,
-    "reb": 2.1,
-    "ast": 2.2,
-    "to": 2.8,
+    "dreb": 1.5,
+    "reb": 2.2,
+    "ast": 2.3,
+    "to": 2.5,
     "stl": 1.1,
     "blk": 0.0,
-    "blkr": 0.8,
-    "pf": 2.7,
-    "foulon": 4.5,
-    "pm": -1.5,
+    "blkr": 1.0,
+    "pf": 2.6,
+    "foulon": 4.4,
+    "pm": -0.7,
     "paint": 4.2,
-    "fast": 3.8,
-    "second": 1.6,
-    "min": 21.6,
-    "eff": 8.8,
-    "gmsc": 7.4
+    "fast": 3.6,
+    "second": 1.5,
+    "min": 21.1,
+    "eff": 8.7,
+    "gmsc": 7.3
    },
    "per40": {
     "pts": 25.8,
-    "reb": 3.9,
-    "ast": 4.1,
-    "stl": 2.0,
+    "reb": 4.1,
+    "ast": 4.3,
+    "stl": 2.1,
     "blk": 0.0,
-    "to": 5.2
+    "to": 4.8
    },
-   "ts": 53.6,
-   "efg": 43.1,
-   "fg": 36.3,
-   "two": 41.8,
-   "three": 29.8,
-   "ft": 81.0,
-   "usg": 30.6,
-   "astTo": 0.79,
-   "pm": -15,
-   "pm40": -2.8,
+   "ts": 51.9,
+   "efg": 41.8,
+   "fg": 35.3,
+   "two": 40.0,
+   "three": 29.4,
+   "ft": 81.5,
+   "usg": 31.2,
+   "astTo": 0.89,
+   "pm": -8,
+   "pm40": -1.4,
    "on": {
-    "min": 215.6,
-    "pf": 476,
-    "pa": 491,
-    "ortg": 105.3,
-    "drtg": 110.0,
-    "net": -4.6
+    "min": 232.5,
+    "pf": 506,
+    "pa": 514,
+    "ortg": 104.9,
+    "drtg": 107.8,
+    "net": -3.0
    },
    "off": {
-    "min": 184.4,
-    "ortg": 93.0,
-    "drtg": 98.3,
-    "net": -5.4
+    "min": 207.5,
+    "ortg": 95.3,
+    "drtg": 96.8,
+    "net": -1.5
    },
-   "onOff": 0.8,
+   "onOff": -1.5,
    "dd": 0,
    "td": 0,
    "high": 23,
    "zones": {
     "paint": {
-     "m": 21,
-     "a": 43,
-     "pct": 48.8
+     "m": 23,
+     "a": 50,
+     "pct": 46.0
     },
     "mid": {
-     "m": 2,
-     "a": 12,
-     "pct": 16.7
+     "m": 3,
+     "a": 15,
+     "pct": 20.0
     },
     "corner3": {
      "m": 3,
-     "a": 11,
-     "pct": 27.3
+     "a": 13,
+     "pct": 23.1
     },
     "above3": {
-     "m": 11,
-     "a": 36,
-     "pct": 30.6
+     "m": 12,
+     "a": 38,
+     "pct": 31.6
     }
    },
    "log": [
@@ -11968,231 +13088,26 @@
      "pm": -8,
      "eff": -6,
      "ts": 24.0
-    }
-   ]
-  },
-  {
-   "id": "brno/jaden-dewar-edwards",
-   "name": "Jaden Dewar Edwards",
-   "team": "brno",
-   "teamName": "PUMPA Basket Brno",
-   "teamLabel": "Brno",
-   "shirt": "20",
-   "pos": "",
-   "gp": 5,
-   "gs": 1,
-   "min": 139.2,
-   "totals": {
-    "pts": 67,
-    "fgm": 29,
-    "fga": 70,
-    "tpm": 9,
-    "tpa": 26,
-    "twopm": 20,
-    "twopa": 44,
-    "ftm": 0,
-    "fta": 3,
-    "oreb": 7,
-    "dreb": 26,
-    "reb": 33,
-    "ast": 3,
-    "to": 10,
-    "stl": 2,
-    "blk": 3,
-    "blkr": 5,
-    "pf": 11,
-    "foulon": 1,
-    "pm": 11,
-    "paint": 36,
-    "fast": 4,
-    "second": 18
-   },
-   "perGame": {
-    "pts": 13.4,
-    "fgm": 5.8,
-    "fga": 14.0,
-    "tpm": 1.8,
-    "tpa": 5.2,
-    "twopm": 4.0,
-    "twopa": 8.8,
-    "ftm": 0.0,
-    "fta": 0.6,
-    "oreb": 1.4,
-    "dreb": 5.2,
-    "reb": 6.6,
-    "ast": 0.6,
-    "to": 2.0,
-    "stl": 0.4,
-    "blk": 0.6,
-    "blkr": 1.0,
-    "pf": 2.2,
-    "foulon": 0.2,
-    "pm": 2.2,
-    "paint": 7.2,
-    "fast": 0.8,
-    "second": 3.6,
-    "min": 27.8,
-    "eff": 10.8,
-    "gmsc": 6.6
-   },
-   "per40": {
-    "pts": 19.3,
-    "reb": 9.5,
-    "ast": 0.9,
-    "stl": 0.6,
-    "blk": 0.9,
-    "to": 2.9
-   },
-   "ts": 47.0,
-   "efg": 47.9,
-   "fg": 41.4,
-   "two": 45.5,
-   "three": 34.6,
-   "ft": 0.0,
-   "usg": 24.2,
-   "astTo": 0.3,
-   "pm": 11,
-   "pm40": 3.2,
-   "on": {
-    "min": 139.3,
-    "pf": 294,
-    "pa": 283,
-    "ortg": 103.6,
-    "drtg": 101.8,
-    "net": 1.8
-   },
-   "off": {
-    "min": 60.7,
-    "ortg": 98.8,
-    "drtg": 94.1,
-    "net": 4.6
-   },
-   "onOff": -2.8,
-   "dd": 1,
-   "td": 0,
-   "high": 20,
-   "zones": {
-    "paint": {
-     "m": 17,
-     "a": 31,
-     "pct": 54.8
-    },
-    "mid": {
-     "m": 3,
-     "a": 13,
-     "pct": 23.1
-    },
-    "corner3": {
-     "m": 5,
-     "a": 7,
-     "pct": 71.4
-    },
-    "above3": {
-     "m": 4,
-     "a": 19,
-     "pct": 21.1
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2900136,
-     "date": "2026-10-11",
-     "opponent": "Plzeň",
-     "venue": "away",
-     "result": "W",
-     "min": 25.9,
-     "pts": 16,
-     "reb": 5,
-     "ast": 0,
-     "stl": 0,
-     "blk": 1,
-     "to": 2,
-     "fg": "7/16",
-     "tp": "2/6",
-     "ft": "0/3",
-     "pm": 4,
-     "eff": 8,
-     "ts": 46.2
     },
     {
-     "fibaId": 2910404,
-     "date": "2026-10-18",
-     "opponent": "USK",
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
      "venue": "home",
      "result": "W",
-     "min": 28.9,
-     "pts": 12,
-     "reb": 9,
-     "ast": 0,
-     "stl": 1,
-     "blk": 0,
-     "to": 3,
-     "fg": "6/12",
-     "tp": "0/2",
-     "ft": "0/0",
-     "pm": 1,
-     "eff": 13,
-     "ts": 50.0
-    },
-    {
-     "fibaId": 2922251,
-     "date": "2026-10-24",
-     "opponent": "Opava",
-     "venue": "away",
-     "result": "W",
-     "min": 26.3,
-     "pts": 10,
-     "reb": 11,
-     "ast": 0,
-     "stl": 1,
-     "blk": 0,
-     "to": 2,
-     "fg": "5/9",
-     "tp": "0/1",
-     "ft": "0/0",
-     "pm": 7,
-     "eff": 16,
-     "ts": 55.6
-    },
-    {
-     "fibaId": 2927620,
-     "date": "2026-10-28",
-     "opponent": "Písek",
-     "venue": "home",
-     "result": "L",
-     "min": 31.2,
-     "pts": 20,
-     "reb": 5,
-     "ast": 1,
-     "stl": 0,
-     "blk": 1,
-     "to": 1,
-     "fg": "8/22",
-     "tp": "4/11",
-     "ft": "0/0",
-     "pm": -10,
-     "eff": 12,
-     "ts": 45.5
-    },
-    {
-     "fibaId": 2936753,
-     "date": "2026-11-04",
-     "opponent": "Olomoucko",
-     "venue": "home",
-     "result": "W",
-     "min": 26.9,
-     "pts": 9,
+     "min": 16.9,
+     "pts": 11,
      "reb": 3,
-     "ast": 2,
-     "stl": 0,
-     "blk": 1,
-     "to": 2,
-     "fg": "3/11",
-     "tp": "3/6",
-     "ft": "0/0",
-     "pm": 9,
-     "eff": 5,
-     "ts": 40.9
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "4/14",
+     "tp": "1/4",
+     "ft": "2/2",
+     "pm": 7,
+     "eff": 8,
+     "ts": 37.0
     }
    ]
   },
@@ -12204,108 +13119,108 @@
    "teamLabel": "Brno",
    "shirt": "12",
    "pos": "",
-   "gp": 10,
-   "gs": 9,
-   "min": 256.3,
+   "gp": 11,
+   "gs": 10,
+   "min": 284.3,
    "totals": {
-    "pts": 97,
-    "fgm": 39,
-    "fga": 94,
+    "pts": 105,
+    "fgm": 43,
+    "fga": 103,
     "tpm": 8,
-    "tpa": 29,
-    "twopm": 31,
-    "twopa": 65,
+    "tpa": 30,
+    "twopm": 35,
+    "twopa": 73,
     "ftm": 11,
     "fta": 23,
-    "oreb": 18,
-    "dreb": 34,
-    "reb": 52,
-    "ast": 42,
-    "to": 28,
-    "stl": 16,
+    "oreb": 19,
+    "dreb": 37,
+    "reb": 56,
+    "ast": 50,
+    "to": 29,
+    "stl": 17,
     "blk": 2,
-    "blkr": 1,
-    "pf": 23,
+    "blkr": 2,
+    "pf": 25,
     "foulon": 18,
-    "pm": 37,
-    "paint": 58,
+    "pm": 49,
+    "paint": 66,
     "fast": 9,
     "second": 19
    },
    "perGame": {
-    "pts": 9.7,
+    "pts": 9.5,
     "fgm": 3.9,
     "fga": 9.4,
-    "tpm": 0.8,
-    "tpa": 2.9,
-    "twopm": 3.1,
-    "twopa": 6.5,
-    "ftm": 1.1,
-    "fta": 2.3,
-    "oreb": 1.8,
+    "tpm": 0.7,
+    "tpa": 2.7,
+    "twopm": 3.2,
+    "twopa": 6.6,
+    "ftm": 1.0,
+    "fta": 2.1,
+    "oreb": 1.7,
     "dreb": 3.4,
-    "reb": 5.2,
-    "ast": 4.2,
-    "to": 2.8,
-    "stl": 1.6,
+    "reb": 5.1,
+    "ast": 4.5,
+    "to": 2.6,
+    "stl": 1.5,
     "blk": 0.2,
-    "blkr": 0.1,
+    "blkr": 0.2,
     "pf": 2.3,
-    "foulon": 1.8,
-    "pm": 3.7,
-    "paint": 5.8,
-    "fast": 0.9,
-    "second": 1.9,
-    "min": 25.6,
-    "eff": 11.4,
-    "gmsc": 7.4
+    "foulon": 1.6,
+    "pm": 4.5,
+    "paint": 6.0,
+    "fast": 0.8,
+    "second": 1.7,
+    "min": 25.8,
+    "eff": 11.7,
+    "gmsc": 7.6
    },
    "per40": {
-    "pts": 15.1,
-    "reb": 8.1,
-    "ast": 6.6,
-    "stl": 2.5,
+    "pts": 14.8,
+    "reb": 7.9,
+    "ast": 7.0,
+    "stl": 2.4,
     "blk": 0.3,
-    "to": 4.4
+    "to": 4.1
    },
-   "ts": 46.6,
-   "efg": 45.7,
-   "fg": 41.5,
-   "two": 47.7,
-   "three": 27.6,
+   "ts": 46.4,
+   "efg": 45.6,
+   "fg": 41.7,
+   "two": 47.9,
+   "three": 26.7,
    "ft": 47.8,
-   "usg": 21.6,
-   "astTo": 1.5,
-   "pm": 37,
-   "pm40": 5.8,
+   "usg": 21.0,
+   "astTo": 1.72,
+   "pm": 49,
+   "pm40": 6.9,
    "on": {
-    "min": 256.4,
-    "pf": 538,
-    "pa": 501,
-    "ortg": 102.9,
-    "drtg": 98.2,
-    "net": 4.7
+    "min": 284.3,
+    "pf": 599,
+    "pa": 550,
+    "ortg": 104.3,
+    "drtg": 97.6,
+    "net": 6.7
    },
    "off": {
-    "min": 143.7,
-    "ortg": 94.3,
-    "drtg": 116.4,
-    "net": -22.1
+    "min": 155.7,
+    "ortg": 93.6,
+    "drtg": 112.0,
+    "net": -18.5
    },
-   "onOff": 26.8,
+   "onOff": 25.2,
    "dd": 0,
    "td": 0,
    "high": 18,
    "zones": {
     "paint": {
-     "m": 29,
-     "a": 57,
-     "pct": 50.9
+     "m": 33,
+     "a": 62,
+     "pct": 53.2
     },
     "mid": {
      "m": 2,
-     "a": 8,
-     "pct": 25.0
+     "a": 11,
+     "pct": 18.2
     },
     "corner3": {
      "m": 1,
@@ -12314,8 +13229,8 @@
     },
     "above3": {
      "m": 7,
-     "a": 24,
-     "pct": 29.2
+     "a": 25,
+     "pct": 28.0
     }
    },
    "log": [
@@ -12518,6 +13433,26 @@
      "pm": 3,
      "eff": 0,
      "ts": 0.0
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 28.0,
+     "pts": 8,
+     "reb": 4,
+     "ast": 8,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/9",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": 12,
+     "eff": 15,
+     "ts": 44.4
     }
    ]
   },
@@ -12529,103 +13464,103 @@
    "teamLabel": "Brno",
    "shirt": "18",
    "pos": "",
-   "gp": 10,
-   "gs": 10,
-   "min": 277.7,
+   "gp": 11,
+   "gs": 11,
+   "min": 304.1,
    "totals": {
-    "pts": 88,
+    "pts": 90,
     "fgm": 32,
-    "fga": 69,
+    "fga": 72,
     "tpm": 5,
-    "tpa": 20,
+    "tpa": 21,
     "twopm": 27,
-    "twopa": 49,
-    "ftm": 19,
-    "fta": 32,
+    "twopa": 51,
+    "ftm": 21,
+    "fta": 34,
     "oreb": 9,
-    "dreb": 35,
-    "reb": 44,
-    "ast": 58,
-    "to": 23,
-    "stl": 12,
+    "dreb": 37,
+    "reb": 46,
+    "ast": 67,
+    "to": 25,
+    "stl": 13,
     "blk": 1,
     "blkr": 2,
-    "pf": 34,
-    "foulon": 33,
-    "pm": -10,
+    "pf": 38,
+    "foulon": 35,
+    "pm": 8,
     "paint": 54,
     "fast": 20,
     "second": 22
    },
    "perGame": {
-    "pts": 8.8,
-    "fgm": 3.2,
-    "fga": 6.9,
+    "pts": 8.2,
+    "fgm": 2.9,
+    "fga": 6.5,
     "tpm": 0.5,
-    "tpa": 2.0,
-    "twopm": 2.7,
-    "twopa": 4.9,
+    "tpa": 1.9,
+    "twopm": 2.5,
+    "twopa": 4.6,
     "ftm": 1.9,
-    "fta": 3.2,
-    "oreb": 0.9,
-    "dreb": 3.5,
-    "reb": 4.4,
-    "ast": 5.8,
+    "fta": 3.1,
+    "oreb": 0.8,
+    "dreb": 3.4,
+    "reb": 4.2,
+    "ast": 6.1,
     "to": 2.3,
     "stl": 1.2,
     "blk": 0.1,
     "blkr": 0.2,
-    "pf": 3.4,
-    "foulon": 3.3,
-    "pm": -1.0,
-    "paint": 5.4,
-    "fast": 2.0,
-    "second": 2.2,
-    "min": 27.8,
-    "eff": 13.0,
-    "gmsc": 8.1
+    "pf": 3.5,
+    "foulon": 3.2,
+    "pm": 0.7,
+    "paint": 4.9,
+    "fast": 1.8,
+    "second": 2.0,
+    "min": 27.6,
+    "eff": 12.6,
+    "gmsc": 7.7
    },
    "per40": {
-    "pts": 12.7,
-    "reb": 6.3,
-    "ast": 8.4,
+    "pts": 11.8,
+    "reb": 6.1,
+    "ast": 8.8,
     "stl": 1.7,
     "blk": 0.1,
     "to": 3.3
    },
-   "ts": 53.0,
-   "efg": 50.0,
-   "fg": 46.4,
-   "two": 55.1,
-   "three": 25.0,
-   "ft": 59.4,
-   "usg": 16.0,
-   "astTo": 2.52,
-   "pm": -10,
-   "pm40": -1.4,
+   "ts": 51.7,
+   "efg": 47.9,
+   "fg": 44.4,
+   "two": 52.9,
+   "three": 23.8,
+   "ft": 61.8,
+   "usg": 15.5,
+   "astTo": 2.68,
+   "pm": 8,
+   "pm40": 1.1,
    "on": {
-    "min": 277.7,
-    "pf": 557,
-    "pa": 567,
-    "ortg": 100.9,
-    "drtg": 104.8,
-    "net": -3.9
+    "min": 304.1,
+    "pf": 610,
+    "pa": 602,
+    "ortg": 101.4,
+    "drtg": 101.6,
+    "net": -0.2
    },
    "off": {
-    "min": 122.3,
-    "ortg": 97.6,
-    "drtg": 104.7,
-    "net": -7.2
+    "min": 135.9,
+    "ortg": 98.6,
+    "drtg": 105.1,
+    "net": -6.5
    },
-   "onOff": 3.3,
+   "onOff": 6.3,
    "dd": 0,
    "td": 0,
    "high": 18,
    "zones": {
     "paint": {
      "m": 26,
-     "a": 48,
-     "pct": 54.2
+     "a": 50,
+     "pct": 52.0
     },
     "mid": {
      "m": 1,
@@ -12639,8 +13574,8 @@
     },
     "above3": {
      "m": 5,
-     "a": 15,
-     "pct": 33.3
+     "a": 16,
+     "pct": 31.2
     }
    },
    "log": [
@@ -12843,6 +13778,26 @@
      "pm": 17,
      "eff": 19,
      "ts": 79.1
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 26.4,
+     "pts": 2,
+     "reb": 2,
+     "ast": 9,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "0/3",
+     "tp": "0/1",
+     "ft": "2/2",
+     "pm": 18,
+     "eff": 9,
+     "ts": 25.8
     }
    ]
   },
@@ -12854,107 +13809,107 @@
    "teamLabel": "Brno",
    "shirt": "7",
    "pos": "",
-   "gp": 8,
+   "gp": 9,
    "gs": 6,
-   "min": 163.8,
+   "min": 173.2,
    "totals": {
-    "pts": 61,
-    "fgm": 20,
-    "fga": 56,
+    "pts": 66,
+    "fgm": 22,
+    "fga": 59,
     "tpm": 6,
     "tpa": 16,
-    "twopm": 14,
-    "twopa": 40,
-    "ftm": 15,
-    "fta": 15,
-    "oreb": 18,
-    "dreb": 28,
-    "reb": 46,
-    "ast": 8,
-    "to": 13,
-    "stl": 8,
-    "blk": 9,
+    "twopm": 16,
+    "twopa": 43,
+    "ftm": 16,
+    "fta": 17,
+    "oreb": 19,
+    "dreb": 29,
+    "reb": 48,
+    "ast": 9,
+    "to": 14,
+    "stl": 9,
+    "blk": 10,
     "blkr": 3,
-    "pf": 23,
-    "foulon": 17,
-    "pm": -42,
-    "paint": 28,
+    "pf": 28,
+    "foulon": 18,
+    "pm": -40,
+    "paint": 32,
     "fast": 14,
-    "second": 15
+    "second": 17
    },
    "perGame": {
-    "pts": 7.6,
-    "fgm": 2.5,
-    "fga": 7.0,
-    "tpm": 0.8,
-    "tpa": 2.0,
+    "pts": 7.3,
+    "fgm": 2.4,
+    "fga": 6.6,
+    "tpm": 0.7,
+    "tpa": 1.8,
     "twopm": 1.8,
-    "twopa": 5.0,
-    "ftm": 1.9,
+    "twopa": 4.8,
+    "ftm": 1.8,
     "fta": 1.9,
-    "oreb": 2.2,
-    "dreb": 3.5,
-    "reb": 5.8,
+    "oreb": 2.1,
+    "dreb": 3.2,
+    "reb": 5.3,
     "ast": 1.0,
     "to": 1.6,
     "stl": 1.0,
     "blk": 1.1,
-    "blkr": 0.4,
-    "pf": 2.9,
-    "foulon": 2.1,
-    "pm": -5.2,
-    "paint": 3.5,
-    "fast": 1.8,
+    "blkr": 0.3,
+    "pf": 3.1,
+    "foulon": 2.0,
+    "pm": -4.4,
+    "paint": 3.6,
+    "fast": 1.6,
     "second": 1.9,
-    "min": 20.5,
-    "eff": 10.4,
-    "gmsc": 6.1
+    "min": 19.2,
+    "eff": 10.0,
+    "gmsc": 5.8
    },
    "per40": {
-    "pts": 14.9,
-    "reb": 11.2,
-    "ast": 2.0,
-    "stl": 2.0,
-    "blk": 2.2,
+    "pts": 15.2,
+    "reb": 11.1,
+    "ast": 2.1,
+    "stl": 2.1,
+    "blk": 2.3,
     "to": 3.2
    },
-   "ts": 48.7,
-   "efg": 41.1,
-   "fg": 35.7,
-   "two": 35.0,
+   "ts": 49.6,
+   "efg": 42.4,
+   "fg": 37.3,
+   "two": 37.2,
    "three": 37.5,
-   "ft": 100.0,
-   "usg": 19.5,
-   "astTo": 0.62,
-   "pm": -42,
-   "pm40": -10.3,
+   "ft": 94.1,
+   "usg": 19.6,
+   "astTo": 0.64,
+   "pm": -40,
+   "pm40": -9.2,
    "on": {
-    "min": 163.8,
-    "pf": 311,
-    "pa": 353,
-    "ortg": 96.2,
-    "drtg": 109.8,
-    "net": -13.6
+    "min": 173.2,
+    "pf": 328,
+    "pa": 368,
+    "ortg": 96.5,
+    "drtg": 108.8,
+    "net": -12.3
    },
    "off": {
-    "min": 156.2,
-    "ortg": 105.8,
-    "drtg": 99.1,
-    "net": 6.7
+    "min": 186.8,
+    "ortg": 106.2,
+    "drtg": 96.0,
+    "net": 10.3
    },
-   "onOff": -20.3,
+   "onOff": -22.6,
    "dd": 1,
    "td": 0,
    "high": 13,
    "zones": {
     "paint": {
-     "m": 14,
-     "a": 38,
-     "pct": 36.8
+     "m": 16,
+     "a": 40,
+     "pct": 40.0
     },
     "mid": {
      "m": 0,
-     "a": 2,
+     "a": 3,
      "pct": 0.0
     },
     "corner3": {
@@ -13128,6 +14083,26 @@
      "pm": 4,
      "eff": 9,
      "ts": 66.7
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 9.4,
+     "pts": 5,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "to": 1,
+     "fg": "2/3",
+     "tp": "0/0",
+     "ft": "1/2",
+     "pm": 2,
+     "eff": 7,
+     "ts": 64.4
     }
    ]
   },
@@ -13364,107 +14339,107 @@
    "teamLabel": "Brno",
    "shirt": "32",
    "pos": "",
-   "gp": 5,
+   "gp": 6,
    "gs": 3,
-   "min": 92.8,
+   "min": 104.7,
    "totals": {
-    "pts": 32,
-    "fgm": 12,
-    "fga": 30,
+    "pts": 38,
+    "fgm": 14,
+    "fga": 33,
     "tpm": 3,
-    "tpa": 10,
-    "twopm": 9,
-    "twopa": 20,
-    "ftm": 5,
-    "fta": 6,
+    "tpa": 11,
+    "twopm": 11,
+    "twopa": 22,
+    "ftm": 7,
+    "fta": 8,
     "oreb": 9,
-    "dreb": 21,
-    "reb": 30,
+    "dreb": 23,
+    "reb": 32,
     "ast": 10,
     "to": 3,
     "stl": 0,
-    "blk": 3,
+    "blk": 4,
     "blkr": 3,
-    "pf": 14,
-    "foulon": 5,
-    "pm": -3,
-    "paint": 14,
+    "pf": 15,
+    "foulon": 6,
+    "pm": 0,
+    "paint": 16,
     "fast": 11,
-    "second": 2
+    "second": 6
    },
    "perGame": {
-    "pts": 6.4,
-    "fgm": 2.4,
-    "fga": 6.0,
-    "tpm": 0.6,
-    "tpa": 2.0,
+    "pts": 6.3,
+    "fgm": 2.3,
+    "fga": 5.5,
+    "tpm": 0.5,
+    "tpa": 1.8,
     "twopm": 1.8,
-    "twopa": 4.0,
-    "ftm": 1.0,
-    "fta": 1.2,
-    "oreb": 1.8,
-    "dreb": 4.2,
-    "reb": 6.0,
-    "ast": 2.0,
-    "to": 0.6,
+    "twopa": 3.7,
+    "ftm": 1.2,
+    "fta": 1.3,
+    "oreb": 1.5,
+    "dreb": 3.8,
+    "reb": 5.3,
+    "ast": 1.7,
+    "to": 0.5,
     "stl": 0.0,
-    "blk": 0.6,
-    "blkr": 0.6,
-    "pf": 2.8,
+    "blk": 0.7,
+    "blkr": 0.5,
+    "pf": 2.5,
     "foulon": 1.0,
-    "pm": -0.6,
-    "paint": 2.8,
-    "fast": 2.2,
-    "second": 0.4,
-    "min": 18.6,
-    "eff": 10.6,
+    "pm": 0.0,
+    "paint": 2.7,
+    "fast": 1.8,
+    "second": 1.0,
+    "min": 17.4,
+    "eff": 10.2,
     "gmsc": 5.7
    },
    "per40": {
-    "pts": 13.8,
-    "reb": 12.9,
-    "ast": 4.3,
+    "pts": 14.5,
+    "reb": 12.2,
+    "ast": 3.8,
     "stl": 0.0,
-    "blk": 1.3,
-    "to": 1.3
+    "blk": 1.5,
+    "to": 1.1
    },
-   "ts": 49.0,
-   "efg": 45.0,
-   "fg": 40.0,
-   "two": 45.0,
-   "three": 30.0,
-   "ft": 83.3,
-   "usg": 16.0,
+   "ts": 52.0,
+   "efg": 47.0,
+   "fg": 42.4,
+   "two": 50.0,
+   "three": 27.3,
+   "ft": 87.5,
+   "usg": 15.8,
    "astTo": 3.33,
-   "pm": -3,
-   "pm40": -1.3,
+   "pm": 0,
+   "pm40": 0.0,
    "on": {
-    "min": 92.7,
-    "pf": 196,
-    "pa": 199,
-    "ortg": 111.7,
-    "drtg": 115.6,
-    "net": -3.8
+    "min": 104.6,
+    "pf": 221,
+    "pa": 221,
+    "ortg": 110.9,
+    "drtg": 113.2,
+    "net": -2.3
    },
    "off": {
-    "min": 107.3,
-    "ortg": 95.0,
-    "drtg": 109.7,
-    "net": -14.7
+    "min": 135.4,
+    "ortg": 97.5,
+    "drtg": 103.2,
+    "net": -5.7
    },
-   "onOff": 10.9,
+   "onOff": 3.4,
    "dd": 0,
    "td": 0,
    "high": 11,
    "zones": {
     "paint": {
-     "m": 8,
-     "a": 19,
-     "pct": 42.1
+     "m": 9,
+     "a": 20,
+     "pct": 45.0
     },
     "mid": {
-     "m": 1,
-     "a": 1,
+     "m": 2,
+     "a": 2,
      "pct": 100.0
     },
     "corner3": {
@@ -13474,8 +14449,8 @@
     },
     "above3": {
      "m": 3,
-     "a": 8,
-     "pct": 37.5
+     "a": 9,
+     "pct": 33.3
     }
    },
    "log": [
@@ -13578,6 +14553,26 @@
      "pm": 4,
      "eff": 3,
      "ts": 25.0
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 11.9,
+     "pts": 6,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 0,
+     "fg": "2/3",
+     "tp": "0/1",
+     "ft": "2/2",
+     "pm": 3,
+     "eff": 8,
+     "ts": 77.3
     }
    ]
   },
@@ -13589,103 +14584,103 @@
    "teamLabel": "Brno",
    "shirt": "11",
    "pos": "",
-   "gp": 9,
-   "gs": 1,
-   "min": 184.6,
+   "gp": 10,
+   "gs": 2,
+   "min": 206.7,
    "totals": {
-    "pts": 56,
-    "fgm": 15,
-    "fga": 38,
+    "pts": 61,
+    "fgm": 16,
+    "fga": 42,
     "tpm": 4,
-    "tpa": 13,
-    "twopm": 11,
-    "twopa": 25,
-    "ftm": 22,
-    "fta": 29,
-    "oreb": 12,
-    "dreb": 14,
-    "reb": 26,
+    "tpa": 14,
+    "twopm": 12,
+    "twopa": 28,
+    "ftm": 25,
+    "fta": 32,
+    "oreb": 14,
+    "dreb": 15,
+    "reb": 29,
     "ast": 4,
-    "to": 15,
-    "stl": 5,
-    "blk": 5,
-    "blkr": 3,
-    "pf": 30,
-    "foulon": 29,
-    "pm": -16,
-    "paint": 20,
-    "fast": 7,
+    "to": 18,
+    "stl": 7,
+    "blk": 6,
+    "blkr": 4,
+    "pf": 33,
+    "foulon": 34,
+    "pm": -7,
+    "paint": 22,
+    "fast": 9,
     "second": 9
    },
    "perGame": {
-    "pts": 6.2,
-    "fgm": 1.7,
+    "pts": 6.1,
+    "fgm": 1.6,
     "fga": 4.2,
     "tpm": 0.4,
     "tpa": 1.4,
     "twopm": 1.2,
     "twopa": 2.8,
-    "ftm": 2.4,
+    "ftm": 2.5,
     "fta": 3.2,
-    "oreb": 1.3,
-    "dreb": 1.6,
+    "oreb": 1.4,
+    "dreb": 1.5,
     "reb": 2.9,
     "ast": 0.4,
-    "to": 1.7,
-    "stl": 0.6,
+    "to": 1.8,
+    "stl": 0.7,
     "blk": 0.6,
-    "blkr": 0.3,
+    "blkr": 0.4,
     "pf": 3.3,
-    "foulon": 3.2,
-    "pm": -1.8,
+    "foulon": 3.4,
+    "pm": -0.7,
     "paint": 2.2,
-    "fast": 0.8,
-    "second": 1.0,
-    "min": 20.5,
-    "eff": 5.7,
-    "gmsc": 3.3
+    "fast": 0.9,
+    "second": 0.9,
+    "min": 20.7,
+    "eff": 5.6,
+    "gmsc": 3.2
    },
    "per40": {
-    "pts": 12.1,
+    "pts": 11.8,
     "reb": 5.6,
-    "ast": 0.9,
-    "stl": 1.1,
-    "blk": 1.1,
-    "to": 3.3
+    "ast": 0.8,
+    "stl": 1.4,
+    "blk": 1.2,
+    "to": 3.5
    },
-   "ts": 55.2,
-   "efg": 44.7,
-   "fg": 39.5,
-   "two": 44.0,
-   "three": 30.8,
-   "ft": 75.9,
-   "usg": 14.9,
-   "astTo": 0.27,
-   "pm": -16,
-   "pm40": -3.5,
+   "ts": 54.4,
+   "efg": 42.9,
+   "fg": 38.1,
+   "two": 42.9,
+   "three": 28.6,
+   "ft": 78.1,
+   "usg": 15.1,
+   "astTo": 0.22,
+   "pm": -7,
+   "pm40": -1.4,
    "on": {
-    "min": 184.6,
-    "pf": 377,
-    "pa": 393,
-    "ortg": 100.8,
-    "drtg": 104.1,
-    "net": -3.3
+    "min": 206.7,
+    "pf": 419,
+    "pa": 426,
+    "ortg": 100.5,
+    "drtg": 100.7,
+    "net": -0.2
    },
    "off": {
-    "min": 175.4,
-    "ortg": 100.4,
-    "drtg": 105.7,
-    "net": -5.2
+    "min": 193.3,
+    "ortg": 102.1,
+    "drtg": 104.8,
+    "net": -2.7
    },
-   "onOff": 1.9,
+   "onOff": 2.5,
    "dd": 0,
    "td": 0,
    "high": 11,
    "zones": {
     "paint": {
-     "m": 11,
-     "a": 24,
-     "pct": 45.8
+     "m": 12,
+     "a": 27,
+     "pct": 44.4
     },
     "mid": {
      "m": 0,
@@ -13699,8 +14694,8 @@
     },
     "above3": {
      "m": 3,
-     "a": 11,
-     "pct": 27.3
+     "a": 12,
+     "pct": 25.0
     }
    },
    "log": [
@@ -13883,6 +14878,26 @@
      "pm": 0,
      "eff": 8,
      "ts": 46.1
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 22.1,
+     "pts": 5,
+     "reb": 3,
+     "ast": 0,
+     "stl": 2,
+     "blk": 1,
+     "to": 3,
+     "fg": "1/4",
+     "tp": "0/1",
+     "ft": "3/3",
+     "pm": 9,
+     "eff": 5,
+     "ts": 47.0
     }
    ]
   },
@@ -13894,103 +14909,103 @@
    "teamLabel": "Brno",
    "shirt": "44",
    "pos": "",
-   "gp": 9,
+   "gp": 10,
    "gs": 1,
-   "min": 119.5,
+   "min": 133.5,
    "totals": {
-    "pts": 38,
-    "fgm": 12,
-    "fga": 38,
+    "pts": 44,
+    "fgm": 13,
+    "fga": 40,
     "tpm": 9,
-    "tpa": 30,
-    "twopm": 3,
-    "twopa": 8,
-    "ftm": 5,
-    "fta": 12,
-    "oreb": 4,
-    "dreb": 21,
-    "reb": 25,
-    "ast": 2,
-    "to": 5,
+    "tpa": 31,
+    "twopm": 4,
+    "twopa": 9,
+    "ftm": 9,
+    "fta": 16,
+    "oreb": 7,
+    "dreb": 24,
+    "reb": 31,
+    "ast": 4,
+    "to": 6,
     "stl": 3,
     "blk": 4,
     "blkr": 0,
     "pf": 23,
-    "foulon": 9,
-    "pm": -19,
-    "paint": 6,
-    "fast": 0,
-    "second": 7
+    "foulon": 11,
+    "pm": -13,
+    "paint": 8,
+    "fast": 4,
+    "second": 9
    },
    "perGame": {
-    "pts": 4.2,
+    "pts": 4.4,
     "fgm": 1.3,
-    "fga": 4.2,
-    "tpm": 1.0,
-    "tpa": 3.3,
-    "twopm": 0.3,
+    "fga": 4.0,
+    "tpm": 0.9,
+    "tpa": 3.1,
+    "twopm": 0.4,
     "twopa": 0.9,
-    "ftm": 0.6,
-    "fta": 1.3,
-    "oreb": 0.4,
-    "dreb": 2.3,
-    "reb": 2.8,
-    "ast": 0.2,
+    "ftm": 0.9,
+    "fta": 1.6,
+    "oreb": 0.7,
+    "dreb": 2.4,
+    "reb": 3.1,
+    "ast": 0.4,
     "to": 0.6,
     "stl": 0.3,
     "blk": 0.4,
     "blkr": 0.0,
-    "pf": 2.6,
-    "foulon": 1.0,
-    "pm": -2.1,
-    "paint": 0.7,
-    "fast": 0.0,
-    "second": 0.8,
+    "pf": 2.3,
+    "foulon": 1.1,
+    "pm": -1.3,
+    "paint": 0.8,
+    "fast": 0.4,
+    "second": 0.9,
     "min": 13.3,
-    "eff": 3.8,
-    "gmsc": 1.7
+    "eff": 4.6,
+    "gmsc": 2.4
    },
    "per40": {
-    "pts": 12.7,
-    "reb": 8.4,
-    "ast": 0.7,
-    "stl": 1.0,
-    "blk": 1.3,
-    "to": 1.7
+    "pts": 13.2,
+    "reb": 9.3,
+    "ast": 1.2,
+    "stl": 0.9,
+    "blk": 1.2,
+    "to": 1.8
    },
-   "ts": 43.9,
-   "efg": 43.4,
-   "fg": 31.6,
-   "two": 37.5,
-   "three": 30.0,
-   "ft": 41.7,
-   "usg": 16.9,
-   "astTo": 0.4,
-   "pm": -19,
-   "pm40": -6.4,
+   "ts": 46.8,
+   "efg": 43.8,
+   "fg": 32.5,
+   "two": 44.4,
+   "three": 29.0,
+   "ft": 56.2,
+   "usg": 16.7,
+   "astTo": 0.67,
+   "pm": -13,
+   "pm40": -3.9,
    "on": {
-    "min": 119.5,
-    "pf": 223,
-    "pa": 242,
-    "ortg": 92.3,
-    "drtg": 98.2,
-    "net": -5.9
+    "min": 133.5,
+    "pf": 255,
+    "pa": 268,
+    "ortg": 94.8,
+    "drtg": 98.3,
+    "net": -3.5
    },
    "off": {
-    "min": 240.5,
-    "ortg": 104.0,
-    "drtg": 109.9,
-    "net": -5.9
+    "min": 266.5,
+    "ortg": 103.9,
+    "drtg": 106.3,
+    "net": -2.4
    },
-   "onOff": 0.0,
+   "onOff": -1.1,
    "dd": 0,
    "td": 0,
    "high": 10,
    "zones": {
     "paint": {
-     "m": 3,
-     "a": 7,
-     "pct": 42.9
+     "m": 4,
+     "a": 8,
+     "pct": 50.0
     },
     "mid": {
      "m": 0,
@@ -14004,8 +15019,8 @@
     },
     "above3": {
      "m": 5,
-     "a": 20,
-     "pct": 25.0
+     "a": 21,
+     "pct": 23.8
     }
    },
    "log": [
@@ -14188,6 +15203,26 @@
      "pm": -2,
      "eff": 12,
      "ts": 55.1
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 14.0,
+     "pts": 6,
+     "reb": 6,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "1/2",
+     "tp": "0/1",
+     "ft": "4/4",
+     "pm": 6,
+     "eff": 12,
+     "ts": 79.8
     }
    ]
   },
@@ -14199,103 +15234,103 @@
    "teamLabel": "Brno",
    "shirt": "4",
    "pos": "",
-   "gp": 7,
+   "gp": 8,
    "gs": 4,
-   "min": 134.6,
+   "min": 148.0,
    "totals": {
-    "pts": 26,
-    "fgm": 8,
-    "fga": 27,
+    "pts": 28,
+    "fgm": 9,
+    "fga": 30,
     "tpm": 1,
-    "tpa": 11,
-    "twopm": 7,
-    "twopa": 16,
+    "tpa": 13,
+    "twopm": 8,
+    "twopa": 17,
     "ftm": 9,
     "fta": 22,
-    "oreb": 7,
-    "dreb": 21,
-    "reb": 28,
+    "oreb": 8,
+    "dreb": 23,
+    "reb": 31,
     "ast": 8,
-    "to": 9,
+    "to": 10,
     "stl": 6,
     "blk": 2,
     "blkr": 0,
-    "pf": 23,
+    "pf": 27,
     "foulon": 16,
-    "pm": -32,
-    "paint": 14,
-    "fast": 3,
+    "pm": -28,
+    "paint": 16,
+    "fast": 5,
     "second": 2
    },
    "perGame": {
-    "pts": 3.7,
+    "pts": 3.5,
     "fgm": 1.1,
-    "fga": 3.9,
+    "fga": 3.8,
     "tpm": 0.1,
     "tpa": 1.6,
     "twopm": 1.0,
-    "twopa": 2.3,
-    "ftm": 1.3,
-    "fta": 3.1,
+    "twopa": 2.1,
+    "ftm": 1.1,
+    "fta": 2.8,
     "oreb": 1.0,
-    "dreb": 3.0,
-    "reb": 4.0,
-    "ast": 1.1,
-    "to": 1.3,
-    "stl": 0.9,
-    "blk": 0.3,
+    "dreb": 2.9,
+    "reb": 3.9,
+    "ast": 1.0,
+    "to": 1.2,
+    "stl": 0.8,
+    "blk": 0.2,
     "blkr": 0.0,
-    "pf": 3.3,
-    "foulon": 2.3,
-    "pm": -4.6,
+    "pf": 3.4,
+    "foulon": 2.0,
+    "pm": -3.5,
     "paint": 2.0,
-    "fast": 0.4,
-    "second": 0.3,
-    "min": 19.2,
-    "eff": 4.1,
-    "gmsc": 1.6
+    "fast": 0.6,
+    "second": 0.2,
+    "min": 18.5,
+    "eff": 3.9,
+    "gmsc": 1.3
    },
    "per40": {
-    "pts": 7.7,
-    "reb": 8.3,
-    "ast": 2.4,
-    "stl": 1.8,
-    "blk": 0.6,
+    "pts": 7.6,
+    "reb": 8.4,
+    "ast": 2.2,
+    "stl": 1.6,
+    "blk": 0.5,
     "to": 2.7
    },
-   "ts": 35.4,
-   "efg": 31.5,
-   "fg": 29.6,
-   "two": 43.8,
-   "three": 9.1,
+   "ts": 35.3,
+   "efg": 31.7,
+   "fg": 30.0,
+   "two": 47.1,
+   "three": 7.7,
    "ft": 40.9,
-   "usg": 14.2,
-   "astTo": 0.89,
-   "pm": -32,
-   "pm40": -9.5,
+   "usg": 14.1,
+   "astTo": 0.8,
+   "pm": -28,
+   "pm40": -7.6,
    "on": {
-    "min": 134.7,
-    "pf": 237,
-    "pa": 269,
-    "ortg": 86.7,
-    "drtg": 97.5,
-    "net": -10.8
+    "min": 148.1,
+    "pf": 264,
+    "pa": 292,
+    "ortg": 88.6,
+    "drtg": 97.7,
+    "net": -9.0
    },
    "off": {
-    "min": 145.3,
-    "ortg": 108.8,
-    "drtg": 102.7,
-    "net": 6.1
+    "min": 171.9,
+    "ortg": 108.4,
+    "drtg": 98.1,
+    "net": 10.3
    },
-   "onOff": -16.9,
+   "onOff": -19.3,
    "dd": 0,
    "td": 0,
    "high": 7,
    "zones": {
     "paint": {
-     "m": 7,
-     "a": 16,
-     "pct": 43.8
+     "m": 8,
+     "a": 17,
+     "pct": 47.1
     },
     "mid": {
      "m": 0,
@@ -14304,12 +15339,12 @@
     },
     "corner3": {
      "m": 1,
-     "a": 5,
-     "pct": 20.0
+     "a": 6,
+     "pct": 16.7
     },
     "above3": {
      "m": 0,
-     "a": 6,
+     "a": 7,
      "pct": 0.0
     }
    },
@@ -14453,6 +15488,26 @@
      "pm": 0,
      "eff": 8,
      "ts": 71.7
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 13.4,
+     "pts": 2,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "1/3",
+     "tp": "0/2",
+     "ft": "0/0",
+     "pm": 4,
+     "eff": 2,
+     "ts": 33.3
     }
    ]
   },
@@ -14629,103 +15684,103 @@
    "teamLabel": "Brno",
    "shirt": "67",
    "pos": "",
-   "gp": 4,
+   "gp": 5,
    "gs": 0,
-   "min": 13.3,
+   "min": 16.8,
    "totals": {
-    "pts": 3,
-    "fgm": 1,
-    "fga": 3,
+    "pts": 5,
+    "fgm": 2,
+    "fga": 5,
     "tpm": 1,
-    "tpa": 3,
-    "twopm": 0,
-    "twopa": 0,
+    "tpa": 4,
+    "twopm": 1,
+    "twopa": 1,
     "ftm": 0,
     "fta": 0,
-    "oreb": 1,
+    "oreb": 2,
     "dreb": 1,
-    "reb": 2,
+    "reb": 3,
     "ast": 0,
-    "to": 0,
+    "to": 1,
     "stl": 1,
     "blk": 0,
     "blkr": 0,
     "pf": 4,
     "foulon": 0,
-    "pm": 4,
-    "paint": 0,
+    "pm": 3,
+    "paint": 2,
     "fast": 3,
     "second": 0
    },
    "perGame": {
-    "pts": 0.8,
-    "fgm": 0.2,
-    "fga": 0.8,
+    "pts": 1.0,
+    "fgm": 0.4,
+    "fga": 1.0,
     "tpm": 0.2,
     "tpa": 0.8,
-    "twopm": 0.0,
-    "twopa": 0.0,
+    "twopm": 0.2,
+    "twopa": 0.2,
     "ftm": 0.0,
     "fta": 0.0,
-    "oreb": 0.2,
+    "oreb": 0.4,
     "dreb": 0.2,
-    "reb": 0.5,
+    "reb": 0.6,
     "ast": 0.0,
-    "to": 0.0,
+    "to": 0.2,
     "stl": 0.2,
     "blk": 0.0,
     "blkr": 0.0,
-    "pf": 1.0,
+    "pf": 0.8,
     "foulon": 0.0,
-    "pm": 1.0,
-    "paint": 0.0,
-    "fast": 0.8,
+    "pm": 0.6,
+    "paint": 0.4,
+    "fast": 0.6,
     "second": 0.0,
-    "min": 3.3,
+    "min": 3.4,
     "eff": 1.0,
-    "gmsc": 0.4
+    "gmsc": 0.5
    },
    "per40": {
-    "pts": 9.0,
-    "reb": 6.0,
+    "pts": 11.9,
+    "reb": 7.1,
     "ast": 0.0,
-    "stl": 3.0,
+    "stl": 2.4,
     "blk": 0.0,
-    "to": 0.0
+    "to": 2.4
    },
    "ts": 50.0,
    "efg": 50.0,
-   "fg": 33.3,
-   "two": null,
-   "three": 33.3,
+   "fg": 40.0,
+   "two": 100.0,
+   "three": 25.0,
    "ft": null,
-   "usg": 9.2,
-   "astTo": null,
-   "pm": 4,
-   "pm40": 12.0,
+   "usg": 14.7,
+   "astTo": 0.0,
+   "pm": 3,
+   "pm40": 7.1,
    "on": {
-    "min": 13.3,
-    "pf": 26,
-    "pa": 22,
-    "ortg": 80.7,
-    "drtg": 75.4,
-    "net": 5.3
+    "min": 16.9,
+    "pf": 36,
+    "pa": 33,
+    "ortg": 89.8,
+    "drtg": 87.3,
+    "net": 2.5
    },
    "off": {
-    "min": 146.7,
-    "ortg": 100.6,
-    "drtg": 116.1,
-    "net": -15.5
+    "min": 183.2,
+    "ortg": 101.5,
+    "drtg": 108.5,
+    "net": -7.0
    },
-   "onOff": 20.8,
+   "onOff": 9.5,
    "dd": 0,
    "td": 0,
    "high": 3,
    "zones": {
     "paint": {
-     "m": 0,
-     "a": 0,
-     "pct": null
+     "m": 1,
+     "a": 1,
+     "pct": 100.0
     },
     "mid": {
      "m": 0,
@@ -14734,8 +15789,8 @@
     },
     "corner3": {
      "m": 1,
-     "a": 1,
-     "pct": 100.0
+     "a": 2,
+     "pct": 50.0
     },
     "above3": {
      "m": 0,
@@ -14823,6 +15878,26 @@
      "pm": 3,
      "eff": 0,
      "ts": null
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 3.5,
+     "pts": 2,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "1/2",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": -1,
+     "eff": 1,
+     "ts": 50.0
     }
    ]
   },
@@ -14834,17 +15909,17 @@
    "teamLabel": "Brno",
    "shirt": "6",
    "pos": "",
-   "gp": 3,
+   "gp": 4,
    "gs": 0,
-   "min": 5.7,
+   "min": 11.5,
    "totals": {
-    "pts": 0,
-    "fgm": 0,
-    "fga": 1,
+    "pts": 2,
+    "fgm": 1,
+    "fga": 3,
     "tpm": 0,
     "tpa": 1,
-    "twopm": 0,
-    "twopa": 0,
+    "twopm": 1,
+    "twopa": 2,
     "ftm": 0,
     "fta": 2,
     "oreb": 0,
@@ -14852,90 +15927,90 @@
     "reb": 0,
     "ast": 0,
     "to": 0,
-    "stl": 0,
+    "stl": 1,
     "blk": 0,
     "blkr": 0,
-    "pf": 0,
-    "foulon": 0,
-    "pm": 0,
-    "paint": 0,
-    "fast": 0,
+    "pf": 1,
+    "foulon": 1,
+    "pm": 1,
+    "paint": 2,
+    "fast": 2,
     "second": 0
    },
    "perGame": {
-    "pts": 0.0,
-    "fgm": 0.0,
-    "fga": 0.3,
+    "pts": 0.5,
+    "fgm": 0.2,
+    "fga": 0.8,
     "tpm": 0.0,
-    "tpa": 0.3,
-    "twopm": 0.0,
-    "twopa": 0.0,
+    "tpa": 0.2,
+    "twopm": 0.2,
+    "twopa": 0.5,
     "ftm": 0.0,
-    "fta": 0.7,
+    "fta": 0.5,
     "oreb": 0.0,
     "dreb": 0.0,
     "reb": 0.0,
     "ast": 0.0,
     "to": 0.0,
-    "stl": 0.0,
+    "stl": 0.2,
     "blk": 0.0,
     "blkr": 0.0,
-    "pf": 0.0,
-    "foulon": 0.0,
-    "pm": 0.0,
-    "paint": 0.0,
-    "fast": 0.0,
+    "pf": 0.2,
+    "foulon": 0.2,
+    "pm": 0.2,
+    "paint": 0.5,
+    "fast": 0.5,
     "second": 0.0,
-    "min": 1.9,
-    "eff": -1.0,
-    "gmsc": -0.5
+    "min": 2.9,
+    "eff": -0.2,
+    "gmsc": 0.0
    },
    "per40": {
-    "pts": 0.0,
+    "pts": 7.0,
     "reb": 0.0,
     "ast": 0.0,
-    "stl": 0.0,
+    "stl": 3.5,
     "blk": 0.0,
     "to": 0.0
    },
-   "ts": 0.0,
-   "efg": 0.0,
-   "fg": 0.0,
-   "two": null,
+   "ts": 25.8,
+   "efg": 33.3,
+   "fg": 33.3,
+   "two": 50.0,
    "three": 0.0,
    "ft": 0.0,
-   "usg": 14.2,
+   "usg": 14.6,
    "astTo": null,
-   "pm": 0,
-   "pm40": 0.0,
+   "pm": 1,
+   "pm40": 3.5,
    "on": {
-    "min": 5.7,
-    "pf": 9,
-    "pa": 9,
-    "ortg": 70.5,
-    "drtg": 76.5,
-    "net": -6.0
+    "min": 11.4,
+    "pf": 23,
+    "pa": 22,
+    "ortg": 86.3,
+    "drtg": 84.1,
+    "net": 2.2
    },
    "off": {
-    "min": 114.3,
-    "ortg": 105.0,
-    "drtg": 111.3,
-    "net": -6.3
+    "min": 148.6,
+    "ortg": 105.8,
+    "drtg": 104.4,
+    "net": 1.4
    },
-   "onOff": 0.3,
+   "onOff": 0.8,
    "dd": 0,
    "td": 0,
-   "high": 0,
+   "high": 2,
    "zones": {
     "paint": {
-     "m": 0,
-     "a": 0,
-     "pct": null
+     "m": 1,
+     "a": 1,
+     "pct": 100.0
     },
     "mid": {
      "m": 0,
-     "a": 0,
-     "pct": null
+     "a": 1,
+     "pct": 0.0
     },
     "corner3": {
      "m": 0,
@@ -15008,6 +16083,26 @@
      "pm": -5,
      "eff": 0,
      "ts": null
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 5.8,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "1/2",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 1,
+     "eff": 2,
+     "ts": 50.0
     }
    ]
   },
@@ -15377,8 +16472,11 @@
    "away": "BK GAPA Hradec Králové",
    "homeSlug": "brno",
    "awaySlug": "hradec",
-   "status": "unknown",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 82,
+    "away": 64
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544607",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2938697/",
