@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-07T16:28:35+00:00",
+ "generatedAt": "2026-11-07T20:30:13+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 60,
-  "scheduled": 71,
+  "final": 63,
+  "scheduled": 67,
   "withFiba": 68
  },
  "teams": {
@@ -2414,7 +2414,10 @@
    "time": "17:30",
    "home": "BK KVIS Pardubice",
    "away": "BK Opava",
-   "score": null,
+   "score": {
+    "home": 99,
+    "away": 80
+   },
    "quarters": null,
    "roundNum": 11,
    "date": "2026-11-07",
@@ -2422,14 +2425,14 @@
    "awaySlug": "opava",
    "homeLabel": "Pardubice",
    "awayLabel": "Opava",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544608",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2938698/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2938698/data.json",
     "stats": "matches/2938698.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544609,
@@ -2440,7 +2443,10 @@
    "time": "17:30",
    "home": "NH Ostrava",
    "away": "USK Praha",
-   "score": null,
+   "score": {
+    "home": 82,
+    "away": 85
+   },
    "quarters": null,
    "roundNum": 11,
    "date": "2026-11-07",
@@ -2448,14 +2454,14 @@
    "awaySlug": "usk",
    "homeLabel": "Ostrava",
    "awayLabel": "USK",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544609",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2938699/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2938699/data.json",
     "stats": "matches/2938699.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544607,
@@ -2474,7 +2480,7 @@
    "awaySlug": "hradec",
    "homeLabel": "Brno",
    "awayLabel": "Hradec",
-   "status": "scheduled",
+   "status": "unknown",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544607",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2938697/",
@@ -2492,7 +2498,10 @@
    "time": "18:00",
    "home": "BK ARMEX ENERGY Děčín",
    "away": "SLUNETA Ústí nad Labem",
-   "score": null,
+   "score": {
+    "home": 92,
+    "away": 66
+   },
    "quarters": null,
    "roundNum": 11,
    "date": "2026-11-07",
@@ -2500,14 +2509,14 @@
    "awaySlug": "usti",
    "homeLabel": "Děčín",
    "awayLabel": "Ústí",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544611",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2938700/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2938700/data.json",
     "stats": "matches/2938700.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544610,
