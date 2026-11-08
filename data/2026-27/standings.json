@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-08T16:41:50+00:00",
+ "generatedAt": "2026-11-08T17:50:41+00:00",
  "phase": null,
  "phases": [
   "Základní část"
@@ -56,21 +56,21 @@
    "name": "Sršni Photomate Písek",
    "label": "Písek",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/bd87c5d17b95173283244bbd063bd7c0S1.png",
-   "gp": 9,
-   "w": 6,
+   "gp": 10,
+   "w": 7,
    "l": 3,
-   "pct": 0.667,
-   "pf": 813,
-   "pa": 775,
-   "diff": 38,
-   "ppg": 90.3,
-   "oppg": 86.1,
+   "pct": 0.7,
+   "pf": 905,
+   "pa": 840,
+   "diff": 65,
+   "ppg": 90.5,
+   "oppg": 84.0,
    "home": "2-2",
-   "away": "4-1",
+   "away": "5-1",
    "close": "1-0",
    "ot": 0,
-   "streak": "W2",
-   "last5": "LWLWW"
+   "streak": "W3",
+   "last5": "WLWWW"
   },
   {
    "pos": 4,
@@ -228,28 +228,6 @@
   },
   {
    "pos": 11,
-   "slug": "olomoucko",
-   "name": "BK Olomoucko",
-   "label": "Olomoucko",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
-   "gp": 10,
-   "w": 1,
-   "l": 9,
-   "pct": 0.1,
-   "pf": 661,
-   "pa": 870,
-   "diff": -209,
-   "ppg": 66.1,
-   "oppg": 87.0,
-   "home": "1-4",
-   "away": "0-5",
-   "close": "1-1",
-   "ot": 0,
-   "streak": "L7",
-   "last5": "LLLLL"
-  },
-  {
-   "pos": 12,
    "slug": "plzen",
    "name": "BK Loko BaliMania Plzeň",
    "label": "Plzeň",
@@ -269,6 +247,28 @@
    "ot": 0,
    "streak": "L4",
    "last5": "WLLLL"
+  },
+  {
+   "pos": 12,
+   "slug": "olomoucko",
+   "name": "BK Olomoucko",
+   "label": "Olomoucko",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
+   "gp": 11,
+   "w": 1,
+   "l": 10,
+   "pct": 0.091,
+   "pf": 726,
+   "pa": 962,
+   "diff": -236,
+   "ppg": 66.0,
+   "oppg": 87.5,
+   "home": "1-5",
+   "away": "0-5",
+   "close": "1-1",
+   "ot": 0,
+   "streak": "L8",
+   "last5": "LLLLL"
   }
  ]
 }
