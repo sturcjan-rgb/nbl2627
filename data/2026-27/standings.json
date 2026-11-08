@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-08T09:03:20+00:00",
+ "generatedAt": "2026-11-08T16:41:50+00:00",
  "phase": null,
  "phases": [
   "Základní část"
@@ -12,21 +12,21 @@
    "name": "SK Slavia Praha ERA NBK",
    "label": "Slavia",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7aa188dfbe3d731fb1199e1c55a72312S1.png",
-   "gp": 11,
-   "w": 10,
+   "gp": 12,
+   "w": 11,
    "l": 1,
-   "pct": 0.909,
-   "pf": 1073,
-   "pa": 889,
-   "diff": 184,
-   "ppg": 97.5,
-   "oppg": 80.8,
-   "home": "4-0",
+   "pct": 0.917,
+   "pf": 1187,
+   "pa": 971,
+   "diff": 216,
+   "ppg": 98.9,
+   "oppg": 80.9,
+   "home": "5-0",
    "away": "6-1",
    "close": "1-0",
    "ot": 0,
-   "streak": "W4",
-   "last5": "LWWWW"
+   "streak": "W5",
+   "last5": "WWWWW"
   },
   {
    "pos": 2,
@@ -228,28 +228,6 @@
   },
   {
    "pos": 11,
-   "slug": "plzen",
-   "name": "BK Loko BaliMania Plzeň",
-   "label": "Plzeň",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
-   "gp": 10,
-   "w": 1,
-   "l": 9,
-   "pct": 0.1,
-   "pf": 762,
-   "pa": 907,
-   "diff": -145,
-   "ppg": 76.2,
-   "oppg": 90.7,
-   "home": "0-5",
-   "away": "1-4",
-   "close": "0-1",
-   "ot": 0,
-   "streak": "L3",
-   "last5": "LWLLL"
-  },
-  {
-   "pos": 12,
    "slug": "olomoucko",
    "name": "BK Olomoucko",
    "label": "Olomoucko",
@@ -269,6 +247,28 @@
    "ot": 0,
    "streak": "L7",
    "last5": "LLLLL"
+  },
+  {
+   "pos": 12,
+   "slug": "plzen",
+   "name": "BK Loko BaliMania Plzeň",
+   "label": "Plzeň",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
+   "gp": 11,
+   "w": 1,
+   "l": 10,
+   "pct": 0.091,
+   "pf": 844,
+   "pa": 1021,
+   "diff": -177,
+   "ppg": 76.7,
+   "oppg": 92.8,
+   "home": "0-5",
+   "away": "1-5",
+   "close": "0-1",
+   "ot": 0,
+   "streak": "L4",
+   "last5": "WLLLL"
   }
  ]
 }

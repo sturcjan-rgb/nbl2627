@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-08T09:03:20+00:00",
+ "generatedAt": "2026-11-08T16:41:50+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 64,
-  "scheduled": 67,
+  "final": 65,
+  "scheduled": 65,
   "withFiba": 68
  },
  "teams": {
@@ -2530,7 +2530,10 @@
    "time": "15:00",
    "home": "SK Slavia Praha ERA NBK",
    "away": "BK Loko BaliMania Plzeň",
-   "score": null,
+   "score": {
+    "home": 114,
+    "away": 82
+   },
    "quarters": null,
    "roundNum": 11,
    "date": "2026-11-08",
@@ -2538,14 +2541,14 @@
    "awaySlug": "plzen",
    "homeLabel": "Slavia",
    "awayLabel": "Plzeň",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544610",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2938852/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2938852/data.json",
     "stats": "matches/2938852.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544606,
@@ -2564,7 +2567,7 @@
    "awaySlug": "pisek",
    "homeLabel": "Olomoucko",
    "awayLabel": "Písek",
-   "status": "scheduled",
+   "status": "live",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544606",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2938921/",
