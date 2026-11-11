@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-11T17:54:55+00:00",
+ "generatedAt": "2026-11-11T19:11:35+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 66,
+  "final": 67,
   "teams": 12,
-  "players": 171
+  "players": 172
  },
  "teams": [
   {
@@ -30,18 +30,18 @@
    "file": "teams/pisek.json"
   },
   {
-   "slug": "decin",
-   "name": "BK ARMEX ENERGY Děčín",
-   "label": "Děčín",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/11f2fc2d4d35d0cbc7ffe466f7651ff4S1.png",
-   "file": "teams/decin.json"
-  },
-  {
    "slug": "ostrava",
    "name": "NH Ostrava",
    "label": "Ostrava",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
    "file": "teams/ostrava.json"
+  },
+  {
+   "slug": "decin",
+   "name": "BK ARMEX ENERGY Děčín",
+   "label": "Děčín",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/11f2fc2d4d35d0cbc7ffe466f7651ff4S1.png",
+   "file": "teams/decin.json"
   },
   {
    "slug": "usti",
@@ -827,6 +827,17 @@
    "score": [
     65,
     92
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2941615,
+   "date": "2026-11-11",
+   "home": "decin",
+   "away": "pardubice",
+   "score": [
+    75,
+    81
    ],
    "status": "final"
   }
