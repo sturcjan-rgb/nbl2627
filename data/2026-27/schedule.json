@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-14T17:10:38+00:00",
+ "generatedAt": "2026-11-14T20:45:03+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
   "final": 68,
-  "scheduled": 61,
+  "scheduled": 60,
   "withFiba": 69
  },
  "teams": {
@@ -2654,7 +2654,7 @@
    "awaySlug": "plzen",
    "homeLabel": "Děčín",
    "awayLabel": "Plzeň",
-   "status": "live",
+   "status": "unknown",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544613",
     "livestats": null,
@@ -2680,7 +2680,7 @@
    "awaySlug": "olomoucko",
    "homeLabel": "Hradec",
    "awayLabel": "Olomoucko",
-   "status": "live",
+   "status": "unknown",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544617",
     "livestats": null,
@@ -2706,7 +2706,7 @@
    "awaySlug": "pardubice",
    "homeLabel": "Brno",
    "awayLabel": "Pardubice",
-   "status": "scheduled",
+   "status": "unknown",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544616",
     "livestats": null,
