@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-14T15:08:03+00:00",
+ "generatedAt": "2026-11-14T17:10:38+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 67,
+  "final": 68,
   "teams": 12,
-  "players": 172
+  "players": 193
  },
  "teams": [
   {
@@ -838,6 +838,17 @@
    "score": [
     75,
     81
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2954537,
+   "date": "2026-11-14",
+   "home": "ostrava",
+   "away": "opava",
+   "score": [
+    78,
+    72
    ],
    "status": "final"
   }

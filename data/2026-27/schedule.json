@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-14T15:08:03+00:00",
+ "generatedAt": "2026-11-14T17:10:38+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 67,
-  "scheduled": 64,
+  "final": 68,
+  "scheduled": 61,
   "withFiba": 69
  },
  "teams": {
@@ -2617,7 +2617,10 @@
    "time": "17:30",
    "home": "NH Ostrava",
    "away": "BK Opava",
-   "score": null,
+   "score": {
+    "home": 78,
+    "away": 72
+   },
    "quarters": null,
    "roundNum": 12,
    "date": "2026-11-14",
@@ -2625,14 +2628,14 @@
    "awaySlug": "opava",
    "homeLabel": "Ostrava",
    "awayLabel": "Opava",
-   "status": "scheduled",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544615",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2954537/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2954537/data.json",
     "stats": "matches/2954537.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544613,
@@ -2651,7 +2654,7 @@
    "awaySlug": "plzen",
    "homeLabel": "Děčín",
    "awayLabel": "Plzeň",
-   "status": "scheduled",
+   "status": "live",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544613",
     "livestats": null,
@@ -2677,7 +2680,7 @@
    "awaySlug": "olomoucko",
    "homeLabel": "Hradec",
    "awayLabel": "Olomoucko",
-   "status": "scheduled",
+   "status": "live",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544617",
     "livestats": null,
