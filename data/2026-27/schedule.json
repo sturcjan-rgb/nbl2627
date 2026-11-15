@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-15T09:30:29+00:00",
+ "generatedAt": "2026-11-15T17:13:47+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
   "final": 68,
-  "scheduled": 60,
+  "scheduled": 58,
   "withFiba": 69
  },
  "teams": {
@@ -2732,7 +2732,7 @@
    "awaySlug": "usk",
    "homeLabel": "Slavia",
    "awayLabel": "USK",
-   "status": "scheduled",
+   "status": "unknown",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544614",
     "livestats": null,
@@ -2758,7 +2758,7 @@
    "awaySlug": "usti",
    "homeLabel": "Písek",
    "awayLabel": "Ústí",
-   "status": "scheduled",
+   "status": "live",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544612",
     "livestats": null,
