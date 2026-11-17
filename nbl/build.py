@@ -25,7 +25,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import fiba, metrics, schedule, season
-from .teams import identify
+from .teams import identify, is_reserve
 from .util import read_json, write_json, write_json_gz
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -106,6 +106,10 @@ def assign_fiba_candidates(sdir: Path, fixtures: list[dict], fetch=None, now: da
             left.append(fid)
             continue
         t1, t2 = (raw.get("tm") or {}).get("1") or {}, (raw.get("tm") or {}).get("2") or {}
+        if is_reserve(t1.get("name") or "") or is_reserve(t2.get("name") or ""):
+            print(f"WARN FIBA {fid} ({t1.get('name')} – {t2.get('name')}): rezerva/mládež, ne NBL", file=sys.stderr)
+            left.append(fid)
+            continue
         pair = {identify(t1.get("name") or "", t1.get("shortName") or "")[0],
                 identify(t2.get("name") or "", t2.get("shortName") or "")[0]}
         opts = [f for f in fixtures if not f.get("fibaId") and f.get("datetime")
@@ -136,6 +140,8 @@ def fill_from_othermatches(fixtures: list[dict], raw: dict, ref_date: str | None
     """FIBA ID souběžných zápasů z othermatches -> zápasy rozpisu bez FIBA ID (stejné týmy, ±2 dny)."""
     n = 0
     for om in fiba.other_matches(raw):
+        if is_reserve(om["home"] or "") or is_reserve(om["away"] or ""):
+            continue
         hs, as_ = identify(om["home"] or "")[0], identify(om["away"] or "")[0]
         for f in fixtures:
             if f.get("fibaId") or f.get("homeSlug") != hs or f.get("awaySlug") != as_:

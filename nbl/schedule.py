@@ -7,6 +7,11 @@ Dva zdroje, oba ověřené v předchozích projektech:
 2. ligový rozpis https://nbl.basketball/zapasy?y=<rok>&c=<id týmu> (srsni-truth/discovery.py) —
    datum v atributu data-sort, týmy v listových <div>, u některých řádků i FIBA odkaz.
 
+Oba zdroje běží i na zrcadle https://cz.basketball (web ČBF, stejný systém i stejná nblId).
+nbl.basketball od 11/2026 vrací runnerům GitHub Actions HTTP 403 — pak se rozpis i FIBA ID
+berou z cz.basketball. Tam ale /zapasy bez filtru obsahuje všechny soutěže ČBF, proto se
+z něj bere jen seznam týmů NBL (<select name="c">) a zápasy až z rozpisů po týmech.
+
 Výsledek se slučuje podle nblId (merge-not-overwrite) do data/<sezóna>/schedule.json, takže
 jednou zjištěné FIBA ID ani skóre se dalším během neztratí.
 """
@@ -21,6 +26,8 @@ from zoneinfo import ZoneInfo
 from .teams import identify
 
 BASE = "https://nbl.basketball"
+MIRROR = "https://cz.basketball"  # web ČBF: stejné stránky /zapasy a /zapas/<nblId>, bez blokace
+HOSTS = [BASE, MIRROR]
 SCHEDULE_URL = BASE + "/zapasy"
 SEED_TEAM_SLUGS = ["srsni-photomate-pisek"]
 USER_AGENT = "nbl2627-stats/1.0 (osobni statisticky projekt; github.com/sturcjan-rgb/nbl2627)"
@@ -71,6 +78,17 @@ class Fetcher:
         self.s = requests.Session()
         self.s.headers["User-Agent"] = USER_AGENT
         self.last = 0.0
+        self.blocked: set[str] = set()  # hostitelé, kteří vrátili 403 — dál se nezkoušejí
+
+    def site(self, path: str, params: dict | None = None) -> tuple[str | None, str | None]:
+        """Stáhne stránku NBL webu z prvního hostitele (HOSTS), který odpoví. Vrací (html, host)."""
+        for host in HOSTS:
+            if host in self.blocked:
+                continue
+            html = self.get(host + path, params)
+            if html is not None:
+                return html, host
+        return None, None
 
     def get(self, url: str, params: dict | None = None) -> str | None:
         wait = DELAY - (time.time() - self.last)
@@ -79,6 +97,8 @@ class Fetcher:
         try:
             r = self.s.get(url, params=params, timeout=20)
             self.last = time.time()
+            if r.status_code == 403:
+                self.blocked.add(re.match(r"https?://[^/]+", url).group(0))
             if r.status_code != 200:
                 print(f"WARN {url} {params or ''} -> HTTP {r.status_code}", file=sys.stderr)
                 return None
@@ -319,22 +339,28 @@ def discover(season: str, fetcher: "Fetcher", existing: list[dict] | None = None
     # 1) ligový rozpis bez filtru + seznam týmů ze <select name="c">
     y = season_start_year(season)
     base_params = {"y": y, "p1": 0, "k": 0, "d_od": "", "d_do": ""}
-    html = fetcher.get(SCHEDULE_URL, base_params)
+    html, host = fetcher.site("/zapasy", base_params)
+    if host == MIRROR:
+        # zrcadlo ukazuje bez filtru všechny soutěže ČBF (MB dat, cizí zápasy) — prázdné
+        # datumové okno vrátí jen formulář se seznamem týmů NBL
+        html = fetcher.get(MIRROR + "/zapasy", {**base_params, "d_od": "2000-01-01", "d_do": "2000-01-01"})
     options = {}
     if html:
         options = team_select_options(html)
         team_pages.update(team_links(html))
         known += [n for n in options.values() if n and n not in known]
-        rows = parse_rows(html, known)
-        sources["schedulePages"] += 1
-        sources["rows"] += len(rows)
-        _absorb(by_id, rows)
+        if host == BASE:
+            rows = parse_rows(html, known)
+            sources["schedulePages"] += 1
+            sources["rows"] += len(rows)
+            _absorb(by_id, rows)
         if debug:
             _debug_dump("zapasy", html)
+    sources["host"] = host
 
     # 2) rozpis po týmech (filtr c=<id>) — jistota, že máme všechny zápasy všech týmů
     for cid in options:
-        html = fetcher.get(SCHEDULE_URL, {**base_params, "c": cid})
+        html = fetcher.get(host + "/zapasy", {**base_params, "c": cid})
         if not html:
             continue
         rows = parse_rows(html, known)
@@ -350,6 +376,8 @@ def discover(season: str, fetcher: "Fetcher", existing: list[dict] | None = None
         if slug in seen:
             continue
         seen.add(slug)
+        if BASE in fetcher.blocked:
+            break  # týmové stránky jen na nbl.basketball; FIBA ID dá rozpis zrcadla i /zapas/<id>
         html = fetcher.get(f"{BASE}/tym/{slug}")
         if not html:
             continue
@@ -412,7 +440,7 @@ def resolve_fiba_ids(fixtures: list[dict], fetcher: "Fetcher", *, days_back: int
         t = datetime.fromisoformat(f["datetime"])
         if not (now - timedelta(days=days_back) <= t <= now + timedelta(days=days_ahead)):
             continue
-        html = fetcher.get(f"{BASE}/zapas/{f['nblId']}")
+        html, _ = fetcher.site(f"/zapas/{f['nblId']}")
         m = FIBA_RE.search(html or "")
         if m:
             f["fibaId"] = int(m.group(1))

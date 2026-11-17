@@ -34,6 +34,12 @@ ostatní statistiky ze všech zápasů. Minulou sezónu stáhne workflow `backfi
 
 ## Jak to běží
 
+FIBA ID zápasů (`fibalivestats…/u/CBFFE/<fibaId>/`) se berou z rozpisu NBL: řádky `/zapasy?c=<tým>` a
+stránky `/zapas/<nblId>` obsahují odkaz na LiveStats, u budoucích zápasů zhruba týden dopředu.
+nbl.basketball vrací runnerům GitHub Actions 403, proto scraper automaticky přejde na zrcadlo
+**cz.basketball** (web ČBF, stejný systém, stejná `nblId`). Záloha: `fiba_overrides.json`
+(`{"<nblId>": <fibaId>}`) a `fiba_candidates.json` (seznam FIBA ID, přiřadí se podle týmů).
+
 | Workflow | Kdy | Co dělá |
 |---|---|---|
 | `league.yml` | každé 2 h + večer po zápasech, ručně | rozpis celé ligy → FIBA data dohraných zápasů → přepočet všech JSONů → commit do `data/` |

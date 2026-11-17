@@ -45,5 +45,14 @@ def identify(*names: str) -> tuple[str, str]:
     return slugify(first) or "unknown", first
 
 
+# Rezervy a mládež klubů NBL (FIBA LiveStats je vede pod stejným účtem CBFFE): „BK Opava "B"“,
+# „MS Academy Ostrava“, „USK Praha U19“… — klíčové slovo města by je jinak přiřadilo týmu NBL.
+RESERVE_RE = re.compile(r"""(?:^|\s)["'„“]?B["'“”]?$|\bU\s?\d{2}\b|academy|akademie|junior|dorost|\bml\.""", re.I)
+
+
+def is_reserve(name: str) -> bool:
+    return bool(RESERVE_RE.search((name or "").strip()))
+
+
 def team_slug(*names: str) -> str:
     return identify(*names)[0]
