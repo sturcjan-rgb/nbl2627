@@ -129,6 +129,7 @@ def probe_fiba_ids(fixtures: list[dict], fetch=None, now: datetime | None = None
             # nalezený zápas může patřit i jinému chybějícímu zápasu
             match = next((x for x in todo if not x.get("fibaId") and {x.get("homeSlug"), x.get("awaySlug")} == {hs, as_}), None)
             if match is None:
+                print(f"FIBA {fid}: {t1.get('name')} – {t2.get('name')} (nehledaný zápas)")
                 continue
             match["fibaId"] = fid
             schedule.finalize(match)
