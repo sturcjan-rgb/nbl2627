@@ -1,9 +1,9 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-17T02:57:35+00:00",
+ "generatedAt": "2026-11-17T10:43:06+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 68,
+  "final": 69,
   "teams": 12,
   "players": 193
  },
@@ -849,6 +849,17 @@
    "score": [
     78,
     72
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2943577,
+   "date": "2026-11-15",
+   "home": "pisek",
+   "away": "usti",
+   "score": [
+    107,
+    98
    ],
    "status": "final"
   }
