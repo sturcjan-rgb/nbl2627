@@ -63,6 +63,23 @@ def update_schedule(season_label: str, fixtures: list[dict], *, debug: bool = Fa
 
 # ------------------------------------------------------------------ FIBA
 
+def apply_fiba_overrides(sdir: Path, fixtures: list[dict]) -> int:
+    """Ručně zadaná FIBA ID z data/<sezóna>/fiba_overrides.json ({"<nblId>": <fibaId>}).
+
+    Pojistka pro případ, že nbl.basketball FIBA odkaz neukáže nebo je nedostupný
+    (od 11/2026 vrací runnerům GitHub Actions HTTP 403). Ruční ID má přednost.
+    """
+    overrides = read_json(sdir / "fiba_overrides.json", {}) or {}
+    n = 0
+    for f in fixtures:
+        fid = overrides.get(str(f.get("nblId")))
+        if fid and f.get("fibaId") != int(fid):
+            f["fibaId"] = int(fid)
+            schedule.finalize(f)
+            n += 1
+    return n
+
+
 def raw_path(sdir: Path, fid: int) -> Path:
     return sdir / "raw" / f"{fid}.json.gz"
 
@@ -222,6 +239,9 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
     if scrape:
         fixtures, res = update_schedule(season_label, fixtures, debug=debug)
         teams_meta.update(res.get("teams") or {})
+    n = apply_fiba_overrides(sdir, fixtures)
+    if n:
+        print(f"ručně zadaná FIBA ID: {n}")
     if fetch:
         st = fetch_games(sdir, fixtures)
         print(f"FIBA: {st}")
