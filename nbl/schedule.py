@@ -28,7 +28,7 @@ DELAY = 0.8
 PRAGUE = ZoneInfo("Europe/Prague")
 
 MATCH_RE = re.compile(r"/zapas/(\d+)")
-FIBA_RE = re.compile(r"fibalivestats\.com/webcast/[^/\s\"']+/(\d+)")
+FIBA_RE = re.compile(r"fibalivestats(?:\.dcd\.shared\.geniussports)?\.com/(?:webcast|u)/[^/\s\"']+/(\d+)")
 TEAM_LINK_RE = re.compile(r"^(?:https?://nbl\.basketball)?/tym/([a-z0-9-]+)/?$")
 DATE_SORT_RE = re.compile(r"^(\d{4})-(\d{2})-(\d{2})-(\d{2})-(\d{2})$")
 DATE_TEXT_RE = re.compile(r"(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\s+(\d{1,2}):(\d{2})")

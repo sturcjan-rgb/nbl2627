@@ -80,6 +80,54 @@ def apply_fiba_overrides(sdir: Path, fixtures: list[dict]) -> int:
     return n
 
 
+def assign_fiba_candidates(sdir: Path, fixtures: list[dict], fetch=None, now: datetime | None = None) -> int:
+    """FIBA ID bez známého zápasu (data/<sezóna>/fiba_candidates.json, seznam čísel):
+    stáhne data.json, podle týmů je přiřadí nejbližšímu odehranému zápasu bez FIBA ID
+    a zapíše do fiba_overrides.json. Nepřiřazená ID zůstanou v seznamu.
+    """
+    cpath = sdir / "fiba_candidates.json"
+    cands = [int(x) for x in read_json(cpath, []) or []]
+    if not cands:
+        return 0
+    if fetch is None:
+        import requests
+        session = requests.Session()
+        fetch = lambda fid: fiba.fetch(fid, session)  # noqa: E731
+    now = now or now_utc()
+    opath = sdir / "fiba_overrides.json"
+    overrides = read_json(opath, {}) or {}
+    assigned = {f.get("fibaId") for f in fixtures}
+    left, n = [], 0
+    for fid in cands:
+        if fid in assigned:
+            continue
+        raw = fetch(fid)
+        if not raw:
+            left.append(fid)
+            continue
+        t1, t2 = (raw.get("tm") or {}).get("1") or {}, (raw.get("tm") or {}).get("2") or {}
+        pair = {identify(t1.get("name") or "", t1.get("shortName") or "")[0],
+                identify(t2.get("name") or "", t2.get("shortName") or "")[0]}
+        opts = [f for f in fixtures if not f.get("fibaId") and f.get("datetime")
+                and {f.get("homeSlug"), f.get("awaySlug")} == pair
+                and datetime.fromisoformat(f["datetime"]) <= now + timedelta(days=3)]
+        if not opts:
+            print(f"WARN FIBA {fid} ({t1.get('name')} – {t2.get('name')}): žádný zápas rozpisu bez FIBA ID", file=sys.stderr)
+            left.append(fid)
+            continue
+        f = min(opts, key=lambda x: abs(datetime.fromisoformat(x["datetime"]) - now))
+        f["fibaId"] = fid
+        schedule.finalize(f)
+        overrides[str(f["nblId"])] = fid
+        assigned.add(fid)
+        n += 1
+        print(f"FIBA {fid} přiřazeno: {f.get('homeLabel')} – {f.get('awayLabel')} ({f.get('date')})")
+    if n:
+        write_json(opath, dict(sorted(overrides.items())))
+        write_json(cpath, left)
+    return n
+
+
 def raw_path(sdir: Path, fid: int) -> Path:
     return sdir / "raw" / f"{fid}.json.gz"
 
@@ -243,6 +291,7 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
     if n:
         print(f"ručně zadaná FIBA ID: {n}")
     if fetch:
+        assign_fiba_candidates(sdir, fixtures)
         st = fetch_games(sdir, fixtures)
         print(f"FIBA: {st}")
     for f in fixtures:
