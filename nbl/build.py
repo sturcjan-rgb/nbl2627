@@ -80,67 +80,6 @@ def apply_fiba_overrides(sdir: Path, fixtures: list[dict]) -> int:
     return n
 
 
-PROBE_RADIUS = 30      # kolik ID kolem známého FIBA ID zkusit
-PROBE_DAYS_BACK = 10   # zápasy bez FIBA ID odehrané nejvýš před tolika dny
-PROBE_ANCHOR_DAYS = 4  # známá ID ze zápasů ±tolik dní od hledaného
-PROBE_MAX_PER_MATCH = 60
-PROBE_MAX_TOTAL = 150  # strop dotazů na FIBA za jeden běh
-
-
-def probe_fiba_ids(fixtures: list[dict], fetch=None, now: datetime | None = None) -> int:
-    """Dohledá chybějící FIBA ID bez nbl.basketball: zkusí sousední ID kolem známých ID
-    ze stejných dní (FIBA zakládá zápasy kola v dávce, ID jdou za sebou) a přiřadí ten
-    data.json, jehož týmy sedí na zápas rozpisu. Jen veřejná FIBA data, pár desítek dotazů.
-    """
-    import time
-    import requests
-    if fetch is None:
-        session = requests.Session()
-
-        def fetch(fid):
-            time.sleep(0.3)
-            return fiba.fetch(fid, session)
-    now = now or now_utc()
-    todo = [f for f in fixtures if not f.get("fibaId") and f.get("datetime")
-            and now - timedelta(days=PROBE_DAYS_BACK) <= datetime.fromisoformat(f["datetime"]) <= now]
-    if not todo:
-        return 0
-    known = {f["fibaId"] for f in fixtures if f.get("fibaId")}
-    tried: set[int] = set()
-    n = 0
-    for f in sorted(todo, key=lambda x: x["datetime"]):
-        if f.get("fibaId"):
-            continue  # mezitím nalezeno při hledání jiného zápasu
-        t = datetime.fromisoformat(f["datetime"])
-        anchors = sorted({x["fibaId"] for x in fixtures if x.get("fibaId") and x.get("datetime")
-                          and abs(datetime.fromisoformat(x["datetime"]) - t) <= timedelta(days=PROBE_ANCHOR_DAYS)})
-        cands = sorted({a + d for a in anchors for d in range(-PROBE_RADIUS, PROBE_RADIUS + 1)} - known - tried,
-                       key=lambda c: min(abs(c - a) for a in anchors))[:PROBE_MAX_PER_MATCH]
-        for fid in cands:
-            if len(tried) >= PROBE_MAX_TOTAL:
-                return n
-            tried.add(fid)
-            raw = fetch(fid)
-            if not raw:
-                continue
-            t1, t2 = (raw.get("tm") or {}).get("1") or {}, (raw.get("tm") or {}).get("2") or {}
-            hs = identify(t1.get("name") or "", t1.get("shortName") or "")[0]
-            as_ = identify(t2.get("name") or "", t2.get("shortName") or "")[0]
-            # nalezený zápas může patřit i jinému chybějícímu zápasu
-            match = next((x for x in todo if not x.get("fibaId") and {x.get("homeSlug"), x.get("awaySlug")} == {hs, as_}), None)
-            if match is None:
-                print(f"FIBA {fid}: {t1.get('name')} – {t2.get('name')} (nehledaný zápas)")
-                continue
-            match["fibaId"] = fid
-            schedule.finalize(match)
-            known.add(fid)
-            n += 1
-            print(f"FIBA ID dohledáno: {match.get('homeLabel')} – {match.get('awayLabel')} -> {fid}")
-            if match is f:
-                break
-    return n
-
-
 def raw_path(sdir: Path, fid: int) -> Path:
     return sdir / "raw" / f"{fid}.json.gz"
 
@@ -304,9 +243,6 @@ def build(season_label: str, *, scrape: bool = True, fetch: bool = True, debug: 
     if n:
         print(f"ručně zadaná FIBA ID: {n}")
     if fetch:
-        n = probe_fiba_ids(fixtures)
-        if n:
-            print(f"FIBA ID dohledaná podle sousedních ID: {n}")
         st = fetch_games(sdir, fixtures)
         print(f"FIBA: {st}")
     for f in fixtures:
