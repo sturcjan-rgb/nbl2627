@@ -444,10 +444,10 @@ async function viewTeam(app, slug) {
       <div class="caption">Součty za sezónu. Z = odehrané zápasy (v závorce v základní sestavě). Ø = body na zápas. EFF = body + doskoky + asistence + zisky + bloky − neproměněné střely − ztráty.</div></section>
 
     <section id="t-ses"><h2>Kdo s kým</h2>
-      <p class="muted">Z play-by-play je zrekonstruováno, kdo byl kdy na hřišti. Hodnoty jsou body na 100 držení: útok (ORtg), obrana (DRtg) a rozdíl (net). Malé vzorky berte orientačně.</p>
+      <p class="muted">Z play-by-play je zrekonstruováno, kdo byl kdy na hřišti. Hodnoty jsou skutečný rozdíl skóre (+/−) za dobu, kdy byl hráč nebo sestava na hřišti, bez přepočtu. Malé vzorky berte orientačně.</p>
       <div class="grid g3" id="finds"></div>
-      <h3 style="margin-top:18px">On/off: tým s hráčem a bez něj</h3><div id="onoff"></div><div class="caption">Seřazeno podle dopadu = net s hráčem minus net bez něj.</div>
-      <h3 style="margin-top:18px">Dvojice</h3><div class="tabs" id="mxMode"><button data-m="rtg" class="on">Na 100 držení</button><button data-m="pm">Skutečné +/−</button></div>
+      <h3 style="margin-top:18px">On/off: tým s hráčem a bez něj</h3><div id="onoff"></div><div class="caption">Skóre a +/− týmu, když hráč hrál a když seděl (bez něj = zbytek odehraných zápasů týmu). Seřazeno podle +/− s ním.</div>
+      <h3 style="margin-top:18px">Dvojice</h3><div class="tabs" id="mxMode"><button data-m="pm" class="on">Skutečné +/−</button><button data-m="rtg">Na 100 držení</button></div>
       <div class="tx"><div class="matrix" id="matrix"></div></div><div class="caption" id="mxNote"></div>
       <div class="grid g2" style="margin-top:16px"><div><h3>Nejlepší trojice</h3><div id="tbest"></div></div><div><h3>Nejhorší trojice</h3><div id="tworst"></div></div></div>
       <div class="caption">Trojice s alespoň 10 odehranými minutami.</div>
@@ -540,27 +540,33 @@ async function viewTeam(app, slug) {
 
   // kdo s kým — nálezy
   const sh = n => tShort(n);
-  const onoff = P.filter(p => p.on.min >= 10 && p.onOff != null).sort((a, b) => b.onOff - a.onOff);
-  const prs = t.lineups.pairs.filter(r => r.min >= 8 && r.net != null).sort((a, b) => b.net - a.net);
-  const trios = t.lineups.trios.filter(r => r.min >= 10 && r.net != null);
+  // skutečné +/−: s hráčem = on.pf/on.pa, bez něj = sezónní skóre týmu minus úseky s ním
+  const TP = t.totals.pts, TO = t.oppTotals.pts;
+  const onoff = P.filter(p => p.on.min >= 10).map(p => {
+    const offPf = TP - p.on.pf, offPa = TO - p.on.pa;
+    return {...p, onPm: p.on.pf - p.on.pa, offPf, offPa, offPm: offPf - offPa};
+  }).sort((a, b) => b.onPm - a.onPm);
+  const prs = t.lineups.pairs.filter(r => r.min >= 8).sort((a, b) => b.pm - a.pm);
+  const trios = t.lineups.trios.filter(r => r.min >= 10);
   const fv = t.lineups.fives;
   const find = (lab, cls2, big, body) => `<div class="panel find ${cls2}"><span class="eyebrow">${lab}</span><b class="big ${cls2 === 'good' ? 'pos' : cls2 === 'bad' ? 'neg' : ''}">${big}</b><div style="font-size:.88rem">${body}</div></div>`;
   const F = [];
-  if (onoff.length) { const k = onoff[0]; F.push(find('Klíčový hráč', 'good', signed(k.onOff), `<b>${esc(sh(k.name))}</b>: tým s ním ${signed(k.on.net)} na 100 držení, bez něj ${signed(k.off.net)} (${f0(k.on.min)} min na hřišti).`)); }
-  if (prs.length) { const b = prs[0]; F.push(find('Nejlepší dvojice', 'good', signed(Math.round(b.net)), `<b>${b.players.map(sh).join(' + ')}</b>: ${f0(b.min)} minut, ${pair(b.pf, b.pa)}.`)); }
-  if (prs.length > 1) { const w = prs[prs.length - 1]; F.push(find('Nejhorší dvojice', 'bad', signed(Math.round(w.net)), `<b>${w.players.map(sh).join(' + ')}</b>: ${f0(w.min)} minut, ${pair(w.pf, w.pa)}.`)); }
+  const tone = v => v >= 0 ? 'good' : 'bad';
+  if (onoff.length) { const k = onoff[0]; F.push(find('Nejlepší +/− na hřišti', tone(k.onPm), signed(k.onPm), `<b>${esc(sh(k.name))}</b>: s ním ${pair(k.on.pf, k.on.pa)} za ${f0(k.on.min)} min, bez něj ${pair(k.offPf, k.offPa)} (${signed(k.offPm)}).`)); }
+  if (prs.length) { const b = prs[0]; F.push(find('Nejlepší dvojice', tone(b.pm), signed(b.pm), `<b>${b.players.map(sh).join(' + ')}</b>: ${f0(b.min)} minut, ${pair(b.pf, b.pa)}.`)); }
+  if (prs.length > 1) { const w = prs[prs.length - 1]; F.push(find('Nejhorší dvojice', tone(w.pm), signed(w.pm), `<b>${w.players.map(sh).join(' + ')}</b>: ${f0(w.min)} minut, ${pair(w.pf, w.pa)}.`)); }
   if (fv.length) { const u = fv[0]; F.push(find(u.pm >= 0 ? 'Nejpoužívanější pětka vyhrává' : 'Nejpoužívanější pětka prohrává', u.pm >= 0 ? 'good' : 'bad', pair(u.pf, u.pa), `${u.players.map(sh).join(', ')}: ${f1(u.min)} minut v ${u.games} zápasech, vlastní eFG ${f0(u.efg)} %.`)); }
-  if (trios.length) { const b = trios.slice().sort((a, c) => c.net - a.net)[0]; F.push(find('Nejlepší trojice', 'good', signed(Math.round(b.net)), `<b>${b.players.map(sh).join(' – ')}</b>: ${f0(b.min)} minut, ${pair(b.pf, b.pa)}.`)); }
-  if (onoff.length > 1) { const k = onoff[onoff.length - 1]; F.push(find('Bez něj je tým lepší', 'bad', signed(k.onOff), `<b>${esc(sh(k.name))}</b>: s ním ${signed(k.on.net)}, bez něj ${signed(k.off.net)} na 100 držení.`)); }
+  if (trios.length) { const b = trios.slice().sort((a, c) => c.pm - a.pm)[0]; F.push(find('Nejlepší trojice', tone(b.pm), signed(b.pm), `<b>${b.players.map(sh).join(' – ')}</b>: ${f0(b.min)} minut, ${pair(b.pf, b.pa)}.`)); }
+  if (onoff.length > 1) { const k = onoff[onoff.length - 1]; F.push(find('Nejhorší +/− na hřišti', tone(k.onPm), signed(k.onPm), `<b>${esc(sh(k.name))}</b>: s ním ${pair(k.on.pf, k.on.pa)} za ${f0(k.on.min)} min, bez něj ${pair(k.offPf, k.offPa)} (${signed(k.offPm)}).`)); }
   $('#finds').innerHTML = F.join('');
   sortTable($('#onoff'), [
     {k: 'name', t: 'Hráč', l: true, get: r => r.name, fmt: v => `<span class="name">${esc(v)}</span>`, asc: true},
-    {k: 'min', t: 'Min', get: r => r.on.min, fmt: f0}, {k: 'sc', t: 'Skóre', get: r => r.on.pf - r.on.pa, fmt: (v, r) => pair(r.on.pf, r.on.pa)},
-    {k: 'ortg', t: 'ORtg', get: r => r.on.ortg, fmt: f1}, {k: 'drtg', t: 'DRtg', get: r => r.on.drtg, fmt: f1, asc: true},
-    {k: 'on', t: 'Net s ním', get: r => r.on.net, fmt: signed, cls: cls}, {k: 'off', t: 'Net bez něj', get: r => r.off.net, fmt: signed, cls: cls},
-    {k: 'onOff', t: 'Dopad', get: r => r.onOff, fmt: v => `<b>${signed(v)}</b>`, cls: cls}], onoff, {sort: 'onOff'});
+    {k: 'min', t: 'Min s ním', get: r => r.on.min, fmt: f0}, {k: 'sc', t: 'Skóre s ním', get: r => r.on.pf, fmt: (v, r) => pair(r.on.pf, r.on.pa)},
+    {k: 'onPm', t: '+/− s ním', get: r => r.onPm, fmt: v => `<b>${signed(v)}</b>`, cls: cls},
+    {k: 'offMin', t: 'Min bez něj', get: r => r.off.min, fmt: f0}, {k: 'osc', t: 'Skóre bez něj', get: r => r.offPf, fmt: (v, r) => pair(r.offPf, r.offPa)},
+    {k: 'offPm', t: '+/− bez něj', get: r => r.offPm, fmt: signed, cls: cls}], onoff, {sort: 'onPm'});
   // matice dvojic
-  let mxMode = 'rtg';
+  let mxMode = 'pm';
   const drawMx = () => {
     const pairs = {}; t.lineups.pairs.forEach(r => pairs[r.players.slice().sort().join('|')] = r);
     const pl = P.filter(p => p.on.min >= 5).sort((a, b) => b.on.min - a.on.min).map(p => p.name);
@@ -587,12 +593,11 @@ async function viewTeam(app, slug) {
   const unitCols = (lab, extra = []) => [
     {k: 'players', t: lab, l: true, get: r => r.players.join(', '), fmt: (v, r) => `<span style="white-space:normal">${esc(r.players.map(sh).join(', '))}</span>`, s: false}]
     .concat(extra, [{k: 'min', t: 'Min', get: r => r.min, fmt: f1}, {k: 'sc', t: 'Skóre', get: r => r.pf - r.pa, fmt: (v, r) => pair(r.pf, r.pa)},
-      {k: 'ortg', t: 'ORtg', get: r => r.ortg, fmt: f1}, {k: 'drtg', t: 'DRtg', get: r => r.drtg, fmt: f1, asc: true},
-      {k: 'net', t: 'Net', get: r => r.net, fmt: v => `<b>${signed(v == null ? null : Math.round(v))}</b>`, cls: cls},
+      {k: 'pm', t: '+/−', get: r => r.pm, fmt: v => `<b>${signed(v)}</b>`, cls: cls},
       {k: 'efg', t: 'eFG my/soup.', get: r => r.efg, fmt: (v, r) => f0(r.efg) + ' / ' + f0(r.oefg)}]);
-  const tSorted = trios.slice().sort((a, b) => b.net - a.net);
-  sortTable($('#tbest'), unitCols('Trojice'), tSorted.slice(0, 6), {sort: 'net'});
-  sortTable($('#tworst'), unitCols('Trojice'), tSorted.slice(-6).reverse(), {sort: 'net', dir: 1});
+  const tSorted = trios.slice().sort((a, b) => b.pm - a.pm);
+  sortTable($('#tbest'), unitCols('Trojice'), tSorted.slice(0, 6), {sort: 'pm'});
+  sortTable($('#tworst'), unitCols('Trojice'), tSorted.slice(-6).reverse(), {sort: 'pm', dir: 1});
   sortTable($('#fives'), unitCols('Pětka', [{k: 'games', t: 'Zápasy', get: r => r.games}]), fv, {sort: 'min'});
   sortTable($('#ast'), [{k: 'p', t: 'Nahrávač → střelec', l: true, get: r => r.passer, fmt: (v, r) => esc(r.passer) + ' → ' + esc(r.scorer), s: false},
     {k: 'ast', t: 'Asist.', get: r => r.ast}, {k: 'pts', t: 'Body', get: r => r.pts}], t.assistPairs.slice(0, 15), {sort: 'ast'});
