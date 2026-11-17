@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-17T02:57:35+00:00",
+ "generatedAt": "2026-11-17T10:51:42+00:00",
  "slug": "pisek",
  "name": "Sršni Photomate Písek",
  "label": "Písek",
@@ -8,209 +8,209 @@
  "code": "PIS",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/bd87c5d17b95173283244bbd063bd7c0S1.png",
  "coach": "Jan Čech",
- "games": 10,
- "minutes": 400.0,
+ "games": 11,
+ "minutes": 440.0,
  "totals": {
-  "pts": 905,
-  "fgm": 304,
-  "fga": 666,
-  "tpm": 91,
-  "tpa": 292,
-  "twopm": 213,
-  "twopa": 374,
-  "ftm": 206,
-  "fta": 294,
-  "oreb": 125,
-  "dreb": 319,
-  "reb": 444,
-  "ast": 203,
-  "to": 151,
-  "stl": 66,
-  "blk": 15,
-  "blkr": 31,
-  "pf": 222,
-  "foulon": 237,
-  "paint": 398,
-  "fast": 178,
-  "second": 135,
-  "bench": 357,
-  "offto": 141
+  "pts": 1012,
+  "fgm": 336,
+  "fga": 732,
+  "tpm": 109,
+  "tpa": 325,
+  "twopm": 227,
+  "twopa": 407,
+  "ftm": 231,
+  "fta": 332,
+  "oreb": 141,
+  "dreb": 352,
+  "reb": 493,
+  "ast": 227,
+  "to": 165,
+  "stl": 71,
+  "blk": 16,
+  "blkr": 33,
+  "pf": 245,
+  "foulon": 263,
+  "paint": 426,
+  "fast": 194,
+  "second": 162,
+  "bench": 412,
+  "offto": 154
  },
  "oppTotals": {
-  "pts": 840,
-  "fgm": 289,
-  "fga": 698,
-  "tpm": 122,
-  "tpa": 331,
-  "twopm": 167,
-  "twopa": 367,
-  "ftm": 140,
-  "fta": 222,
-  "oreb": 125,
-  "dreb": 271,
-  "reb": 396,
-  "ast": 187,
-  "to": 143,
-  "stl": 75,
-  "blk": 31,
-  "blkr": 15,
-  "pf": 242,
-  "foulon": 221,
-  "paint": 290,
-  "fast": 125,
-  "second": 126,
-  "bench": 398,
-  "offto": 130
+  "pts": 938,
+  "fgm": 323,
+  "fga": 778,
+  "tpm": 132,
+  "tpa": 361,
+  "twopm": 191,
+  "twopa": 417,
+  "ftm": 160,
+  "fta": 245,
+  "oreb": 139,
+  "dreb": 298,
+  "reb": 437,
+  "ast": 203,
+  "to": 152,
+  "stl": 84,
+  "blk": 33,
+  "blkr": 16,
+  "pf": 269,
+  "foulon": 244,
+  "paint": 336,
+  "fast": 144,
+  "second": 138,
+  "bench": 425,
+  "offto": 149
  },
  "perGame": {
-  "pts": 90.5,
-  "fgm": 30.4,
-  "fga": 66.6,
-  "tpm": 9.1,
-  "tpa": 29.2,
-  "twopm": 21.3,
-  "twopa": 37.4,
-  "ftm": 20.6,
-  "fta": 29.4,
-  "oreb": 12.5,
-  "dreb": 31.9,
-  "reb": 44.4,
-  "ast": 20.3,
-  "to": 15.1,
-  "stl": 6.6,
+  "pts": 92.0,
+  "fgm": 30.5,
+  "fga": 66.5,
+  "tpm": 9.9,
+  "tpa": 29.5,
+  "twopm": 20.6,
+  "twopa": 37.0,
+  "ftm": 21.0,
+  "fta": 30.2,
+  "oreb": 12.8,
+  "dreb": 32.0,
+  "reb": 44.8,
+  "ast": 20.6,
+  "to": 15.0,
+  "stl": 6.5,
   "blk": 1.5,
-  "blkr": 3.1,
-  "pf": 22.2,
-  "foulon": 23.7,
-  "paint": 39.8,
-  "fast": 17.8,
-  "second": 13.5,
-  "bench": 35.7,
-  "offto": 14.1,
-  "ppg": 90.5,
-  "oppg": 84.0,
-  "diff": 6.5
+  "blkr": 3.0,
+  "pf": 22.3,
+  "foulon": 23.9,
+  "paint": 38.7,
+  "fast": 17.6,
+  "second": 14.7,
+  "bench": 37.5,
+  "offto": 14.0,
+  "ppg": 92.0,
+  "oppg": 85.3,
+  "diff": 6.7
  },
  "oppPerGame": {
-  "pts": 84.0,
-  "fgm": 28.9,
-  "fga": 69.8,
-  "tpm": 12.2,
-  "tpa": 33.1,
-  "twopm": 16.7,
-  "twopa": 36.7,
-  "ftm": 14.0,
-  "fta": 22.2,
-  "oreb": 12.5,
+  "pts": 85.3,
+  "fgm": 29.4,
+  "fga": 70.7,
+  "tpm": 12.0,
+  "tpa": 32.8,
+  "twopm": 17.4,
+  "twopa": 37.9,
+  "ftm": 14.5,
+  "fta": 22.3,
+  "oreb": 12.6,
   "dreb": 27.1,
-  "reb": 39.6,
-  "ast": 18.7,
-  "to": 14.3,
-  "stl": 7.5,
-  "blk": 3.1,
+  "reb": 39.7,
+  "ast": 18.5,
+  "to": 13.8,
+  "stl": 7.6,
+  "blk": 3.0,
   "blkr": 1.5,
-  "pf": 24.2,
-  "foulon": 22.1,
-  "paint": 29.0,
-  "fast": 12.5,
-  "second": 12.6,
-  "bench": 39.8,
-  "offto": 13.0
+  "pf": 24.5,
+  "foulon": 22.2,
+  "paint": 30.5,
+  "fast": 13.1,
+  "second": 12.5,
+  "bench": 38.6,
+  "offto": 13.5
  },
  "adv": {
-  "poss": 821.4,
-  "pace": 81.8,
-  "ortg": 110.2,
-  "drtg": 103.2,
-  "net": 6.9,
-  "efg": 52.5,
-  "ts": 56.9,
-  "tov": 16.0,
-  "orb": 31.6,
-  "drb": 71.8,
-  "ftr": 30.9,
-  "fta_rate": 44.1,
-  "three_par": 43.8,
-  "fg": 45.6,
-  "two": 57.0,
-  "three": 31.2,
-  "ft": 70.1,
-  "ast_pct": 66.8,
-  "ast_to": 1.34,
-  "stl_pct": 8.1,
-  "blk_pct": 4.1,
-  "pts_per_shot": 1.14
+  "poss": 902.1,
+  "pace": 81.9,
+  "ortg": 112.2,
+  "drtg": 104.4,
+  "net": 7.8,
+  "efg": 53.3,
+  "ts": 57.6,
+  "tov": 15.8,
+  "orb": 32.1,
+  "drb": 71.7,
+  "ftr": 31.6,
+  "fta_rate": 45.4,
+  "three_par": 44.4,
+  "fg": 45.9,
+  "two": 55.8,
+  "three": 33.5,
+  "ft": 69.6,
+  "ast_pct": 67.6,
+  "ast_to": 1.38,
+  "stl_pct": 7.9,
+  "blk_pct": 3.8,
+  "pts_per_shot": 1.15
  },
  "oppAdv": {
-  "opp_efg": 50.1,
-  "opp_ts": 52.8,
-  "opp_tov": 15.2,
-  "opp_ftr": 20.1,
-  "opp_three_par": 47.4,
-  "opp_fg": 41.4,
-  "opp_two": 45.5,
-  "opp_three": 36.9,
-  "opp_ft": 63.1
+  "opp_efg": 50.0,
+  "opp_ts": 52.9,
+  "opp_tov": 14.6,
+  "opp_ftr": 20.6,
+  "opp_three_par": 46.4,
+  "opp_fg": 41.5,
+  "opp_two": 45.8,
+  "opp_three": 36.6,
+  "opp_ft": 65.3
  },
  "factors": {
-  "efg": 52.5,
-  "tov": 16.0,
-  "orb": 31.6,
-  "ftr": 30.9,
-  "opp_efg": 50.1,
-  "opp_tov": 15.2,
-  "drb": 71.8,
-  "opp_ftr": 20.1
+  "efg": 53.3,
+  "tov": 15.8,
+  "orb": 32.1,
+  "ftr": 31.6,
+  "opp_efg": 50.0,
+  "opp_tov": 14.6,
+  "drb": 71.7,
+  "opp_ftr": 20.6
  },
  "zones": {
   "paint": {
-   "m": 201,
-   "a": 340,
-   "pct": 59.1,
-   "share": 51.1
+   "m": 215,
+   "a": 370,
+   "pct": 58.1,
+   "share": 50.5
   },
   "mid": {
    "m": 12,
-   "a": 34,
-   "pct": 35.3,
+   "a": 37,
+   "pct": 32.4,
    "share": 5.1
   },
   "corner3": {
-   "m": 21,
-   "a": 58,
-   "pct": 36.2,
-   "share": 8.7
+   "m": 24,
+   "a": 65,
+   "pct": 36.9,
+   "share": 8.9
   },
   "above3": {
-   "m": 70,
-   "a": 234,
-   "pct": 29.9,
-   "share": 35.1
+   "m": 85,
+   "a": 260,
+   "pct": 32.7,
+   "share": 35.5
   }
  },
  "oppZones": {
   "paint": {
-   "m": 148,
-   "a": 295,
-   "pct": 50.2,
+   "m": 171,
+   "a": 335,
+   "pct": 51.0,
    "share": null
   },
   "mid": {
-   "m": 19,
-   "a": 72,
-   "pct": 26.4,
+   "m": 20,
+   "a": 82,
+   "pct": 24.4,
    "share": null
   },
   "corner3": {
-   "m": 28,
-   "a": 61,
-   "pct": 45.9,
+   "m": 30,
+   "a": 65,
+   "pct": 46.2,
    "share": null
   },
   "above3": {
-   "m": 94,
-   "a": 270,
-   "pct": 34.8,
+   "m": 102,
+   "a": 296,
+   "pct": 34.5,
    "share": null
   }
  },
@@ -223,16 +223,16 @@
    "20+"
   ],
   "pts": [
-   167,
-   238,
-   213,
-   146,
-   129
+   177,
+   263,
+   239,
+   169,
+   152
   ],
   "unassigned": 12,
-  "possessions": 829,
-  "ptsPerPoss": 1.09,
-  "avgSec": 12.4
+  "possessions": 914,
+  "ptsPerPoss": 1.11,
+  "avgSec": 12.6
  },
  "clutch": {
   "pts": 18,
@@ -252,34 +252,34 @@
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 23.6,
-   "oppg": 20.8,
-   "diff": 2.8,
-   "n": 10
+   "ppg": 23.5,
+   "oppg": 21.1,
+   "diff": 2.4,
+   "n": 11
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 22.0,
-   "oppg": 21.1,
-   "diff": 0.9,
-   "n": 10
+   "ppg": 22.2,
+   "oppg": 20.4,
+   "diff": 1.8,
+   "n": 11
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 21.3,
-   "oppg": 20.0,
-   "diff": 1.3,
-   "n": 10
+   "ppg": 22.4,
+   "oppg": 21.3,
+   "diff": 1.1,
+   "n": 11
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 23.6,
-   "oppg": 22.1,
+   "ppg": 24.0,
+   "oppg": 22.5,
    "diff": 1.5,
-   "n": 10
+   "n": 11
   }
  ],
  "flow": {
@@ -287,7 +287,7 @@
   "biggestDeficit": 17,
   "biggestRun": 16,
   "biggestRunAllowed": 14,
-  "leadChangesPerGame": 4.1
+  "leadChangesPerGame": 4.2
  },
  "lineups": {
   "fives": [
@@ -299,19 +299,41 @@
      "Petr Šlechta",
      "Vojtěch Sýkora"
     ],
-    "min": 24.1,
-    "pf": 57,
-    "pa": 45,
-    "pm": 12,
-    "poss": 43.9,
-    "pF": 44.5,
-    "pA": 43.3,
-    "ortg": 128.0,
-    "drtg": 103.9,
-    "net": 24.2,
-    "efg": 65.0,
-    "oefg": 52.4,
-    "games": 6
+    "min": 28.8,
+    "pf": 68,
+    "pa": 51,
+    "pm": 17,
+    "poss": 51.3,
+    "pF": 51.4,
+    "pA": 51.2,
+    "ortg": 132.3,
+    "drtg": 99.6,
+    "net": 32.7,
+    "efg": 67.4,
+    "oefg": 49.0,
+    "games": 7
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Mikuláš Čank",
+     "Vojtěch Sýkora"
+    ],
+    "min": 18.2,
+    "pf": 41,
+    "pa": 57,
+    "pm": -16,
+    "poss": 37.5,
+    "pF": 38.8,
+    "pA": 36.2,
+    "ortg": 105.6,
+    "drtg": 157.6,
+    "net": -52.1,
+    "efg": 62.5,
+    "oefg": 68.8,
+    "games": 5
    },
    {
     "players": [
@@ -403,25 +425,69 @@
    },
    {
     "players": [
+     "Jakub Zvolánek",
+     "Jan Karlovský",
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Vojtěch Sýkora"
+    ],
+    "min": 9.9,
+    "pf": 21,
+    "pa": 21,
+    "pm": 0,
+    "poss": 21.4,
+    "pF": 22.5,
+    "pA": 20.3,
+    "ortg": 93.3,
+    "drtg": 103.3,
+    "net": -10.1,
+    "efg": 36.8,
+    "oefg": 61.8,
+    "games": 5
+   },
+   {
+    "players": [
      "Jan Karlovský",
      "Josef Svoboda",
      "Martin Svoboda",
      "Mikuláš Čank",
-     "Vojtěch Sýkora"
+     "Tadeáš Slowiak"
     ],
-    "min": 10.5,
-    "pf": 24,
-    "pa": 24,
-    "pm": 0,
-    "poss": 20.0,
-    "pF": 21.9,
-    "pA": 18.2,
-    "ortg": 109.7,
-    "drtg": 131.9,
-    "net": -22.2,
-    "efg": 60.5,
-    "oefg": 71.4,
-    "games": 4
+    "min": 9.4,
+    "pf": 33,
+    "pa": 23,
+    "pm": 10,
+    "poss": 21.7,
+    "pF": 21.3,
+    "pA": 22.2,
+    "ortg": 155.1,
+    "drtg": 103.6,
+    "net": 51.5,
+    "efg": 80.0,
+    "oefg": 52.6,
+    "games": 5
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Josef Svoboda",
+     "Matyáš Ježek",
+     "Mikuláš Čank",
+     "Tadeáš Slowiak"
+    ],
+    "min": 9.0,
+    "pf": 28,
+    "pa": 30,
+    "pm": -2,
+    "poss": 20.3,
+    "pF": 20.8,
+    "pA": 19.9,
+    "ortg": 134.9,
+    "drtg": 150.9,
+    "net": -16.0,
+    "efg": 63.2,
+    "oefg": 63.6,
+    "games": 5
    },
    {
     "players": [
@@ -447,46 +513,24 @@
    },
    {
     "players": [
-     "Jan Karlovský",
      "Josef Svoboda",
      "Martin Svoboda",
-     "Mikuláš Čank",
-     "Tadeáš Slowiak"
-    ],
-    "min": 8.6,
-    "pf": 31,
-    "pa": 23,
-    "pm": 8,
-    "poss": 20.2,
-    "pF": 19.3,
-    "pA": 21.2,
-    "ortg": 160.8,
-    "drtg": 108.5,
-    "net": 52.3,
-    "efg": 91.7,
-    "oefg": 55.6,
-    "games": 4
-   },
-   {
-    "players": [
-     "Jakub Zvolánek",
-     "Jan Karlovský",
-     "Josef Svoboda",
-     "Martin Svoboda",
+     "Matyáš Ježek",
+     "Tadeáš Slowiak",
      "Vojtěch Sýkora"
     ],
-    "min": 8.3,
-    "pf": 15,
-    "pa": 15,
-    "pm": 0,
-    "poss": 17.5,
+    "min": 8.6,
+    "pf": 16,
+    "pa": 19,
+    "pm": -3,
+    "poss": 19.7,
     "pF": 18.6,
-    "pA": 16.3,
-    "ortg": 80.5,
-    "drtg": 91.9,
-    "net": -11.4,
-    "efg": 26.5,
-    "oefg": 53.6,
+    "pA": 20.8,
+    "ortg": 85.8,
+    "drtg": 91.5,
+    "net": -5.7,
+    "efg": 37.5,
+    "oefg": 50.0,
     "games": 4
    },
    {
@@ -510,6 +554,28 @@
     "efg": 67.9,
     "oefg": 68.2,
     "games": 2
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Tadeáš Slowiak",
+     "Vojtěch Sýkora"
+    ],
+    "min": 7.8,
+    "pf": 16,
+    "pa": 11,
+    "pm": 5,
+    "poss": 14.0,
+    "pF": 15.6,
+    "pA": 12.3,
+    "ortg": 102.3,
+    "drtg": 89.3,
+    "net": 13.0,
+    "efg": 58.3,
+    "oefg": 33.3,
+    "games": 5
    },
    {
     "players": [
@@ -579,28 +645,6 @@
    },
    {
     "players": [
-     "Josef Svoboda",
-     "Martin Svoboda",
-     "Matyáš Ježek",
-     "Tadeáš Slowiak",
-     "Vojtěch Sýkora"
-    ],
-    "min": 6.0,
-    "pf": 8,
-    "pa": 16,
-    "pm": -8,
-    "poss": 14.3,
-    "pF": 13.8,
-    "pA": 14.9,
-    "ortg": 58.1,
-    "drtg": 107.5,
-    "net": -49.4,
-    "efg": 30.0,
-    "oefg": 62.5,
-    "games": 3
-   },
-   {
-    "players": [
      "Martin Svoboda",
      "Matyáš Ježek",
      "Matěj Burda",
@@ -645,28 +689,6 @@
    },
    {
     "players": [
-     "Jan Karlovský",
-     "Josef Svoboda",
-     "Matyáš Ježek",
-     "Mikuláš Čank",
-     "Tadeáš Slowiak"
-    ],
-    "min": 5.6,
-    "pf": 15,
-    "pa": 18,
-    "pm": -3,
-    "poss": 12.8,
-    "pF": 12.8,
-    "pA": 12.9,
-    "ortg": 117.6,
-    "drtg": 139.8,
-    "net": -22.2,
-    "efg": 61.1,
-    "oefg": 57.1,
-    "games": 4
-   },
-   {
-    "players": [
      "Martin Svoboda",
      "Matyáš Ježek",
      "Mikuláš Čank",
@@ -684,6 +706,50 @@
     "drtg": 69.9,
     "net": -1.8,
     "efg": 25.0,
+    "oefg": 38.9,
+    "games": 3
+   },
+   {
+    "players": [
+     "Jakub Zvolánek",
+     "Jan Karlovský",
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Tadeáš Slowiak"
+    ],
+    "min": 5.3,
+    "pf": 14,
+    "pa": 6,
+    "pm": 8,
+    "poss": 10.1,
+    "pF": 10.3,
+    "pA": 9.9,
+    "ortg": 135.7,
+    "drtg": 60.7,
+    "net": 74.9,
+    "efg": 68.8,
+    "oefg": 31.2,
+    "games": 3
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Mikuláš Čank",
+     "Petr Šlechta",
+     "Vojtěch Sýkora"
+    ],
+    "min": 5.2,
+    "pf": 18,
+    "pa": 13,
+    "pm": 5,
+    "poss": 12.6,
+    "pF": 13.2,
+    "pA": 12.1,
+    "ortg": 136.8,
+    "drtg": 107.6,
+    "net": 29.2,
+    "efg": 43.8,
     "oefg": 38.9,
     "games": 3
    },
@@ -758,28 +824,6 @@
      "Jan Karlovský",
      "Josef Svoboda",
      "Martin Svoboda",
-     "Tadeáš Slowiak",
-     "Vojtěch Sýkora"
-    ],
-    "min": 4.7,
-    "pf": 5,
-    "pa": 8,
-    "pm": -3,
-    "poss": 9.5,
-    "pF": 10.8,
-    "pA": 8.3,
-    "ortg": 46.5,
-    "drtg": 96.2,
-    "net": -49.7,
-    "efg": 28.6,
-    "oefg": 41.7,
-    "games": 4
-   },
-   {
-    "players": [
-     "Jan Karlovský",
-     "Josef Svoboda",
-     "Martin Svoboda",
      "Petr Šlechta",
      "Vojtěch Sýkora"
     ],
@@ -840,6 +884,28 @@
     "efg": 56.2,
     "oefg": 50.0,
     "games": 2
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Martin Svoboda",
+     "Petr Šlechta",
+     "Tadeáš Slowiak",
+     "Vojtěch Sýkora"
+    ],
+    "min": 4.0,
+    "pf": 5,
+    "pa": 7,
+    "pm": -2,
+    "poss": 8.3,
+    "pF": 7.8,
+    "pA": 8.9,
+    "ortg": 64.4,
+    "drtg": 78.8,
+    "net": -14.4,
+    "efg": 25.0,
+    "oefg": 31.2,
+    "games": 3
    },
    {
     "players": [
@@ -909,25 +975,25 @@
    },
    {
     "players": [
-     "Jakub Zvolánek",
      "Jan Karlovský",
      "Josef Svoboda",
-     "Martin Svoboda",
-     "Tadeáš Slowiak"
+     "Matyáš Ježek",
+     "Mikuláš Čank",
+     "Vojtěch Sýkora"
     ],
     "min": 3.7,
-    "pf": 11,
-    "pa": 4,
-    "pm": 7,
-    "poss": 7.6,
-    "pF": 8.3,
-    "pA": 6.9,
-    "ortg": 132.2,
-    "drtg": 58.1,
-    "net": 74.1,
-    "efg": 80.0,
-    "oefg": 30.0,
-    "games": 2
+    "pf": 7,
+    "pa": 9,
+    "pm": -2,
+    "poss": 9.6,
+    "pF": 8.9,
+    "pA": 10.3,
+    "ortg": 78.8,
+    "drtg": 87.2,
+    "net": -8.4,
+    "efg": 35.7,
+    "oefg": 43.8,
+    "games": 3
    },
    {
     "players": [
@@ -994,6 +1060,28 @@
     "efg": 60.0,
     "oefg": 42.9,
     "games": 3
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Josef Svoboda",
+     "Matyáš Ježek",
+     "Tadeáš Slowiak",
+     "Vojtěch Sýkora"
+    ],
+    "min": 3.5,
+    "pf": 10,
+    "pa": 13,
+    "pm": -3,
+    "poss": 9.5,
+    "pF": 9.8,
+    "pA": 9.2,
+    "ortg": 102.5,
+    "drtg": 141.3,
+    "net": -38.8,
+    "efg": 66.7,
+    "oefg": 75.0,
+    "games": 2
    },
    {
     "players": [
@@ -1085,24 +1173,46 @@
    },
    {
     "players": [
-     "Josef Svoboda",
-     "Martin Svoboda",
+     "Jan Karlovský",
+     "Matyáš Ježek",
      "Mikuláš Čank",
      "Petr Šlechta",
-     "Vojtěch Sýkora"
+     "Tadeáš Slowiak"
     ],
     "min": 3.3,
-    "pf": 10,
-    "pa": 9,
-    "pm": 1,
-    "poss": 6.7,
-    "pF": 7.5,
-    "pA": 5.9,
-    "ortg": 133.0,
-    "drtg": 153.1,
-    "net": -20.1,
-    "efg": 50.0,
-    "oefg": 58.3,
+    "pf": 9,
+    "pa": 14,
+    "pm": -5,
+    "poss": 6.9,
+    "pF": 7.0,
+    "pA": 6.8,
+    "ortg": 128.6,
+    "drtg": 207.1,
+    "net": -78.5,
+    "efg": 112.5,
+    "oefg": 91.7,
+    "games": 3
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Matyáš Ježek",
+     "Petr Šlechta",
+     "Tadeáš Slowiak"
+    ],
+    "min": 3.3,
+    "pf": 13,
+    "pa": 3,
+    "pm": 10,
+    "poss": 5.7,
+    "pF": 6.3,
+    "pA": 5.0,
+    "ortg": 205.7,
+    "drtg": 60.0,
+    "net": 145.7,
+    "efg": 83.3,
+    "oefg": 30.0,
     "games": 2
    },
    {
@@ -1157,40 +1267,18 @@
      "Mikuláš Čank",
      "Tadeáš Slowiak"
     ],
-    "min": 3.0,
+    "min": 3.1,
     "pf": 7,
-    "pa": 8,
-    "pm": -1,
-    "poss": 7.7,
-    "pF": 7.4,
-    "pA": 7.9,
-    "ortg": 94.1,
-    "drtg": 101.5,
-    "net": -7.4,
+    "pa": 10,
+    "pm": -3,
+    "poss": 8.6,
+    "pF": 8.3,
+    "pA": 8.9,
+    "ortg": 84.1,
+    "drtg": 112.6,
+    "net": -28.5,
     "efg": 33.3,
-    "oefg": 37.5,
-    "games": 1
-   },
-   {
-    "players": [
-     "Jan Karlovský",
-     "Matyáš Ježek",
-     "Mikuláš Čank",
-     "Petr Šlechta",
-     "Tadeáš Slowiak"
-    ],
-    "min": 2.9,
-    "pf": 9,
-    "pa": 13,
-    "pm": -4,
-    "poss": 5.9,
-    "pF": 6.0,
-    "pA": 5.9,
-    "ortg": 150.0,
-    "drtg": 221.1,
-    "net": -71.1,
-    "efg": 112.5,
-    "oefg": 110.0,
+    "oefg": 44.4,
     "games": 2
    },
    {
@@ -1373,22 +1461,60 @@
   "trios": [
    {
     "players": [
+     "Jan Karlovský",
+     "Josef Svoboda",
+     "Martin Svoboda"
+    ],
+    "min": 102.4,
+    "pf": 216,
+    "pa": 222,
+    "pm": -6,
+    "poss": 211.7,
+    "pF": 218.3,
+    "pA": 205.1,
+    "ortg": 99.0,
+    "drtg": 108.2,
+    "net": -9.3,
+    "efg": 50.8,
+    "oefg": 52.3
+   },
+   {
+    "players": [
      "Martin Svoboda",
      "Mikuláš Čank",
      "Petr Šlechta"
     ],
-    "min": 88.2,
-    "pf": 192,
-    "pa": 176,
-    "pm": 16,
-    "poss": 176.5,
-    "pF": 173.4,
-    "pA": 179.6,
-    "ortg": 110.7,
-    "drtg": 98.0,
-    "net": 12.8,
-    "efg": 55.5,
-    "oefg": 49.3
+    "min": 94.7,
+    "pf": 211,
+    "pa": 186,
+    "pm": 25,
+    "poss": 189.8,
+    "pF": 185.9,
+    "pA": 193.7,
+    "ortg": 113.5,
+    "drtg": 96.0,
+    "net": 17.5,
+    "efg": 56.1,
+    "oefg": 47.4
+   },
+   {
+    "players": [
+     "Martin Svoboda",
+     "Mikuláš Čank",
+     "Vojtěch Sýkora"
+    ],
+    "min": 93.0,
+    "pf": 213,
+    "pa": 218,
+    "pm": -5,
+    "poss": 181.8,
+    "pF": 180.8,
+    "pA": 182.8,
+    "ortg": 117.8,
+    "drtg": 119.2,
+    "net": -1.4,
+    "efg": 61.6,
+    "oefg": 56.1
    },
    {
     "players": [
@@ -1396,113 +1522,113 @@
      "Matyáš Ježek",
      "Mikuláš Čank"
     ],
-    "min": 88.1,
-    "pf": 203,
-    "pa": 181,
-    "pm": 22,
-    "poss": 173.7,
-    "pF": 168.0,
-    "pA": 179.4,
-    "ortg": 120.8,
-    "drtg": 100.9,
-    "net": 19.9,
-    "efg": 55.2,
-    "oefg": 51.7
+    "min": 92.8,
+    "pf": 214,
+    "pa": 189,
+    "pm": 25,
+    "poss": 182.0,
+    "pF": 175.8,
+    "pA": 188.3,
+    "ortg": 121.7,
+    "drtg": 100.4,
+    "net": 21.3,
+    "efg": 56.3,
+    "oefg": 50.9
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Vojtěch Sýkora"
+    ],
+    "min": 88.7,
+    "pf": 200,
+    "pa": 190,
+    "pm": 10,
+    "poss": 179.0,
+    "pF": 184.4,
+    "pA": 173.7,
+    "ortg": 108.5,
+    "drtg": 109.4,
+    "net": -0.9,
+    "efg": 52.4,
+    "oefg": 54.1
    },
    {
     "players": [
      "Jan Karlovský",
-     "Josef Svoboda",
-     "Martin Svoboda"
+     "Martin Svoboda",
+     "Mikuláš Čank"
     ],
-    "min": 87.5,
-    "pf": 177,
-    "pa": 178,
+    "min": 88.6,
+    "pf": 207,
+    "pa": 217,
+    "pm": -10,
+    "poss": 190.3,
+    "pF": 193.3,
+    "pA": 187.2,
+    "ortg": 107.1,
+    "drtg": 115.9,
+    "net": -8.8,
+    "efg": 55.2,
+    "oefg": 54.9
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Mikuláš Čank"
+    ],
+    "min": 82.8,
+    "pf": 191,
+    "pa": 192,
     "pm": -1,
-    "poss": 181.9,
-    "pF": 188.6,
-    "pA": 175.2,
-    "ortg": 93.9,
-    "drtg": 101.6,
-    "net": -7.8,
-    "efg": 47.7,
+    "poss": 172.4,
+    "pF": 171.0,
+    "pA": 173.8,
+    "ortg": 111.7,
+    "drtg": 110.5,
+    "net": 1.2,
+    "efg": 53.4,
     "oefg": 51.4
    },
    {
     "players": [
      "Jan Karlovský",
      "Martin Svoboda",
-     "Mikuláš Čank"
-    ],
-    "min": 78.1,
-    "pf": 183,
-    "pa": 178,
-    "pm": 5,
-    "poss": 166.9,
-    "pF": 170.6,
-    "pA": 163.3,
-    "ortg": 107.3,
-    "drtg": 109.0,
-    "net": -1.7,
-    "efg": 54.7,
-    "oefg": 53.5
-   },
-   {
-    "players": [
-     "Martin Svoboda",
-     "Mikuláš Čank",
      "Vojtěch Sýkora"
     ],
-    "min": 77.0,
-    "pf": 172,
-    "pa": 171,
-    "pm": 1,
-    "poss": 147.6,
-    "pF": 148.4,
-    "pA": 146.8,
-    "ortg": 115.9,
-    "drtg": 116.5,
-    "net": -0.6,
-    "efg": 60.7,
-    "oefg": 57.6
+    "min": 80.2,
+    "pf": 170,
+    "pa": 174,
+    "pm": -4,
+    "poss": 162.2,
+    "pF": 168.4,
+    "pA": 156.0,
+    "ortg": 101.0,
+    "drtg": 111.5,
+    "net": -10.6,
+    "efg": 53.4,
+    "oefg": 56.7
    },
    {
     "players": [
+     "Jan Karlovský",
      "Josef Svoboda",
-     "Martin Svoboda",
      "Mikuláš Čank"
     ],
-    "min": 72.3,
-    "pf": 164,
-    "pa": 155,
-    "pm": 9,
-    "poss": 147.5,
-    "pF": 146.4,
-    "pA": 148.6,
-    "ortg": 112.0,
-    "drtg": 104.3,
-    "net": 7.7,
-    "efg": 53.5,
-    "oefg": 50.8
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Martin Svoboda",
-     "Vojtěch Sýkora"
-    ],
-    "min": 71.8,
-    "pf": 150,
-    "pa": 141,
-    "pm": 9,
-    "poss": 141.9,
-    "pF": 148.1,
-    "pA": 135.6,
-    "ortg": 101.3,
-    "drtg": 104.0,
-    "net": -2.7,
-    "efg": 48.7,
-    "oefg": 55.5
+    "min": 75.7,
+    "pf": 191,
+    "pa": 188,
+    "pm": 3,
+    "poss": 164.9,
+    "pF": 170.7,
+    "pA": 159.2,
+    "ortg": 111.9,
+    "drtg": 118.1,
+    "net": -6.2,
+    "efg": 55.7,
+    "oefg": 54.5
    },
    {
     "players": [
@@ -1510,37 +1636,18 @@
      "Matyáš Ježek",
      "Vojtěch Sýkora"
     ],
-    "min": 68.3,
-    "pf": 161,
-    "pa": 150,
-    "pm": 11,
-    "poss": 133.3,
-    "pF": 133.8,
-    "pA": 132.9,
-    "ortg": 120.3,
-    "drtg": 112.9,
-    "net": 7.4,
-    "efg": 59.9,
-    "oefg": 57.8
-   },
-   {
-    "players": [
-     "Martin Svoboda",
-     "Matyáš Ježek",
-     "Petr Šlechta"
-    ],
-    "min": 66.0,
-    "pf": 155,
-    "pa": 130,
-    "pm": 25,
-    "poss": 131.2,
-    "pF": 126.0,
-    "pA": 136.3,
-    "ortg": 123.0,
-    "drtg": 95.4,
-    "net": 27.7,
-    "efg": 58.7,
-    "oefg": 47.4
+    "min": 75.5,
+    "pf": 180,
+    "pa": 159,
+    "pm": 21,
+    "poss": 146.1,
+    "pF": 145.6,
+    "pA": 146.6,
+    "ortg": 123.7,
+    "drtg": 108.4,
+    "net": 15.2,
+    "efg": 60.6,
+    "oefg": 54.7
    },
    {
     "players": [
@@ -1548,18 +1655,56 @@
      "Petr Šlechta",
      "Vojtěch Sýkora"
     ],
-    "min": 65.8,
-    "pf": 144,
-    "pa": 142,
-    "pm": 2,
-    "poss": 127.3,
-    "pF": 129.0,
-    "pA": 125.7,
-    "ortg": 111.7,
-    "drtg": 112.9,
-    "net": -1.3,
-    "efg": 57.5,
-    "oefg": 56.7
+    "min": 74.1,
+    "pf": 166,
+    "pa": 154,
+    "pm": 12,
+    "poss": 144.0,
+    "pF": 145.2,
+    "pA": 142.8,
+    "ortg": 114.3,
+    "drtg": 107.8,
+    "net": 6.5,
+    "efg": 57.7,
+    "oefg": 53.0
+   },
+   {
+    "players": [
+     "Martin Svoboda",
+     "Matyáš Ježek",
+     "Petr Šlechta"
+    ],
+    "min": 71.9,
+    "pf": 168,
+    "pa": 136,
+    "pm": 32,
+    "poss": 140.0,
+    "pF": 134.9,
+    "pA": 145.2,
+    "ortg": 124.6,
+    "drtg": 93.7,
+    "net": 30.9,
+    "efg": 59.3,
+    "oefg": 45.9
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Josef Svoboda",
+     "Vojtěch Sýkora"
+    ],
+    "min": 65.9,
+    "pf": 142,
+    "pa": 144,
+    "pm": -2,
+    "poss": 137.9,
+    "pF": 143.2,
+    "pA": 132.5,
+    "ortg": 99.1,
+    "drtg": 108.7,
+    "net": -9.5,
+    "efg": 49.6,
+    "oefg": 54.6
    },
    {
     "players": [
@@ -1583,21 +1728,21 @@
    {
     "players": [
      "Jan Karlovský",
-     "Martin Svoboda",
-     "Vojtěch Sýkora"
+     "Josef Svoboda",
+     "Tadeáš Slowiak"
     ],
-    "min": 64.4,
-    "pf": 128,
-    "pa": 126,
-    "pm": 2,
-    "poss": 129.5,
-    "pF": 136.0,
-    "pA": 123.0,
-    "ortg": 94.1,
-    "drtg": 102.4,
-    "net": -8.3,
-    "efg": 49.1,
-    "oefg": 56.5
+    "min": 64.8,
+    "pf": 172,
+    "pa": 144,
+    "pm": 28,
+    "poss": 137.2,
+    "pF": 143.2,
+    "pA": 131.1,
+    "ortg": 120.1,
+    "drtg": 109.8,
+    "net": 10.3,
+    "efg": 60.6,
+    "oefg": 53.7
    },
    {
     "players": [
@@ -1620,22 +1765,60 @@
    },
    {
     "players": [
-     "Jan Karlovský",
      "Josef Svoboda",
-     "Mikuláš Čank"
+     "Martin Svoboda",
+     "Tadeáš Slowiak"
     ],
-    "min": 60.9,
-    "pf": 152,
-    "pa": 138,
-    "pm": 14,
-    "poss": 131.5,
-    "pF": 137.9,
-    "pA": 125.2,
-    "ortg": 110.2,
-    "drtg": 110.2,
-    "net": 0.0,
-    "efg": 54.8,
-    "oefg": 52.7
+    "min": 62.6,
+    "pf": 151,
+    "pa": 132,
+    "pm": 19,
+    "poss": 128.4,
+    "pF": 126.1,
+    "pA": 130.6,
+    "ortg": 119.7,
+    "drtg": 101.0,
+    "net": 18.7,
+    "efg": 58.6,
+    "oefg": 47.9
+   },
+   {
+    "players": [
+     "Matyáš Ježek",
+     "Mikuláš Čank",
+     "Petr Šlechta"
+    ],
+    "min": 61.2,
+    "pf": 135,
+    "pa": 124,
+    "pm": 11,
+    "poss": 118.0,
+    "pF": 115.0,
+    "pA": 121.0,
+    "ortg": 117.4,
+    "drtg": 102.4,
+    "net": 14.9,
+    "efg": 57.3,
+    "oefg": 51.9
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Matyáš Ježek"
+    ],
+    "min": 59.3,
+    "pf": 151,
+    "pa": 119,
+    "pm": 32,
+    "poss": 117.9,
+    "pF": 115.9,
+    "pA": 119.8,
+    "ortg": 130.3,
+    "drtg": 99.3,
+    "net": 31.0,
+    "efg": 57.7,
+    "oefg": 50.5
    },
    {
     "players": [
@@ -1662,56 +1845,37 @@
      "Martin Svoboda",
      "Petr Šlechta"
     ],
-    "min": 55.9,
-    "pf": 125,
-    "pa": 121,
-    "pm": 4,
-    "poss": 113.6,
-    "pF": 117.4,
-    "pA": 109.8,
-    "ortg": 106.4,
-    "drtg": 110.2,
-    "net": -3.8,
-    "efg": 57.4,
-    "oefg": 54.7
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Martin Svoboda",
-     "Matyáš Ježek"
-    ],
-    "min": 55.5,
-    "pf": 141,
-    "pa": 116,
-    "pm": 25,
-    "poss": 111.0,
-    "pF": 109.0,
-    "pA": 113.0,
-    "ortg": 129.4,
-    "drtg": 102.7,
-    "net": 26.7,
-    "efg": 59.1,
-    "oefg": 52.8
+    "min": 57.6,
+    "pf": 128,
+    "pa": 123,
+    "pm": 5,
+    "poss": 117.0,
+    "pF": 121.2,
+    "pA": 112.8,
+    "ortg": 105.6,
+    "drtg": 109.0,
+    "net": -3.4,
+    "efg": 56.8,
+    "oefg": 54.0
    },
    {
     "players": [
      "Matyáš Ježek",
      "Mikuláš Čank",
-     "Petr Šlechta"
+     "Vojtěch Sýkora"
     ],
-    "min": 55.4,
-    "pf": 122,
-    "pa": 114,
-    "pm": 8,
-    "poss": 108.8,
-    "pF": 106.3,
-    "pA": 111.3,
-    "ortg": 114.8,
-    "drtg": 102.4,
-    "net": 12.3,
-    "efg": 56.2,
-    "oefg": 53.1
+    "min": 55.3,
+    "pf": 130,
+    "pa": 116,
+    "pm": 14,
+    "poss": 103.9,
+    "pF": 103.2,
+    "pA": 104.6,
+    "ortg": 126.0,
+    "drtg": 110.9,
+    "net": 15.1,
+    "efg": 62.9,
+    "oefg": 55.9
    },
    {
     "players": [
@@ -1753,41 +1917,41 @@
    },
    {
     "players": [
-     "Jan Karlovský",
-     "Josef Svoboda",
-     "Tadeáš Slowiak"
+     "Mikuláš Čank",
+     "Petr Šlechta",
+     "Vojtěch Sýkora"
     ],
-    "min": 53.3,
-    "pf": 135,
-    "pa": 117,
-    "pm": 18,
-    "poss": 114.8,
-    "pF": 119.9,
-    "pA": 109.8,
-    "ortg": 112.6,
-    "drtg": 106.6,
-    "net": 6.1,
-    "efg": 57.8,
-    "oefg": 54.1
+    "min": 53.5,
+    "pf": 125,
+    "pa": 115,
+    "pm": 10,
+    "poss": 103.0,
+    "pF": 103.8,
+    "pA": 102.2,
+    "ortg": 120.4,
+    "drtg": 112.6,
+    "net": 7.9,
+    "efg": 58.8,
+    "oefg": 52.9
    },
    {
     "players": [
-     "Josef Svoboda",
+     "Jan Karlovský",
      "Martin Svoboda",
      "Tadeáš Slowiak"
     ],
-    "min": 53.2,
-    "pf": 125,
-    "pa": 124,
-    "pm": 1,
-    "poss": 113.1,
-    "pF": 110.4,
-    "pA": 115.8,
-    "ortg": 113.3,
-    "drtg": 107.1,
-    "net": 6.1,
-    "efg": 58.9,
-    "oefg": 52.0
+    "min": 52.3,
+    "pf": 126,
+    "pa": 101,
+    "pm": 25,
+    "poss": 110.0,
+    "pF": 113.4,
+    "pA": 106.6,
+    "ortg": 111.2,
+    "drtg": 94.8,
+    "net": 16.4,
+    "efg": 55.8,
+    "oefg": 43.5
    },
    {
     "players": [
@@ -1795,18 +1959,18 @@
      "Mikuláš Čank",
      "Petr Šlechta"
     ],
-    "min": 51.8,
+    "min": 52.2,
     "pf": 127,
-    "pa": 123,
-    "pm": 4,
-    "poss": 110.3,
-    "pF": 114.9,
-    "pA": 105.7,
-    "ortg": 110.5,
+    "pa": 124,
+    "pm": 3,
+    "poss": 111.2,
+    "pF": 115.9,
+    "pA": 106.6,
+    "ortg": 109.6,
     "drtg": 116.4,
-    "net": -5.9,
+    "net": -6.8,
     "efg": 57.9,
-    "oefg": 54.6
+    "oefg": 54.0
    },
    {
     "players": [
@@ -1830,135 +1994,211 @@
    {
     "players": [
      "Jan Karlovský",
-     "Josef Svoboda",
+     "Mikuláš Čank",
      "Vojtěch Sýkora"
     ],
     "min": 48.0,
-    "pf": 93,
-    "pa": 87,
-    "pm": 6,
-    "poss": 98.7,
-    "pF": 105.2,
-    "pA": 92.2,
-    "ortg": 88.4,
-    "drtg": 94.3,
-    "net": -5.9,
-    "efg": 41.4,
-    "oefg": 52.9
+    "pf": 100,
+    "pa": 122,
+    "pm": -22,
+    "poss": 98.6,
+    "pF": 100.5,
+    "pA": 96.6,
+    "ortg": 99.5,
+    "drtg": 126.3,
+    "net": -26.8,
+    "efg": 56.4,
+    "oefg": 57.8
    },
    {
     "players": [
+     "Jan Karlovský",
      "Mikuláš Čank",
+     "Tadeáš Slowiak"
+    ],
+    "min": 47.0,
+    "pf": 136,
+    "pa": 123,
+    "pm": 13,
+    "poss": 101.6,
+    "pF": 103.3,
+    "pA": 99.9,
+    "ortg": 131.7,
+    "drtg": 123.1,
+    "net": 8.6,
+    "efg": 63.7,
+    "oefg": 57.7
+   },
+   {
+    "players": [
+     "Martin Svoboda",
+     "Mikuláš Čank",
+     "Tadeáš Slowiak"
+    ],
+    "min": 45.6,
+    "pf": 111,
+    "pa": 99,
+    "pm": 12,
+    "poss": 98.1,
+    "pF": 93.3,
+    "pA": 102.9,
+    "ortg": 119.0,
+    "drtg": 96.2,
+    "net": 22.8,
+    "efg": 53.2,
+    "oefg": 47.7
+   },
+   {
+    "players": [
+     "Martin Svoboda",
+     "Matyáš Ježek",
+     "Tadeáš Slowiak"
+    ],
+    "min": 45.0,
+    "pf": 98,
+    "pa": 104,
+    "pm": -6,
+    "poss": 98.9,
+    "pF": 95.6,
+    "pA": 102.2,
+    "ortg": 102.6,
+    "drtg": 101.8,
+    "net": 0.8,
+    "efg": 43.5,
+    "oefg": 47.7
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Matyáš Ježek",
+     "Vojtěch Sýkora"
+    ],
+    "min": 44.1,
+    "pf": 108,
+    "pa": 94,
+    "pm": 14,
+    "poss": 91.1,
+    "pF": 91.4,
+    "pA": 90.9,
+    "ortg": 118.2,
+    "drtg": 103.4,
+    "net": 14.8,
+    "efg": 57.6,
+    "oefg": 54.2
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Mikuláš Čank",
+     "Vojtěch Sýkora"
+    ],
+    "min": 43.9,
+    "pf": 104,
+    "pa": 114,
+    "pm": -10,
+    "poss": 90.0,
+    "pF": 90.8,
+    "pA": 89.2,
+    "ortg": 114.5,
+    "drtg": 127.8,
+    "net": -13.3,
+    "efg": 57.9,
+    "oefg": 57.9
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Matyáš Ježek",
+     "Tadeáš Slowiak"
+    ],
+    "min": 40.2,
+    "pf": 93,
+    "pa": 111,
+    "pm": -18,
+    "poss": 89.4,
+    "pF": 89.4,
+    "pA": 89.4,
+    "ortg": 104.0,
+    "drtg": 124.1,
+    "net": -20.1,
+    "efg": 50.0,
+    "oefg": 57.7
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Matyáš Ježek",
+     "Tadeáš Slowiak"
+    ],
+    "min": 40.1,
+    "pf": 91,
+    "pa": 93,
+    "pm": -2,
+    "poss": 85.6,
+    "pF": 84.0,
+    "pA": 87.1,
+    "ortg": 108.3,
+    "drtg": 106.7,
+    "net": 1.6,
+    "efg": 48.6,
+    "oefg": 52.6
+   },
+   {
+    "players": [
+     "Jakub Zvolánek",
+     "Josef Svoboda",
+     "Martin Svoboda"
+    ],
+    "min": 39.4,
+    "pf": 85,
+    "pa": 69,
+    "pm": 16,
+    "poss": 77.2,
+    "pF": 79.0,
+    "pA": 75.5,
+    "ortg": 107.6,
+    "drtg": 91.4,
+    "net": 16.2,
+    "efg": 47.9,
+    "oefg": 46.0
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Matyáš Ježek",
+     "Mikuláš Čank"
+    ],
+    "min": 38.9,
+    "pf": 99,
+    "pa": 96,
+    "pm": 3,
+    "poss": 83.1,
+    "pF": 80.5,
+    "pA": 85.8,
+    "ortg": 123.0,
+    "drtg": 111.9,
+    "net": 11.1,
+    "efg": 56.8,
+    "oefg": 56.9
+   },
+   {
+    "players": [
+     "Matyáš Ježek",
      "Petr Šlechta",
      "Vojtěch Sýkora"
     ],
-    "min": 46.2,
-    "pf": 104,
-    "pa": 102,
-    "pm": 2,
-    "poss": 88.7,
-    "pF": 90.4,
-    "pA": 87.1,
-    "ortg": 115.0,
-    "drtg": 117.1,
-    "net": -2.1,
-    "efg": 58.7,
-    "oefg": 56.0
-   },
-   {
-    "players": [
-     "Matyáš Ježek",
-     "Mikuláš Čank",
-     "Vojtěch Sýkora"
-    ],
-    "min": 46.0,
-    "pf": 109,
-    "pa": 100,
-    "pm": 9,
-    "poss": 86.2,
-    "pF": 87.6,
-    "pA": 84.7,
-    "ortg": 124.4,
-    "drtg": 118.0,
-    "net": 6.3,
-    "efg": 63.9,
-    "oefg": 60.0
-   },
-   {
-    "players": [
-     "Jan Karlovský",
-     "Martin Svoboda",
-     "Tadeáš Slowiak"
-    ],
-    "min": 43.2,
-    "pf": 102,
-    "pa": 88,
-    "pm": 14,
-    "poss": 93.8,
-    "pF": 97.0,
-    "pA": 90.6,
-    "ortg": 105.2,
-    "drtg": 97.2,
-    "net": 8.0,
-    "efg": 54.2,
-    "oefg": 45.1
-   },
-   {
-    "players": [
-     "Martin Svoboda",
-     "Mikuláš Čank",
-     "Tadeáš Slowiak"
-    ],
-    "min": 42.9,
-    "pf": 104,
-    "pa": 93,
-    "pm": 11,
-    "poss": 92.2,
-    "pF": 87.5,
-    "pA": 96.9,
-    "ortg": 118.8,
-    "drtg": 96.0,
-    "net": 22.8,
-    "efg": 53.4,
-    "oefg": 47.5
-   },
-   {
-    "players": [
-     "Martin Svoboda",
-     "Matyáš Ježek",
-     "Tadeáš Slowiak"
-    ],
-    "min": 41.0,
-    "pf": 88,
-    "pa": 99,
-    "pm": -11,
-    "poss": 91.0,
-    "pF": 87.8,
-    "pA": 94.3,
-    "ortg": 100.2,
-    "drtg": 105.0,
-    "net": -4.8,
-    "efg": 43.4,
-    "oefg": 49.4
-   },
-   {
-    "players": [
-     "Jan Karlovský",
-     "Mikuláš Čank",
-     "Tadeáš Slowiak"
-    ],
-    "min": 39.2,
-    "pf": 115,
-    "pa": 102,
-    "pm": 13,
-    "poss": 84.8,
-    "pF": 86.6,
-    "pA": 83.0,
-    "ortg": 132.7,
-    "drtg": 122.8,
-    "net": 9.9,
-    "efg": 65.4,
-    "oefg": 58.2
+    "min": 38.1,
+    "pf": 94,
+    "pa": 78,
+    "pm": 16,
+    "poss": 72.2,
+    "pF": 72.1,
+    "pA": 72.3,
+    "ortg": 130.3,
+    "drtg": 107.9,
+    "net": 22.4,
+    "efg": 66.7,
+    "oefg": 53.0
    },
    {
     "players": [
@@ -1981,41 +2221,79 @@
    },
    {
     "players": [
-     "Jakub Zvolánek",
-     "Josef Svoboda",
-     "Martin Svoboda"
+     "Jan Karlovský",
+     "Matyáš Ježek",
+     "Mikuláš Čank"
     ],
-    "min": 36.1,
-    "pf": 76,
-    "pa": 61,
-    "pm": 15,
-    "poss": 70.8,
-    "pF": 73.1,
-    "pA": 68.5,
-    "ortg": 103.9,
-    "drtg": 89.1,
-    "net": 14.9,
-    "efg": 45.5,
-    "oefg": 43.9
+    "min": 36.4,
+    "pf": 89,
+    "pa": 115,
+    "pm": -26,
+    "poss": 80.4,
+    "pF": 80.3,
+    "pA": 80.5,
+    "ortg": 110.8,
+    "drtg": 142.9,
+    "net": -32.1,
+    "efg": 53.8,
+    "oefg": 64.6
+   },
+   {
+    "players": [
+     "Jakub Zvolánek",
+     "Jan Karlovský",
+     "Josef Svoboda"
+    ],
+    "min": 35.5,
+    "pf": 82,
+    "pa": 66,
+    "pm": 16,
+    "poss": 73.4,
+    "pF": 75.6,
+    "pA": 71.2,
+    "ortg": 108.4,
+    "drtg": 92.7,
+    "net": 15.7,
+    "efg": 51.8,
+    "oefg": 46.0
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Petr Šlechta",
+     "Vojtěch Sýkora"
+    ],
+    "min": 35.5,
+    "pf": 68,
+    "pa": 75,
+    "pm": -7,
+    "poss": 69.7,
+    "pF": 71.4,
+    "pA": 68.0,
+    "ortg": 95.3,
+    "drtg": 110.3,
+    "net": -15.0,
+    "efg": 50.0,
+    "oefg": 59.8
    },
    {
     "players": [
      "Josef Svoboda",
-     "Matyáš Ježek",
-     "Vojtěch Sýkora"
+     "Mikuláš Čank",
+     "Tadeáš Slowiak"
     ],
-    "min": 35.4,
-    "pf": 83,
-    "pa": 73,
-    "pm": 10,
-    "poss": 71.5,
-    "pF": 73.3,
-    "pA": 69.7,
-    "ortg": 113.3,
-    "drtg": 104.8,
-    "net": 8.5,
-    "efg": 58.2,
-    "oefg": 56.5
+    "min": 35.2,
+    "pf": 108,
+    "pa": 82,
+    "pm": 26,
+    "poss": 78.6,
+    "pF": 77.2,
+    "pA": 79.9,
+    "ortg": 139.9,
+    "drtg": 102.6,
+    "net": 37.3,
+    "efg": 70.3,
+    "oefg": 52.9
    },
    {
     "players": [
@@ -2038,41 +2316,60 @@
    },
    {
     "players": [
-     "Jan Karlovský",
+     "Matyáš Ježek",
      "Mikuláš Čank",
-     "Vojtěch Sýkora"
+     "Tadeáš Slowiak"
     ],
     "min": 34.5,
-    "pf": 70,
-    "pa": 78,
-    "pm": -8,
-    "poss": 68.3,
-    "pF": 72.9,
-    "pA": 63.6,
-    "ortg": 96.0,
-    "drtg": 122.6,
-    "net": -26.6,
-    "efg": 55.7,
-    "oefg": 59.8
+    "pf": 82,
+    "pa": 99,
+    "pm": -17,
+    "poss": 75.2,
+    "pF": 71.9,
+    "pA": 78.6,
+    "ortg": 114.0,
+    "drtg": 126.0,
+    "net": -12.0,
+    "efg": 49.3,
+    "oefg": 59.3
    },
    {
     "players": [
-     "Jan Karlovský",
-     "Petr Šlechta",
+     "Josef Svoboda",
+     "Martin Svoboda",
+     "Petr Šlechta"
+    ],
+    "min": 34.4,
+    "pf": 79,
+    "pa": 66,
+    "pm": 13,
+    "poss": 70.6,
+    "pF": 73.1,
+    "pA": 68.2,
+    "ortg": 108.1,
+    "drtg": 96.8,
+    "net": 11.3,
+    "efg": 48.3,
+    "oefg": 39.1
+   },
+   {
+    "players": [
+     "Martin Svoboda",
+     "Tadeáš Slowiak",
      "Vojtěch Sýkora"
     ],
-    "min": 33.9,
-    "pf": 65,
-    "pa": 73,
+    "min": 33.8,
+    "pf": 64,
+    "pa": 72,
     "pm": -8,
-    "poss": 66.3,
-    "pF": 67.6,
-    "pA": 65.0,
-    "ortg": 96.2,
-    "drtg": 112.3,
-    "net": -16.2,
-    "efg": 50.9,
-    "oefg": 61.5
+    "poss": 71.9,
+    "pF": 69.6,
+    "pA": 74.2,
+    "ortg": 92.0,
+    "drtg": 97.0,
+    "net": -5.0,
+    "efg": 45.3,
+    "oefg": 47.6
    },
    {
     "players": [
@@ -2095,155 +2392,60 @@
    },
    {
     "players": [
-     "Matyáš Ježek",
-     "Petr Šlechta",
-     "Vojtěch Sýkora"
+     "Jan Karlovský",
+     "Josef Svoboda",
+     "Matyáš Ježek"
     ],
-    "min": 32.7,
-    "pf": 81,
-    "pa": 69,
-    "pm": 12,
-    "poss": 63.9,
-    "pF": 64.4,
-    "pA": 63.4,
-    "ortg": 125.9,
-    "drtg": 108.8,
-    "net": 17.0,
-    "efg": 66.0,
-    "oefg": 54.3
+    "min": 32.1,
+    "pf": 76,
+    "pa": 78,
+    "pm": -2,
+    "poss": 73.0,
+    "pF": 74.4,
+    "pA": 71.6,
+    "ortg": 102.1,
+    "drtg": 108.9,
+    "net": -6.8,
+    "efg": 49.1,
+    "oefg": 50.8
    },
    {
     "players": [
-     "Jan Karlovský",
-     "Matyáš Ježek",
+     "Martin Svoboda",
+     "Petr Šlechta",
      "Tadeáš Slowiak"
     ],
-    "min": 32.5,
+    "min": 31.0,
     "pf": 71,
-    "pa": 84,
-    "pm": -13,
-    "poss": 71.2,
-    "pF": 71.2,
-    "pA": 71.2,
-    "ortg": 99.7,
-    "drtg": 117.9,
-    "net": -18.2,
-    "efg": 46.0,
-    "oefg": 56.1
+    "pa": 64,
+    "pm": 7,
+    "poss": 66.4,
+    "pF": 65.8,
+    "pA": 67.0,
+    "ortg": 107.9,
+    "drtg": 95.5,
+    "net": 12.4,
+    "efg": 51.9,
+    "oefg": 39.8
    },
    {
     "players": [
      "Jakub Zvolánek",
      "Jan Karlovský",
-     "Josef Svoboda"
+     "Martin Svoboda"
     ],
-    "min": 32.3,
-    "pf": 73,
-    "pa": 58,
-    "pm": 15,
-    "poss": 67.0,
-    "pF": 69.8,
-    "pA": 64.2,
-    "ortg": 104.6,
-    "drtg": 90.4,
-    "net": 14.2,
-    "efg": 49.0,
-    "oefg": 43.8
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Matyáš Ježek",
-     "Mikuláš Čank"
-    ],
-    "min": 32.0,
-    "pf": 77,
-    "pa": 76,
-    "pm": 1,
-    "poss": 67.8,
-    "pF": 65.7,
-    "pA": 69.8,
-    "ortg": 117.2,
-    "drtg": 108.9,
-    "net": 8.3,
-    "efg": 57.0,
-    "oefg": 55.4
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Martin Svoboda",
-     "Petr Šlechta"
-    ],
-    "min": 31.2,
-    "pf": 69,
-    "pa": 62,
-    "pm": 7,
-    "poss": 63.2,
-    "pF": 65.4,
-    "pA": 61.0,
-    "ortg": 105.4,
-    "drtg": 101.6,
-    "net": 3.8,
-    "efg": 50.0,
-    "oefg": 42.2
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Mikuláš Čank",
-     "Tadeáš Slowiak"
-    ],
-    "min": 30.9,
-    "pf": 93,
-    "pa": 70,
-    "pm": 23,
-    "poss": 69.6,
-    "pF": 67.2,
-    "pA": 71.9,
-    "ortg": 138.4,
-    "drtg": 97.3,
-    "net": 41.1,
-    "efg": 73.9,
-    "oefg": 50.8
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Mikuláš Čank",
-     "Vojtěch Sýkora"
-    ],
-    "min": 30.8,
-    "pf": 70,
-    "pa": 69,
-    "pm": 1,
-    "poss": 58.7,
-    "pF": 61.4,
-    "pA": 56.0,
-    "ortg": 113.9,
-    "drtg": 123.1,
-    "net": -9.2,
-    "efg": 60.2,
-    "oefg": 59.6
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Matyáš Ježek",
-     "Tadeáš Slowiak"
-    ],
-    "min": 30.3,
-    "pf": 60,
-    "pa": 68,
-    "pm": -8,
-    "poss": 64.8,
-    "pF": 62.7,
-    "pA": 66.9,
-    "ortg": 95.7,
-    "drtg": 101.6,
-    "net": -5.9,
-    "efg": 43.0,
-    "oefg": 51.7
+    "min": 30.2,
+    "pf": 64,
+    "pa": 67,
+    "pm": -3,
+    "poss": 65.6,
+    "pF": 66.5,
+    "pA": 64.8,
+    "ortg": 96.3,
+    "drtg": 103.4,
+    "net": -7.1,
+    "efg": 47.3,
+    "oefg": 56.0
    },
    {
     "players": [
@@ -2263,25 +2465,6 @@
     "net": 23.0,
     "efg": 60.9,
     "oefg": 56.0
-   },
-   {
-    "players": [
-     "Matyáš Ježek",
-     "Mikuláš Čank",
-     "Tadeáš Slowiak"
-    ],
-    "min": 29.4,
-    "pf": 68,
-    "pa": 82,
-    "pm": -14,
-    "poss": 63.4,
-    "pF": 60.2,
-    "pA": 66.7,
-    "ortg": 113.0,
-    "drtg": 123.0,
-    "net": -9.9,
-    "efg": 47.4,
-    "oefg": 58.8
    },
    {
     "players": [
@@ -2323,44 +2506,6 @@
    },
    {
     "players": [
-     "Jan Karlovský",
-     "Matyáš Ježek",
-     "Mikuláš Čank"
-    ],
-    "min": 28.4,
-    "pf": 68,
-    "pa": 93,
-    "pm": -25,
-    "poss": 61.6,
-    "pF": 62.7,
-    "pA": 60.6,
-    "ortg": 108.5,
-    "drtg": 153.5,
-    "net": -45.0,
-    "efg": 53.0,
-    "oefg": 68.6
-   },
-   {
-    "players": [
-     "Martin Svoboda",
-     "Petr Šlechta",
-     "Tadeáš Slowiak"
-    ],
-    "min": 28.0,
-    "pf": 66,
-    "pa": 62,
-    "pm": 4,
-    "poss": 61.5,
-    "pF": 60.0,
-    "pA": 63.0,
-    "ortg": 109.9,
-    "drtg": 98.4,
-    "net": 11.5,
-    "efg": 54.1,
-    "oefg": 41.0
-   },
-   {
-    "players": [
      "Matyáš Ježek",
      "Matěj Burda",
      "Petr Šlechta"
@@ -2380,22 +2525,22 @@
    },
    {
     "players": [
-     "Jakub Zvolánek",
      "Jan Karlovský",
-     "Martin Svoboda"
+     "Petr Šlechta",
+     "Tadeáš Slowiak"
     ],
-    "min": 26.9,
-    "pf": 55,
-    "pa": 59,
-    "pm": -4,
-    "poss": 59.2,
-    "pF": 60.6,
-    "pA": 57.8,
-    "ortg": 90.8,
-    "drtg": 102.1,
-    "net": -11.3,
-    "efg": 44.1,
-    "oefg": 54.5
+    "min": 27.0,
+    "pf": 65,
+    "pa": 47,
+    "pm": 18,
+    "poss": 52.9,
+    "pF": 54.4,
+    "pA": 51.4,
+    "ortg": 119.6,
+    "drtg": 91.4,
+    "net": 28.1,
+    "efg": 59.5,
+    "oefg": 41.5
    },
    {
     "players": [
@@ -2415,6 +2560,25 @@
     "net": -19.2,
     "efg": 47.6,
     "oefg": 57.8
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Tadeáš Slowiak",
+     "Vojtěch Sýkora"
+    ],
+    "min": 26.3,
+    "pf": 56,
+    "pa": 56,
+    "pm": 0,
+    "poss": 55.6,
+    "pF": 56.7,
+    "pA": 54.6,
+    "ortg": 98.8,
+    "drtg": 102.6,
+    "net": -3.8,
+    "efg": 53.7,
+    "oefg": 51.1
    },
    {
     "players": [
@@ -2456,41 +2620,22 @@
    },
    {
     "players": [
-     "Jan Karlovský",
-     "Petr Šlechta",
-     "Tadeáš Slowiak"
-    ],
-    "min": 24.8,
-    "pf": 62,
-    "pa": 44,
-    "pm": 18,
-    "poss": 48.6,
-    "pF": 49.6,
-    "pA": 47.5,
-    "ortg": 125.0,
-    "drtg": 92.6,
-    "net": 32.4,
-    "efg": 61.0,
-    "oefg": 43.0
-   },
-   {
-    "players": [
-     "Martin Svoboda",
+     "Josef Svoboda",
      "Tadeáš Slowiak",
      "Vojtěch Sýkora"
     ],
     "min": 24.8,
-    "pf": 37,
-    "pa": 60,
-    "pm": -23,
-    "poss": 55.3,
-    "pF": 53.2,
-    "pA": 57.4,
-    "ortg": 69.6,
-    "drtg": 104.6,
-    "net": -35.0,
-    "efg": 37.2,
-    "oefg": 54.5
+    "pf": 51,
+    "pa": 55,
+    "pm": -4,
+    "poss": 54.7,
+    "pF": 55.1,
+    "pA": 54.3,
+    "ortg": 92.5,
+    "drtg": 101.3,
+    "net": -8.8,
+    "efg": 47.5,
+    "oefg": 52.3
    },
    {
     "players": [
@@ -2517,18 +2662,18 @@
      "Martin Svoboda",
      "Matyáš Ježek"
     ],
-    "min": 23.8,
+    "min": 23.9,
     "pf": 60,
-    "pa": 53,
-    "pm": 7,
-    "poss": 52.6,
-    "pF": 53.9,
-    "pA": 51.2,
-    "ortg": 111.3,
-    "drtg": 103.4,
-    "net": 7.8,
+    "pa": 55,
+    "pm": 5,
+    "poss": 53.5,
+    "pF": 54.8,
+    "pA": 52.2,
+    "ortg": 109.5,
+    "drtg": 105.3,
+    "net": 4.2,
     "efg": 52.1,
-    "oefg": 42.7
+    "oefg": 43.9
    },
    {
     "players": [
@@ -2552,21 +2697,40 @@
    {
     "players": [
      "Jan Karlovský",
-     "Josef Svoboda",
-     "Matyáš Ježek"
+     "Matyáš Ježek",
+     "Vojtěch Sýkora"
     ],
-    "min": 23.3,
-    "pf": 48,
-    "pa": 51,
-    "pm": -3,
-    "poss": 52.2,
-    "pF": 54.1,
-    "pA": 50.3,
-    "ortg": 88.7,
-    "drtg": 101.4,
-    "net": -12.7,
-    "efg": 40.8,
-    "oefg": 46.7
+    "min": 22.3,
+    "pf": 50,
+    "pa": 54,
+    "pm": -4,
+    "poss": 50.5,
+    "pF": 50.5,
+    "pA": 50.6,
+    "ortg": 99.0,
+    "drtg": 106.7,
+    "net": -7.7,
+    "efg": 55.7,
+    "oefg": 54.9
+   },
+   {
+    "players": [
+     "Matyáš Ježek",
+     "Tadeáš Slowiak",
+     "Vojtěch Sýkora"
+    ],
+    "min": 22.1,
+    "pf": 51,
+    "pa": 63,
+    "pm": -12,
+    "poss": 51.6,
+    "pF": 49.7,
+    "pA": 53.5,
+    "ortg": 102.6,
+    "drtg": 117.8,
+    "net": -15.2,
+    "efg": 51.2,
+    "oefg": 63.1
    },
    {
     "players": [
@@ -2574,18 +2738,56 @@
      "Petr Šlechta",
      "Tadeáš Slowiak"
     ],
-    "min": 21.6,
+    "min": 22.0,
     "pf": 49,
-    "pa": 44,
-    "pm": 5,
-    "poss": 44.6,
-    "pF": 45.3,
-    "pA": 43.8,
-    "ortg": 108.2,
-    "drtg": 100.4,
-    "net": 7.9,
+    "pa": 45,
+    "pm": 4,
+    "poss": 45.5,
+    "pF": 46.3,
+    "pA": 44.7,
+    "ortg": 105.9,
+    "drtg": 100.6,
+    "net": 5.3,
     "efg": 52.7,
-    "oefg": 52.9
+    "oefg": 51.4
+   },
+   {
+    "players": [
+     "Jakub Zvolánek",
+     "Josef Svoboda",
+     "Vojtěch Sýkora"
+    ],
+    "min": 21.9,
+    "pf": 50,
+    "pa": 31,
+    "pm": 19,
+    "poss": 43.2,
+    "pF": 44.8,
+    "pA": 41.6,
+    "ortg": 111.6,
+    "drtg": 74.4,
+    "net": 37.2,
+    "efg": 47.2,
+    "oefg": 42.9
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Mikuláš Čank",
+     "Petr Šlechta"
+    ],
+    "min": 21.8,
+    "pf": 58,
+    "pa": 43,
+    "pm": 15,
+    "poss": 46.8,
+    "pF": 49.4,
+    "pA": 44.2,
+    "ortg": 117.4,
+    "drtg": 97.4,
+    "net": 20.0,
+    "efg": 48.4,
+    "oefg": 42.3
    },
    {
     "players": [
@@ -2608,6 +2810,25 @@
    },
    {
     "players": [
+     "Jakub Zvolánek",
+     "Martin Svoboda",
+     "Vojtěch Sýkora"
+    ],
+    "min": 20.5,
+    "pf": 38,
+    "pa": 32,
+    "pm": 6,
+    "poss": 40.9,
+    "pF": 41.8,
+    "pA": 40.0,
+    "ortg": 90.8,
+    "drtg": 80.1,
+    "net": 10.7,
+    "efg": 41.2,
+    "oefg": 42.9
+   },
+   {
+    "players": [
      "Jan Karlovský",
      "Matyáš Ježek",
      "Matěj Burda"
@@ -2624,25 +2845,6 @@
     "net": -5.7,
     "efg": 54.4,
     "oefg": 52.8
-   },
-   {
-    "players": [
-     "Jakub Zvolánek",
-     "Josef Svoboda",
-     "Vojtěch Sýkora"
-    ],
-    "min": 20.2,
-    "pf": 44,
-    "pa": 25,
-    "pm": 19,
-    "poss": 39.3,
-    "pF": 40.9,
-    "pA": 37.6,
-    "ortg": 107.5,
-    "drtg": 66.4,
-    "net": 41.1,
-    "efg": 42.6,
-    "oefg": 37.5
    },
    {
     "players": [
@@ -2685,44 +2887,6 @@
    {
     "players": [
      "Josef Svoboda",
-     "Mikuláš Čank",
-     "Petr Šlechta"
-    ],
-    "min": 19.1,
-    "pf": 48,
-    "pa": 36,
-    "pm": 12,
-    "poss": 39.9,
-    "pF": 42.9,
-    "pA": 37.0,
-    "ortg": 111.9,
-    "drtg": 97.4,
-    "net": 14.5,
-    "efg": 51.9,
-    "oefg": 42.9
-   },
-   {
-    "players": [
-     "Jakub Zvolánek",
-     "Martin Svoboda",
-     "Vojtěch Sýkora"
-    ],
-    "min": 18.9,
-    "pf": 32,
-    "pa": 26,
-    "pm": 6,
-    "poss": 37.0,
-    "pF": 38.0,
-    "pA": 36.0,
-    "ortg": 84.3,
-    "drtg": 72.3,
-    "net": 12.0,
-    "efg": 35.9,
-    "oefg": 37.5
-   },
-   {
-    "players": [
-     "Josef Svoboda",
      "Matěj Burda",
      "Vojtěch Sýkora"
     ],
@@ -2757,6 +2921,25 @@
     "net": 83.7,
     "efg": 58.6,
     "oefg": 27.8
+   },
+   {
+    "players": [
+     "Jakub Zvolánek",
+     "Jan Karlovský",
+     "Vojtěch Sýkora"
+    ],
+    "min": 18.5,
+    "pf": 43,
+    "pa": 34,
+    "pm": 9,
+    "poss": 41.6,
+    "pF": 42.6,
+    "pA": 40.5,
+    "ortg": 100.9,
+    "drtg": 83.9,
+    "net": 17.0,
+    "efg": 44.1,
+    "oefg": 48.5
    },
    {
     "players": [
@@ -2817,44 +3000,6 @@
    },
    {
     "players": [
-     "Jakub Zvolánek",
-     "Jan Karlovský",
-     "Vojtěch Sýkora"
-    ],
-    "min": 16.9,
-    "pf": 37,
-    "pa": 28,
-    "pm": 9,
-    "poss": 37.6,
-    "pF": 38.7,
-    "pA": 36.5,
-    "ortg": 95.6,
-    "drtg": 76.7,
-    "net": 18.9,
-    "efg": 39.1,
-    "oefg": 43.3
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Tadeáš Slowiak",
-     "Vojtěch Sýkora"
-    ],
-    "min": 16.6,
-    "pf": 24,
-    "pa": 39,
-    "pm": -15,
-    "poss": 38.5,
-    "pF": 38.9,
-    "pA": 38.1,
-    "ortg": 61.7,
-    "drtg": 102.4,
-    "net": -40.8,
-    "efg": 29.2,
-    "oefg": 60.7
-   },
-   {
-    "players": [
      "Matyáš Ježek",
      "Matěj Burda",
      "Tadeáš Slowiak"
@@ -2871,6 +3016,25 @@
     "net": -49.9,
     "efg": 33.9,
     "oefg": 55.0
+   },
+   {
+    "players": [
+     "Matyáš Ježek",
+     "Petr Šlechta",
+     "Tadeáš Slowiak"
+    ],
+    "min": 16.2,
+    "pf": 39,
+    "pa": 38,
+    "pm": 1,
+    "poss": 34.6,
+    "pF": 33.8,
+    "pA": 35.4,
+    "ortg": 115.2,
+    "drtg": 107.3,
+    "net": 7.9,
+    "efg": 55.4,
+    "oefg": 48.4
    },
    {
     "players": [
@@ -2893,25 +3057,6 @@
    },
    {
     "players": [
-     "Jan Karlovský",
-     "Tadeáš Slowiak",
-     "Vojtěch Sýkora"
-    ],
-    "min": 16.1,
-    "pf": 28,
-    "pa": 35,
-    "pm": -7,
-    "poss": 35.6,
-    "pF": 36.8,
-    "pA": 34.3,
-    "ortg": 76.0,
-    "drtg": 102.1,
-    "net": -26.1,
-    "efg": 42.6,
-    "oefg": 58.7
-   },
-   {
-    "players": [
      "Ondřej Klement",
      "Petr Šlechta",
      "Tadeáš Slowiak"
@@ -2931,41 +3076,22 @@
    },
    {
     "players": [
-     "Matyáš Ježek",
-     "Tadeáš Slowiak",
-     "Vojtěch Sýkora"
+     "Jakub Zvolánek",
+     "Jan Karlovský",
+     "Tadeáš Slowiak"
     ],
     "min": 15.8,
-    "pf": 34,
-    "pa": 48,
-    "pm": -14,
-    "poss": 37.4,
-    "pF": 36.5,
-    "pA": 38.3,
-    "ortg": 93.1,
-    "drtg": 125.4,
-    "net": -32.3,
-    "efg": 48.4,
-    "oefg": 72.4
-   },
-   {
-    "players": [
-     "Jan Karlovský",
-     "Matyáš Ježek",
-     "Vojtěch Sýkora"
-    ],
-    "min": 15.7,
-    "pf": 34,
-    "pa": 37,
-    "pm": -3,
-    "poss": 34.8,
-    "pF": 36.3,
-    "pA": 33.3,
-    "ortg": 93.7,
-    "drtg": 111.2,
-    "net": -17.5,
-    "efg": 54.2,
-    "oefg": 59.6
+    "pf": 43,
+    "pa": 23,
+    "pm": 20,
+    "poss": 34.5,
+    "pF": 35.8,
+    "pA": 33.2,
+    "ortg": 120.0,
+    "drtg": 69.3,
+    "net": 50.7,
+    "efg": 56.5,
+    "oefg": 38.5
    },
    {
     "players": [
@@ -3083,25 +3209,6 @@
    },
    {
     "players": [
-     "Matyáš Ježek",
-     "Petr Šlechta",
-     "Tadeáš Slowiak"
-    ],
-    "min": 14.4,
-    "pf": 37,
-    "pa": 37,
-    "pm": 0,
-    "poss": 32.2,
-    "pF": 30.8,
-    "pA": 33.5,
-    "ortg": 120.0,
-    "drtg": 110.4,
-    "net": 9.6,
-    "efg": 58.0,
-    "oefg": 51.7
-   },
-   {
-    "players": [
      "Jakub Zvolánek",
      "Martin Svoboda",
      "Mikuláš Čank"
@@ -3121,22 +3228,60 @@
    },
    {
     "players": [
-     "Jakub Zvolánek",
-     "Jan Karlovský",
+     "Josef Svoboda",
+     "Petr Šlechta",
+     "Vojtěch Sýkora"
+    ],
+    "min": 14.4,
+    "pf": 37,
+    "pa": 27,
+    "pm": 10,
+    "poss": 30.3,
+    "pF": 32.8,
+    "pA": 27.7,
+    "ortg": 112.8,
+    "drtg": 97.4,
+    "net": 15.4,
+    "efg": 38.9,
+    "oefg": 47.4
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Petr Šlechta",
      "Tadeáš Slowiak"
     ],
     "min": 14.2,
-    "pf": 40,
-    "pa": 21,
-    "pm": 19,
-    "poss": 32.0,
-    "pF": 33.8,
-    "pA": 30.2,
-    "ortg": 118.2,
-    "drtg": 69.5,
-    "net": 48.7,
-    "efg": 57.1,
-    "oefg": 39.1
+    "pf": 41,
+    "pa": 28,
+    "pm": 13,
+    "poss": 30.3,
+    "pF": 31.3,
+    "pA": 29.4,
+    "ortg": 131.1,
+    "drtg": 95.2,
+    "net": 35.8,
+    "efg": 60.0,
+    "oefg": 41.7
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Matyáš Ježek",
+     "Petr Šlechta"
+    ],
+    "min": 14.2,
+    "pf": 36,
+    "pa": 48,
+    "pm": -12,
+    "poss": 31.1,
+    "pF": 30.8,
+    "pA": 31.4,
+    "ortg": 116.7,
+    "drtg": 152.9,
+    "net": -36.1,
+    "efg": 64.6,
+    "oefg": 70.7
    },
    {
     "players": [
@@ -3178,22 +3323,22 @@
    },
    {
     "players": [
-     "Jan Karlovský",
-     "Matyáš Ježek",
-     "Petr Šlechta"
+     "Jakub Zvolánek",
+     "Martin Svoboda",
+     "Tadeáš Slowiak"
     ],
     "min": 13.7,
-    "pf": 36,
-    "pa": 47,
-    "pm": -11,
-    "poss": 30.2,
-    "pF": 29.8,
-    "pA": 30.5,
-    "ortg": 120.6,
-    "drtg": 154.0,
-    "net": -33.4,
-    "efg": 64.6,
-    "oefg": 73.2
+    "pf": 28,
+    "pa": 19,
+    "pm": 9,
+    "poss": 27.3,
+    "pF": 27.1,
+    "pA": 27.5,
+    "ortg": 103.4,
+    "drtg": 69.0,
+    "net": 34.4,
+    "efg": 44.0,
+    "oefg": 30.0
    },
    {
     "players": [
@@ -3254,25 +3399,6 @@
    },
    {
     "players": [
-     "Josef Svoboda",
-     "Petr Šlechta",
-     "Tadeáš Slowiak"
-    ],
-    "min": 12.9,
-    "pf": 39,
-    "pa": 28,
-    "pm": 11,
-    "poss": 28.8,
-    "pF": 29.3,
-    "pA": 28.4,
-    "ortg": 133.2,
-    "drtg": 98.6,
-    "net": 34.6,
-    "efg": 63.6,
-    "oefg": 43.5
-   },
-   {
-    "players": [
      "Jan Karlovský",
      "Mikuláš Čank",
      "Ondřej Klement"
@@ -3308,44 +3434,6 @@
     "net": 13.9,
     "efg": 48.0,
     "oefg": 52.6
-   },
-   {
-    "players": [
-     "Jakub Zvolánek",
-     "Martin Svoboda",
-     "Tadeáš Slowiak"
-    ],
-    "min": 12.1,
-    "pf": 25,
-    "pa": 17,
-    "pm": 8,
-    "poss": 24.8,
-    "pF": 25.1,
-    "pA": 24.5,
-    "ortg": 99.7,
-    "drtg": 69.3,
-    "net": 30.3,
-    "efg": 43.2,
-    "oefg": 29.5
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Petr Šlechta",
-     "Vojtěch Sýkora"
-    ],
-    "min": 11.8,
-    "pf": 27,
-    "pa": 20,
-    "pm": 7,
-    "poss": 23.4,
-    "pF": 26.3,
-    "pA": 20.5,
-    "ortg": 102.7,
-    "drtg": 97.5,
-    "net": 5.3,
-    "efg": 40.9,
-    "oefg": 50.0
    },
    {
     "players": [
@@ -3403,6 +3491,25 @@
     "net": 26.4,
     "efg": 61.1,
     "oefg": 44.4
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Matyáš Ježek",
+     "Petr Šlechta"
+    ],
+    "min": 11.2,
+    "pf": 35,
+    "pa": 20,
+    "pm": 15,
+    "poss": 22.8,
+    "pF": 21.2,
+    "pA": 24.4,
+    "ortg": 165.4,
+    "drtg": 82.0,
+    "net": 83.4,
+    "efg": 73.5,
+    "oefg": 38.9
    },
    {
     "players": [
@@ -3615,25 +3722,6 @@
    },
    {
     "players": [
-     "Josef Svoboda",
-     "Matyáš Ježek",
-     "Petr Šlechta"
-    ],
-    "min": 9.3,
-    "pf": 31,
-    "pa": 17,
-    "pm": 14,
-    "poss": 20.3,
-    "pF": 18.3,
-    "pA": 22.4,
-    "ortg": 169.6,
-    "drtg": 75.9,
-    "net": 93.7,
-    "efg": 88.5,
-    "oefg": 34.4
-   },
-   {
-    "players": [
      "Jakub Zvolánek",
      "Josef Svoboda",
      "Petr Šlechta"
@@ -3748,6 +3836,25 @@
    },
    {
     "players": [
+     "Mikuláš Čank",
+     "Tadeáš Slowiak",
+     "Vojtěch Sýkora"
+    ],
+    "min": 8.2,
+    "pf": 16,
+    "pa": 22,
+    "pm": -6,
+    "poss": 17.1,
+    "pF": 14.1,
+    "pA": 20.2,
+    "ortg": 113.6,
+    "drtg": 108.9,
+    "net": 4.7,
+    "efg": 50.0,
+    "oefg": 63.3
+   },
+   {
+    "players": [
      "Josef Svoboda",
      "Mikuláš Čank",
      "Ondřej Klement"
@@ -3840,6 +3947,25 @@
     "net": -61.1,
     "efg": 16.7,
     "oefg": 46.4
+   },
+   {
+    "players": [
+     "Jakub Zvolánek",
+     "Josef Svoboda",
+     "Tadeáš Slowiak"
+    ],
+    "min": 6.9,
+    "pf": 18,
+    "pa": 8,
+    "pm": 10,
+    "poss": 12.5,
+    "pF": 13.2,
+    "pA": 11.9,
+    "ortg": 136.4,
+    "drtg": 67.3,
+    "net": 69.0,
+    "efg": 65.0,
+    "oefg": 29.2
    },
    {
     "players": [
@@ -4128,25 +4254,6 @@
    },
    {
     "players": [
-     "Mikuláš Čank",
-     "Tadeáš Slowiak",
-     "Vojtěch Sýkora"
-    ],
-    "min": 5.3,
-    "pf": 10,
-    "pa": 16,
-    "pm": -6,
-    "poss": 11.3,
-    "pF": 9.3,
-    "pA": 13.2,
-    "ortg": 107.3,
-    "drtg": 121.2,
-    "net": -13.9,
-    "efg": 50.0,
-    "oefg": 81.2
-   },
-   {
-    "players": [
      "Jakub Zvolánek",
      "Jan Karlovský",
      "Matěj Burda"
@@ -4166,6 +4273,25 @@
    },
    {
     "players": [
+     "Petr Šlechta",
+     "Tadeáš Slowiak",
+     "Vojtěch Sýkora"
+    ],
+    "min": 5.2,
+    "pf": 5,
+    "pa": 9,
+    "pm": -4,
+    "poss": 10.2,
+    "pF": 8.8,
+    "pA": 11.6,
+    "ortg": 57.1,
+    "drtg": 77.3,
+    "net": -20.2,
+    "efg": 20.0,
+    "oefg": 31.2
+   },
+   {
+    "players": [
      "Matyáš Ježek",
      "Ondřej Klement",
      "Vojtěch Sýkora"
@@ -4182,25 +4308,6 @@
     "net": 74.8,
     "efg": 80.0,
     "oefg": 33.3
-   },
-   {
-    "players": [
-     "Jakub Zvolánek",
-     "Josef Svoboda",
-     "Tadeáš Slowiak"
-    ],
-    "min": 5.2,
-    "pf": 15,
-    "pa": 6,
-    "pm": 9,
-    "poss": 10.0,
-    "pF": 11.2,
-    "pA": 8.9,
-    "ortg": 133.9,
-    "drtg": 67.6,
-    "net": 66.4,
-    "efg": 71.4,
-    "oefg": 27.8
    },
    {
     "players": [
@@ -4285,17 +4392,17 @@
      "Martin Svoboda",
      "Mikuláš Čank"
     ],
-    "min": 175.9,
-    "pf": 394,
-    "pa": 372,
-    "pm": 22,
-    "poss": 356.2,
-    "pF": 350.4,
-    "pA": 362.0,
-    "ortg": 112.4,
-    "drtg": 102.8,
-    "net": 9.7,
-    "efg": 54.0,
+    "min": 193.0,
+    "pf": 437,
+    "pa": 421,
+    "pm": 16,
+    "poss": 392.8,
+    "pF": 385.7,
+    "pA": 400.0,
+    "ortg": 113.3,
+    "drtg": 105.2,
+    "net": 8.1,
+    "efg": 54.6,
     "oefg": 50.5
    },
    {
@@ -4303,108 +4410,126 @@
      "Josef Svoboda",
      "Martin Svoboda"
     ],
-    "min": 161.3,
-    "pf": 351,
-    "pa": 338,
-    "pm": 13,
-    "poss": 330.1,
-    "pF": 333.7,
-    "pA": 326.4,
-    "ortg": 105.2,
-    "drtg": 103.6,
-    "net": 1.6,
-    "efg": 50.4,
-    "oefg": 50.9
-   },
-   {
-    "players": [
-     "Jan Karlovský",
-     "Martin Svoboda"
-    ],
-    "min": 147.8,
-    "pf": 322,
-    "pa": 308,
-    "pm": 14,
-    "poss": 309.4,
-    "pF": 319.1,
-    "pA": 299.7,
-    "ortg": 100.9,
-    "drtg": 102.8,
-    "net": -1.9,
-    "efg": 51.5,
-    "oefg": 51.0
+    "min": 182.0,
+    "pf": 408,
+    "pa": 389,
+    "pm": 19,
+    "poss": 372.7,
+    "pF": 376.0,
+    "pA": 369.4,
+    "ortg": 108.5,
+    "drtg": 105.3,
+    "net": 3.2,
+    "efg": 51.6,
+    "oefg": 50.3
    },
    {
     "players": [
      "Martin Svoboda",
      "Vojtěch Sýkora"
     ],
-    "min": 145.1,
-    "pf": 307,
-    "pa": 300,
-    "pm": 7,
-    "poss": 286.6,
-    "pF": 291.3,
-    "pA": 282.0,
-    "ortg": 105.4,
-    "drtg": 106.4,
-    "net": -1.0,
-    "efg": 53.2,
-    "oefg": 54.9
+    "min": 170.1,
+    "pf": 376,
+    "pa": 361,
+    "pm": 15,
+    "poss": 338.0,
+    "pF": 341.0,
+    "pA": 334.9,
+    "ortg": 110.3,
+    "drtg": 107.8,
+    "net": 2.5,
+    "efg": 55.4,
+    "oefg": 53.4
    },
    {
     "players": [
-     "Martin Svoboda",
-     "Matyáš Ježek"
+     "Jan Karlovský",
+     "Martin Svoboda"
     ],
-    "min": 140.4,
-    "pf": 332,
-    "pa": 294,
-    "pm": 38,
-    "poss": 282.7,
-    "pF": 276.9,
-    "pA": 288.6,
-    "ortg": 119.9,
-    "drtg": 101.9,
-    "net": 18.0,
-    "efg": 54.6,
-    "oefg": 50.6
-   },
-   {
-    "players": [
-     "Martin Svoboda",
-     "Petr Šlechta"
-    ],
-    "min": 136.1,
-    "pf": 308,
-    "pa": 283,
-    "pm": 25,
-    "poss": 274.6,
-    "pF": 272.3,
-    "pA": 276.9,
-    "ortg": 113.1,
-    "drtg": 102.2,
-    "net": 10.9,
-    "efg": 56.1,
-    "oefg": 48.9
+    "min": 166.2,
+    "pf": 369,
+    "pa": 360,
+    "pm": 9,
+    "poss": 347.0,
+    "pF": 356.3,
+    "pA": 337.6,
+    "ortg": 103.6,
+    "drtg": 106.6,
+    "net": -3.1,
+    "efg": 53.1,
+    "oefg": 51.6
    },
    {
     "players": [
      "Jan Karlovský",
      "Josef Svoboda"
     ],
-    "min": 133.5,
-    "pf": 297,
-    "pa": 263,
-    "pm": 34,
-    "poss": 278.3,
-    "pF": 292.4,
-    "pA": 264.2,
-    "ortg": 101.6,
-    "drtg": 99.5,
-    "net": 2.0,
-    "efg": 49.3,
-    "oefg": 49.8
+    "min": 157.3,
+    "pf": 364,
+    "pa": 334,
+    "pm": 30,
+    "poss": 329.0,
+    "pF": 342.5,
+    "pA": 315.5,
+    "ortg": 106.3,
+    "drtg": 105.9,
+    "net": 0.4,
+    "efg": 52.4,
+    "oefg": 51.3
+   },
+   {
+    "players": [
+     "Martin Svoboda",
+     "Matyáš Ježek"
+    ],
+    "min": 149.1,
+    "pf": 353,
+    "pa": 305,
+    "pm": 48,
+    "poss": 297.9,
+    "pF": 291.5,
+    "pA": 304.3,
+    "ortg": 121.1,
+    "drtg": 100.2,
+    "net": 20.9,
+    "efg": 54.9,
+    "oefg": 49.4
+   },
+   {
+    "players": [
+     "Martin Svoboda",
+     "Petr Šlechta"
+    ],
+    "min": 145.7,
+    "pf": 332,
+    "pa": 295,
+    "pm": 37,
+    "poss": 292.8,
+    "pF": 290.6,
+    "pA": 295.0,
+    "ortg": 114.3,
+    "drtg": 100.0,
+    "net": 14.3,
+    "efg": 55.9,
+    "oefg": 47.3
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Mikuláš Čank"
+    ],
+    "min": 137.6,
+    "pf": 333,
+    "pa": 346,
+    "pm": -13,
+    "poss": 293.6,
+    "pF": 300.6,
+    "pA": 286.5,
+    "ortg": 110.8,
+    "drtg": 120.8,
+    "net": -10.0,
+    "efg": 55.8,
+    "oefg": 55.9
    },
    {
     "players": [
@@ -4426,129 +4551,219 @@
    },
    {
     "players": [
-     "Jan Karlovský",
+     "Matyáš Ježek",
      "Mikuláš Čank"
     ],
-    "min": 119.3,
+    "min": 123.1,
     "pf": 288,
-    "pa": 287,
-    "pm": 1,
-    "poss": 252.4,
-    "pF": 261.2,
-    "pA": 243.6,
-    "ortg": 110.3,
-    "drtg": 117.8,
-    "net": -7.5,
-    "efg": 55.4,
-    "oefg": 55.6
+    "pa": 282,
+    "pm": 6,
+    "poss": 249.1,
+    "pF": 242.6,
+    "pA": 255.7,
+    "ortg": 118.7,
+    "drtg": 110.3,
+    "net": 8.4,
+    "efg": 54.7,
+    "oefg": 55.1
    },
    {
     "players": [
      "Mikuláš Čank",
      "Petr Šlechta"
     ],
-    "min": 113.7,
-    "pf": 254,
-    "pa": 238,
-    "pm": 16,
-    "poss": 229.3,
-    "pF": 229.2,
-    "pA": 229.4,
-    "ortg": 110.8,
-    "drtg": 103.8,
-    "net": 7.1,
-    "efg": 53.9,
-    "oefg": 50.3
-   },
-   {
-    "players": [
-     "Matyáš Ježek",
-     "Mikuláš Čank"
-    ],
-    "min": 109.8,
-    "pf": 254,
-    "pa": 251,
-    "pm": 3,
-    "poss": 222.0,
-    "pF": 217.2,
-    "pA": 226.9,
-    "ortg": 117.0,
-    "drtg": 110.6,
-    "net": 6.4,
-    "efg": 53.9,
-    "oefg": 55.9
+    "min": 121.4,
+    "pf": 275,
+    "pa": 252,
+    "pm": 23,
+    "poss": 244.4,
+    "pF": 243.6,
+    "pA": 245.3,
+    "ortg": 112.9,
+    "drtg": 102.7,
+    "net": 10.2,
+    "efg": 54.2,
+    "oefg": 49.0
    },
    {
     "players": [
      "Josef Svoboda",
      "Mikuláš Čank"
     ],
-    "min": 98.9,
-    "pf": 240,
-    "pa": 218,
-    "pm": 22,
-    "poss": 206.1,
-    "pF": 208.9,
-    "pA": 203.3,
-    "ortg": 114.9,
-    "drtg": 107.2,
-    "net": 7.7,
-    "efg": 56.2,
-    "oefg": 50.8
+    "min": 116.3,
+    "pf": 289,
+    "pa": 275,
+    "pm": 14,
+    "poss": 246.4,
+    "pF": 248.3,
+    "pA": 244.5,
+    "ortg": 116.4,
+    "drtg": 112.5,
+    "net": 3.9,
+    "efg": 55.9,
+    "oefg": 52.1
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Vojtěch Sýkora"
+    ],
+    "min": 109.6,
+    "pf": 251,
+    "pa": 230,
+    "pm": 21,
+    "poss": 224.8,
+    "pF": 231.1,
+    "pA": 218.5,
+    "ortg": 108.6,
+    "drtg": 105.3,
+    "net": 3.3,
+    "efg": 52.0,
+    "oefg": 52.8
+   },
+   {
+    "players": [
+     "Jan Karlovský",
+     "Vojtěch Sýkora"
+    ],
+    "min": 109.0,
+    "pf": 230,
+    "pa": 237,
+    "pm": -7,
+    "poss": 224.2,
+    "pF": 230.8,
+    "pA": 217.6,
+    "ortg": 99.7,
+    "drtg": 108.9,
+    "net": -9.3,
+    "efg": 52.0,
+    "oefg": 55.1
    },
    {
     "players": [
      "Martin Svoboda",
      "Tadeáš Slowiak"
     ],
-    "min": 94.5,
-    "pf": 212,
-    "pa": 215,
-    "pm": -3,
-    "poss": 203.3,
-    "pF": 199.6,
-    "pA": 207.0,
-    "ortg": 106.2,
-    "drtg": 103.8,
-    "net": 2.4,
-    "efg": 51.6,
-    "oefg": 48.3
+    "min": 107.5,
+    "pf": 246,
+    "pa": 231,
+    "pm": 15,
+    "poss": 226.4,
+    "pF": 222.9,
+    "pA": 229.9,
+    "ortg": 110.4,
+    "drtg": 100.5,
+    "net": 9.9,
+    "efg": 52.2,
+    "oefg": 46.3
+   },
+   {
+    "players": [
+     "Mikuláš Čank",
+     "Vojtěch Sýkora"
+    ],
+    "min": 107.4,
+    "pf": 239,
+    "pa": 248,
+    "pm": -9,
+    "poss": 210.8,
+    "pF": 209.3,
+    "pA": 212.4,
+    "ortg": 114.2,
+    "drtg": 116.8,
+    "net": -2.6,
+    "efg": 58.6,
+    "oefg": 54.0
    },
    {
     "players": [
      "Jan Karlovský",
      "Tadeáš Slowiak"
     ],
-    "min": 88.2,
-    "pf": 215,
-    "pa": 191,
-    "pm": 24,
-    "poss": 188.0,
-    "pF": 192.9,
-    "pA": 183.2,
-    "ortg": 111.4,
-    "drtg": 104.3,
-    "net": 7.2,
-    "efg": 55.4,
-    "oefg": 51.8
+    "min": 104.9,
+    "pf": 261,
+    "pa": 229,
+    "pm": 32,
+    "poss": 221.5,
+    "pF": 226.6,
+    "pA": 216.4,
+    "ortg": 115.2,
+    "drtg": 105.8,
+    "net": 9.3,
+    "efg": 57.0,
+    "oefg": 51.3
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Tadeáš Slowiak"
+    ],
+    "min": 99.5,
+    "pf": 246,
+    "pa": 218,
+    "pm": 28,
+    "poss": 208.8,
+    "pF": 209.9,
+    "pA": 207.8,
+    "ortg": 117.2,
+    "drtg": 104.9,
+    "net": 12.3,
+    "efg": 57.3,
+    "oefg": 51.3
+   },
+   {
+    "players": [
+     "Matyáš Ježek",
+     "Vojtěch Sýkora"
+    ],
+    "min": 99.1,
+    "pf": 237,
+    "pa": 212,
+    "pm": 25,
+    "poss": 198.2,
+    "pF": 197.4,
+    "pA": 198.9,
+    "ortg": 120.0,
+    "drtg": 106.6,
+    "net": 13.5,
+    "efg": 60.2,
+    "oefg": 55.0
+   },
+   {
+    "players": [
+     "Josef Svoboda",
+     "Matyáš Ježek"
+    ],
+    "min": 93.4,
+    "pf": 229,
+    "pa": 193,
+    "pm": 36,
+    "poss": 192.1,
+    "pF": 190.3,
+    "pA": 193.9,
+    "ortg": 120.3,
+    "drtg": 99.5,
+    "net": 20.8,
+    "efg": 54.3,
+    "oefg": 50.0
    },
    {
     "players": [
      "Jan Karlovský",
      "Petr Šlechta"
     ],
-    "min": 87.9,
-    "pf": 209,
-    "pa": 181,
+    "min": 90.1,
+    "pf": 212,
+    "pa": 184,
     "pm": 28,
-    "poss": 177.7,
-    "pF": 185.4,
-    "pA": 170.0,
-    "ortg": 112.7,
-    "drtg": 106.5,
-    "net": 6.2,
-    "efg": 56.8,
-    "oefg": 50.7
+    "poss": 182.0,
+    "pF": 190.2,
+    "pA": 173.8,
+    "ortg": 111.5,
+    "drtg": 105.8,
+    "net": 5.6,
+    "efg": 56.5,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -4567,60 +4782,6 @@
     "net": 3.3,
     "efg": 50.7,
     "oefg": 49.6
-   },
-   {
-    "players": [
-     "Mikuláš Čank",
-     "Vojtěch Sýkora"
-    ],
-    "min": 86.7,
-    "pf": 188,
-    "pa": 191,
-    "pm": -3,
-    "poss": 166.3,
-    "pF": 168.3,
-    "pA": 164.3,
-    "ortg": 111.7,
-    "drtg": 116.2,
-    "net": -4.5,
-    "efg": 58.5,
-    "oefg": 55.6
-   },
-   {
-    "players": [
-     "Jan Karlovský",
-     "Vojtěch Sýkora"
-    ],
-    "min": 86.6,
-    "pf": 172,
-    "pa": 172,
-    "pm": 0,
-    "poss": 175.8,
-    "pF": 184.2,
-    "pA": 167.3,
-    "ortg": 93.4,
-    "drtg": 102.8,
-    "net": -9.4,
-    "efg": 47.9,
-    "oefg": 55.4
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Vojtěch Sýkora"
-    ],
-    "min": 86.6,
-    "pf": 184,
-    "pa": 163,
-    "pm": 21,
-    "poss": 173.4,
-    "pF": 181.7,
-    "pA": 165.2,
-    "ortg": 101.3,
-    "drtg": 98.7,
-    "net": 2.6,
-    "efg": 48.2,
-    "oefg": 53.0
    },
    {
     "players": [
@@ -4643,92 +4804,74 @@
    {
     "players": [
      "Matyáš Ježek",
-     "Vojtěch Sýkora"
-    ],
-    "min": 84.6,
-    "pf": 200,
-    "pa": 183,
-    "pm": 17,
-    "poss": 168.7,
-    "pF": 170.6,
-    "pA": 166.8,
-    "ortg": 117.2,
-    "drtg": 109.7,
-    "net": 7.5,
-    "efg": 60.2,
-    "oefg": 57.8
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Tadeáš Slowiak"
-    ],
-    "min": 84.1,
-    "pf": 199,
-    "pa": 188,
-    "pm": 11,
-    "poss": 179.6,
-    "pF": 179.7,
-    "pA": 179.6,
-    "ortg": 110.8,
-    "drtg": 104.7,
-    "net": 6.1,
-    "efg": 55.8,
-    "oefg": 52.5
-   },
-   {
-    "players": [
-     "Josef Svoboda",
-     "Matyáš Ježek"
-    ],
-    "min": 80.1,
-    "pf": 189,
-    "pa": 160,
-    "pm": 29,
-    "poss": 163.4,
-    "pF": 162.2,
-    "pA": 164.7,
-    "ortg": 116.5,
-    "drtg": 97.2,
-    "net": 19.4,
-    "efg": 53.7,
-    "oefg": 49.3
-   },
-   {
-    "players": [
-     "Matyáš Ježek",
      "Petr Šlechta"
     ],
-    "min": 76.3,
-    "pf": 181,
-    "pa": 167,
-    "pm": 14,
-    "poss": 154.3,
-    "pF": 149.0,
-    "pA": 159.6,
-    "ortg": 121.5,
-    "drtg": 104.6,
-    "net": 16.9,
-    "efg": 58.5,
-    "oefg": 52.2
+    "min": 83.4,
+    "pf": 196,
+    "pa": 177,
+    "pm": 19,
+    "poss": 165.1,
+    "pF": 159.7,
+    "pA": 170.4,
+    "ortg": 122.7,
+    "drtg": 103.9,
+    "net": 18.8,
+    "efg": 58.6,
+    "oefg": 51.0
    },
    {
     "players": [
      "Petr Šlechta",
      "Vojtěch Sýkora"
     ],
-    "min": 73.2,
-    "pf": 157,
-    "pa": 154,
-    "pm": 3,
-    "poss": 141.3,
-    "pF": 143.2,
-    "pA": 139.4,
-    "ortg": 109.6,
-    "drtg": 110.5,
-    "net": -0.9,
-    "efg": 55.3,
-    "oefg": 54.7
+    "min": 82.2,
+    "pf": 181,
+    "pa": 169,
+    "pm": 12,
+    "poss": 158.9,
+    "pF": 160.4,
+    "pA": 157.4,
+    "ortg": 112.8,
+    "drtg": 107.3,
+    "net": 5.5,
+    "efg": 55.2,
+    "oefg": 52.3
+   },
+   {
+    "players": [
+     "Matyáš Ježek",
+     "Tadeáš Slowiak"
+    ],
+    "min": 80.7,
+    "pf": 179,
+    "pa": 197,
+    "pm": -18,
+    "poss": 173.3,
+    "pF": 167.8,
+    "pA": 178.8,
+    "ortg": 106.7,
+    "drtg": 110.2,
+    "net": -3.5,
+    "efg": 47.4,
+    "oefg": 53.2
+   },
+   {
+    "players": [
+     "Mikuláš Čank",
+     "Tadeáš Slowiak"
+    ],
+    "min": 74.1,
+    "pf": 190,
+    "pa": 176,
+    "pm": 14,
+    "poss": 156.9,
+    "pF": 154.1,
+    "pA": 159.7,
+    "ortg": 123.3,
+    "drtg": 110.2,
+    "net": 13.1,
+    "efg": 56.2,
+    "oefg": 53.5
    },
    {
     "players": [
@@ -4750,21 +4893,21 @@
    },
    {
     "players": [
-     "Matyáš Ježek",
-     "Tadeáš Slowiak"
+     "Jan Karlovský",
+     "Matyáš Ježek"
     ],
-    "min": 69.1,
-    "pf": 147,
-    "pa": 167,
+    "min": 69.7,
+    "pf": 164,
+    "pa": 184,
     "pm": -20,
-    "poss": 148.2,
-    "pF": 142.7,
-    "pA": 153.7,
-    "ortg": 103.0,
-    "drtg": 108.7,
-    "net": -5.7,
-    "efg": 45.4,
-    "oefg": 53.4
+    "poss": 153.7,
+    "pF": 154.9,
+    "pA": 152.6,
+    "ortg": 105.9,
+    "drtg": 120.6,
+    "net": -14.7,
+    "efg": 52.4,
+    "oefg": 56.3
    },
    {
     "players": [
@@ -4786,24 +4929,6 @@
    },
    {
     "players": [
-     "Mikuláš Čank",
-     "Tadeáš Slowiak"
-    ],
-    "min": 66.4,
-    "pf": 169,
-    "pa": 155,
-    "pm": 14,
-    "poss": 140.1,
-    "pF": 137.4,
-    "pA": 142.8,
-    "ortg": 123.0,
-    "drtg": 108.5,
-    "net": 14.4,
-    "efg": 56.2,
-    "oefg": 53.2
-   },
-   {
-    "players": [
      "Matěj Burda",
      "Petr Šlechta"
     ],
@@ -4822,93 +4947,93 @@
    },
    {
     "players": [
-     "Jan Karlovský",
-     "Matyáš Ježek"
-    ],
-    "min": 59.1,
-    "pf": 135,
-    "pa": 152,
-    "pm": -17,
-    "poss": 128.6,
-    "pF": 130.8,
-    "pA": 126.4,
-    "ortg": 103.2,
-    "drtg": 120.3,
-    "net": -17.0,
-    "efg": 50.5,
-    "oefg": 56.4
-   },
-   {
-    "players": [
      "Jakub Zvolánek",
      "Josef Svoboda"
     ],
-    "min": 52.0,
-    "pf": 123,
-    "pa": 82,
-    "pm": 41,
-    "poss": 100.9,
-    "pF": 104.4,
-    "pA": 97.4,
-    "ortg": 117.9,
-    "drtg": 84.2,
-    "net": 33.7,
-    "efg": 53.5,
-    "oefg": 37.8
+    "min": 55.3,
+    "pf": 132,
+    "pa": 90,
+    "pm": 42,
+    "poss": 107.3,
+    "pF": 110.2,
+    "pA": 104.4,
+    "ortg": 119.7,
+    "drtg": 86.2,
+    "net": 33.6,
+    "efg": 55.0,
+    "oefg": 39.7
    },
    {
     "players": [
      "Jakub Zvolánek",
      "Martin Svoboda"
     ],
-    "min": 50.8,
-    "pf": 99,
-    "pa": 91,
-    "pm": 8,
-    "poss": 104.6,
-    "pF": 104.8,
-    "pA": 104.5,
-    "ortg": 94.5,
-    "drtg": 87.1,
-    "net": 7.4,
-    "efg": 41.1,
-    "oefg": 42.9
+    "min": 54.1,
+    "pf": 108,
+    "pa": 99,
+    "pm": 9,
+    "poss": 111.1,
+    "pF": 110.6,
+    "pA": 111.5,
+    "ortg": 97.6,
+    "drtg": 88.8,
+    "net": 8.8,
+    "efg": 43.1,
+    "oefg": 44.4
    },
    {
     "players": [
      "Josef Svoboda",
      "Petr Šlechta"
     ],
-    "min": 48.3,
-    "pf": 127,
-    "pa": 90,
-    "pm": 37,
-    "poss": 98.8,
-    "pF": 105.0,
-    "pA": 92.5,
-    "ortg": 121.0,
-    "drtg": 97.3,
-    "net": 23.7,
-    "efg": 54.3,
-    "oefg": 41.8
+    "min": 52.2,
+    "pf": 139,
+    "pa": 97,
+    "pm": 42,
+    "poss": 107.1,
+    "pF": 113.5,
+    "pA": 100.7,
+    "ortg": 122.4,
+    "drtg": 96.3,
+    "net": 26.1,
+    "efg": 52.2,
+    "oefg": 41.1
    },
    {
     "players": [
      "Jakub Zvolánek",
      "Jan Karlovský"
     ],
-    "min": 48.2,
-    "pf": 109,
-    "pa": 97,
-    "pm": 12,
-    "poss": 105.4,
-    "pF": 106.7,
-    "pA": 104.0,
-    "ortg": 102.1,
-    "drtg": 93.3,
-    "net": 8.9,
-    "efg": 50.6,
-    "oefg": 45.6
+    "min": 51.5,
+    "pf": 118,
+    "pa": 105,
+    "pm": 13,
+    "poss": 111.8,
+    "pF": 112.6,
+    "pA": 111.0,
+    "ortg": 104.8,
+    "drtg": 94.6,
+    "net": 10.2,
+    "efg": 52.3,
+    "oefg": 46.9
+   },
+   {
+    "players": [
+     "Petr Šlechta",
+     "Tadeáš Slowiak"
+    ],
+    "min": 47.5,
+    "pf": 119,
+    "pa": 98,
+    "pm": 21,
+    "poss": 100.8,
+    "pF": 101.1,
+    "pA": 100.5,
+    "ortg": 117.7,
+    "drtg": 97.5,
+    "net": 20.2,
+    "efg": 56.6,
+    "oefg": 42.8
    },
    {
     "players": [
@@ -4930,21 +5055,21 @@
    },
    {
     "players": [
-     "Petr Šlechta",
-     "Tadeáš Slowiak"
+     "Tadeáš Slowiak",
+     "Vojtěch Sýkora"
     ],
-    "min": 44.1,
-    "pf": 114,
-    "pa": 95,
-    "pm": 19,
-    "poss": 95.0,
-    "pF": 94.3,
-    "pA": 95.6,
-    "ortg": 120.9,
-    "drtg": 99.3,
-    "net": 21.5,
-    "efg": 58.2,
-    "oefg": 44.2
+    "min": 44.6,
+    "pf": 90,
+    "pa": 102,
+    "pm": -12,
+    "poss": 96.7,
+    "pF": 94.0,
+    "pA": 99.4,
+    "ortg": 95.8,
+    "drtg": 102.6,
+    "net": -6.8,
+    "efg": 48.6,
+    "oefg": 52.5
    },
    {
     "players": [
@@ -5038,21 +5163,39 @@
    },
    {
     "players": [
-     "Tadeáš Slowiak",
+     "Jakub Zvolánek",
      "Vojtěch Sýkora"
     ],
-    "min": 31.9,
-    "pf": 54,
-    "pa": 78,
-    "pm": -24,
-    "poss": 71.2,
-    "pF": 69.2,
-    "pA": 73.2,
-    "ortg": 78.0,
-    "drtg": 106.5,
-    "net": -28.5,
-    "efg": 41.2,
-    "oefg": 59.1
+    "min": 30.1,
+    "pf": 63,
+    "pa": 44,
+    "pm": 19,
+    "poss": 61.0,
+    "pF": 61.7,
+    "pA": 60.3,
+    "ortg": 102.1,
+    "drtg": 73.0,
+    "net": 29.1,
+    "efg": 46.9,
+    "oefg": 40.2
+   },
+   {
+    "players": [
+     "Jakub Zvolánek",
+     "Tadeáš Slowiak"
+    ],
+    "min": 29.8,
+    "pf": 73,
+    "pa": 42,
+    "pm": 31,
+    "poss": 61.4,
+    "pF": 61.5,
+    "pA": 61.4,
+    "ortg": 118.7,
+    "drtg": 68.4,
+    "net": 50.3,
+    "efg": 50.9,
+    "oefg": 32.1
    },
    {
     "players": [
@@ -5071,42 +5214,6 @@
     "net": -27.6,
     "efg": 31.9,
     "oefg": 47.7
-   },
-   {
-    "players": [
-     "Jakub Zvolánek",
-     "Vojtěch Sýkora"
-    ],
-    "min": 28.5,
-    "pf": 57,
-    "pa": 38,
-    "pm": 19,
-    "poss": 57.0,
-    "pF": 57.8,
-    "pA": 56.3,
-    "ortg": 98.6,
-    "drtg": 67.5,
-    "net": 31.1,
-    "efg": 43.5,
-    "oefg": 36.5
-   },
-   {
-    "players": [
-     "Jakub Zvolánek",
-     "Tadeáš Slowiak"
-    ],
-    "min": 28.2,
-    "pf": 70,
-    "pa": 40,
-    "pm": 30,
-    "poss": 58.9,
-    "pF": 59.5,
-    "pA": 58.4,
-    "ortg": 117.7,
-    "drtg": 68.5,
-    "net": 49.2,
-    "efg": 50.9,
-    "oefg": 32.1
    },
    {
     "players": [
@@ -5528,8 +5635,8 @@
   {
    "passer": "Vojtěch Sýkora",
    "scorer": "Martin Svoboda",
-   "ast": 19,
-   "pts": 32
+   "ast": 23,
+   "pts": 38
   },
   {
    "passer": "Matěj Burda",
@@ -5540,7 +5647,13 @@
   {
    "passer": "Jan Karlovský",
    "scorer": "Martin Svoboda",
-   "ast": 10,
+   "ast": 11,
+   "pts": 19
+  },
+  {
+   "passer": "Jan Karlovský",
+   "scorer": "Josef Svoboda",
+   "ast": 8,
    "pts": 18
   },
   {
@@ -5550,22 +5663,28 @@
    "pts": 16
   },
   {
-   "passer": "Jan Karlovský",
-   "scorer": "Josef Svoboda",
+   "passer": "Vojtěch Sýkora",
+   "scorer": "Mikuláš Čank",
    "ast": 7,
-   "pts": 15
+   "pts": 20
   },
   {
    "passer": "Vojtěch Sýkora",
-   "scorer": "Mikuláš Čank",
-   "ast": 5,
-   "pts": 14
+   "scorer": "Josef Svoboda",
+   "ast": 6,
+   "pts": 15
   },
   {
    "passer": "Tadeáš Slowiak",
    "scorer": "Jan Karlovský",
+   "ast": 6,
+   "pts": 12
+  },
+  {
+   "passer": "Vojtěch Sýkora",
+   "scorer": "Jan Karlovský",
    "ast": 5,
-   "pts": 10
+   "pts": 11
   },
   {
    "passer": "Matyáš Ježek",
@@ -5580,14 +5699,26 @@
    "pts": 11
   },
   {
-   "passer": "Vojtěch Sýkora",
-   "scorer": "Josef Svoboda",
+   "passer": "Mikuláš Čank",
+   "scorer": "Matyáš Ježek",
+   "ast": 4,
+   "pts": 10
+  },
+  {
+   "passer": "Jan Karlovský",
+   "scorer": "Vojtěch Sýkora",
    "ast": 4,
    "pts": 10
   },
   {
    "passer": "Jan Karlovský",
    "scorer": "Mikuláš Čank",
+   "ast": 4,
+   "pts": 8
+  },
+  {
+   "passer": "Jakub Zvolánek",
+   "scorer": "Martin Svoboda",
    "ast": 4,
    "pts": 8
   },
@@ -5610,6 +5741,12 @@
    "pts": 9
   },
   {
+   "passer": "Mikuláš Čank",
+   "scorer": "Petr Šlechta",
+   "ast": 3,
+   "pts": 8
+  },
+  {
    "passer": "Josef Svoboda",
    "scorer": "Matyáš Ježek",
    "ast": 3,
@@ -5622,14 +5759,14 @@
    "pts": 8
   },
   {
-   "passer": "Jan Karlovský",
-   "scorer": "Vojtěch Sýkora",
+   "passer": "Tadeáš Slowiak",
+   "scorer": "Josef Svoboda",
    "ast": 3,
    "pts": 8
   },
   {
-   "passer": "Mikuláš Čank",
-   "scorer": "Matyáš Ježek",
+   "passer": "Vojtěch Sýkora",
+   "scorer": "Tadeáš Slowiak",
    "ast": 3,
    "pts": 7
   },
@@ -5644,36 +5781,6 @@
    "scorer": "Vojtěch Sýkora",
    "ast": 3,
    "pts": 7
-  },
-  {
-   "passer": "Jan Karlovský",
-   "scorer": "Tadeáš Slowiak",
-   "ast": 3,
-   "pts": 6
-  },
-  {
-   "passer": "Tadeáš Slowiak",
-   "scorer": "Martin Svoboda",
-   "ast": 3,
-   "pts": 6
-  },
-  {
-   "passer": "Josef Svoboda",
-   "scorer": "Ondřej Klement",
-   "ast": 3,
-   "pts": 6
-  },
-  {
-   "passer": "Mikuláš Čank",
-   "scorer": "Vojtěch Sýkora",
-   "ast": 3,
-   "pts": 6
-  },
-  {
-   "passer": "Josef Svoboda",
-   "scorer": "Jan Karlovský",
-   "ast": 3,
-   "pts": 5
   }
  ],
  "log": [
@@ -6694,6 +6801,108 @@
     "last5": [
      19,
      13
+    ]
+   }
+  },
+  {
+   "fibaId": 2943577,
+   "nblId": 544612,
+   "date": "2026-11-15",
+   "round": "12. kolo",
+   "venue": "home",
+   "opponent": "SLUNETA Ústí nad Labem",
+   "opponentSlug": "usti",
+   "opponentLabel": "Ústí",
+   "score": [
+    107,
+    98
+   ],
+   "result": "W",
+   "ot": false,
+   "ortg": 132.6,
+   "drtg": 115.1,
+   "net": 17.4,
+   "pace": 82.9,
+   "efg": 62.1,
+   "tov": 14.5,
+   "orb": 37.2,
+   "ftr": 37.9,
+   "topScorer": "Josef Svoboda",
+   "oppEfg": 48.8,
+   "oppOrb": 29.8,
+   "tp": [
+    18,
+    33
+   ],
+   "ft": [
+    25,
+    38
+   ],
+   "second": [
+    27,
+    12
+   ],
+   "bench": [
+    55,
+    27
+   ],
+   "paint": [
+    28,
+    46
+   ],
+   "leading": [
+    34.8,
+    2.8
+   ],
+   "leadChanges": 5,
+   "maxLead": [
+    16,
+    2
+   ],
+   "maxRun": [
+    8,
+    9
+   ],
+   "astFg": [
+    [
+     24,
+     32
+    ],
+    [
+     16,
+     34
+    ]
+   ],
+   "quarters": [
+    [
+     22,
+     24
+    ],
+    [
+     24,
+     13
+    ],
+    [
+     33,
+     34
+    ],
+    [
+     28,
+     27
+    ]
+   ],
+   "segments": {
+    "first3": [
+     29,
+     27
+    ],
+    "last3": [
+     28,
+     36
+    ],
+    "last5": [
+     16,
+     14
     ]
    }
   }
@@ -11376,6 +11585,468 @@
     0,
     0,
     9
+   ],
+   [
+    9.2,
+    4.1,
+    0,
+    1,
+    3
+   ],
+   [
+    23.9,
+    10.9,
+    1,
+    1,
+    2
+   ],
+   [
+    8.0,
+    47.0,
+    0,
+    0,
+    0
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    3
+   ],
+   [
+    3.5,
+    41.4,
+    1,
+    0,
+    11
+   ],
+   [
+    5.3,
+    3.0,
+    1,
+    1,
+    3
+   ],
+   [
+    23.4,
+    91.0,
+    1,
+    1,
+    4
+   ],
+   [
+    12.8,
+    6.7,
+    0,
+    1,
+    8
+   ],
+   [
+    3.5,
+    73.8,
+    0,
+    0,
+    8
+   ],
+   [
+    15.8,
+    48.1,
+    0,
+    0,
+    0
+   ],
+   [
+    5.0,
+    51.5,
+    0,
+    0,
+    4
+   ],
+   [
+    4.2,
+    56.0,
+    1,
+    0,
+    5
+   ],
+   [
+    8.4,
+    49.3,
+    1,
+    0,
+    6
+   ],
+   [
+    16.2,
+    6.4,
+    0,
+    1,
+    2
+   ],
+   [
+    17.2,
+    23.0,
+    0,
+    0,
+    5
+   ],
+   [
+    6.0,
+    42.2,
+    0,
+    0,
+    3
+   ],
+   [
+    7.1,
+    44.8,
+    1,
+    0,
+    3
+   ],
+   [
+    26.1,
+    80.3,
+    0,
+    1,
+    0
+   ],
+   [
+    30.6,
+    70.7,
+    0,
+    1,
+    4
+   ],
+   [
+    6.0,
+    56.3,
+    1,
+    0,
+    3
+   ],
+   [
+    31.8,
+    45.9,
+    0,
+    1,
+    11
+   ],
+   [
+    12.8,
+    43.6,
+    0,
+    0,
+    4
+   ],
+   [
+    30.6,
+    71.6,
+    1,
+    1,
+    6
+   ],
+   [
+    14.8,
+    47.0,
+    0,
+    0,
+    3
+   ],
+   [
+    32.9,
+    71.6,
+    1,
+    1,
+    4
+   ],
+   [
+    31.8,
+    52.1,
+    0,
+    1,
+    4
+   ],
+   [
+    10.3,
+    35.7,
+    0,
+    0,
+    3
+   ],
+   [
+    32.3,
+    61.7,
+    0,
+    1,
+    5
+   ],
+   [
+    4.7,
+    43.6,
+    1,
+    0,
+    5
+   ],
+   [
+    33.4,
+    73.0,
+    1,
+    1,
+    2
+   ],
+   [
+    33.7,
+    41.4,
+    0,
+    1,
+    11
+   ],
+   [
+    9.2,
+    39.1,
+    0,
+    0,
+    3
+   ],
+   [
+    26.5,
+    17.9,
+    0,
+    1,
+    4
+   ],
+   [
+    6.3,
+    51.0,
+    1,
+    0,
+    5
+   ],
+   [
+    30.4,
+    70.4,
+    1,
+    1,
+    0
+   ],
+   [
+    5.0,
+    43.1,
+    0,
+    0,
+    5
+   ],
+   [
+    11.7,
+    44.2,
+    0,
+    0,
+    0
+   ],
+   [
+    3.8,
+    70.7,
+    0,
+    0,
+    5
+   ],
+   [
+    32.9,
+    46.8,
+    1,
+    1,
+    3
+   ],
+   [
+    10.2,
+    47.6,
+    1,
+    0,
+    3
+   ],
+   [
+    29.5,
+    67.7,
+    1,
+    1,
+    11
+   ],
+   [
+    9.5,
+    53.0,
+    1,
+    0,
+    5
+   ],
+   [
+    6.4,
+    59.8,
+    0,
+    0,
+    5
+   ],
+   [
+    30.3,
+    21.4,
+    0,
+    1,
+    0
+   ],
+   [
+    33.7,
+    58.6,
+    1,
+    1,
+    4
+   ],
+   [
+    28.9,
+    77.0,
+    1,
+    1,
+    4
+   ],
+   [
+    2.7,
+    58.6,
+    0,
+    0,
+    2
+   ],
+   [
+    22.0,
+    51.9,
+    0,
+    0,
+    6
+   ],
+   [
+    11.7,
+    95.0,
+    1,
+    1,
+    0
+   ],
+   [
+    31.4,
+    63.4,
+    1,
+    1,
+    2
+   ],
+   [
+    25.8,
+    12.6,
+    0,
+    1,
+    2
+   ],
+   [
+    19.2,
+    43.4,
+    0,
+    0,
+    1
+   ],
+   [
+    7.4,
+    51.6,
+    0,
+    0,
+    3
+   ],
+   [
+    12.0,
+    95.6,
+    0,
+    1,
+    2
+   ],
+   [
+    8.9,
+    2.5,
+    1,
+    1,
+    1
+   ],
+   [
+    24.5,
+    12.4,
+    0,
+    1,
+    1
+   ],
+   [
+    7.5,
+    3.3,
+    0,
+    1,
+    1
+   ],
+   [
+    18.7,
+    45.4,
+    1,
+    0,
+    5
+   ],
+   [
+    14.1,
+    50.7,
+    0,
+    0,
+    3
+   ],
+   [
+    7.2,
+    52.4,
+    1,
+    0,
+    4
+   ],
+   [
+    29.6,
+    24.2,
+    1,
+    1,
+    5
+   ],
+   [
+    31.4,
+    74.7,
+    1,
+    1,
+    5
+   ],
+   [
+    6.1,
+    51.0,
+    1,
+    0,
+    11
+   ],
+   [
+    16.9,
+    3.9,
+    1,
+    1,
+    4
+   ],
+   [
+    27.0,
+    82.3,
+    1,
+    1,
+    4
+   ],
+   [
+    10.5,
+    58.1,
+    1,
+    0,
+    3
    ]
   ]
  },
@@ -11384,67 +12055,78 @@
    "name": "Martin Svoboda",
    "bands": [
     33,
-    57,
-    61,
-    38,
-    28
+    65,
+    62,
+    45,
+    33
    ],
-   "pts": 218
+   "pts": 239
   },
   {
    "name": "Jan Karlovský",
    "bands": [
     18,
-    27,
-    36,
-    25,
-    17
+    30,
+    47,
+    29,
+    19
    ],
-   "pts": 125
+   "pts": 145
+  },
+  {
+   "name": "Josef Svoboda",
+   "bands": [
+    24,
+    35,
+    21,
+    28,
+    25
+   ],
+   "pts": 135
   },
   {
    "name": "Mikuláš Čank",
    "bands": [
     21,
     27,
+    27,
     24,
-    21,
-    11
+    14
    ],
-   "pts": 106
-  },
-  {
-   "name": "Josef Svoboda",
-   "bands": [
-    24,
-    26,
-    16,
-    22,
-    15
-   ],
-   "pts": 105
+   "pts": 115
   },
   {
    "name": "Matyáš Ježek",
    "bands": [
-    21,
+    22,
     13,
-    14,
+    17,
     11,
-    14
+    17
    ],
-   "pts": 73
+   "pts": 80
   },
   {
    "name": "Petr Šlechta",
    "bands": [
     6,
-    29,
+    32,
     14,
     5,
     12
    ],
-   "pts": 68
+   "pts": 71
+  },
+  {
+   "name": "Vojtěch Sýkora",
+   "bands": [
+    14,
+    16,
+    13,
+    8,
+    5
+   ],
+   "pts": 56
   },
   {
    "name": "Matěj Burda",
@@ -11458,26 +12140,15 @@
    "pts": 54
   },
   {
-   "name": "Vojtěch Sýkora",
+   "name": "Tadeáš Slowiak",
    "bands": [
-    7,
-    14,
-    13,
-    5,
+    16,
+    8,
+    9,
+    6,
     5
    ],
    "pts": 44
-  },
-  {
-   "name": "Tadeáš Slowiak",
-   "bands": [
-    14,
-    8,
-    6,
-    6,
-    5
-   ],
-   "pts": 39
   },
   {
    "name": "Jakub Zvolánek",
@@ -11526,44 +12197,44 @@
  ],
  "segments": {
   "first3": [
-   235,
-   210
+   264,
+   237
   ],
   "last3": [
-   274,
-   280
+   302,
+   316
   ],
   "last5": [
-   140,
-   143
+   156,
+   157
   ]
  },
  "ranks": {
   "ppg": 2,
   "oppg": 7,
   "diff": 3,
-  "ortg": 3,
+  "ortg": 2,
   "drtg": 7,
   "net": 4,
   "pace": 1,
   "efg": 3,
   "ts": 3,
-  "tov": 7,
+  "tov": 6,
   "orb": 8,
   "drb": 1,
   "ftr": 1,
   "three_par": 5,
-  "three": 7,
+  "three": 4,
   "two": 2,
-  "ft": 4,
-  "ast_pct": 5,
+  "ft": 5,
+  "ast_pct": 4,
   "ast_to": 3,
   "stl_pct": 11,
   "blk_pct": 12,
   "opp_efg": 7,
-  "opp_tov": 8,
-  "opp_ftr": 3,
-  "opp_three": 12,
+  "opp_tov": 11,
+  "opp_ftr": 4,
+  "opp_three": 11,
   "of": 12
  },
  "standing": {
@@ -11572,21 +12243,21 @@
   "name": "Sršni Photomate Písek",
   "label": "Písek",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/bd87c5d17b95173283244bbd063bd7c0S1.png",
-  "gp": 10,
-  "w": 7,
+  "gp": 11,
+  "w": 8,
   "l": 3,
-  "pct": 0.7,
-  "pf": 905,
-  "pa": 840,
-  "diff": 65,
-  "ppg": 90.5,
-  "oppg": 84.0,
-  "home": "2-2",
+  "pct": 0.727,
+  "pf": 1012,
+  "pa": 938,
+  "diff": 74,
+  "ppg": 92.0,
+  "oppg": 85.3,
+  "home": "3-2",
   "away": "5-1",
   "close": "1-0",
   "ot": 0,
-  "streak": "W3",
-  "last5": "WLWWW"
+  "streak": "W4",
+  "last5": "LWWWW"
  },
  "players": [
   {
@@ -11597,103 +12268,103 @@
    "teamLabel": "Písek",
    "shirt": "71",
    "pos": "",
-   "gp": 10,
-   "gs": 10,
-   "min": 300.3,
+   "gp": 11,
+   "gs": 11,
+   "min": 329.2,
    "totals": {
-    "pts": 218,
-    "fgm": 76,
-    "fga": 121,
-    "tpm": 3,
-    "tpa": 19,
-    "twopm": 73,
-    "twopa": 102,
-    "ftm": 63,
-    "fta": 96,
-    "oreb": 29,
-    "dreb": 61,
-    "reb": 90,
+    "pts": 239,
+    "fgm": 83,
+    "fga": 135,
+    "tpm": 5,
+    "tpa": 22,
+    "twopm": 78,
+    "twopa": 113,
+    "ftm": 68,
+    "fta": 106,
+    "oreb": 30,
+    "dreb": 63,
+    "reb": 93,
     "ast": 16,
-    "to": 26,
-    "stl": 9,
+    "to": 28,
+    "stl": 10,
     "blk": 4,
-    "blkr": 3,
-    "pf": 24,
-    "foulon": 72,
-    "pm": 32,
-    "paint": 144,
-    "fast": 41,
-    "second": 52
+    "blkr": 4,
+    "pf": 27,
+    "foulon": 79,
+    "pm": 43,
+    "paint": 154,
+    "fast": 47,
+    "second": 58
    },
    "perGame": {
-    "pts": 21.8,
-    "fgm": 7.6,
-    "fga": 12.1,
-    "tpm": 0.3,
-    "tpa": 1.9,
-    "twopm": 7.3,
-    "twopa": 10.2,
-    "ftm": 6.3,
+    "pts": 21.7,
+    "fgm": 7.5,
+    "fga": 12.3,
+    "tpm": 0.5,
+    "tpa": 2.0,
+    "twopm": 7.1,
+    "twopa": 10.3,
+    "ftm": 6.2,
     "fta": 9.6,
-    "oreb": 2.9,
-    "dreb": 6.1,
-    "reb": 9.0,
-    "ast": 1.6,
-    "to": 2.6,
+    "oreb": 2.7,
+    "dreb": 5.7,
+    "reb": 8.5,
+    "ast": 1.5,
+    "to": 2.5,
     "stl": 0.9,
     "blk": 0.4,
-    "blkr": 0.3,
-    "pf": 2.4,
+    "blkr": 0.4,
+    "pf": 2.5,
     "foulon": 7.2,
-    "pm": 3.2,
-    "paint": 14.4,
-    "fast": 4.1,
-    "second": 5.2,
-    "min": 30.0,
-    "eff": 23.3,
-    "gmsc": 17.6
+    "pm": 3.9,
+    "paint": 14.0,
+    "fast": 4.3,
+    "second": 5.3,
+    "min": 29.9,
+    "eff": 22.2,
+    "gmsc": 17.1
    },
    "per40": {
     "pts": 29.0,
-    "reb": 12.0,
-    "ast": 2.1,
+    "reb": 11.3,
+    "ast": 1.9,
     "stl": 1.2,
     "blk": 0.5,
-    "to": 3.5
+    "to": 3.4
    },
-   "ts": 66.8,
-   "efg": 64.0,
-   "fg": 62.8,
-   "two": 71.6,
-   "three": 15.8,
-   "ft": 65.6,
-   "usg": 26.6,
-   "astTo": 0.62,
-   "pm": 32,
-   "pm40": 4.3,
+   "ts": 65.8,
+   "efg": 63.3,
+   "fg": 61.5,
+   "two": 69.0,
+   "three": 22.7,
+   "ft": 64.2,
+   "usg": 26.8,
+   "astTo": 0.57,
+   "pm": 43,
+   "pm40": 5.2,
    "on": {
-    "min": 300.5,
-    "pf": 663,
-    "pa": 630,
-    "ortg": 108.2,
-    "drtg": 102.3,
-    "net": 5.9
+    "min": 329.4,
+    "pf": 739,
+    "pa": 695,
+    "ortg": 110.4,
+    "drtg": 103.0,
+    "net": 7.4
    },
    "off": {
-    "min": 99.5,
-    "ortg": 116.0,
-    "drtg": 106.6,
-    "net": 9.4
+    "min": 110.7,
+    "ortg": 117.3,
+    "drtg": 108.9,
+    "net": 8.4
    },
-   "onOff": -3.5,
+   "onOff": -1.0,
    "dd": 4,
    "td": 0,
    "high": 34,
    "zones": {
     "paint": {
-     "m": 73,
-     "a": 101,
-     "pct": 72.3
+     "m": 78,
+     "a": 112,
+     "pct": 69.6
     },
     "mid": {
      "m": 0,
@@ -11701,14 +12372,14 @@
      "pct": 0.0
     },
     "corner3": {
-     "m": 1,
-     "a": 6,
-     "pct": 16.7
+     "m": 2,
+     "a": 8,
+     "pct": 25.0
     },
     "above3": {
-     "m": 2,
-     "a": 13,
-     "pct": 15.4
+     "m": 3,
+     "a": 14,
+     "pct": 21.4
     }
    },
    "log": [
@@ -11911,6 +12582,26 @@
      "pm": 14,
      "eff": 25,
      "ts": 68.7
+    },
+    {
+     "fibaId": 2943577,
+     "date": "2026-11-15",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "W",
+     "min": 28.9,
+     "pts": 21,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "7/14",
+     "tp": "2/3",
+     "ft": "5/10",
+     "pm": 11,
+     "eff": 11,
+     "ts": 57.1
     }
    ]
   },
@@ -11922,108 +12613,108 @@
    "teamLabel": "Písek",
    "shirt": "41",
    "pos": "",
-   "gp": 10,
+   "gp": 11,
    "gs": 1,
-   "min": 222.5,
+   "min": 251.4,
    "totals": {
-    "pts": 125,
-    "fgm": 40,
-    "fga": 100,
-    "tpm": 5,
-    "tpa": 26,
-    "twopm": 35,
-    "twopa": 74,
-    "ftm": 40,
-    "fta": 46,
-    "oreb": 19,
-    "dreb": 48,
-    "reb": 67,
-    "ast": 32,
-    "to": 32,
+    "pts": 145,
+    "fgm": 47,
+    "fga": 112,
+    "tpm": 7,
+    "tpa": 29,
+    "twopm": 40,
+    "twopa": 83,
+    "ftm": 44,
+    "fta": 54,
+    "oreb": 20,
+    "dreb": 54,
+    "reb": 74,
+    "ast": 35,
+    "to": 37,
     "stl": 3,
     "blk": 4,
     "blkr": 3,
-    "pf": 31,
-    "foulon": 31,
-    "pm": 31,
-    "paint": 60,
+    "pf": 34,
+    "foulon": 35,
+    "pm": 25,
+    "paint": 70,
     "fast": 15,
-    "second": 30
+    "second": 32
    },
    "perGame": {
-    "pts": 12.5,
-    "fgm": 4.0,
-    "fga": 10.0,
-    "tpm": 0.5,
+    "pts": 13.2,
+    "fgm": 4.3,
+    "fga": 10.2,
+    "tpm": 0.6,
     "tpa": 2.6,
-    "twopm": 3.5,
-    "twopa": 7.4,
+    "twopm": 3.6,
+    "twopa": 7.5,
     "ftm": 4.0,
-    "fta": 4.6,
-    "oreb": 1.9,
-    "dreb": 4.8,
+    "fta": 4.9,
+    "oreb": 1.8,
+    "dreb": 4.9,
     "reb": 6.7,
     "ast": 3.2,
-    "to": 3.2,
+    "to": 3.4,
     "stl": 0.3,
     "blk": 0.4,
     "blkr": 0.3,
     "pf": 3.1,
-    "foulon": 3.1,
-    "pm": 3.1,
-    "paint": 6.0,
-    "fast": 1.5,
-    "second": 3.0,
-    "min": 22.2,
-    "eff": 13.3,
-    "gmsc": 8.0
+    "foulon": 3.2,
+    "pm": 2.3,
+    "paint": 6.4,
+    "fast": 1.4,
+    "second": 2.9,
+    "min": 22.9,
+    "eff": 13.5,
+    "gmsc": 8.3
    },
    "per40": {
-    "pts": 22.5,
-    "reb": 12.0,
-    "ast": 5.8,
+    "pts": 23.1,
+    "reb": 11.8,
+    "ast": 5.6,
     "stl": 0.5,
-    "blk": 0.7,
-    "to": 5.8
+    "blk": 0.6,
+    "to": 5.9
    },
-   "ts": 52.0,
-   "efg": 42.5,
-   "fg": 40.0,
-   "two": 47.3,
-   "three": 19.2,
-   "ft": 87.0,
-   "usg": 29.0,
-   "astTo": 1.0,
-   "pm": 31,
-   "pm40": 5.6,
+   "ts": 53.4,
+   "efg": 45.1,
+   "fg": 42.0,
+   "two": 48.2,
+   "three": 24.1,
+   "ft": 81.5,
+   "usg": 29.1,
+   "astTo": 0.95,
+   "pm": 25,
+   "pm40": 4.0,
    "on": {
-    "min": 222.6,
-    "pf": 501,
-    "pa": 470,
-    "ortg": 104.4,
-    "drtg": 104.8,
-    "net": -0.4
+    "min": 251.5,
+    "pf": 577,
+    "pa": 552,
+    "ortg": 106.8,
+    "drtg": 107.9,
+    "net": -1.1
    },
    "off": {
-    "min": 177.4,
-    "ortg": 118.4,
-    "drtg": 101.6,
-    "net": 16.7
+    "min": 188.5,
+    "ortg": 120.3,
+    "drtg": 100.0,
+    "net": 20.3
    },
-   "onOff": -17.1,
+   "onOff": -21.4,
    "dd": 1,
    "td": 0,
    "high": 23,
    "zones": {
     "paint": {
-     "m": 32,
-     "a": 65,
-     "pct": 49.2
+     "m": 37,
+     "a": 73,
+     "pct": 50.7
     },
     "mid": {
      "m": 3,
-     "a": 9,
-     "pct": 33.3
+     "a": 10,
+     "pct": 30.0
     },
     "corner3": {
      "m": 0,
@@ -12031,9 +12722,9 @@
      "pct": 0.0
     },
     "above3": {
-     "m": 5,
-     "a": 25,
-     "pct": 20.0
+     "m": 7,
+     "a": 28,
+     "pct": 25.0
     }
    },
    "log": [
@@ -12236,331 +12927,26 @@
      "pm": 12,
      "eff": 13,
      "ts": 52.4
-    }
-   ]
-  },
-  {
-   "id": "pisek/mikulas-cank",
-   "name": "Mikuláš Čank",
-   "team": "pisek",
-   "teamName": "Sršni Photomate Písek",
-   "teamLabel": "Písek",
-   "shirt": "19",
-   "pos": "",
-   "gp": 10,
-   "gs": 10,
-   "min": 226.4,
-   "totals": {
-    "pts": 106,
-    "fgm": 34,
-    "fga": 73,
-    "tpm": 22,
-    "tpa": 49,
-    "twopm": 12,
-    "twopa": 24,
-    "ftm": 16,
-    "fta": 21,
-    "oreb": 8,
-    "dreb": 28,
-    "reb": 36,
-    "ast": 15,
-    "to": 13,
-    "stl": 7,
-    "blk": 0,
-    "blkr": 2,
-    "pf": 17,
-    "foulon": 18,
-    "pm": 18,
-    "paint": 22,
-    "fast": 18,
-    "second": 14
-   },
-   "perGame": {
-    "pts": 10.6,
-    "fgm": 3.4,
-    "fga": 7.3,
-    "tpm": 2.2,
-    "tpa": 4.9,
-    "twopm": 1.2,
-    "twopa": 2.4,
-    "ftm": 1.6,
-    "fta": 2.1,
-    "oreb": 0.8,
-    "dreb": 2.8,
-    "reb": 3.6,
-    "ast": 1.5,
-    "to": 1.3,
-    "stl": 0.7,
-    "blk": 0.0,
-    "blkr": 0.2,
-    "pf": 1.7,
-    "foulon": 1.8,
-    "pm": 1.8,
-    "paint": 2.2,
-    "fast": 1.8,
-    "second": 1.4,
-    "min": 22.6,
-    "eff": 10.7,
-    "gmsc": 7.8
-   },
-   "per40": {
-    "pts": 18.7,
-    "reb": 6.4,
-    "ast": 2.7,
-    "stl": 1.2,
-    "blk": 0.0,
-    "to": 2.3
-   },
-   "ts": 64.4,
-   "efg": 61.6,
-   "fg": 46.6,
-   "two": 50.0,
-   "three": 44.9,
-   "ft": 76.2,
-   "usg": 17.8,
-   "astTo": 1.15,
-   "pm": 18,
-   "pm40": 3.2,
-   "on": {
-    "min": 226.3,
-    "pf": 515,
-    "pa": 497,
-    "ortg": 112.0,
-    "drtg": 107.3,
-    "net": 4.7
-   },
-   "off": {
-    "min": 173.7,
-    "ortg": 107.8,
-    "drtg": 98.1,
-    "net": 9.7
-   },
-   "onOff": -5.0,
-   "dd": 0,
-   "td": 0,
-   "high": 16,
-   "zones": {
-    "paint": {
-     "m": 11,
-     "a": 21,
-     "pct": 52.4
     },
-    "mid": {
-     "m": 1,
-     "a": 3,
-     "pct": 33.3
-    },
-    "corner3": {
-     "m": 4,
-     "a": 13,
-     "pct": 30.8
-    },
-    "above3": {
-     "m": 18,
-     "a": 36,
-     "pct": 50.0
-    }
-   },
-   "log": [
     {
-     "fibaId": 2890467,
-     "date": "2026-09-20",
+     "fibaId": 2943577,
+     "date": "2026-11-15",
      "opponent": "Ústí",
-     "venue": "away",
-     "result": "W",
-     "min": 22.4,
-     "pts": 16,
-     "reb": 9,
-     "ast": 1,
-     "stl": 2,
-     "blk": 0,
-     "to": 1,
-     "fg": "5/13",
-     "tp": "4/11",
-     "ft": "2/2",
-     "pm": 2,
-     "eff": 19,
-     "ts": 57.6
-    },
-    {
-     "fibaId": 2890473,
-     "date": "2026-09-23",
-     "opponent": "Hradec",
      "venue": "home",
      "result": "W",
-     "min": 24.9,
-     "pts": 13,
-     "reb": 2,
-     "ast": 1,
+     "min": 28.9,
+     "pts": 20,
+     "reb": 7,
+     "ast": 3,
      "stl": 0,
      "blk": 0,
-     "to": 2,
-     "fg": "4/5",
-     "tp": "3/4",
-     "ft": "2/2",
-     "pm": 12,
-     "eff": 13,
-     "ts": 110.5
-    },
-    {
-     "fibaId": 2890479,
-     "date": "2026-09-27",
-     "opponent": "Plzeň",
-     "venue": "away",
-     "result": "W",
-     "min": 31.6,
-     "pts": 8,
-     "reb": 4,
-     "ast": 3,
-     "stl": 2,
-     "blk": 0,
-     "to": 3,
-     "fg": "3/8",
-     "tp": "2/4",
-     "ft": "0/0",
-     "pm": 0,
-     "eff": 9,
-     "ts": 50.0
-    },
-    {
-     "fibaId": 2892252,
-     "date": "2026-09-30",
-     "opponent": "Pardubice",
-     "venue": "home",
-     "result": "L",
-     "min": 21.6,
-     "pts": 7,
-     "reb": 3,
-     "ast": 3,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "3/9",
-     "tp": "1/6",
-     "ft": "0/0",
+     "to": 5,
+     "fg": "7/12",
+     "tp": "2/3",
+     "ft": "4/8",
      "pm": -6,
-     "eff": 8,
-     "ts": 38.9
-    },
-    {
-     "fibaId": 2893123,
-     "date": "2026-10-03",
-     "opponent": "USK",
-     "venue": "away",
-     "result": "L",
-     "min": 21.4,
-     "pts": 6,
-     "reb": 2,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "2/8",
-     "tp": "0/3",
-     "ft": "2/3",
-     "pm": -17,
-     "eff": 1,
-     "ts": 32.2
-    },
-    {
-     "fibaId": 2910248,
-     "date": "2026-10-17",
-     "opponent": "Opava",
-     "venue": "away",
-     "result": "W",
-     "min": 21.4,
-     "pts": 13,
-     "reb": 3,
-     "ast": 2,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "5/7",
-     "tp": "3/4",
-     "ft": "0/0",
-     "pm": 13,
      "eff": 16,
-     "ts": 92.9
-    },
-    {
-     "fibaId": 2921929,
-     "date": "2026-10-23",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "L",
-     "min": 16.9,
-     "pts": 2,
-     "reb": 3,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "0/3",
-     "tp": "0/2",
-     "ft": "2/2",
-     "pm": -7,
-     "eff": 0,
-     "ts": 25.8
-    },
-    {
-     "fibaId": 2927620,
-     "date": "2026-10-28",
-     "opponent": "Brno",
-     "venue": "away",
-     "result": "W",
-     "min": 22.3,
-     "pts": 16,
-     "reb": 3,
-     "ast": 2,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "4/5",
-     "tp": "4/5",
-     "ft": "4/5",
-     "pm": -2,
-     "eff": 17,
-     "ts": 111.1
-    },
-    {
-     "fibaId": 2932740,
-     "date": "2026-11-01",
-     "opponent": "Děčín",
-     "venue": "home",
-     "result": "W",
-     "min": 20.5,
-     "pts": 11,
-     "reb": 4,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "3/7",
-     "tp": "3/6",
-     "ft": "2/3",
-     "pm": 2,
-     "eff": 11,
-     "ts": 66.1
-    },
-    {
-     "fibaId": 2938921,
-     "date": "2026-11-08",
-     "opponent": "Olomoucko",
-     "venue": "away",
-     "result": "W",
-     "min": 23.4,
-     "pts": 14,
-     "reb": 3,
-     "ast": 1,
-     "stl": 2,
-     "blk": 0,
-     "to": 2,
-     "fg": "5/8",
-     "tp": "2/4",
-     "ft": "2/4",
-     "pm": 21,
-     "eff": 13,
-     "ts": 71.7
+     "ts": 64.4
     }
    ]
   },
@@ -12572,103 +12958,103 @@
    "teamLabel": "Písek",
    "shirt": "77",
    "pos": "",
-   "gp": 10,
+   "gp": 11,
    "gs": 0,
-   "min": 218.9,
+   "min": 249.1,
    "totals": {
-    "pts": 105,
-    "fgm": 32,
-    "fga": 75,
-    "tpm": 14,
-    "tpa": 47,
-    "twopm": 18,
-    "twopa": 28,
-    "ftm": 27,
-    "fta": 36,
-    "oreb": 6,
-    "dreb": 26,
-    "reb": 32,
-    "ast": 23,
-    "to": 10,
+    "pts": 135,
+    "fgm": 39,
+    "fga": 87,
+    "tpm": 20,
+    "tpa": 56,
+    "twopm": 19,
+    "twopa": 31,
+    "ftm": 37,
+    "fta": 48,
+    "oreb": 7,
+    "dreb": 31,
+    "reb": 38,
+    "ast": 24,
+    "to": 11,
     "stl": 3,
     "blk": 1,
     "blkr": 3,
-    "pf": 33,
-    "foulon": 25,
-    "pm": 59,
-    "paint": 34,
-    "fast": 25,
-    "second": 11
+    "pf": 36,
+    "foulon": 31,
+    "pm": 65,
+    "paint": 36,
+    "fast": 27,
+    "second": 21
    },
    "perGame": {
-    "pts": 10.5,
-    "fgm": 3.2,
-    "fga": 7.5,
-    "tpm": 1.4,
-    "tpa": 4.7,
-    "twopm": 1.8,
+    "pts": 12.3,
+    "fgm": 3.5,
+    "fga": 7.9,
+    "tpm": 1.8,
+    "tpa": 5.1,
+    "twopm": 1.7,
     "twopa": 2.8,
-    "ftm": 2.7,
-    "fta": 3.6,
+    "ftm": 3.4,
+    "fta": 4.4,
     "oreb": 0.6,
-    "dreb": 2.6,
-    "reb": 3.2,
-    "ast": 2.3,
+    "dreb": 2.8,
+    "reb": 3.5,
+    "ast": 2.2,
     "to": 1.0,
     "stl": 0.3,
     "blk": 0.1,
     "blkr": 0.3,
     "pf": 3.3,
-    "foulon": 2.5,
+    "foulon": 2.8,
     "pm": 5.9,
-    "paint": 3.4,
+    "paint": 3.3,
     "fast": 2.5,
-    "second": 1.1,
-    "min": 21.9,
-    "eff": 10.2,
-    "gmsc": 7.0
+    "second": 1.9,
+    "min": 22.6,
+    "eff": 11.9,
+    "gmsc": 8.6
    },
    "per40": {
-    "pts": 19.2,
-    "reb": 5.8,
-    "ast": 4.2,
+    "pts": 21.7,
+    "reb": 6.1,
+    "ast": 3.9,
     "stl": 0.5,
     "blk": 0.2,
     "to": 1.8
    },
-   "ts": 57.8,
-   "efg": 52.0,
-   "fg": 42.7,
-   "two": 64.3,
-   "three": 29.8,
-   "ft": 75.0,
-   "usg": 19.4,
-   "astTo": 2.3,
-   "pm": 59,
-   "pm40": 10.8,
+   "ts": 62.4,
+   "efg": 56.3,
+   "fg": 44.8,
+   "two": 61.3,
+   "three": 35.7,
+   "ft": 77.1,
+   "usg": 20.1,
+   "astTo": 2.18,
+   "pm": 65,
+   "pm40": 10.4,
    "on": {
-    "min": 218.9,
-    "pf": 501,
-    "pa": 442,
-    "ortg": 109.1,
-    "drtg": 100.8,
-    "net": 8.3
+    "min": 249.2,
+    "pf": 588,
+    "pa": 523,
+    "ortg": 112.5,
+    "drtg": 103.8,
+    "net": 8.7
    },
    "off": {
-    "min": 181.1,
-    "ortg": 111.6,
-    "drtg": 106.3,
-    "net": 5.2
+    "min": 190.8,
+    "ortg": 111.7,
+    "drtg": 105.3,
+    "net": 6.4
    },
-   "onOff": 3.1,
+   "onOff": 2.3,
    "dd": 0,
    "td": 0,
-   "high": 15,
+   "high": 30,
    "zones": {
     "paint": {
-     "m": 17,
-     "a": 24,
-     "pct": 70.8
+     "m": 18,
+     "a": 27,
+     "pct": 66.7
     },
     "mid": {
      "m": 1,
@@ -12681,9 +13067,9 @@
      "pct": 50.0
     },
     "above3": {
-     "m": 13,
-     "a": 45,
-     "pct": 28.9
+     "m": 19,
+     "a": 54,
+     "pct": 35.2
     }
    },
    "log": [
@@ -12886,6 +13272,371 @@
      "pm": 16,
      "eff": 6,
      "ts": 36.1
+    },
+    {
+     "fibaId": 2943577,
+     "date": "2026-11-15",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "W",
+     "min": 30.2,
+     "pts": 30,
+     "reb": 6,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "7/12",
+     "tp": "6/9",
+     "ft": "10/12",
+     "pm": 6,
+     "eff": 29,
+     "ts": 86.8
+    }
+   ]
+  },
+  {
+   "id": "pisek/mikulas-cank",
+   "name": "Mikuláš Čank",
+   "team": "pisek",
+   "teamName": "Sršni Photomate Písek",
+   "teamLabel": "Písek",
+   "shirt": "19",
+   "pos": "",
+   "gp": 11,
+   "gs": 11,
+   "min": 251.9,
+   "totals": {
+    "pts": 115,
+    "fgm": 37,
+    "fga": 80,
+    "tpm": 25,
+    "tpa": 55,
+    "twopm": 12,
+    "twopa": 25,
+    "ftm": 16,
+    "fta": 21,
+    "oreb": 8,
+    "dreb": 30,
+    "reb": 38,
+    "ast": 19,
+    "to": 13,
+    "stl": 8,
+    "blk": 0,
+    "blkr": 2,
+    "pf": 18,
+    "foulon": 18,
+    "pm": 12,
+    "paint": 22,
+    "fast": 18,
+    "second": 14
+   },
+   "perGame": {
+    "pts": 10.5,
+    "fgm": 3.4,
+    "fga": 7.3,
+    "tpm": 2.3,
+    "tpa": 5.0,
+    "twopm": 1.1,
+    "twopa": 2.3,
+    "ftm": 1.5,
+    "fta": 1.9,
+    "oreb": 0.7,
+    "dreb": 2.7,
+    "reb": 3.5,
+    "ast": 1.7,
+    "to": 1.2,
+    "stl": 0.7,
+    "blk": 0.0,
+    "blkr": 0.2,
+    "pf": 1.6,
+    "foulon": 1.6,
+    "pm": 1.1,
+    "paint": 2.0,
+    "fast": 1.6,
+    "second": 1.3,
+    "min": 22.9,
+    "eff": 10.8,
+    "gmsc": 8.0
+   },
+   "per40": {
+    "pts": 18.3,
+    "reb": 6.0,
+    "ast": 3.0,
+    "stl": 1.3,
+    "blk": 0.0,
+    "to": 2.1
+   },
+   "ts": 64.4,
+   "efg": 61.9,
+   "fg": 46.2,
+   "two": 48.0,
+   "three": 45.5,
+   "ft": 76.2,
+   "usg": 17.1,
+   "astTo": 1.46,
+   "pm": 12,
+   "pm40": 1.9,
+   "on": {
+    "min": 251.8,
+    "pf": 581,
+    "pa": 569,
+    "ortg": 113.4,
+    "drtg": 109.2,
+    "net": 4.2
+   },
+   "off": {
+    "min": 188.2,
+    "ortg": 110.6,
+    "drtg": 98.0,
+    "net": 12.7
+   },
+   "onOff": -8.5,
+   "dd": 0,
+   "td": 0,
+   "high": 16,
+   "zones": {
+    "paint": {
+     "m": 11,
+     "a": 22,
+     "pct": 50.0
+    },
+    "mid": {
+     "m": 1,
+     "a": 3,
+     "pct": 33.3
+    },
+    "corner3": {
+     "m": 4,
+     "a": 14,
+     "pct": 28.6
+    },
+    "above3": {
+     "m": 21,
+     "a": 41,
+     "pct": 51.2
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890467,
+     "date": "2026-09-20",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "W",
+     "min": 22.4,
+     "pts": 16,
+     "reb": 9,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "to": 1,
+     "fg": "5/13",
+     "tp": "4/11",
+     "ft": "2/2",
+     "pm": 2,
+     "eff": 19,
+     "ts": 57.6
+    },
+    {
+     "fibaId": 2890473,
+     "date": "2026-09-23",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 24.9,
+     "pts": 13,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "4/5",
+     "tp": "3/4",
+     "ft": "2/2",
+     "pm": 12,
+     "eff": 13,
+     "ts": 110.5
+    },
+    {
+     "fibaId": 2890479,
+     "date": "2026-09-27",
+     "opponent": "Plzeň",
+     "venue": "away",
+     "result": "W",
+     "min": 31.6,
+     "pts": 8,
+     "reb": 4,
+     "ast": 3,
+     "stl": 2,
+     "blk": 0,
+     "to": 3,
+     "fg": "3/8",
+     "tp": "2/4",
+     "ft": "0/0",
+     "pm": 0,
+     "eff": 9,
+     "ts": 50.0
+    },
+    {
+     "fibaId": 2892252,
+     "date": "2026-09-30",
+     "opponent": "Pardubice",
+     "venue": "home",
+     "result": "L",
+     "min": 21.6,
+     "pts": 7,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/9",
+     "tp": "1/6",
+     "ft": "0/0",
+     "pm": -6,
+     "eff": 8,
+     "ts": 38.9
+    },
+    {
+     "fibaId": 2893123,
+     "date": "2026-10-03",
+     "opponent": "USK",
+     "venue": "away",
+     "result": "L",
+     "min": 21.4,
+     "pts": 6,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/8",
+     "tp": "0/3",
+     "ft": "2/3",
+     "pm": -17,
+     "eff": 1,
+     "ts": 32.2
+    },
+    {
+     "fibaId": 2910248,
+     "date": "2026-10-17",
+     "opponent": "Opava",
+     "venue": "away",
+     "result": "W",
+     "min": 21.4,
+     "pts": 13,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "5/7",
+     "tp": "3/4",
+     "ft": "0/0",
+     "pm": 13,
+     "eff": 16,
+     "ts": 92.9
+    },
+    {
+     "fibaId": 2921929,
+     "date": "2026-10-23",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "L",
+     "min": 16.9,
+     "pts": 2,
+     "reb": 3,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "0/3",
+     "tp": "0/2",
+     "ft": "2/2",
+     "pm": -7,
+     "eff": 0,
+     "ts": 25.8
+    },
+    {
+     "fibaId": 2927620,
+     "date": "2026-10-28",
+     "opponent": "Brno",
+     "venue": "away",
+     "result": "W",
+     "min": 22.3,
+     "pts": 16,
+     "reb": 3,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "4/5",
+     "tp": "4/5",
+     "ft": "4/5",
+     "pm": -2,
+     "eff": 17,
+     "ts": 111.1
+    },
+    {
+     "fibaId": 2932740,
+     "date": "2026-11-01",
+     "opponent": "Děčín",
+     "venue": "home",
+     "result": "W",
+     "min": 20.5,
+     "pts": 11,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/7",
+     "tp": "3/6",
+     "ft": "2/3",
+     "pm": 2,
+     "eff": 11,
+     "ts": 66.1
+    },
+    {
+     "fibaId": 2938921,
+     "date": "2026-11-08",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 23.4,
+     "pts": 14,
+     "reb": 3,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "to": 2,
+     "fg": "5/8",
+     "tp": "2/4",
+     "ft": "2/4",
+     "pm": 21,
+     "eff": 13,
+     "ts": 71.7
+    },
+    {
+     "fibaId": 2943577,
+     "date": "2026-11-15",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "W",
+     "min": 25.5,
+     "pts": 9,
+     "reb": 2,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/7",
+     "tp": "3/6",
+     "ft": "0/0",
+     "pm": -6,
+     "eff": 12,
+     "ts": 64.3
     }
    ]
   },
@@ -13162,103 +13913,103 @@
    "teamLabel": "Písek",
    "shirt": "22",
    "pos": "",
-   "gp": 10,
-   "gs": 9,
-   "min": 190.1,
+   "gp": 11,
+   "gs": 10,
+   "min": 209.8,
    "totals": {
-    "pts": 73,
-    "fgm": 26,
-    "fga": 52,
-    "tpm": 7,
-    "tpa": 18,
+    "pts": 80,
+    "fgm": 28,
+    "fga": 59,
+    "tpm": 9,
+    "tpa": 22,
     "twopm": 19,
-    "twopa": 34,
-    "ftm": 14,
-    "fta": 26,
-    "oreb": 10,
-    "dreb": 18,
-    "reb": 28,
+    "twopa": 37,
+    "ftm": 15,
+    "fta": 28,
+    "oreb": 11,
+    "dreb": 19,
+    "reb": 30,
     "ast": 17,
-    "to": 10,
+    "to": 12,
     "stl": 9,
     "blk": 1,
-    "blkr": 4,
-    "pf": 24,
-    "foulon": 27,
-    "pm": 23,
+    "blkr": 5,
+    "pf": 27,
+    "foulon": 28,
+    "pm": 31,
     "paint": 38,
-    "fast": 17,
-    "second": 9
+    "fast": 18,
+    "second": 12
    },
    "perGame": {
     "pts": 7.3,
-    "fgm": 2.6,
-    "fga": 5.2,
-    "tpm": 0.7,
-    "tpa": 1.8,
-    "twopm": 1.9,
+    "fgm": 2.5,
+    "fga": 5.4,
+    "tpm": 0.8,
+    "tpa": 2.0,
+    "twopm": 1.7,
     "twopa": 3.4,
     "ftm": 1.4,
-    "fta": 2.6,
+    "fta": 2.5,
     "oreb": 1.0,
-    "dreb": 1.8,
-    "reb": 2.8,
-    "ast": 1.7,
-    "to": 1.0,
-    "stl": 0.9,
+    "dreb": 1.7,
+    "reb": 2.7,
+    "ast": 1.5,
+    "to": 1.1,
+    "stl": 0.8,
     "blk": 0.1,
-    "blkr": 0.4,
-    "pf": 2.4,
-    "foulon": 2.7,
-    "pm": 2.3,
-    "paint": 3.8,
-    "fast": 1.7,
-    "second": 0.9,
-    "min": 19.0,
-    "eff": 8.0,
-    "gmsc": 5.7
+    "blkr": 0.5,
+    "pf": 2.5,
+    "foulon": 2.5,
+    "pm": 2.8,
+    "paint": 3.5,
+    "fast": 1.6,
+    "second": 1.1,
+    "min": 19.1,
+    "eff": 7.4,
+    "gmsc": 5.2
    },
    "per40": {
-    "pts": 15.4,
-    "reb": 5.9,
-    "ast": 3.6,
-    "stl": 1.9,
+    "pts": 15.3,
+    "reb": 5.7,
+    "ast": 3.2,
+    "stl": 1.7,
     "blk": 0.2,
-    "to": 2.1
+    "to": 2.3
    },
-   "ts": 57.5,
-   "efg": 56.7,
-   "fg": 50.0,
-   "two": 55.9,
-   "three": 38.9,
-   "ft": 53.8,
-   "usg": 16.2,
-   "astTo": 1.7,
-   "pm": 23,
-   "pm40": 4.8,
+   "ts": 56.1,
+   "efg": 55.1,
+   "fg": 47.5,
+   "two": 51.4,
+   "three": 40.9,
+   "ft": 53.6,
+   "usg": 16.7,
+   "astTo": 1.42,
+   "pm": 31,
+   "pm40": 5.9,
    "on": {
-    "min": 190.2,
-    "pf": 442,
-    "pa": 419,
-    "ortg": 116.0,
-    "drtg": 106.0,
-    "net": 10.0
+    "min": 209.9,
+    "pf": 494,
+    "pa": 463,
+    "ortg": 117.7,
+    "drtg": 105.9,
+    "net": 11.8
    },
    "off": {
-    "min": 209.8,
-    "ortg": 105.1,
-    "drtg": 100.9,
-    "net": 4.3
+    "min": 230.1,
+    "ortg": 107.4,
+    "drtg": 103.1,
+    "net": 4.2
    },
-   "onOff": 5.7,
+   "onOff": 7.6,
    "dd": 0,
    "td": 0,
    "high": 11,
    "zones": {
     "paint": {
      "m": 19,
-     "a": 34,
-     "pct": 55.9
+     "a": 37,
+     "pct": 51.4
     },
     "mid": {
      "m": 0,
@@ -13266,14 +14017,14 @@
      "pct": null
     },
     "corner3": {
-     "m": 1,
-     "a": 3,
-     "pct": 33.3
+     "m": 2,
+     "a": 4,
+     "pct": 50.0
     },
     "above3": {
-     "m": 6,
-     "a": 15,
-     "pct": 40.0
+     "m": 7,
+     "a": 18,
+     "pct": 38.9
     }
    },
    "log": [
@@ -13476,6 +14227,311 @@
      "pm": 9,
      "eff": 11,
      "ts": 79.8
+    },
+    {
+     "fibaId": 2943577,
+     "date": "2026-11-15",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "W",
+     "min": 19.7,
+     "pts": 7,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "2/7",
+     "tp": "2/4",
+     "ft": "1/2",
+     "pm": 8,
+     "eff": 1,
+     "ts": 44.4
+    }
+   ]
+  },
+  {
+   "id": "pisek/vojtech-sykora",
+   "name": "Vojtěch Sýkora",
+   "team": "pisek",
+   "teamName": "Sršni Photomate Písek",
+   "teamLabel": "Písek",
+   "shirt": "10",
+   "pos": "",
+   "gp": 8,
+   "gs": 7,
+   "min": 203.8,
+   "totals": {
+    "pts": 56,
+    "fgm": 18,
+    "fga": 46,
+    "tpm": 8,
+    "tpa": 29,
+    "twopm": 10,
+    "twopa": 17,
+    "ftm": 12,
+    "fta": 22,
+    "oreb": 9,
+    "dreb": 57,
+    "reb": 66,
+    "ast": 49,
+    "to": 13,
+    "stl": 11,
+    "blk": 1,
+    "blkr": 3,
+    "pf": 23,
+    "foulon": 18,
+    "pm": 21,
+    "paint": 20,
+    "fast": 14,
+    "second": 5
+   },
+   "perGame": {
+    "pts": 7.0,
+    "fgm": 2.2,
+    "fga": 5.8,
+    "tpm": 1.0,
+    "tpa": 3.6,
+    "twopm": 1.2,
+    "twopa": 2.1,
+    "ftm": 1.5,
+    "fta": 2.8,
+    "oreb": 1.1,
+    "dreb": 7.1,
+    "reb": 8.2,
+    "ast": 6.1,
+    "to": 1.6,
+    "stl": 1.4,
+    "blk": 0.1,
+    "blkr": 0.4,
+    "pf": 2.9,
+    "foulon": 2.2,
+    "pm": 2.6,
+    "paint": 2.5,
+    "fast": 1.8,
+    "second": 0.6,
+    "min": 25.5,
+    "eff": 16.5,
+    "gmsc": 9.3
+   },
+   "per40": {
+    "pts": 11.0,
+    "reb": 13.0,
+    "ast": 9.6,
+    "stl": 2.2,
+    "blk": 0.2,
+    "to": 2.6
+   },
+   "ts": 50.3,
+   "efg": 47.8,
+   "fg": 39.1,
+   "two": 58.8,
+   "three": 27.6,
+   "ft": 54.5,
+   "usg": 14.4,
+   "astTo": 3.77,
+   "pm": 21,
+   "pm40": 4.1,
+   "on": {
+    "min": 203.8,
+    "pf": 450,
+    "pa": 429,
+    "ortg": 109.3,
+    "drtg": 105.6,
+    "net": 3.8
+   },
+   "off": {
+    "min": 116.2,
+    "ortg": 117.4,
+    "drtg": 106.6,
+    "net": 10.8
+   },
+   "onOff": -7.0,
+   "dd": 1,
+   "td": 1,
+   "high": 12,
+   "zones": {
+    "paint": {
+     "m": 10,
+     "a": 16,
+     "pct": 62.5
+    },
+    "mid": {
+     "m": 0,
+     "a": 1,
+     "pct": 0.0
+    },
+    "corner3": {
+     "m": 1,
+     "a": 1,
+     "pct": 100.0
+    },
+    "above3": {
+     "m": 7,
+     "a": 28,
+     "pct": 25.0
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2892252,
+     "date": "2026-09-30",
+     "opponent": "Pardubice",
+     "venue": "home",
+     "result": "L",
+     "min": 11.7,
+     "pts": 8,
+     "reb": 1,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/5",
+     "tp": "1/2",
+     "ft": "1/2",
+     "pm": 1,
+     "eff": 7,
+     "ts": 68.0
+    },
+    {
+     "fibaId": 2893123,
+     "date": "2026-10-03",
+     "opponent": "USK",
+     "venue": "away",
+     "result": "L",
+     "min": 20.9,
+     "pts": 6,
+     "reb": 6,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "to": 0,
+     "fg": "2/7",
+     "tp": "2/6",
+     "ft": "0/0",
+     "pm": -14,
+     "eff": 11,
+     "ts": 42.9
+    },
+    {
+     "fibaId": 2910248,
+     "date": "2026-10-17",
+     "opponent": "Opava",
+     "venue": "away",
+     "result": "W",
+     "min": 30.7,
+     "pts": 10,
+     "reb": 9,
+     "ast": 9,
+     "stl": 2,
+     "blk": 0,
+     "to": 1,
+     "fg": "3/6",
+     "tp": "1/3",
+     "ft": "3/6",
+     "pm": 5,
+     "eff": 23,
+     "ts": 57.9
+    },
+    {
+     "fibaId": 2921929,
+     "date": "2026-10-23",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "L",
+     "min": 24.5,
+     "pts": 3,
+     "reb": 11,
+     "ast": 7,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "1/2",
+     "tp": "1/1",
+     "ft": "0/2",
+     "pm": -4,
+     "eff": 16,
+     "ts": 52.1
+    },
+    {
+     "fibaId": 2927620,
+     "date": "2026-10-28",
+     "opponent": "Brno",
+     "venue": "away",
+     "result": "W",
+     "min": 26.6,
+     "pts": 11,
+     "reb": 9,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/7",
+     "tp": "2/5",
+     "ft": "1/4",
+     "pm": -2,
+     "eff": 19,
+     "ts": 62.8
+    },
+    {
+     "fibaId": 2932740,
+     "date": "2026-11-01",
+     "opponent": "Děčín",
+     "venue": "home",
+     "result": "W",
+     "min": 31.6,
+     "pts": 2,
+     "reb": 8,
+     "ast": 7,
+     "stl": 0,
+     "blk": 0,
+     "to": 4,
+     "fg": "1/7",
+     "tp": "0/6",
+     "ft": "0/0",
+     "pm": 21,
+     "eff": 7,
+     "ts": 14.3
+    },
+    {
+     "fibaId": 2938921,
+     "date": "2026-11-08",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 25.6,
+     "pts": 4,
+     "reb": 9,
+     "ast": 4,
+     "stl": 3,
+     "blk": 0,
+     "to": 0,
+     "fg": "1/7",
+     "tp": "0/3",
+     "ft": "2/2",
+     "pm": 8,
+     "eff": 14,
+     "ts": 25.4
+    },
+    {
+     "fibaId": 2943577,
+     "date": "2026-11-15",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "W",
+     "min": 32.2,
+     "pts": 12,
+     "reb": 13,
+     "ast": 12,
+     "stl": 3,
+     "blk": 1,
+     "to": 3,
+     "fg": "3/5",
+     "tp": "1/3",
+     "ft": "5/6",
+     "pm": 6,
+     "eff": 35,
+     "ts": 78.5
     }
    ]
   },
@@ -13487,95 +14543,95 @@
    "teamLabel": "Písek",
    "shirt": "8",
    "pos": "",
-   "gp": 10,
-   "gs": 10,
-   "min": 175.3,
+   "gp": 11,
+   "gs": 11,
+   "min": 186.0,
    "totals": {
-    "pts": 68,
-    "fgm": 21,
-    "fga": 52,
-    "tpm": 12,
-    "tpa": 36,
+    "pts": 71,
+    "fgm": 22,
+    "fga": 56,
+    "tpm": 13,
+    "tpa": 39,
     "twopm": 9,
-    "twopa": 16,
+    "twopa": 17,
     "ftm": 14,
     "fta": 14,
-    "oreb": 1,
+    "oreb": 2,
     "dreb": 11,
-    "reb": 12,
+    "reb": 13,
     "ast": 12,
     "to": 12,
     "stl": 4,
     "blk": 1,
     "blkr": 1,
-    "pf": 23,
-    "foulon": 8,
-    "pm": 47,
+    "pf": 27,
+    "foulon": 9,
+    "pm": 57,
     "paint": 12,
     "fast": 12,
-    "second": 2
+    "second": 5
    },
    "perGame": {
-    "pts": 6.8,
-    "fgm": 2.1,
-    "fga": 5.2,
+    "pts": 6.5,
+    "fgm": 2.0,
+    "fga": 5.1,
     "tpm": 1.2,
-    "tpa": 3.6,
-    "twopm": 0.9,
-    "twopa": 1.6,
-    "ftm": 1.4,
-    "fta": 1.4,
-    "oreb": 0.1,
-    "dreb": 1.1,
+    "tpa": 3.5,
+    "twopm": 0.8,
+    "twopa": 1.5,
+    "ftm": 1.3,
+    "fta": 1.3,
+    "oreb": 0.2,
+    "dreb": 1.0,
     "reb": 1.2,
-    "ast": 1.2,
-    "to": 1.2,
+    "ast": 1.1,
+    "to": 1.1,
     "stl": 0.4,
     "blk": 0.1,
     "blkr": 0.1,
-    "pf": 2.3,
+    "pf": 2.5,
     "foulon": 0.8,
-    "pm": 4.7,
-    "paint": 1.2,
-    "fast": 1.2,
-    "second": 0.2,
-    "min": 17.5,
-    "eff": 5.4,
-    "gmsc": 3.6
+    "pm": 5.2,
+    "paint": 1.1,
+    "fast": 1.1,
+    "second": 0.5,
+    "min": 16.9,
+    "eff": 5.0,
+    "gmsc": 3.2
    },
    "per40": {
-    "pts": 15.5,
-    "reb": 2.7,
-    "ast": 2.7,
+    "pts": 15.3,
+    "reb": 2.8,
+    "ast": 2.6,
     "stl": 0.9,
     "blk": 0.2,
-    "to": 2.7
+    "to": 2.6
    },
-   "ts": 58.5,
-   "efg": 51.9,
-   "fg": 40.4,
-   "two": 56.2,
+   "ts": 57.1,
+   "efg": 50.9,
+   "fg": 39.3,
+   "two": 52.9,
    "three": 33.3,
    "ft": 100.0,
-   "usg": 17.0,
+   "usg": 16.9,
    "astTo": 1.0,
-   "pm": 47,
-   "pm40": 10.7,
+   "pm": 57,
+   "pm40": 12.3,
    "on": {
-    "min": 175.4,
-    "pf": 411,
-    "pa": 364,
-    "ortg": 115.0,
-    "drtg": 102.9,
-    "net": 12.2
+    "min": 186.1,
+    "pf": 437,
+    "pa": 380,
+    "ortg": 115.8,
+    "drtg": 101.7,
+    "net": 14.1
    },
    "off": {
-    "min": 224.6,
-    "ortg": 106.5,
-    "drtg": 103.7,
-    "net": 2.7
+    "min": 253.9,
+    "ortg": 109.6,
+    "drtg": 106.5,
+    "net": 3.1
    },
-   "onOff": 9.5,
+   "onOff": 11.0,
    "dd": 0,
    "td": 0,
    "high": 14,
@@ -13587,18 +14643,18 @@
     },
     "mid": {
      "m": 3,
-     "a": 5,
-     "pct": 60.0
+     "a": 6,
+     "pct": 50.0
     },
     "corner3": {
-     "m": 5,
-     "a": 14,
-     "pct": 35.7
+     "m": 6,
+     "a": 16,
+     "pct": 37.5
     },
     "above3": {
      "m": 7,
-     "a": 22,
-     "pct": 31.8
+     "a": 23,
+     "pct": 30.4
     }
    },
    "log": [
@@ -13801,271 +14857,26 @@
      "pm": 14,
      "eff": 3,
      "ts": 67.6
-    }
-   ]
-  },
-  {
-   "id": "pisek/vojtech-sykora",
-   "name": "Vojtěch Sýkora",
-   "team": "pisek",
-   "teamName": "Sršni Photomate Písek",
-   "teamLabel": "Písek",
-   "shirt": "10",
-   "pos": "",
-   "gp": 7,
-   "gs": 6,
-   "min": 171.6,
-   "totals": {
-    "pts": 44,
-    "fgm": 15,
-    "fga": 41,
-    "tpm": 7,
-    "tpa": 26,
-    "twopm": 8,
-    "twopa": 15,
-    "ftm": 7,
-    "fta": 16,
-    "oreb": 7,
-    "dreb": 46,
-    "reb": 53,
-    "ast": 37,
-    "to": 10,
-    "stl": 8,
-    "blk": 0,
-    "blkr": 3,
-    "pf": 20,
-    "foulon": 13,
-    "pm": 15,
-    "paint": 16,
-    "fast": 9,
-    "second": 5
-   },
-   "perGame": {
-    "pts": 6.3,
-    "fgm": 2.1,
-    "fga": 5.9,
-    "tpm": 1.0,
-    "tpa": 3.7,
-    "twopm": 1.1,
-    "twopa": 2.1,
-    "ftm": 1.0,
-    "fta": 2.3,
-    "oreb": 1.0,
-    "dreb": 6.6,
-    "reb": 7.6,
-    "ast": 5.3,
-    "to": 1.4,
-    "stl": 1.1,
-    "blk": 0.0,
-    "blkr": 0.4,
-    "pf": 2.9,
-    "foulon": 1.9,
-    "pm": 2.1,
-    "paint": 2.3,
-    "fast": 1.3,
-    "second": 0.7,
-    "min": 24.5,
-    "eff": 13.9,
-    "gmsc": 7.5
-   },
-   "per40": {
-    "pts": 10.3,
-    "reb": 12.4,
-    "ast": 8.6,
-    "stl": 1.9,
-    "blk": 0.0,
-    "to": 2.3
-   },
-   "ts": 45.8,
-   "efg": 45.1,
-   "fg": 36.6,
-   "two": 53.3,
-   "three": 26.9,
-   "ft": 43.8,
-   "usg": 14.5,
-   "astTo": 3.7,
-   "pm": 15,
-   "pm40": 3.5,
-   "on": {
-    "min": 171.6,
-    "pf": 363,
-    "pa": 348,
-    "ortg": 104.7,
-    "drtg": 103.8,
-    "net": 0.8
-   },
-   "off": {
-    "min": 108.4,
-    "ortg": 116.8,
-    "drtg": 105.7,
-    "net": 11.2
-   },
-   "onOff": -10.4,
-   "dd": 0,
-   "td": 0,
-   "high": 11,
-   "zones": {
-    "paint": {
-     "m": 8,
-     "a": 14,
-     "pct": 57.1
     },
-    "mid": {
-     "m": 0,
-     "a": 1,
-     "pct": 0.0
-    },
-    "corner3": {
-     "m": 1,
-     "a": 1,
-     "pct": 100.0
-    },
-    "above3": {
-     "m": 6,
-     "a": 25,
-     "pct": 24.0
-    }
-   },
-   "log": [
     {
-     "fibaId": 2892252,
-     "date": "2026-09-30",
-     "opponent": "Pardubice",
+     "fibaId": 2943577,
+     "date": "2026-11-15",
+     "opponent": "Ústí",
      "venue": "home",
-     "result": "L",
-     "min": 11.7,
-     "pts": 8,
-     "reb": 1,
-     "ast": 3,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "3/5",
-     "tp": "1/2",
-     "ft": "1/2",
-     "pm": 1,
-     "eff": 7,
-     "ts": 68.0
-    },
-    {
-     "fibaId": 2893123,
-     "date": "2026-10-03",
-     "opponent": "USK",
-     "venue": "away",
-     "result": "L",
-     "min": 20.9,
-     "pts": 6,
-     "reb": 6,
-     "ast": 2,
-     "stl": 2,
-     "blk": 0,
-     "to": 0,
-     "fg": "2/7",
-     "tp": "2/6",
-     "ft": "0/0",
-     "pm": -14,
-     "eff": 11,
-     "ts": 42.9
-    },
-    {
-     "fibaId": 2910248,
-     "date": "2026-10-17",
-     "opponent": "Opava",
-     "venue": "away",
      "result": "W",
-     "min": 30.7,
-     "pts": 10,
-     "reb": 9,
-     "ast": 9,
-     "stl": 2,
-     "blk": 0,
-     "to": 1,
-     "fg": "3/6",
-     "tp": "1/3",
-     "ft": "3/6",
-     "pm": 5,
-     "eff": 23,
-     "ts": 57.9
-    },
-    {
-     "fibaId": 2921929,
-     "date": "2026-10-23",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "L",
-     "min": 24.5,
+     "min": 10.7,
      "pts": 3,
-     "reb": 11,
-     "ast": 7,
+     "reb": 1,
+     "ast": 0,
      "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "1/2",
-     "tp": "1/1",
-     "ft": "0/2",
-     "pm": -4,
-     "eff": 16,
-     "ts": 52.1
-    },
-    {
-     "fibaId": 2927620,
-     "date": "2026-10-28",
-     "opponent": "Brno",
-     "venue": "away",
-     "result": "W",
-     "min": 26.6,
-     "pts": 11,
-     "reb": 9,
-     "ast": 5,
-     "stl": 1,
-     "blk": 0,
-     "to": 1,
-     "fg": "4/7",
-     "tp": "2/5",
-     "ft": "1/4",
-     "pm": -2,
-     "eff": 19,
-     "ts": 62.8
-    },
-    {
-     "fibaId": 2932740,
-     "date": "2026-11-01",
-     "opponent": "Děčín",
-     "venue": "home",
-     "result": "W",
-     "min": 31.6,
-     "pts": 2,
-     "reb": 8,
-     "ast": 7,
-     "stl": 0,
-     "blk": 0,
-     "to": 4,
-     "fg": "1/7",
-     "tp": "0/6",
-     "ft": "0/0",
-     "pm": 21,
-     "eff": 7,
-     "ts": 14.3
-    },
-    {
-     "fibaId": 2938921,
-     "date": "2026-11-08",
-     "opponent": "Olomoucko",
-     "venue": "away",
-     "result": "W",
-     "min": 25.6,
-     "pts": 4,
-     "reb": 9,
-     "ast": 4,
-     "stl": 3,
      "blk": 0,
      "to": 0,
-     "fg": "1/7",
-     "tp": "0/3",
-     "ft": "2/2",
-     "pm": 8,
-     "eff": 14,
-     "ts": 25.4
+     "fg": "1/4",
+     "tp": "1/3",
+     "ft": "0/0",
+     "pm": 10,
+     "eff": 1,
+     "ts": 37.5
     }
    ]
   },
@@ -14077,108 +14888,108 @@
    "teamLabel": "Písek",
    "shirt": "7",
    "pos": "",
-   "gp": 9,
+   "gp": 10,
    "gs": 0,
-   "min": 149.5,
+   "min": 170.0,
    "totals": {
-    "pts": 39,
-    "fgm": 18,
-    "fga": 45,
-    "tpm": 1,
-    "tpa": 9,
-    "twopm": 17,
-    "twopa": 36,
+    "pts": 44,
+    "fgm": 20,
+    "fga": 48,
+    "tpm": 2,
+    "tpa": 10,
+    "twopm": 18,
+    "twopa": 38,
     "ftm": 2,
     "fta": 6,
-    "oreb": 3,
-    "dreb": 16,
-    "reb": 19,
-    "ast": 16,
-    "to": 17,
+    "oreb": 6,
+    "dreb": 19,
+    "reb": 25,
+    "ast": 19,
+    "to": 18,
     "stl": 7,
     "blk": 0,
     "blkr": 5,
-    "pf": 13,
-    "foulon": 11,
-    "pm": 19,
-    "paint": 32,
-    "fast": 10,
-    "second": 7
+    "pf": 16,
+    "foulon": 13,
+    "pm": 34,
+    "paint": 34,
+    "fast": 12,
+    "second": 10
    },
    "perGame": {
-    "pts": 4.3,
+    "pts": 4.4,
     "fgm": 2.0,
-    "fga": 5.0,
-    "tpm": 0.1,
+    "fga": 4.8,
+    "tpm": 0.2,
     "tpa": 1.0,
-    "twopm": 1.9,
-    "twopa": 4.0,
+    "twopm": 1.8,
+    "twopa": 3.8,
     "ftm": 0.2,
-    "fta": 0.7,
-    "oreb": 0.3,
-    "dreb": 1.8,
-    "reb": 2.1,
-    "ast": 1.8,
-    "to": 1.9,
-    "stl": 0.8,
+    "fta": 0.6,
+    "oreb": 0.6,
+    "dreb": 1.9,
+    "reb": 2.5,
+    "ast": 1.9,
+    "to": 1.8,
+    "stl": 0.7,
     "blk": 0.0,
-    "blkr": 0.6,
-    "pf": 1.4,
-    "foulon": 1.2,
-    "pm": 2.1,
-    "paint": 3.6,
-    "fast": 1.1,
-    "second": 0.8,
-    "min": 16.6,
-    "eff": 3.7,
-    "gmsc": 1.8
+    "blkr": 0.5,
+    "pf": 1.6,
+    "foulon": 1.3,
+    "pm": 3.4,
+    "paint": 3.4,
+    "fast": 1.2,
+    "second": 1.0,
+    "min": 17.0,
+    "eff": 4.5,
+    "gmsc": 2.3
    },
    "per40": {
     "pts": 10.4,
-    "reb": 5.1,
-    "ast": 4.3,
-    "stl": 1.9,
+    "reb": 5.9,
+    "ast": 4.5,
+    "stl": 1.6,
     "blk": 0.0,
-    "to": 4.5
+    "to": 4.2
    },
-   "ts": 40.9,
-   "efg": 41.1,
-   "fg": 40.0,
-   "two": 47.2,
-   "three": 11.1,
+   "ts": 43.4,
+   "efg": 43.8,
+   "fg": 41.7,
+   "two": 47.4,
+   "three": 20.0,
    "ft": 33.3,
-   "usg": 18.1,
-   "astTo": 0.94,
-   "pm": 19,
-   "pm40": 5.1,
+   "usg": 16.8,
+   "astTo": 1.06,
+   "pm": 34,
+   "pm40": 8.0,
    "on": {
-    "min": 149.6,
-    "pf": 349,
-    "pa": 330,
-    "ortg": 110.9,
-    "drtg": 103.1,
-    "net": 7.8
+    "min": 170.2,
+    "pf": 405,
+    "pa": 371,
+    "ortg": 114.0,
+    "drtg": 103.0,
+    "net": 11.0
    },
    "off": {
-    "min": 210.4,
-    "ortg": 106.7,
-    "drtg": 102.6,
-    "net": 4.1
+    "min": 229.8,
+    "ortg": 108.5,
+    "drtg": 105.0,
+    "net": 3.5
    },
-   "onOff": 3.7,
+   "onOff": 7.5,
    "dd": 0,
    "td": 0,
    "high": 11,
    "zones": {
     "paint": {
-     "m": 16,
-     "a": 35,
-     "pct": 45.7
+     "m": 17,
+     "a": 36,
+     "pct": 47.2
     },
     "mid": {
      "m": 1,
-     "a": 1,
-     "pct": 100.0
+     "a": 2,
+     "pct": 50.0
     },
     "corner3": {
      "m": 1,
@@ -14186,9 +14997,9 @@
      "pct": 33.3
     },
     "above3": {
-     "m": 0,
-     "a": 6,
-     "pct": 0.0
+     "m": 1,
+     "a": 7,
+     "pct": 14.3
     }
    },
    "log": [
@@ -14371,6 +15182,26 @@
      "pm": 23,
      "eff": 2,
      "ts": 25.0
+    },
+    {
+     "fibaId": 2943577,
+     "date": "2026-11-15",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "W",
+     "min": 20.5,
+     "pts": 5,
+     "reb": 6,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/3",
+     "tp": "1/1",
+     "ft": "0/0",
+     "pm": 15,
+     "eff": 12,
+     "ts": 83.3
     }
    ]
   },
@@ -14382,103 +15213,103 @@
    "teamLabel": "Písek",
    "shirt": "31",
    "pos": "",
-   "gp": 9,
+   "gp": 10,
    "gs": 0,
-   "min": 88.1,
+   "min": 91.4,
    "totals": {
     "pts": 35,
     "fgm": 9,
-    "fga": 33,
+    "fga": 35,
     "tpm": 7,
-    "tpa": 24,
+    "tpa": 25,
     "twopm": 2,
-    "twopa": 9,
+    "twopa": 10,
     "ftm": 10,
     "fta": 12,
     "oreb": 5,
     "dreb": 11,
     "reb": 16,
-    "ast": 9,
+    "ast": 10,
     "to": 3,
     "stl": 9,
     "blk": 3,
     "blkr": 1,
     "pf": 11,
     "foulon": 6,
-    "pm": 38,
+    "pm": 39,
     "paint": 2,
     "fast": 4,
     "second": 0
    },
    "perGame": {
-    "pts": 3.9,
-    "fgm": 1.0,
-    "fga": 3.7,
-    "tpm": 0.8,
-    "tpa": 2.7,
+    "pts": 3.5,
+    "fgm": 0.9,
+    "fga": 3.5,
+    "tpm": 0.7,
+    "tpa": 2.5,
     "twopm": 0.2,
     "twopa": 1.0,
-    "ftm": 1.1,
-    "fta": 1.3,
-    "oreb": 0.6,
-    "dreb": 1.2,
-    "reb": 1.8,
+    "ftm": 1.0,
+    "fta": 1.2,
+    "oreb": 0.5,
+    "dreb": 1.1,
+    "reb": 1.6,
     "ast": 1.0,
     "to": 0.3,
-    "stl": 1.0,
+    "stl": 0.9,
     "blk": 0.3,
     "blkr": 0.1,
-    "pf": 1.2,
-    "foulon": 0.7,
-    "pm": 4.2,
+    "pf": 1.1,
+    "foulon": 0.6,
+    "pm": 3.9,
     "paint": 0.2,
     "fast": 0.4,
     "second": 0.0,
-    "min": 9.8,
-    "eff": 4.8,
-    "gmsc": 3.5
+    "min": 9.1,
+    "eff": 4.2,
+    "gmsc": 3.1
    },
    "per40": {
-    "pts": 15.9,
-    "reb": 7.3,
-    "ast": 4.1,
-    "stl": 4.1,
-    "blk": 1.4,
-    "to": 1.4
+    "pts": 15.3,
+    "reb": 7.0,
+    "ast": 4.4,
+    "stl": 3.9,
+    "blk": 1.3,
+    "to": 1.3
    },
-   "ts": 45.7,
-   "efg": 37.9,
-   "fg": 27.3,
-   "two": 22.2,
-   "three": 29.2,
+   "ts": 43.4,
+   "efg": 35.7,
+   "fg": 25.7,
+   "two": 20.0,
+   "three": 28.0,
    "ft": 83.3,
-   "usg": 19.7,
-   "astTo": 3.0,
-   "pm": 38,
-   "pm40": 17.3,
+   "usg": 19.9,
+   "astTo": 3.33,
+   "pm": 39,
+   "pm40": 17.1,
    "on": {
-    "min": 88.1,
-    "pf": 200,
-    "pa": 162,
-    "ortg": 110.8,
-    "drtg": 89.2,
-    "net": 21.6
+    "min": 91.4,
+    "pf": 209,
+    "pa": 170,
+    "ortg": 112.1,
+    "drtg": 90.2,
+    "net": 22.0
    },
    "off": {
-    "min": 271.9,
-    "ortg": 109.6,
-    "drtg": 108.5,
-    "net": 1.1
+    "min": 308.6,
+    "ortg": 112.1,
+    "drtg": 109.4,
+    "net": 2.8
    },
-   "onOff": 20.5,
+   "onOff": 19.2,
    "dd": 0,
    "td": 0,
    "high": 13,
    "zones": {
     "paint": {
      "m": 1,
-     "a": 5,
-     "pct": 20.0
+     "a": 6,
+     "pct": 16.7
     },
     "mid": {
      "m": 1,
@@ -14487,8 +15318,8 @@
     },
     "corner3": {
      "m": 1,
-     "a": 3,
-     "pct": 33.3
+     "a": 4,
+     "pct": 25.0
     },
     "above3": {
      "m": 6,
@@ -14676,6 +15507,26 @@
      "pm": 11,
      "eff": 10,
      "ts": 20.5
+    },
+    {
+     "fibaId": 2943577,
+     "date": "2026-11-15",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "W",
+     "min": 3.3,
+     "pts": 0,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/2",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": 1,
+     "eff": -1,
+     "ts": 0.0
     }
    ]
   },
@@ -15666,20 +16517,23 @@
   },
   {
    "nblId": 544612,
-   "fibaId": null,
+   "fibaId": 2943577,
    "round": "12. kolo",
    "datetime": "2026-11-15T17:00:00+01:00",
    "home": "Sršni Photomate Písek",
    "away": "SLUNETA Ústí nad Labem",
    "homeSlug": "pisek",
    "awaySlug": "usti",
-   "status": "unknown",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 107,
+    "away": 98
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544612",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2943577/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2943577/data.json",
+    "stats": "matches/2943577.json"
    }
   },
   {

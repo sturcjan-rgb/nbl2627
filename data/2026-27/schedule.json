@@ -1,12 +1,12 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-17T02:57:35+00:00",
+ "generatedAt": "2026-11-17T10:51:42+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 68,
+  "final": 69,
   "scheduled": 58,
-  "withFiba": 69
+  "withFiba": 70
  },
  "teams": {
   "plzen": "BK Loko BaliMania Plzeň",
@@ -2743,14 +2743,17 @@
   },
   {
    "nblId": 544612,
-   "fibaId": null,
+   "fibaId": 2943577,
    "round": "12. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-15T17:00:00+01:00",
    "time": "17:00",
    "home": "Sršni Photomate Písek",
    "away": "SLUNETA Ústí nad Labem",
-   "score": null,
+   "score": {
+    "home": 107,
+    "away": 98
+   },
    "quarters": null,
    "roundNum": 12,
    "date": "2026-11-15",
@@ -2758,14 +2761,14 @@
    "awaySlug": "usti",
    "homeLabel": "Písek",
    "awayLabel": "Ústí",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544612",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2943577/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2943577/data.json",
+    "stats": "matches/2943577.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544620,
