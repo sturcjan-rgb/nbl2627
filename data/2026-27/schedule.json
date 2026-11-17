@@ -1,12 +1,12 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-17T10:54:43+00:00",
+ "generatedAt": "2026-11-17T11:01:04+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 69,
+  "final": 73,
   "scheduled": 58,
-  "withFiba": 70
+  "withFiba": 74
  },
  "teams": {
   "plzen": "BK Loko BaliMania Plzeň",
@@ -2639,14 +2639,17 @@
   },
   {
    "nblId": 544613,
-   "fibaId": null,
+   "fibaId": 2943464,
    "round": "12. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-14T18:00:00+01:00",
    "time": "18:00",
    "home": "BK ARMEX ENERGY Děčín",
    "away": "BK Loko BaliMania Plzeň",
-   "score": null,
+   "score": {
+    "home": 100,
+    "away": 79
+   },
    "quarters": null,
    "roundNum": 12,
    "date": "2026-11-14",
@@ -2654,25 +2657,28 @@
    "awaySlug": "plzen",
    "homeLabel": "Děčín",
    "awayLabel": "Plzeň",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544613",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2943464/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2943464/data.json",
+    "stats": "matches/2943464.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544617,
-   "fibaId": null,
+   "fibaId": 2943467,
    "round": "12. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-14T18:00:00+01:00",
    "time": "18:00",
    "home": "BK GAPA Hradec Králové",
    "away": "BK Olomoucko",
-   "score": null,
+   "score": {
+    "home": 106,
+    "away": 82
+   },
    "quarters": null,
    "roundNum": 12,
    "date": "2026-11-14",
@@ -2680,25 +2686,28 @@
    "awaySlug": "olomoucko",
    "homeLabel": "Hradec",
    "awayLabel": "Olomoucko",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544617",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2943467/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2943467/data.json",
+    "stats": "matches/2943467.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544616,
-   "fibaId": null,
+   "fibaId": 2943466,
    "round": "12. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-14T18:30:00+01:00",
    "time": "18:30",
    "home": "PUMPA Basket Brno",
    "away": "BK KVIS Pardubice",
-   "score": null,
+   "score": {
+    "home": 108,
+    "away": 109
+   },
    "quarters": null,
    "roundNum": 12,
    "date": "2026-11-14",
@@ -2706,25 +2715,28 @@
    "awaySlug": "pardubice",
    "homeLabel": "Brno",
    "awayLabel": "Pardubice",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544616",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2943466/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2943466/data.json",
+    "stats": "matches/2943466.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544614,
-   "fibaId": null,
+   "fibaId": 2943551,
    "round": "12. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-15T15:00:00+01:00",
    "time": "15:00",
    "home": "SK Slavia Praha ERA NBK",
    "away": "USK Praha",
-   "score": null,
+   "score": {
+    "home": 97,
+    "away": 71
+   },
    "quarters": null,
    "roundNum": 12,
    "date": "2026-11-15",
@@ -2732,14 +2744,14 @@
    "awaySlug": "usk",
    "homeLabel": "Slavia",
    "awayLabel": "USK",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544614",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2943551/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2943551/data.json",
+    "stats": "matches/2943551.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544612,

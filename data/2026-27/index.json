@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-17T10:54:43+00:00",
+ "generatedAt": "2026-11-17T11:01:04+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 69,
+  "final": 73,
   "teams": 12,
-  "players": 193
+  "players": 195
  },
  "teams": [
   {
@@ -849,6 +849,50 @@
    "score": [
     78,
     72
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2943464,
+   "date": "2026-11-14",
+   "home": "decin",
+   "away": "plzen",
+   "score": [
+    100,
+    79
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2943467,
+   "date": "2026-11-14",
+   "home": "hradec",
+   "away": "olomoucko",
+   "score": [
+    106,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2943466,
+   "date": "2026-11-14",
+   "home": "brno",
+   "away": "pardubice",
+   "score": [
+    108,
+    109
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2943551,
+   "date": "2026-11-15",
+   "home": "slavia",
+   "away": "usk",
+   "score": [
+    97,
+    71
    ],
    "status": "final"
   },
