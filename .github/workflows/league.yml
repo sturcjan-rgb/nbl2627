@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 */2 * * *"     # každé 2 hodiny
     - cron: "47 19-22 * * *"   # navíc večer po zápasech
+  # domácí úloha (scripts/home_sync.sh) pushne nová FIBA ID -> hned přepočítat
+  push:
+    paths:
+      - "data/*/fiba_overrides.json"
+      - "data/*/fiba_candidates.json"
   workflow_dispatch:
     inputs:
       season:
