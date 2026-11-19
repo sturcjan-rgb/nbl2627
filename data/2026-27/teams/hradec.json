@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-19T10:25:32+00:00",
+ "generatedAt": "2026-11-19T11:20:47+00:00",
  "slug": "hradec",
  "name": "BK GAPA Hradec Králové",
  "label": "Hradec",
@@ -8,209 +8,209 @@
  "code": "HKR",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
  "coach": "Peda Stamenkovic",
- "games": 12,
- "minutes": 485.0,
+ "games": 13,
+ "minutes": 525.0,
  "totals": {
-  "pts": 1023,
-  "fgm": 360,
-  "fga": 751,
-  "tpm": 155,
-  "tpa": 387,
-  "twopm": 205,
-  "twopa": 364,
-  "ftm": 148,
-  "fta": 217,
-  "oreb": 105,
-  "dreb": 296,
-  "reb": 401,
-  "ast": 220,
-  "to": 188,
-  "stl": 79,
-  "blk": 34,
-  "blkr": 31,
-  "pf": 241,
-  "foulon": 228,
-  "paint": 384,
-  "fast": 123,
-  "second": 86,
-  "bench": 319,
-  "offto": 175
+  "pts": 1076,
+  "fgm": 378,
+  "fga": 815,
+  "tpm": 159,
+  "tpa": 415,
+  "twopm": 219,
+  "twopa": 400,
+  "ftm": 161,
+  "fta": 242,
+  "oreb": 120,
+  "dreb": 319,
+  "reb": 439,
+  "ast": 226,
+  "to": 208,
+  "stl": 92,
+  "blk": 37,
+  "blkr": 33,
+  "pf": 261,
+  "foulon": 249,
+  "paint": 410,
+  "fast": 137,
+  "second": 100,
+  "bench": 346,
+  "offto": 198
  },
  "oppTotals": {
-  "pts": 1091,
-  "fgm": 385,
-  "fga": 799,
-  "tpm": 124,
-  "tpa": 344,
-  "twopm": 261,
-  "twopa": 455,
-  "ftm": 197,
-  "fta": 263,
-  "oreb": 148,
-  "dreb": 312,
-  "reb": 460,
-  "ast": 241,
-  "to": 168,
-  "stl": 98,
-  "blk": 31,
-  "blkr": 34,
-  "pf": 229,
-  "foulon": 240,
-  "paint": 480,
-  "fast": 140,
-  "second": 175,
-  "bench": 477,
-  "offto": 212
+  "pts": 1175,
+  "fgm": 417,
+  "fga": 866,
+  "tpm": 134,
+  "tpa": 379,
+  "twopm": 283,
+  "twopa": 487,
+  "ftm": 207,
+  "fta": 283,
+  "oreb": 164,
+  "dreb": 348,
+  "reb": 512,
+  "ast": 260,
+  "to": 190,
+  "stl": 112,
+  "blk": 33,
+  "blkr": 37,
+  "pf": 250,
+  "foulon": 258,
+  "paint": 522,
+  "fast": 149,
+  "second": 194,
+  "bench": 511,
+  "offto": 227
  },
  "perGame": {
-  "pts": 85.2,
-  "fgm": 30.0,
-  "fga": 62.6,
-  "tpm": 12.9,
-  "tpa": 32.2,
-  "twopm": 17.1,
-  "twopa": 30.3,
-  "ftm": 12.3,
-  "fta": 18.1,
-  "oreb": 8.8,
-  "dreb": 24.7,
-  "reb": 33.4,
-  "ast": 18.3,
-  "to": 15.7,
-  "stl": 6.6,
+  "pts": 82.8,
+  "fgm": 29.1,
+  "fga": 62.7,
+  "tpm": 12.2,
+  "tpa": 31.9,
+  "twopm": 16.8,
+  "twopa": 30.8,
+  "ftm": 12.4,
+  "fta": 18.6,
+  "oreb": 9.2,
+  "dreb": 24.5,
+  "reb": 33.8,
+  "ast": 17.4,
+  "to": 16.0,
+  "stl": 7.1,
   "blk": 2.8,
-  "blkr": 2.6,
+  "blkr": 2.5,
   "pf": 20.1,
-  "foulon": 19.0,
-  "paint": 32.0,
-  "fast": 10.2,
-  "second": 7.2,
+  "foulon": 19.2,
+  "paint": 31.5,
+  "fast": 10.5,
+  "second": 7.7,
   "bench": 26.6,
-  "offto": 14.6,
-  "ppg": 85.2,
-  "oppg": 90.9,
-  "diff": -5.7
+  "offto": 15.2,
+  "ppg": 82.8,
+  "oppg": 90.4,
+  "diff": -7.6
  },
  "oppPerGame": {
-  "pts": 90.9,
+  "pts": 90.4,
   "fgm": 32.1,
   "fga": 66.6,
   "tpm": 10.3,
-  "tpa": 28.7,
+  "tpa": 29.2,
   "twopm": 21.8,
-  "twopa": 37.9,
-  "ftm": 16.4,
-  "fta": 21.9,
-  "oreb": 12.3,
-  "dreb": 26.0,
-  "reb": 38.3,
-  "ast": 20.1,
-  "to": 14.0,
-  "stl": 8.2,
-  "blk": 2.6,
+  "twopa": 37.5,
+  "ftm": 15.9,
+  "fta": 21.8,
+  "oreb": 12.6,
+  "dreb": 26.8,
+  "reb": 39.4,
+  "ast": 20.0,
+  "to": 14.6,
+  "stl": 8.6,
+  "blk": 2.5,
   "blkr": 2.8,
-  "pf": 19.1,
-  "foulon": 20.0,
-  "paint": 40.0,
-  "fast": 11.7,
-  "second": 14.6,
-  "bench": 39.8,
-  "offto": 17.7
+  "pf": 19.2,
+  "foulon": 19.8,
+  "paint": 40.2,
+  "fast": 11.5,
+  "second": 14.9,
+  "bench": 39.3,
+  "offto": 17.5
  },
  "adv": {
-  "poss": 929.5,
-  "pace": 76.9,
-  "ortg": 110.1,
-  "drtg": 116.7,
-  "net": -6.7,
-  "efg": 58.3,
-  "ts": 60.4,
-  "tov": 18.2,
-  "orb": 25.2,
-  "drb": 66.7,
-  "ftr": 19.7,
-  "fta_rate": 28.9,
-  "three_par": 51.5,
-  "fg": 47.9,
-  "two": 56.3,
-  "three": 40.1,
-  "ft": 68.2,
-  "ast_pct": 61.1,
-  "ast_to": 1.17,
-  "stl_pct": 8.5,
-  "blk_pct": 7.5,
-  "pts_per_shot": 1.21
+  "poss": 1009.5,
+  "pace": 77.2,
+  "ortg": 106.6,
+  "drtg": 115.6,
+  "net": -9.0,
+  "efg": 56.1,
+  "ts": 58.4,
+  "tov": 18.4,
+  "orb": 25.6,
+  "drb": 66.0,
+  "ftr": 19.8,
+  "fta_rate": 29.7,
+  "three_par": 50.9,
+  "fg": 46.4,
+  "two": 54.8,
+  "three": 38.3,
+  "ft": 66.5,
+  "ast_pct": 59.8,
+  "ast_to": 1.09,
+  "stl_pct": 9.1,
+  "blk_pct": 7.6,
+  "pts_per_shot": 1.17
  },
  "oppAdv": {
   "opp_efg": 55.9,
-  "opp_ts": 59.6,
-  "opp_tov": 15.5,
-  "opp_ftr": 24.7,
-  "opp_three_par": 43.1,
+  "opp_ts": 59.3,
+  "opp_tov": 16.1,
+  "opp_ftr": 23.9,
+  "opp_three_par": 43.8,
   "opp_fg": 48.2,
-  "opp_two": 57.4,
-  "opp_three": 36.0,
-  "opp_ft": 74.9
+  "opp_two": 58.1,
+  "opp_three": 35.4,
+  "opp_ft": 73.1
  },
  "factors": {
-  "efg": 58.3,
-  "tov": 18.2,
-  "orb": 25.2,
-  "ftr": 19.7,
+  "efg": 56.1,
+  "tov": 18.4,
+  "orb": 25.6,
+  "ftr": 19.8,
   "opp_efg": 55.9,
-  "opp_tov": 15.5,
-  "drb": 66.7,
-  "opp_ftr": 24.7
+  "opp_tov": 16.1,
+  "drb": 66.0,
+  "opp_ftr": 23.9
  },
  "zones": {
   "paint": {
-   "m": 193,
-   "a": 328,
-   "pct": 58.8,
-   "share": 43.7
+   "m": 206,
+   "a": 359,
+   "pct": 57.4,
+   "share": 44.0
   },
   "mid": {
-   "m": 12,
-   "a": 36,
-   "pct": 33.3,
-   "share": 4.8
+   "m": 13,
+   "a": 41,
+   "pct": 31.7,
+   "share": 5.0
   },
   "corner3": {
    "m": 37,
-   "a": 65,
-   "pct": 56.9,
+   "a": 71,
+   "pct": 52.1,
    "share": 8.7
   },
   "above3": {
-   "m": 118,
-   "a": 322,
-   "pct": 36.6,
-   "share": 42.9
+   "m": 122,
+   "a": 344,
+   "pct": 35.5,
+   "share": 42.2
   }
  },
  "oppZones": {
   "paint": {
-   "m": 246,
-   "a": 407,
-   "pct": 60.4,
+   "m": 267,
+   "a": 438,
+   "pct": 61.0,
    "share": null
   },
   "mid": {
-   "m": 15,
-   "a": 48,
-   "pct": 31.2,
+   "m": 16,
+   "a": 49,
+   "pct": 32.7,
    "share": null
   },
   "corner3": {
-   "m": 26,
-   "a": 62,
-   "pct": 41.9,
+   "m": 32,
+   "a": 73,
+   "pct": 43.8,
    "share": null
   },
   "above3": {
-   "m": 98,
-   "a": 282,
-   "pct": 34.8,
+   "m": 102,
+   "a": 306,
+   "pct": 33.3,
    "share": null
   }
  },
@@ -223,16 +223,16 @@
    "20+"
   ],
   "pts": [
-   169,
-   177,
-   208,
-   225,
-   231
+   183,
+   188,
+   217,
+   235,
+   239
   ],
-  "unassigned": 13,
-  "possessions": 959,
-  "ptsPerPoss": 1.07,
-  "avgSec": 14.3
+  "unassigned": 14,
+  "possessions": 1044,
+  "ptsPerPoss": 1.03,
+  "avgSec": 14.2
  },
  "clutch": {
   "pts": 30,
@@ -252,34 +252,34 @@
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 23.6,
-   "oppg": 21.5,
-   "diff": 2.1,
-   "n": 12
+   "ppg": 22.5,
+   "oppg": 21.8,
+   "diff": 0.7,
+   "n": 13
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 21.8,
-   "oppg": 23.7,
-   "diff": -1.9,
-   "n": 12
+   "ppg": 21.5,
+   "oppg": 23.6,
+   "diff": -2.2,
+   "n": 13
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 19.0,
-   "oppg": 24.0,
-   "diff": -5.0,
-   "n": 12
+   "ppg": 18.4,
+   "oppg": 23.5,
+   "diff": -5.2,
+   "n": 13
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 19.6,
-   "oppg": 20.9,
-   "diff": -1.3,
-   "n": 12
+   "ppg": 19.2,
+   "oppg": 20.7,
+   "diff": -1.5,
+   "n": 13
   },
   {
    "period": 5,
@@ -295,7 +295,7 @@
   "biggestDeficit": 33,
   "biggestRun": 13,
   "biggestRunAllowed": 16,
-  "leadChangesPerGame": 4.2
+  "leadChangesPerGame": 4.0
  },
  "lineups": {
   "fives": [
@@ -499,6 +499,28 @@
    },
    {
     "players": [
+     "Brion Jamar Mclaurin",
+     "Elijah Morgan",
+     "Justin Banks",
+     "Tomáš Dvořák",
+     "Xavion Brown"
+    ],
+    "min": 8.3,
+    "pf": 16,
+    "pa": 20,
+    "pm": -4,
+    "poss": 17.8,
+    "pF": 17.8,
+    "pA": 17.9,
+    "ortg": 90.1,
+    "drtg": 111.9,
+    "net": -21.8,
+    "efg": 63.6,
+    "oefg": 64.3,
+    "games": 4
+   },
+   {
+    "players": [
      "Cortesao Joao Eduardo",
      "Elijah Morgan",
      "Marco Šinik",
@@ -518,6 +540,28 @@
     "efg": 79.2,
     "oefg": 79.2,
     "games": 1
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Christian Ashby",
+     "Elijah Morgan",
+     "Tomáš Dvořák",
+     "Xavion Brown"
+    ],
+    "min": 8.1,
+    "pf": 8,
+    "pa": 22,
+    "pm": -14,
+    "poss": 14.5,
+    "pF": 15.0,
+    "pA": 14.1,
+    "ortg": 53.3,
+    "drtg": 156.2,
+    "net": -102.9,
+    "efg": 28.6,
+    "oefg": 81.8,
+    "games": 6
    },
    {
     "players": [
@@ -587,6 +631,50 @@
    },
    {
     "players": [
+     "Elijah Morgan",
+     "Justin Banks",
+     "Tomáš Dvořák",
+     "Tomáš Merta",
+     "Xavion Brown"
+    ],
+    "min": 7.6,
+    "pf": 21,
+    "pa": 21,
+    "pm": 0,
+    "poss": 14.9,
+    "pF": 14.8,
+    "pA": 15.1,
+    "ortg": 142.3,
+    "drtg": 139.3,
+    "net": 3.0,
+    "efg": 75.0,
+    "oefg": 65.4,
+    "games": 2
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Elijah Morgan",
+     "Justin Banks",
+     "Tomáš Dvořák",
+     "Tomáš Merta"
+    ],
+    "min": 7.5,
+    "pf": 24,
+    "pa": 19,
+    "pm": 5,
+    "poss": 16.0,
+    "pF": 16.2,
+    "pA": 15.8,
+    "ortg": 148.1,
+    "drtg": 120.6,
+    "net": 27.6,
+    "efg": 76.9,
+    "oefg": 68.2,
+    "games": 4
+   },
+   {
+    "players": [
      "Brion Jamar Mclaurin",
      "Christian Ashby",
      "Marco Šinik",
@@ -627,6 +715,28 @@
     "net": -39.8,
     "efg": 50.0,
     "oefg": 72.2,
+    "games": 3
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Christian Ashby",
+     "Elijah Morgan",
+     "Justin Banks",
+     "Tomáš Merta"
+    ],
+    "min": 7.0,
+    "pf": 9,
+    "pa": 20,
+    "pm": -11,
+    "poss": 14.9,
+    "pF": 14.2,
+    "pA": 15.6,
+    "ortg": 63.4,
+    "drtg": 127.9,
+    "net": -64.5,
+    "efg": 16.7,
+    "oefg": 66.7,
     "games": 3
    },
    {
@@ -672,28 +782,6 @@
     "efg": 50.0,
     "oefg": 33.3,
     "games": 4
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
-     "Christian Ashby",
-     "Elijah Morgan",
-     "Tomáš Dvořák",
-     "Xavion Brown"
-    ],
-    "min": 6.8,
-    "pf": 8,
-    "pa": 18,
-    "pm": -10,
-    "poss": 12.0,
-    "pF": 13.0,
-    "pA": 11.1,
-    "ortg": 61.5,
-    "drtg": 162.5,
-    "net": -100.9,
-    "efg": 33.3,
-    "oefg": 77.8,
-    "games": 5
    },
    {
     "players": [
@@ -785,24 +873,24 @@
    },
    {
     "players": [
-     "Brion Jamar Mclaurin",
+     "Christian Ashby",
      "Elijah Morgan",
      "Justin Banks",
-     "Tomáš Dvořák",
+     "Tomáš Merta",
      "Xavion Brown"
     ],
-    "min": 5.7,
-    "pf": 12,
-    "pa": 15,
-    "pm": -3,
-    "poss": 11.8,
-    "pF": 11.8,
-    "pA": 11.9,
-    "ortg": 102.0,
-    "drtg": 126.3,
-    "net": -24.2,
-    "efg": 62.5,
-    "oefg": 65.0,
+    "min": 6.1,
+    "pf": 9,
+    "pa": 4,
+    "pm": 5,
+    "poss": 10.4,
+    "pF": 10.8,
+    "pA": 10.0,
+    "ortg": 83.6,
+    "drtg": 40.0,
+    "net": 43.6,
+    "efg": 50.0,
+    "oefg": 33.3,
     "games": 3
    },
    {
@@ -870,6 +958,28 @@
     "efg": 85.7,
     "oefg": 69.2,
     "games": 1
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Christian Ashby",
+     "Tomáš Dvořák",
+     "Tomáš Merta",
+     "Xavion Brown"
+    ],
+    "min": 5.4,
+    "pf": 6,
+    "pa": 0,
+    "pm": 6,
+    "poss": 8.9,
+    "pF": 9.9,
+    "pA": 8.0,
+    "ortg": 60.7,
+    "drtg": 0.0,
+    "net": 60.7,
+    "efg": 20.8,
+    "oefg": 0.0,
+    "games": 2
    },
    {
     "players": [
@@ -1050,23 +1160,23 @@
    {
     "players": [
      "Brion Jamar Mclaurin",
+     "Christian Ashby",
      "Elijah Morgan",
-     "Justin Banks",
-     "Tomáš Dvořák",
-     "Tomáš Merta"
+     "Tomáš Merta",
+     "Xavion Brown"
     ],
     "min": 4.8,
-    "pf": 20,
-    "pa": 15,
+    "pf": 11,
+    "pa": 6,
     "pm": 5,
-    "poss": 10.8,
-    "pF": 10.9,
-    "pA": 10.8,
-    "ortg": 183.8,
-    "drtg": 139.4,
-    "net": 44.4,
-    "efg": 100.0,
-    "oefg": 78.6,
+    "poss": 9.8,
+    "pF": 11.6,
+    "pA": 7.9,
+    "ortg": 94.5,
+    "drtg": 76.1,
+    "net": 18.4,
+    "efg": 50.0,
+    "oefg": 35.7,
     "games": 3
    },
    {
@@ -1162,44 +1272,22 @@
      "Brion Jamar Mclaurin",
      "Christian Ashby",
      "Elijah Morgan",
-     "Tomáš Merta",
-     "Xavion Brown"
-    ],
-    "min": 4.1,
-    "pf": 10,
-    "pa": 4,
-    "pm": 6,
-    "poss": 7.9,
-    "pF": 8.9,
-    "pA": 6.9,
-    "ortg": 112.6,
-    "drtg": 58.1,
-    "net": 54.5,
-    "efg": 50.0,
-    "oefg": 25.0,
-    "games": 2
-   },
-   {
-    "players": [
-     "Elijah Morgan",
      "Justin Banks",
-     "Tomáš Dvořák",
-     "Tomáš Merta",
      "Xavion Brown"
     ],
-    "min": 4.1,
-    "pf": 15,
-    "pa": 10,
-    "pm": 5,
-    "poss": 8.5,
-    "pF": 8.9,
-    "pA": 8.2,
-    "ortg": 168.9,
-    "drtg": 122.0,
-    "net": 47.0,
-    "efg": 130.0,
-    "oefg": 50.0,
-    "games": 1
+    "min": 4.0,
+    "pf": 7,
+    "pa": 13,
+    "pm": -6,
+    "poss": 6.4,
+    "pF": 6.0,
+    "pA": 6.9,
+    "ortg": 116.7,
+    "drtg": 189.0,
+    "net": -72.3,
+    "efg": 70.0,
+    "oefg": 85.7,
+    "games": 3
    },
    {
     "players": [
@@ -1247,23 +1335,23 @@
    },
    {
     "players": [
+     "Brion Jamar Mclaurin",
      "Christian Ashby",
-     "Elijah Morgan",
      "Justin Banks",
      "Tomáš Merta",
      "Xavion Brown"
     ],
-    "min": 3.7,
-    "pf": 7,
-    "pa": 2,
-    "pm": 5,
-    "poss": 6.9,
-    "pF": 6.9,
-    "pA": 7.0,
-    "ortg": 101.7,
-    "drtg": 28.6,
-    "net": 73.2,
-    "efg": 62.5,
+    "min": 3.8,
+    "pf": 5,
+    "pa": 8,
+    "pm": -3,
+    "poss": 8.8,
+    "pF": 7.9,
+    "pA": 9.6,
+    "ortg": 63.5,
+    "drtg": 83.0,
+    "net": -19.5,
+    "efg": 18.8,
     "oefg": 33.3,
     "games": 2
    },
@@ -1424,28 +1512,6 @@
    {
     "players": [
      "Brion Jamar Mclaurin",
-     "Christian Ashby",
-     "Elijah Morgan",
-     "Justin Banks",
-     "Xavion Brown"
-    ],
-    "min": 3.2,
-    "pf": 7,
-    "pa": 8,
-    "pm": -1,
-    "poss": 4.4,
-    "pF": 4.0,
-    "pA": 4.9,
-    "ortg": 175.0,
-    "drtg": 163.9,
-    "net": 11.1,
-    "efg": 87.5,
-    "oefg": 70.0,
-    "games": 2
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
      "Cortesao Joao Eduardo",
      "Elijah Morgan",
      "Tomáš Dvořák",
@@ -1599,6 +1665,50 @@
    },
    {
     "players": [
+     "Adam Kolář",
+     "Elijah Morgan",
+     "Justin Banks",
+     "Tomáš Dvořák",
+     "Xavion Brown"
+    ],
+    "min": 2.7,
+    "pf": 8,
+    "pa": 5,
+    "pm": 3,
+    "poss": 5.0,
+    "pF": 5.0,
+    "pA": 5.0,
+    "ortg": 160.0,
+    "drtg": 100.0,
+    "net": 60.0,
+    "efg": 80.0,
+    "oefg": 50.0,
+    "games": 1
+   },
+   {
+    "players": [
+     "Christian Ashby",
+     "Justin Banks",
+     "Tomáš Dvořák",
+     "Tomáš Merta",
+     "Xavion Brown"
+    ],
+    "min": 2.6,
+    "pf": 5,
+    "pa": 5,
+    "pm": 0,
+    "poss": 5.7,
+    "pF": 5.0,
+    "pA": 6.3,
+    "ortg": 100.0,
+    "drtg": 79.1,
+    "net": 20.9,
+    "efg": 62.5,
+    "oefg": 37.5,
+    "games": 2
+   },
+   {
+    "players": [
      "Christian Ashby",
      "Cortesao Joao Eduardo",
      "Elijah Morgan",
@@ -1693,18 +1803,18 @@
      "Justin Banks",
      "Tomáš Dvořák"
     ],
-    "min": 130.0,
-    "pf": 290,
-    "pa": 282,
-    "pm": 8,
-    "poss": 246.2,
-    "pF": 244.5,
-    "pA": 247.8,
-    "ortg": 118.6,
-    "drtg": 113.8,
-    "net": 4.8,
-    "efg": 60.9,
-    "oefg": 54.1
+    "min": 131.0,
+    "pf": 292,
+    "pa": 287,
+    "pm": 5,
+    "poss": 249.3,
+    "pF": 247.5,
+    "pA": 251.2,
+    "ortg": 118.0,
+    "drtg": 114.3,
+    "net": 3.7,
+    "efg": 60.8,
+    "oefg": 54.5
    },
    {
     "players": [
@@ -1712,37 +1822,18 @@
      "Tomáš Dvořák",
      "Xavion Brown"
     ],
-    "min": 112.5,
-    "pf": 263,
-    "pa": 247,
-    "pm": 16,
-    "poss": 216.5,
-    "pF": 215.1,
-    "pA": 218.0,
-    "ortg": 122.3,
-    "drtg": 113.3,
-    "net": 9.0,
-    "efg": 64.7,
-    "oefg": 55.6
-   },
-   {
-    "players": [
-     "Christian Ashby",
-     "Justin Banks",
-     "Xavion Brown"
-    ],
-    "min": 107.8,
-    "pf": 240,
-    "pa": 201,
-    "pm": 39,
-    "poss": 203.0,
-    "pF": 205.1,
-    "pA": 200.9,
-    "ortg": 117.0,
-    "drtg": 100.1,
-    "net": 16.9,
-    "efg": 60.6,
-    "oefg": 49.7
+    "min": 122.3,
+    "pf": 283,
+    "pa": 273,
+    "pm": 10,
+    "poss": 237.6,
+    "pF": 235.0,
+    "pA": 240.2,
+    "ortg": 120.4,
+    "drtg": 113.7,
+    "net": 6.8,
+    "efg": 63.9,
+    "oefg": 56.8
    },
    {
     "players": [
@@ -1750,75 +1841,94 @@
      "Justin Banks",
      "Tomáš Dvořák"
     ],
-    "min": 105.7,
-    "pf": 231,
-    "pa": 262,
-    "pm": -31,
-    "poss": 201.8,
-    "pF": 199.0,
-    "pA": 204.5,
-    "ortg": 116.1,
-    "drtg": 128.1,
-    "net": -12.1,
-    "efg": 61.5,
+    "min": 117.2,
+    "pf": 253,
+    "pa": 287,
+    "pm": -34,
+    "poss": 224.3,
+    "pF": 221.2,
+    "pA": 227.4,
+    "ortg": 114.4,
+    "drtg": 126.2,
+    "net": -11.9,
+    "efg": 60.3,
+    "oefg": 60.5
+   },
+   {
+    "players": [
+     "Christian Ashby",
+     "Justin Banks",
+     "Xavion Brown"
+    ],
+    "min": 113.6,
+    "pf": 246,
+    "pa": 218,
+    "pm": 28,
+    "poss": 215.0,
+    "pF": 216.9,
+    "pA": 213.1,
+    "ortg": 113.4,
+    "drtg": 102.3,
+    "net": 11.1,
+    "efg": 58.7,
+    "oefg": 50.8
+   },
+   {
+    "players": [
+     "Christian Ashby",
+     "Tomáš Dvořák",
+     "Xavion Brown"
+    ],
+    "min": 107.7,
+    "pf": 218,
+    "pa": 196,
+    "pm": 22,
+    "poss": 203.0,
+    "pF": 204.1,
+    "pA": 201.9,
+    "ortg": 106.8,
+    "drtg": 97.1,
+    "net": 9.7,
+    "efg": 53.2,
+    "oefg": 47.9
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Christian Ashby",
+     "Tomáš Dvořák"
+    ],
+    "min": 97.2,
+    "pf": 216,
+    "pa": 213,
+    "pm": 3,
+    "poss": 187.4,
+    "pF": 186.9,
+    "pA": 187.9,
+    "ortg": 115.6,
+    "drtg": 113.3,
+    "net": 2.2,
+    "efg": 59.7,
     "oefg": 60.2
    },
    {
     "players": [
      "Christian Ashby",
-     "Tomáš Dvořák",
-     "Xavion Brown"
-    ],
-    "min": 99.6,
-    "pf": 211,
-    "pa": 181,
-    "pm": 30,
-    "poss": 187.7,
-    "pF": 189.2,
-    "pA": 186.1,
-    "ortg": 111.5,
-    "drtg": 97.2,
-    "net": 14.2,
-    "efg": 55.6,
-    "oefg": 47.5
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
-     "Christian Ashby",
-     "Tomáš Dvořák"
-    ],
-    "min": 90.6,
-    "pf": 206,
-    "pa": 207,
-    "pm": -1,
-    "poss": 175.0,
-    "pF": 174.0,
-    "pA": 175.9,
-    "ortg": 118.4,
-    "drtg": 117.7,
-    "net": 0.7,
-    "efg": 62.1,
-    "oefg": 61.0
-   },
-   {
-    "players": [
-     "Christian Ashby",
      "Elijah Morgan",
      "Justin Banks"
     ],
-    "min": 87.3,
-    "pf": 175,
-    "pa": 194,
-    "pm": -19,
-    "poss": 160.8,
-    "pF": 162.9,
-    "pA": 158.8,
-    "ortg": 107.4,
-    "drtg": 122.2,
-    "net": -14.7,
-    "efg": 57.1,
-    "oefg": 62.0
+    "min": 95.4,
+    "pf": 183,
+    "pa": 214,
+    "pm": -31,
+    "poss": 177.0,
+    "pF": 178.5,
+    "pA": 175.6,
+    "ortg": 102.5,
+    "drtg": 121.9,
+    "net": -19.4,
+    "efg": 53.8,
+    "oefg": 61.8
    },
    {
     "players": [
@@ -1826,18 +1936,18 @@
      "Justin Banks",
      "Tomáš Dvořák"
     ],
-    "min": 83.2,
-    "pf": 189,
-    "pa": 202,
-    "pm": -13,
-    "poss": 158.2,
-    "pF": 155.5,
-    "pA": 160.8,
-    "ortg": 121.6,
-    "drtg": 125.6,
-    "net": -4.0,
-    "efg": 63.3,
-    "oefg": 62.7
+    "min": 88.6,
+    "pf": 197,
+    "pa": 211,
+    "pm": -14,
+    "poss": 169.3,
+    "pF": 166.8,
+    "pA": 171.8,
+    "ortg": 118.1,
+    "drtg": 122.8,
+    "net": -4.7,
+    "efg": 62.2,
+    "oefg": 62.3
    },
    {
     "players": [
@@ -1845,18 +1955,18 @@
      "Christian Ashby",
      "Justin Banks"
     ],
-    "min": 80.0,
-    "pf": 174,
-    "pa": 182,
-    "pm": -8,
-    "poss": 149.1,
-    "pF": 148.6,
-    "pA": 149.5,
-    "ortg": 117.1,
-    "drtg": 121.7,
-    "net": -4.6,
-    "efg": 63.7,
-    "oefg": 61.7
+    "min": 87.1,
+    "pf": 182,
+    "pa": 205,
+    "pm": -23,
+    "poss": 165.2,
+    "pF": 163.2,
+    "pA": 167.2,
+    "ortg": 111.5,
+    "drtg": 122.6,
+    "net": -11.1,
+    "efg": 58.4,
+    "oefg": 61.8
    },
    {
     "players": [
@@ -1864,18 +1974,94 @@
      "Elijah Morgan",
      "Tomáš Dvořák"
     ],
-    "min": 75.5,
-    "pf": 164,
-    "pa": 194,
-    "pm": -30,
-    "poss": 148.0,
-    "pF": 151.1,
-    "pA": 144.9,
-    "ortg": 108.6,
-    "drtg": 133.9,
-    "net": -25.4,
-    "efg": 58.5,
-    "oefg": 62.9
+    "min": 86.2,
+    "pf": 179,
+    "pa": 213,
+    "pm": -34,
+    "poss": 169.5,
+    "pF": 173.2,
+    "pA": 165.9,
+    "ortg": 103.4,
+    "drtg": 128.4,
+    "net": -25.0,
+    "efg": 56.1,
+    "oefg": 61.6
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Tomáš Dvořák",
+     "Xavion Brown"
+    ],
+    "min": 82.5,
+    "pf": 148,
+    "pa": 143,
+    "pm": 5,
+    "poss": 157.0,
+    "pF": 158.8,
+    "pA": 155.1,
+    "ortg": 93.2,
+    "drtg": 92.2,
+    "net": 1.0,
+    "efg": 50.4,
+    "oefg": 46.9
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Christian Ashby",
+     "Xavion Brown"
+    ],
+    "min": 81.8,
+    "pf": 153,
+    "pa": 149,
+    "pm": 4,
+    "poss": 151.6,
+    "pF": 153.8,
+    "pA": 149.5,
+    "ortg": 99.5,
+    "drtg": 99.7,
+    "net": -0.2,
+    "efg": 48.8,
+    "oefg": 53.8
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Christian Ashby",
+     "Elijah Morgan"
+    ],
+    "min": 81.7,
+    "pf": 159,
+    "pa": 202,
+    "pm": -43,
+    "poss": 156.3,
+    "pF": 158.8,
+    "pA": 153.8,
+    "ortg": 100.2,
+    "drtg": 131.3,
+    "net": -31.2,
+    "efg": 51.5,
+    "oefg": 62.1
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Elijah Morgan",
+     "Justin Banks"
+    ],
+    "min": 75.7,
+    "pf": 145,
+    "pa": 186,
+    "pm": -41,
+    "poss": 144.0,
+    "pF": 142.6,
+    "pA": 145.4,
+    "ortg": 101.7,
+    "drtg": 128.0,
+    "net": -26.3,
+    "efg": 51.7,
+    "oefg": 62.0
    },
    {
     "players": [
@@ -1917,60 +2103,60 @@
    },
    {
     "players": [
-     "Brion Jamar Mclaurin",
-     "Tomáš Dvořák",
+     "Christian Ashby",
+     "Elijah Morgan",
+     "Tomáš Dvořák"
+    ],
+    "min": 70.5,
+    "pf": 145,
+    "pa": 167,
+    "pm": -22,
+    "poss": 131.7,
+    "pF": 133.4,
+    "pA": 130.0,
+    "ortg": 108.7,
+    "drtg": 128.4,
+    "net": -19.7,
+    "efg": 56.1,
+    "oefg": 61.8
+   },
+   {
+    "players": [
+     "Elijah Morgan",
+     "Justin Banks",
      "Xavion Brown"
     ],
-    "min": 73.0,
-    "pf": 141,
-    "pa": 130,
-    "pm": 11,
-    "poss": 139.5,
-    "pF": 141.0,
-    "pA": 138.1,
-    "ortg": 100.0,
-    "drtg": 94.1,
-    "net": 5.9,
-    "efg": 54.1,
-    "oefg": 47.4
+    "min": 69.7,
+    "pf": 143,
+    "pa": 156,
+    "pm": -13,
+    "poss": 133.4,
+    "pF": 132.8,
+    "pA": 134.0,
+    "ortg": 107.6,
+    "drtg": 116.4,
+    "net": -8.7,
+    "efg": 56.2,
+    "oefg": 62.1
    },
    {
     "players": [
      "Brion Jamar Mclaurin",
-     "Christian Ashby",
-     "Elijah Morgan"
-    ],
-    "min": 71.6,
-    "pf": 145,
-    "pa": 176,
-    "pm": -31,
-    "poss": 133.8,
-    "pF": 136.4,
-    "pA": 131.2,
-    "ortg": 106.3,
-    "drtg": 134.2,
-    "net": -27.9,
-    "efg": 55.6,
-    "oefg": 60.9
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
-     "Christian Ashby",
+     "Elijah Morgan",
      "Xavion Brown"
     ],
-    "min": 70.9,
-    "pf": 145,
-    "pa": 130,
-    "pm": 15,
-    "poss": 131.1,
-    "pF": 133.3,
-    "pA": 128.8,
-    "ortg": 108.8,
-    "drtg": 100.9,
-    "net": 7.9,
-    "efg": 54.7,
-    "oefg": 53.9
+    "min": 66.6,
+    "pf": 115,
+    "pa": 151,
+    "pm": -36,
+    "poss": 128.2,
+    "pF": 131.6,
+    "pA": 124.9,
+    "ortg": 87.4,
+    "drtg": 120.9,
+    "net": -33.5,
+    "efg": 48.6,
+    "oefg": 57.0
    },
    {
     "players": [
@@ -1993,41 +2179,41 @@
    },
    {
     "players": [
-     "Christian Ashby",
      "Elijah Morgan",
-     "Tomáš Dvořák"
+     "Tomáš Dvořák",
+     "Xavion Brown"
     ],
-    "min": 65.4,
-    "pf": 136,
-    "pa": 155,
-    "pm": -19,
-    "poss": 121.6,
-    "pF": 123.6,
-    "pA": 119.6,
-    "ortg": 110.0,
-    "drtg": 129.6,
-    "net": -19.6,
-    "efg": 56.9,
-    "oefg": 61.9
+    "min": 65.7,
+    "pf": 127,
+    "pa": 150,
+    "pm": -23,
+    "poss": 129.1,
+    "pF": 131.3,
+    "pA": 126.9,
+    "ortg": 96.7,
+    "drtg": 118.2,
+    "net": -21.5,
+    "efg": 51.4,
+    "oefg": 57.8
    },
    {
     "players": [
      "Brion Jamar Mclaurin",
-     "Elijah Morgan",
-     "Justin Banks"
+     "Justin Banks",
+     "Xavion Brown"
     ],
-    "min": 64.7,
-    "pf": 131,
-    "pa": 159,
-    "pm": -28,
-    "poss": 120.1,
-    "pF": 119.6,
-    "pA": 120.6,
-    "ortg": 109.6,
-    "drtg": 131.8,
-    "net": -22.3,
-    "efg": 55.9,
-    "oefg": 61.9
+    "min": 65.2,
+    "pf": 136,
+    "pa": 133,
+    "pm": 3,
+    "poss": 125.6,
+    "pF": 123.4,
+    "pA": 127.8,
+    "ortg": 110.2,
+    "drtg": 104.1,
+    "net": 6.1,
+    "efg": 57.1,
+    "oefg": 53.3
    },
    {
     "players": [
@@ -2047,25 +2233,6 @@
     "net": -0.3,
     "efg": 62.1,
     "oefg": 54.4
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
-     "Justin Banks",
-     "Xavion Brown"
-    ],
-    "min": 60.2,
-    "pf": 130,
-    "pa": 118,
-    "pm": 12,
-    "poss": 114.2,
-    "pF": 112.5,
-    "pA": 115.9,
-    "ortg": 115.5,
-    "drtg": 101.8,
-    "net": 13.7,
-    "efg": 59.3,
-    "oefg": 51.5
    },
    {
     "players": [
@@ -2126,25 +2293,6 @@
    },
    {
     "players": [
-     "Brion Jamar Mclaurin",
-     "Elijah Morgan",
-     "Xavion Brown"
-    ],
-    "min": 58.4,
-    "pf": 110,
-    "pa": 131,
-    "pm": -21,
-    "poss": 111.5,
-    "pF": 113.9,
-    "pA": 109.0,
-    "ortg": 96.6,
-    "drtg": 120.1,
-    "net": -23.6,
-    "efg": 52.1,
-    "oefg": 55.4
-   },
-   {
-    "players": [
      "Cortesao Joao Eduardo",
      "Justin Banks",
      "Tomáš Dvořák"
@@ -2161,25 +2309,6 @@
     "net": -19.7,
     "efg": 53.4,
     "oefg": 60.7
-   },
-   {
-    "players": [
-     "Elijah Morgan",
-     "Justin Banks",
-     "Xavion Brown"
-    ],
-    "min": 57.5,
-    "pf": 123,
-    "pa": 128,
-    "pm": -5,
-    "poss": 110.6,
-    "pF": 110.1,
-    "pA": 111.2,
-    "ortg": 111.7,
-    "drtg": 115.1,
-    "net": -3.4,
-    "efg": 57.6,
-    "oefg": 60.8
    },
    {
     "players": [
@@ -2260,6 +2389,25 @@
    {
     "players": [
      "Christian Ashby",
+     "Elijah Morgan",
+     "Xavion Brown"
+    ],
+    "min": 51.5,
+    "pf": 80,
+    "pa": 105,
+    "pm": -25,
+    "poss": 90.8,
+    "pF": 95.1,
+    "pA": 86.4,
+    "ortg": 84.1,
+    "drtg": 121.5,
+    "net": -37.4,
+    "efg": 40.8,
+    "oefg": 63.6
+   },
+   {
+    "players": [
+     "Christian Ashby",
      "Cortesao Joao Eduardo",
      "Marco Šinik"
     ],
@@ -2313,25 +2461,6 @@
     "net": -4.2,
     "efg": 67.6,
     "oefg": 59.9
-   },
-   {
-    "players": [
-     "Elijah Morgan",
-     "Tomáš Dvořák",
-     "Xavion Brown"
-    ],
-    "min": 49.4,
-    "pf": 103,
-    "pa": 112,
-    "pm": -9,
-    "poss": 96.7,
-    "pF": 99.7,
-    "pA": 93.7,
-    "ortg": 103.3,
-    "drtg": 119.5,
-    "net": -16.2,
-    "efg": 55.7,
-    "oefg": 58.5
    },
    {
     "players": [
@@ -2468,6 +2597,25 @@
    },
    {
     "players": [
+     "Elijah Morgan",
+     "Justin Banks",
+     "Tomáš Merta"
+    ],
+    "min": 45.9,
+    "pf": 96,
+    "pa": 98,
+    "pm": -2,
+    "poss": 88.6,
+    "pF": 88.2,
+    "pA": 89.1,
+    "ortg": 108.8,
+    "drtg": 110.0,
+    "net": -1.2,
+    "efg": 51.4,
+    "oefg": 52.9
+   },
+   {
+    "players": [
      "Cortesao Joao Eduardo",
      "Justin Banks",
      "Marco Šinik"
@@ -2526,6 +2674,25 @@
    {
     "players": [
      "Brion Jamar Mclaurin",
+     "Elijah Morgan",
+     "Tomáš Merta"
+    ],
+    "min": 44.2,
+    "pf": 98,
+    "pa": 101,
+    "pm": -3,
+    "poss": 87.1,
+    "pF": 88.0,
+    "pA": 86.3,
+    "ortg": 111.4,
+    "drtg": 117.0,
+    "net": -5.6,
+    "efg": 51.3,
+    "oefg": 60.1
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
      "Cortesao Joao Eduardo",
      "Xavion Brown"
     ],
@@ -2541,25 +2708,6 @@
     "net": -5.2,
     "efg": 58.3,
     "oefg": 53.6
-   },
-   {
-    "players": [
-     "Christian Ashby",
-     "Elijah Morgan",
-     "Xavion Brown"
-    ],
-    "min": 43.6,
-    "pf": 75,
-    "pa": 86,
-    "pm": -11,
-    "poss": 76.8,
-    "pF": 80.6,
-    "pA": 73.1,
-    "ortg": 93.1,
-    "drtg": 117.7,
-    "net": -24.6,
-    "efg": 44.8,
-    "oefg": 62.3
    },
    {
     "players": [
@@ -2696,6 +2844,25 @@
    },
    {
     "players": [
+     "Brion Jamar Mclaurin",
+     "Justin Banks",
+     "Tomáš Merta"
+    ],
+    "min": 38.8,
+    "pf": 80,
+    "pa": 96,
+    "pm": -16,
+    "poss": 77.8,
+    "pF": 74.7,
+    "pA": 80.9,
+    "ortg": 107.1,
+    "drtg": 118.7,
+    "net": -11.6,
+    "efg": 45.7,
+    "oefg": 61.1
+   },
+   {
+    "players": [
      "Justin Banks",
      "Marco Šinik",
      "Martin Roub"
@@ -2734,6 +2901,25 @@
    },
    {
     "players": [
+     "Justin Banks",
+     "Tomáš Merta",
+     "Xavion Brown"
+    ],
+    "min": 38.4,
+    "pf": 78,
+    "pa": 71,
+    "pm": 7,
+    "poss": 75.3,
+    "pF": 72.1,
+    "pA": 78.6,
+    "ortg": 108.2,
+    "drtg": 90.4,
+    "net": 17.8,
+    "efg": 50.0,
+    "oefg": 47.4
+   },
+   {
+    "players": [
      "Cortesao Joao Eduardo",
      "Marco Šinik",
      "Martin Roub"
@@ -2753,6 +2939,25 @@
    },
    {
     "players": [
+     "Brion Jamar Mclaurin",
+     "Tomáš Merta",
+     "Xavion Brown"
+    ],
+    "min": 37.8,
+    "pf": 78,
+    "pa": 60,
+    "pm": 18,
+    "poss": 75.4,
+    "pF": 75.6,
+    "pA": 75.2,
+    "ortg": 103.2,
+    "drtg": 79.7,
+    "net": 23.5,
+    "efg": 43.9,
+    "oefg": 40.0
+   },
+   {
+    "players": [
      "Cortesao Joao Eduardo",
      "Marco Šinik",
      "Xavion Brown"
@@ -2769,6 +2974,25 @@
     "net": -0.9,
     "efg": 64.8,
     "oefg": 61.8
+   },
+   {
+    "players": [
+     "Elijah Morgan",
+     "Tomáš Merta",
+     "Xavion Brown"
+    ],
+    "min": 37.0,
+    "pf": 80,
+    "pa": 71,
+    "pm": 9,
+    "poss": 70.7,
+    "pF": 71.9,
+    "pA": 69.6,
+    "ortg": 111.3,
+    "drtg": 102.1,
+    "net": 9.2,
+    "efg": 57.1,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -2811,25 +3035,6 @@
    {
     "players": [
      "Brion Jamar Mclaurin",
-     "Elijah Morgan",
-     "Tomáš Merta"
-    ],
-    "min": 34.1,
-    "pf": 80,
-    "pa": 80,
-    "pm": 0,
-    "poss": 64.9,
-    "pF": 65.2,
-    "pA": 64.6,
-    "ortg": 122.6,
-    "drtg": 123.9,
-    "net": -1.3,
-    "efg": 56.8,
-    "oefg": 61.5
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
      "Cortesao Joao Eduardo",
      "Marco Šinik"
     ],
@@ -2867,6 +3072,25 @@
    },
    {
     "players": [
+     "Brion Jamar Mclaurin",
+     "Christian Ashby",
+     "Tomáš Merta"
+    ],
+    "min": 33.4,
+    "pf": 59,
+    "pa": 62,
+    "pm": -3,
+    "poss": 68.9,
+    "pF": 69.4,
+    "pA": 68.4,
+    "ortg": 85.0,
+    "drtg": 90.6,
+    "net": -5.6,
+    "efg": 35.6,
+    "oefg": 46.1
+   },
+   {
+    "players": [
      "Justin Banks",
      "Marco Šinik",
      "Xavion Brown"
@@ -2886,22 +3110,22 @@
    },
    {
     "players": [
-     "Elijah Morgan",
-     "Justin Banks",
+     "Brion Jamar Mclaurin",
+     "Tomáš Dvořák",
      "Tomáš Merta"
     ],
-    "min": 32.5,
-    "pf": 78,
-    "pa": 68,
-    "pm": 10,
-    "poss": 62.9,
-    "pF": 63.4,
-    "pA": 62.4,
-    "ortg": 123.1,
-    "drtg": 108.9,
-    "net": 14.2,
-    "efg": 63.3,
-    "oefg": 50.0
+    "min": 30.6,
+    "pf": 58,
+    "pa": 65,
+    "pm": -7,
+    "poss": 62.6,
+    "pF": 63.2,
+    "pA": 62.0,
+    "ortg": 91.7,
+    "drtg": 104.8,
+    "net": -13.1,
+    "efg": 40.9,
+    "oefg": 54.0
    },
    {
     "players": [
@@ -2962,79 +3186,41 @@
    },
    {
     "players": [
-     "Justin Banks",
-     "Tomáš Merta",
-     "Xavion Brown"
-    ],
-    "min": 30.0,
-    "pf": 66,
-    "pa": 48,
-    "pm": 18,
-    "poss": 58.5,
-    "pF": 56.5,
-    "pA": 60.5,
-    "ortg": 116.9,
-    "drtg": 79.4,
-    "net": 37.5,
-    "efg": 56.2,
-    "oefg": 40.9
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
-     "Justin Banks",
-     "Tomáš Merta"
-    ],
-    "min": 29.8,
-    "pf": 68,
-    "pa": 74,
-    "pm": -6,
-    "poss": 58.5,
-    "pF": 56.7,
-    "pA": 60.2,
-    "ortg": 119.9,
-    "drtg": 122.8,
-    "net": -3.0,
-    "efg": 54.6,
-    "oefg": 64.4
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
+     "Christian Ashby",
      "Tomáš Merta",
      "Xavion Brown"
     ],
     "min": 29.7,
-    "pf": 70,
-    "pa": 50,
-    "pm": 20,
-    "poss": 60.3,
-    "pF": 60.0,
-    "pA": 60.5,
-    "ortg": 116.6,
-    "drtg": 82.7,
-    "net": 33.9,
-    "efg": 49.2,
-    "oefg": 41.5
+    "pf": 50,
+    "pa": 36,
+    "pm": 14,
+    "poss": 56.0,
+    "pF": 56.8,
+    "pA": 55.2,
+    "ortg": 88.0,
+    "drtg": 65.3,
+    "net": 22.8,
+    "efg": 40.4,
+    "oefg": 33.3
    },
    {
     "players": [
      "Elijah Morgan",
-     "Tomáš Merta",
-     "Xavion Brown"
+     "Tomáš Dvořák",
+     "Tomáš Merta"
     ],
-    "min": 28.4,
-    "pf": 69,
-    "pa": 50,
-    "pm": 19,
-    "poss": 55.9,
-    "pF": 56.5,
-    "pA": 55.2,
-    "ortg": 122.2,
-    "drtg": 90.5,
-    "net": 31.7,
-    "efg": 63.3,
-    "oefg": 45.0
+    "min": 29.2,
+    "pf": 70,
+    "pa": 72,
+    "pm": -2,
+    "poss": 58.8,
+    "pF": 59.1,
+    "pA": 58.5,
+    "ortg": 118.4,
+    "drtg": 123.1,
+    "net": -4.7,
+    "efg": 61.4,
+    "oefg": 61.2
    },
    {
     "players": [
@@ -3133,6 +3319,63 @@
    },
    {
     "players": [
+     "Justin Banks",
+     "Tomáš Dvořák",
+     "Tomáš Merta"
+    ],
+    "min": 24.5,
+    "pf": 57,
+    "pa": 66,
+    "pm": -9,
+    "poss": 50.0,
+    "pF": 48.3,
+    "pA": 51.8,
+    "ortg": 118.1,
+    "drtg": 127.4,
+    "net": -9.4,
+    "efg": 60.3,
+    "oefg": 63.8
+   },
+   {
+    "players": [
+     "Christian Ashby",
+     "Elijah Morgan",
+     "Tomáš Merta"
+    ],
+    "min": 24.3,
+    "pf": 45,
+    "pa": 45,
+    "pm": 0,
+    "poss": 47.4,
+    "pF": 48.7,
+    "pA": 46.2,
+    "ortg": 92.4,
+    "drtg": 97.5,
+    "net": -5.0,
+    "efg": 44.1,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Tomáš Dvořák",
+     "Tomáš Merta",
+     "Xavion Brown"
+    ],
+    "min": 24.1,
+    "pf": 41,
+    "pa": 43,
+    "pm": -2,
+    "poss": 47.3,
+    "pF": 46.4,
+    "pA": 48.2,
+    "ortg": 88.4,
+    "drtg": 89.3,
+    "net": -0.9,
+    "efg": 42.7,
+    "oefg": 43.6
+   },
+   {
+    "players": [
      "Brion Jamar Mclaurin",
      "Cortesao Joao Eduardo",
      "Justin Banks"
@@ -3152,25 +3395,6 @@
    },
    {
     "players": [
-     "Brion Jamar Mclaurin",
-     "Tomáš Dvořák",
-     "Tomáš Merta"
-    ],
-    "min": 22.6,
-    "pf": 44,
-    "pa": 59,
-    "pm": -15,
-    "poss": 47.5,
-    "pF": 47.0,
-    "pA": 48.0,
-    "ortg": 93.5,
-    "drtg": 122.8,
-    "net": -29.3,
-    "efg": 42.5,
-    "oefg": 58.5
-   },
-   {
-    "players": [
      "Justin Banks",
      "Marco Šinik",
      "Tomáš Merta"
@@ -3187,6 +3411,44 @@
     "net": -20.7,
     "efg": 47.2,
     "oefg": 59.0
+   },
+   {
+    "players": [
+     "Christian Ashby",
+     "Justin Banks",
+     "Tomáš Merta"
+    ],
+    "min": 22.2,
+    "pf": 33,
+    "pa": 43,
+    "pm": -10,
+    "poss": 45.1,
+    "pF": 43.7,
+    "pA": 46.5,
+    "ortg": 75.5,
+    "drtg": 92.5,
+    "net": -17.0,
+    "efg": 32.9,
+    "oefg": 51.6
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Brion Jamar Mclaurin",
+     "Elijah Morgan"
+    ],
+    "min": 22.1,
+    "pf": 39,
+    "pa": 69,
+    "pm": -30,
+    "poss": 45.2,
+    "pF": 43.9,
+    "pA": 46.4,
+    "ortg": 88.8,
+    "drtg": 148.7,
+    "net": -59.9,
+    "efg": 43.9,
+    "oefg": 68.1
    },
    {
     "players": [
@@ -3285,63 +3547,6 @@
    },
    {
     "players": [
-     "Adam Kolář",
-     "Brion Jamar Mclaurin",
-     "Elijah Morgan"
-    ],
-    "min": 19.4,
-    "pf": 39,
-    "pa": 65,
-    "pm": -26,
-    "poss": 40.8,
-    "pF": 39.0,
-    "pA": 42.5,
-    "ortg": 99.9,
-    "drtg": 152.9,
-    "net": -53.0,
-    "efg": 51.8,
-    "oefg": 73.2
-   },
-   {
-    "players": [
-     "Elijah Morgan",
-     "Tomáš Dvořák",
-     "Tomáš Merta"
-    ],
-    "min": 19.1,
-    "pf": 51,
-    "pa": 49,
-    "pm": 2,
-    "poss": 39.7,
-    "pF": 40.2,
-    "pA": 39.2,
-    "ortg": 127.0,
-    "drtg": 125.1,
-    "net": 1.9,
-    "efg": 73.2,
-    "oefg": 60.9
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
-     "Christian Ashby",
-     "Tomáš Merta"
-    ],
-    "min": 18.6,
-    "pf": 38,
-    "pa": 37,
-    "pm": 1,
-    "poss": 38.6,
-    "pF": 39.3,
-    "pA": 37.9,
-    "ortg": 96.7,
-    "drtg": 97.6,
-    "net": -0.8,
-    "efg": 42.6,
-    "oefg": 48.1
-   },
-   {
-    "players": [
      "Brion Jamar Mclaurin",
      "Marco Šinik",
      "Tomáš Merta"
@@ -3363,6 +3568,25 @@
     "players": [
      "Adam Kolář",
      "Brion Jamar Mclaurin",
+     "Xavion Brown"
+    ],
+    "min": 18.2,
+    "pf": 25,
+    "pa": 42,
+    "pm": -17,
+    "poss": 36.1,
+    "pF": 35.3,
+    "pA": 37.0,
+    "ortg": 70.9,
+    "drtg": 113.6,
+    "net": -42.8,
+    "efg": 36.5,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Brion Jamar Mclaurin",
      "Cortesao Joao Eduardo"
     ],
     "min": 17.9,
@@ -3377,25 +3601,6 @@
     "net": -32.1,
     "efg": 56.2,
     "oefg": 61.8
-   },
-   {
-    "players": [
-     "Justin Banks",
-     "Tomáš Dvořák",
-     "Tomáš Merta"
-    ],
-    "min": 17.3,
-    "pf": 45,
-    "pa": 46,
-    "pm": -1,
-    "poss": 34.8,
-    "pF": 34.1,
-    "pA": 35.6,
-    "ortg": 132.0,
-    "drtg": 129.2,
-    "net": 2.8,
-    "efg": 73.1,
-    "oefg": 58.6
    },
    {
     "players": [
@@ -3456,22 +3661,41 @@
    },
    {
     "players": [
-     "Christian Ashby",
-     "Tomáš Merta",
+     "Adam Kolář",
+     "Elijah Morgan",
      "Xavion Brown"
     ],
-    "min": 15.7,
-    "pf": 36,
-    "pa": 13,
-    "pm": 23,
-    "poss": 30.1,
-    "pF": 30.5,
-    "pA": 29.6,
-    "ortg": 118.0,
-    "drtg": 43.9,
-    "net": 74.1,
-    "efg": 51.8,
-    "oefg": 22.5
+    "min": 15.5,
+    "pf": 25,
+    "pa": 38,
+    "pm": -13,
+    "poss": 33.9,
+    "pF": 33.6,
+    "pA": 34.1,
+    "ortg": 74.3,
+    "drtg": 111.5,
+    "net": -37.2,
+    "efg": 38.3,
+    "oefg": 56.5
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Justin Banks",
+     "Tomáš Dvořák"
+    ],
+    "min": 15.1,
+    "pf": 24,
+    "pa": 42,
+    "pm": -18,
+    "poss": 31.5,
+    "pF": 30.1,
+    "pA": 33.0,
+    "ortg": 79.8,
+    "drtg": 127.4,
+    "net": -47.6,
+    "efg": 42.9,
+    "oefg": 64.3
    },
    {
     "players": [
@@ -3494,22 +3718,22 @@
    },
    {
     "players": [
+     "Christian Ashby",
      "Tomáš Dvořák",
-     "Tomáš Merta",
-     "Xavion Brown"
+     "Tomáš Merta"
     ],
-    "min": 13.7,
-    "pf": 28,
-    "pa": 21,
-    "pm": 7,
-    "poss": 27.6,
-    "pF": 27.6,
-    "pA": 27.5,
-    "ortg": 101.3,
-    "drtg": 76.3,
-    "net": 25.0,
-    "efg": 52.1,
-    "oefg": 33.3
+    "min": 13.9,
+    "pf": 20,
+    "pa": 19,
+    "pm": 1,
+    "poss": 26.9,
+    "pF": 26.6,
+    "pA": 27.1,
+    "ortg": 75.1,
+    "drtg": 70.2,
+    "net": 4.9,
+    "efg": 33.3,
+    "oefg": 36.8
    },
    {
     "players": [
@@ -3529,6 +3753,25 @@
     "net": 14.9,
     "efg": 75.0,
     "oefg": 63.6
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Elijah Morgan",
+     "Tomáš Dvořák"
+    ],
+    "min": 13.4,
+    "pf": 22,
+    "pa": 33,
+    "pm": -11,
+    "poss": 27.8,
+    "pF": 28.1,
+    "pA": 27.5,
+    "ortg": 78.3,
+    "drtg": 119.9,
+    "net": -41.6,
+    "efg": 39.1,
+    "oefg": 53.8
    },
    {
     "players": [
@@ -3552,21 +3795,21 @@
    {
     "players": [
      "Adam Kolář",
-     "Brion Jamar Mclaurin",
+     "Tomáš Dvořák",
      "Xavion Brown"
     ],
-    "min": 13.1,
-    "pf": 23,
-    "pa": 35,
-    "pm": -12,
-    "poss": 27.4,
-    "pF": 26.5,
-    "pA": 28.2,
-    "ortg": 86.7,
-    "drtg": 124.1,
-    "net": -37.4,
-    "efg": 47.2,
-    "oefg": 57.1
+    "min": 13.0,
+    "pf": 19,
+    "pa": 28,
+    "pm": -9,
+    "poss": 28.5,
+    "pF": 28.6,
+    "pA": 28.4,
+    "ortg": 66.3,
+    "drtg": 98.6,
+    "net": -32.3,
+    "efg": 40.0,
+    "oefg": 46.0
    },
    {
     "players": [
@@ -3589,60 +3832,22 @@
    },
    {
     "players": [
-     "Christian Ashby",
-     "Justin Banks",
-     "Tomáš Merta"
-    ],
-    "min": 12.5,
-    "pf": 21,
-    "pa": 18,
-    "pm": 3,
-    "poss": 24.4,
-    "pF": 24.2,
-    "pA": 24.5,
-    "ortg": 86.8,
-    "drtg": 73.4,
-    "net": 13.4,
-    "efg": 44.7,
-    "oefg": 46.2
-   },
-   {
-    "players": [
-     "Christian Ashby",
-     "Elijah Morgan",
-     "Tomáš Merta"
-    ],
-    "min": 12.5,
-    "pf": 27,
-    "pa": 20,
-    "pm": 7,
-    "poss": 23.7,
-    "pF": 24.5,
-    "pA": 23.0,
-    "ortg": 110.1,
-    "drtg": 87.1,
-    "net": 23.0,
-    "efg": 55.6,
-    "oefg": 46.7
-   },
-   {
-    "players": [
      "Adam Kolář",
-     "Justin Banks",
-     "Tomáš Dvořák"
+     "Brion Jamar Mclaurin",
+     "Christian Ashby"
     ],
-    "min": 12.4,
-    "pf": 16,
-    "pa": 37,
-    "pm": -21,
-    "poss": 26.0,
-    "pF": 25.1,
-    "pA": 27.0,
-    "ortg": 63.8,
-    "drtg": 137.2,
-    "net": -73.4,
-    "efg": 31.2,
-    "oefg": 67.4
+    "min": 12.6,
+    "pf": 25,
+    "pa": 26,
+    "pm": -1,
+    "poss": 24.0,
+    "pF": 23.0,
+    "pA": 25.0,
+    "ortg": 108.9,
+    "drtg": 104.2,
+    "net": 4.7,
+    "efg": 66.7,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -3662,6 +3867,25 @@
     "net": -25.8,
     "efg": 57.5,
     "oefg": 55.0
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Brion Jamar Mclaurin",
+     "Tomáš Dvořák"
+    ],
+    "min": 12.3,
+    "pf": 18,
+    "pa": 24,
+    "pm": -6,
+    "poss": 24.7,
+    "pF": 24.4,
+    "pA": 25.1,
+    "ortg": 73.8,
+    "drtg": 95.7,
+    "net": -21.9,
+    "efg": 43.3,
+    "oefg": 40.4
    },
    {
     "players": [
@@ -3723,21 +3947,40 @@
    {
     "players": [
      "Adam Kolář",
-     "Brion Jamar Mclaurin",
-     "Tomáš Dvořák"
+     "Elijah Morgan",
+     "Justin Banks"
     ],
-    "min": 10.2,
-    "pf": 18,
-    "pa": 20,
-    "pm": -2,
-    "poss": 21.3,
-    "pF": 20.5,
-    "pA": 22.1,
-    "ortg": 87.7,
-    "drtg": 90.6,
-    "net": -2.9,
-    "efg": 54.2,
-    "oefg": 42.5
+    "min": 11.3,
+    "pf": 24,
+    "pa": 28,
+    "pm": -4,
+    "poss": 22.5,
+    "pF": 23.2,
+    "pA": 21.8,
+    "ortg": 103.4,
+    "drtg": 128.7,
+    "net": -25.2,
+    "efg": 55.6,
+    "oefg": 66.7
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Justin Banks",
+     "Xavion Brown"
+    ],
+    "min": 11.1,
+    "pf": 28,
+    "pa": 25,
+    "pm": 3,
+    "poss": 23.6,
+    "pF": 22.5,
+    "pA": 24.8,
+    "ortg": 124.3,
+    "drtg": 101.0,
+    "net": 23.4,
+    "efg": 78.6,
+    "oefg": 60.0
    },
    {
     "players": [
@@ -3762,20 +4005,20 @@
     "players": [
      "Adam Kolář",
      "Brion Jamar Mclaurin",
-     "Christian Ashby"
+     "Tomáš Merta"
     ],
-    "min": 9.6,
-    "pf": 23,
-    "pa": 23,
-    "pm": 0,
-    "poss": 18.6,
+    "min": 9.9,
+    "pf": 17,
+    "pa": 22,
+    "pm": -5,
+    "poss": 19.0,
     "pF": 18.1,
-    "pA": 19.2,
-    "ortg": 127.2,
-    "drtg": 119.8,
-    "net": 7.4,
-    "efg": 90.0,
-    "oefg": 55.9
+    "pA": 20.0,
+    "ortg": 94.0,
+    "drtg": 110.2,
+    "net": -16.2,
+    "efg": 41.2,
+    "oefg": 47.5
    },
    {
     "players": [
@@ -3875,25 +4118,6 @@
    {
     "players": [
      "Adam Kolář",
-     "Elijah Morgan",
-     "Justin Banks"
-    ],
-    "min": 8.6,
-    "pf": 16,
-    "pa": 23,
-    "pm": -7,
-    "poss": 17.5,
-    "pF": 18.2,
-    "pA": 16.8,
-    "ortg": 87.9,
-    "drtg": 137.2,
-    "net": -49.3,
-    "efg": 46.2,
-    "oefg": 73.1
-   },
-   {
-    "players": [
-     "Adam Kolář",
      "Brion Jamar Mclaurin",
      "Justin Banks"
     ],
@@ -3950,25 +4174,6 @@
    },
    {
     "players": [
-     "Adam Kolář",
-     "Justin Banks",
-     "Xavion Brown"
-    ],
-    "min": 8.4,
-    "pf": 20,
-    "pa": 20,
-    "pm": 0,
-    "poss": 18.1,
-    "pF": 17.5,
-    "pA": 18.8,
-    "ortg": 114.2,
-    "drtg": 106.6,
-    "net": 7.5,
-    "efg": 77.8,
-    "oefg": 63.3
-   },
-   {
-    "players": [
      "Marco Šinik",
      "Martin Roub",
      "Tomáš Merta"
@@ -3989,40 +4194,40 @@
    {
     "players": [
      "Adam Kolář",
-     "Elijah Morgan",
+     "Christian Ashby",
      "Xavion Brown"
     ],
-    "min": 8.0,
+    "min": 8.1,
     "pf": 13,
-    "pa": 26,
-    "pm": -13,
-    "poss": 18.5,
-    "pF": 17.8,
-    "pA": 19.3,
-    "ortg": 73.2,
-    "drtg": 134.6,
-    "net": -61.4,
-    "efg": 39.3,
-    "oefg": 70.6
+    "pa": 14,
+    "pm": -1,
+    "poss": 15.1,
+    "pF": 14.8,
+    "pA": 15.5,
+    "ortg": 88.1,
+    "drtg": 90.2,
+    "net": -2.1,
+    "efg": 45.8,
+    "oefg": 50.0
    },
    {
     "players": [
      "Adam Kolář",
-     "Brion Jamar Mclaurin",
-     "Tomáš Merta"
+     "Aleš Jancur",
+     "Elijah Morgan"
     ],
-    "min": 7.5,
-    "pf": 15,
-    "pa": 19,
-    "pm": -4,
-    "poss": 14.6,
-    "pF": 14.2,
-    "pA": 15.1,
-    "ortg": 105.6,
-    "drtg": 126.0,
-    "net": -20.4,
-    "efg": 42.9,
-    "oefg": 53.3
+    "min": 7.6,
+    "pf": 16,
+    "pa": 23,
+    "pm": -7,
+    "poss": 17.2,
+    "pF": 16.1,
+    "pA": 18.3,
+    "ortg": 99.5,
+    "drtg": 125.5,
+    "net": -26.0,
+    "efg": 55.0,
+    "oefg": 75.0
    },
    {
     "players": [
@@ -4102,25 +4307,6 @@
    },
    {
     "players": [
-     "Adam Kolář",
-     "Elijah Morgan",
-     "Tomáš Dvořák"
-    ],
-    "min": 6.5,
-    "pf": 10,
-    "pa": 21,
-    "pm": -11,
-    "poss": 13.4,
-    "pF": 13.2,
-    "pA": 13.6,
-    "ortg": 75.8,
-    "drtg": 154.0,
-    "net": -78.2,
-    "efg": 33.3,
-    "oefg": 70.8
-   },
-   {
-    "players": [
      "Brion Jamar Mclaurin",
      "Martin Roub",
      "Tomáš Dvořák"
@@ -4142,6 +4328,25 @@
     "players": [
      "Adam Kolář",
      "Christian Ashby",
+     "Tomáš Dvořák"
+    ],
+    "min": 6.2,
+    "pf": 6,
+    "pa": 18,
+    "pm": -12,
+    "poss": 14.2,
+    "pF": 13.9,
+    "pA": 14.5,
+    "ortg": 43.2,
+    "drtg": 124.0,
+    "net": -80.7,
+    "efg": 20.8,
+    "oefg": 63.6
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Christian Ashby",
      "Cortesao Joao Eduardo"
     ],
     "min": 6.0,
@@ -4156,25 +4361,6 @@
     "net": -63.2,
     "efg": 25.0,
     "oefg": 60.0
-   },
-   {
-    "players": [
-     "Adam Kolář",
-     "Christian Ashby",
-     "Tomáš Dvořák"
-    ],
-    "min": 5.8,
-    "pf": 6,
-    "pa": 18,
-    "pm": -12,
-    "poss": 13.2,
-    "pF": 12.9,
-    "pA": 13.5,
-    "ortg": 46.6,
-    "drtg": 133.1,
-    "net": -86.6,
-    "efg": 20.8,
-    "oefg": 63.6
    },
    {
     "players": [
@@ -4198,58 +4384,39 @@
    {
     "players": [
      "Adam Kolář",
-     "Aleš Jancur",
-     "Elijah Morgan"
-    ],
-    "min": 5.5,
-    "pf": 12,
-    "pa": 20,
-    "pm": -8,
-    "poss": 11.3,
-    "pF": 10.1,
-    "pA": 12.4,
-    "ortg": 119.0,
-    "drtg": 160.8,
-    "net": -41.7,
-    "efg": 87.5,
-    "oefg": 86.4
-   },
-   {
-    "players": [
-     "Adam Kolář",
      "Tomáš Dvořák",
      "Tomáš Merta"
     ],
-    "min": 5.3,
+    "min": 5.8,
     "pf": 7,
     "pa": 11,
     "pm": -4,
-    "poss": 10.4,
-    "pF": 11.2,
-    "pA": 9.6,
-    "ortg": 62.5,
-    "drtg": 114.1,
-    "net": -51.6,
+    "poss": 11.9,
+    "pF": 12.2,
+    "pA": 11.6,
+    "ortg": 57.4,
+    "drtg": 94.5,
+    "net": -37.1,
     "efg": 21.4,
     "oefg": 40.0
    },
    {
     "players": [
-     "Christian Ashby",
-     "Tomáš Dvořák",
-     "Tomáš Merta"
+     "Adam Kolář",
+     "Tomáš Merta",
+     "Xavion Brown"
     ],
-    "min": 5.2,
+    "min": 5.8,
     "pf": 6,
     "pa": 6,
     "pm": 0,
-    "poss": 9.6,
-    "pF": 8.9,
-    "pA": 10.3,
-    "ortg": 67.6,
-    "drtg": 58.1,
-    "net": 9.4,
-    "efg": 25.0,
+    "poss": 11.5,
+    "pF": 10.9,
+    "pA": 12.2,
+    "ortg": 55.1,
+    "drtg": 49.2,
+    "net": 6.0,
+    "efg": 33.3,
     "oefg": 25.0
    },
    {
@@ -4278,234 +4445,270 @@
      "Justin Banks",
      "Tomáš Dvořák"
     ],
-    "min": 211.4,
-    "pf": 467,
-    "pa": 503,
-    "pm": -36,
-    "poss": 406.3,
-    "pF": 399.8,
-    "pA": 412.7,
-    "ortg": 116.8,
-    "drtg": 121.9,
-    "net": -5.1,
-    "efg": 61.6,
-    "oefg": 57.8
+    "min": 224.0,
+    "pf": 491,
+    "pa": 533,
+    "pm": -42,
+    "poss": 432.5,
+    "pF": 425.0,
+    "pA": 439.9,
+    "ortg": 115.5,
+    "drtg": 121.2,
+    "net": -5.6,
+    "efg": 60.9,
+    "oefg": 58.3
    },
    {
     "players": [
      "Christian Ashby",
      "Justin Banks"
     ],
-    "min": 207.2,
-    "pf": 436,
-    "pa": 436,
-    "pm": 0,
-    "poss": 389.2,
-    "pF": 391.5,
-    "pA": 386.9,
-    "ortg": 111.4,
-    "drtg": 112.7,
-    "net": -1.3,
-    "efg": 59.0,
-    "oefg": 55.2
+    "min": 217.7,
+    "pf": 448,
+    "pa": 466,
+    "pm": -18,
+    "poss": 411.9,
+    "pF": 413.0,
+    "pA": 410.8,
+    "ortg": 108.5,
+    "drtg": 113.4,
+    "net": -5.0,
+    "efg": 56.9,
+    "oefg": 55.6
    },
    {
     "players": [
      "Justin Banks",
      "Xavion Brown"
     ],
-    "min": 176.6,
-    "pf": 391,
-    "pa": 365,
-    "pm": 26,
-    "poss": 337.1,
-    "pF": 336.3,
-    "pA": 338.0,
-    "ortg": 116.3,
-    "drtg": 108.0,
-    "net": 8.3,
-    "efg": 61.0,
-    "oefg": 53.9
-   },
-   {
-    "players": [
-     "Christian Ashby",
-     "Tomáš Dvořák"
-    ],
-    "min": 176.5,
-    "pf": 383,
-    "pa": 374,
-    "pm": 9,
-    "poss": 337.6,
-    "pF": 337.7,
-    "pA": 337.6,
-    "ortg": 113.4,
-    "drtg": 110.8,
-    "net": 2.6,
-    "efg": 58.1,
-    "oefg": 52.9
+    "min": 191.2,
+    "pf": 415,
+    "pa": 403,
+    "pm": 12,
+    "poss": 367.0,
+    "pF": 364.9,
+    "pA": 369.0,
+    "ortg": 113.7,
+    "drtg": 109.2,
+    "net": 4.5,
+    "efg": 59.6,
+    "oefg": 55.0
    },
    {
     "players": [
      "Elijah Morgan",
      "Justin Banks"
     ],
-    "min": 169.5,
-    "pf": 352,
-    "pa": 406,
-    "pm": -54,
-    "poss": 324.2,
-    "pF": 321.1,
-    "pA": 327.2,
-    "ortg": 109.6,
-    "drtg": 124.1,
-    "net": -14.5,
-    "efg": 58.3,
-    "oefg": 60.3
+    "min": 189.2,
+    "pf": 382,
+    "pa": 451,
+    "pm": -69,
+    "poss": 362.9,
+    "pF": 359.0,
+    "pA": 366.8,
+    "ortg": 106.4,
+    "drtg": 122.9,
+    "net": -16.5,
+    "efg": 56.0,
+    "oefg": 60.5
+   },
+   {
+    "players": [
+     "Christian Ashby",
+     "Tomáš Dvořák"
+    ],
+    "min": 186.5,
+    "pf": 397,
+    "pa": 391,
+    "pm": 6,
+    "poss": 357.4,
+    "pF": 357.4,
+    "pA": 357.4,
+    "ortg": 111.1,
+    "drtg": 109.4,
+    "net": 1.7,
+    "efg": 56.8,
+    "oefg": 52.9
    },
    {
     "players": [
      "Tomáš Dvořák",
      "Xavion Brown"
     ],
-    "min": 158.8,
-    "pf": 339,
-    "pa": 323,
-    "pm": 16,
-    "poss": 305.5,
-    "pF": 308.1,
-    "pA": 302.9,
-    "ortg": 110.0,
-    "drtg": 106.6,
-    "net": 3.4,
-    "efg": 58.9,
-    "oefg": 51.3
+    "min": 180.9,
+    "pf": 368,
+    "pa": 371,
+    "pm": -3,
+    "poss": 350.0,
+    "pF": 351.8,
+    "pA": 348.3,
+    "ortg": 104.6,
+    "drtg": 106.5,
+    "net": -1.9,
+    "efg": 56.0,
+    "oefg": 52.0
    },
    {
     "players": [
      "Christian Ashby",
      "Xavion Brown"
     ],
-    "min": 157.7,
-    "pf": 334,
-    "pa": 290,
-    "pm": 44,
-    "poss": 292.0,
-    "pF": 297.2,
-    "pA": 286.8,
-    "ortg": 112.4,
-    "drtg": 101.1,
-    "net": 11.2,
-    "efg": 56.9,
-    "oefg": 50.6
+    "min": 174.4,
+    "pf": 348,
+    "pa": 322,
+    "pm": 26,
+    "poss": 323.3,
+    "pF": 328.5,
+    "pA": 318.2,
+    "ortg": 105.9,
+    "drtg": 101.2,
+    "net": 4.7,
+    "efg": 53.5,
+    "oefg": 51.0
    },
    {
     "players": [
      "Brion Jamar Mclaurin",
      "Christian Ashby"
     ],
-    "min": 154.9,
-    "pf": 340,
-    "pa": 347,
-    "pm": -7,
-    "poss": 295.7,
-    "pF": 296.4,
-    "pA": 295.1,
-    "ortg": 114.7,
-    "drtg": 117.6,
-    "net": -2.9,
-    "efg": 60.3,
-    "oefg": 57.9
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
-     "Tomáš Dvořák"
-    ],
-    "min": 147.9,
-    "pf": 318,
-    "pa": 335,
-    "pm": -17,
-    "poss": 289.0,
-    "pF": 290.3,
-    "pA": 287.8,
-    "ortg": 109.5,
-    "drtg": 116.4,
-    "net": -6.9,
-    "efg": 58.3,
-    "oefg": 57.3
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
-     "Elijah Morgan"
-    ],
-    "min": 144.9,
-    "pf": 295,
-    "pa": 358,
-    "pm": -63,
-    "poss": 276.1,
-    "pF": 277.3,
-    "pA": 274.8,
-    "ortg": 106.4,
-    "drtg": 130.3,
-    "net": -23.9,
-    "efg": 54.7,
-    "oefg": 60.1
+    "min": 172.4,
+    "pf": 361,
+    "pa": 381,
+    "pm": -20,
+    "poss": 331.5,
+    "pF": 331.5,
+    "pA": 331.5,
+    "ortg": 108.9,
+    "drtg": 114.9,
+    "net": -6.0,
+    "efg": 55.9,
+    "oefg": 57.4
    },
    {
     "players": [
      "Elijah Morgan",
      "Tomáš Dvořák"
     ],
-    "min": 142.5,
-    "pf": 303,
-    "pa": 352,
-    "pm": -49,
-    "poss": 275.6,
-    "pF": 276.5,
-    "pA": 274.7,
-    "ortg": 109.6,
-    "drtg": 128.1,
-    "net": -18.6,
-    "efg": 59.0,
-    "oefg": 60.4
+    "min": 163.4,
+    "pf": 338,
+    "pa": 396,
+    "pm": -58,
+    "poss": 317.6,
+    "pF": 318.4,
+    "pA": 316.9,
+    "ortg": 106.2,
+    "drtg": 125.0,
+    "net": -18.8,
+    "efg": 56.6,
+    "oefg": 59.7
    },
    {
     "players": [
-     "Christian Ashby",
+     "Brion Jamar Mclaurin",
      "Elijah Morgan"
     ],
-    "min": 133.6,
-    "pf": 270,
-    "pa": 300,
-    "pm": -30,
-    "poss": 247.5,
-    "pF": 252.2,
-    "pA": 242.9,
-    "ortg": 107.1,
-    "drtg": 123.5,
-    "net": -16.4,
-    "efg": 56.4,
-    "oefg": 59.5
+    "min": 162.5,
+    "pf": 317,
+    "pa": 397,
+    "pm": -80,
+    "poss": 313.2,
+    "pF": 314.9,
+    "pA": 311.5,
+    "ortg": 100.7,
+    "drtg": 127.5,
+    "net": -26.8,
+    "efg": 51.7,
+    "oefg": 60.1
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Tomáš Dvořák"
+    ],
+    "min": 162.0,
+    "pf": 336,
+    "pa": 354,
+    "pm": -18,
+    "poss": 316.1,
+    "pF": 318.4,
+    "pA": 313.8,
+    "ortg": 105.5,
+    "drtg": 112.8,
+    "net": -7.3,
+    "efg": 56.0,
+    "oefg": 56.3
    },
    {
     "players": [
      "Brion Jamar Mclaurin",
      "Xavion Brown"
     ],
-    "min": 133.4,
-    "pf": 270,
-    "pa": 257,
-    "pm": 13,
-    "poss": 255.4,
-    "pF": 257.3,
-    "pA": 253.5,
-    "ortg": 104.9,
-    "drtg": 101.4,
-    "net": 3.6,
-    "efg": 54.5,
+    "min": 149.1,
+    "pf": 282,
+    "pa": 285,
+    "pm": -3,
+    "poss": 285.4,
+    "pF": 287.7,
+    "pA": 283.1,
+    "ortg": 98.0,
+    "drtg": 100.7,
+    "net": -2.6,
+    "efg": 50.9,
     "oefg": 50.0
+   },
+   {
+    "players": [
+     "Christian Ashby",
+     "Elijah Morgan"
+    ],
+    "min": 148.1,
+    "pf": 288,
+    "pa": 334,
+    "pm": -46,
+    "poss": 276.6,
+    "pF": 281.3,
+    "pA": 272.0,
+    "ortg": 102.4,
+    "drtg": 122.8,
+    "net": -20.4,
+    "efg": 53.5,
+    "oefg": 59.7
+   },
+   {
+    "players": [
+     "Brion Jamar Mclaurin",
+     "Justin Banks"
+    ],
+    "min": 142.0,
+    "pf": 293,
+    "pa": 327,
+    "pm": -34,
+    "poss": 272.2,
+    "pF": 268.1,
+    "pA": 276.4,
+    "ortg": 109.3,
+    "drtg": 118.3,
+    "net": -9.0,
+    "efg": 55.8,
+    "oefg": 59.0
+   },
+   {
+    "players": [
+     "Elijah Morgan",
+     "Xavion Brown"
+    ],
+    "min": 139.9,
+    "pf": 266,
+    "pa": 314,
+    "pm": -48,
+    "poss": 264.5,
+    "pF": 267.4,
+    "pA": 261.5,
+    "ortg": 99.5,
+    "drtg": 120.1,
+    "net": -20.6,
+    "efg": 52.8,
+    "oefg": 60.3
    },
    {
     "players": [
@@ -4524,42 +4727,6 @@
     "net": 0.5,
     "efg": 60.3,
     "oefg": 53.5
-   },
-   {
-    "players": [
-     "Brion Jamar Mclaurin",
-     "Justin Banks"
-    ],
-    "min": 129.5,
-    "pf": 277,
-    "pa": 295,
-    "pm": -18,
-    "poss": 244.9,
-    "pF": 242.2,
-    "pA": 247.7,
-    "ortg": 114.4,
-    "drtg": 119.1,
-    "net": -4.7,
-    "efg": 59.2,
-    "oefg": 58.9
-   },
-   {
-    "players": [
-     "Elijah Morgan",
-     "Xavion Brown"
-    ],
-    "min": 119.0,
-    "pf": 239,
-    "pa": 267,
-    "pm": -28,
-    "poss": 223.8,
-    "pF": 226.1,
-    "pA": 221.4,
-    "ortg": 105.7,
-    "drtg": 120.6,
-    "net": -14.9,
-    "efg": 56.0,
-    "oefg": 60.5
    },
    {
     "players": [
@@ -4869,6 +5036,42 @@
    },
    {
     "players": [
+     "Brion Jamar Mclaurin",
+     "Tomáš Merta"
+    ],
+    "min": 74.4,
+    "pf": 149,
+    "pa": 161,
+    "pm": -12,
+    "poss": 149.5,
+    "pF": 148.3,
+    "pA": 150.7,
+    "ortg": 100.5,
+    "drtg": 106.8,
+    "net": -6.4,
+    "efg": 43.9,
+    "oefg": 54.1
+   },
+   {
+    "players": [
+     "Elijah Morgan",
+     "Tomáš Merta"
+    ],
+    "min": 74.3,
+    "pf": 155,
+    "pa": 161,
+    "pm": -6,
+    "poss": 143.9,
+    "pF": 144.6,
+    "pA": 143.1,
+    "ortg": 107.2,
+    "drtg": 112.5,
+    "net": -5.3,
+    "efg": 51.3,
+    "oefg": 54.2
+   },
+   {
+    "players": [
      "Marco Šinik",
      "Martin Roub"
     ],
@@ -4884,6 +5087,24 @@
     "net": 1.3,
     "efg": 68.4,
     "oefg": 54.0
+   },
+   {
+    "players": [
+     "Justin Banks",
+     "Tomáš Merta"
+    ],
+    "min": 67.4,
+    "pf": 134,
+    "pa": 149,
+    "pm": -15,
+    "poss": 133.6,
+    "pF": 129.6,
+    "pA": 137.7,
+    "ortg": 103.4,
+    "drtg": 108.2,
+    "net": -4.8,
+    "efg": 48.2,
+    "oefg": 54.8
    },
    {
     "players": [
@@ -4905,93 +5126,93 @@
    },
    {
     "players": [
-     "Brion Jamar Mclaurin",
-     "Tomáš Merta"
-    ],
-    "min": 56.9,
-    "pf": 124,
-    "pa": 132,
-    "pm": -8,
-    "poss": 114.0,
-    "pF": 112.8,
-    "pA": 115.2,
-    "ortg": 109.9,
-    "drtg": 114.6,
-    "net": -4.7,
-    "efg": 49.0,
-    "oefg": 57.0
-   },
-   {
-    "players": [
-     "Elijah Morgan",
-     "Tomáš Merta"
-    ],
-    "min": 56.3,
-    "pf": 127,
-    "pa": 121,
-    "pm": 6,
-    "poss": 108.7,
-    "pF": 109.3,
-    "pA": 108.0,
-    "ortg": 116.2,
-    "drtg": 112.0,
-    "net": 4.2,
-    "efg": 57.3,
-    "oefg": 52.9
-   },
-   {
-    "players": [
-     "Justin Banks",
-     "Tomáš Merta"
-    ],
-    "min": 51.5,
-    "pf": 112,
-    "pa": 109,
-    "pm": 3,
-    "poss": 100.9,
-    "pF": 98.9,
-    "pA": 102.8,
-    "ortg": 113.3,
-    "drtg": 106.0,
-    "net": 7.3,
-    "efg": 56.1,
-    "oefg": 52.6
-   },
-   {
-    "players": [
      "Tomáš Merta",
      "Xavion Brown"
     ],
-    "min": 47.1,
-    "pf": 109,
-    "pa": 75,
-    "pm": 34,
-    "poss": 92.9,
-    "pF": 91.9,
-    "pA": 93.9,
-    "ortg": 118.6,
-    "drtg": 79.9,
-    "net": 38.7,
-    "efg": 55.5,
-    "oefg": 40.1
+    "min": 64.6,
+    "pf": 129,
+    "pa": 109,
+    "pm": 20,
+    "poss": 125.7,
+    "pF": 124.0,
+    "pA": 127.3,
+    "ortg": 104.0,
+    "drtg": 85.6,
+    "net": 18.4,
+    "efg": 48.6,
+    "oefg": 43.4
+   },
+   {
+    "players": [
+     "Christian Ashby",
+     "Tomáš Merta"
+    ],
+    "min": 45.7,
+    "pf": 78,
+    "pa": 79,
+    "pm": -1,
+    "poss": 90.6,
+    "pF": 90.1,
+    "pA": 91.2,
+    "ortg": 86.6,
+    "drtg": 86.6,
+    "net": -0.0,
+    "efg": 39.0,
+    "oefg": 44.9
+   },
+   {
+    "players": [
+     "Tomáš Dvořák",
+     "Tomáš Merta"
+    ],
+    "min": 45.7,
+    "pf": 89,
+    "pa": 101,
+    "pm": -12,
+    "poss": 92.5,
+    "pF": 92.2,
+    "pA": 92.8,
+    "ortg": 96.5,
+    "drtg": 108.9,
+    "net": -12.4,
+    "efg": 45.9,
+    "oefg": 54.0
    },
    {
     "players": [
      "Adam Kolář",
      "Brion Jamar Mclaurin"
     ],
-    "min": 33.4,
-    "pf": 70,
-    "pa": 90,
-    "pm": -20,
-    "poss": 69.6,
-    "pF": 67.6,
-    "pA": 71.7,
-    "ortg": 103.6,
-    "drtg": 125.5,
-    "net": -21.9,
-    "efg": 60.0,
-    "oefg": 60.3
+    "min": 38.6,
+    "pf": 72,
+    "pa": 97,
+    "pm": -25,
+    "poss": 78.4,
+    "pF": 76.3,
+    "pA": 80.5,
+    "ortg": 94.3,
+    "drtg": 120.5,
+    "net": -26.2,
+    "efg": 52.8,
+    "oefg": 56.3
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Elijah Morgan"
+    ],
+    "min": 34.5,
+    "pf": 64,
+    "pa": 98,
+    "pm": -34,
+    "poss": 72.1,
+    "pF": 71.1,
+    "pA": 73.0,
+    "ortg": 90.0,
+    "drtg": 134.2,
+    "net": -44.2,
+    "efg": 44.6,
+    "oefg": 65.7
    },
    {
     "players": [
@@ -5010,24 +5231,6 @@
     "net": -7.4,
     "efg": 58.8,
     "oefg": 45.5
-   },
-   {
-    "players": [
-     "Tomáš Dvořák",
-     "Tomáš Merta"
-    ],
-    "min": 30.7,
-    "pf": 65,
-    "pa": 73,
-    "pm": -8,
-    "poss": 63.2,
-    "pF": 63.2,
-    "pA": 63.1,
-    "ortg": 102.8,
-    "drtg": 115.7,
-    "net": -12.9,
-    "efg": 51.0,
-    "oefg": 52.8
    },
    {
     "players": [
@@ -5050,20 +5253,38 @@
    {
     "players": [
      "Adam Kolář",
-     "Elijah Morgan"
+     "Xavion Brown"
     ],
-    "min": 27.1,
-    "pf": 52,
-    "pa": 86,
-    "pm": -34,
-    "poss": 56.8,
-    "pF": 55.2,
-    "pA": 58.3,
-    "ortg": 94.1,
-    "drtg": 147.6,
-    "net": -53.4,
-    "efg": 47.5,
-    "oefg": 72.6
+    "min": 27.5,
+    "pf": 43,
+    "pa": 64,
+    "pm": -21,
+    "poss": 58.3,
+    "pF": 57.2,
+    "pA": 59.5,
+    "ortg": 75.2,
+    "drtg": 107.6,
+    "net": -32.4,
+    "efg": 41.9,
+    "oefg": 53.8
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Tomáš Dvořák"
+    ],
+    "min": 26.6,
+    "pf": 38,
+    "pa": 66,
+    "pm": -28,
+    "poss": 57.3,
+    "pF": 56.7,
+    "pA": 57.8,
+    "ortg": 67.0,
+    "drtg": 114.2,
+    "net": -47.2,
+    "efg": 36.6,
+    "oefg": 54.0
    },
    {
     "players": [
@@ -5085,75 +5306,39 @@
    },
    {
     "players": [
-     "Christian Ashby",
-     "Tomáš Merta"
-    ],
-    "min": 25.1,
-    "pf": 51,
-    "pa": 41,
-    "pm": 10,
-    "poss": 49.5,
-    "pF": 49.2,
-    "pA": 49.9,
-    "ortg": 103.7,
-    "drtg": 82.1,
-    "net": 21.6,
-    "efg": 47.6,
-    "oefg": 42.6
-   },
-   {
-    "players": [
      "Adam Kolář",
      "Justin Banks"
     ],
-    "min": 19.6,
-    "pf": 35,
-    "pa": 52,
-    "pm": -17,
-    "poss": 39.9,
-    "pF": 39.8,
-    "pA": 40.0,
-    "ortg": 87.9,
-    "drtg": 130.1,
-    "net": -42.3,
-    "efg": 48.1,
-    "oefg": 67.6
+    "min": 22.3,
+    "pf": 43,
+    "pa": 57,
+    "pm": -14,
+    "poss": 45.4,
+    "pF": 44.8,
+    "pA": 46.0,
+    "ortg": 95.9,
+    "drtg": 124.0,
+    "net": -28.1,
+    "efg": 53.1,
+    "oefg": 65.4
    },
    {
     "players": [
      "Adam Kolář",
-     "Tomáš Dvořák"
+     "Christian Ashby"
     ],
-    "min": 18.4,
-    "pf": 26,
-    "pa": 49,
-    "pm": -23,
-    "poss": 39.4,
-    "pF": 38.8,
-    "pA": 40.0,
-    "ortg": 66.9,
-    "drtg": 122.4,
-    "net": -55.4,
-    "efg": 33.3,
-    "oefg": 57.1
-   },
-   {
-    "players": [
-     "Adam Kolář",
-     "Xavion Brown"
-    ],
-    "min": 16.2,
-    "pf": 29,
-    "pa": 44,
-    "pm": -15,
-    "poss": 35.2,
-    "pF": 34.4,
-    "pA": 36.0,
-    "ortg": 84.3,
-    "drtg": 122.4,
-    "net": -38.1,
-    "efg": 45.8,
-    "oefg": 60.6
+    "min": 17.8,
+    "pf": 30,
+    "pa": 41,
+    "pm": -11,
+    "poss": 35.1,
+    "pF": 35.0,
+    "pA": 35.2,
+    "ortg": 85.8,
+    "drtg": 116.6,
+    "net": -30.8,
+    "efg": 46.3,
+    "oefg": 58.3
    },
    {
     "players": [
@@ -5172,24 +5357,6 @@
     "net": 3.0,
     "efg": 63.6,
     "oefg": 45.7
-   },
-   {
-    "players": [
-     "Adam Kolář",
-     "Christian Ashby"
-    ],
-    "min": 14.2,
-    "pf": 28,
-    "pa": 38,
-    "pm": -10,
-    "poss": 28.7,
-    "pF": 29.1,
-    "pA": 28.4,
-    "ortg": 96.3,
-    "drtg": 133.8,
-    "net": -37.5,
-    "efg": 52.3,
-    "oefg": 64.0
    },
    {
     "players": [
@@ -5232,36 +5399,54 @@
      "Adam Kolář",
      "Tomáš Merta"
     ],
-    "min": 9.8,
-    "pf": 18,
-    "pa": 23,
-    "pm": -5,
-    "poss": 19.2,
-    "pF": 19.5,
-    "pA": 19.0,
-    "ortg": 92.2,
-    "drtg": 121.3,
-    "net": -29.1,
-    "efg": 37.5,
-    "oefg": 50.0
+    "min": 12.7,
+    "pf": 20,
+    "pa": 26,
+    "pm": -6,
+    "poss": 25.1,
+    "pF": 24.4,
+    "pA": 25.8,
+    "ortg": 82.0,
+    "drtg": 100.6,
+    "net": -18.7,
+    "efg": 36.8,
+    "oefg": 45.7
    },
    {
     "players": [
      "Adam Kolář",
      "Aleš Jancur"
     ],
-    "min": 9.4,
+    "min": 12.4,
+    "pf": 29,
+    "pa": 35,
+    "pm": -6,
+    "poss": 28.1,
+    "pF": 28.1,
+    "pA": 28.2,
+    "ortg": 103.3,
+    "drtg": 124.1,
+    "net": -20.8,
+    "efg": 75.0,
+    "oefg": 67.4
+   },
+   {
+    "players": [
+     "Aleš Jancur",
+     "Elijah Morgan"
+    ],
+    "min": 11.2,
     "pf": 25,
-    "pa": 27,
-    "pm": -2,
-    "poss": 20.3,
-    "pF": 20.1,
-    "pA": 20.4,
-    "ortg": 124.5,
-    "drtg": 132.1,
-    "net": -7.6,
-    "efg": 100.0,
-    "oefg": 68.4
+    "pa": 32,
+    "pm": -7,
+    "poss": 24.7,
+    "pF": 23.1,
+    "pA": 26.3,
+    "ortg": 108.3,
+    "drtg": 121.6,
+    "net": -13.3,
+    "efg": 58.8,
+    "oefg": 62.5
    },
    {
     "players": [
@@ -5284,24 +5469,6 @@
    {
     "players": [
      "Aleš Jancur",
-     "Elijah Morgan"
-    ],
-    "min": 9.1,
-    "pf": 21,
-    "pa": 29,
-    "pm": -8,
-    "poss": 18.8,
-    "pF": 17.1,
-    "pA": 20.4,
-    "ortg": 123.0,
-    "drtg": 141.9,
-    "net": -18.9,
-    "efg": 72.7,
-    "oefg": 66.7
-   },
-   {
-    "players": [
-     "Aleš Jancur",
      "Christian Ashby"
     ],
     "min": 8.4,
@@ -5316,6 +5483,60 @@
     "net": 5.6,
     "efg": 69.2,
     "oefg": 44.4
+   },
+   {
+    "players": [
+     "Aleš Jancur",
+     "Xavion Brown"
+    ],
+    "min": 6.3,
+    "pf": 11,
+    "pa": 14,
+    "pm": -3,
+    "poss": 14.7,
+    "pF": 14.9,
+    "pA": 14.5,
+    "ortg": 73.9,
+    "drtg": 96.4,
+    "net": -22.5,
+    "efg": 45.5,
+    "oefg": 44.4
+   },
+   {
+    "players": [
+     "Aleš Jancur",
+     "Tomáš Dvořák"
+    ],
+    "min": 4.5,
+    "pf": 9,
+    "pa": 11,
+    "pm": -2,
+    "poss": 11.4,
+    "pF": 12.0,
+    "pA": 10.8,
+    "ortg": 75.0,
+    "drtg": 102.2,
+    "net": -27.2,
+    "efg": 56.2,
+    "oefg": 57.1
+   },
+   {
+    "players": [
+     "Adam Kolář",
+     "Roman Vejražka"
+    ],
+    "min": 3.9,
+    "pf": 8,
+    "pa": 13,
+    "pm": -5,
+    "poss": 8.4,
+    "pF": 9.0,
+    "pA": 7.9,
+    "ortg": 88.9,
+    "drtg": 165.0,
+    "net": -76.1,
+    "efg": 57.1,
+    "oefg": 68.8
    },
    {
     "players": [
@@ -5355,42 +5576,6 @@
    },
    {
     "players": [
-     "Aleš Jancur",
-     "Xavion Brown"
-    ],
-    "min": 3.4,
-    "pf": 7,
-    "pa": 6,
-    "pm": 1,
-    "poss": 6.8,
-    "pF": 6.9,
-    "pA": 6.8,
-    "ortg": 101.7,
-    "drtg": 88.8,
-    "net": 13.0,
-    "efg": 60.0,
-    "oefg": 30.0
-   },
-   {
-    "players": [
-     "Adam Kolář",
-     "Roman Vejražka"
-    ],
-    "min": 3.0,
-    "pf": 8,
-    "pa": 8,
-    "pm": 0,
-    "poss": 6.5,
-    "pF": 7.0,
-    "pA": 6.0,
-    "ortg": 114.3,
-    "drtg": 133.3,
-    "net": -19.0,
-    "efg": 57.1,
-    "oefg": 57.1
-   },
-   {
-    "players": [
      "Brion Jamar Mclaurin",
      "Roman Vejražka"
     ],
@@ -5413,14 +5598,14 @@
   {
    "passer": "Tomáš Dvořák",
    "scorer": "Justin Banks",
-   "ast": 10,
-   "pts": 22
+   "ast": 11,
+   "pts": 25
   },
   {
    "passer": "Xavion Brown",
    "scorer": "Tomáš Dvořák",
-   "ast": 10,
-   "pts": 22
+   "ast": 11,
+   "pts": 24
   },
   {
    "passer": "Xavion Brown",
@@ -6787,6 +6972,108 @@
     "last5": [
      8,
      9
+    ]
+   }
+  },
+  {
+   "fibaId": 2945549,
+   "nblId": 544618,
+   "date": "2026-11-18",
+   "round": "13. kolo",
+   "venue": "home",
+   "opponent": "Sršni Photomate Písek",
+   "opponentSlug": "pisek",
+   "opponentLabel": "Písek",
+   "score": [
+    53,
+    84
+   ],
+   "result": "L",
+   "ot": false,
+   "ortg": 66.2,
+   "drtg": 102.7,
+   "net": -36.4,
+   "pace": 80.9,
+   "efg": 31.2,
+   "tov": 21.1,
+   "orb": 29.4,
+   "ftr": 20.3,
+   "topScorer": "Elijah Morgan",
+   "oppEfg": 55.2,
+   "oppOrb": 41.0,
+   "tp": [
+    4,
+    28
+   ],
+   "ft": [
+    13,
+    25
+   ],
+   "second": [
+    14,
+    19
+   ],
+   "bench": [
+    27,
+    34
+   ],
+   "paint": [
+    26,
+    42
+   ],
+   "leading": [
+    2.7,
+    36.7
+   ],
+   "leadChanges": 1,
+   "maxLead": [
+    3,
+    31
+   ],
+   "maxRun": [
+    5,
+    13
+   ],
+   "astFg": [
+    [
+     6,
+     18
+    ],
+    [
+     19,
+     32
+    ]
+   ],
+   "quarters": [
+    [
+     9,
+     25
+    ],
+    [
+     18,
+     23
+    ],
+    [
+     11,
+     18
+    ],
+    [
+     15,
+     18
+    ]
+   ],
+   "segments": {
+    "first3": [
+     16,
+     12
+    ],
+    "last3": [
+     15,
+     32
+    ],
+    "last5": [
+     6,
+     10
     ]
    }
   }
@@ -12064,6 +12351,454 @@
     1,
     1,
     11
+   ],
+   [
+    22.5,
+    85.4,
+    1,
+    1,
+    8
+   ],
+   [
+    9.5,
+    65.9,
+    0,
+    0,
+    4
+   ],
+   [
+    30.0,
+    30.1,
+    0,
+    1,
+    11
+   ],
+   [
+    2.7,
+    53.8,
+    0,
+    0,
+    0
+   ],
+   [
+    21.9,
+    88.8,
+    0,
+    1,
+    11
+   ],
+   [
+    6.3,
+    43.6,
+    0,
+    0,
+    5
+   ],
+   [
+    19.5,
+    89.6,
+    0,
+    1,
+    1
+   ],
+   [
+    20.9,
+    88.2,
+    0,
+    1,
+    3
+   ],
+   [
+    23.7,
+    85.4,
+    0,
+    1,
+    5
+   ],
+   [
+    9.7,
+    52.7,
+    0,
+    0,
+    3
+   ],
+   [
+    21.9,
+    31.5,
+    0,
+    0,
+    5
+   ],
+   [
+    30.0,
+    68.2,
+    1,
+    1,
+    3
+   ],
+   [
+    30.8,
+    37.4,
+    0,
+    1,
+    0
+   ],
+   [
+    6.9,
+    44.8,
+    0,
+    0,
+    0
+   ],
+   [
+    5.6,
+    2.7,
+    0,
+    1,
+    11
+   ],
+   [
+    6.7,
+    53.8,
+    1,
+    0,
+    5
+   ],
+   [
+    28.1,
+    74.4,
+    0,
+    1,
+    5
+   ],
+   [
+    11.3,
+    3.6,
+    0,
+    1,
+    4
+   ],
+   [
+    24.0,
+    84.0,
+    0,
+    1,
+    1
+   ],
+   [
+    34.0,
+    48.1,
+    0,
+    1,
+    1
+   ],
+   [
+    9.5,
+    53.2,
+    0,
+    0,
+    8
+   ],
+   [
+    20.6,
+    54.9,
+    0,
+    0,
+    8
+   ],
+   [
+    4.6,
+    55.2,
+    0,
+    0,
+    3
+   ],
+   [
+    23.1,
+    76.4,
+    1,
+    0,
+    5
+   ],
+   [
+    5.8,
+    97.8,
+    0,
+    1,
+    11
+   ],
+   [
+    6.1,
+    61.1,
+    0,
+    0,
+    3
+   ],
+   [
+    32.2,
+    32.3,
+    0,
+    1,
+    8
+   ],
+   [
+    20.0,
+    24.4,
+    0,
+    0,
+    5
+   ],
+   [
+    23.4,
+    13.2,
+    1,
+    1,
+    5
+   ],
+   [
+    6.7,
+    54.1,
+    1,
+    0,
+    5
+   ],
+   [
+    8.4,
+    44.5,
+    0,
+    0,
+    0
+   ],
+   [
+    15.6,
+    90.5,
+    0,
+    0,
+    4
+   ],
+   [
+    31.7,
+    36.9,
+    0,
+    1,
+    3
+   ],
+   [
+    8.1,
+    55.5,
+    1,
+    0,
+    4
+   ],
+   [
+    33.9,
+    69.9,
+    0,
+    1,
+    1
+   ],
+   [
+    30.4,
+    78.6,
+    1,
+    1,
+    5
+   ],
+   [
+    7.1,
+    71.9,
+    0,
+    0,
+    8
+   ],
+   [
+    8.0,
+    55.2,
+    1,
+    0,
+    0
+   ],
+   [
+    7.8,
+    44.2,
+    1,
+    0,
+    4
+   ],
+   [
+    31.5,
+    42.8,
+    0,
+    1,
+    8
+   ],
+   [
+    21.1,
+    12.6,
+    0,
+    1,
+    5
+   ],
+   [
+    12.8,
+    60.0,
+    1,
+    0,
+    11
+   ],
+   [
+    7.2,
+    45.4,
+    0,
+    0,
+    4
+   ],
+   [
+    7.4,
+    23.9,
+    0,
+    0,
+    1
+   ],
+   [
+    12.4,
+    58.9,
+    0,
+    0,
+    3
+   ],
+   [
+    5.8,
+    45.1,
+    1,
+    0,
+    0
+   ],
+   [
+    6.9,
+    40.6,
+    0,
+    0,
+    0
+   ],
+   [
+    14.8,
+    5.9,
+    0,
+    1,
+    7
+   ],
+   [
+    7.1,
+    55.2,
+    1,
+    0,
+    0
+   ],
+   [
+    8.3,
+    4.4,
+    0,
+    1,
+    1
+   ],
+   [
+    4.4,
+    3.0,
+    0,
+    1,
+    1
+   ],
+   [
+    10.0,
+    51.9,
+    0,
+    0,
+    5
+   ],
+   [
+    35.0,
+    50.7,
+    0,
+    1,
+    5
+   ],
+   [
+    30.8,
+    68.8,
+    0,
+    1,
+    4
+   ],
+   [
+    7.2,
+    50.7,
+    1,
+    0,
+    8
+   ],
+   [
+    8.0,
+    50.7,
+    1,
+    0,
+    1
+   ],
+   [
+    7.7,
+    57.5,
+    1,
+    0,
+    8
+   ],
+   [
+    26.1,
+    78.4,
+    0,
+    1,
+    11
+   ],
+   [
+    8.0,
+    45.7,
+    0,
+    0,
+    4
+   ],
+   [
+    7.7,
+    55.2,
+    1,
+    0,
+    7
+   ],
+   [
+    7.7,
+    55.2,
+    0,
+    0,
+    5
+   ],
+   [
+    7.8,
+    52.7,
+    1,
+    0,
+    5
+   ],
+   [
+    9.4,
+    3.0,
+    0,
+    1,
+    0
+   ],
+   [
+    8.9,
+    54.4,
+    0,
+    0,
+    5
    ]
   ]
  },
@@ -12071,68 +12806,68 @@
   {
    "name": "Elijah Morgan",
    "bands": [
-    22,
-    27,
     26,
-    39,
-    38
+    31,
+    26,
+    44,
+    43
    ],
-   "pts": 154
+   "pts": 172
   },
   {
    "name": "Justin Banks",
    "bands": [
-    27,
-    21,
+    28,
+    22,
     25,
-    27,
-    37
+    29,
+    40
    ],
-   "pts": 138
+   "pts": 145
+  },
+  {
+   "name": "Brion Jamar Mclaurin",
+   "bands": [
+    14,
+    15,
+    34,
+    27,
+    26
+   ],
+   "pts": 116
   },
   {
    "name": "Tomáš Dvořák",
    "bands": [
-    22,
+    26,
     25,
     15,
     31,
     15
    ],
-   "pts": 110
+   "pts": 115
   },
   {
    "name": "Christian Ashby",
    "bands": [
-    24,
+    26,
     18,
     24,
     25,
     14
    ],
-   "pts": 108
-  },
-  {
-   "name": "Brion Jamar Mclaurin",
-   "bands": [
-    13,
-    15,
-    27,
-    26,
-    26
-   ],
-   "pts": 107
+   "pts": 110
   },
   {
    "name": "Xavion Brown",
    "bands": [
     25,
-    21,
-    21,
+    25,
+    23,
     14,
     23
    ],
-   "pts": 104
+   "pts": 110
   },
   {
    "name": "Marco Šinik",
@@ -12170,24 +12905,24 @@
   {
    "name": "Tomáš Merta",
    "bands": [
-    4,
+    6,
     1,
     0,
-    12,
+    14,
     6
    ],
-   "pts": 23
+   "pts": 27
   },
   {
    "name": "Adam Kolář",
    "bands": [
     5,
-    3,
+    5,
     2,
     5,
     0
    ],
-   "pts": 17
+   "pts": 19
   },
   {
    "name": "Aleš Jancur",
@@ -12203,42 +12938,42 @@
  ],
  "segments": {
   "first3": [
-   327,
-   325
+   343,
+   337
   ],
   "last3": [
-   314,
-   350
+   329,
+   382
   ],
   "last5": [
-   134,
-   134
+   140,
+   144
   ]
  },
  "ranks": {
-  "ppg": 6,
+  "ppg": 9,
   "oppg": 11,
-  "diff": 9,
-  "ortg": 3,
+  "diff": 10,
+  "ortg": 6,
   "drtg": 11,
-  "net": 9,
+  "net": 10,
   "pace": 12,
-  "efg": 1,
-  "ts": 1,
-  "tov": 10,
-  "orb": 10,
+  "efg": 2,
+  "ts": 2,
+  "tov": 11,
+  "orb": 11,
   "drb": 10,
   "ftr": 10,
   "three_par": 1,
   "three": 1,
-  "two": 2,
-  "ft": 7,
-  "ast_pct": 8,
-  "ast_to": 8,
+  "two": 3,
+  "ft": 8,
+  "ast_pct": 9,
+  "ast_to": 10,
   "stl_pct": 8,
-  "blk_pct": 5,
+  "blk_pct": 4,
   "opp_efg": 12,
-  "opp_tov": 8,
+  "opp_tov": 6,
   "opp_ftr": 7,
   "opp_three": 11,
   "of": 12
@@ -12249,21 +12984,21 @@
   "name": "BK GAPA Hradec Králové",
   "label": "Hradec",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/7fd3ce6915f30fdebd069914a3b1d4f2S1.png",
-  "gp": 12,
+  "gp": 13,
   "w": 4,
-  "l": 8,
-  "pct": 0.333,
-  "pf": 1023,
-  "pa": 1091,
-  "diff": -68,
-  "ppg": 85.2,
-  "oppg": 90.9,
-  "home": "2-4",
+  "l": 9,
+  "pct": 0.308,
+  "pf": 1076,
+  "pa": 1175,
+  "diff": -99,
+  "ppg": 82.8,
+  "oppg": 90.4,
+  "home": "2-5",
   "away": "2-4",
   "close": "0-0",
   "ot": 1,
-  "streak": "W1",
-  "last5": "WLLLW"
+  "streak": "L1",
+  "last5": "LLLWL"
  },
  "players": [
   {
@@ -12499,108 +13234,108 @@
    "teamLabel": "Hradec",
    "shirt": "10",
    "pos": "",
-   "gp": 11,
+   "gp": 12,
    "gs": 4,
-   "min": 274.2,
+   "min": 304.5,
    "totals": {
-    "pts": 154,
-    "fgm": 45,
-    "fga": 101,
-    "tpm": 29,
-    "tpa": 71,
-    "twopm": 16,
-    "twopa": 30,
-    "ftm": 35,
-    "fta": 40,
-    "oreb": 5,
-    "dreb": 18,
-    "reb": 23,
-    "ast": 32,
-    "to": 28,
-    "stl": 6,
+    "pts": 172,
+    "fgm": 51,
+    "fga": 117,
+    "tpm": 31,
+    "tpa": 77,
+    "twopm": 20,
+    "twopa": 40,
+    "ftm": 39,
+    "fta": 44,
+    "oreb": 8,
+    "dreb": 24,
+    "reb": 32,
+    "ast": 34,
+    "to": 30,
+    "stl": 8,
     "blk": 1,
-    "blkr": 4,
-    "pf": 31,
-    "foulon": 41,
-    "pm": -98,
-    "paint": 24,
-    "fast": 26,
-    "second": 13
+    "blkr": 5,
+    "pf": 33,
+    "foulon": 43,
+    "pm": -120,
+    "paint": 30,
+    "fast": 30,
+    "second": 19
    },
    "perGame": {
-    "pts": 14.0,
-    "fgm": 4.1,
-    "fga": 9.2,
+    "pts": 14.3,
+    "fgm": 4.2,
+    "fga": 9.8,
     "tpm": 2.6,
-    "tpa": 6.5,
-    "twopm": 1.5,
-    "twopa": 2.7,
+    "tpa": 6.4,
+    "twopm": 1.7,
+    "twopa": 3.3,
     "ftm": 3.2,
-    "fta": 3.6,
-    "oreb": 0.5,
-    "dreb": 1.6,
-    "reb": 2.1,
-    "ast": 2.9,
+    "fta": 3.7,
+    "oreb": 0.7,
+    "dreb": 2.0,
+    "reb": 2.7,
+    "ast": 2.8,
     "to": 2.5,
-    "stl": 0.5,
+    "stl": 0.7,
     "blk": 0.1,
     "blkr": 0.4,
     "pf": 2.8,
-    "foulon": 3.7,
-    "pm": -8.9,
-    "paint": 2.2,
-    "fast": 2.4,
-    "second": 1.2,
-    "min": 24.9,
-    "eff": 11.5,
-    "gmsc": 8.8
+    "foulon": 3.6,
+    "pm": -10.0,
+    "paint": 2.5,
+    "fast": 2.5,
+    "second": 1.6,
+    "min": 25.4,
+    "eff": 12.2,
+    "gmsc": 9.2
    },
    "per40": {
-    "pts": 22.5,
-    "reb": 3.4,
-    "ast": 4.7,
-    "stl": 0.9,
+    "pts": 22.6,
+    "reb": 4.2,
+    "ast": 4.5,
+    "stl": 1.1,
     "blk": 0.1,
-    "to": 4.1
+    "to": 3.9
    },
-   "ts": 64.9,
-   "efg": 58.9,
-   "fg": 44.6,
-   "two": 53.3,
-   "three": 40.8,
-   "ft": 87.5,
-   "usg": 25.1,
-   "astTo": 1.14,
-   "pm": -98,
-   "pm40": -14.3,
+   "ts": 63.1,
+   "efg": 56.8,
+   "fg": 43.6,
+   "two": 50.0,
+   "three": 40.3,
+   "ft": 88.6,
+   "usg": 25.3,
+   "astTo": 1.13,
+   "pm": -120,
+   "pm40": -15.8,
    "on": {
-    "min": 274.4,
-    "pf": 564,
-    "pa": 660,
-    "ortg": 108.0,
-    "drtg": 125.3,
-    "net": -17.4
+    "min": 304.6,
+    "pf": 608,
+    "pa": 726,
+    "ortg": 104.2,
+    "drtg": 123.6,
+    "net": -19.4
    },
    "off": {
-    "min": 170.1,
-    "ortg": 114.9,
-    "drtg": 103.3,
-    "net": 11.6
+    "min": 179.8,
+    "ortg": 111.3,
+    "drtg": 102.2,
+    "net": 9.0
    },
-   "onOff": -29.0,
+   "onOff": -28.4,
    "dd": 0,
    "td": 0,
    "high": 25,
    "zones": {
     "paint": {
-     "m": 13,
-     "a": 24,
-     "pct": 54.2
+     "m": 16,
+     "a": 31,
+     "pct": 51.6
     },
     "mid": {
-     "m": 3,
-     "a": 6,
-     "pct": 50.0
+     "m": 4,
+     "a": 9,
+     "pct": 44.4
     },
     "corner3": {
      "m": 6,
@@ -12608,9 +13343,9 @@
      "pct": 60.0
     },
     "above3": {
-     "m": 23,
-     "a": 61,
-     "pct": 37.7
+     "m": 25,
+     "a": 67,
+     "pct": 37.3
     }
    },
    "log": [
@@ -12833,6 +13568,26 @@
      "pm": 11,
      "eff": 13,
      "ts": 60.6
+    },
+    {
+     "fibaId": 2945549,
+     "date": "2026-11-18",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 30.3,
+     "pts": 18,
+     "reb": 9,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "to": 2,
+     "fg": "6/16",
+     "tp": "2/6",
+     "ft": "4/4",
+     "pm": -22,
+     "eff": 19,
+     "ts": 50.7
     }
    ]
   },
@@ -12844,103 +13599,103 @@
    "teamLabel": "Hradec",
    "shirt": "6",
    "pos": "",
-   "gp": 11,
+   "gp": 12,
    "gs": 10,
-   "min": 325.5,
+   "min": 347.6,
    "totals": {
-    "pts": 138,
-    "fgm": 51,
-    "fga": 96,
-    "tpm": 14,
-    "tpa": 33,
+    "pts": 145,
+    "fgm": 52,
+    "fga": 103,
+    "tpm": 15,
+    "tpa": 36,
     "twopm": 37,
-    "twopa": 63,
-    "ftm": 22,
-    "fta": 31,
-    "oreb": 23,
-    "dreb": 47,
-    "reb": 70,
+    "twopa": 67,
+    "ftm": 26,
+    "fta": 37,
+    "oreb": 24,
+    "dreb": 49,
+    "reb": 73,
     "ast": 27,
-    "to": 20,
-    "stl": 10,
-    "blk": 18,
-    "blkr": 4,
+    "to": 22,
+    "stl": 12,
+    "blk": 19,
+    "blkr": 5,
     "pf": 37,
-    "foulon": 33,
-    "pm": -52,
+    "foulon": 39,
+    "pm": -73,
     "paint": 72,
-    "fast": 17,
-    "second": 19
+    "fast": 18,
+    "second": 25
    },
    "perGame": {
-    "pts": 12.5,
-    "fgm": 4.6,
-    "fga": 8.7,
-    "tpm": 1.3,
+    "pts": 12.1,
+    "fgm": 4.3,
+    "fga": 8.6,
+    "tpm": 1.2,
     "tpa": 3.0,
-    "twopm": 3.4,
-    "twopa": 5.7,
-    "ftm": 2.0,
-    "fta": 2.8,
-    "oreb": 2.1,
-    "dreb": 4.3,
-    "reb": 6.4,
-    "ast": 2.5,
+    "twopm": 3.1,
+    "twopa": 5.6,
+    "ftm": 2.2,
+    "fta": 3.1,
+    "oreb": 2.0,
+    "dreb": 4.1,
+    "reb": 6.1,
+    "ast": 2.2,
     "to": 1.8,
-    "stl": 0.9,
+    "stl": 1.0,
     "blk": 1.6,
     "blkr": 0.4,
-    "pf": 3.4,
-    "foulon": 3.0,
-    "pm": -4.7,
-    "paint": 6.5,
+    "pf": 3.1,
+    "foulon": 3.2,
+    "pm": -6.1,
+    "paint": 6.0,
     "fast": 1.5,
-    "second": 1.7,
-    "min": 29.6,
-    "eff": 17.2,
-    "gmsc": 11.3
+    "second": 2.1,
+    "min": 29.0,
+    "eff": 16.0,
+    "gmsc": 10.7
    },
    "per40": {
-    "pts": 17.0,
-    "reb": 8.6,
-    "ast": 3.3,
-    "stl": 1.2,
+    "pts": 16.7,
+    "reb": 8.4,
+    "ast": 3.1,
+    "stl": 1.4,
     "blk": 2.2,
     "to": 2.5
    },
-   "ts": 62.9,
-   "efg": 60.4,
-   "fg": 53.1,
-   "two": 58.7,
-   "three": 42.4,
-   "ft": 71.0,
-   "usg": 18.6,
-   "astTo": 1.35,
-   "pm": -52,
-   "pm40": -6.4,
+   "ts": 60.8,
+   "efg": 57.8,
+   "fg": 50.5,
+   "two": 55.2,
+   "three": 41.7,
+   "ft": 70.3,
+   "usg": 18.9,
+   "astTo": 1.23,
+   "pm": -73,
+   "pm40": -8.4,
    "on": {
-    "min": 325.6,
-    "pf": 686,
-    "pa": 738,
-    "ortg": 111.0,
-    "drtg": 117.3,
-    "net": -6.3
+    "min": 347.7,
+    "pf": 720,
+    "pa": 793,
+    "ortg": 108.8,
+    "drtg": 117.2,
+    "net": -8.3
    },
    "off": {
-    "min": 118.9,
-    "ortg": 105.9,
-    "drtg": 118.2,
-    "net": -12.3
+    "min": 136.8,
+    "ortg": 98.9,
+    "drtg": 114.0,
+    "net": -15.2
    },
-   "onOff": 6.0,
+   "onOff": 6.9,
    "dd": 1,
    "td": 0,
    "high": 27,
    "zones": {
     "paint": {
      "m": 36,
-     "a": 57,
-     "pct": 63.2
+     "a": 61,
+     "pct": 59.0
     },
     "mid": {
      "m": 1,
@@ -12953,9 +13708,9 @@
      "pct": 66.7
     },
     "above3": {
-     "m": 10,
-     "a": 27,
-     "pct": 37.0
+     "m": 11,
+     "a": 30,
+     "pct": 36.7
     }
    },
    "log": [
@@ -13178,6 +13933,26 @@
      "pm": 25,
      "eff": 20,
      "ts": 93.5
+    },
+    {
+     "fibaId": 2945549,
+     "date": "2026-11-18",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 22.1,
+     "pts": 7,
+     "reb": 3,
+     "ast": 0,
+     "stl": 2,
+     "blk": 1,
+     "to": 2,
+     "fg": "1/7",
+     "tp": "1/3",
+     "ft": "4/6",
+     "pm": -21,
+     "eff": 3,
+     "ts": 36.3
     }
    ]
   },
@@ -13189,103 +13964,103 @@
    "teamLabel": "Hradec",
    "shirt": "0",
    "pos": "",
-   "gp": 9,
-   "gs": 9,
-   "min": 270.3,
+   "gp": 10,
+   "gs": 10,
+   "min": 300.9,
    "totals": {
-    "pts": 104,
-    "fgm": 42,
-    "fga": 82,
+    "pts": 110,
+    "fgm": 45,
+    "fga": 91,
     "tpm": 2,
-    "tpa": 5,
-    "twopm": 40,
-    "twopa": 77,
+    "tpa": 7,
+    "twopm": 43,
+    "twopa": 84,
     "ftm": 18,
-    "fta": 33,
-    "oreb": 14,
-    "dreb": 33,
-    "reb": 47,
-    "ast": 51,
-    "to": 38,
-    "stl": 13,
-    "blk": 7,
+    "fta": 39,
+    "oreb": 15,
+    "dreb": 39,
+    "reb": 54,
+    "ast": 52,
+    "to": 43,
+    "stl": 15,
+    "blk": 8,
     "blkr": 3,
-    "pf": 28,
-    "foulon": 46,
-    "pm": 25,
-    "paint": 80,
-    "fast": 16,
+    "pf": 31,
+    "foulon": 49,
+    "pm": -4,
+    "paint": 86,
+    "fast": 18,
     "second": 4
    },
    "perGame": {
-    "pts": 11.6,
-    "fgm": 4.7,
+    "pts": 11.0,
+    "fgm": 4.5,
     "fga": 9.1,
     "tpm": 0.2,
-    "tpa": 0.6,
-    "twopm": 4.4,
-    "twopa": 8.6,
-    "ftm": 2.0,
-    "fta": 3.7,
-    "oreb": 1.6,
-    "dreb": 3.7,
-    "reb": 5.2,
-    "ast": 5.7,
-    "to": 4.2,
-    "stl": 1.4,
+    "tpa": 0.7,
+    "twopm": 4.3,
+    "twopa": 8.4,
+    "ftm": 1.8,
+    "fta": 3.9,
+    "oreb": 1.5,
+    "dreb": 3.9,
+    "reb": 5.4,
+    "ast": 5.2,
+    "to": 4.3,
+    "stl": 1.5,
     "blk": 0.8,
     "blkr": 0.3,
     "pf": 3.1,
-    "foulon": 5.1,
-    "pm": 2.8,
-    "paint": 8.9,
+    "foulon": 4.9,
+    "pm": -0.4,
+    "paint": 8.6,
     "fast": 1.8,
     "second": 0.4,
-    "min": 30.0,
-    "eff": 14.3,
-    "gmsc": 9.1
+    "min": 30.1,
+    "eff": 12.9,
+    "gmsc": 8.0
    },
    "per40": {
-    "pts": 15.4,
-    "reb": 7.0,
-    "ast": 7.5,
-    "stl": 1.9,
-    "blk": 1.0,
-    "to": 5.6
+    "pts": 14.6,
+    "reb": 7.2,
+    "ast": 6.9,
+    "stl": 2.0,
+    "blk": 1.1,
+    "to": 5.7
    },
-   "ts": 53.9,
-   "efg": 52.4,
-   "fg": 51.2,
-   "two": 51.9,
-   "three": 40.0,
-   "ft": 54.5,
-   "usg": 23.5,
-   "astTo": 1.34,
-   "pm": 25,
-   "pm40": 3.7,
+   "ts": 50.9,
+   "efg": 50.5,
+   "fg": 49.5,
+   "two": 51.2,
+   "three": 28.6,
+   "ft": 46.2,
+   "usg": 23.4,
+   "astTo": 1.21,
+   "pm": -4,
+   "pm40": -0.5,
    "on": {
-    "min": 270.4,
-    "pf": 574,
-    "pa": 551,
-    "ortg": 111.5,
-    "drtg": 108.4,
-    "net": 3.2
+    "min": 301.1,
+    "pf": 610,
+    "pa": 616,
+    "ortg": 106.1,
+    "drtg": 108.2,
+    "net": -2.0
    },
    "off": {
-    "min": 89.6,
-    "ortg": 106.6,
-    "drtg": 134.1,
-    "net": -27.5
+    "min": 98.9,
+    "ortg": 104.3,
+    "drtg": 129.6,
+    "net": -25.3
    },
-   "onOff": 30.7,
+   "onOff": 23.3,
    "dd": 1,
    "td": 0,
    "high": 21,
    "zones": {
     "paint": {
-     "m": 40,
-     "a": 76,
-     "pct": 52.6
+     "m": 43,
+     "a": 83,
+     "pct": 51.8
     },
     "mid": {
      "m": 0,
@@ -13294,13 +14069,13 @@
     },
     "corner3": {
      "m": 1,
-     "a": 1,
-     "pct": 100.0
+     "a": 2,
+     "pct": 50.0
     },
     "above3": {
      "m": 1,
-     "a": 4,
-     "pct": 25.0
+     "a": 5,
+     "pct": 20.0
     }
    },
    "log": [
@@ -13483,6 +14258,26 @@
      "pm": 24,
      "eff": 27,
      "ts": 68.9
+    },
+    {
+     "fibaId": 2945549,
+     "date": "2026-11-18",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 30.6,
+     "pts": 6,
+     "reb": 7,
+     "ast": 1,
+     "stl": 2,
+     "blk": 1,
+     "to": 5,
+     "fg": "3/9",
+     "tp": "0/2",
+     "ft": "0/6",
+     "pm": -29,
+     "eff": 0,
+     "ts": 25.8
     }
    ]
   },
@@ -13494,103 +14289,103 @@
    "teamLabel": "Hradec",
    "shirt": "11",
    "pos": "",
-   "gp": 11,
-   "gs": 8,
-   "min": 299.5,
+   "gp": 12,
+   "gs": 9,
+   "min": 322.9,
    "totals": {
-    "pts": 108,
-    "fgm": 35,
-    "fga": 80,
+    "pts": 110,
+    "fgm": 36,
+    "fga": 88,
     "tpm": 31,
-    "tpa": 68,
-    "twopm": 4,
-    "twopa": 12,
+    "tpa": 74,
+    "twopm": 5,
+    "twopa": 14,
     "ftm": 7,
     "fta": 8,
     "oreb": 5,
-    "dreb": 12,
-    "reb": 17,
-    "ast": 12,
-    "to": 7,
-    "stl": 6,
+    "dreb": 13,
+    "reb": 18,
+    "ast": 13,
+    "to": 9,
+    "stl": 8,
     "blk": 1,
     "blkr": 0,
-    "pf": 26,
-    "foulon": 8,
-    "pm": 6,
-    "paint": 8,
+    "pf": 27,
+    "foulon": 9,
+    "pm": -14,
+    "paint": 10,
     "fast": 5,
     "second": 6
    },
    "perGame": {
-    "pts": 9.8,
-    "fgm": 3.2,
+    "pts": 9.2,
+    "fgm": 3.0,
     "fga": 7.3,
-    "tpm": 2.8,
+    "tpm": 2.6,
     "tpa": 6.2,
     "twopm": 0.4,
-    "twopa": 1.1,
+    "twopa": 1.2,
     "ftm": 0.6,
     "fta": 0.7,
-    "oreb": 0.5,
+    "oreb": 0.4,
     "dreb": 1.1,
     "reb": 1.5,
     "ast": 1.1,
-    "to": 0.6,
-    "stl": 0.5,
+    "to": 0.8,
+    "stl": 0.7,
     "blk": 0.1,
     "blkr": 0.0,
-    "pf": 2.4,
-    "foulon": 0.7,
-    "pm": 0.5,
-    "paint": 0.7,
-    "fast": 0.5,
+    "pf": 2.2,
+    "foulon": 0.8,
+    "pm": -1.2,
+    "paint": 0.8,
+    "fast": 0.4,
     "second": 0.5,
-    "min": 27.2,
-    "eff": 8.3,
-    "gmsc": 6.4
+    "min": 26.9,
+    "eff": 7.3,
+    "gmsc": 5.7
    },
    "per40": {
-    "pts": 14.4,
-    "reb": 2.3,
+    "pts": 13.6,
+    "reb": 2.2,
     "ast": 1.6,
-    "stl": 0.8,
+    "stl": 1.0,
     "blk": 0.1,
-    "to": 0.9
+    "to": 1.1
    },
-   "ts": 64.7,
-   "efg": 63.1,
-   "fg": 43.8,
-   "two": 33.3,
-   "three": 45.6,
+   "ts": 60.1,
+   "efg": 58.5,
+   "fg": 40.9,
+   "two": 35.7,
+   "three": 41.9,
    "ft": 87.5,
-   "usg": 14.2,
-   "astTo": 1.71,
-   "pm": 6,
-   "pm40": 0.8,
+   "usg": 14.5,
+   "astTo": 1.44,
+   "pm": -14,
+   "pm40": -1.7,
    "on": {
-    "min": 299.4,
-    "pf": 637,
-    "pa": 631,
-    "ortg": 111.9,
-    "drtg": 112.3,
-    "net": -0.4
+    "min": 322.8,
+    "pf": 664,
+    "pa": 678,
+    "ortg": 108.0,
+    "drtg": 111.3,
+    "net": -3.4
    },
    "off": {
-    "min": 145.1,
-    "ortg": 114.5,
-    "drtg": 127.5,
-    "net": -13.0
+    "min": 161.7,
+    "ortg": 110.4,
+    "drtg": 125.3,
+    "net": -15.0
    },
-   "onOff": 12.6,
+   "onOff": 11.6,
    "dd": 0,
    "td": 0,
    "high": 17,
    "zones": {
     "paint": {
-     "m": 4,
-     "a": 7,
-     "pct": 57.1
+     "m": 5,
+     "a": 9,
+     "pct": 55.6
     },
     "mid": {
      "m": 0,
@@ -13599,13 +14394,13 @@
     },
     "corner3": {
      "m": 10,
-     "a": 15,
-     "pct": 66.7
+     "a": 17,
+     "pct": 58.8
     },
     "above3": {
      "m": 21,
-     "a": 53,
-     "pct": 39.6
+     "a": 57,
+     "pct": 36.8
     }
    },
    "log": [
@@ -13828,371 +14623,26 @@
      "pm": 20,
      "eff": 12,
      "ts": 100.0
-    }
-   ]
-  },
-  {
-   "id": "hradec/tomas-dvorak",
-   "name": "Tomáš Dvořák",
-   "team": "hradec",
-   "teamName": "BK GAPA Hradec Králové",
-   "teamLabel": "Hradec",
-   "shirt": "44",
-   "pos": "",
-   "gp": 12,
-   "gs": 10,
-   "min": 285.5,
-   "totals": {
-    "pts": 110,
-    "fgm": 41,
-    "fga": 89,
-    "tpm": 13,
-    "tpa": 45,
-    "twopm": 28,
-    "twopa": 44,
-    "ftm": 15,
-    "fta": 26,
-    "oreb": 9,
-    "dreb": 26,
-    "reb": 35,
-    "ast": 32,
-    "to": 26,
-    "stl": 19,
-    "blk": 2,
-    "blkr": 5,
-    "pf": 33,
-    "foulon": 27,
-    "pm": -39,
-    "paint": 56,
-    "fast": 18,
-    "second": 12
-   },
-   "perGame": {
-    "pts": 9.2,
-    "fgm": 3.4,
-    "fga": 7.4,
-    "tpm": 1.1,
-    "tpa": 3.8,
-    "twopm": 2.3,
-    "twopa": 3.7,
-    "ftm": 1.2,
-    "fta": 2.2,
-    "oreb": 0.8,
-    "dreb": 2.2,
-    "reb": 2.9,
-    "ast": 2.7,
-    "to": 2.2,
-    "stl": 1.6,
-    "blk": 0.2,
-    "blkr": 0.4,
-    "pf": 2.8,
-    "foulon": 2.2,
-    "pm": -3.2,
-    "paint": 4.7,
-    "fast": 1.5,
-    "second": 1.0,
-    "min": 23.8,
-    "eff": 9.4,
-    "gmsc": 6.5
-   },
-   "per40": {
-    "pts": 15.4,
-    "reb": 4.9,
-    "ast": 4.5,
-    "stl": 2.7,
-    "blk": 0.3,
-    "to": 3.6
-   },
-   "ts": 54.8,
-   "efg": 53.4,
-   "fg": 46.1,
-   "two": 63.6,
-   "three": 28.9,
-   "ft": 57.7,
-   "usg": 20.8,
-   "astTo": 1.23,
-   "pm": -39,
-   "pm40": -5.5,
-   "on": {
-    "min": 285.4,
-    "pf": 611,
-    "pa": 650,
-    "ortg": 110.4,
-    "drtg": 117.1,
-    "net": -6.8
-   },
-   "off": {
-    "min": 199.0,
-    "ortg": 109.9,
-    "drtg": 116.1,
-    "net": -6.2
-   },
-   "onOff": -0.6,
-   "dd": 0,
-   "td": 0,
-   "high": 20,
-   "zones": {
-    "paint": {
-     "m": 28,
-     "a": 43,
-     "pct": 65.1
-    },
-    "mid": {
-     "m": 0,
-     "a": 1,
-     "pct": 0.0
-    },
-    "corner3": {
-     "m": 4,
-     "a": 10,
-     "pct": 40.0
-    },
-    "above3": {
-     "m": 9,
-     "a": 35,
-     "pct": 25.7
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2890472,
-     "date": "2026-09-20",
-     "opponent": "Olomoucko",
-     "venue": "away",
-     "result": "W",
-     "min": 21.6,
-     "pts": 6,
-     "reb": 2,
-     "ast": 3,
-     "stl": 1,
-     "blk": 0,
-     "to": 2,
-     "fg": "3/10",
-     "tp": "0/4",
-     "ft": "0/2",
-     "pm": 3,
-     "eff": 1,
-     "ts": 27.6
     },
     {
-     "fibaId": 2890473,
-     "date": "2026-09-23",
+     "fibaId": 2945549,
+     "date": "2026-11-18",
      "opponent": "Písek",
-     "venue": "away",
-     "result": "L",
-     "min": 28.6,
-     "pts": 11,
-     "reb": 5,
-     "ast": 2,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "4/7",
-     "tp": "2/4",
-     "ft": "1/2",
-     "pm": -15,
-     "eff": 12,
-     "ts": 69.8
-    },
-    {
-     "fibaId": 2890484,
-     "date": "2026-09-26",
-     "opponent": "Pardubice",
-     "venue": "home",
-     "result": "L",
-     "min": 24.1,
-     "pts": 15,
-     "reb": 5,
-     "ast": 5,
-     "stl": 1,
-     "blk": 0,
-     "to": 3,
-     "fg": "6/11",
-     "tp": "1/3",
-     "ft": "2/3",
-     "pm": 7,
-     "eff": 17,
-     "ts": 60.9
-    },
-    {
-     "fibaId": 2892253,
-     "date": "2026-09-30",
-     "opponent": "Ostrava",
-     "venue": "away",
-     "result": "L",
-     "min": 29.1,
-     "pts": 11,
-     "reb": 4,
-     "ast": 2,
-     "stl": 3,
-     "blk": 0,
-     "to": 1,
-     "fg": "5/11",
-     "tp": "1/6",
-     "ft": "0/2",
-     "pm": 9,
-     "eff": 11,
-     "ts": 46.3
-    },
-    {
-     "fibaId": 2893125,
-     "date": "2026-10-03",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "L",
-     "min": 27.1,
-     "pts": 12,
-     "reb": 5,
-     "ast": 1,
-     "stl": 2,
-     "blk": 0,
-     "to": 2,
-     "fg": "3/7",
-     "tp": "1/5",
-     "ft": "5/6",
-     "pm": -24,
-     "eff": 13,
-     "ts": 62.2
-    },
-    {
-     "fibaId": 2900036,
-     "date": "2026-10-10",
-     "opponent": "Děčín",
-     "venue": "home",
-     "result": "W",
-     "min": 25.4,
-     "pts": 11,
-     "reb": 4,
-     "ast": 4,
-     "stl": 2,
-     "blk": 1,
-     "to": 1,
-     "fg": "5/8",
-     "tp": "1/3",
-     "ft": "0/1",
-     "pm": 7,
-     "eff": 17,
-     "ts": 65.2
-    },
-    {
-     "fibaId": 2910249,
-     "date": "2026-10-17",
-     "opponent": "Ústí",
      "venue": "home",
      "result": "L",
      "min": 23.4,
-     "pts": 7,
-     "reb": 1,
-     "ast": 4,
-     "stl": 1,
-     "blk": 0,
-     "to": 3,
-     "fg": "3/5",
-     "tp": "1/3",
-     "ft": "0/0",
-     "pm": -7,
-     "eff": 8,
-     "ts": 70.0
-    },
-    {
-     "fibaId": 2923365,
-     "date": "2026-10-25",
-     "opponent": "Plzeň",
-     "venue": "away",
-     "result": "W",
-     "min": 16.8,
-     "pts": 3,
-     "reb": 4,
-     "ast": 2,
-     "stl": 2,
-     "blk": 0,
-     "to": 1,
-     "fg": "1/5",
-     "tp": "0/2",
-     "ft": "1/2",
-     "pm": 3,
-     "eff": 5,
-     "ts": 25.5
-    },
-    {
-     "fibaId": 2927621,
-     "date": "2026-10-28",
-     "opponent": "USK",
-     "venue": "home",
-     "result": "L",
-     "min": 16.6,
-     "pts": 3,
-     "reb": 2,
-     "ast": 2,
-     "stl": 0,
-     "blk": 1,
-     "to": 2,
-     "fg": "1/3",
-     "tp": "1/2",
-     "ft": "0/0",
-     "pm": -20,
-     "eff": 4,
-     "ts": 50.0
-    },
-    {
-     "fibaId": 2932742,
-     "date": "2026-11-01",
-     "opponent": "Opava",
-     "venue": "away",
-     "result": "L",
-     "min": 22.3,
-     "pts": 9,
-     "reb": 1,
-     "ast": 3,
-     "stl": 2,
-     "blk": 0,
-     "to": 2,
-     "fg": "4/7",
-     "tp": "1/4",
-     "ft": "0/0",
-     "pm": -8,
-     "eff": 10,
-     "ts": 64.3
-    },
-    {
-     "fibaId": 2938697,
-     "date": "2026-11-07",
-     "opponent": "Brno",
-     "venue": "away",
-     "result": "L",
-     "min": 21.1,
      "pts": 2,
      "reb": 1,
      "ast": 1,
-     "stl": 1,
+     "stl": 2,
      "blk": 0,
-     "to": 4,
-     "fg": "0/1",
-     "tp": "0/1",
-     "ft": "2/2",
-     "pm": -15,
-     "eff": 0,
-     "ts": 53.2
-    },
-    {
-     "fibaId": 2943467,
-     "date": "2026-11-14",
-     "opponent": "Olomoucko",
-     "venue": "home",
-     "result": "W",
-     "min": 29.4,
-     "pts": 20,
-     "reb": 1,
-     "ast": 3,
-     "stl": 4,
-     "blk": 0,
-     "to": 3,
-     "fg": "6/14",
-     "tp": "4/8",
-     "ft": "4/6",
-     "pm": 21,
-     "eff": 15,
-     "ts": 60.1
+     "to": 2,
+     "fg": "1/8",
+     "tp": "0/6",
+     "ft": "0/0",
+     "pm": -20,
+     "eff": -3,
+     "ts": 12.5
     }
    ]
   },
@@ -14204,33 +14654,33 @@
    "teamLabel": "Hradec",
    "shirt": "5",
    "pos": "",
-   "gp": 12,
-   "gs": 2,
-   "min": 259.4,
+   "gp": 13,
+   "gs": 3,
+   "min": 284.4,
    "totals": {
-    "pts": 107,
-    "fgm": 39,
-    "fga": 86,
-    "tpm": 12,
-    "tpa": 35,
-    "twopm": 27,
-    "twopa": 51,
-    "ftm": 17,
-    "fta": 26,
-    "oreb": 12,
-    "dreb": 46,
-    "reb": 58,
+    "pts": 116,
+    "fgm": 42,
+    "fga": 94,
+    "tpm": 13,
+    "tpa": 38,
+    "twopm": 29,
+    "twopa": 56,
+    "ftm": 19,
+    "fta": 32,
+    "oreb": 13,
+    "dreb": 47,
+    "reb": 60,
     "ast": 11,
-    "to": 10,
-    "stl": 3,
+    "to": 12,
+    "stl": 4,
     "blk": 1,
     "blkr": 6,
-    "pf": 17,
-    "foulon": 17,
-    "pm": -39,
-    "paint": 44,
+    "pf": 22,
+    "foulon": 20,
+    "pm": -57,
+    "paint": 48,
     "fast": 3,
-    "second": 11
+    "second": 13
    },
    "perGame": {
     "pts": 8.9,
@@ -14239,73 +14689,73 @@
     "tpm": 1.0,
     "tpa": 2.9,
     "twopm": 2.2,
-    "twopa": 4.2,
-    "ftm": 1.4,
-    "fta": 2.2,
+    "twopa": 4.3,
+    "ftm": 1.5,
+    "fta": 2.5,
     "oreb": 1.0,
-    "dreb": 3.8,
-    "reb": 4.8,
-    "ast": 0.9,
-    "to": 0.8,
-    "stl": 0.2,
+    "dreb": 3.6,
+    "reb": 4.6,
+    "ast": 0.8,
+    "to": 0.9,
+    "stl": 0.3,
     "blk": 0.1,
     "blkr": 0.5,
-    "pf": 1.4,
-    "foulon": 1.4,
-    "pm": -3.2,
+    "pf": 1.7,
+    "foulon": 1.5,
+    "pm": -4.4,
     "paint": 3.7,
     "fast": 0.2,
-    "second": 0.9,
-    "min": 21.6,
-    "eff": 9.5,
-    "gmsc": 6.3
+    "second": 1.0,
+    "min": 21.9,
+    "eff": 8.8,
+    "gmsc": 5.9
    },
    "per40": {
-    "pts": 16.5,
-    "reb": 8.9,
-    "ast": 1.7,
-    "stl": 0.5,
-    "blk": 0.2,
-    "to": 1.5
+    "pts": 16.3,
+    "reb": 8.4,
+    "ast": 1.5,
+    "stl": 0.6,
+    "blk": 0.1,
+    "to": 1.7
    },
-   "ts": 54.9,
-   "efg": 52.3,
-   "fg": 45.3,
-   "two": 52.9,
-   "three": 34.3,
-   "ft": 65.4,
-   "usg": 19.4,
-   "astTo": 1.1,
-   "pm": -39,
-   "pm40": -6.0,
+   "ts": 53.7,
+   "efg": 51.6,
+   "fg": 44.7,
+   "two": 51.8,
+   "three": 34.2,
+   "ft": 59.4,
+   "usg": 19.6,
+   "astTo": 0.92,
+   "pm": -57,
+   "pm40": -8.0,
    "on": {
-    "min": 259.5,
-    "pf": 550,
-    "pa": 588,
-    "ortg": 109.7,
-    "drtg": 117.0,
-    "net": -7.3
+    "min": 284.5,
+    "pf": 579,
+    "pa": 635,
+    "ortg": 105.0,
+    "drtg": 114.8,
+    "net": -9.9
    },
    "off": {
-    "min": 224.9,
-    "ortg": 110.7,
-    "drtg": 116.4,
-    "net": -5.7
+    "min": 239.9,
+    "ortg": 108.8,
+    "drtg": 116.5,
+    "net": -7.7
    },
-   "onOff": -1.6,
+   "onOff": -2.2,
    "dd": 0,
    "td": 0,
    "high": 17,
    "zones": {
     "paint": {
-     "m": 21,
-     "a": 39,
-     "pct": 53.8
+     "m": 23,
+     "a": 43,
+     "pct": 53.5
     },
     "mid": {
      "m": 6,
-     "a": 12,
-     "pct": 50.0
+     "a": 13,
+     "pct": 46.2
     },
     "corner3": {
      "m": 0,
@@ -14313,9 +14763,9 @@
      "pct": null
     },
     "above3": {
-     "m": 12,
-     "a": 35,
-     "pct": 34.3
+     "m": 13,
+     "a": 38,
+     "pct": 34.2
     }
    },
    "log": [
@@ -14558,6 +15008,411 @@
      "pm": 19,
      "eff": 24,
      "ts": 83.3
+    },
+    {
+     "fibaId": 2945549,
+     "date": "2026-11-18",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 25.0,
+     "pts": 9,
+     "reb": 2,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/8",
+     "tp": "1/3",
+     "ft": "2/6",
+     "pm": -18,
+     "eff": 1,
+     "ts": 42.3
+    }
+   ]
+  },
+  {
+   "id": "hradec/tomas-dvorak",
+   "name": "Tomáš Dvořák",
+   "team": "hradec",
+   "teamName": "BK GAPA Hradec Králové",
+   "teamLabel": "Hradec",
+   "shirt": "44",
+   "pos": "",
+   "gp": 13,
+   "gs": 11,
+   "min": 312.1,
+   "totals": {
+    "pts": 115,
+    "fgm": 43,
+    "fga": 97,
+    "tpm": 13,
+    "tpa": 47,
+    "twopm": 30,
+    "twopa": 50,
+    "ftm": 16,
+    "fta": 27,
+    "oreb": 10,
+    "dreb": 29,
+    "reb": 39,
+    "ast": 33,
+    "to": 27,
+    "stl": 22,
+    "blk": 3,
+    "blkr": 5,
+    "pf": 36,
+    "foulon": 29,
+    "pm": -53,
+    "paint": 60,
+    "fast": 23,
+    "second": 12
+   },
+   "perGame": {
+    "pts": 8.8,
+    "fgm": 3.3,
+    "fga": 7.5,
+    "tpm": 1.0,
+    "tpa": 3.6,
+    "twopm": 2.3,
+    "twopa": 3.8,
+    "ftm": 1.2,
+    "fta": 2.1,
+    "oreb": 0.8,
+    "dreb": 2.2,
+    "reb": 3.0,
+    "ast": 2.5,
+    "to": 2.1,
+    "stl": 1.7,
+    "blk": 0.2,
+    "blkr": 0.4,
+    "pf": 2.8,
+    "foulon": 2.2,
+    "pm": -4.1,
+    "paint": 4.6,
+    "fast": 1.8,
+    "second": 0.9,
+    "min": 24.0,
+    "eff": 9.2,
+    "gmsc": 6.3
+   },
+   "per40": {
+    "pts": 14.7,
+    "reb": 5.0,
+    "ast": 4.2,
+    "stl": 2.8,
+    "blk": 0.4,
+    "to": 3.5
+   },
+   "ts": 52.8,
+   "efg": 51.0,
+   "fg": 44.3,
+   "two": 60.0,
+   "three": 27.7,
+   "ft": 59.3,
+   "usg": 20.2,
+   "astTo": 1.22,
+   "pm": -53,
+   "pm40": -6.8,
+   "on": {
+    "min": 312.1,
+    "pf": 651,
+    "pa": 704,
+    "ortg": 107.2,
+    "drtg": 115.5,
+    "net": -8.4
+   },
+   "off": {
+    "min": 212.4,
+    "ortg": 106.0,
+    "drtg": 115.6,
+    "net": -9.7
+   },
+   "onOff": 1.3,
+   "dd": 0,
+   "td": 0,
+   "high": 20,
+   "zones": {
+    "paint": {
+     "m": 30,
+     "a": 48,
+     "pct": 62.5
+    },
+    "mid": {
+     "m": 0,
+     "a": 2,
+     "pct": 0.0
+    },
+    "corner3": {
+     "m": 4,
+     "a": 11,
+     "pct": 36.4
+    },
+    "above3": {
+     "m": 9,
+     "a": 36,
+     "pct": 25.0
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890472,
+     "date": "2026-09-20",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "W",
+     "min": 21.6,
+     "pts": 6,
+     "reb": 2,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/10",
+     "tp": "0/4",
+     "ft": "0/2",
+     "pm": 3,
+     "eff": 1,
+     "ts": 27.6
+    },
+    {
+     "fibaId": 2890473,
+     "date": "2026-09-23",
+     "opponent": "Písek",
+     "venue": "away",
+     "result": "L",
+     "min": 28.6,
+     "pts": 11,
+     "reb": 5,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "4/7",
+     "tp": "2/4",
+     "ft": "1/2",
+     "pm": -15,
+     "eff": 12,
+     "ts": 69.8
+    },
+    {
+     "fibaId": 2890484,
+     "date": "2026-09-26",
+     "opponent": "Pardubice",
+     "venue": "home",
+     "result": "L",
+     "min": 24.1,
+     "pts": 15,
+     "reb": 5,
+     "ast": 5,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "6/11",
+     "tp": "1/3",
+     "ft": "2/3",
+     "pm": 7,
+     "eff": 17,
+     "ts": 60.9
+    },
+    {
+     "fibaId": 2892253,
+     "date": "2026-09-30",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 29.1,
+     "pts": 11,
+     "reb": 4,
+     "ast": 2,
+     "stl": 3,
+     "blk": 0,
+     "to": 1,
+     "fg": "5/11",
+     "tp": "1/6",
+     "ft": "0/2",
+     "pm": 9,
+     "eff": 11,
+     "ts": 46.3
+    },
+    {
+     "fibaId": 2893125,
+     "date": "2026-10-03",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "L",
+     "min": 27.1,
+     "pts": 12,
+     "reb": 5,
+     "ast": 1,
+     "stl": 2,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/7",
+     "tp": "1/5",
+     "ft": "5/6",
+     "pm": -24,
+     "eff": 13,
+     "ts": 62.2
+    },
+    {
+     "fibaId": 2900036,
+     "date": "2026-10-10",
+     "opponent": "Děčín",
+     "venue": "home",
+     "result": "W",
+     "min": 25.4,
+     "pts": 11,
+     "reb": 4,
+     "ast": 4,
+     "stl": 2,
+     "blk": 1,
+     "to": 1,
+     "fg": "5/8",
+     "tp": "1/3",
+     "ft": "0/1",
+     "pm": 7,
+     "eff": 17,
+     "ts": 65.2
+    },
+    {
+     "fibaId": 2910249,
+     "date": "2026-10-17",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "L",
+     "min": 23.4,
+     "pts": 7,
+     "reb": 1,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "3/5",
+     "tp": "1/3",
+     "ft": "0/0",
+     "pm": -7,
+     "eff": 8,
+     "ts": 70.0
+    },
+    {
+     "fibaId": 2923365,
+     "date": "2026-10-25",
+     "opponent": "Plzeň",
+     "venue": "away",
+     "result": "W",
+     "min": 16.8,
+     "pts": 3,
+     "reb": 4,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "to": 1,
+     "fg": "1/5",
+     "tp": "0/2",
+     "ft": "1/2",
+     "pm": 3,
+     "eff": 5,
+     "ts": 25.5
+    },
+    {
+     "fibaId": 2927621,
+     "date": "2026-10-28",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "L",
+     "min": 16.6,
+     "pts": 3,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 1,
+     "to": 2,
+     "fg": "1/3",
+     "tp": "1/2",
+     "ft": "0/0",
+     "pm": -20,
+     "eff": 4,
+     "ts": 50.0
+    },
+    {
+     "fibaId": 2932742,
+     "date": "2026-11-01",
+     "opponent": "Opava",
+     "venue": "away",
+     "result": "L",
+     "min": 22.3,
+     "pts": 9,
+     "reb": 1,
+     "ast": 3,
+     "stl": 2,
+     "blk": 0,
+     "to": 2,
+     "fg": "4/7",
+     "tp": "1/4",
+     "ft": "0/0",
+     "pm": -8,
+     "eff": 10,
+     "ts": 64.3
+    },
+    {
+     "fibaId": 2938697,
+     "date": "2026-11-07",
+     "opponent": "Brno",
+     "venue": "away",
+     "result": "L",
+     "min": 21.1,
+     "pts": 2,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 4,
+     "fg": "0/1",
+     "tp": "0/1",
+     "ft": "2/2",
+     "pm": -15,
+     "eff": 0,
+     "ts": 53.2
+    },
+    {
+     "fibaId": 2943467,
+     "date": "2026-11-14",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 29.4,
+     "pts": 20,
+     "reb": 1,
+     "ast": 3,
+     "stl": 4,
+     "blk": 0,
+     "to": 3,
+     "fg": "6/14",
+     "tp": "4/8",
+     "ft": "4/6",
+     "pm": 21,
+     "eff": 15,
+     "ts": 60.1
+    },
+    {
+     "fibaId": 2945549,
+     "date": "2026-11-18",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 26.6,
+     "pts": 5,
+     "reb": 4,
+     "ast": 1,
+     "stl": 3,
+     "blk": 1,
+     "to": 1,
+     "fg": "2/8",
+     "tp": "0/2",
+     "ft": "1/1",
+     "pm": -14,
+     "eff": 7,
+     "ts": 29.6
     }
    ]
   },
@@ -15199,103 +16054,103 @@
    "teamLabel": "Hradec",
    "shirt": "23",
    "pos": "",
-   "gp": 5,
-   "gs": 0,
-   "min": 83.2,
+   "gp": 6,
+   "gs": 1,
+   "min": 110.0,
    "totals": {
-    "pts": 23,
-    "fgm": 7,
-    "fga": 11,
+    "pts": 27,
+    "fgm": 8,
+    "fga": 17,
     "tpm": 6,
-    "tpa": 9,
-    "twopm": 1,
-    "twopa": 2,
-    "ftm": 3,
-    "fta": 4,
-    "oreb": 5,
-    "dreb": 7,
-    "reb": 12,
+    "tpa": 14,
+    "twopm": 2,
+    "twopa": 3,
+    "ftm": 5,
+    "fta": 6,
+    "oreb": 7,
+    "dreb": 9,
+    "reb": 16,
     "ast": 3,
-    "to": 1,
-    "stl": 1,
+    "to": 4,
+    "stl": 2,
     "blk": 0,
     "blkr": 1,
-    "pf": 14,
-    "foulon": 4,
-    "pm": 3,
-    "paint": 2,
+    "pf": 19,
+    "foulon": 8,
+    "pm": -13,
+    "paint": 4,
     "fast": 4,
     "second": 3
    },
    "perGame": {
-    "pts": 4.6,
-    "fgm": 1.4,
-    "fga": 2.2,
-    "tpm": 1.2,
-    "tpa": 1.8,
-    "twopm": 0.2,
-    "twopa": 0.4,
-    "ftm": 0.6,
-    "fta": 0.8,
-    "oreb": 1.0,
-    "dreb": 1.4,
-    "reb": 2.4,
-    "ast": 0.6,
-    "to": 0.2,
-    "stl": 0.2,
+    "pts": 4.5,
+    "fgm": 1.3,
+    "fga": 2.8,
+    "tpm": 1.0,
+    "tpa": 2.3,
+    "twopm": 0.3,
+    "twopa": 0.5,
+    "ftm": 0.8,
+    "fta": 1.0,
+    "oreb": 1.2,
+    "dreb": 1.5,
+    "reb": 2.7,
+    "ast": 0.5,
+    "to": 0.7,
+    "stl": 0.3,
     "blk": 0.0,
     "blkr": 0.2,
-    "pf": 2.8,
-    "foulon": 0.8,
-    "pm": 0.6,
-    "paint": 0.4,
-    "fast": 0.8,
-    "second": 0.6,
-    "min": 16.6,
-    "eff": 6.6,
-    "gmsc": 4.0
+    "pf": 3.2,
+    "foulon": 1.3,
+    "pm": -2.2,
+    "paint": 0.7,
+    "fast": 0.7,
+    "second": 0.5,
+    "min": 18.3,
+    "eff": 5.7,
+    "gmsc": 3.0
    },
    "per40": {
-    "pts": 11.1,
+    "pts": 9.8,
     "reb": 5.8,
-    "ast": 1.4,
-    "stl": 0.5,
+    "ast": 1.1,
+    "stl": 0.7,
     "blk": 0.0,
-    "to": 0.5
+    "to": 1.5
    },
-   "ts": 90.1,
-   "efg": 90.9,
-   "fg": 63.6,
-   "two": 50.0,
-   "three": 66.7,
-   "ft": 75.0,
-   "usg": 7.6,
-   "astTo": 3.0,
-   "pm": 3,
-   "pm40": 1.4,
+   "ts": 68.7,
+   "efg": 64.7,
+   "fg": 47.1,
+   "two": 66.7,
+   "three": 42.9,
+   "ft": 83.3,
+   "usg": 9.7,
+   "astTo": 0.75,
+   "pm": -13,
+   "pm40": -4.7,
    "on": {
-    "min": 83.1,
-    "pf": 178,
-    "pa": 175,
-    "ortg": 109.4,
-    "drtg": 105.7,
-    "net": 3.7
+    "min": 109.9,
+    "pf": 215,
+    "pa": 228,
+    "ortg": 100.1,
+    "drtg": 103.7,
+    "net": -3.7
    },
    "off": {
-    "min": 116.9,
-    "ortg": 105.1,
-    "drtg": 110.2,
-    "net": -5.1
+    "min": 130.1,
+    "ortg": 99.8,
+    "drtg": 110.4,
+    "net": -10.6
    },
-   "onOff": 8.8,
+   "onOff": 6.9,
    "dd": 0,
    "td": 0,
    "high": 11,
    "zones": {
     "paint": {
-     "m": 1,
-     "a": 2,
-     "pct": 50.0
+     "m": 2,
+     "a": 3,
+     "pct": 66.7
     },
     "mid": {
      "m": 0,
@@ -15304,13 +16159,13 @@
     },
     "corner3": {
      "m": 5,
-     "a": 7,
-     "pct": 71.4
+     "a": 9,
+     "pct": 55.6
     },
     "above3": {
      "m": 1,
-     "a": 2,
-     "pct": 50.0
+     "a": 5,
+     "pct": 20.0
     }
    },
    "log": [
@@ -15413,6 +16268,26 @@
      "pm": 10,
      "eff": 18,
      "ts": 137.5
+    },
+    {
+     "fibaId": 2945549,
+     "date": "2026-11-18",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 26.8,
+     "pts": 4,
+     "reb": 4,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "1/6",
+     "tp": "0/5",
+     "ft": "2/2",
+     "pm": -16,
+     "eff": 1,
+     "ts": 29.1
     }
    ]
   },
@@ -15424,103 +16299,103 @@
    "teamLabel": "Hradec",
    "shirt": "8",
    "pos": "",
-   "gp": 8,
+   "gp": 9,
    "gs": 0,
-   "min": 44.7,
+   "min": 56.0,
    "totals": {
-    "pts": 17,
-    "fgm": 5,
-    "fga": 12,
+    "pts": 19,
+    "fgm": 6,
+    "fga": 14,
     "tpm": 2,
-    "tpa": 4,
-    "twopm": 3,
-    "twopa": 8,
+    "tpa": 5,
+    "twopm": 4,
+    "twopa": 9,
     "ftm": 5,
     "fta": 8,
-    "oreb": 4,
+    "oreb": 6,
     "dreb": 3,
-    "reb": 7,
-    "ast": 3,
-    "to": 3,
+    "reb": 9,
+    "ast": 4,
+    "to": 4,
     "stl": 0,
     "blk": 0,
     "blkr": 2,
-    "pf": 6,
+    "pf": 7,
     "foulon": 4,
-    "pm": -39,
-    "paint": 6,
-    "fast": 6,
+    "pm": -45,
+    "paint": 8,
+    "fast": 8,
     "second": 0
    },
    "perGame": {
     "pts": 2.1,
-    "fgm": 0.6,
-    "fga": 1.5,
+    "fgm": 0.7,
+    "fga": 1.6,
     "tpm": 0.2,
-    "tpa": 0.5,
+    "tpa": 0.6,
     "twopm": 0.4,
     "twopa": 1.0,
     "ftm": 0.6,
-    "fta": 1.0,
-    "oreb": 0.5,
-    "dreb": 0.4,
-    "reb": 0.9,
+    "fta": 0.9,
+    "oreb": 0.7,
+    "dreb": 0.3,
+    "reb": 1.0,
     "ast": 0.4,
     "to": 0.4,
     "stl": 0.0,
     "blk": 0.0,
     "blkr": 0.2,
     "pf": 0.8,
-    "foulon": 0.5,
-    "pm": -4.9,
-    "paint": 0.8,
-    "fast": 0.8,
+    "foulon": 0.4,
+    "pm": -5.0,
+    "paint": 0.9,
+    "fast": 0.9,
     "second": 0.0,
-    "min": 5.6,
-    "eff": 1.8,
-    "gmsc": 1.2
+    "min": 6.2,
+    "eff": 1.9,
+    "gmsc": 1.3
    },
    "per40": {
-    "pts": 15.2,
-    "reb": 6.3,
-    "ast": 2.7,
+    "pts": 13.6,
+    "reb": 6.4,
+    "ast": 2.9,
     "stl": 0.0,
     "blk": 0.0,
-    "to": 2.7
+    "to": 2.9
    },
-   "ts": 54.8,
+   "ts": 54.2,
    "efg": 50.0,
-   "fg": 41.7,
-   "two": 37.5,
-   "three": 50.0,
+   "fg": 42.9,
+   "two": 44.4,
+   "three": 40.0,
    "ft": 62.5,
-   "usg": 19.4,
+   "usg": 17.6,
    "astTo": 1.0,
-   "pm": -39,
-   "pm40": -34.9,
+   "pm": -45,
+   "pm40": -32.1,
    "on": {
-    "min": 44.7,
-    "pf": 85,
-    "pa": 125,
-    "ortg": 91.6,
-    "drtg": 130.6,
-    "net": -39.0
+    "min": 56.0,
+    "pf": 99,
+    "pa": 145,
+    "ortg": 85.7,
+    "drtg": 121.6,
+    "net": -35.9
    },
    "off": {
-    "min": 275.3,
-    "ortg": 113.8,
-    "drtg": 118.2,
-    "net": -4.4
+    "min": 304.1,
+    "ortg": 109.3,
+    "drtg": 117.4,
+    "net": -8.1
    },
-   "onOff": -34.6,
+   "onOff": -27.8,
    "dd": 0,
    "td": 0,
    "high": 8,
    "zones": {
     "paint": {
-     "m": 3,
-     "a": 8,
-     "pct": 37.5
+     "m": 4,
+     "a": 9,
+     "pct": 44.4
     },
     "mid": {
      "m": 0,
@@ -15534,8 +16409,8 @@
     },
     "above3": {
      "m": 1,
-     "a": 2,
-     "pct": 50.0
+     "a": 3,
+     "pct": 33.3
     }
    },
    "log": [
@@ -15698,6 +16573,26 @@
      "pm": -4,
      "eff": 3,
      "ts": 64.7
+    },
+    {
+     "fibaId": 2945549,
+     "date": "2026-11-18",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 11.3,
+     "pts": 2,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "1/2",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": -6,
+     "eff": 3,
+     "ts": 50.0
     }
    ]
   },
@@ -15709,9 +16604,9 @@
    "teamLabel": "Hradec",
    "shirt": "17",
    "pos": "",
-   "gp": 4,
+   "gp": 5,
    "gs": 0,
-   "min": 16.4,
+   "min": 19.4,
    "totals": {
     "pts": 4,
     "fgm": 1,
@@ -15723,8 +16618,8 @@
     "ftm": 1,
     "fta": 2,
     "oreb": 0,
-    "dreb": 3,
-    "reb": 3,
+    "dreb": 4,
+    "reb": 4,
     "ast": 0,
     "to": 0,
     "stl": 0,
@@ -15732,21 +16627,21 @@
     "blkr": 0,
     "pf": 1,
     "foulon": 1,
-    "pm": -1,
+    "pm": -5,
     "paint": 0,
     "fast": 0,
     "second": 0
    },
    "perGame": {
-    "pts": 1.0,
+    "pts": 0.8,
     "fgm": 0.2,
-    "fga": 0.8,
+    "fga": 0.6,
     "tpm": 0.2,
-    "tpa": 0.5,
+    "tpa": 0.4,
     "twopm": 0.0,
     "twopa": 0.2,
     "ftm": 0.2,
-    "fta": 0.5,
+    "fta": 0.4,
     "oreb": 0.0,
     "dreb": 0.8,
     "reb": 0.8,
@@ -15757,17 +16652,17 @@
     "blkr": 0.0,
     "pf": 0.2,
     "foulon": 0.2,
-    "pm": -0.2,
+    "pm": -1.0,
     "paint": 0.0,
     "fast": 0.0,
     "second": 0.0,
-    "min": 4.1,
+    "min": 3.9,
     "eff": 1.0,
-    "gmsc": 0.6
+    "gmsc": 0.5
    },
    "per40": {
-    "pts": 9.8,
-    "reb": 7.3,
+    "pts": 8.2,
+    "reb": 8.2,
     "ast": 0.0,
     "stl": 0.0,
     "blk": 0.0,
@@ -15779,25 +16674,25 @@
    "two": 0.0,
    "three": 50.0,
    "ft": 50.0,
-   "usg": 11.2,
+   "usg": 9.3,
    "astTo": null,
-   "pm": -1,
-   "pm40": -2.4,
+   "pm": -5,
+   "pm40": -10.3,
    "on": {
-    "min": 16.4,
-    "pf": 41,
-    "pa": 42,
-    "ortg": 120.7,
-    "drtg": 119.3,
-    "net": 1.4
+    "min": 19.3,
+    "pf": 45,
+    "pa": 50,
+    "ortg": 107.2,
+    "drtg": 116.4,
+    "net": -9.1
    },
    "off": {
-    "min": 143.7,
-    "ortg": 110.7,
-    "drtg": 128.8,
-    "net": -18.1
+    "min": 180.7,
+    "ortg": 102.0,
+    "drtg": 123.3,
+    "net": -21.4
    },
-   "onOff": 19.5,
+   "onOff": 12.3,
    "dd": 0,
    "td": 0,
    "high": 3,
@@ -15903,6 +16798,26 @@
      "pm": 2,
      "eff": 0,
      "ts": null
+    },
+    {
+     "fibaId": 2945549,
+     "date": "2026-11-18",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 3.0,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": -4,
+     "eff": 1,
+     "ts": null
     }
    ]
   },
@@ -15914,9 +16829,9 @@
    "teamLabel": "Hradec",
    "shirt": "15",
    "pos": "",
-   "gp": 2,
+   "gp": 3,
    "gs": 0,
-   "min": 3.1,
+   "min": 4.0,
    "totals": {
     "pts": 0,
     "fgm": 0,
@@ -15931,13 +16846,13 @@
     "dreb": 0,
     "reb": 0,
     "ast": 0,
-    "to": 1,
+    "to": 2,
     "stl": 0,
     "blk": 0,
     "blkr": 0,
     "pf": 0,
     "foulon": 0,
-    "pm": 0,
+    "pm": -5,
     "paint": 0,
     "fast": 0,
     "second": 0
@@ -15945,9 +16860,9 @@
    "perGame": {
     "pts": 0.0,
     "fgm": 0.0,
-    "fga": 0.5,
+    "fga": 0.3,
     "tpm": 0.0,
-    "tpa": 0.5,
+    "tpa": 0.3,
     "twopm": 0.0,
     "twopa": 0.0,
     "ftm": 0.0,
@@ -15956,19 +16871,19 @@
     "dreb": 0.0,
     "reb": 0.0,
     "ast": 0.0,
-    "to": 0.5,
+    "to": 0.7,
     "stl": 0.0,
     "blk": 0.0,
     "blkr": 0.0,
     "pf": 0.0,
     "foulon": 0.0,
-    "pm": 0.0,
+    "pm": -1.7,
     "paint": 0.0,
     "fast": 0.0,
     "second": 0.0,
-    "min": 1.6,
+    "min": 1.3,
     "eff": -1.0,
-    "gmsc": -0.8
+    "gmsc": -0.9
    },
    "per40": {
     "pts": 0.0,
@@ -15976,7 +16891,7 @@
     "ast": 0.0,
     "stl": 0.0,
     "blk": 0.0,
-    "to": 12.9
+    "to": 20.0
    },
    "ts": 0.0,
    "efg": 0.0,
@@ -15984,25 +16899,25 @@
    "two": null,
    "three": 0.0,
    "ft": null,
-   "usg": 29.7,
+   "usg": 33.8,
    "astTo": 0.0,
-   "pm": 0,
-   "pm40": 0.0,
+   "pm": -5,
+   "pm40": -50.0,
    "on": {
-    "min": 3.0,
+    "min": 3.9,
     "pf": 8,
-    "pa": 8,
-    "ortg": 114.3,
-    "drtg": 133.3,
-    "net": -19.0
+    "pa": 13,
+    "ortg": 88.9,
+    "drtg": 165.0,
+    "net": -76.1
    },
    "off": {
-    "min": 77.0,
-    "ortg": 114.7,
-    "drtg": 114.3,
-    "net": 0.4
+    "min": 116.1,
+    "ortg": 98.8,
+    "drtg": 109.0,
+    "net": -10.2
    },
-   "onOff": -19.4,
+   "onOff": -65.9,
    "dd": 0,
    "td": 0,
    "high": 0,
@@ -16068,6 +16983,26 @@
      "pm": -3,
      "eff": -1,
      "ts": 0.0
+    },
+    {
+     "fibaId": 2945549,
+     "date": "2026-11-18",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "L",
+     "min": 0.9,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": -5,
+     "eff": -1,
+     "ts": null
     }
    ]
   }
@@ -16327,25 +17262,28 @@
   },
   {
    "nblId": 544618,
-   "fibaId": null,
+   "fibaId": 2945549,
    "round": "13. kolo",
    "datetime": "2026-11-18T19:00:00+01:00",
    "home": "BK GAPA Hradec Králové",
    "away": "Sršni Photomate Písek",
    "homeSlug": "hradec",
    "awaySlug": "pisek",
-   "status": "unknown",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 53,
+    "away": 84
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544618",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2945549/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2945549/data.json",
+    "stats": "matches/2945549.json"
    }
   },
   {
    "nblId": 544629,
-   "fibaId": null,
+   "fibaId": 2947654,
    "round": "14. kolo",
    "datetime": "2026-11-21T17:30:00+01:00",
    "home": "BK KVIS Pardubice",
@@ -16356,14 +17294,14 @@
    "score": null,
    "links": {
     "nbl": "https://nbl.basketball/zapas/544629",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947654/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2947654/data.json",
+    "stats": "matches/2947654.json"
    }
   },
   {
    "nblId": 544631,
-   "fibaId": null,
+   "fibaId": 2953274,
    "round": "15. kolo",
    "datetime": "2026-12-05T18:00:00+01:00",
    "home": "BK GAPA Hradec Králové",
@@ -16374,14 +17312,14 @@
    "score": null,
    "links": {
     "nbl": "https://nbl.basketball/zapas/544631",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2953274/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2953274/data.json",
+    "stats": "matches/2953274.json"
    }
   },
   {
    "nblId": 544640,
-   "fibaId": null,
+   "fibaId": 2955455,
    "round": "16. kolo",
    "datetime": "2026-12-10T18:00:00+01:00",
    "home": "SK Slavia Praha ERA NBK",
@@ -16392,9 +17330,9 @@
    "score": null,
    "links": {
     "nbl": "https://nbl.basketball/zapas/544640",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2955455/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2955455/data.json",
+    "stats": "matches/2955455.json"
    }
   },
   {

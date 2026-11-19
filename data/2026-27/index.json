@@ -1,11 +1,11 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-19T10:25:32+00:00",
+ "generatedAt": "2026-11-19T11:20:47+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 73,
+  "final": 77,
   "teams": 12,
-  "players": 195
+  "players": 197
  },
  "teams": [
   {
@@ -51,18 +51,18 @@
    "file": "teams/usti.json"
   },
   {
-   "slug": "brno",
-   "name": "PUMPA Basket Brno",
-   "label": "Brno",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
-   "file": "teams/brno.json"
-  },
-  {
    "slug": "usk",
    "name": "USK Praha",
    "label": "USK",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
    "file": "teams/usk.json"
+  },
+  {
+   "slug": "brno",
+   "name": "PUMPA Basket Brno",
+   "label": "Brno",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/6815a88c3e48a5f5ccf3ab08d26cd924S1.png",
+   "file": "teams/brno.json"
   },
   {
    "slug": "opava",
@@ -79,18 +79,18 @@
    "file": "teams/hradec.json"
   },
   {
-   "slug": "plzen",
-   "name": "BK Loko BaliMania Plzeň",
-   "label": "Plzeň",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
-   "file": "teams/plzen.json"
-  },
-  {
    "slug": "olomoucko",
    "name": "BK Olomoucko",
    "label": "Olomoucko",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
    "file": "teams/olomoucko.json"
+  },
+  {
+   "slug": "plzen",
+   "name": "BK Loko BaliMania Plzeň",
+   "label": "Plzeň",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
+   "file": "teams/plzen.json"
   }
  ],
  "files": {
@@ -904,6 +904,50 @@
    "score": [
     107,
     98
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2945550,
+   "date": "2026-11-18",
+   "home": "brno",
+   "away": "ostrava",
+   "score": [
+    90,
+    98
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2945551,
+   "date": "2026-11-18",
+   "home": "usk",
+   "away": "decin",
+   "score": [
+    98,
+    84
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2945552,
+   "date": "2026-11-18",
+   "home": "plzen",
+   "away": "usti",
+   "score": [
+    79,
+    82
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2945549,
+   "date": "2026-11-18",
+   "home": "hradec",
+   "away": "pisek",
+   "score": [
+    53,
+    84
    ],
    "status": "final"
   }

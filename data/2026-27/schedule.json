@@ -1,12 +1,12 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-19T10:25:32+00:00",
+ "generatedAt": "2026-11-19T11:20:47+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 73,
+  "final": 77,
   "scheduled": 54,
-  "withFiba": 74
+  "withFiba": 99
  },
  "teams": {
   "plzen": "BK Loko BaliMania Plzeň",
@@ -2784,14 +2784,17 @@
   },
   {
    "nblId": 544620,
-   "fibaId": null,
+   "fibaId": 2945550,
    "round": "13. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-18T17:00:00+01:00",
    "time": "17:00",
    "home": "PUMPA Basket Brno",
    "away": "NH Ostrava",
-   "score": null,
+   "score": {
+    "home": 90,
+    "away": 98
+   },
    "quarters": null,
    "roundNum": 13,
    "date": "2026-11-18",
@@ -2799,25 +2802,28 @@
    "awaySlug": "ostrava",
    "homeLabel": "Brno",
    "awayLabel": "Ostrava",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544620",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2945550/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2945550/data.json",
+    "stats": "matches/2945550.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544622,
-   "fibaId": null,
+   "fibaId": 2945551,
    "round": "13. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-18T18:00:00+01:00",
    "time": "18:00",
    "home": "USK Praha",
    "away": "BK ARMEX ENERGY Děčín",
-   "score": null,
+   "score": {
+    "home": 98,
+    "away": 84
+   },
    "quarters": null,
    "roundNum": 13,
    "date": "2026-11-18",
@@ -2825,25 +2831,28 @@
    "awaySlug": "decin",
    "homeLabel": "USK",
    "awayLabel": "Děčín",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544622",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2945551/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2945551/data.json",
+    "stats": "matches/2945551.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544623,
-   "fibaId": null,
+   "fibaId": 2945552,
    "round": "13. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-18T18:00:00+01:00",
    "time": "18:00",
    "home": "BK Loko BaliMania Plzeň",
    "away": "SLUNETA Ústí nad Labem",
-   "score": null,
+   "score": {
+    "home": 79,
+    "away": 82
+   },
    "quarters": null,
    "roundNum": 13,
    "date": "2026-11-18",
@@ -2851,25 +2860,28 @@
    "awaySlug": "usti",
    "homeLabel": "Plzeň",
    "awayLabel": "Ústí",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544623",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2945552/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2945552/data.json",
+    "stats": "matches/2945552.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544618,
-   "fibaId": null,
+   "fibaId": 2945549,
    "round": "13. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-18T19:00:00+01:00",
    "time": "19:00",
    "home": "BK GAPA Hradec Králové",
    "away": "Sršni Photomate Písek",
-   "score": null,
+   "score": {
+    "home": 53,
+    "away": 84
+   },
    "quarters": null,
    "roundNum": 13,
    "date": "2026-11-18",
@@ -2877,18 +2889,18 @@
    "awaySlug": "pisek",
    "homeLabel": "Hradec",
    "awayLabel": "Písek",
-   "status": "unknown",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544618",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2945549/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2945549/data.json",
+    "stats": "matches/2945549.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544627,
-   "fibaId": null,
+   "fibaId": 2947450,
    "round": "14. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-21T15:00:00+01:00",
@@ -2906,15 +2918,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544627",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947450/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2947450/data.json",
+    "stats": "matches/2947450.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544626,
-   "fibaId": null,
+   "fibaId": 2947652,
    "round": "14. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-21T17:00:00+01:00",
@@ -2932,15 +2944,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544626",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947652/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2947652/data.json",
+    "stats": "matches/2947652.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544628,
-   "fibaId": null,
+   "fibaId": 2947653,
    "round": "14. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-21T17:30:00+01:00",
@@ -2958,15 +2970,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544628",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947653/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2947653/data.json",
+    "stats": "matches/2947653.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544629,
-   "fibaId": null,
+   "fibaId": 2947654,
    "round": "14. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-21T17:30:00+01:00",
@@ -2984,15 +2996,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544629",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947654/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2947654/data.json",
+    "stats": "matches/2947654.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544624,
-   "fibaId": null,
+   "fibaId": 2947894,
    "round": "14. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-22T18:00:00+01:00",
@@ -3010,15 +3022,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544624",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947894/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2947894/data.json",
+    "stats": "matches/2947894.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544625,
-   "fibaId": null,
+   "fibaId": 2947895,
    "round": "14. kolo",
    "phase": "Základní část",
    "datetime": "2026-11-22T18:00:00+01:00",
@@ -3036,15 +3048,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544625",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947895/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2947895/data.json",
+    "stats": "matches/2947895.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544648,
-   "fibaId": null,
+   "fibaId": 2952391,
    "round": "18. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-02T18:00:00+01:00",
@@ -3062,15 +3074,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544648",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2952391/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2952391/data.json",
+    "stats": "matches/2952391.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544635,
-   "fibaId": null,
+   "fibaId": 2953278,
    "round": "15. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-05T17:30:00+01:00",
@@ -3088,15 +3100,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544635",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2953278/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2953278/data.json",
+    "stats": "matches/2953278.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544631,
-   "fibaId": null,
+   "fibaId": 2953274,
    "round": "15. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-05T18:00:00+01:00",
@@ -3114,15 +3126,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544631",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2953274/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2953274/data.json",
+    "stats": "matches/2953274.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544632,
-   "fibaId": null,
+   "fibaId": 2953275,
    "round": "15. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-05T18:00:00+01:00",
@@ -3140,15 +3152,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544632",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2953275/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2953275/data.json",
+    "stats": "matches/2953275.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544633,
-   "fibaId": null,
+   "fibaId": 2953276,
    "round": "15. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-05T18:00:00+01:00",
@@ -3166,15 +3178,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544633",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2953276/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2953276/data.json",
+    "stats": "matches/2953276.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544634,
-   "fibaId": null,
+   "fibaId": 2953277,
    "round": "15. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-05T18:00:00+01:00",
@@ -3192,15 +3204,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544634",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2953277/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2953277/data.json",
+    "stats": "matches/2953277.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544630,
-   "fibaId": null,
+   "fibaId": 2953273,
    "round": "15. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-05T18:30:00+01:00",
@@ -3218,15 +3230,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544630",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2953273/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2953273/data.json",
+    "stats": "matches/2953273.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544595,
-   "fibaId": null,
+   "fibaId": 2954133,
    "round": "9. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-07T17:00:00+01:00",
@@ -3244,15 +3256,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544595",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2954133/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2954133/data.json",
+    "stats": "matches/2954133.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544640,
-   "fibaId": null,
+   "fibaId": 2955455,
    "round": "16. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-10T18:00:00+01:00",
@@ -3270,15 +3282,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544640",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2955455/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2955455/data.json",
+    "stats": "matches/2955455.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544641,
-   "fibaId": null,
+   "fibaId": 2956015,
    "round": "16. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-12T17:30:00+01:00",
@@ -3296,15 +3308,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544641",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2956015/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2956015/data.json",
+    "stats": "matches/2956015.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544638,
-   "fibaId": null,
+   "fibaId": 2956013,
    "round": "16. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-12T18:00:00+01:00",
@@ -3322,15 +3334,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544638",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2956013/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2956013/data.json",
+    "stats": "matches/2956013.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544639,
-   "fibaId": null,
+   "fibaId": 2956014,
    "round": "16. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-12T18:00:00+01:00",
@@ -3348,15 +3360,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544639",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2956014/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2956014/data.json",
+    "stats": "matches/2956014.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544636,
-   "fibaId": null,
+   "fibaId": 2956213,
    "round": "16. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-13T17:00:00+01:00",
@@ -3374,15 +3386,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544636",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2956213/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2956213/data.json",
+    "stats": "matches/2956213.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544637,
-   "fibaId": null,
+   "fibaId": 2956214,
    "round": "16. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-13T18:00:00+01:00",
@@ -3400,15 +3412,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544637",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2956214/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2956214/data.json",
+    "stats": "matches/2956214.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544653,
-   "fibaId": null,
+   "fibaId": 2957004,
    "round": "18. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-14T18:00:00+01:00",
@@ -3426,9 +3438,9 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544653",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2957004/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2957004/data.json",
+    "stats": "matches/2957004.json"
    },
    "hasStats": false
   },
