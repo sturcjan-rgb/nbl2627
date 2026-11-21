@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-21T12:42:34+00:00",
+ "generatedAt": "2026-11-21T18:19:32+00:00",
  "slug": "ostrava",
  "name": "NH Ostrava",
  "label": "Ostrava",
@@ -8,197 +8,197 @@
  "code": "OVA",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
  "coach": "Adam Choleva",
- "games": 12,
- "minutes": 480.0,
+ "games": 13,
+ "minutes": 520.0,
  "totals": {
-  "pts": 1026,
-  "fgm": 354,
-  "fga": 800,
-  "tpm": 118,
-  "tpa": 346,
-  "twopm": 236,
-  "twopa": 454,
-  "ftm": 200,
-  "fta": 295,
-  "oreb": 164,
-  "dreb": 340,
-  "reb": 504,
-  "ast": 214,
-  "to": 176,
-  "stl": 87,
-  "blk": 35,
-  "blkr": 27,
-  "pf": 251,
-  "foulon": 282,
-  "paint": 430,
-  "fast": 149,
-  "second": 189,
-  "bench": 276,
-  "offto": 170
+  "pts": 1126,
+  "fgm": 388,
+  "fga": 863,
+  "tpm": 130,
+  "tpa": 372,
+  "twopm": 258,
+  "twopa": 491,
+  "ftm": 220,
+  "fta": 321,
+  "oreb": 172,
+  "dreb": 365,
+  "reb": 537,
+  "ast": 236,
+  "to": 183,
+  "stl": 94,
+  "blk": 38,
+  "blkr": 30,
+  "pf": 271,
+  "foulon": 303,
+  "paint": 466,
+  "fast": 164,
+  "second": 199,
+  "bench": 300,
+  "offto": 181
  },
  "oppTotals": {
-  "pts": 960,
-  "fgm": 351,
-  "fga": 803,
-  "tpm": 98,
-  "tpa": 344,
-  "twopm": 253,
-  "twopa": 459,
-  "ftm": 160,
-  "fta": 238,
-  "oreb": 141,
-  "dreb": 316,
-  "reb": 457,
-  "ast": 195,
-  "to": 159,
-  "stl": 96,
-  "blk": 27,
-  "blkr": 35,
-  "pf": 287,
-  "foulon": 244,
-  "paint": 448,
-  "fast": 170,
-  "second": 144,
-  "bench": 341,
-  "offto": 212
+  "pts": 1038,
+  "fgm": 380,
+  "fga": 862,
+  "tpm": 107,
+  "tpa": 368,
+  "twopm": 273,
+  "twopa": 494,
+  "ftm": 171,
+  "fta": 252,
+  "oreb": 146,
+  "dreb": 338,
+  "reb": 484,
+  "ast": 210,
+  "to": 170,
+  "stl": 101,
+  "blk": 30,
+  "blkr": 38,
+  "pf": 308,
+  "foulon": 264,
+  "paint": 478,
+  "fast": 172,
+  "second": 150,
+  "bench": 363,
+  "offto": 221
  },
  "perGame": {
-  "pts": 85.5,
-  "fgm": 29.5,
-  "fga": 66.7,
-  "tpm": 9.8,
-  "tpa": 28.8,
-  "twopm": 19.7,
+  "pts": 86.6,
+  "fgm": 29.8,
+  "fga": 66.4,
+  "tpm": 10.0,
+  "tpa": 28.6,
+  "twopm": 19.8,
   "twopa": 37.8,
-  "ftm": 16.7,
-  "fta": 24.6,
-  "oreb": 13.7,
-  "dreb": 28.3,
-  "reb": 42.0,
-  "ast": 17.8,
-  "to": 14.7,
+  "ftm": 16.9,
+  "fta": 24.7,
+  "oreb": 13.2,
+  "dreb": 28.1,
+  "reb": 41.3,
+  "ast": 18.2,
+  "to": 14.1,
   "stl": 7.2,
   "blk": 2.9,
-  "blkr": 2.2,
-  "pf": 20.9,
-  "foulon": 23.5,
+  "blkr": 2.3,
+  "pf": 20.8,
+  "foulon": 23.3,
   "paint": 35.8,
-  "fast": 12.4,
-  "second": 15.8,
-  "bench": 23.0,
-  "offto": 14.2,
-  "ppg": 85.5,
-  "oppg": 80.0,
-  "diff": 5.5
+  "fast": 12.6,
+  "second": 15.3,
+  "bench": 23.1,
+  "offto": 13.9,
+  "ppg": 86.6,
+  "oppg": 79.8,
+  "diff": 6.8
  },
  "oppPerGame": {
-  "pts": 80.0,
+  "pts": 79.8,
   "fgm": 29.2,
-  "fga": 66.9,
+  "fga": 66.3,
   "tpm": 8.2,
-  "tpa": 28.7,
-  "twopm": 21.1,
-  "twopa": 38.2,
-  "ftm": 13.3,
-  "fta": 19.8,
-  "oreb": 11.8,
-  "dreb": 26.3,
-  "reb": 38.1,
+  "tpa": 28.3,
+  "twopm": 21.0,
+  "twopa": 38.0,
+  "ftm": 13.2,
+  "fta": 19.4,
+  "oreb": 11.2,
+  "dreb": 26.0,
+  "reb": 37.2,
   "ast": 16.2,
-  "to": 13.2,
-  "stl": 8.0,
-  "blk": 2.2,
+  "to": 13.1,
+  "stl": 7.8,
+  "blk": 2.3,
   "blkr": 2.9,
-  "pf": 23.9,
+  "pf": 23.7,
   "foulon": 20.3,
-  "paint": 37.3,
-  "fast": 14.2,
-  "second": 12.0,
-  "bench": 28.4,
-  "offto": 17.7
+  "paint": 36.8,
+  "fast": 13.2,
+  "second": 11.5,
+  "bench": 27.9,
+  "offto": 17.0
  },
  "adv": {
-  "poss": 941.8,
-  "pace": 77.8,
-  "ortg": 108.9,
-  "drtg": 103.7,
-  "net": 5.2,
-  "efg": 51.6,
-  "ts": 55.2,
-  "tov": 15.9,
-  "orb": 34.2,
-  "drb": 70.7,
-  "ftr": 25.0,
-  "fta_rate": 36.9,
-  "three_par": 43.2,
-  "fg": 44.2,
-  "two": 52.0,
-  "three": 34.1,
-  "ft": 67.8,
-  "ast_pct": 60.5,
-  "ast_to": 1.22,
+  "poss": 1015.2,
+  "pace": 77.4,
+  "ortg": 110.9,
+  "drtg": 104.1,
+  "net": 6.8,
+  "efg": 52.5,
+  "ts": 56.1,
+  "tov": 15.4,
+  "orb": 33.7,
+  "drb": 71.4,
+  "ftr": 25.5,
+  "fta_rate": 37.2,
+  "three_par": 43.1,
+  "fg": 45.0,
+  "two": 52.5,
+  "three": 34.9,
+  "ft": 68.5,
+  "ast_pct": 60.8,
+  "ast_to": 1.29,
   "stl_pct": 9.4,
-  "blk_pct": 7.6,
-  "pts_per_shot": 1.1
+  "blk_pct": 7.7,
+  "pts_per_shot": 1.12
  },
  "oppAdv": {
-  "opp_efg": 49.8,
-  "opp_ts": 52.9,
+  "opp_efg": 50.3,
+  "opp_ts": 53.3,
   "opp_tov": 14.9,
-  "opp_ftr": 19.9,
-  "opp_three_par": 42.8,
-  "opp_fg": 43.7,
-  "opp_two": 55.1,
-  "opp_three": 28.5,
-  "opp_ft": 67.2
+  "opp_ftr": 19.8,
+  "opp_three_par": 42.7,
+  "opp_fg": 44.1,
+  "opp_two": 55.3,
+  "opp_three": 29.1,
+  "opp_ft": 67.9
  },
  "factors": {
-  "efg": 51.6,
-  "tov": 15.9,
-  "orb": 34.2,
-  "ftr": 25.0,
-  "opp_efg": 49.8,
+  "efg": 52.5,
+  "tov": 15.4,
+  "orb": 33.7,
+  "ftr": 25.5,
+  "opp_efg": 50.3,
   "opp_tov": 14.9,
-  "drb": 70.7,
-  "opp_ftr": 19.9
+  "drb": 71.4,
+  "opp_ftr": 19.8
  },
  "zones": {
   "paint": {
-   "m": 212,
-   "a": 388,
-   "pct": 54.6,
-   "share": 48.5
+   "m": 230,
+   "a": 418,
+   "pct": 55.0,
+   "share": 48.4
   },
   "mid": {
-   "m": 24,
-   "a": 66,
-   "pct": 36.4,
-   "share": 8.2
+   "m": 28,
+   "a": 73,
+   "pct": 38.4,
+   "share": 8.5
   },
   "corner3": {
    "m": 9,
-   "a": 42,
-   "pct": 21.4,
-   "share": 5.2
+   "a": 43,
+   "pct": 20.9,
+   "share": 5.0
   },
   "above3": {
-   "m": 109,
-   "a": 304,
-   "pct": 35.9,
-   "share": 38.0
+   "m": 121,
+   "a": 329,
+   "pct": 36.8,
+   "share": 38.1
   }
  },
  "oppZones": {
   "paint": {
-   "m": 231,
-   "a": 395,
-   "pct": 58.5,
+   "m": 246,
+   "a": 421,
+   "pct": 58.4,
    "share": null
   },
   "mid": {
-   "m": 22,
-   "a": 64,
-   "pct": 34.4,
+   "m": 27,
+   "a": 73,
+   "pct": 37.0,
    "share": null
   },
   "corner3": {
@@ -208,9 +208,9 @@
    "share": null
   },
   "above3": {
-   "m": 81,
-   "a": 304,
-   "pct": 26.6,
+   "m": 90,
+   "a": 328,
+   "pct": 27.4,
    "share": null
   }
  },
@@ -223,15 +223,15 @@
    "20+"
   ],
   "pts": [
-   176,
-   166,
-   239,
-   210,
-   227
+   190,
+   181,
+   264,
+   234,
+   249
   ],
   "unassigned": 8,
-  "possessions": 953,
-  "ptsPerPoss": 1.08,
+  "possessions": 1026,
+  "ptsPerPoss": 1.1,
   "avgSec": 14.4
  },
  "clutch": {
@@ -253,33 +253,33 @@
    "period": 1,
    "label": "Q1",
    "ppg": 19.3,
-   "oppg": 20.3,
-   "diff": -1.0,
-   "n": 12
+   "oppg": 21.1,
+   "diff": -1.8,
+   "n": 13
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 22.4,
-   "oppg": 20.5,
-   "diff": 1.9,
-   "n": 12
+   "ppg": 22.8,
+   "oppg": 20.4,
+   "diff": 2.5,
+   "n": 13
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 20.2,
+   "ppg": 20.5,
    "oppg": 19.8,
-   "diff": 0.4,
-   "n": 12
+   "diff": 0.8,
+   "n": 13
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 23.5,
-   "oppg": 19.3,
-   "diff": 4.2,
-   "n": 12
+   "ppg": 23.9,
+   "oppg": 18.6,
+   "diff": 5.3,
+   "n": 13
   }
  ],
  "flow": {
@@ -287,7 +287,7 @@
   "biggestDeficit": 22,
   "biggestRun": 20,
   "biggestRunAllowed": 14,
-  "leadChangesPerGame": 4.7
+  "leadChangesPerGame": 4.5
  },
  "lineups": {
   "fives": [
@@ -409,18 +409,40 @@
      "Michal Svoboda",
      "Oleksandr Belikov"
     ],
-    "min": 18.7,
-    "pf": 43,
+    "min": 19.4,
+    "pf": 46,
     "pa": 23,
-    "pm": 20,
-    "poss": 33.8,
-    "pF": 35.3,
-    "pA": 32.3,
-    "ortg": 121.7,
-    "drtg": 71.2,
-    "net": 50.6,
-    "efg": 56.9,
+    "pm": 23,
+    "poss": 35.3,
+    "pF": 37.2,
+    "pA": 33.3,
+    "ortg": 123.7,
+    "drtg": 69.0,
+    "net": 54.6,
+    "efg": 58.1,
     "oefg": 44.0,
+    "games": 7
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Dominik Heinzl",
+     "Erik Howlin",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 19.3,
+    "pf": 32,
+    "pa": 35,
+    "pm": -3,
+    "poss": 35.8,
+    "pF": 37.8,
+    "pA": 33.8,
+    "ortg": 84.7,
+    "drtg": 103.7,
+    "net": -18.9,
+    "efg": 38.8,
+    "oefg": 57.4,
     "games": 6
    },
    {
@@ -447,28 +469,6 @@
    },
    {
     "players": [
-     "Alex Lomax",
-     "Dominik Heinzl",
-     "Erik Howlin",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 17.0,
-    "pf": 27,
-    "pa": 32,
-    "pm": -5,
-    "poss": 30.8,
-    "pF": 31.9,
-    "pA": 29.8,
-    "ortg": 84.7,
-    "drtg": 107.5,
-    "net": -22.8,
-    "efg": 38.2,
-    "oefg": 63.6,
-    "games": 5
-   },
-   {
-    "players": [
      "Adam Ivánek",
      "Alex Lomax",
      "Andre Screen",
@@ -487,6 +487,50 @@
     "net": -48.7,
     "efg": 35.0,
     "oefg": 68.4,
+    "games": 4
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Alex Lomax",
+     "Dominik Heinzl",
+     "Lukáš Palyza",
+     "Michal Svoboda"
+    ],
+    "min": 12.8,
+    "pf": 51,
+    "pa": 28,
+    "pm": 23,
+    "poss": 28.2,
+    "pF": 27.8,
+    "pA": 28.6,
+    "ortg": 183.5,
+    "drtg": 97.8,
+    "net": 85.7,
+    "efg": 76.2,
+    "oefg": 52.2,
+    "games": 2
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Dominik Heinzl",
+     "Erik Howlin",
+     "Lukáš Palyza",
+     "Michal Svoboda"
+    ],
+    "min": 11.2,
+    "pf": 27,
+    "pa": 32,
+    "pm": -5,
+    "poss": 21.5,
+    "pF": 20.1,
+    "pA": 22.9,
+    "ortg": 134.5,
+    "drtg": 139.9,
+    "net": -5.4,
+    "efg": 75.0,
+    "oefg": 70.5,
     "games": 4
    },
    {
@@ -581,23 +625,23 @@
     "players": [
      "Alex Lomax",
      "Dominik Heinzl",
-     "Erik Howlin",
      "Lukáš Palyza",
-     "Michal Svoboda"
+     "Michal Svoboda",
+     "Oleksandr Belikov"
     ],
-    "min": 7.2,
-    "pf": 19,
-    "pa": 16,
+    "min": 6.2,
+    "pf": 16,
+    "pa": 13,
     "pm": 3,
-    "poss": 13.6,
-    "pF": 13.2,
-    "pA": 14.0,
-    "ortg": 143.9,
-    "drtg": 114.3,
-    "net": 29.7,
-    "efg": 77.8,
-    "oefg": 53.3,
-    "games": 3
+    "poss": 12.7,
+    "pF": 13.4,
+    "pA": 12.0,
+    "ortg": 119.4,
+    "drtg": 108.3,
+    "net": 11.1,
+    "efg": 56.2,
+    "oefg": 59.1,
+    "games": 2
    },
    {
     "players": [
@@ -619,6 +663,28 @@
     "net": -24.6,
     "efg": 42.9,
     "oefg": 62.5,
+    "games": 3
+   },
+   {
+    "players": [
+     "Adam Ivánek",
+     "Alex Lomax",
+     "Lukáš Palyza",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 6.0,
+    "pf": 19,
+    "pa": 4,
+    "pm": 15,
+    "poss": 8.9,
+    "pF": 9.9,
+    "pA": 7.9,
+    "ortg": 192.3,
+    "drtg": 50.8,
+    "net": 141.5,
+    "efg": 85.0,
+    "oefg": 12.5,
     "games": 3
    },
    {
@@ -733,6 +799,28 @@
    },
    {
     "players": [
+     "Adam Číž",
+     "David Motyčka",
+     "Lukáš Palyza",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 5.5,
+    "pf": 11,
+    "pa": 14,
+    "pm": -3,
+    "poss": 10.5,
+    "pF": 9.8,
+    "pA": 11.3,
+    "ortg": 112.7,
+    "drtg": 123.7,
+    "net": -11.0,
+    "efg": 56.2,
+    "oefg": 61.1,
+    "games": 3
+   },
+   {
+    "players": [
      "Adam Ivánek",
      "Adam Číž",
      "Lukáš Palyza",
@@ -774,6 +862,50 @@
     "efg": 20.0,
     "oefg": 38.9,
     "games": 3
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Dominik Heinzl",
+     "Erik Howlin",
+     "Lukáš Palyza",
+     "Oleksandr Belikov"
+    ],
+    "min": 4.8,
+    "pf": 10,
+    "pa": 6,
+    "pm": 4,
+    "poss": 9.0,
+    "pF": 10.2,
+    "pA": 7.8,
+    "ortg": 98.0,
+    "drtg": 77.3,
+    "net": 20.7,
+    "efg": 37.5,
+    "oefg": 50.0,
+    "games": 2
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Erik Howlin",
+     "Lukáš Palyza",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 4.6,
+    "pf": 11,
+    "pa": 12,
+    "pm": -1,
+    "poss": 9.4,
+    "pF": 9.2,
+    "pA": 9.6,
+    "ortg": 119.6,
+    "drtg": 124.5,
+    "net": -4.9,
+    "efg": 58.3,
+    "oefg": 50.0,
+    "games": 2
    },
    {
     "players": [
@@ -843,50 +975,6 @@
    },
    {
     "players": [
-     "Alex Lomax",
-     "Dominik Heinzl",
-     "Lukáš Palyza",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 4.1,
-    "pf": 10,
-    "pa": 10,
-    "pm": 0,
-    "poss": 8.8,
-    "pF": 9.6,
-    "pA": 8.0,
-    "ortg": 103.7,
-    "drtg": 125.0,
-    "net": -21.3,
-    "efg": 58.3,
-    "oefg": 71.4,
-    "games": 1
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "David Motyčka",
-     "Lukáš Palyza",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 4.0,
-    "pf": 11,
-    "pa": 9,
-    "pm": 2,
-    "poss": 8.1,
-    "pF": 7.8,
-    "pA": 8.4,
-    "ortg": 141.8,
-    "drtg": 106.6,
-    "net": 35.1,
-    "efg": 64.3,
-    "oefg": 50.0,
-    "games": 2
-   },
-   {
-    "players": [
      "Adam Ivánek",
      "David Motyčka",
      "Dominik Heinzl",
@@ -906,6 +994,28 @@
     "efg": 62.5,
     "oefg": 81.2,
     "games": 1
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Alex Lomax",
+     "Dominik Heinzl",
+     "Lukáš Palyza",
+     "Oleksandr Belikov"
+    ],
+    "min": 3.9,
+    "pf": 6,
+    "pa": 12,
+    "pm": -6,
+    "poss": 6.2,
+    "pF": 6.0,
+    "pA": 6.4,
+    "ortg": 100.0,
+    "drtg": 186.3,
+    "net": -86.3,
+    "efg": 100.0,
+    "oefg": 85.7,
+    "games": 2
    },
    {
     "players": [
@@ -1019,28 +1129,6 @@
    },
    {
     "players": [
-     "Adam Číž",
-     "Alex Lomax",
-     "Dominik Heinzl",
-     "Lukáš Palyza",
-     "Michal Svoboda"
-    ],
-    "min": 3.2,
-    "pf": 22,
-    "pa": 14,
-    "pm": 8,
-    "poss": 10.2,
-    "pF": 9.7,
-    "pA": 10.8,
-    "ortg": 226.3,
-    "drtg": 130.1,
-    "net": 96.2,
-    "efg": 100.0,
-    "oefg": 61.1,
-    "games": 1
-   },
-   {
-    "players": [
      "Daniel Kormaník",
      "Marko Duspara",
      "Richard Novák",
@@ -1107,6 +1195,28 @@
    },
    {
     "players": [
+     "Adam Číž",
+     "David Motyčka",
+     "Erik Howlin",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 2.9,
+    "pf": 4,
+    "pa": 11,
+    "pm": -7,
+    "poss": 5.3,
+    "pF": 4.3,
+    "pA": 6.2,
+    "ortg": 92.6,
+    "drtg": 177.4,
+    "net": -84.8,
+    "efg": 25.0,
+    "oefg": 75.0,
+    "games": 2
+   },
+   {
+    "players": [
      "Daniel Kormaník",
      "Lubomír Oswald",
      "Marko Duspara",
@@ -1151,28 +1261,6 @@
    },
    {
     "players": [
-     "Alex Lomax",
-     "Erik Howlin",
-     "Lukáš Palyza",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 2.7,
-    "pf": 6,
-    "pa": 8,
-    "pm": -2,
-    "poss": 6.8,
-    "pF": 6.8,
-    "pA": 6.8,
-    "ortg": 88.8,
-    "drtg": 118.3,
-    "net": -29.6,
-    "efg": 33.3,
-    "oefg": 50.0,
-    "games": 1
-   },
-   {
-    "players": [
      "Adam Číž",
      "David Motyčka",
      "Dominik Heinzl",
@@ -1212,28 +1300,6 @@
     "drtg": 100.0,
     "net": -22.7,
     "efg": 33.3,
-    "oefg": 50.0,
-    "games": 1
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "Dominik Heinzl",
-     "Erik Howlin",
-     "Lukáš Palyza",
-     "Oleksandr Belikov"
-    ],
-    "min": 2.6,
-    "pf": 4,
-    "pa": 4,
-    "pm": 0,
-    "poss": 3.9,
-    "pF": 4.0,
-    "pA": 3.8,
-    "ortg": 100.0,
-    "drtg": 106.4,
-    "net": -6.4,
-    "efg": 50.0,
     "oefg": 50.0,
     "games": 1
    },
@@ -1351,6 +1417,25 @@
   "trios": [
    {
     "players": [
+     "Alex Lomax",
+     "Lukáš Palyza",
+     "Michal Svoboda"
+    ],
+    "min": 156.3,
+    "pf": 360,
+    "pa": 331,
+    "pm": 29,
+    "poss": 308.9,
+    "pF": 313.6,
+    "pA": 304.2,
+    "ortg": 114.8,
+    "drtg": 108.8,
+    "net": 6.0,
+    "efg": 54.4,
+    "oefg": 54.2
+   },
+   {
+    "players": [
      "Andre Screen",
      "Lukáš Palyza",
      "Michal Svoboda"
@@ -1389,6 +1474,25 @@
    },
    {
     "players": [
+     "Lukáš Palyza",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 139.7,
+    "pf": 319,
+    "pa": 250,
+    "pm": 69,
+    "poss": 272.2,
+    "pF": 275.8,
+    "pA": 268.6,
+    "ortg": 115.7,
+    "drtg": 93.1,
+    "net": 22.6,
+    "efg": 55.2,
+    "oefg": 45.0
+   },
+   {
+    "players": [
      "Andre Screen",
      "Lukáš Palyza",
      "Oleksandr Belikov"
@@ -1405,44 +1509,6 @@
     "net": 6.8,
     "efg": 53.1,
     "oefg": 48.6
-   },
-   {
-    "players": [
-     "Alex Lomax",
-     "Lukáš Palyza",
-     "Michal Svoboda"
-    ],
-    "min": 132.7,
-    "pf": 295,
-    "pa": 290,
-    "pm": 5,
-    "poss": 267.5,
-    "pF": 272.6,
-    "pA": 262.5,
-    "ortg": 108.2,
-    "drtg": 110.5,
-    "net": -2.2,
-    "efg": 51.4,
-    "oefg": 54.6
-   },
-   {
-    "players": [
-     "Lukáš Palyza",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 129.4,
-    "pf": 293,
-    "pa": 238,
-    "pm": 55,
-    "poss": 255.8,
-    "pF": 258.7,
-    "pA": 252.8,
-    "ortg": 113.2,
-    "drtg": 94.1,
-    "net": 19.1,
-    "efg": 53.9,
-    "oefg": 45.6
    },
    {
     "players": [
@@ -1465,6 +1531,44 @@
    },
    {
     "players": [
+     "Alex Lomax",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 117.2,
+    "pf": 265,
+    "pa": 244,
+    "pm": 21,
+    "poss": 233.1,
+    "pF": 238.2,
+    "pA": 228.1,
+    "ortg": 111.3,
+    "drtg": 107.0,
+    "net": 4.3,
+    "efg": 51.7,
+    "oefg": 52.3
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Lukáš Palyza",
+     "Oleksandr Belikov"
+    ],
+    "min": 114.5,
+    "pf": 257,
+    "pa": 244,
+    "pm": 13,
+    "poss": 223.0,
+    "pF": 225.0,
+    "pA": 221.1,
+    "ortg": 114.2,
+    "drtg": 110.4,
+    "net": 3.9,
+    "efg": 57.1,
+    "oefg": 51.7
+   },
+   {
+    "players": [
      "Andre Screen",
      "Erik Howlin",
      "Lukáš Palyza"
@@ -1484,41 +1588,22 @@
    },
    {
     "players": [
-     "Alex Lomax",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 106.8,
-    "pf": 237,
-    "pa": 234,
-    "pm": 3,
-    "poss": 215.7,
-    "pF": 219.1,
-    "pA": 212.2,
-    "ortg": 108.2,
-    "drtg": 110.3,
-    "net": -2.1,
-    "efg": 50.3,
-    "oefg": 54.8
-   },
-   {
-    "players": [
-     "Alex Lomax",
+     "Adam Číž",
      "Lukáš Palyza",
-     "Oleksandr Belikov"
+     "Michal Svoboda"
     ],
-    "min": 103.7,
-    "pf": 228,
-    "pa": 230,
-    "pm": -2,
-    "poss": 206.3,
-    "pF": 207.8,
-    "pA": 204.8,
-    "ortg": 109.7,
-    "drtg": 112.3,
-    "net": -2.6,
-    "efg": 54.6,
-    "oefg": 52.6
+    "min": 107.0,
+    "pf": 257,
+    "pa": 183,
+    "pm": 74,
+    "poss": 209.1,
+    "pF": 210.8,
+    "pA": 207.5,
+    "ortg": 121.9,
+    "drtg": 88.2,
+    "net": 33.7,
+    "efg": 57.2,
+    "oefg": 44.1
    },
    {
     "players": [
@@ -1562,20 +1647,20 @@
     "players": [
      "Adam Číž",
      "Lukáš Palyza",
-     "Michal Svoboda"
+     "Oleksandr Belikov"
     ],
-    "min": 95.0,
-    "pf": 225,
-    "pa": 164,
-    "pm": 61,
-    "poss": 186.8,
-    "pF": 187.8,
-    "pA": 185.7,
-    "ortg": 119.8,
-    "drtg": 88.3,
-    "net": 31.5,
-    "efg": 56.5,
-    "oefg": 43.2
+    "min": 91.2,
+    "pf": 202,
+    "pa": 161,
+    "pm": 41,
+    "poss": 173.5,
+    "pF": 175.5,
+    "pA": 171.6,
+    "ortg": 115.1,
+    "drtg": 93.8,
+    "net": 21.2,
+    "efg": 55.7,
+    "oefg": 48.7
    },
    {
     "players": [
@@ -1599,40 +1684,59 @@
    {
     "players": [
      "Adam Číž",
-     "Lukáš Palyza",
-     "Oleksandr Belikov"
-    ],
-    "min": 81.8,
-    "pf": 182,
-    "pa": 140,
-    "pm": 42,
-    "poss": 155.3,
-    "pF": 156.4,
-    "pA": 154.2,
-    "ortg": 116.3,
-    "drtg": 90.8,
-    "net": 25.6,
-    "efg": 55.9,
-    "oefg": 45.7
-   },
-   {
-    "players": [
-     "Adam Číž",
      "Erik Howlin",
      "Lukáš Palyza"
     ],
-    "min": 81.0,
-    "pf": 189,
-    "pa": 149,
-    "pm": 40,
-    "poss": 156.5,
-    "pF": 159.2,
-    "pA": 153.8,
-    "ortg": 118.7,
-    "drtg": 96.9,
-    "net": 21.8,
-    "efg": 56.7,
-    "oefg": 47.0
+    "min": 83.2,
+    "pf": 195,
+    "pa": 151,
+    "pm": 44,
+    "poss": 161.6,
+    "pF": 165.4,
+    "pA": 157.8,
+    "ortg": 117.9,
+    "drtg": 95.7,
+    "net": 22.2,
+    "efg": 55.8,
+    "oefg": 47.1
+   },
+   {
+    "players": [
+     "Erik Howlin",
+     "Lukáš Palyza",
+     "Michal Svoboda"
+    ],
+    "min": 81.5,
+    "pf": 186,
+    "pa": 183,
+    "pm": 3,
+    "poss": 158.2,
+    "pF": 158.3,
+    "pA": 158.0,
+    "ortg": 117.5,
+    "drtg": 115.8,
+    "net": 1.7,
+    "efg": 57.0,
+    "oefg": 57.0
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Erik Howlin",
+     "Lukáš Palyza"
+    ],
+    "min": 81.2,
+    "pf": 176,
+    "pa": 187,
+    "pm": -11,
+    "poss": 160.9,
+    "pF": 161.6,
+    "pA": 160.2,
+    "ortg": 108.9,
+    "drtg": 116.7,
+    "net": -7.8,
+    "efg": 54.3,
+    "oefg": 54.9
    },
    {
     "players": [
@@ -1652,6 +1756,25 @@
     "net": 17.8,
     "efg": 52.4,
     "oefg": 46.1
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Erik Howlin",
+     "Michal Svoboda"
+    ],
+    "min": 77.8,
+    "pf": 162,
+    "pa": 186,
+    "pm": -24,
+    "poss": 158.1,
+    "pF": 160.9,
+    "pA": 155.4,
+    "ortg": 100.7,
+    "drtg": 119.7,
+    "net": -19.1,
+    "efg": 46.5,
+    "oefg": 60.6
    },
    {
     "players": [
@@ -1676,39 +1799,77 @@
     "players": [
      "Erik Howlin",
      "Lukáš Palyza",
-     "Michal Svoboda"
+     "Oleksandr Belikov"
     ],
-    "min": 73.8,
-    "pf": 168,
-    "pa": 159,
-    "pm": 9,
-    "poss": 145.2,
-    "pF": 146.1,
-    "pA": 144.3,
-    "ortg": 115.0,
-    "drtg": 110.2,
-    "net": 4.8,
-    "efg": 55.5,
-    "oefg": 54.1
+    "min": 74.4,
+    "pf": 160,
+    "pa": 161,
+    "pm": -1,
+    "poss": 145.7,
+    "pF": 142.3,
+    "pA": 149.0,
+    "ortg": 112.4,
+    "drtg": 108.0,
+    "net": 4.4,
+    "efg": 52.5,
+    "oefg": 51.1
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 73.1,
+    "pf": 149,
+    "pa": 129,
+    "pm": 20,
+    "poss": 140.8,
+    "pF": 141.0,
+    "pA": 140.5,
+    "ortg": 105.6,
+    "drtg": 91.8,
+    "net": 13.8,
+    "efg": 50.8,
+    "oefg": 46.2
    },
    {
     "players": [
      "Alex Lomax",
      "Erik Howlin",
-     "Lukáš Palyza"
+     "Oleksandr Belikov"
     ],
-    "min": 73.6,
-    "pf": 158,
-    "pa": 163,
-    "pm": -5,
-    "poss": 147.9,
-    "pF": 149.4,
-    "pA": 146.5,
-    "ortg": 105.8,
-    "drtg": 111.3,
-    "net": -5.5,
-    "efg": 52.5,
-    "oefg": 51.9
+    "min": 72.6,
+    "pf": 142,
+    "pa": 172,
+    "pm": -30,
+    "poss": 143.9,
+    "pF": 143.8,
+    "pA": 144.0,
+    "ortg": 98.7,
+    "drtg": 119.4,
+    "net": -20.7,
+    "efg": 46.1,
+    "oefg": 56.1
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Dominik Heinzl",
+     "Michal Svoboda"
+    ],
+    "min": 71.0,
+    "pf": 175,
+    "pa": 125,
+    "pm": 50,
+    "poss": 134.9,
+    "pF": 134.6,
+    "pA": 135.2,
+    "ortg": 130.0,
+    "drtg": 92.5,
+    "net": 37.5,
+    "efg": 59.2,
+    "oefg": 49.5
    },
    {
     "players": [
@@ -1731,41 +1892,22 @@
    },
    {
     "players": [
-     "Erik Howlin",
+     "Dominik Heinzl",
      "Lukáš Palyza",
-     "Oleksandr Belikov"
+     "Michal Svoboda"
     ],
     "min": 70.3,
-    "pf": 149,
-    "pa": 155,
-    "pm": -6,
-    "poss": 137.9,
-    "pF": 133.7,
-    "pA": 142.2,
-    "ortg": 111.5,
-    "drtg": 109.0,
-    "net": 2.4,
-    "efg": 52.7,
-    "oefg": 51.2
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 69.8,
-    "pf": 146,
-    "pa": 119,
-    "pm": 27,
-    "poss": 134.7,
-    "pF": 135.2,
-    "pA": 134.3,
-    "ortg": 108.0,
-    "drtg": 88.6,
-    "net": 19.4,
-    "efg": 51.3,
-    "oefg": 44.8
+    "pf": 186,
+    "pa": 134,
+    "pm": 52,
+    "poss": 138.9,
+    "pF": 138.6,
+    "pA": 139.2,
+    "ortg": 134.2,
+    "drtg": 96.2,
+    "net": 38.0,
+    "efg": 62.3,
+    "oefg": 52.2
    },
    {
     "players": [
@@ -1788,60 +1930,60 @@
    },
    {
     "players": [
-     "Alex Lomax",
-     "Erik Howlin",
-     "Oleksandr Belikov"
-    ],
-    "min": 68.4,
-    "pf": 132,
-    "pa": 165,
-    "pm": -33,
-    "poss": 136.3,
-    "pF": 135.5,
-    "pA": 137.1,
-    "ortg": 97.4,
-    "drtg": 120.3,
-    "net": -22.9,
-    "efg": 45.3,
-    "oefg": 57.4
-   },
-   {
-    "players": [
      "Adam Číž",
      "Erik Howlin",
      "Michal Svoboda"
     ],
-    "min": 67.8,
+    "min": 68.7,
     "pf": 139,
-    "pa": 133,
-    "pm": 6,
-    "poss": 126.7,
-    "pF": 125.5,
-    "pA": 127.9,
-    "ortg": 110.8,
-    "drtg": 104.0,
-    "net": 6.8,
+    "pa": 138,
+    "pm": 1,
+    "poss": 128.4,
+    "pF": 126.5,
+    "pA": 130.2,
+    "ortg": 109.9,
+    "drtg": 106.0,
+    "net": 3.9,
     "efg": 49.1,
-    "oefg": 47.2
+    "oefg": 47.7
    },
    {
     "players": [
-     "Alex Lomax",
+     "Erik Howlin",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 64.9,
+    "pf": 113,
+    "pa": 150,
+    "pm": -37,
+    "poss": 129.1,
+    "pF": 125.2,
+    "pA": 133.1,
+    "ortg": 90.3,
+    "drtg": 112.7,
+    "net": -22.4,
+    "efg": 38.9,
+    "oefg": 53.3
+   },
+   {
+    "players": [
+     "Dominik Heinzl",
      "Erik Howlin",
      "Michal Svoboda"
     ],
-    "min": 67.3,
-    "pf": 138,
-    "pa": 157,
-    "pm": -19,
-    "poss": 139.5,
-    "pF": 142.4,
-    "pA": 136.6,
-    "ortg": 96.9,
-    "drtg": 114.9,
-    "net": -18.0,
-    "efg": 44.4,
-    "oefg": 58.6
+    "min": 62.3,
+    "pf": 117,
+    "pa": 126,
+    "pm": -9,
+    "poss": 113.8,
+    "pF": 112.1,
+    "pA": 115.6,
+    "ortg": 104.4,
+    "drtg": 109.0,
+    "net": -4.7,
+    "efg": 51.0,
+    "oefg": 56.6
    },
    {
     "players": [
@@ -1864,98 +2006,60 @@
    },
    {
     "players": [
+     "Dominik Heinzl",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 61.4,
+    "pf": 127,
+    "pa": 106,
+    "pm": 21,
+    "poss": 115.2,
+    "pF": 118.0,
+    "pA": 112.4,
+    "ortg": 107.6,
+    "drtg": 94.3,
+    "net": 13.3,
+    "efg": 50.9,
+    "oefg": 54.5
+   },
+   {
+    "players": [
      "Adam Číž",
      "Dominik Heinzl",
+     "Lukáš Palyza"
+    ],
+    "min": 60.4,
+    "pf": 158,
+    "pa": 103,
+    "pm": 55,
+    "poss": 116.3,
+    "pF": 117.9,
+    "pA": 114.8,
+    "ortg": 134.0,
+    "drtg": 89.8,
+    "net": 44.2,
+    "efg": 62.4,
+    "oefg": 47.2
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Dominik Heinzl",
      "Michal Svoboda"
     ],
-    "min": 60.9,
-    "pf": 143,
-    "pa": 111,
-    "pm": 32,
-    "poss": 115.5,
-    "pF": 114.6,
-    "pA": 116.3,
-    "ortg": 124.7,
-    "drtg": 95.5,
-    "net": 29.3,
-    "efg": 57.3,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Erik Howlin",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 59.8,
-    "pf": 103,
-    "pa": 138,
-    "pm": -35,
-    "poss": 119.9,
-    "pF": 115.8,
-    "pA": 123.9,
-    "ortg": 88.9,
-    "drtg": 111.4,
-    "net": -22.4,
-    "efg": 37.5,
-    "oefg": 54.0
-   },
-   {
-    "players": [
-     "Dominik Heinzl",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 56.5,
-    "pf": 113,
-    "pa": 100,
-    "pm": 13,
-    "poss": 104.9,
-    "pF": 106.5,
-    "pA": 103.4,
-    "ortg": 106.1,
-    "drtg": 96.7,
-    "net": 9.4,
-    "efg": 51.0,
-    "oefg": 56.9
-   },
-   {
-    "players": [
-     "Dominik Heinzl",
-     "Erik Howlin",
-     "Michal Svoboda"
-    ],
-    "min": 55.5,
-    "pf": 103,
-    "pa": 105,
-    "pm": -2,
-    "poss": 100.3,
-    "pF": 98.9,
-    "pA": 101.7,
-    "ortg": 104.1,
-    "drtg": 103.3,
-    "net": 0.9,
-    "efg": 50.5,
-    "oefg": 53.5
-   },
-   {
-    "players": [
-     "Dominik Heinzl",
-     "Lukáš Palyza",
-     "Michal Svoboda"
-    ],
-    "min": 53.8,
-    "pf": 140,
-    "pa": 101,
-    "pm": 39,
-    "poss": 107.2,
-    "pF": 108.0,
-    "pA": 106.5,
-    "ortg": 129.7,
-    "drtg": 94.9,
-    "net": 34.8,
-    "efg": 60.6,
-    "oefg": 50.0
+    "min": 57.6,
+    "pf": 148,
+    "pa": 127,
+    "pm": 21,
+    "poss": 114.5,
+    "pF": 114.9,
+    "pA": 114.2,
+    "ortg": 128.8,
+    "drtg": 111.2,
+    "net": 17.5,
+    "efg": 54.8,
+    "oefg": 61.1
    },
    {
     "players": [
@@ -1982,37 +2086,94 @@
      "Erik Howlin",
      "Oleksandr Belikov"
     ],
-    "min": 49.1,
-    "pf": 99,
-    "pa": 100,
-    "pm": -1,
-    "poss": 93.8,
-    "pF": 92.6,
-    "pA": 95.0,
-    "ortg": 107.0,
-    "drtg": 105.3,
-    "net": 1.7,
-    "efg": 47.1,
-    "oefg": 55.1
+    "min": 52.1,
+    "pf": 105,
+    "pa": 107,
+    "pm": -2,
+    "poss": 100.5,
+    "pF": 99.8,
+    "pA": 101.3,
+    "ortg": 105.3,
+    "drtg": 105.6,
+    "net": -0.4,
+    "efg": 45.9,
+    "oefg": 55.6
    },
    {
     "players": [
-     "Adam Číž",
+     "Dominik Heinzl",
+     "Erik Howlin",
+     "Lukáš Palyza"
+    ],
+    "min": 43.2,
+    "pf": 96,
+    "pa": 89,
+    "pm": 7,
+    "poss": 81.3,
+    "pF": 79.4,
+    "pA": 83.2,
+    "ortg": 120.8,
+    "drtg": 106.9,
+    "net": 13.9,
+    "efg": 60.6,
+    "oefg": 55.0
+   },
+   {
+    "players": [
+     "Dominik Heinzl",
+     "Lukáš Palyza",
+     "Oleksandr Belikov"
+    ],
+    "min": 41.9,
+    "pf": 93,
+    "pa": 69,
+    "pm": 24,
+    "poss": 78.0,
+    "pF": 80.7,
+    "pA": 75.3,
+    "ortg": 115.3,
+    "drtg": 91.7,
+    "net": 23.6,
+    "efg": 56.5,
+    "oefg": 54.2
+   },
+   {
+    "players": [
+     "Alex Lomax",
      "Dominik Heinzl",
      "Lukáš Palyza"
     ],
-    "min": 44.0,
-    "pf": 109,
-    "pa": 75,
-    "pm": 34,
-    "poss": 84.6,
-    "pF": 84.8,
-    "pA": 84.4,
-    "ortg": 128.6,
-    "drtg": 88.8,
-    "net": 39.8,
-    "efg": 60.1,
-    "oefg": 42.6
+    "min": 39.7,
+    "pf": 107,
+    "pa": 94,
+    "pm": 13,
+    "poss": 80.3,
+    "pF": 77.5,
+    "pA": 83.2,
+    "ortg": 138.1,
+    "drtg": 113.0,
+    "net": 25.1,
+    "efg": 65.5,
+    "oefg": 59.7
+   },
+   {
+    "players": [
+     "Dominik Heinzl",
+     "Erik Howlin",
+     "Oleksandr Belikov"
+    ],
+    "min": 39.6,
+    "pf": 67,
+    "pa": 66,
+    "pm": 1,
+    "poss": 73.6,
+    "pF": 74.9,
+    "pA": 72.4,
+    "ortg": 89.4,
+    "drtg": 91.2,
+    "net": -1.8,
+    "efg": 40.6,
+    "oefg": 51.8
    },
    {
     "players": [
@@ -2035,60 +2196,60 @@
    },
    {
     "players": [
-     "Alex Lomax",
+     "Adam Číž",
      "Dominik Heinzl",
-     "Michal Svoboda"
-    ],
-    "min": 37.8,
-    "pf": 94,
-    "pa": 89,
-    "pm": 5,
-    "poss": 77.1,
-    "pF": 77.9,
-    "pA": 76.4,
-    "ortg": 120.7,
-    "drtg": 116.5,
-    "net": 4.2,
-    "efg": 52.1,
-    "oefg": 64.5
-   },
-   {
-    "players": [
-     "Dominik Heinzl",
-     "Erik Howlin",
-     "Lukáš Palyza"
-    ],
-    "min": 37.0,
-    "pf": 82,
-    "pa": 71,
-    "pm": 11,
-    "poss": 68.4,
-    "pF": 66.4,
-    "pA": 70.4,
-    "ortg": 123.6,
-    "drtg": 100.9,
-    "net": 22.7,
-    "efg": 62.3,
-    "oefg": 49.2
-   },
-   {
-    "players": [
-     "Dominik Heinzl",
-     "Erik Howlin",
      "Oleksandr Belikov"
     ],
-    "min": 35.1,
-    "pf": 56,
-    "pa": 61,
-    "pm": -5,
-    "poss": 63.6,
-    "pF": 62.8,
-    "pA": 64.4,
-    "ortg": 89.1,
-    "drtg": 94.8,
-    "net": -5.7,
-    "efg": 41.5,
-    "oefg": 54.1
+    "min": 38.6,
+    "pf": 86,
+    "pa": 69,
+    "pm": 17,
+    "poss": 72.2,
+    "pF": 74.0,
+    "pA": 70.4,
+    "ortg": 116.2,
+    "drtg": 98.1,
+    "net": 18.1,
+    "efg": 58.7,
+    "oefg": 62.0
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Dominik Heinzl",
+     "Erik Howlin"
+    ],
+    "min": 37.4,
+    "pf": 71,
+    "pa": 79,
+    "pm": -8,
+    "poss": 70.3,
+    "pF": 71.4,
+    "pA": 69.3,
+    "ortg": 99.5,
+    "drtg": 114.0,
+    "net": -14.5,
+    "efg": 46.0,
+    "oefg": 59.3
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Dominik Heinzl",
+     "Erik Howlin"
+    ],
+    "min": 36.5,
+    "pf": 69,
+    "pa": 62,
+    "pm": 7,
+    "poss": 65.9,
+    "pF": 66.0,
+    "pA": 65.8,
+    "ortg": 104.5,
+    "drtg": 94.3,
+    "net": 10.3,
+    "efg": 50.0,
+    "oefg": 44.0
    },
    {
     "players": [
@@ -2111,60 +2272,41 @@
    },
    {
     "players": [
-     "Adam Číž",
+     "Alex Lomax",
      "Dominik Heinzl",
-     "Erik Howlin"
+     "Oleksandr Belikov"
     ],
-    "min": 34.4,
-    "pf": 63,
-    "pa": 60,
-    "pm": 3,
-    "poss": 60.8,
-    "pF": 59.8,
-    "pA": 61.8,
-    "ortg": 105.4,
-    "drtg": 97.2,
-    "net": 8.2,
-    "efg": 52.0,
-    "oefg": 43.8
+    "min": 33.8,
+    "pf": 68,
+    "pa": 69,
+    "pm": -1,
+    "poss": 65.5,
+    "pF": 68.5,
+    "pA": 62.5,
+    "ortg": 99.3,
+    "drtg": 110.4,
+    "net": -11.1,
+    "efg": 47.5,
+    "oefg": 62.7
    },
    {
     "players": [
-     "Dominik Heinzl",
+     "Adam Ivánek",
      "Lukáš Palyza",
-     "Oleksandr Belikov"
+     "Michal Svoboda"
     ],
-    "min": 33.0,
-    "pf": 67,
-    "pa": 52,
-    "pm": 15,
-    "poss": 60.3,
-    "pF": 61.8,
-    "pA": 58.8,
-    "ortg": 108.3,
-    "drtg": 88.4,
-    "net": 20.0,
-    "efg": 54.5,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "Dominik Heinzl",
-     "Oleksandr Belikov"
-    ],
-    "min": 31.8,
+    "min": 31.5,
     "pf": 66,
-    "pa": 55,
-    "pm": 11,
-    "poss": 58.4,
-    "pF": 59.0,
-    "pA": 57.9,
-    "ortg": 111.9,
-    "drtg": 95.0,
-    "net": 17.0,
-    "efg": 56.7,
-    "oefg": 57.1
+    "pa": 42,
+    "pm": 24,
+    "poss": 53.8,
+    "pF": 54.0,
+    "pA": 53.6,
+    "ortg": 122.3,
+    "drtg": 78.3,
+    "net": 44.0,
+    "efg": 53.7,
+    "oefg": 40.6
    },
    {
     "players": [
@@ -2187,22 +2329,41 @@
    },
    {
     "players": [
+     "Adam Ivánek",
      "Alex Lomax",
-     "Dominik Heinzl",
-     "Erik Howlin"
+     "Michal Svoboda"
     ],
-    "min": 28.2,
-    "pf": 53,
-    "pa": 52,
-    "pm": 1,
+    "min": 30.0,
+    "pf": 64,
+    "pa": 54,
+    "pm": 10,
     "poss": 52.3,
-    "pF": 53.2,
-    "pA": 51.5,
-    "ortg": 99.7,
-    "drtg": 100.9,
-    "net": -1.2,
-    "efg": 43.8,
-    "oefg": 54.8
+    "pF": 55.2,
+    "pA": 49.5,
+    "ortg": 116.0,
+    "drtg": 109.0,
+    "net": 7.0,
+    "efg": 53.9,
+    "oefg": 52.2
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Alex Lomax",
+     "Lukáš Palyza"
+    ],
+    "min": 28.6,
+    "pf": 83,
+    "pa": 66,
+    "pm": 17,
+    "poss": 57.6,
+    "pF": 57.0,
+    "pA": 58.3,
+    "ortg": 145.7,
+    "drtg": 113.2,
+    "net": 32.5,
+    "efg": 69.2,
+    "oefg": 55.9
    },
    {
     "players": [
@@ -2244,41 +2405,22 @@
    },
    {
     "players": [
-     "Adam Ivánek",
-     "Lukáš Palyza",
+     "Adam Číž",
+     "David Motyčka",
      "Michal Svoboda"
     ],
-    "min": 27.4,
-    "pf": 54,
-    "pa": 42,
-    "pm": 12,
-    "poss": 47.8,
-    "pF": 48.0,
-    "pA": 47.6,
-    "ortg": 112.6,
-    "drtg": 88.2,
-    "net": 24.4,
-    "efg": 47.9,
-    "oefg": 46.4
-   },
-   {
-    "players": [
-     "Alex Lomax",
-     "Dominik Heinzl",
-     "Oleksandr Belikov"
-    ],
-    "min": 26.8,
-    "pf": 51,
-    "pa": 56,
-    "pm": -5,
-    "poss": 52.5,
-    "pF": 54.8,
-    "pA": 50.1,
-    "ortg": 93.0,
-    "drtg": 111.8,
-    "net": -18.8,
-    "efg": 45.0,
-    "oefg": 67.1
+    "min": 26.9,
+    "pf": 52,
+    "pa": 54,
+    "pm": -2,
+    "poss": 48.3,
+    "pF": 46.0,
+    "pA": 50.7,
+    "ortg": 113.1,
+    "drtg": 106.6,
+    "net": 6.6,
+    "efg": 48.9,
+    "oefg": 46.2
    },
    {
     "players": [
@@ -2298,25 +2440,6 @@
     "net": -1.9,
     "efg": 36.5,
     "oefg": 45.2
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "David Motyčka",
-     "Michal Svoboda"
-    ],
-    "min": 24.6,
-    "pf": 52,
-    "pa": 44,
-    "pm": 8,
-    "poss": 44.2,
-    "pF": 43.0,
-    "pA": 45.5,
-    "ortg": 121.0,
-    "drtg": 96.7,
-    "net": 24.3,
-    "efg": 50.0,
-    "oefg": 41.9
    },
    {
     "players": [
@@ -2341,20 +2464,20 @@
     "players": [
      "Adam Ivánek",
      "Alex Lomax",
-     "Michal Svoboda"
+     "Lukáš Palyza"
     ],
-    "min": 24.2,
+    "min": 24.4,
     "pf": 46,
-    "pa": 52,
-    "pm": -6,
-    "poss": 44.1,
-    "pF": 46.7,
-    "pA": 41.5,
-    "ortg": 98.5,
-    "drtg": 125.2,
-    "net": -26.8,
-    "efg": 47.5,
-    "oefg": 60.5
+    "pa": 44,
+    "pm": 2,
+    "poss": 40.7,
+    "pF": 41.0,
+    "pA": 40.5,
+    "ortg": 112.3,
+    "drtg": 108.6,
+    "net": 3.7,
+    "efg": 54.1,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -2381,18 +2504,18 @@
      "David Motyčka",
      "Erik Howlin"
     ],
-    "min": 22.5,
+    "min": 23.4,
     "pf": 42,
-    "pa": 48,
-    "pm": -6,
-    "poss": 39.8,
-    "pF": 39.2,
-    "pA": 40.5,
-    "ortg": 107.1,
-    "drtg": 118.6,
-    "net": -11.4,
+    "pa": 53,
+    "pm": -11,
+    "poss": 41.5,
+    "pF": 40.2,
+    "pA": 42.8,
+    "ortg": 104.5,
+    "drtg": 123.8,
+    "net": -19.4,
     "efg": 50.0,
-    "oefg": 45.8
+    "oefg": 47.3
    },
    {
     "players": [
@@ -2400,37 +2523,56 @@
      "Adam Číž",
      "Lukáš Palyza"
     ],
-    "min": 22.4,
+    "min": 23.3,
     "pf": 49,
-    "pa": 23,
-    "pm": 26,
-    "poss": 46.2,
-    "pF": 46.7,
-    "pA": 45.7,
-    "ortg": 105.0,
-    "drtg": 50.3,
-    "net": 54.7,
-    "efg": 47.4,
-    "oefg": 21.8
+    "pa": 25,
+    "pm": 24,
+    "poss": 47.7,
+    "pF": 47.7,
+    "pA": 47.7,
+    "ortg": 102.8,
+    "drtg": 52.4,
+    "net": 50.4,
+    "efg": 46.2,
+    "oefg": 23.2
    },
    {
     "players": [
+     "Adam Číž",
      "Alex Lomax",
-     "Dominik Heinzl",
-     "Lukáš Palyza"
+     "Michal Svoboda"
     ],
-    "min": 21.2,
-    "pf": 58,
-    "pa": 54,
-    "pm": 4,
-    "poss": 45.9,
-    "pF": 44.8,
-    "pA": 47.0,
-    "ortg": 129.6,
-    "drtg": 115.0,
-    "net": 14.6,
-    "efg": 60.3,
-    "oefg": 57.1
+    "min": 22.7,
+    "pf": 74,
+    "pa": 56,
+    "pm": 18,
+    "poss": 48.6,
+    "pF": 48.0,
+    "pA": 49.3,
+    "ortg": 154.2,
+    "drtg": 113.6,
+    "net": 40.5,
+    "efg": 67.1,
+    "oefg": 59.0
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Alex Lomax",
+     "Dominik Heinzl"
+    ],
+    "min": 22.0,
+    "pf": 72,
+    "pa": 53,
+    "pm": 19,
+    "poss": 45.1,
+    "pF": 44.9,
+    "pA": 45.4,
+    "ortg": 160.4,
+    "drtg": 116.7,
+    "net": 43.7,
+    "efg": 70.6,
+    "oefg": 62.2
    },
    {
     "players": [
@@ -2438,37 +2580,18 @@
      "Erik Howlin",
      "Michal Svoboda"
     ],
-    "min": 21.0,
-    "pf": 44,
-    "pa": 39,
-    "pm": 5,
-    "poss": 38.4,
-    "pF": 39.9,
-    "pA": 36.8,
-    "ortg": 110.2,
-    "drtg": 105.9,
-    "net": 4.4,
+    "min": 21.6,
+    "pf": 45,
+    "pa": 41,
+    "pm": 4,
+    "poss": 39.1,
+    "pF": 40.4,
+    "pA": 37.8,
+    "ortg": 111.5,
+    "drtg": 108.4,
+    "net": 3.1,
     "efg": 45.7,
-    "oefg": 44.1
-   },
-   {
-    "players": [
-     "Adam Ivánek",
-     "Alex Lomax",
-     "Lukáš Palyza"
-    ],
-    "min": 20.3,
-    "pf": 34,
-    "pa": 44,
-    "pm": -10,
-    "poss": 34.7,
-    "pF": 35.0,
-    "pA": 34.5,
-    "ortg": 97.3,
-    "drtg": 127.5,
-    "net": -30.2,
-    "efg": 45.2,
-    "oefg": 59.4
+    "oefg": 45.7
    },
    {
     "players": [
@@ -2476,18 +2599,56 @@
      "Erik Howlin",
      "Michal Svoboda"
     ],
-    "min": 18.9,
-    "pf": 32,
-    "pa": 41,
-    "pm": -9,
-    "poss": 33.8,
-    "pF": 32.3,
-    "pA": 35.3,
-    "ortg": 99.0,
-    "drtg": 116.2,
-    "net": -17.2,
-    "efg": 45.5,
-    "oefg": 53.4
+    "min": 21.4,
+    "pf": 37,
+    "pa": 50,
+    "pm": -13,
+    "poss": 37.9,
+    "pF": 36.2,
+    "pA": 39.6,
+    "ortg": 102.2,
+    "drtg": 126.3,
+    "net": -24.1,
+    "efg": 47.1,
+    "oefg": 56.1
+   },
+   {
+    "players": [
+     "David Motyčka",
+     "Lukáš Palyza",
+     "Michal Svoboda"
+    ],
+    "min": 21.2,
+    "pf": 44,
+    "pa": 45,
+    "pm": -1,
+    "poss": 42.3,
+    "pF": 41.6,
+    "pA": 43.0,
+    "ortg": 105.7,
+    "drtg": 104.7,
+    "net": 0.9,
+    "efg": 51.3,
+    "oefg": 51.4
+   },
+   {
+    "players": [
+     "Dominik Heinzl",
+     "Michal Svoboda",
+     "Pavel Czudek"
+    ],
+    "min": 19.2,
+    "pf": 50,
+    "pa": 27,
+    "pm": 23,
+    "poss": 36.0,
+    "pF": 37.0,
+    "pA": 35.1,
+    "ortg": 135.3,
+    "drtg": 77.0,
+    "net": 58.3,
+    "efg": 59.7,
+    "oefg": 42.3
    },
    {
     "players": [
@@ -2510,41 +2671,60 @@
    },
    {
     "players": [
+     "Adam Číž",
      "David Motyčka",
-     "Lukáš Palyza",
-     "Michal Svoboda"
+     "Lukáš Palyza"
     ],
-    "min": 18.1,
-    "pf": 39,
-    "pa": 36,
-    "pm": 3,
-    "poss": 37.4,
-    "pF": 36.8,
-    "pA": 38.1,
-    "ortg": 106.1,
-    "drtg": 94.5,
-    "net": 11.6,
-    "efg": 51.4,
-    "oefg": 46.9
+    "min": 17.4,
+    "pf": 40,
+    "pa": 44,
+    "pm": -4,
+    "poss": 32.6,
+    "pF": 32.8,
+    "pA": 32.5,
+    "ortg": 122.1,
+    "drtg": 135.3,
+    "net": -13.2,
+    "efg": 61.3,
+    "oefg": 63.8
    },
    {
     "players": [
-     "Dominik Heinzl",
-     "Michal Svoboda",
-     "Pavel Czudek"
+     "Adam Ivánek",
+     "Alex Lomax",
+     "Erik Howlin"
     ],
-    "min": 18.1,
-    "pf": 45,
-    "pa": 27,
-    "pm": 18,
-    "poss": 34.5,
-    "pF": 35.0,
-    "pA": 34.1,
-    "ortg": 128.7,
-    "drtg": 79.2,
-    "net": 49.5,
-    "efg": 61.3,
-    "oefg": 44.0
+    "min": 17.2,
+    "pf": 40,
+    "pa": 39,
+    "pm": 1,
+    "poss": 34.3,
+    "pF": 35.2,
+    "pA": 33.5,
+    "ortg": 113.8,
+    "drtg": 116.3,
+    "net": -2.6,
+    "efg": 61.1,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Adam Ivánek",
+     "Lukáš Palyza",
+     "Oleksandr Belikov"
+    ],
+    "min": 16.9,
+    "pf": 43,
+    "pa": 24,
+    "pm": 19,
+    "poss": 30.0,
+    "pF": 29.4,
+    "pA": 30.6,
+    "ortg": 146.3,
+    "drtg": 78.3,
+    "net": 67.9,
+    "efg": 64.3,
+    "oefg": 31.7
    },
    {
     "players": [
@@ -2567,41 +2747,41 @@
    },
    {
     "players": [
-     "Adam Číž",
-     "Alex Lomax",
-     "Lukáš Palyza"
+     "Adam Ivánek",
+     "Dominik Heinzl",
+     "Erik Howlin"
     ],
-    "min": 16.1,
-    "pf": 48,
-    "pa": 45,
-    "pm": 3,
-    "poss": 34.9,
-    "pF": 33.9,
-    "pA": 36.0,
-    "ortg": 141.7,
-    "drtg": 125.1,
-    "net": 16.5,
-    "efg": 68.4,
-    "oefg": 56.1
+    "min": 15.3,
+    "pf": 27,
+    "pa": 30,
+    "pm": -3,
+    "poss": 26.6,
+    "pF": 27.5,
+    "pA": 25.6,
+    "ortg": 98.1,
+    "drtg": 117.0,
+    "net": -18.9,
+    "efg": 50.0,
+    "oefg": 52.1
    },
    {
     "players": [
-     "Adam Číž",
-     "David Motyčka",
-     "Lukáš Palyza"
+     "Adam Ivánek",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
     ],
-    "min": 15.9,
-    "pf": 40,
-    "pa": 39,
-    "pm": 1,
-    "poss": 30.2,
-    "pF": 30.8,
-    "pA": 29.6,
-    "ortg": 130.0,
-    "drtg": 131.6,
-    "net": -1.5,
-    "efg": 63.3,
-    "oefg": 60.7
+    "min": 15.2,
+    "pf": 41,
+    "pa": 19,
+    "pm": 22,
+    "poss": 26.9,
+    "pF": 29.1,
+    "pA": 24.8,
+    "ortg": 141.0,
+    "drtg": 76.7,
+    "net": 64.3,
+    "efg": 62.1,
+    "oefg": 30.8
    },
    {
     "players": [
@@ -2643,25 +2823,6 @@
    },
    {
     "players": [
-     "Adam Ivánek",
-     "Alex Lomax",
-     "Erik Howlin"
-    ],
-    "min": 14.3,
-    "pf": 35,
-    "pa": 31,
-    "pm": 4,
-    "poss": 29.2,
-    "pF": 29.7,
-    "pA": 28.6,
-    "ortg": 117.8,
-    "drtg": 108.2,
-    "net": 9.5,
-    "efg": 63.0,
-    "oefg": 48.2
-   },
-   {
-    "players": [
      "Jozef Jursa",
      "Pavel Czudek",
      "Štěpán Lička"
@@ -2678,6 +2839,63 @@
     "net": 20.9,
     "efg": 68.2,
     "oefg": 50.0
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Dominik Heinzl",
+     "Pavel Czudek"
+    ],
+    "min": 14.0,
+    "pf": 32,
+    "pa": 26,
+    "pm": 6,
+    "poss": 25.8,
+    "pF": 26.1,
+    "pA": 25.5,
+    "ortg": 122.7,
+    "drtg": 101.9,
+    "net": 20.8,
+    "efg": 56.8,
+    "oefg": 55.6
+   },
+   {
+    "players": [
+     "David Motyčka",
+     "Erik Howlin",
+     "Lukáš Palyza"
+    ],
+    "min": 13.9,
+    "pf": 37,
+    "pa": 36,
+    "pm": 1,
+    "poss": 29.2,
+    "pF": 30.1,
+    "pA": 28.3,
+    "ortg": 123.0,
+    "drtg": 127.1,
+    "net": -4.1,
+    "efg": 64.6,
+    "oefg": 70.8
+   },
+   {
+    "players": [
+     "Adam Ivánek",
+     "Adam Číž",
+     "Pavel Czudek"
+    ],
+    "min": 13.6,
+    "pf": 29,
+    "pa": 26,
+    "pm": 3,
+    "poss": 23.0,
+    "pF": 23.6,
+    "pA": 22.4,
+    "ortg": 122.7,
+    "drtg": 116.1,
+    "net": 6.6,
+    "efg": 63.2,
+    "oefg": 52.9
    },
    {
     "players": [
@@ -2700,60 +2918,41 @@
    },
    {
     "players": [
-     "Adam Číž",
      "Alex Lomax",
+     "David Motyčka",
      "Michal Svoboda"
     ],
-    "min": 12.9,
-    "pf": 45,
-    "pa": 42,
-    "pm": 3,
-    "poss": 30.2,
-    "pF": 28.9,
-    "pA": 31.4,
-    "ortg": 155.6,
-    "drtg": 133.8,
-    "net": 21.8,
-    "efg": 69.0,
-    "oefg": 66.0
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "Dominik Heinzl",
-     "Pavel Czudek"
-    ],
-    "min": 12.7,
-    "pf": 27,
-    "pa": 21,
-    "pm": 6,
-    "poss": 22.8,
-    "pF": 23.1,
-    "pA": 22.5,
-    "ortg": 117.0,
-    "drtg": 93.3,
-    "net": 23.7,
-    "efg": 52.6,
-    "oefg": 46.9
+    "min": 13.3,
+    "pf": 24,
+    "pa": 26,
+    "pm": -2,
+    "poss": 24.8,
+    "pF": 23.9,
+    "pA": 25.8,
+    "ortg": 100.5,
+    "drtg": 100.9,
+    "net": -0.4,
+    "efg": 42.3,
+    "oefg": 50.0
    },
    {
     "players": [
      "Adam Ivánek",
-     "Adam Číž",
-     "Pavel Czudek"
+     "Dominik Heinzl",
+     "Michal Svoboda"
     ],
-    "min": 12.7,
-    "pf": 29,
-    "pa": 24,
-    "pm": 5,
-    "poss": 21.5,
-    "pF": 22.6,
-    "pA": 20.4,
-    "ortg": 128.1,
-    "drtg": 117.6,
-    "net": 10.4,
-    "efg": 66.7,
-    "oefg": 53.3
+    "min": 13.2,
+    "pf": 33,
+    "pa": 25,
+    "pm": 8,
+    "poss": 22.9,
+    "pF": 23.1,
+    "pA": 22.8,
+    "ortg": 143.0,
+    "drtg": 109.8,
+    "net": 33.1,
+    "efg": 58.7,
+    "oefg": 57.9
    },
    {
     "players": [
@@ -2776,63 +2975,6 @@
    },
    {
     "players": [
-     "Adam Ivánek",
-     "Dominik Heinzl",
-     "Erik Howlin"
-    ],
-    "min": 12.4,
-    "pf": 22,
-    "pa": 22,
-    "pm": 0,
-    "poss": 21.4,
-    "pF": 22.1,
-    "pA": 20.8,
-    "ortg": 99.6,
-    "drtg": 106.0,
-    "net": -6.3,
-    "efg": 50.0,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "David Motyčka",
-     "Erik Howlin",
-     "Lukáš Palyza"
-    ],
-    "min": 12.3,
-    "pf": 32,
-    "pa": 32,
-    "pm": 0,
-    "poss": 26.8,
-    "pF": 27.2,
-    "pA": 26.3,
-    "ortg": 117.6,
-    "drtg": 121.6,
-    "net": -3.9,
-    "efg": 63.6,
-    "oefg": 71.4
-   },
-   {
-    "players": [
-     "Adam Ivánek",
-     "Lukáš Palyza",
-     "Oleksandr Belikov"
-    ],
-    "min": 12.2,
-    "pf": 31,
-    "pa": 22,
-    "pm": 9,
-    "poss": 23.0,
-    "pF": 22.4,
-    "pA": 23.6,
-    "ortg": 138.4,
-    "drtg": 93.1,
-    "net": 45.3,
-    "efg": 57.1,
-    "oefg": 37.0
-   },
-   {
-    "players": [
      "Marko Duspara",
      "Viktor Novák",
      "Štěpán Lička"
@@ -2852,22 +2994,41 @@
    },
    {
     "players": [
+     "Adam Číž",
      "Alex Lomax",
-     "David Motyčka",
-     "Michal Svoboda"
+     "Oleksandr Belikov"
     ],
-    "min": 11.6,
-    "pf": 19,
-    "pa": 22,
-    "pm": -3,
-    "poss": 22.4,
+    "min": 12.0,
+    "pf": 25,
+    "pa": 34,
+    "pm": -9,
+    "poss": 21.4,
     "pF": 21.0,
-    "pA": 23.8,
-    "ortg": 90.5,
-    "drtg": 92.6,
-    "net": -2.1,
-    "efg": 39.6,
-    "oefg": 47.5
+    "pA": 21.8,
+    "ortg": 119.3,
+    "drtg": 156.2,
+    "net": -37.0,
+    "efg": 73.1,
+    "oefg": 84.2
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Michal Svoboda",
+     "Pavel Czudek"
+    ],
+    "min": 11.9,
+    "pf": 35,
+    "pa": 28,
+    "pm": 7,
+    "poss": 25.2,
+    "pF": 27.4,
+    "pA": 23.1,
+    "ortg": 127.7,
+    "drtg": 121.3,
+    "net": 6.4,
+    "efg": 58.0,
+    "oefg": 71.9
    },
    {
     "players": [
@@ -2910,40 +3071,21 @@
    {
     "players": [
      "Adam Ivánek",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 11.3,
-    "pf": 29,
-    "pa": 19,
-    "pm": 10,
-    "poss": 21.4,
-    "pF": 23.1,
-    "pA": 19.8,
-    "ortg": 125.6,
-    "drtg": 96.2,
-    "net": 29.5,
-    "efg": 52.2,
-    "oefg": 38.1
-   },
-   {
-    "players": [
-     "Adam Ivánek",
      "Dominik Heinzl",
-     "Michal Svoboda"
+     "Pavel Czudek"
     ],
-    "min": 11.2,
-    "pf": 27,
-    "pa": 23,
-    "pm": 4,
-    "poss": 20.2,
-    "pF": 20.6,
-    "pA": 19.8,
-    "ortg": 130.8,
-    "drtg": 116.4,
-    "net": 14.4,
-    "efg": 61.1,
-    "oefg": 62.5
+    "min": 11.4,
+    "pf": 31,
+    "pa": 22,
+    "pm": 9,
+    "poss": 20.7,
+    "pF": 22.8,
+    "pA": 18.6,
+    "ortg": 136.2,
+    "drtg": 118.0,
+    "net": 18.2,
+    "efg": 61.4,
+    "oefg": 56.7
    },
    {
     "players": [
@@ -2986,21 +3128,59 @@
    {
     "players": [
      "Alex Lomax",
-     "Michal Svoboda",
-     "Pavel Czudek"
+     "David Motyčka",
+     "Lukáš Palyza"
     ],
-    "min": 10.8,
-    "pf": 30,
-    "pa": 28,
-    "pm": 2,
-    "poss": 23.7,
-    "pF": 25.4,
-    "pA": 22.1,
-    "ortg": 118.1,
-    "drtg": 126.8,
-    "net": -8.7,
-    "efg": 60.0,
-    "oefg": 76.7
+    "min": 11.0,
+    "pf": 24,
+    "pa": 23,
+    "pm": 1,
+    "poss": 24.4,
+    "pF": 23.1,
+    "pA": 25.6,
+    "ortg": 104.0,
+    "drtg": 89.7,
+    "net": 14.3,
+    "efg": 45.0,
+    "oefg": 47.6
+   },
+   {
+    "players": [
+     "David Motyčka",
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 11.0,
+    "pf": 17,
+    "pa": 33,
+    "pm": -16,
+    "poss": 22.4,
+    "pF": 20.1,
+    "pA": 24.7,
+    "ortg": 84.7,
+    "drtg": 133.5,
+    "net": -48.8,
+    "efg": 38.2,
+    "oefg": 60.5
+   },
+   {
+    "players": [
+     "Adam Ivánek",
+     "Alex Lomax",
+     "Oleksandr Belikov"
+    ],
+    "min": 10.9,
+    "pf": 27,
+    "pa": 21,
+    "pm": 6,
+    "poss": 19.4,
+    "pF": 20.1,
+    "pA": 18.6,
+    "ortg": 134.5,
+    "drtg": 112.7,
+    "net": 21.8,
+    "efg": 60.5,
+    "oefg": 42.1
    },
    {
     "players": [
@@ -3042,6 +3222,25 @@
    },
    {
     "players": [
+     "Adam Číž",
+     "David Motyčka",
+     "Oleksandr Belikov"
+    ],
+    "min": 10.7,
+    "pf": 19,
+    "pa": 33,
+    "pm": -14,
+    "poss": 20.5,
+    "pF": 18.1,
+    "pA": 22.8,
+    "ortg": 105.1,
+    "drtg": 144.5,
+    "net": -39.4,
+    "efg": 53.6,
+    "oefg": 63.2
+   },
+   {
+    "players": [
      "David Motyčka",
      "Dominik Heinzl",
      "Erik Howlin"
@@ -3080,6 +3279,25 @@
    },
    {
     "players": [
+     "Adam Ivánek",
+     "Dominik Heinzl",
+     "Lukáš Palyza"
+    ],
+    "min": 10.5,
+    "pf": 23,
+    "pa": 20,
+    "pm": 3,
+    "poss": 20.0,
+    "pF": 19.3,
+    "pA": 20.8,
+    "ortg": 119.0,
+    "drtg": 96.3,
+    "net": 22.7,
+    "efg": 63.9,
+    "oefg": 44.7
+   },
+   {
+    "players": [
      "Adam Číž",
      "David Motyčka",
      "Dominik Heinzl"
@@ -3099,25 +3317,6 @@
    },
    {
     "players": [
-     "Adam Ivánek",
-     "Dominik Heinzl",
-     "Lukáš Palyza"
-    ],
-    "min": 10.3,
-    "pf": 23,
-    "pa": 20,
-    "pm": 3,
-    "poss": 19.5,
-    "pF": 19.3,
-    "pA": 19.8,
-    "ortg": 119.0,
-    "drtg": 101.2,
-    "net": 17.8,
-    "efg": 63.9,
-    "oefg": 47.2
-   },
-   {
-    "players": [
      "Michal Svoboda",
      "Oleksandr Belikov",
      "Pavel Czudek"
@@ -3134,6 +3333,25 @@
     "net": 4.0,
     "efg": 50.0,
     "oefg": 50.0
+   },
+   {
+    "players": [
+     "Adam Ivánek",
+     "Adam Číž",
+     "Oleksandr Belikov"
+    ],
+    "min": 10.2,
+    "pf": 26,
+    "pa": 15,
+    "pm": 11,
+    "poss": 20.3,
+    "pF": 20.7,
+    "pA": 19.9,
+    "ortg": 125.5,
+    "drtg": 75.5,
+    "net": 50.0,
+    "efg": 53.1,
+    "oefg": 35.0
    },
    {
     "players": [
@@ -3194,25 +3412,6 @@
    },
    {
     "players": [
-     "Adam Číž",
-     "Alex Lomax",
-     "Dominik Heinzl"
-    ],
-    "min": 9.8,
-    "pf": 37,
-    "pa": 32,
-    "pm": 5,
-    "poss": 22.9,
-    "pF": 22.8,
-    "pA": 23.1,
-    "ortg": 162.3,
-    "drtg": 138.6,
-    "net": 23.6,
-    "efg": 66.7,
-    "oefg": 68.4
-   },
-   {
-    "players": [
      "Erik Howlin",
      "Oleksandr Belikov",
      "Pavel Czudek"
@@ -3232,6 +3431,25 @@
    },
    {
     "players": [
+     "Adam Ivánek",
+     "Michal Svoboda",
+     "Pavel Czudek"
+    ],
+    "min": 9.7,
+    "pf": 29,
+    "pa": 16,
+    "pm": 13,
+    "poss": 17.3,
+    "pF": 18.8,
+    "pA": 15.8,
+    "ortg": 154.6,
+    "drtg": 101.5,
+    "net": 53.1,
+    "efg": 69.4,
+    "oefg": 54.2
+   },
+   {
+    "players": [
      "Andre Screen",
      "Lukáš Palyza",
      "Pavel Czudek"
@@ -3248,6 +3466,25 @@
     "net": -36.1,
     "efg": 62.5,
     "oefg": 75.0
+   },
+   {
+    "players": [
+     "Adam Ivánek",
+     "Erik Howlin",
+     "Pavel Czudek"
+    ],
+    "min": 9.6,
+    "pf": 19,
+    "pa": 21,
+    "pm": -2,
+    "poss": 16.6,
+    "pF": 17.9,
+    "pA": 15.4,
+    "ortg": 106.3,
+    "drtg": 136.4,
+    "net": -30.1,
+    "efg": 56.2,
+    "oefg": 46.2
    },
    {
     "players": [
@@ -3308,44 +3545,6 @@
    },
    {
     "players": [
-     "Alex Lomax",
-     "David Motyčka",
-     "Lukáš Palyza"
-    ],
-    "min": 9.3,
-    "pf": 19,
-    "pa": 19,
-    "pm": 0,
-    "poss": 21.9,
-    "pF": 20.2,
-    "pA": 23.6,
-    "ortg": 94.1,
-    "drtg": 80.4,
-    "net": 13.7,
-    "efg": 41.7,
-    "oefg": 44.4
-   },
-   {
-    "players": [
-     "Adam Ivánek",
-     "Adam Číž",
-     "Oleksandr Belikov"
-    ],
-    "min": 9.3,
-    "pf": 26,
-    "pa": 13,
-    "pm": 13,
-    "poss": 18.8,
-    "pF": 19.7,
-    "pA": 17.9,
-    "ortg": 131.8,
-    "drtg": 72.7,
-    "net": 59.1,
-    "efg": 56.7,
-    "oefg": 33.3
-   },
-   {
-    "players": [
      "Pavel Czudek",
      "Viktor Novák",
      "Štěpán Lička"
@@ -3403,25 +3602,6 @@
    },
    {
     "players": [
-     "Adam Číž",
-     "Alex Lomax",
-     "Oleksandr Belikov"
-    ],
-    "min": 9.0,
-    "pf": 19,
-    "pa": 27,
-    "pm": -8,
-    "poss": 16.6,
-    "pF": 16.0,
-    "pA": 17.3,
-    "ortg": 119.0,
-    "drtg": 155.9,
-    "net": -36.8,
-    "efg": 72.2,
-    "oefg": 83.3
-   },
-   {
-    "players": [
      "Adam Ivánek",
      "Erik Howlin",
      "Oleksandr Belikov"
@@ -3438,6 +3618,25 @@
     "net": -21.3,
     "efg": 33.3,
     "oefg": 50.0
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Lukáš Palyza",
+     "Pavel Czudek"
+    ],
+    "min": 8.8,
+    "pf": 19,
+    "pa": 21,
+    "pm": -2,
+    "poss": 15.4,
+    "pF": 15.4,
+    "pA": 15.4,
+    "ortg": 123.1,
+    "drtg": 136.0,
+    "net": -13.0,
+    "efg": 56.2,
+    "oefg": 58.8
    },
    {
     "players": [
@@ -3460,41 +3659,22 @@
    },
    {
     "players": [
-     "David Motyčka",
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 8.6,
-    "pf": 17,
-    "pa": 23,
-    "pm": -6,
-    "poss": 18.3,
-    "pF": 17.1,
-    "pA": 19.5,
-    "ortg": 99.5,
-    "drtg": 117.8,
-    "net": -18.3,
-    "efg": 40.6,
-    "oefg": 52.9
-   },
-   {
-    "players": [
-     "Adam Ivánek",
-     "Michal Svoboda",
+     "Dominik Heinzl",
+     "Erik Howlin",
      "Pavel Czudek"
     ],
-    "min": 8.5,
-    "pf": 24,
-    "pa": 16,
-    "pm": 8,
-    "poss": 15.8,
-    "pF": 16.8,
-    "pA": 14.8,
-    "ortg": 143.2,
-    "drtg": 108.4,
-    "net": 34.8,
-    "efg": 76.9,
-    "oefg": 59.1
+    "min": 8.7,
+    "pf": 12,
+    "pa": 14,
+    "pm": -2,
+    "poss": 15.3,
+    "pF": 15.4,
+    "pA": 15.1,
+    "ortg": 77.7,
+    "drtg": 92.8,
+    "net": -15.1,
+    "efg": 50.0,
+    "oefg": 38.5
    },
    {
     "players": [
@@ -3514,25 +3694,6 @@
     "net": 2.6,
     "efg": 63.6,
     "oefg": 47.2
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "David Motyčka",
-     "Oleksandr Belikov"
-    ],
-    "min": 8.3,
-    "pf": 19,
-    "pa": 23,
-    "pm": -4,
-    "poss": 16.4,
-    "pF": 15.1,
-    "pA": 17.6,
-    "ortg": 126.0,
-    "drtg": 130.4,
-    "net": -4.4,
-    "efg": 57.7,
-    "oefg": 55.9
    },
    {
     "players": [
@@ -3612,25 +3773,6 @@
    },
    {
     "players": [
-     "Adam Ivánek",
-     "Dominik Heinzl",
-     "Pavel Czudek"
-    ],
-    "min": 7.8,
-    "pf": 22,
-    "pa": 16,
-    "pm": 6,
-    "poss": 14.8,
-    "pF": 15.8,
-    "pA": 13.8,
-    "ortg": 139.6,
-    "drtg": 116.3,
-    "net": 23.3,
-    "efg": 69.2,
-    "oefg": 65.0
-   },
-   {
-    "players": [
      "Daniel Kormaník",
      "Marko Duspara",
      "Štěpán Lička"
@@ -3685,6 +3827,44 @@
     "net": 46.4,
     "efg": 53.6,
     "oefg": 36.7
+   },
+   {
+    "players": [
+     "David Motyčka",
+     "Lukáš Palyza",
+     "Oleksandr Belikov"
+    ],
+    "min": 7.7,
+    "pf": 19,
+    "pa": 25,
+    "pm": -6,
+    "poss": 17.4,
+    "pF": 15.6,
+    "pA": 19.1,
+    "ortg": 121.5,
+    "drtg": 131.0,
+    "net": -9.5,
+    "efg": 62.5,
+    "oefg": 62.5
+   },
+   {
+    "players": [
+     "Dominik Heinzl",
+     "Oleksandr Belikov",
+     "Pavel Czudek"
+    ],
+    "min": 7.7,
+    "pf": 19,
+    "pa": 17,
+    "pm": 2,
+    "poss": 16.0,
+    "pF": 14.9,
+    "pA": 17.2,
+    "ortg": 127.7,
+    "drtg": 98.8,
+    "net": 28.9,
+    "efg": 73.1,
+    "oefg": 58.3
    },
    {
     "players": [
@@ -3802,25 +3982,6 @@
    },
    {
     "players": [
-     "Adam Ivánek",
-     "Erik Howlin",
-     "Pavel Czudek"
-    ],
-    "min": 7.2,
-    "pf": 15,
-    "pa": 15,
-    "pm": 0,
-    "poss": 12.2,
-    "pF": 12.9,
-    "pA": 11.5,
-    "ortg": 116.5,
-    "drtg": 130.2,
-    "net": -13.7,
-    "efg": 58.3,
-    "oefg": 44.4
-   },
-   {
-    "players": [
      "David Motyčka",
      "Dominik Heinzl",
      "Lukáš Palyza"
@@ -3859,25 +4020,6 @@
    },
    {
     "players": [
-     "Adam Ivánek",
-     "Alex Lomax",
-     "Oleksandr Belikov"
-    ],
-    "min": 7.0,
-    "pf": 15,
-    "pa": 21,
-    "pm": -6,
-    "poss": 13.9,
-    "pF": 14.1,
-    "pA": 13.6,
-    "ortg": 106.5,
-    "drtg": 154.0,
-    "net": -47.4,
-    "efg": 42.3,
-    "oefg": 57.1
-   },
-   {
-    "players": [
      "David Motyčka",
      "Lukáš Palyza",
      "Pavel Czudek"
@@ -3913,25 +4055,6 @@
     "net": 36.7,
     "efg": 45.0,
     "oefg": 31.8
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "Lukáš Palyza",
-     "Pavel Czudek"
-    ],
-    "min": 6.7,
-    "pf": 14,
-    "pa": 14,
-    "pm": 0,
-    "poss": 10.9,
-    "pF": 11.4,
-    "pA": 10.4,
-    "ortg": 122.4,
-    "drtg": 134.1,
-    "net": -11.7,
-    "efg": 54.2,
-    "oefg": 50.0
    },
    {
     "players": [
@@ -3992,6 +4115,44 @@
    },
    {
     "players": [
+     "David Motyčka",
+     "Erik Howlin",
+     "Oleksandr Belikov"
+    ],
+    "min": 6.6,
+    "pf": 10,
+    "pa": 24,
+    "pm": -14,
+    "poss": 13.4,
+    "pF": 13.2,
+    "pA": 13.5,
+    "ortg": 75.8,
+    "drtg": 177.5,
+    "net": -101.8,
+    "efg": 33.3,
+    "oefg": 70.8
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Erik Howlin",
+     "Pavel Czudek"
+    ],
+    "min": 6.6,
+    "pf": 15,
+    "pa": 16,
+    "pm": -1,
+    "poss": 16.1,
+    "pF": 16.1,
+    "pA": 16.1,
+    "ortg": 93.3,
+    "drtg": 99.5,
+    "net": -6.2,
+    "efg": 40.9,
+    "oefg": 50.0
+   },
+   {
+    "players": [
      "Jan Stehlík",
      "Marko Duspara",
      "Pavel Czudek"
@@ -4026,6 +4187,44 @@
     "drtg": 116.5,
     "net": -19.7,
     "efg": 44.4,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Dominik Heinzl",
+     "Lukáš Palyza",
+     "Pavel Czudek"
+    ],
+    "min": 6.5,
+    "pf": 18,
+    "pa": 10,
+    "pm": 8,
+    "poss": 13.2,
+    "pF": 13.4,
+    "pA": 12.9,
+    "ortg": 133.9,
+    "drtg": 77.6,
+    "net": 56.3,
+    "efg": 70.8,
+    "oefg": 45.0
+   },
+   {
+    "players": [
+     "Lukáš Palyza",
+     "Oleksandr Belikov",
+     "Pavel Czudek"
+    ],
+    "min": 6.4,
+    "pf": 16,
+    "pa": 17,
+    "pm": -1,
+    "poss": 16.0,
+    "pF": 14.9,
+    "pA": 17.2,
+    "ortg": 107.5,
+    "drtg": 98.8,
+    "net": 8.7,
+    "efg": 57.1,
     "oefg": 50.0
    },
    {
@@ -4068,60 +4267,22 @@
    },
    {
     "players": [
-     "Dominik Heinzl",
-     "Erik Howlin",
-     "Pavel Czudek"
-    ],
-    "min": 6.3,
-    "pf": 8,
-    "pa": 8,
-    "pm": 0,
-    "poss": 10.8,
-    "pF": 10.4,
-    "pA": 11.2,
-    "ortg": 76.6,
-    "drtg": 71.4,
-    "net": 5.2,
-    "efg": 50.0,
-    "oefg": 33.3
-   },
-   {
-    "players": [
-     "Dominik Heinzl",
-     "Oleksandr Belikov",
-     "Pavel Czudek"
-    ],
-    "min": 6.3,
-    "pf": 14,
-    "pa": 12,
-    "pm": 2,
-    "poss": 13.0,
-    "pF": 11.9,
-    "pA": 14.2,
-    "ortg": 117.8,
-    "drtg": 84.5,
-    "net": 33.3,
-    "efg": 70.0,
-    "oefg": 45.0
-   },
-   {
-    "players": [
+     "Alex Lomax",
      "David Motyčka",
-     "Lukáš Palyza",
-     "Oleksandr Belikov"
+     "Erik Howlin"
     ],
     "min": 6.2,
-    "pf": 19,
-    "pa": 20,
-    "pm": -1,
-    "poss": 14.9,
-    "pF": 13.6,
-    "pA": 16.2,
-    "ortg": 139.3,
-    "drtg": 123.5,
-    "net": 15.8,
-    "efg": 68.2,
-    "oefg": 56.7
+    "pf": 15,
+    "pa": 10,
+    "pm": 5,
+    "poss": 12.9,
+    "pF": 13.1,
+    "pA": 12.8,
+    "ortg": 114.7,
+    "drtg": 78.4,
+    "net": 36.3,
+    "efg": 45.0,
+    "oefg": 40.0
    },
    {
     "players": [
@@ -4201,22 +4362,22 @@
    },
    {
     "players": [
-     "David Motyčka",
-     "Erik Howlin",
-     "Oleksandr Belikov"
+     "Adam Ivánek",
+     "Alex Lomax",
+     "Dominik Heinzl"
     ],
-    "min": 5.8,
-    "pf": 10,
-    "pa": 19,
-    "pm": -9,
-    "poss": 11.7,
-    "pF": 12.2,
-    "pA": 11.2,
-    "ortg": 82.0,
-    "drtg": 169.6,
-    "net": -87.7,
-    "efg": 33.3,
-    "oefg": 68.2
+    "min": 5.9,
+    "pf": 12,
+    "pa": 11,
+    "pm": 1,
+    "poss": 9.7,
+    "pF": 10.4,
+    "pA": 8.9,
+    "ortg": 114.9,
+    "drtg": 123.9,
+    "net": -8.9,
+    "efg": 42.3,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -4315,22 +4476,22 @@
    },
    {
     "players": [
+     "Alex Lomax",
      "Dominik Heinzl",
-     "Lukáš Palyza",
      "Pavel Czudek"
     ],
-    "min": 5.2,
-    "pf": 13,
-    "pa": 5,
-    "pm": 8,
-    "poss": 10.2,
+    "min": 5.0,
+    "pf": 15,
+    "pa": 9,
+    "pm": 6,
+    "poss": 9.2,
     "pF": 10.4,
-    "pA": 9.9,
-    "ortg": 124.5,
-    "drtg": 50.6,
-    "net": 73.9,
-    "efg": 66.7,
-    "oefg": 25.0
+    "pA": 7.9,
+    "ortg": 143.7,
+    "drtg": 114.2,
+    "net": 29.5,
+    "efg": 57.7,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -4358,18 +4519,18 @@
      "Lukáš Palyza",
      "Michal Svoboda"
     ],
-    "min": 232.4,
-    "pf": 521,
-    "pa": 452,
-    "pm": 69,
-    "poss": 458.4,
-    "pF": 465.0,
-    "pA": 451.8,
-    "ortg": 112.0,
-    "drtg": 100.0,
-    "net": 12.0,
-    "efg": 53.5,
-    "oefg": 49.2
+    "min": 258.1,
+    "pf": 589,
+    "pa": 498,
+    "pm": 91,
+    "poss": 503.6,
+    "pF": 509.9,
+    "pA": 497.3,
+    "ortg": 115.5,
+    "drtg": 100.1,
+    "net": 15.4,
+    "efg": 55.1,
+    "oefg": 49.7
    },
    {
     "players": [
@@ -4394,18 +4555,72 @@
      "Lukáš Palyza",
      "Oleksandr Belikov"
     ],
-    "min": 192.2,
-    "pf": 425,
-    "pa": 379,
-    "pm": 46,
-    "poss": 376.4,
-    "pF": 377.6,
-    "pA": 375.2,
-    "ortg": 112.6,
-    "drtg": 101.0,
-    "net": 11.6,
-    "efg": 54.3,
-    "oefg": 48.4
+    "min": 209.6,
+    "pf": 468,
+    "pa": 407,
+    "pm": 61,
+    "poss": 406.6,
+    "pF": 408.8,
+    "pA": 404.4,
+    "ortg": 114.5,
+    "drtg": 100.6,
+    "net": 13.8,
+    "efg": 55.3,
+    "oefg": 48.8
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Michal Svoboda"
+    ],
+    "min": 204.1,
+    "pf": 466,
+    "pa": 442,
+    "pm": 24,
+    "poss": 405.4,
+    "pF": 412.8,
+    "pA": 398.0,
+    "ortg": 112.9,
+    "drtg": 111.0,
+    "net": 1.8,
+    "efg": 52.3,
+    "oefg": 55.5
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Lukáš Palyza"
+    ],
+    "min": 201.8,
+    "pf": 456,
+    "pa": 435,
+    "pm": 21,
+    "poss": 397.3,
+    "pF": 400.6,
+    "pA": 393.9,
+    "ortg": 113.8,
+    "drtg": 110.4,
+    "net": 3.4,
+    "efg": 55.4,
+    "oefg": 53.7
+   },
+   {
+    "players": [
+     "Michal Svoboda",
+     "Oleksandr Belikov"
+    ],
+    "min": 197.5,
+    "pf": 421,
+    "pa": 385,
+    "pm": 36,
+    "poss": 387.5,
+    "pF": 390.1,
+    "pA": 384.9,
+    "ortg": 107.9,
+    "drtg": 100.0,
+    "net": 7.9,
+    "efg": 50.6,
+    "oefg": 48.6
    },
    {
     "players": [
@@ -4427,57 +4642,39 @@
    },
    {
     "players": [
-     "Michal Svoboda",
-     "Oleksandr Belikov"
-    ],
-    "min": 184.1,
-    "pf": 390,
-    "pa": 365,
-    "pm": 25,
-    "poss": 364.5,
-    "pF": 366.2,
-    "pA": 362.8,
-    "ortg": 106.5,
-    "drtg": 100.6,
-    "net": 5.9,
-    "efg": 49.7,
-    "oefg": 49.4
-   },
-   {
-    "players": [
-     "Alex Lomax",
-     "Michal Svoboda"
-    ],
-    "min": 176.6,
-    "pf": 390,
-    "pa": 396,
-    "pm": -6,
-    "poss": 356.9,
-    "pF": 363.5,
-    "pA": 350.4,
-    "ortg": 107.3,
-    "drtg": 113.0,
-    "net": -5.7,
-    "efg": 50.2,
-    "oefg": 56.5
-   },
-   {
-    "players": [
-     "Alex Lomax",
+     "Erik Howlin",
      "Lukáš Palyza"
     ],
-    "min": 175.6,
-    "pf": 385,
-    "pa": 387,
-    "pm": -2,
-    "poss": 351.7,
-    "pF": 355.6,
-    "pA": 347.8,
-    "ortg": 108.3,
-    "drtg": 111.3,
-    "net": -3.0,
-    "efg": 52.7,
-    "oefg": 53.6
+    "min": 173.8,
+    "pf": 388,
+    "pa": 364,
+    "pm": 24,
+    "poss": 340.1,
+    "pF": 341.6,
+    "pA": 338.7,
+    "ortg": 113.6,
+    "drtg": 107.5,
+    "net": 6.1,
+    "efg": 55.1,
+    "oefg": 51.9
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Lukáš Palyza"
+    ],
+    "min": 167.9,
+    "pf": 395,
+    "pa": 301,
+    "pm": 94,
+    "poss": 325.1,
+    "pF": 329.6,
+    "pA": 320.6,
+    "ortg": 119.9,
+    "drtg": 93.9,
+    "net": 26.0,
+    "efg": 56.6,
+    "oefg": 46.6
    },
    {
     "players": [
@@ -4500,20 +4697,56 @@
    {
     "players": [
      "Erik Howlin",
-     "Lukáš Palyza"
+     "Michal Svoboda"
     ],
-    "min": 164.0,
-    "pf": 364,
-    "pa": 338,
-    "pm": 26,
-    "poss": 322.1,
-    "pF": 323.2,
-    "pA": 321.0,
-    "ortg": 112.6,
-    "drtg": 105.3,
-    "net": 7.3,
-    "efg": 54.8,
-    "oefg": 50.4
+    "min": 160.6,
+    "pf": 324,
+    "pa": 355,
+    "pm": -31,
+    "poss": 310.8,
+    "pF": 308.9,
+    "pA": 312.7,
+    "ortg": 104.9,
+    "drtg": 113.5,
+    "net": -8.7,
+    "efg": 48.1,
+    "oefg": 54.0
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Michal Svoboda"
+    ],
+    "min": 160.3,
+    "pf": 358,
+    "pa": 291,
+    "pm": 67,
+    "poss": 305.8,
+    "pF": 305.7,
+    "pA": 306.0,
+    "ortg": 117.1,
+    "drtg": 95.1,
+    "net": 22.0,
+    "efg": 53.4,
+    "oefg": 45.7
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Oleksandr Belikov"
+    ],
+    "min": 155.8,
+    "pf": 340,
+    "pa": 341,
+    "pm": -1,
+    "poss": 306.4,
+    "pF": 309.7,
+    "pA": 303.1,
+    "ortg": 109.8,
+    "drtg": 112.5,
+    "net": -2.7,
+    "efg": 52.7,
+    "oefg": 54.2
    },
    {
     "players": [
@@ -4535,60 +4768,6 @@
    },
    {
     "players": [
-     "Erik Howlin",
-     "Michal Svoboda"
-    ],
-    "min": 149.3,
-    "pf": 300,
-    "pa": 321,
-    "pm": -21,
-    "poss": 290.5,
-    "pF": 289.4,
-    "pA": 291.6,
-    "ortg": 103.7,
-    "drtg": 110.1,
-    "net": -6.4,
-    "efg": 47.2,
-    "oefg": 52.5
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "Lukáš Palyza"
-    ],
-    "min": 148.9,
-    "pf": 346,
-    "pa": 266,
-    "pm": 80,
-    "poss": 288.9,
-    "pF": 292.4,
-    "pA": 285.4,
-    "ortg": 118.3,
-    "drtg": 93.2,
-    "net": 25.1,
-    "efg": 56.0,
-    "oefg": 44.9
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "Michal Svoboda"
-    ],
-    "min": 147.5,
-    "pf": 326,
-    "pa": 267,
-    "pm": 59,
-    "poss": 281.8,
-    "pF": 281.7,
-    "pA": 281.9,
-    "ortg": 115.7,
-    "drtg": 94.7,
-    "net": 21.0,
-    "efg": 52.6,
-    "oefg": 45.0
-   },
-   {
-    "players": [
      "Andre Screen",
      "Erik Howlin"
     ],
@@ -4607,75 +4786,93 @@
    },
    {
     "players": [
-     "Alex Lomax",
-     "Oleksandr Belikov"
-    ],
-    "min": 142.7,
-    "pf": 306,
-    "pa": 324,
-    "pm": -18,
-    "poss": 284.7,
-    "pF": 286.6,
-    "pA": 282.8,
-    "ortg": 106.8,
-    "drtg": 114.6,
-    "net": -7.8,
-    "efg": 51.1,
-    "oefg": 55.5
-   },
-   {
-    "players": [
      "Adam Číž",
      "Erik Howlin"
     ],
-    "min": 133.0,
-    "pf": 282,
-    "pa": 249,
-    "pm": 33,
-    "poss": 249.6,
-    "pF": 251.8,
-    "pA": 247.4,
-    "ortg": 112.0,
-    "drtg": 100.6,
-    "net": 11.4,
-    "efg": 51.0,
-    "oefg": 46.2
+    "min": 136.1,
+    "pf": 288,
+    "pa": 256,
+    "pm": 32,
+    "poss": 256.4,
+    "pF": 259.0,
+    "pA": 253.8,
+    "ortg": 111.2,
+    "drtg": 100.9,
+    "net": 10.3,
+    "efg": 50.5,
+    "oefg": 46.5
    },
    {
     "players": [
      "Erik Howlin",
      "Oleksandr Belikov"
     ],
-    "min": 126.0,
-    "pf": 243,
-    "pa": 282,
-    "pm": -39,
-    "poss": 247.3,
-    "pF": 242.6,
-    "pA": 251.9,
-    "ortg": 100.1,
-    "drtg": 112.0,
-    "net": -11.8,
-    "efg": 45.6,
-    "oefg": 54.2
+    "min": 133.3,
+    "pf": 259,
+    "pa": 296,
+    "pm": -37,
+    "poss": 261.6,
+    "pF": 258.2,
+    "pA": 265.1,
+    "ortg": 100.3,
+    "drtg": 111.7,
+    "net": -11.3,
+    "efg": 45.7,
+    "oefg": 53.8
    },
    {
     "players": [
      "Alex Lomax",
      "Erik Howlin"
     ],
-    "min": 117.6,
-    "pf": 248,
-    "pa": 263,
-    "pm": -15,
-    "poss": 237.1,
-    "pF": 239.4,
-    "pA": 234.9,
-    "ortg": 103.6,
-    "drtg": 112.0,
-    "net": -8.3,
-    "efg": 49.3,
-    "oefg": 54.6
+    "min": 130.4,
+    "pf": 276,
+    "pa": 298,
+    "pm": -22,
+    "poss": 260.2,
+    "pF": 262.9,
+    "pA": 257.6,
+    "ortg": 105.0,
+    "drtg": 115.7,
+    "net": -10.7,
+    "efg": 50.2,
+    "oefg": 56.0
+   },
+   {
+    "players": [
+     "Dominik Heinzl",
+     "Michal Svoboda"
+    ],
+    "min": 122.2,
+    "pf": 284,
+    "pa": 230,
+    "pm": 54,
+    "poss": 232.9,
+    "pF": 233.0,
+    "pA": 232.7,
+    "ortg": 121.9,
+    "drtg": 98.8,
+    "net": 23.0,
+    "efg": 55.4,
+    "oefg": 53.5
+   },
+   {
+    "players": [
+     "Adam Číž",
+     "Oleksandr Belikov"
+    ],
+    "min": 115.2,
+    "pf": 243,
+    "pa": 220,
+    "pm": 23,
+    "poss": 219.7,
+    "pF": 220.8,
+    "pA": 218.7,
+    "ortg": 110.1,
+    "drtg": 100.6,
+    "net": 9.5,
+    "efg": 53.0,
+    "oefg": 51.9
    },
    {
     "players": [
@@ -4697,183 +4894,165 @@
    },
    {
     "players": [
-     "Adam Číž",
-     "Oleksandr Belikov"
-    ],
-    "min": 104.8,
-    "pf": 223,
-    "pa": 194,
-    "pm": 29,
-    "poss": 199.9,
-    "pF": 200.7,
-    "pA": 199.0,
-    "ortg": 111.1,
-    "drtg": 97.5,
-    "net": 13.7,
-    "efg": 53.0,
-    "oefg": 49.4
-   },
-   {
-    "players": [
      "Dominik Heinzl",
-     "Michal Svoboda"
+     "Lukáš Palyza"
     ],
-    "min": 101.8,
-    "pf": 227,
-    "pa": 192,
-    "pm": 35,
-    "poss": 194.0,
-    "pF": 194.1,
-    "pA": 193.9,
-    "ortg": 116.9,
+    "min": 93.2,
+    "pf": 231,
+    "pa": 180,
+    "pm": 51,
+    "poss": 181.1,
+    "pF": 180.3,
+    "pA": 181.8,
+    "ortg": 128.1,
     "drtg": 99.0,
-    "net": 17.9,
-    "efg": 54.2,
-    "oefg": 53.2
-   },
-   {
-    "players": [
-     "Dominik Heinzl",
-     "Erik Howlin"
-    ],
-    "min": 73.3,
-    "pf": 135,
-    "pa": 135,
-    "pm": 0,
-    "poss": 132.5,
-    "pF": 131.2,
-    "pA": 133.7,
-    "ortg": 102.9,
-    "drtg": 101.0,
-    "net": 1.9,
-    "efg": 50.0,
-    "oefg": 50.9
+    "net": 29.1,
+    "efg": 61.3,
+    "oefg": 53.0
    },
    {
     "players": [
      "Adam Číž",
      "Dominik Heinzl"
     ],
-    "min": 72.7,
-    "pf": 163,
-    "pa": 132,
-    "pm": 31,
-    "poss": 136.2,
-    "pF": 135.9,
-    "pA": 136.6,
-    "ortg": 119.9,
-    "drtg": 96.7,
-    "net": 23.3,
-    "efg": 56.0,
-    "oefg": 48.1
+    "min": 89.1,
+    "pf": 212,
+    "pa": 160,
+    "pm": 52,
+    "poss": 168.0,
+    "pF": 169.1,
+    "pA": 166.9,
+    "ortg": 125.4,
+    "drtg": 95.9,
+    "net": 29.5,
+    "efg": 58.3,
+    "oefg": 50.4
    },
    {
     "players": [
      "Dominik Heinzl",
-     "Lukáš Palyza"
+     "Erik Howlin"
     ],
-    "min": 70.5,
-    "pf": 168,
-    "pa": 133,
-    "pm": 35,
-    "poss": 137.1,
-    "pF": 136.5,
-    "pA": 137.6,
-    "ortg": 123.1,
-    "drtg": 96.6,
-    "net": 26.5,
-    "efg": 59.4,
-    "oefg": 49.1
+    "min": 84.7,
+    "pf": 159,
+    "pa": 164,
+    "pm": -5,
+    "poss": 155.5,
+    "pF": 155.6,
+    "pA": 155.5,
+    "ortg": 102.2,
+    "drtg": 105.5,
+    "net": -3.3,
+    "efg": 49.6,
+    "oefg": 53.5
    },
    {
     "players": [
      "Dominik Heinzl",
      "Oleksandr Belikov"
     ],
-    "min": 63.4,
-    "pf": 123,
-    "pa": 112,
-    "pm": 11,
-    "poss": 118.1,
-    "pF": 119.2,
-    "pA": 116.9,
-    "ortg": 103.2,
-    "drtg": 95.8,
-    "net": 7.3,
-    "efg": 50.5,
-    "oefg": 56.2
+    "min": 74.5,
+    "pf": 154,
+    "pa": 132,
+    "pm": 22,
+    "poss": 140.6,
+    "pF": 144.0,
+    "pA": 137.3,
+    "ortg": 107.0,
+    "drtg": 96.1,
+    "net": 10.8,
+    "efg": 51.6,
+    "oefg": 56.6
    },
    {
     "players": [
-     "Adam Ivánek",
-     "Adam Číž"
+     "Alex Lomax",
+     "Dominik Heinzl"
     ],
-    "min": 59.0,
-    "pf": 130,
-    "pa": 90,
-    "pm": 40,
-    "poss": 109.9,
-    "pF": 112.8,
-    "pA": 107.0,
-    "ortg": 115.2,
-    "drtg": 84.1,
-    "net": 31.1,
-    "efg": 51.0,
-    "oefg": 36.7
+    "min": 67.8,
+    "pf": 165,
+    "pa": 149,
+    "pm": 16,
+    "poss": 133.1,
+    "pF": 134.0,
+    "pA": 132.2,
+    "ortg": 123.1,
+    "drtg": 112.7,
+    "net": 10.5,
+    "efg": 54.3,
+    "oefg": 60.4
    },
    {
     "players": [
      "Adam Ivánek",
      "Michal Svoboda"
     ],
-    "min": 58.1,
-    "pf": 123,
-    "pa": 103,
-    "pm": 20,
-    "poss": 104.2,
-    "pF": 107.2,
-    "pA": 101.1,
-    "ortg": 114.7,
-    "drtg": 101.9,
-    "net": 12.9,
+    "min": 63.9,
+    "pf": 141,
+    "pa": 105,
+    "pm": 36,
+    "poss": 112.4,
+    "pF": 115.6,
+    "pA": 109.1,
+    "ortg": 121.9,
+    "drtg": 96.2,
+    "net": 25.7,
+    "efg": 53.2,
+    "oefg": 45.8
+   },
+   {
+    "players": [
+     "Adam Ivánek",
+     "Adam Číž"
+    ],
+    "min": 59.8,
+    "pf": 130,
+    "pa": 92,
+    "pm": 38,
+    "poss": 111.4,
+    "pF": 113.8,
+    "pA": 109.0,
+    "ortg": 114.2,
+    "drtg": 84.4,
+    "net": 29.8,
     "efg": 50.5,
-    "oefg": 48.9
+    "oefg": 37.0
    },
    {
     "players": [
      "Adam Ivánek",
      "Erik Howlin"
     ],
-    "min": 55.7,
-    "pf": 120,
-    "pa": 103,
-    "pm": 17,
-    "poss": 106.5,
-    "pF": 109.0,
-    "pA": 104.0,
-    "ortg": 110.1,
-    "drtg": 99.1,
-    "net": 11.0,
+    "min": 58.6,
+    "pf": 125,
+    "pa": 111,
+    "pm": 14,
+    "poss": 111.6,
+    "pF": 114.4,
+    "pA": 108.8,
+    "ortg": 109.2,
+    "drtg": 102.0,
+    "net": 7.2,
     "efg": 51.1,
-    "oefg": 41.9
+    "oefg": 42.9
    },
    {
     "players": [
      "Adam Ivánek",
      "Lukáš Palyza"
     ],
-    "min": 50.0,
-    "pf": 101,
-    "pa": 84,
-    "pm": 17,
-    "poss": 94.4,
-    "pF": 94.5,
-    "pA": 94.2,
-    "ortg": 106.9,
-    "drtg": 89.1,
-    "net": 17.7,
-    "efg": 49.4,
-    "oefg": 42.9
+    "min": 55.0,
+    "pf": 113,
+    "pa": 86,
+    "pm": 27,
+    "poss": 101.9,
+    "pF": 101.5,
+    "pA": 102.2,
+    "ortg": 111.3,
+    "drtg": 84.1,
+    "net": 27.2,
+    "efg": 52.3,
+    "oefg": 40.2
    },
    {
     "players": [
@@ -4895,201 +5074,237 @@
    },
    {
     "players": [
-     "Alex Lomax",
-     "Dominik Heinzl"
+     "Adam Číž",
+     "Alex Lomax"
     ],
-    "min": 42.9,
-    "pf": 101,
+    "min": 43.0,
+    "pf": 120,
     "pa": 98,
-    "pm": 3,
-    "poss": 87.1,
-    "pF": 88.0,
-    "pA": 86.2,
-    "ortg": 114.8,
-    "drtg": 113.7,
-    "net": 1.1,
-    "efg": 50.0,
-    "oefg": 62.1
+    "pm": 22,
+    "poss": 85.4,
+    "pF": 85.4,
+    "pA": 85.5,
+    "ortg": 140.6,
+    "drtg": 114.6,
+    "net": 25.9,
+    "efg": 65.9,
+    "oefg": 59.0
+   },
+   {
+    "players": [
+     "Adam Ivánek",
+     "Alex Lomax"
+    ],
+    "min": 42.0,
+    "pf": 90,
+    "pa": 80,
+    "pm": 10,
+    "poss": 74.7,
+    "pF": 77.2,
+    "pA": 72.2,
+    "ortg": 116.5,
+    "drtg": 110.9,
+    "net": 5.7,
+    "efg": 55.8,
+    "oefg": 50.7
    },
    {
     "players": [
      "David Motyčka",
      "Michal Svoboda"
     ],
-    "min": 37.6,
-    "pf": 73,
-    "pa": 70,
-    "pm": 3,
-    "poss": 70.6,
-    "pF": 68.0,
-    "pA": 73.2,
-    "ortg": 107.4,
-    "drtg": 95.6,
-    "net": 11.8,
-    "efg": 46.5,
-    "oefg": 43.5
+    "min": 41.6,
+    "pf": 78,
+    "pa": 84,
+    "pm": -6,
+    "poss": 77.1,
+    "pF": 73.8,
+    "pA": 80.4,
+    "ortg": 105.6,
+    "drtg": 104.4,
+    "net": 1.2,
+    "efg": 46.7,
+    "oefg": 47.0
    },
    {
     "players": [
      "Adam Číž",
      "David Motyčka"
     ],
-    "min": 35.0,
+    "min": 37.4,
     "pf": 73,
-    "pa": 71,
-    "pm": 2,
-    "poss": 62.7,
-    "pF": 61.8,
-    "pA": 63.6,
-    "ortg": 118.0,
-    "drtg": 111.7,
-    "net": 6.3,
-    "efg": 51.6,
-    "oefg": 45.6
-   },
-   {
-    "players": [
-     "Adam Ivánek",
-     "Alex Lomax"
-    ],
-    "min": 33.7,
-    "pf": 68,
-    "pa": 72,
-    "pm": -4,
-    "poss": 62.0,
-    "pF": 63.8,
-    "pA": 60.3,
-    "ortg": 106.6,
-    "drtg": 119.4,
-    "net": -12.9,
-    "efg": 51.9,
-    "oefg": 56.2
+    "pa": 81,
+    "pm": -8,
+    "poss": 66.8,
+    "pF": 64.8,
+    "pA": 68.8,
+    "ortg": 112.6,
+    "drtg": 117.8,
+    "net": -5.2,
+    "efg": 50.8,
+    "oefg": 48.3
    },
    {
     "players": [
      "David Motyčka",
      "Erik Howlin"
     ],
-    "min": 32.6,
-    "pf": 66,
-    "pa": 76,
-    "pm": -10,
-    "poss": 62.8,
-    "pF": 61.4,
-    "pA": 64.1,
-    "ortg": 107.5,
-    "drtg": 118.5,
-    "net": -11.0,
-    "efg": 51.8,
-    "oefg": 52.8
+    "min": 35.1,
+    "pf": 71,
+    "pa": 85,
+    "pm": -14,
+    "poss": 66.9,
+    "pF": 65.3,
+    "pA": 68.4,
+    "ortg": 108.8,
+    "drtg": 124.2,
+    "net": -15.4,
+    "efg": 52.5,
+    "oefg": 54.3
    },
    {
     "players": [
      "Michal Svoboda",
      "Pavel Czudek"
     ],
-    "min": 31.8,
-    "pf": 74,
+    "min": 33.0,
+    "pf": 79,
     "pa": 59,
-    "pm": 15,
-    "poss": 63.7,
-    "pF": 65.8,
-    "pA": 61.6,
-    "ortg": 112.5,
-    "drtg": 95.8,
-    "net": 16.7,
-    "efg": 58.8,
-    "oefg": 52.1
-   },
-   {
-    "players": [
-     "Adam Číž",
-     "Alex Lomax"
-    ],
-    "min": 30.6,
-    "pf": 85,
-    "pa": 77,
-    "pm": 8,
-    "poss": 62.7,
-    "pF": 62.3,
-    "pA": 63.2,
-    "ortg": 136.5,
-    "drtg": 121.9,
-    "net": 14.6,
-    "efg": 64.0,
-    "oefg": 60.2
+    "pm": 20,
+    "poss": 65.2,
+    "pF": 67.8,
+    "pA": 62.6,
+    "ortg": 116.5,
+    "drtg": 94.2,
+    "net": 22.3,
+    "efg": 58.0,
+    "oefg": 51.0
    },
    {
     "players": [
      "David Motyčka",
      "Lukáš Palyza"
     ],
-    "min": 29.8,
-    "pf": 71,
-    "pa": 71,
-    "pm": 0,
-    "poss": 62.1,
-    "pF": 61.0,
-    "pA": 63.3,
-    "ortg": 116.5,
-    "drtg": 112.2,
-    "net": 4.3,
-    "efg": 56.0,
-    "oefg": 56.2
+    "min": 33.0,
+    "pf": 76,
+    "pa": 80,
+    "pm": -4,
+    "poss": 67.0,
+    "pF": 65.8,
+    "pA": 68.2,
+    "ortg": 115.4,
+    "drtg": 117.4,
+    "net": -1.9,
+    "efg": 55.7,
+    "oefg": 58.3
    },
    {
     "players": [
      "Adam Číž",
      "Pavel Czudek"
     ],
-    "min": 24.4,
-    "pf": 51,
-    "pa": 47,
-    "pm": 4,
-    "poss": 41.7,
-    "pF": 43.0,
-    "pA": 40.5,
-    "ortg": 118.7,
-    "drtg": 116.1,
-    "net": 2.6,
-    "efg": 56.6,
-    "oefg": 48.5
+    "min": 26.6,
+    "pf": 56,
+    "pa": 54,
+    "pm": 2,
+    "poss": 46.2,
+    "pF": 47.0,
+    "pA": 45.5,
+    "ortg": 119.3,
+    "drtg": 118.7,
+    "net": 0.5,
+    "efg": 57.1,
+    "oefg": 52.6
+   },
+   {
+    "players": [
+     "Dominik Heinzl",
+     "Pavel Czudek"
+    ],
+    "min": 25.5,
+    "pf": 61,
+    "pa": 42,
+    "pm": 19,
+    "poss": 47.3,
+    "pF": 49.0,
+    "pA": 45.7,
+    "ortg": 124.6,
+    "drtg": 91.9,
+    "net": 32.7,
+    "efg": 58.7,
+    "oefg": 47.1
    },
    {
     "players": [
      "Erik Howlin",
      "Pavel Czudek"
     ],
-    "min": 23.1,
-    "pf": 39,
-    "pa": 48,
-    "pm": -9,
-    "poss": 47.2,
-    "pF": 46.2,
-    "pA": 48.2,
-    "ortg": 84.5,
-    "drtg": 99.5,
-    "net": -15.0,
-    "efg": 44.3,
-    "oefg": 43.4
+    "min": 25.4,
+    "pf": 43,
+    "pa": 54,
+    "pm": -11,
+    "poss": 51.6,
+    "pF": 51.2,
+    "pA": 52.1,
+    "ortg": 84.1,
+    "drtg": 103.6,
+    "net": -19.6,
+    "efg": 44.9,
+    "oefg": 44.0
    },
    {
     "players": [
      "Adam Ivánek",
      "Dominik Heinzl"
     ],
-    "min": 20.9,
-    "pf": 46,
-    "pa": 41,
-    "pm": 5,
-    "poss": 37.7,
-    "pF": 38.8,
-    "pA": 36.5,
-    "ortg": 118.4,
-    "drtg": 112.3,
-    "net": 6.2,
-    "efg": 57.4,
-    "oefg": 56.5
+    "min": 25.3,
+    "pf": 56,
+    "pa": 49,
+    "pm": 7,
+    "poss": 44.8,
+    "pF": 46.3,
+    "pA": 43.4,
+    "ortg": 121.0,
+    "drtg": 112.9,
+    "net": 8.1,
+    "efg": 55.8,
+    "oefg": 53.9
+   },
+   {
+    "players": [
+     "Lukáš Palyza",
+     "Pavel Czudek"
+    ],
+    "min": 21.9,
+    "pf": 55,
+    "pa": 46,
+    "pm": 9,
+    "poss": 48.0,
+    "pF": 49.7,
+    "pA": 46.3,
+    "ortg": 110.6,
+    "drtg": 99.4,
+    "net": 11.2,
+    "efg": 61.2,
+    "oefg": 52.6
+   },
+   {
+    "players": [
+     "Adam Ivánek",
+     "Oleksandr Belikov"
+    ],
+    "min": 21.2,
+    "pf": 52,
+    "pa": 34,
+    "pm": 18,
+    "poss": 39.2,
+    "pF": 39.9,
+    "pA": 38.5,
+    "ortg": 130.3,
+    "drtg": 88.3,
+    "net": 42.0,
+    "efg": 57.1,
+    "oefg": 36.8
    },
    {
     "players": [
@@ -5111,39 +5326,21 @@
    },
    {
     "players": [
-     "Dominik Heinzl",
+     "Adam Ivánek",
      "Pavel Czudek"
     ],
-    "min": 20.6,
-    "pf": 47,
-    "pa": 31,
-    "pm": 16,
-    "poss": 38.4,
-    "pF": 39.0,
-    "pA": 37.8,
-    "ortg": 120.6,
-    "drtg": 81.9,
-    "net": 38.7,
-    "efg": 58.8,
-    "oefg": 42.9
-   },
-   {
-    "players": [
-     "Lukáš Palyza",
-     "Pavel Czudek"
-    ],
-    "min": 19.7,
-    "pf": 50,
+    "min": 20.1,
+    "pf": 48,
     "pa": 39,
-    "pm": 11,
-    "poss": 43.5,
-    "pF": 45.7,
-    "pA": 41.3,
-    "ortg": 109.4,
-    "drtg": 94.5,
-    "net": 14.9,
-    "efg": 61.1,
-    "oefg": 48.6
+    "pm": 9,
+    "poss": 35.4,
+    "pF": 37.6,
+    "pA": 33.2,
+    "ortg": 127.5,
+    "drtg": 117.6,
+    "net": 9.9,
+    "efg": 61.4,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -5309,24 +5506,6 @@
    },
    {
     "players": [
-     "Adam Ivánek",
-     "Oleksandr Belikov"
-    ],
-    "min": 16.5,
-    "pf": 40,
-    "pa": 32,
-    "pm": 8,
-    "poss": 32.2,
-    "pF": 32.9,
-    "pA": 31.5,
-    "ortg": 121.5,
-    "drtg": 101.5,
-    "net": 20.0,
-    "efg": 50.0,
-    "oefg": 41.9
-   },
-   {
-    "players": [
      "David Motyčka",
      "Dominik Heinzl"
     ],
@@ -5363,21 +5542,39 @@
    },
    {
     "players": [
-     "Adam Ivánek",
+     "Oleksandr Belikov",
      "Pavel Czudek"
     ],
-    "min": 15.7,
-    "pf": 39,
-    "pa": 31,
-    "pm": 8,
-    "poss": 28.0,
-    "pF": 29.6,
-    "pA": 26.3,
-    "ortg": 131.6,
-    "drtg": 118.0,
-    "net": 13.6,
-    "efg": 68.0,
-    "oefg": 52.5
+    "min": 16.2,
+    "pf": 34,
+    "pa": 40,
+    "pm": -6,
+    "poss": 36.7,
+    "pF": 34.5,
+    "pA": 39.0,
+    "ortg": 98.5,
+    "drtg": 102.7,
+    "net": -4.2,
+    "efg": 53.6,
+    "oefg": 54.7
+   },
+   {
+    "players": [
+     "Alex Lomax",
+     "Pavel Czudek"
+    ],
+    "min": 15.9,
+    "pf": 44,
+    "pa": 37,
+    "pm": 7,
+    "poss": 34.7,
+    "pF": 36.7,
+    "pA": 32.7,
+    "ortg": 119.8,
+    "drtg": 113.1,
+    "net": 6.7,
+    "efg": 58.1,
+    "oefg": 63.0
    },
    {
     "players": [
@@ -5399,6 +5596,24 @@
    },
    {
     "players": [
+     "Alex Lomax",
+     "David Motyčka"
+    ],
+    "min": 15.3,
+    "pf": 31,
+    "pa": 29,
+    "pm": 2,
+    "poss": 30.3,
+    "pF": 29.1,
+    "pA": 31.5,
+    "ortg": 106.6,
+    "drtg": 92.0,
+    "net": 14.6,
+    "efg": 44.6,
+    "oefg": 44.6
+   },
+   {
+    "players": [
      "Richard Novák",
      "Tomáš Hutyra"
     ],
@@ -5414,24 +5629,6 @@
     "net": -10.6,
     "efg": 56.5,
     "oefg": 55.8
-   },
-   {
-    "players": [
-     "Oleksandr Belikov",
-     "Pavel Czudek"
-    ],
-    "min": 14.1,
-    "pf": 29,
-    "pa": 33,
-    "pm": -4,
-    "poss": 32.2,
-    "pF": 30.5,
-    "pA": 34.0,
-    "ortg": 95.0,
-    "drtg": 97.2,
-    "net": -2.2,
-    "efg": 52.1,
-    "oefg": 50.0
    },
    {
     "players": [
@@ -5453,21 +5650,21 @@
    },
    {
     "players": [
-     "Alex Lomax",
-     "David Motyčka"
+     "David Motyčka",
+     "Oleksandr Belikov"
     ],
-    "min": 13.6,
-    "pf": 26,
-    "pa": 25,
-    "pm": 1,
-    "poss": 27.9,
-    "pF": 26.2,
-    "pA": 29.5,
-    "ortg": 99.2,
-    "drtg": 84.7,
-    "net": 14.5,
-    "efg": 42.3,
-    "oefg": 42.0
+    "min": 13.3,
+    "pf": 23,
+    "pa": 43,
+    "pm": -20,
+    "poss": 27.5,
+    "pF": 25.0,
+    "pA": 30.0,
+    "ortg": 92.1,
+    "drtg": 143.1,
+    "net": -51.0,
+    "efg": 44.7,
+    "oefg": 61.5
    },
    {
     "players": [
@@ -5504,24 +5701,6 @@
     "net": -26.1,
     "efg": 52.3,
     "oefg": 65.9
-   },
-   {
-    "players": [
-     "Alex Lomax",
-     "Pavel Czudek"
-    ],
-    "min": 12.4,
-    "pf": 35,
-    "pa": 31,
-    "pm": 4,
-    "poss": 28.8,
-    "pF": 29.7,
-    "pA": 27.8,
-    "ortg": 117.8,
-    "drtg": 111.4,
-    "net": 6.4,
-    "efg": 61.4,
-    "oefg": 69.4
    },
    {
     "players": [
@@ -5576,24 +5755,6 @@
     "net": 33.8,
     "efg": 59.1,
     "oefg": 47.6
-   },
-   {
-    "players": [
-     "David Motyčka",
-     "Oleksandr Belikov"
-    ],
-    "min": 10.9,
-    "pf": 23,
-    "pa": 33,
-    "pm": -10,
-    "poss": 23.4,
-    "pF": 22.0,
-    "pA": 24.8,
-    "ortg": 104.7,
-    "drtg": 132.9,
-    "net": -28.1,
-    "efg": 47.2,
-    "oefg": 56.2
    },
    {
     "players": [
@@ -6031,16 +6192,16 @@
  },
  "assistPairs": [
   {
-   "passer": "Alex Lomax",
+   "passer": "Adam Číž",
    "scorer": "Lukáš Palyza",
    "ast": 14,
    "pts": 39
   },
   {
-   "passer": "Adam Číž",
+   "passer": "Alex Lomax",
    "scorer": "Lukáš Palyza",
-   "ast": 12,
-   "pts": 33
+   "ast": 14,
+   "pts": 39
   },
   {
    "passer": "Adam Číž",
@@ -6067,22 +6228,34 @@
    "pts": 25
   },
   {
+   "passer": "Dominik Heinzl",
+   "scorer": "Michal Svoboda",
+   "ast": 8,
+   "pts": 21
+  },
+  {
+   "passer": "Michal Svoboda",
+   "scorer": "Lukáš Palyza",
+   "ast": 8,
+   "pts": 18
+  },
+  {
+   "passer": "Alex Lomax",
+   "scorer": "Michal Svoboda",
+   "ast": 7,
+   "pts": 20
+  },
+  {
    "passer": "Alex Lomax",
    "scorer": "Andre Screen",
    "ast": 7,
    "pts": 12
   },
   {
-   "passer": "Alex Lomax",
+   "passer": "Lukáš Palyza",
    "scorer": "Michal Svoboda",
    "ast": 6,
-   "pts": 17
-  },
-  {
-   "passer": "Dominik Heinzl",
-   "scorer": "Michal Svoboda",
-   "ast": 6,
-   "pts": 15
+   "pts": 18
   },
   {
    "passer": "Adam Číž",
@@ -6109,19 +6282,13 @@
    "pts": 10
   },
   {
+   "passer": "Adam Číž",
+   "scorer": "Dominik Heinzl",
+   "ast": 5,
+   "pts": 9
+  },
+  {
    "passer": "Erik Howlin",
-   "scorer": "Lukáš Palyza",
-   "ast": 4,
-   "pts": 12
-  },
-  {
-   "passer": "Lukáš Palyza",
-   "scorer": "Michal Svoboda",
-   "ast": 4,
-   "pts": 12
-  },
-  {
-   "passer": "Michal Svoboda",
    "scorer": "Lukáš Palyza",
    "ast": 4,
    "pts": 12
@@ -6151,6 +6318,12 @@
    "pts": 9
   },
   {
+   "passer": "Erik Howlin",
+   "scorer": "Michal Svoboda",
+   "ast": 3,
+   "pts": 9
+  },
+  {
    "passer": "Lukáš Palyza",
    "scorer": "Erik Howlin",
    "ast": 3,
@@ -6163,21 +6336,9 @@
    "pts": 6
   },
   {
-   "passer": "Adam Číž",
+   "passer": "Michal Svoboda",
    "scorer": "Dominik Heinzl",
    "ast": 3,
-   "pts": 5
-  },
-  {
-   "passer": "Andre Screen",
-   "scorer": "Oleksandr Belikov",
-   "ast": 3,
-   "pts": 5
-  },
-  {
-   "passer": "Erik Howlin",
-   "scorer": "Adam Číž",
-   "ast": 2,
    "pts": 6
   }
  ],
@@ -7403,6 +7564,108 @@
     "last5": [
      24,
      16
+    ]
+   }
+  },
+  {
+   "fibaId": 2947653,
+   "nblId": 544628,
+   "date": "2026-11-21",
+   "round": "14. kolo",
+   "venue": "home",
+   "opponent": "BK Olomoucko",
+   "opponentSlug": "olomoucko",
+   "opponentLabel": "Olomoucko",
+   "score": [
+    100,
+    78
+   ],
+   "result": "W",
+   "ot": false,
+   "ortg": 136.2,
+   "drtg": 109.6,
+   "net": 26.6,
+   "pace": 72.3,
+   "efg": 63.5,
+   "tov": 8.6,
+   "orb": 26.7,
+   "ftr": 31.7,
+   "topScorer": "Michal Svoboda",
+   "oppEfg": 56.8,
+   "oppOrb": 16.7,
+   "tp": [
+    12,
+    26
+   ],
+   "ft": [
+    20,
+    26
+   ],
+   "second": [
+    10,
+    6
+   ],
+   "bench": [
+    24,
+    22
+   ],
+   "paint": [
+    36,
+    30
+   ],
+   "leading": [
+    17.1,
+    21.6
+   ],
+   "leadChanges": 3,
+   "maxLead": [
+    22,
+    15
+   ],
+   "maxRun": [
+    19,
+    7
+   ],
+   "astFg": [
+    [
+     22,
+     34
+    ],
+    [
+     15,
+     29
+    ]
+   ],
+   "quarters": [
+    [
+     19,
+     30
+    ],
+    [
+     28,
+     19
+    ],
+    [
+     24,
+     19
+    ],
+    [
+     29,
+     10
+    ]
+   ],
+   "segments": {
+    "first3": [
+     24,
+     31
+    ],
+    "last3": [
+     36,
+     21
+    ],
+    "last5": [
+     15,
+     0
     ]
    }
   }
@@ -13030,6 +13293,447 @@
     1,
     1,
     6
+   ],
+   [
+    13.0,
+    53.8,
+    0,
+    0,
+    4
+   ],
+   [
+    21.2,
+    7.5,
+    1,
+    1,
+    2
+   ],
+   [
+    11.1,
+    41.9,
+    1,
+    0,
+    2
+   ],
+   [
+    7.7,
+    43.1,
+    1,
+    0,
+    5
+   ],
+   [
+    10.6,
+    60.6,
+    0,
+    0,
+    7
+   ],
+   [
+    31.1,
+    81.4,
+    0,
+    1,
+    2
+   ],
+   [
+    14.1,
+    54.1,
+    0,
+    0,
+    2
+   ],
+   [
+    17.5,
+    40.8,
+    0,
+    0,
+    7
+   ],
+   [
+    42.8,
+    72.1,
+    0,
+    1,
+    3
+   ],
+   [
+    27.5,
+    84.0,
+    1,
+    1,
+    2
+   ],
+   [
+    21.7,
+    95.0,
+    0,
+    1,
+    2
+   ],
+   [
+    9.4,
+    41.4,
+    1,
+    0,
+    0
+   ],
+   [
+    29.5,
+    16.5,
+    1,
+    1,
+    6
+   ],
+   [
+    5.3,
+    51.8,
+    0,
+    0,
+    7
+   ],
+   [
+    9.1,
+    47.6,
+    1,
+    0,
+    10
+   ],
+   [
+    11.3,
+    58.6,
+    0,
+    0,
+    0
+   ],
+   [
+    12.7,
+    47.6,
+    1,
+    0,
+    10
+   ],
+   [
+    25.6,
+    89.6,
+    0,
+    1,
+    8
+   ],
+   [
+    6.3,
+    41.4,
+    0,
+    0,
+    5
+   ],
+   [
+    10.0,
+    58.3,
+    1,
+    0,
+    3
+   ],
+   [
+    10.2,
+    42.5,
+    1,
+    0,
+    3
+   ],
+   [
+    19.4,
+    59.2,
+    0,
+    0,
+    4
+   ],
+   [
+    8.4,
+    49.3,
+    1,
+    0,
+    4
+   ],
+   [
+    24.3,
+    7.8,
+    1,
+    1,
+    2
+   ],
+   [
+    28.2,
+    13.2,
+    0,
+    1,
+    2
+   ],
+   [
+    31.2,
+    68.8,
+    0,
+    1,
+    4
+   ],
+   [
+    9.4,
+    63.7,
+    0,
+    0,
+    3
+   ],
+   [
+    11.7,
+    49.3,
+    0,
+    0,
+    7
+   ],
+   [
+    31.2,
+    24.4,
+    1,
+    1,
+    2
+   ],
+   [
+    29.3,
+    19.4,
+    1,
+    1,
+    4
+   ],
+   [
+    31.1,
+    19.1,
+    1,
+    1,
+    4
+   ],
+   [
+    15.2,
+    56.6,
+    0,
+    0,
+    6
+   ],
+   [
+    12.2,
+    71.3,
+    0,
+    0,
+    7
+   ],
+   [
+    28.4,
+    72.5,
+    1,
+    1,
+    4
+   ],
+   [
+    9.5,
+    59.5,
+    1,
+    0,
+    3
+   ],
+   [
+    10.6,
+    55.5,
+    1,
+    0,
+    6
+   ],
+   [
+    22.5,
+    6.4,
+    0,
+    1,
+    2
+   ],
+   [
+    12.5,
+    60.3,
+    1,
+    0,
+    6
+   ],
+   [
+    11.7,
+    59.2,
+    1,
+    0,
+    3
+   ],
+   [
+    8.6,
+    2.2,
+    0,
+    1,
+    3
+   ],
+   [
+    7.5,
+    54.1,
+    1,
+    0,
+    7
+   ],
+   [
+    33.2,
+    76.4,
+    0,
+    1,
+    9
+   ],
+   [
+    37.5,
+    59.2,
+    1,
+    1,
+    2
+   ],
+   [
+    12.7,
+    47.3,
+    1,
+    0,
+    7
+   ],
+   [
+    33.5,
+    26.7,
+    0,
+    1,
+    6
+   ],
+   [
+    10.0,
+    59.5,
+    0,
+    0,
+    6
+   ],
+   [
+    22.3,
+    90.8,
+    0,
+    1,
+    5
+   ],
+   [
+    20.5,
+    66.5,
+    1,
+    0,
+    6
+   ],
+   [
+    24.2,
+    51.3,
+    1,
+    0,
+    7
+   ],
+   [
+    24.5,
+    53.0,
+    1,
+    0,
+    7
+   ],
+   [
+    21.2,
+    74.2,
+    0,
+    0,
+    4
+   ],
+   [
+    15.6,
+    60.9,
+    1,
+    0,
+    3
+   ],
+   [
+    9.9,
+    45.7,
+    1,
+    0,
+    3
+   ],
+   [
+    13.9,
+    84.9,
+    1,
+    0,
+    8
+   ],
+   [
+    29.5,
+    80.1,
+    1,
+    1,
+    2
+   ],
+   [
+    18.6,
+    74.4,
+    0,
+    0,
+    4
+   ],
+   [
+    28.6,
+    80.6,
+    1,
+    1,
+    2
+   ],
+   [
+    16.9,
+    61.2,
+    1,
+    0,
+    3
+   ],
+   [
+    31.2,
+    21.9,
+    0,
+    1,
+    2
+   ],
+   [
+    26.4,
+    12.4,
+    0,
+    1,
+    2
+   ],
+   [
+    31.4,
+    19.7,
+    0,
+    1,
+    2
+   ],
+   [
+    11.1,
+    49.9,
+    1,
+    0,
+    3
+   ],
+   [
+    25.1,
+    88.0,
+    1,
+    1,
+    10
    ]
   ]
  },
@@ -13037,13 +13741,13 @@
   {
    "name": "Lukáš Palyza",
    "bands": [
-    28,
-    34,
+    33,
+    37,
     41,
-    40,
-    47
+    45,
+    52
    ],
-   "pts": 191
+   "pts": 209
   },
   {
    "name": "Andre Screen",
@@ -13059,79 +13763,90 @@
   {
    "name": "Michal Svoboda",
    "bands": [
+    23,
     20,
-    18,
-    45,
-    35,
-    26
+    54,
+    38,
+    34
    ],
-   "pts": 145
+   "pts": 170
+  },
+  {
+   "name": "Alex Lomax",
+   "bands": [
+    32,
+    28,
+    20,
+    24,
+    12
+   ],
+   "pts": 116
   },
   {
    "name": "Erik Howlin",
    "bands": [
     21,
+    21,
     19,
-    19,
-    19,
+    21,
     28
    ],
-   "pts": 108
-  },
-  {
-   "name": "Alex Lomax",
-   "bands": [
-    28,
-    22,
-    17,
-    20,
-    8
-   ],
-   "pts": 95
+   "pts": 112
   },
   {
    "name": "Oleksandr Belikov",
    "bands": [
     24,
-    21,
+    23,
     17,
     9,
     18
    ],
-   "pts": 90
+   "pts": 92
   },
   {
    "name": "Adam Číž",
    "bands": [
     9,
     16,
-    22,
-    6,
-    18
+    30,
+    10,
+    19
    ],
-   "pts": 73
+   "pts": 86
   },
   {
    "name": "Pavel Czudek",
    "bands": [
-    11,
+    13,
     8,
-    4,
-    3,
+    7,
+    5,
     5
    ],
-   "pts": 31
+   "pts": 38
   },
   {
    "name": "Dominik Heinzl",
    "bands": [
     2,
     2,
-    6,
-    11,
-    2
+    8,
+    13,
+    6
    ],
-   "pts": 23
+   "pts": 31
+  },
+  {
+   "name": "Adam Ivánek",
+   "bands": [
+    4,
+    0,
+    2,
+    10,
+    3
+   ],
+   "pts": 19
   },
   {
    "name": "Štěpán Lička",
@@ -13143,17 +13858,6 @@
     6
    ],
    "pts": 19
-  },
-  {
-   "name": "Adam Ivánek",
-   "bands": [
-    4,
-    0,
-    2,
-    8,
-    3
-   ],
-   "pts": 17
   },
   {
    "name": "David Motyčka",
@@ -13235,44 +13939,44 @@
  ],
  "segments": {
   "first3": [
-   266,
-   275
+   290,
+   306
   ],
   "last3": [
-   346,
-   310
+   382,
+   331
   ],
   "last5": [
-   146,
+   161,
    127
   ]
  },
  "ranks": {
-  "ppg": 5,
-  "oppg": 2,
-  "diff": 5,
+  "ppg": 4,
+  "oppg": 1,
+  "diff": 4,
   "ortg": 4,
   "drtg": 7,
   "net": 5,
   "pace": 11,
-  "efg": 5,
-  "ts": 6,
-  "tov": 6,
-  "orb": 4,
-  "drb": 4,
+  "efg": 4,
+  "ts": 4,
+  "tov": 5,
+  "orb": 5,
+  "drb": 2,
   "ftr": 5,
   "three_par": 7,
-  "three": 4,
+  "three": 3,
   "two": 8,
-  "ft": 7,
-  "ast_pct": 8,
-  "ast_to": 7,
+  "ft": 5,
+  "ast_pct": 9,
+  "ast_to": 6,
   "stl_pct": 7,
   "blk_pct": 4,
   "opp_efg": 7,
   "opp_tov": 11,
   "opp_ftr": 1,
-  "opp_three": 1,
+  "opp_three": 2,
   "of": 12
  },
  "standing": {
@@ -13281,21 +13985,21 @@
   "name": "NH Ostrava",
   "label": "Ostrava",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/70099a97f1dfb8b8103b6e98c427543cS1.png",
-  "gp": 12,
-  "w": 8,
+  "gp": 13,
+  "w": 9,
   "l": 4,
-  "pct": 0.667,
-  "pf": 1026,
-  "pa": 960,
-  "diff": 66,
-  "ppg": 85.5,
-  "oppg": 80.0,
-  "home": "6-1",
+  "pct": 0.692,
+  "pf": 1126,
+  "pa": 1038,
+  "diff": 88,
+  "ppg": 86.6,
+  "oppg": 79.8,
+  "home": "7-1",
   "away": "2-3",
   "close": "0-2",
   "ot": 0,
-  "streak": "W2",
-  "last5": "WWLWW"
+  "streak": "W3",
+  "last5": "WLWWW"
  },
  "players": [
   {
@@ -13776,108 +14480,108 @@
    "teamLabel": "Ostrava",
    "shirt": "23",
    "pos": "",
-   "gp": 11,
-   "gs": 11,
-   "min": 327.4,
+   "gp": 12,
+   "gs": 12,
+   "min": 360.2,
    "totals": {
-    "pts": 191,
-    "fgm": 59,
-    "fga": 117,
-    "tpm": 43,
-    "tpa": 76,
-    "twopm": 16,
-    "twopa": 41,
-    "ftm": 30,
-    "fta": 39,
-    "oreb": 8,
-    "dreb": 46,
-    "reb": 54,
-    "ast": 21,
-    "to": 18,
-    "stl": 5,
+    "pts": 209,
+    "fgm": 63,
+    "fga": 126,
+    "tpm": 46,
+    "tpa": 80,
+    "twopm": 17,
+    "twopa": 46,
+    "ftm": 37,
+    "fta": 48,
+    "oreb": 9,
+    "dreb": 50,
+    "reb": 59,
+    "ast": 24,
+    "to": 20,
+    "stl": 6,
     "blk": 1,
     "blkr": 1,
-    "pf": 25,
-    "foulon": 38,
-    "pm": 81,
-    "paint": 20,
-    "fast": 21,
-    "second": 44
+    "pf": 27,
+    "foulon": 42,
+    "pm": 104,
+    "paint": 22,
+    "fast": 26,
+    "second": 49
    },
    "perGame": {
     "pts": 17.4,
-    "fgm": 5.4,
-    "fga": 10.6,
-    "tpm": 3.9,
-    "tpa": 6.9,
-    "twopm": 1.5,
-    "twopa": 3.7,
-    "ftm": 2.7,
-    "fta": 3.5,
-    "oreb": 0.7,
+    "fgm": 5.2,
+    "fga": 10.5,
+    "tpm": 3.8,
+    "tpa": 6.7,
+    "twopm": 1.4,
+    "twopa": 3.8,
+    "ftm": 3.1,
+    "fta": 4.0,
+    "oreb": 0.8,
     "dreb": 4.2,
     "reb": 4.9,
-    "ast": 1.9,
-    "to": 1.6,
+    "ast": 2.0,
+    "to": 1.7,
     "stl": 0.5,
     "blk": 0.1,
     "blkr": 0.1,
-    "pf": 2.3,
+    "pf": 2.2,
     "foulon": 3.5,
-    "pm": 7.4,
+    "pm": 8.7,
     "paint": 1.8,
-    "fast": 1.9,
-    "second": 4.0,
-    "min": 29.8,
-    "eff": 17.0,
-    "gmsc": 12.8
+    "fast": 2.2,
+    "second": 4.1,
+    "min": 30.0,
+    "eff": 17.1,
+    "gmsc": 13.0
    },
    "per40": {
-    "pts": 23.3,
+    "pts": 23.2,
     "reb": 6.6,
-    "ast": 2.6,
-    "stl": 0.6,
+    "ast": 2.7,
+    "stl": 0.7,
     "blk": 0.1,
     "to": 2.2
    },
-   "ts": 71.2,
-   "efg": 68.8,
-   "fg": 50.4,
-   "two": 39.0,
-   "three": 56.6,
-   "ft": 76.9,
-   "usg": 20.1,
-   "astTo": 1.17,
-   "pm": 81,
-   "pm40": 9.9,
+   "ts": 71.0,
+   "efg": 68.3,
+   "fg": 50.0,
+   "two": 37.0,
+   "three": 57.5,
+   "ft": 77.1,
+   "usg": 20.3,
+   "astTo": 1.2,
+   "pm": 104,
+   "pm40": 11.5,
    "on": {
-    "min": 327.4,
-    "pf": 728,
-    "pa": 650,
-    "ortg": 112.0,
-    "drtg": 102.1,
-    "net": 9.9
+    "min": 360.1,
+    "pf": 813,
+    "pa": 712,
+    "ortg": 114.6,
+    "drtg": 102.3,
+    "net": 12.3
    },
    "off": {
-    "min": 112.6,
-    "ortg": 103.5,
-    "drtg": 112.1,
-    "net": -8.6
+    "min": 119.9,
+    "ortg": 103.6,
+    "drtg": 113.1,
+    "net": -9.5
    },
-   "onOff": 18.5,
+   "onOff": 21.8,
    "dd": 1,
    "td": 0,
    "high": 31,
    "zones": {
     "paint": {
-     "m": 8,
-     "a": 19,
-     "pct": 42.1
+     "m": 9,
+     "a": 21,
+     "pct": 42.9
     },
     "mid": {
      "m": 8,
-     "a": 22,
-     "pct": 36.4
+     "a": 25,
+     "pct": 32.0
     },
     "corner3": {
      "m": 1,
@@ -13885,9 +14589,9 @@
      "pct": 33.3
     },
     "above3": {
-     "m": 42,
-     "a": 73,
-     "pct": 57.5
+     "m": 45,
+     "a": 77,
+     "pct": 58.4
     }
    },
    "log": [
@@ -14110,6 +14814,26 @@
      "pm": 9,
      "eff": 30,
      "ts": 79.4
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 32.8,
+     "pts": 18,
+     "reb": 5,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "4/9",
+     "tp": "3/4",
+     "ft": "7/9",
+     "pm": 23,
+     "eff": 18,
+     "ts": 69.4
     }
    ]
   },
@@ -14121,103 +14845,103 @@
    "teamLabel": "Ostrava",
    "shirt": "86",
    "pos": "",
-   "gp": 11,
-   "gs": 9,
-   "min": 327.5,
+   "gp": 12,
+   "gs": 10,
+   "min": 358.1,
    "totals": {
-    "pts": 145,
-    "fgm": 46,
-    "fga": 119,
-    "tpm": 34,
-    "tpa": 85,
-    "twopm": 12,
-    "twopa": 34,
-    "ftm": 19,
-    "fta": 24,
+    "pts": 170,
+    "fgm": 54,
+    "fga": 135,
+    "tpm": 41,
+    "tpa": 99,
+    "twopm": 13,
+    "twopa": 36,
+    "ftm": 21,
+    "fta": 26,
     "oreb": 13,
-    "dreb": 37,
-    "reb": 50,
-    "ast": 26,
-    "to": 19,
+    "dreb": 40,
+    "reb": 53,
+    "ast": 32,
+    "to": 20,
     "stl": 9,
     "blk": 4,
     "blkr": 3,
-    "pf": 28,
-    "foulon": 22,
-    "pm": 50,
-    "paint": 22,
+    "pf": 29,
+    "foulon": 23,
+    "pm": 73,
+    "paint": 24,
     "fast": 13,
-    "second": 22
+    "second": 25
    },
    "perGame": {
-    "pts": 13.2,
-    "fgm": 4.2,
-    "fga": 10.8,
-    "tpm": 3.1,
-    "tpa": 7.7,
+    "pts": 14.2,
+    "fgm": 4.5,
+    "fga": 11.2,
+    "tpm": 3.4,
+    "tpa": 8.2,
     "twopm": 1.1,
-    "twopa": 3.1,
-    "ftm": 1.7,
+    "twopa": 3.0,
+    "ftm": 1.8,
     "fta": 2.2,
-    "oreb": 1.2,
-    "dreb": 3.4,
-    "reb": 4.5,
-    "ast": 2.4,
+    "oreb": 1.1,
+    "dreb": 3.3,
+    "reb": 4.4,
+    "ast": 2.7,
     "to": 1.7,
     "stl": 0.8,
-    "blk": 0.4,
-    "blkr": 0.3,
-    "pf": 2.5,
-    "foulon": 2.0,
-    "pm": 4.5,
+    "blk": 0.3,
+    "blkr": 0.2,
+    "pf": 2.4,
+    "foulon": 1.9,
+    "pm": 6.1,
     "paint": 2.0,
-    "fast": 1.2,
-    "second": 2.0,
+    "fast": 1.1,
+    "second": 2.1,
     "min": 29.8,
-    "eff": 12.5,
-    "gmsc": 8.9
+    "eff": 13.5,
+    "gmsc": 9.9
    },
    "per40": {
-    "pts": 17.7,
-    "reb": 6.1,
-    "ast": 3.2,
-    "stl": 1.1,
-    "blk": 0.5,
-    "to": 2.3
+    "pts": 19.0,
+    "reb": 5.9,
+    "ast": 3.6,
+    "stl": 1.0,
+    "blk": 0.4,
+    "to": 2.2
    },
-   "ts": 56.0,
-   "efg": 52.9,
-   "fg": 38.7,
-   "two": 35.3,
-   "three": 40.0,
-   "ft": 79.2,
-   "usg": 19.7,
-   "astTo": 1.37,
-   "pm": 50,
-   "pm40": 6.1,
+   "ts": 58.0,
+   "efg": 55.2,
+   "fg": 40.0,
+   "two": 36.1,
+   "three": 41.4,
+   "ft": 80.8,
+   "usg": 20.3,
+   "astTo": 1.6,
+   "pm": 73,
+   "pm40": 8.2,
    "on": {
-    "min": 327.5,
-    "pf": 704,
-    "pa": 654,
-    "ortg": 109.2,
+    "min": 358.1,
+    "pf": 783,
+    "pa": 710,
+    "ortg": 112.0,
     "drtg": 103.2,
-    "net": 6.0
+    "net": 8.8
    },
    "off": {
-    "min": 112.5,
-    "ortg": 112.0,
-    "drtg": 108.8,
-    "net": 3.3
+    "min": 122.0,
+    "ortg": 111.8,
+    "drtg": 110.1,
+    "net": 1.7
    },
-   "onOff": 2.7,
+   "onOff": 7.1,
    "dd": 0,
    "td": 0,
    "high": 25,
    "zones": {
     "paint": {
-     "m": 10,
-     "a": 29,
-     "pct": 34.5
+     "m": 11,
+     "a": 31,
+     "pct": 35.5
     },
     "mid": {
      "m": 2,
@@ -14230,9 +14954,9 @@
      "pct": 12.5
     },
     "above3": {
-     "m": 33,
-     "a": 77,
-     "pct": 42.9
+     "m": 40,
+     "a": 91,
+     "pct": 44.0
     }
    },
    "log": [
@@ -14455,151 +15179,26 @@
      "pm": 7,
      "eff": 21,
      "ts": 74.1
-    }
-   ]
-  },
-  {
-   "id": "ostrava/marko-duspara",
-   "name": "Marko Duspara",
-   "team": "ostrava",
-   "teamName": "MS Academy Ostrava",
-   "teamLabel": "Ostrava",
-   "shirt": "20",
-   "pos": "",
-   "gp": 1,
-   "gs": 1,
-   "min": 28.8,
-   "totals": {
-    "pts": 11,
-    "fgm": 4,
-    "fga": 11,
-    "tpm": 0,
-    "tpa": 5,
-    "twopm": 4,
-    "twopa": 6,
-    "ftm": 3,
-    "fta": 4,
-    "oreb": 1,
-    "dreb": 4,
-    "reb": 5,
-    "ast": 0,
-    "to": 2,
-    "stl": 2,
-    "blk": 0,
-    "blkr": 0,
-    "pf": 1,
-    "foulon": 3,
-    "pm": 4,
-    "paint": 8,
-    "fast": 0,
-    "second": 1
-   },
-   "perGame": {
-    "pts": 11.0,
-    "fgm": 4.0,
-    "fga": 11.0,
-    "tpm": 0.0,
-    "tpa": 5.0,
-    "twopm": 4.0,
-    "twopa": 6.0,
-    "ftm": 3.0,
-    "fta": 4.0,
-    "oreb": 1.0,
-    "dreb": 4.0,
-    "reb": 5.0,
-    "ast": 0.0,
-    "to": 2.0,
-    "stl": 2.0,
-    "blk": 0.0,
-    "blkr": 0.0,
-    "pf": 1.0,
-    "foulon": 3.0,
-    "pm": 4.0,
-    "paint": 8.0,
-    "fast": 0.0,
-    "second": 1.0,
-    "min": 28.8,
-    "eff": 8.0,
-    "gmsc": 6.0
-   },
-   "per40": {
-    "pts": 15.3,
-    "reb": 6.9,
-    "ast": 0.0,
-    "stl": 2.8,
-    "blk": 0.0,
-    "to": 2.8
-   },
-   "ts": 43.1,
-   "efg": 36.4,
-   "fg": 36.4,
-   "two": 66.7,
-   "three": 0.0,
-   "ft": 75.0,
-   "usg": 22.5,
-   "astTo": 0.0,
-   "pm": 4,
-   "pm40": 5.6,
-   "on": {
-    "min": 28.8,
-    "pf": 52,
-    "pa": 48,
-    "ortg": 88.6,
-    "drtg": 85.8,
-    "net": 2.8
-   },
-   "off": {
-    "min": 11.2,
-    "ortg": 126.7,
-    "drtg": 116.3,
-    "net": 10.4
-   },
-   "onOff": -7.6,
-   "dd": 0,
-   "td": 0,
-   "high": 11,
-   "zones": {
-    "paint": {
-     "m": 4,
-     "a": 6,
-     "pct": 66.7
     },
-    "mid": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    },
-    "corner3": {
-     "m": 0,
-     "a": 1,
-     "pct": 0.0
-    },
-    "above3": {
-     "m": 0,
-     "a": 4,
-     "pct": 0.0
-    }
-   },
-   "log": [
     {
-     "fibaId": 2954537,
-     "date": "2026-11-14",
-     "opponent": "Opava",
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Olomoucko",
      "venue": "home",
      "result": "W",
-     "min": 28.8,
-     "pts": 11,
-     "reb": 5,
-     "ast": 0,
-     "stl": 2,
+     "min": 30.6,
+     "pts": 25,
+     "reb": 3,
+     "ast": 6,
+     "stl": 0,
      "blk": 0,
-     "to": 2,
-     "fg": "4/11",
-     "tp": "0/5",
-     "ft": "3/4",
-     "pm": 4,
-     "eff": 8,
-     "ts": 43.1
+     "to": 1,
+     "fg": "8/16",
+     "tp": "7/14",
+     "ft": "2/2",
+     "pm": 23,
+     "eff": 25,
+     "ts": 74.1
     }
    ]
   },
@@ -14611,103 +15210,103 @@
    "teamLabel": "Ostrava",
    "shirt": "2",
    "pos": "",
-   "gp": 9,
-   "gs": 7,
-   "min": 228.2,
+   "gp": 10,
+   "gs": 8,
+   "min": 260.8,
    "totals": {
-    "pts": 95,
-    "fgm": 30,
-    "fga": 75,
+    "pts": 116,
+    "fgm": 38,
+    "fga": 86,
     "tpm": 0,
-    "tpa": 8,
-    "twopm": 30,
-    "twopa": 67,
-    "ftm": 35,
-    "fta": 44,
-    "oreb": 10,
-    "dreb": 29,
-    "reb": 39,
-    "ast": 37,
-    "to": 19,
+    "tpa": 10,
+    "twopm": 38,
+    "twopa": 76,
+    "ftm": 40,
+    "fta": 50,
+    "oreb": 11,
+    "dreb": 33,
+    "reb": 44,
+    "ast": 40,
+    "to": 20,
     "stl": 17,
     "blk": 1,
     "blkr": 1,
-    "pf": 21,
-    "foulon": 34,
-    "pm": -8,
-    "paint": 46,
-    "fast": 30,
-    "second": 10
+    "pf": 22,
+    "foulon": 39,
+    "pm": 19,
+    "paint": 62,
+    "fast": 34,
+    "second": 12
    },
    "perGame": {
-    "pts": 10.6,
-    "fgm": 3.3,
-    "fga": 8.3,
+    "pts": 11.6,
+    "fgm": 3.8,
+    "fga": 8.6,
     "tpm": 0.0,
-    "tpa": 0.9,
-    "twopm": 3.3,
-    "twopa": 7.4,
-    "ftm": 3.9,
-    "fta": 4.9,
+    "tpa": 1.0,
+    "twopm": 3.8,
+    "twopa": 7.6,
+    "ftm": 4.0,
+    "fta": 5.0,
     "oreb": 1.1,
-    "dreb": 3.2,
-    "reb": 4.3,
-    "ast": 4.1,
-    "to": 2.1,
-    "stl": 1.9,
+    "dreb": 3.3,
+    "reb": 4.4,
+    "ast": 4.0,
+    "to": 2.0,
+    "stl": 1.7,
     "blk": 0.1,
     "blkr": 0.1,
-    "pf": 2.3,
-    "foulon": 3.8,
-    "pm": -0.9,
-    "paint": 5.1,
-    "fast": 3.3,
-    "second": 1.1,
-    "min": 25.4,
-    "eff": 12.9,
-    "gmsc": 9.2
+    "pf": 2.2,
+    "foulon": 3.9,
+    "pm": 1.9,
+    "paint": 6.2,
+    "fast": 3.4,
+    "second": 1.2,
+    "min": 26.1,
+    "eff": 14.0,
+    "gmsc": 10.2
    },
    "per40": {
-    "pts": 16.7,
-    "reb": 6.8,
-    "ast": 6.5,
-    "stl": 3.0,
+    "pts": 17.8,
+    "reb": 6.7,
+    "ast": 6.1,
+    "stl": 2.6,
     "blk": 0.2,
-    "to": 3.3
+    "to": 3.1
    },
-   "ts": 50.3,
-   "efg": 40.0,
-   "fg": 40.0,
-   "two": 44.8,
+   "ts": 53.7,
+   "efg": 44.2,
+   "fg": 44.2,
+   "two": 50.0,
    "three": 0.0,
-   "ft": 79.5,
-   "usg": 21.4,
-   "astTo": 1.95,
-   "pm": -8,
-   "pm40": -1.4,
+   "ft": 80.0,
+   "usg": 21.5,
+   "astTo": 2.0,
+   "pm": 19,
+   "pm40": 2.9,
    "on": {
-    "min": 228.2,
-    "pf": 500,
-    "pa": 509,
-    "ortg": 108.1,
-    "drtg": 112.7,
-    "net": -4.6
+    "min": 260.9,
+    "pf": 586,
+    "pa": 568,
+    "ortg": 112.5,
+    "drtg": 111.9,
+    "net": 0.6
    },
    "off": {
-    "min": 131.8,
-    "ortg": 113.7,
-    "drtg": 103.4,
-    "net": 10.4
+    "min": 139.2,
+    "ortg": 112.5,
+    "drtg": 104.6,
+    "net": 7.9
    },
-   "onOff": -15.0,
+   "onOff": -7.3,
    "dd": 0,
    "td": 0,
-   "high": 17,
+   "high": 21,
    "zones": {
     "paint": {
-     "m": 25,
-     "a": 57,
-     "pct": 43.9
+     "m": 33,
+     "a": 66,
+     "pct": 50.0
     },
     "mid": {
      "m": 5,
@@ -14716,12 +15315,12 @@
     },
     "corner3": {
      "m": 0,
-     "a": 1,
+     "a": 2,
      "pct": 0.0
     },
     "above3": {
      "m": 0,
-     "a": 7,
+     "a": 8,
      "pct": 0.0
     }
    },
@@ -14905,6 +15504,171 @@
      "pm": 2,
      "eff": 17,
      "ts": 51.5
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 32.6,
+     "pts": 21,
+     "reb": 5,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "8/11",
+     "tp": "0/2",
+     "ft": "5/6",
+     "pm": 27,
+     "eff": 24,
+     "ts": 77.0
+    }
+   ]
+  },
+  {
+   "id": "ostrava/marko-duspara",
+   "name": "Marko Duspara",
+   "team": "ostrava",
+   "teamName": "MS Academy Ostrava",
+   "teamLabel": "Ostrava",
+   "shirt": "20",
+   "pos": "",
+   "gp": 1,
+   "gs": 1,
+   "min": 28.8,
+   "totals": {
+    "pts": 11,
+    "fgm": 4,
+    "fga": 11,
+    "tpm": 0,
+    "tpa": 5,
+    "twopm": 4,
+    "twopa": 6,
+    "ftm": 3,
+    "fta": 4,
+    "oreb": 1,
+    "dreb": 4,
+    "reb": 5,
+    "ast": 0,
+    "to": 2,
+    "stl": 2,
+    "blk": 0,
+    "blkr": 0,
+    "pf": 1,
+    "foulon": 3,
+    "pm": 4,
+    "paint": 8,
+    "fast": 0,
+    "second": 1
+   },
+   "perGame": {
+    "pts": 11.0,
+    "fgm": 4.0,
+    "fga": 11.0,
+    "tpm": 0.0,
+    "tpa": 5.0,
+    "twopm": 4.0,
+    "twopa": 6.0,
+    "ftm": 3.0,
+    "fta": 4.0,
+    "oreb": 1.0,
+    "dreb": 4.0,
+    "reb": 5.0,
+    "ast": 0.0,
+    "to": 2.0,
+    "stl": 2.0,
+    "blk": 0.0,
+    "blkr": 0.0,
+    "pf": 1.0,
+    "foulon": 3.0,
+    "pm": 4.0,
+    "paint": 8.0,
+    "fast": 0.0,
+    "second": 1.0,
+    "min": 28.8,
+    "eff": 8.0,
+    "gmsc": 6.0
+   },
+   "per40": {
+    "pts": 15.3,
+    "reb": 6.9,
+    "ast": 0.0,
+    "stl": 2.8,
+    "blk": 0.0,
+    "to": 2.8
+   },
+   "ts": 43.1,
+   "efg": 36.4,
+   "fg": 36.4,
+   "two": 66.7,
+   "three": 0.0,
+   "ft": 75.0,
+   "usg": 22.5,
+   "astTo": 0.0,
+   "pm": 4,
+   "pm40": 5.6,
+   "on": {
+    "min": 28.8,
+    "pf": 52,
+    "pa": 48,
+    "ortg": 88.6,
+    "drtg": 85.8,
+    "net": 2.8
+   },
+   "off": {
+    "min": 11.2,
+    "ortg": 126.7,
+    "drtg": 116.3,
+    "net": 10.4
+   },
+   "onOff": -7.6,
+   "dd": 0,
+   "td": 0,
+   "high": 11,
+   "zones": {
+    "paint": {
+     "m": 4,
+     "a": 6,
+     "pct": 66.7
+    },
+    "mid": {
+     "m": 0,
+     "a": 0,
+     "pct": null
+    },
+    "corner3": {
+     "m": 0,
+     "a": 1,
+     "pct": 0.0
+    },
+    "above3": {
+     "m": 0,
+     "a": 4,
+     "pct": 0.0
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2954537,
+     "date": "2026-11-14",
+     "opponent": "Opava",
+     "venue": "home",
+     "result": "W",
+     "min": 28.8,
+     "pts": 11,
+     "reb": 5,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "to": 2,
+     "fg": "4/11",
+     "tp": "0/5",
+     "ft": "3/4",
+     "pm": 4,
+     "eff": 8,
+     "ts": 43.1
     }
    ]
   },
@@ -14916,103 +15680,103 @@
    "teamLabel": "Ostrava",
    "shirt": "3",
    "pos": "",
-   "gp": 11,
-   "gs": 4,
-   "min": 257.0,
+   "gp": 12,
+   "gs": 5,
+   "min": 272.9,
    "totals": {
-    "pts": 108,
-    "fgm": 39,
-    "fga": 101,
+    "pts": 112,
+    "fgm": 40,
+    "fga": 104,
     "tpm": 9,
-    "tpa": 44,
-    "twopm": 30,
-    "twopa": 57,
-    "ftm": 21,
-    "fta": 32,
-    "oreb": 16,
-    "dreb": 22,
-    "reb": 38,
-    "ast": 18,
-    "to": 18,
-    "stl": 8,
-    "blk": 2,
-    "blkr": 3,
-    "pf": 31,
-    "foulon": 28,
-    "pm": -4,
-    "paint": 58,
-    "fast": 25,
+    "tpa": 45,
+    "twopm": 31,
+    "twopa": 59,
+    "ftm": 23,
+    "fta": 34,
+    "oreb": 17,
+    "dreb": 24,
+    "reb": 41,
+    "ast": 19,
+    "to": 19,
+    "stl": 9,
+    "blk": 3,
+    "blkr": 4,
+    "pf": 34,
+    "foulon": 31,
+    "pm": -12,
+    "paint": 60,
+    "fast": 27,
     "second": 16
    },
    "perGame": {
-    "pts": 9.8,
-    "fgm": 3.5,
-    "fga": 9.2,
+    "pts": 9.3,
+    "fgm": 3.3,
+    "fga": 8.7,
     "tpm": 0.8,
-    "tpa": 4.0,
-    "twopm": 2.7,
-    "twopa": 5.2,
+    "tpa": 3.8,
+    "twopm": 2.6,
+    "twopa": 4.9,
     "ftm": 1.9,
-    "fta": 2.9,
-    "oreb": 1.5,
+    "fta": 2.8,
+    "oreb": 1.4,
     "dreb": 2.0,
-    "reb": 3.5,
+    "reb": 3.4,
     "ast": 1.6,
     "to": 1.6,
-    "stl": 0.7,
+    "stl": 0.8,
     "blk": 0.2,
     "blkr": 0.3,
     "pf": 2.8,
-    "foulon": 2.5,
-    "pm": -0.4,
-    "paint": 5.3,
-    "fast": 2.3,
-    "second": 1.5,
-    "min": 23.4,
+    "foulon": 2.6,
+    "pm": -1.0,
+    "paint": 5.0,
+    "fast": 2.2,
+    "second": 1.3,
+    "min": 22.7,
     "eff": 7.5,
-    "gmsc": 5.3
+    "gmsc": 5.1
    },
    "per40": {
-    "pts": 16.8,
-    "reb": 5.9,
+    "pts": 16.4,
+    "reb": 6.0,
     "ast": 2.8,
-    "stl": 1.2,
-    "blk": 0.3,
+    "stl": 1.3,
+    "blk": 0.4,
     "to": 2.8
    },
-   "ts": 46.9,
-   "efg": 43.1,
-   "fg": 38.6,
-   "two": 52.6,
-   "three": 20.5,
-   "ft": 65.6,
-   "usg": 22.4,
+   "ts": 47.1,
+   "efg": 42.8,
+   "fg": 38.5,
+   "two": 52.5,
+   "three": 20.0,
+   "ft": 67.6,
+   "usg": 22.0,
    "astTo": 1.0,
-   "pm": -4,
-   "pm40": -0.6,
+   "pm": -12,
+   "pm40": -1.8,
    "on": {
-    "min": 256.9,
-    "pf": 533,
-    "pa": 536,
-    "ortg": 106.8,
-    "drtg": 107.5,
-    "net": -0.8
+    "min": 272.8,
+    "pf": 567,
+    "pa": 578,
+    "ortg": 107.0,
+    "drtg": 109.6,
+    "net": -2.6
    },
    "off": {
-    "min": 183.1,
-    "ortg": 114.2,
-    "drtg": 100.4,
-    "net": 13.8
+    "min": 207.2,
+    "ortg": 118.4,
+    "drtg": 98.8,
+    "net": 19.7
    },
-   "onOff": -14.6,
+   "onOff": -22.3,
    "dd": 0,
    "td": 0,
    "high": 15,
    "zones": {
     "paint": {
-     "m": 29,
-     "a": 49,
-     "pct": 59.2
+     "m": 30,
+     "a": 51,
+     "pct": 58.8
     },
     "mid": {
      "m": 1,
@@ -15026,8 +15790,8 @@
     },
     "above3": {
      "m": 9,
-     "a": 40,
-     "pct": 22.5
+     "a": 41,
+     "pct": 22.0
     }
    },
    "log": [
@@ -15250,331 +16014,26 @@
      "pm": 7,
      "eff": 8,
      "ts": 39.7
-    }
-   ]
-  },
-  {
-   "id": "ostrava/oleksandr-belikov",
-   "name": "Oleksandr Belikov",
-   "team": "ostrava",
-   "teamName": "NH Ostrava",
-   "teamLabel": "Ostrava",
-   "shirt": "31",
-   "pos": "",
-   "gp": 10,
-   "gs": 8,
-   "min": 252.4,
-   "totals": {
-    "pts": 90,
-    "fgm": 38,
-    "fga": 90,
-    "tpm": 3,
-    "tpa": 31,
-    "twopm": 35,
-    "twopa": 59,
-    "ftm": 11,
-    "fta": 24,
-    "oreb": 16,
-    "dreb": 28,
-    "reb": 44,
-    "ast": 11,
-    "to": 9,
-    "stl": 12,
-    "blk": 6,
-    "blkr": 3,
-    "pf": 27,
-    "foulon": 28,
-    "pm": 14,
-    "paint": 68,
-    "fast": 22,
-    "second": 19
-   },
-   "perGame": {
-    "pts": 9.0,
-    "fgm": 3.8,
-    "fga": 9.0,
-    "tpm": 0.3,
-    "tpa": 3.1,
-    "twopm": 3.5,
-    "twopa": 5.9,
-    "ftm": 1.1,
-    "fta": 2.4,
-    "oreb": 1.6,
-    "dreb": 2.8,
-    "reb": 4.4,
-    "ast": 1.1,
-    "to": 0.9,
-    "stl": 1.2,
-    "blk": 0.6,
-    "blkr": 0.3,
-    "pf": 2.7,
-    "foulon": 2.8,
-    "pm": 1.4,
-    "paint": 6.8,
-    "fast": 2.2,
-    "second": 1.9,
-    "min": 25.2,
-    "eff": 8.9,
-    "gmsc": 6.1
-   },
-   "per40": {
-    "pts": 14.3,
-    "reb": 7.0,
-    "ast": 1.7,
-    "stl": 1.9,
-    "blk": 1.0,
-    "to": 1.4
-   },
-   "ts": 44.7,
-   "efg": 43.9,
-   "fg": 42.2,
-   "two": 59.3,
-   "three": 9.7,
-   "ft": 45.8,
-   "usg": 18.9,
-   "astTo": 1.22,
-   "pm": 14,
-   "pm40": 2.2,
-   "on": {
-    "min": 252.4,
-    "pf": 533,
-    "pa": 519,
-    "ortg": 107.5,
-    "drtg": 104.8,
-    "net": 2.6
-   },
-   "off": {
-    "min": 147.6,
-    "ortg": 111.6,
-    "drtg": 102.7,
-    "net": 9.0
-   },
-   "onOff": -6.4,
-   "dd": 1,
-   "td": 0,
-   "high": 15,
-   "zones": {
-    "paint": {
-     "m": 34,
-     "a": 53,
-     "pct": 64.2
-    },
-    "mid": {
-     "m": 1,
-     "a": 6,
-     "pct": 16.7
-    },
-    "corner3": {
-     "m": 1,
-     "a": 7,
-     "pct": 14.3
-    },
-    "above3": {
-     "m": 2,
-     "a": 24,
-     "pct": 8.3
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2890470,
-     "date": "2026-09-19",
-     "opponent": "Opava",
-     "venue": "away",
-     "result": "W",
-     "min": 29.2,
-     "pts": 5,
-     "reb": 7,
-     "ast": 3,
-     "stl": 1,
-     "blk": 1,
-     "to": 1,
-     "fg": "2/11",
-     "tp": "0/5",
-     "ft": "1/2",
-     "pm": 0,
-     "eff": 6,
-     "ts": 21.0
     },
     {
-     "fibaId": 2890475,
-     "date": "2026-09-23",
-     "opponent": "Brno",
-     "venue": "home",
-     "result": "W",
-     "min": 29.4,
-     "pts": 5,
-     "reb": 3,
-     "ast": 2,
-     "stl": 1,
-     "blk": 0,
-     "to": 0,
-     "fg": "2/9",
-     "tp": "0/2",
-     "ft": "1/2",
-     "pm": 3,
-     "eff": 3,
-     "ts": 25.3
-    },
-    {
-     "fibaId": 2890483,
-     "date": "2026-09-27",
+     "fibaId": 2947653,
+     "date": "2026-11-21",
      "opponent": "Olomoucko",
-     "venue": "away",
-     "result": "L",
-     "min": 27.4,
-     "pts": 13,
-     "reb": 2,
-     "ast": 1,
-     "stl": 1,
-     "blk": 1,
-     "to": 0,
-     "fg": "6/10",
-     "tp": "0/3",
-     "ft": "1/2",
-     "pm": -2,
-     "eff": 13,
-     "ts": 59.7
-    },
-    {
-     "fibaId": 2892253,
-     "date": "2026-09-30",
-     "opponent": "Hradec",
      "venue": "home",
      "result": "W",
      "min": 15.9,
      "pts": 4,
-     "reb": 0,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "2/4",
-     "tp": "0/1",
-     "ft": "0/0",
-     "pm": -6,
-     "eff": 3,
-     "ts": 50.0
-    },
-    {
-     "fibaId": 2893126,
-     "date": "2026-10-03",
-     "opponent": "Pardubice",
-     "venue": "away",
-     "result": "L",
-     "min": 21.7,
-     "pts": 9,
-     "reb": 5,
-     "ast": 0,
-     "stl": 2,
-     "blk": 0,
-     "to": 1,
-     "fg": "4/9",
-     "tp": "0/3",
-     "ft": "1/3",
-     "pm": -2,
-     "eff": 8,
-     "ts": 43.6
-    },
-    {
-     "fibaId": 2910251,
-     "date": "2026-10-17",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "W",
-     "min": 26.0,
-     "pts": 10,
-     "reb": 5,
+     "reb": 3,
      "ast": 1,
      "stl": 1,
      "blk": 1,
-     "to": 0,
-     "fg": "4/6",
-     "tp": "1/2",
-     "ft": "1/2",
-     "pm": 11,
-     "eff": 15,
-     "ts": 72.7
-    },
-    {
-     "fibaId": 2922249,
-     "date": "2026-10-24",
-     "opponent": "Děčín",
-     "venue": "away",
-     "result": "L",
-     "min": 19.4,
-     "pts": 6,
-     "reb": 2,
-     "ast": 1,
-     "stl": 0,
-     "blk": 1,
-     "to": 0,
-     "fg": "2/8",
-     "tp": "0/4",
-     "ft": "2/3",
-     "pm": -12,
-     "eff": 3,
-     "ts": 32.2
-    },
-    {
-     "fibaId": 2927623,
-     "date": "2026-10-28",
-     "opponent": "Ústí",
-     "venue": "home",
-     "result": "W",
-     "min": 31.7,
-     "pts": 15,
-     "reb": 13,
-     "ast": 1,
-     "stl": 0,
-     "blk": 2,
      "to": 1,
-     "fg": "6/16",
-     "tp": "0/5",
-     "ft": "3/5",
-     "pm": 19,
-     "eff": 18,
-     "ts": 41.2
-    },
-    {
-     "fibaId": 2931565,
-     "date": "2026-10-31",
-     "opponent": "Plzeň",
-     "venue": "home",
-     "result": "W",
-     "min": 24.6,
-     "pts": 13,
-     "reb": 4,
-     "ast": 0,
-     "stl": 3,
-     "blk": 0,
-     "to": 2,
-     "fg": "6/9",
-     "tp": "0/2",
-     "ft": "1/5",
-     "pm": 14,
-     "eff": 11,
-     "ts": 58.0
-    },
-    {
-     "fibaId": 2938699,
-     "date": "2026-11-07",
-     "opponent": "USK",
-     "venue": "home",
-     "result": "L",
-     "min": 27.1,
-     "pts": 10,
-     "reb": 3,
-     "ast": 1,
-     "stl": 3,
-     "blk": 0,
-     "to": 4,
-     "fg": "4/8",
-     "tp": "2/4",
-     "ft": "0/0",
-     "pm": -11,
-     "eff": 9,
-     "ts": 62.5
+     "fg": "1/3",
+     "tp": "0/1",
+     "ft": "2/2",
+     "pm": -8,
+     "eff": 7,
+     "ts": 51.5
     }
    ]
   },
@@ -15869,6 +16328,351 @@
    ]
   },
   {
+   "id": "ostrava/oleksandr-belikov",
+   "name": "Oleksandr Belikov",
+   "team": "ostrava",
+   "teamName": "NH Ostrava",
+   "teamLabel": "Ostrava",
+   "shirt": "31",
+   "pos": "",
+   "gp": 11,
+   "gs": 8,
+   "min": 272.8,
+   "totals": {
+    "pts": 92,
+    "fgm": 39,
+    "fga": 92,
+    "tpm": 3,
+    "tpa": 31,
+    "twopm": 36,
+    "twopa": 61,
+    "ftm": 11,
+    "fta": 24,
+    "oreb": 16,
+    "dreb": 34,
+    "reb": 50,
+    "ast": 12,
+    "to": 9,
+    "stl": 13,
+    "blk": 7,
+    "blkr": 4,
+    "pf": 29,
+    "foulon": 29,
+    "pm": 26,
+    "paint": 70,
+    "fast": 24,
+    "second": 19
+   },
+   "perGame": {
+    "pts": 8.4,
+    "fgm": 3.5,
+    "fga": 8.4,
+    "tpm": 0.3,
+    "tpa": 2.8,
+    "twopm": 3.3,
+    "twopa": 5.5,
+    "ftm": 1.0,
+    "fta": 2.2,
+    "oreb": 1.5,
+    "dreb": 3.1,
+    "reb": 4.5,
+    "ast": 1.1,
+    "to": 0.8,
+    "stl": 1.2,
+    "blk": 0.6,
+    "blkr": 0.4,
+    "pf": 2.6,
+    "foulon": 2.6,
+    "pm": 2.4,
+    "paint": 6.4,
+    "fast": 2.2,
+    "second": 1.7,
+    "min": 24.8,
+    "eff": 9.0,
+    "gmsc": 5.9
+   },
+   "per40": {
+    "pts": 13.5,
+    "reb": 7.3,
+    "ast": 1.8,
+    "stl": 1.9,
+    "blk": 1.0,
+    "to": 1.3
+   },
+   "ts": 44.9,
+   "efg": 44.0,
+   "fg": 42.4,
+   "two": 59.0,
+   "three": 9.7,
+   "ft": 45.8,
+   "usg": 17.9,
+   "astTo": 1.33,
+   "pm": 26,
+   "pm40": 3.8,
+   "on": {
+    "min": 272.8,
+    "pf": 581,
+    "pa": 555,
+    "ortg": 108.8,
+    "drtg": 104.6,
+    "net": 4.2
+   },
+   "off": {
+    "min": 167.2,
+    "ortg": 115.6,
+    "drtg": 104.4,
+    "net": 11.2
+   },
+   "onOff": -7.0,
+   "dd": 1,
+   "td": 0,
+   "high": 15,
+   "zones": {
+    "paint": {
+     "m": 35,
+     "a": 55,
+     "pct": 63.6
+    },
+    "mid": {
+     "m": 1,
+     "a": 6,
+     "pct": 16.7
+    },
+    "corner3": {
+     "m": 1,
+     "a": 7,
+     "pct": 14.3
+    },
+    "above3": {
+     "m": 2,
+     "a": 24,
+     "pct": 8.3
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890470,
+     "date": "2026-09-19",
+     "opponent": "Opava",
+     "venue": "away",
+     "result": "W",
+     "min": 29.2,
+     "pts": 5,
+     "reb": 7,
+     "ast": 3,
+     "stl": 1,
+     "blk": 1,
+     "to": 1,
+     "fg": "2/11",
+     "tp": "0/5",
+     "ft": "1/2",
+     "pm": 0,
+     "eff": 6,
+     "ts": 21.0
+    },
+    {
+     "fibaId": 2890475,
+     "date": "2026-09-23",
+     "opponent": "Brno",
+     "venue": "home",
+     "result": "W",
+     "min": 29.4,
+     "pts": 5,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "2/9",
+     "tp": "0/2",
+     "ft": "1/2",
+     "pm": 3,
+     "eff": 3,
+     "ts": 25.3
+    },
+    {
+     "fibaId": 2890483,
+     "date": "2026-09-27",
+     "opponent": "Olomoucko",
+     "venue": "away",
+     "result": "L",
+     "min": 27.4,
+     "pts": 13,
+     "reb": 2,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "to": 0,
+     "fg": "6/10",
+     "tp": "0/3",
+     "ft": "1/2",
+     "pm": -2,
+     "eff": 13,
+     "ts": 59.7
+    },
+    {
+     "fibaId": 2892253,
+     "date": "2026-09-30",
+     "opponent": "Hradec",
+     "venue": "home",
+     "result": "W",
+     "min": 15.9,
+     "pts": 4,
+     "reb": 0,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "2/4",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": -6,
+     "eff": 3,
+     "ts": 50.0
+    },
+    {
+     "fibaId": 2893126,
+     "date": "2026-10-03",
+     "opponent": "Pardubice",
+     "venue": "away",
+     "result": "L",
+     "min": 21.7,
+     "pts": 9,
+     "reb": 5,
+     "ast": 0,
+     "stl": 2,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/9",
+     "tp": "0/3",
+     "ft": "1/3",
+     "pm": -2,
+     "eff": 8,
+     "ts": 43.6
+    },
+    {
+     "fibaId": 2910251,
+     "date": "2026-10-17",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "W",
+     "min": 26.0,
+     "pts": 10,
+     "reb": 5,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "to": 0,
+     "fg": "4/6",
+     "tp": "1/2",
+     "ft": "1/2",
+     "pm": 11,
+     "eff": 15,
+     "ts": 72.7
+    },
+    {
+     "fibaId": 2922249,
+     "date": "2026-10-24",
+     "opponent": "Děčín",
+     "venue": "away",
+     "result": "L",
+     "min": 19.4,
+     "pts": 6,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 1,
+     "to": 0,
+     "fg": "2/8",
+     "tp": "0/4",
+     "ft": "2/3",
+     "pm": -12,
+     "eff": 3,
+     "ts": 32.2
+    },
+    {
+     "fibaId": 2927623,
+     "date": "2026-10-28",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "W",
+     "min": 31.7,
+     "pts": 15,
+     "reb": 13,
+     "ast": 1,
+     "stl": 0,
+     "blk": 2,
+     "to": 1,
+     "fg": "6/16",
+     "tp": "0/5",
+     "ft": "3/5",
+     "pm": 19,
+     "eff": 18,
+     "ts": 41.2
+    },
+    {
+     "fibaId": 2931565,
+     "date": "2026-10-31",
+     "opponent": "Plzeň",
+     "venue": "home",
+     "result": "W",
+     "min": 24.6,
+     "pts": 13,
+     "reb": 4,
+     "ast": 0,
+     "stl": 3,
+     "blk": 0,
+     "to": 2,
+     "fg": "6/9",
+     "tp": "0/2",
+     "ft": "1/5",
+     "pm": 14,
+     "eff": 11,
+     "ts": 58.0
+    },
+    {
+     "fibaId": 2938699,
+     "date": "2026-11-07",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "L",
+     "min": 27.1,
+     "pts": 10,
+     "reb": 3,
+     "ast": 1,
+     "stl": 3,
+     "blk": 0,
+     "to": 4,
+     "fg": "4/8",
+     "tp": "2/4",
+     "ft": "0/0",
+     "pm": -11,
+     "eff": 9,
+     "ts": 62.5
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 20.4,
+     "pts": 2,
+     "reb": 6,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "to": 0,
+     "fg": "1/2",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 12,
+     "eff": 10,
+     "ts": 50.0
+    }
+   ]
+  },
+  {
    "id": "ostrava/adam-ciz",
    "name": "Adam Číž",
    "team": "ostrava",
@@ -15876,108 +16680,108 @@
    "teamLabel": "Ostrava",
    "shirt": "11",
    "pos": "",
-   "gp": 11,
+   "gp": 12,
    "gs": 3,
-   "min": 217.3,
+   "min": 237.2,
    "totals": {
-    "pts": 73,
-    "fgm": 23,
-    "fga": 53,
-    "tpm": 11,
-    "tpa": 35,
-    "twopm": 12,
-    "twopa": 18,
-    "ftm": 16,
-    "fta": 20,
+    "pts": 86,
+    "fgm": 27,
+    "fga": 60,
+    "tpm": 12,
+    "tpa": 37,
+    "twopm": 15,
+    "twopa": 23,
+    "ftm": 20,
+    "fta": 25,
     "oreb": 5,
-    "dreb": 24,
-    "reb": 29,
-    "ast": 51,
-    "to": 17,
-    "stl": 12,
+    "dreb": 25,
+    "reb": 30,
+    "ast": 55,
+    "to": 18,
+    "stl": 15,
     "blk": 2,
-    "blkr": 2,
-    "pf": 15,
-    "foulon": 24,
-    "pm": 80,
-    "paint": 22,
+    "blkr": 3,
+    "pf": 19,
+    "foulon": 29,
+    "pm": 89,
+    "paint": 26,
     "fast": 3,
     "second": 11
    },
    "perGame": {
-    "pts": 6.6,
-    "fgm": 2.1,
-    "fga": 4.8,
+    "pts": 7.2,
+    "fgm": 2.2,
+    "fga": 5.0,
     "tpm": 1.0,
-    "tpa": 3.2,
-    "twopm": 1.1,
-    "twopa": 1.6,
-    "ftm": 1.5,
-    "fta": 1.8,
-    "oreb": 0.5,
-    "dreb": 2.2,
-    "reb": 2.6,
+    "tpa": 3.1,
+    "twopm": 1.2,
+    "twopa": 1.9,
+    "ftm": 1.7,
+    "fta": 2.1,
+    "oreb": 0.4,
+    "dreb": 2.1,
+    "reb": 2.5,
     "ast": 4.6,
     "to": 1.5,
-    "stl": 1.1,
+    "stl": 1.2,
     "blk": 0.2,
     "blkr": 0.2,
-    "pf": 1.4,
-    "foulon": 2.2,
-    "pm": 7.3,
-    "paint": 2.0,
-    "fast": 0.3,
-    "second": 1.0,
+    "pf": 1.6,
+    "foulon": 2.4,
+    "pm": 7.4,
+    "paint": 2.2,
+    "fast": 0.2,
+    "second": 0.9,
     "min": 19.8,
-    "eff": 10.5,
-    "gmsc": 7.3
+    "eff": 11.0,
+    "gmsc": 7.8
    },
    "per40": {
-    "pts": 13.4,
-    "reb": 5.3,
-    "ast": 9.4,
-    "stl": 2.2,
-    "blk": 0.4,
-    "to": 3.1
+    "pts": 14.5,
+    "reb": 5.1,
+    "ast": 9.3,
+    "stl": 2.5,
+    "blk": 0.3,
+    "to": 3.0
    },
-   "ts": 59.1,
-   "efg": 53.8,
-   "fg": 43.4,
-   "two": 66.7,
-   "three": 31.4,
+   "ts": 60.6,
+   "efg": 55.0,
+   "fg": 45.0,
+   "two": 65.2,
+   "three": 32.4,
    "ft": 80.0,
-   "usg": 15.8,
-   "astTo": 3.0,
-   "pm": 80,
-   "pm40": 14.7,
+   "usg": 16.5,
+   "astTo": 3.06,
+   "pm": 89,
+   "pm40": 15.0,
    "on": {
-    "min": 217.3,
-    "pf": 480,
-    "pa": 400,
-    "ortg": 115.4,
-    "drtg": 97.8,
-    "net": 17.5
+    "min": 237.2,
+    "pf": 529,
+    "pa": 440,
+    "ortg": 116.5,
+    "drtg": 98.6,
+    "net": 17.9
    },
    "off": {
-    "min": 222.7,
-    "ortg": 104.8,
-    "drtg": 110.8,
-    "net": -6.0
+    "min": 242.8,
+    "ortg": 107.7,
+    "drtg": 111.0,
+    "net": -3.3
    },
-   "onOff": 23.5,
+   "onOff": 21.2,
    "dd": 1,
    "td": 0,
-   "high": 12,
+   "high": 13,
    "zones": {
     "paint": {
-     "m": 10,
-     "a": 15,
-     "pct": 66.7
+     "m": 12,
+     "a": 19,
+     "pct": 63.2
     },
     "mid": {
-     "m": 2,
-     "a": 3,
-     "pct": 66.7
+     "m": 3,
+     "a": 4,
+     "pct": 75.0
     },
     "corner3": {
      "m": 0,
@@ -15985,9 +16789,9 @@
      "pct": 0.0
     },
     "above3": {
-     "m": 11,
-     "a": 34,
-     "pct": 32.4
+     "m": 12,
+     "a": 36,
+     "pct": 33.3
     }
    },
    "log": [
@@ -16210,6 +17014,26 @@
      "pm": 15,
      "eff": 14,
      "ts": 138.9
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 19.9,
+     "pts": 13,
+     "reb": 1,
+     "ast": 4,
+     "stl": 3,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/7",
+     "tp": "1/2",
+     "ft": "4/5",
+     "pm": 9,
+     "eff": 16,
+     "ts": 70.7
     }
    ]
   },
@@ -16509,19 +17333,19 @@
    "team": "ostrava",
    "teamName": "NH Ostrava",
    "teamLabel": "Ostrava",
-   "shirt": "9",
+   "shirt": "1",
    "pos": "",
-   "gp": 9,
+   "gp": 10,
    "gs": 1,
-   "min": 79.0,
+   "min": 84.7,
    "totals": {
-    "pts": 31,
-    "fgm": 11,
-    "fga": 27,
-    "tpm": 2,
-    "tpa": 12,
-    "twopm": 9,
-    "twopa": 15,
+    "pts": 38,
+    "fgm": 14,
+    "fga": 30,
+    "tpm": 3,
+    "tpa": 13,
+    "twopm": 11,
+    "twopa": 17,
     "ftm": 7,
     "fta": 14,
     "oreb": 3,
@@ -16529,85 +17353,85 @@
     "reb": 14,
     "ast": 12,
     "to": 8,
-    "stl": 3,
+    "stl": 4,
     "blk": 0,
     "blkr": 2,
-    "pf": 17,
+    "pf": 18,
     "foulon": 17,
-    "pm": 17,
-    "paint": 16,
-    "fast": 11,
+    "pm": 18,
+    "paint": 20,
+    "fast": 13,
     "second": 3
    },
    "perGame": {
-    "pts": 3.4,
-    "fgm": 1.2,
+    "pts": 3.8,
+    "fgm": 1.4,
     "fga": 3.0,
-    "tpm": 0.2,
+    "tpm": 0.3,
     "tpa": 1.3,
-    "twopm": 1.0,
+    "twopm": 1.1,
     "twopa": 1.7,
-    "ftm": 0.8,
-    "fta": 1.6,
+    "ftm": 0.7,
+    "fta": 1.4,
     "oreb": 0.3,
-    "dreb": 1.2,
-    "reb": 1.6,
-    "ast": 1.3,
-    "to": 0.9,
-    "stl": 0.3,
+    "dreb": 1.1,
+    "reb": 1.4,
+    "ast": 1.2,
+    "to": 0.8,
+    "stl": 0.4,
     "blk": 0.0,
     "blkr": 0.2,
-    "pf": 1.9,
-    "foulon": 1.9,
-    "pm": 1.9,
-    "paint": 1.8,
-    "fast": 1.2,
+    "pf": 1.8,
+    "foulon": 1.7,
+    "pm": 1.8,
+    "paint": 2.0,
+    "fast": 1.3,
     "second": 0.3,
-    "min": 8.8,
-    "eff": 3.2,
-    "gmsc": 1.7
+    "min": 8.5,
+    "eff": 3.7,
+    "gmsc": 2.2
    },
    "per40": {
-    "pts": 15.7,
-    "reb": 7.1,
-    "ast": 6.1,
-    "stl": 1.5,
+    "pts": 17.9,
+    "reb": 6.6,
+    "ast": 5.7,
+    "stl": 1.9,
     "blk": 0.0,
-    "to": 4.1
+    "to": 3.8
    },
-   "ts": 46.7,
-   "efg": 44.4,
-   "fg": 40.7,
-   "two": 60.0,
-   "three": 16.7,
+   "ts": 52.5,
+   "efg": 51.7,
+   "fg": 46.7,
+   "two": 64.7,
+   "three": 23.1,
    "ft": 50.0,
-   "usg": 23.1,
+   "usg": 23.2,
    "astTo": 1.5,
-   "pm": 17,
-   "pm40": 8.6,
+   "pm": 18,
+   "pm40": 8.5,
    "on": {
-    "min": 79.0,
-    "pf": 169,
-    "pa": 152,
-    "ortg": 105.8,
-    "drtg": 99.4,
-    "net": 6.4
+    "min": 84.7,
+    "pf": 183,
+    "pa": 165,
+    "ortg": 107.1,
+    "drtg": 101.4,
+    "net": 5.8
    },
    "off": {
-    "min": 281.0,
-    "ortg": 109.5,
-    "drtg": 104.0,
-    "net": 5.4
+    "min": 315.3,
+    "ortg": 112.4,
+    "drtg": 104.3,
+    "net": 8.2
    },
-   "onOff": 1.0,
+   "onOff": -2.4,
    "dd": 0,
    "td": 0,
    "high": 20,
    "zones": {
     "paint": {
-     "m": 8,
-     "a": 13,
-     "pct": 61.5
+     "m": 10,
+     "a": 15,
+     "pct": 66.7
     },
     "mid": {
      "m": 1,
@@ -16620,9 +17444,9 @@
      "pct": null
     },
     "above3": {
-     "m": 2,
-     "a": 12,
-     "pct": 16.7
+     "m": 3,
+     "a": 13,
+     "pct": 23.1
     }
    },
    "log": [
@@ -16805,6 +17629,26 @@
      "pm": 7,
      "eff": 23,
      "ts": 47.0
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 5.7,
+     "pts": 7,
+     "reb": 0,
+     "ast": 0,
+     "stl": 1,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/3",
+     "tp": "1/1",
+     "ft": "0/0",
+     "pm": 1,
+     "eff": 8,
+     "ts": 116.7
     }
    ]
   },
@@ -16816,108 +17660,108 @@
    "teamLabel": "Ostrava",
    "shirt": "7",
    "pos": "",
-   "gp": 9,
-   "gs": 1,
-   "min": 120.7,
+   "gp": 10,
+   "gs": 2,
+   "min": 149.7,
    "totals": {
-    "pts": 23,
-    "fgm": 10,
-    "fga": 20,
+    "pts": 31,
+    "fgm": 14,
+    "fga": 29,
     "tpm": 0,
     "tpa": 0,
-    "twopm": 10,
-    "twopa": 20,
+    "twopm": 14,
+    "twopa": 29,
     "ftm": 3,
-    "fta": 9,
-    "oreb": 18,
-    "dreb": 12,
-    "reb": 30,
-    "ast": 11,
-    "to": 7,
+    "fta": 11,
+    "oreb": 21,
+    "dreb": 15,
+    "reb": 36,
+    "ast": 15,
+    "to": 8,
     "stl": 4,
     "blk": 2,
     "blkr": 5,
-    "pf": 19,
-    "foulon": 11,
-    "pm": 34,
-    "paint": 20,
+    "pf": 20,
+    "foulon": 13,
+    "pm": 54,
+    "paint": 24,
     "fast": 0,
     "second": 5
    },
    "perGame": {
-    "pts": 2.6,
-    "fgm": 1.1,
-    "fga": 2.2,
+    "pts": 3.1,
+    "fgm": 1.4,
+    "fga": 2.9,
     "tpm": 0.0,
     "tpa": 0.0,
-    "twopm": 1.1,
-    "twopa": 2.2,
+    "twopm": 1.4,
+    "twopa": 2.9,
     "ftm": 0.3,
-    "fta": 1.0,
-    "oreb": 2.0,
-    "dreb": 1.3,
-    "reb": 3.3,
-    "ast": 1.2,
+    "fta": 1.1,
+    "oreb": 2.1,
+    "dreb": 1.5,
+    "reb": 3.6,
+    "ast": 1.5,
     "to": 0.8,
     "stl": 0.4,
     "blk": 0.2,
-    "blkr": 0.6,
-    "pf": 2.1,
-    "foulon": 1.2,
-    "pm": 3.8,
-    "paint": 2.2,
+    "blkr": 0.5,
+    "pf": 2.0,
+    "foulon": 1.3,
+    "pm": 5.4,
+    "paint": 2.4,
     "fast": 0.0,
-    "second": 0.6,
-    "min": 13.4,
-    "eff": 5.2,
-    "gmsc": 2.8
+    "second": 0.5,
+    "min": 15.0,
+    "eff": 5.7,
+    "gmsc": 3.2
    },
    "per40": {
-    "pts": 7.6,
-    "reb": 9.9,
-    "ast": 3.6,
-    "stl": 1.3,
-    "blk": 0.7,
-    "to": 2.3
+    "pts": 8.3,
+    "reb": 9.6,
+    "ast": 4.0,
+    "stl": 1.1,
+    "blk": 0.5,
+    "to": 2.1
    },
-   "ts": 48.0,
-   "efg": 50.0,
-   "fg": 50.0,
-   "two": 50.0,
+   "ts": 45.8,
+   "efg": 48.3,
+   "fg": 48.3,
+   "two": 48.3,
    "three": null,
-   "ft": 33.3,
-   "usg": 11.1,
-   "astTo": 1.57,
-   "pm": 34,
-   "pm40": 11.3,
+   "ft": 27.3,
+   "usg": 12.4,
+   "astTo": 1.88,
+   "pm": 54,
+   "pm40": 14.4,
    "on": {
-    "min": 120.7,
-    "pf": 259,
-    "pa": 227,
-    "ortg": 113.4,
-    "drtg": 99.6,
-    "net": 13.8
+    "min": 149.8,
+    "pf": 337,
+    "pa": 285,
+    "ortg": 118.0,
+    "drtg": 101.0,
+    "net": 17.0
    },
    "off": {
-    "min": 239.3,
-    "ortg": 109.2,
-    "drtg": 106.1,
-    "net": 3.1
+    "min": 250.2,
+    "ortg": 110.0,
+    "drtg": 106.5,
+    "net": 3.5
    },
-   "onOff": 10.7,
+   "onOff": 13.5,
    "dd": 0,
    "td": 0,
-   "high": 6,
+   "high": 8,
    "zones": {
     "paint": {
-     "m": 10,
-     "a": 20,
-     "pct": 50.0
+     "m": 12,
+     "a": 27,
+     "pct": 44.4
     },
     "mid": {
-     "m": 0,
-     "a": 0,
-     "pct": null
+     "m": 2,
+     "a": 2,
+     "pct": 100.0
     },
     "corner3": {
      "m": 0,
@@ -17110,6 +17954,171 @@
      "pm": 19,
      "eff": 11,
      "ts": 51.0
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 29.0,
+     "pts": 8,
+     "reb": 6,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/9",
+     "tp": "0/0",
+     "ft": "0/2",
+     "pm": 20,
+     "eff": 10,
+     "ts": 40.5
+    }
+   ]
+  },
+  {
+   "id": "ostrava/daniel-kormanik",
+   "name": "Daniel Kormaník",
+   "team": "ostrava",
+   "teamName": "MS Academy Ostrava",
+   "teamLabel": "Ostrava",
+   "shirt": "8",
+   "pos": "",
+   "gp": 1,
+   "gs": 0,
+   "min": 10.4,
+   "totals": {
+    "pts": 2,
+    "fgm": 1,
+    "fga": 3,
+    "tpm": 0,
+    "tpa": 0,
+    "twopm": 1,
+    "twopa": 3,
+    "ftm": 0,
+    "fta": 0,
+    "oreb": 2,
+    "dreb": 1,
+    "reb": 3,
+    "ast": 3,
+    "to": 1,
+    "stl": 0,
+    "blk": 0,
+    "blkr": 0,
+    "pf": 0,
+    "foulon": 0,
+    "pm": -1,
+    "paint": 2,
+    "fast": 0,
+    "second": 0
+   },
+   "perGame": {
+    "pts": 2.0,
+    "fgm": 1.0,
+    "fga": 3.0,
+    "tpm": 0.0,
+    "tpa": 0.0,
+    "twopm": 1.0,
+    "twopa": 3.0,
+    "ftm": 0.0,
+    "fta": 0.0,
+    "oreb": 2.0,
+    "dreb": 1.0,
+    "reb": 3.0,
+    "ast": 3.0,
+    "to": 1.0,
+    "stl": 0.0,
+    "blk": 0.0,
+    "blkr": 0.0,
+    "pf": 0.0,
+    "foulon": 0.0,
+    "pm": -1.0,
+    "paint": 2.0,
+    "fast": 0.0,
+    "second": 0.0,
+    "min": 10.4,
+    "eff": 5.0,
+    "gmsc": 3.1
+   },
+   "per40": {
+    "pts": 7.7,
+    "reb": 11.5,
+    "ast": 11.5,
+    "stl": 0.0,
+    "blk": 0.0,
+    "to": 3.8
+   },
+   "ts": 33.3,
+   "efg": 33.3,
+   "fg": 33.3,
+   "two": 33.3,
+   "three": null,
+   "ft": null,
+   "usg": 16.9,
+   "astTo": 3.0,
+   "pm": -1,
+   "pm40": -3.8,
+   "on": {
+    "min": 10.4,
+    "pf": 20,
+    "pa": 21,
+    "ortg": 103.5,
+    "drtg": 106.9,
+    "net": -3.4
+   },
+   "off": {
+    "min": 29.6,
+    "ortg": 96.8,
+    "drtg": 89.5,
+    "net": 7.3
+   },
+   "onOff": -10.7,
+   "dd": 0,
+   "td": 0,
+   "high": 2,
+   "zones": {
+    "paint": {
+     "m": 1,
+     "a": 2,
+     "pct": 50.0
+    },
+    "mid": {
+     "m": 0,
+     "a": 1,
+     "pct": 0.0
+    },
+    "corner3": {
+     "m": 0,
+     "a": 0,
+     "pct": null
+    },
+    "above3": {
+     "m": 0,
+     "a": 0,
+     "pct": null
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2954537,
+     "date": "2026-11-14",
+     "opponent": "Opava",
+     "venue": "home",
+     "result": "W",
+     "min": 10.4,
+     "pts": 2,
+     "reb": 3,
+     "ast": 3,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "1/3",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": -1,
+     "eff": 5,
+     "ts": 33.3
     }
    ]
   },
@@ -17121,15 +18130,15 @@
    "teamLabel": "Ostrava",
    "shirt": "14",
    "pos": "",
-   "gp": 8,
+   "gp": 9,
    "gs": 0,
-   "min": 54.6,
+   "min": 58.6,
    "totals": {
     "pts": 17,
     "fgm": 6,
-    "fga": 15,
+    "fga": 16,
     "tpm": 3,
-    "tpa": 10,
+    "tpa": 11,
     "twopm": 3,
     "twopa": 5,
     "ftm": 2,
@@ -17142,74 +18151,74 @@
     "stl": 4,
     "blk": 0,
     "blkr": 0,
-    "pf": 10,
+    "pf": 13,
     "foulon": 1,
-    "pm": -6,
+    "pm": -15,
     "paint": 6,
     "fast": 2,
     "second": 3
    },
    "perGame": {
-    "pts": 2.1,
-    "fgm": 0.8,
-    "fga": 1.9,
-    "tpm": 0.4,
+    "pts": 1.9,
+    "fgm": 0.7,
+    "fga": 1.8,
+    "tpm": 0.3,
     "tpa": 1.2,
-    "twopm": 0.4,
+    "twopm": 0.3,
     "twopa": 0.6,
     "ftm": 0.2,
     "fta": 0.2,
-    "oreb": 0.4,
-    "dreb": 1.2,
-    "reb": 1.6,
+    "oreb": 0.3,
+    "dreb": 1.1,
+    "reb": 1.4,
     "ast": 0.2,
-    "to": 0.4,
-    "stl": 0.5,
+    "to": 0.3,
+    "stl": 0.4,
     "blk": 0.0,
     "blkr": 0.0,
-    "pf": 1.2,
+    "pf": 1.4,
     "foulon": 0.1,
-    "pm": -0.8,
-    "paint": 0.8,
+    "pm": -1.7,
+    "paint": 0.7,
     "fast": 0.2,
-    "second": 0.4,
-    "min": 6.8,
-    "eff": 3.0,
-    "gmsc": 1.5
+    "second": 0.3,
+    "min": 6.5,
+    "eff": 2.6,
+    "gmsc": 1.2
    },
    "per40": {
-    "pts": 12.5,
-    "reb": 9.5,
-    "ast": 1.5,
-    "stl": 2.9,
+    "pts": 11.6,
+    "reb": 8.9,
+    "ast": 1.4,
+    "stl": 2.7,
     "blk": 0.0,
-    "to": 2.2
+    "to": 2.0
    },
-   "ts": 53.5,
-   "efg": 50.0,
-   "fg": 40.0,
+   "ts": 50.4,
+   "efg": 46.9,
+   "fg": 37.5,
    "two": 60.0,
-   "three": 30.0,
+   "three": 27.3,
    "ft": 100.0,
-   "usg": 15.1,
+   "usg": 15.0,
    "astTo": 0.67,
-   "pm": -6,
-   "pm40": -4.4,
+   "pm": -15,
+   "pm40": -10.2,
    "on": {
-    "min": 54.6,
-    "pf": 115,
-    "pa": 118,
-    "ortg": 112.7,
-    "drtg": 109.3,
-    "net": 3.4
+    "min": 58.7,
+    "pf": 120,
+    "pa": 132,
+    "ortg": 111.2,
+    "drtg": 114.6,
+    "net": -3.4
    },
    "off": {
-    "min": 265.4,
-    "ortg": 109.5,
-    "drtg": 101.7,
-    "net": 7.8
+    "min": 301.3,
+    "ortg": 113.0,
+    "drtg": 101.5,
+    "net": 11.6
    },
-   "onOff": -4.4,
+   "onOff": -15.0,
    "dd": 0,
    "td": 0,
    "high": 6,
@@ -17231,8 +18240,8 @@
     },
     "above3": {
      "m": 3,
-     "a": 8,
-     "pct": 37.5
+     "a": 9,
+     "pct": 33.3
     }
    },
    "log": [
@@ -17395,151 +18404,26 @@
      "pm": -4,
      "eff": 1,
      "ts": 0.0
-    }
-   ]
-  },
-  {
-   "id": "ostrava/daniel-kormanik",
-   "name": "Daniel Kormaník",
-   "team": "ostrava",
-   "teamName": "MS Academy Ostrava",
-   "teamLabel": "Ostrava",
-   "shirt": "8",
-   "pos": "",
-   "gp": 1,
-   "gs": 0,
-   "min": 10.4,
-   "totals": {
-    "pts": 2,
-    "fgm": 1,
-    "fga": 3,
-    "tpm": 0,
-    "tpa": 0,
-    "twopm": 1,
-    "twopa": 3,
-    "ftm": 0,
-    "fta": 0,
-    "oreb": 2,
-    "dreb": 1,
-    "reb": 3,
-    "ast": 3,
-    "to": 1,
-    "stl": 0,
-    "blk": 0,
-    "blkr": 0,
-    "pf": 0,
-    "foulon": 0,
-    "pm": -1,
-    "paint": 2,
-    "fast": 0,
-    "second": 0
-   },
-   "perGame": {
-    "pts": 2.0,
-    "fgm": 1.0,
-    "fga": 3.0,
-    "tpm": 0.0,
-    "tpa": 0.0,
-    "twopm": 1.0,
-    "twopa": 3.0,
-    "ftm": 0.0,
-    "fta": 0.0,
-    "oreb": 2.0,
-    "dreb": 1.0,
-    "reb": 3.0,
-    "ast": 3.0,
-    "to": 1.0,
-    "stl": 0.0,
-    "blk": 0.0,
-    "blkr": 0.0,
-    "pf": 0.0,
-    "foulon": 0.0,
-    "pm": -1.0,
-    "paint": 2.0,
-    "fast": 0.0,
-    "second": 0.0,
-    "min": 10.4,
-    "eff": 5.0,
-    "gmsc": 3.1
-   },
-   "per40": {
-    "pts": 7.7,
-    "reb": 11.5,
-    "ast": 11.5,
-    "stl": 0.0,
-    "blk": 0.0,
-    "to": 3.8
-   },
-   "ts": 33.3,
-   "efg": 33.3,
-   "fg": 33.3,
-   "two": 33.3,
-   "three": null,
-   "ft": null,
-   "usg": 16.9,
-   "astTo": 3.0,
-   "pm": -1,
-   "pm40": -3.8,
-   "on": {
-    "min": 10.4,
-    "pf": 20,
-    "pa": 21,
-    "ortg": 103.5,
-    "drtg": 106.9,
-    "net": -3.4
-   },
-   "off": {
-    "min": 29.6,
-    "ortg": 96.8,
-    "drtg": 89.5,
-    "net": 7.3
-   },
-   "onOff": -10.7,
-   "dd": 0,
-   "td": 0,
-   "high": 2,
-   "zones": {
-    "paint": {
-     "m": 1,
-     "a": 2,
-     "pct": 50.0
     },
-    "mid": {
-     "m": 0,
-     "a": 1,
-     "pct": 0.0
-    },
-    "corner3": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    },
-    "above3": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    }
-   },
-   "log": [
     {
-     "fibaId": 2954537,
-     "date": "2026-11-14",
-     "opponent": "Opava",
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Olomoucko",
      "venue": "home",
      "result": "W",
-     "min": 10.4,
-     "pts": 2,
-     "reb": 3,
-     "ast": 3,
+     "min": 4.0,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
      "stl": 0,
      "blk": 0,
-     "to": 1,
-     "fg": "1/3",
-     "tp": "0/0",
+     "to": 0,
+     "fg": "0/1",
+     "tp": "0/1",
      "ft": "0/0",
-     "pm": -1,
-     "eff": 5,
-     "ts": 33.3
+     "pm": -9,
+     "eff": -1,
+     "ts": 0.0
     }
    ]
   },
@@ -17551,46 +18435,46 @@
    "teamLabel": "Ostrava",
    "shirt": "53",
    "pos": "",
-   "gp": 11,
+   "gp": 12,
    "gs": 2,
-   "min": 92.6,
+   "min": 101.7,
    "totals": {
-    "pts": 17,
-    "fgm": 5,
-    "fga": 20,
+    "pts": 19,
+    "fgm": 6,
+    "fga": 22,
     "tpm": 2,
-    "tpa": 13,
-    "twopm": 3,
-    "twopa": 7,
+    "tpa": 14,
+    "twopm": 4,
+    "twopa": 8,
     "ftm": 5,
     "fta": 6,
-    "oreb": 5,
+    "oreb": 6,
     "dreb": 12,
-    "reb": 17,
+    "reb": 18,
     "ast": 2,
     "to": 2,
     "stl": 0,
-    "blk": 3,
+    "blk": 4,
     "blkr": 1,
-    "pf": 15,
+    "pf": 17,
     "foulon": 7,
-    "pm": 29,
+    "pm": 41,
     "paint": 2,
     "fast": 2,
     "second": 1
    },
    "perGame": {
-    "pts": 1.5,
+    "pts": 1.6,
     "fgm": 0.5,
     "fga": 1.8,
     "tpm": 0.2,
     "tpa": 1.2,
     "twopm": 0.3,
-    "twopa": 0.6,
-    "ftm": 0.5,
+    "twopa": 0.7,
+    "ftm": 0.4,
     "fta": 0.5,
     "oreb": 0.5,
-    "dreb": 1.1,
+    "dreb": 1.0,
     "reb": 1.5,
     "ast": 0.2,
     "to": 0.2,
@@ -17599,47 +18483,47 @@
     "blkr": 0.1,
     "pf": 1.4,
     "foulon": 0.6,
-    "pm": 2.6,
+    "pm": 3.4,
     "paint": 0.2,
     "fast": 0.2,
     "second": 0.1,
-    "min": 8.4,
-    "eff": 1.9,
+    "min": 8.5,
+    "eff": 2.0,
     "gmsc": 0.7
    },
    "per40": {
-    "pts": 7.3,
-    "reb": 7.3,
-    "ast": 0.9,
+    "pts": 7.5,
+    "reb": 7.1,
+    "ast": 0.8,
     "stl": 0.0,
-    "blk": 1.3,
-    "to": 0.9
+    "blk": 1.6,
+    "to": 0.8
    },
-   "ts": 37.5,
-   "efg": 30.0,
-   "fg": 25.0,
-   "two": 42.9,
-   "three": 15.4,
+   "ts": 38.6,
+   "efg": 31.8,
+   "fg": 27.3,
+   "two": 50.0,
+   "three": 14.3,
    "ft": 83.3,
    "usg": 11.6,
    "astTo": 1.0,
-   "pm": 29,
-   "pm40": 12.5,
+   "pm": 41,
+   "pm40": 16.1,
    "on": {
-    "min": 92.8,
-    "pf": 199,
-    "pa": 167,
-    "ortg": 112.9,
-    "drtg": 99.3,
-    "net": 13.6
+    "min": 101.8,
+    "pf": 221,
+    "pa": 177,
+    "ortg": 115.9,
+    "drtg": 97.2,
+    "net": 18.7
    },
    "off": {
-    "min": 347.2,
-    "ortg": 109.1,
-    "drtg": 105.9,
-    "net": 3.2
+    "min": 378.2,
+    "ortg": 111.0,
+    "drtg": 106.9,
+    "net": 4.1
    },
-   "onOff": 10.4,
+   "onOff": 14.6,
    "dd": 0,
    "td": 0,
    "high": 5,
@@ -17650,8 +18534,8 @@
      "pct": 20.0
     },
     "mid": {
-     "m": 2,
-     "a": 2,
+     "m": 3,
+     "a": 3,
      "pct": 100.0
     },
     "corner3": {
@@ -17661,8 +18545,8 @@
     },
     "above3": {
      "m": 1,
-     "a": 8,
-     "pct": 12.5
+     "a": 9,
+     "pct": 11.1
     }
    },
    "log": [
@@ -17885,6 +18769,26 @@
      "pm": -4,
      "eff": 0,
      "ts": null
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 9.1,
+     "pts": 2,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 0,
+     "fg": "1/2",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": 12,
+     "eff": 3,
+     "ts": 50.0
     }
    ]
   },
@@ -18789,8 +19693,11 @@
    "away": "BK Olomoucko",
    "homeSlug": "ostrava",
    "awaySlug": "olomoucko",
-   "status": "scheduled",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 100,
+    "away": 78
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544628",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947653/",

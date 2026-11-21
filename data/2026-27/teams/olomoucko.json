@@ -1,216 +1,216 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-21T12:42:34+00:00",
+ "generatedAt": "2026-11-21T18:19:32+00:00",
  "slug": "olomoucko",
  "name": "BK Olomoucko",
  "label": "Olomoucko",
  "short": "Olomoucko",
  "code": "OLO",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
- "coach": "Matěj Musil",
- "games": 12,
- "minutes": 480.0,
+ "coach": "Filip Koukol",
+ "games": 13,
+ "minutes": 520.0,
  "totals": {
-  "pts": 808,
-  "fgm": 293,
-  "fga": 725,
-  "tpm": 81,
-  "tpa": 282,
-  "twopm": 212,
-  "twopa": 443,
-  "ftm": 141,
-  "fta": 233,
-  "oreb": 118,
-  "dreb": 284,
-  "reb": 402,
-  "ast": 165,
-  "to": 231,
-  "stl": 97,
-  "blk": 38,
-  "blkr": 29,
-  "pf": 273,
-  "foulon": 223,
-  "paint": 390,
-  "fast": 119,
-  "second": 91,
-  "bench": 234,
-  "offto": 158
+  "pts": 886,
+  "fgm": 322,
+  "fga": 784,
+  "tpm": 90,
+  "tpa": 306,
+  "twopm": 232,
+  "twopa": 478,
+  "ftm": 152,
+  "fta": 247,
+  "oreb": 123,
+  "dreb": 306,
+  "reb": 429,
+  "ast": 180,
+  "to": 242,
+  "stl": 102,
+  "blk": 41,
+  "blkr": 32,
+  "pf": 294,
+  "foulon": 243,
+  "paint": 420,
+  "fast": 121,
+  "second": 97,
+  "bench": 256,
+  "offto": 167
  },
  "oppTotals": {
-  "pts": 1068,
-  "fgm": 366,
-  "fga": 789,
-  "tpm": 117,
-  "tpa": 330,
-  "twopm": 249,
-  "twopa": 459,
-  "ftm": 219,
-  "fta": 302,
-  "oreb": 163,
-  "dreb": 352,
-  "reb": 515,
-  "ast": 224,
-  "to": 188,
-  "stl": 125,
-  "blk": 29,
-  "blkr": 38,
-  "pf": 225,
-  "foulon": 269,
-  "paint": 460,
-  "fast": 185,
-  "second": 148,
-  "bench": 433,
-  "offto": 269
+  "pts": 1168,
+  "fgm": 400,
+  "fga": 852,
+  "tpm": 129,
+  "tpa": 356,
+  "twopm": 271,
+  "twopa": 496,
+  "ftm": 239,
+  "fta": 328,
+  "oreb": 171,
+  "dreb": 377,
+  "reb": 548,
+  "ast": 246,
+  "to": 195,
+  "stl": 132,
+  "blk": 32,
+  "blkr": 41,
+  "pf": 245,
+  "foulon": 290,
+  "paint": 496,
+  "fast": 200,
+  "second": 158,
+  "bench": 457,
+  "offto": 280
  },
  "perGame": {
-  "pts": 67.3,
-  "fgm": 24.4,
-  "fga": 60.4,
-  "tpm": 6.8,
+  "pts": 68.2,
+  "fgm": 24.8,
+  "fga": 60.3,
+  "tpm": 6.9,
   "tpa": 23.5,
-  "twopm": 17.7,
-  "twopa": 36.9,
-  "ftm": 11.8,
-  "fta": 19.4,
-  "oreb": 9.8,
-  "dreb": 23.7,
-  "reb": 33.5,
+  "twopm": 17.8,
+  "twopa": 36.8,
+  "ftm": 11.7,
+  "fta": 19.0,
+  "oreb": 9.5,
+  "dreb": 23.5,
+  "reb": 33.0,
   "ast": 13.8,
-  "to": 19.2,
-  "stl": 8.1,
+  "to": 18.6,
+  "stl": 7.8,
   "blk": 3.2,
-  "blkr": 2.4,
-  "pf": 22.8,
-  "foulon": 18.6,
-  "paint": 32.5,
-  "fast": 9.9,
-  "second": 7.6,
-  "bench": 19.5,
-  "offto": 13.2,
-  "ppg": 67.3,
-  "oppg": 89.0,
+  "blkr": 2.5,
+  "pf": 22.6,
+  "foulon": 18.7,
+  "paint": 32.3,
+  "fast": 9.3,
+  "second": 7.5,
+  "bench": 19.7,
+  "offto": 12.8,
+  "ppg": 68.2,
+  "oppg": 89.8,
   "diff": -21.7
  },
  "oppPerGame": {
-  "pts": 89.0,
-  "fgm": 30.5,
-  "fga": 65.8,
-  "tpm": 9.8,
-  "tpa": 27.5,
+  "pts": 89.8,
+  "fgm": 30.8,
+  "fga": 65.5,
+  "tpm": 9.9,
+  "tpa": 27.4,
   "twopm": 20.8,
   "twopa": 38.2,
-  "ftm": 18.2,
+  "ftm": 18.4,
   "fta": 25.2,
-  "oreb": 13.6,
-  "dreb": 29.3,
-  "reb": 42.9,
-  "ast": 18.7,
-  "to": 15.7,
-  "stl": 10.4,
-  "blk": 2.4,
+  "oreb": 13.2,
+  "dreb": 29.0,
+  "reb": 42.2,
+  "ast": 18.9,
+  "to": 15.0,
+  "stl": 10.2,
+  "blk": 2.5,
   "blkr": 3.2,
   "pf": 18.8,
-  "foulon": 22.4,
-  "paint": 38.3,
+  "foulon": 22.3,
+  "paint": 38.2,
   "fast": 15.4,
-  "second": 12.3,
-  "bench": 36.1,
-  "offto": 22.4
+  "second": 12.2,
+  "bench": 35.2,
+  "offto": 21.5
  },
  "adv": {
-  "poss": 940.5,
-  "pace": 78.6,
-  "ortg": 85.9,
-  "drtg": 112.8,
+  "poss": 1011.7,
+  "pace": 78.2,
+  "ortg": 87.6,
+  "drtg": 114.5,
   "net": -26.9,
-  "efg": 46.0,
-  "ts": 48.8,
-  "tov": 21.8,
-  "orb": 25.1,
-  "drb": 63.5,
+  "efg": 46.8,
+  "ts": 49.6,
+  "tov": 21.3,
+  "orb": 24.6,
+  "drb": 64.2,
   "ftr": 19.4,
-  "fta_rate": 32.1,
-  "three_par": 38.9,
-  "fg": 40.4,
-  "two": 47.9,
-  "three": 28.7,
-  "ft": 60.5,
-  "ast_pct": 56.3,
-  "ast_to": 0.71,
-  "stl_pct": 10.2,
+  "fta_rate": 31.5,
+  "three_par": 39.0,
+  "fg": 41.1,
+  "two": 48.5,
+  "three": 29.4,
+  "ft": 61.5,
+  "ast_pct": 55.9,
+  "ast_to": 0.74,
+  "stl_pct": 10.0,
   "blk_pct": 8.3,
-  "pts_per_shot": 0.98
+  "pts_per_shot": 0.99
  },
  "oppAdv": {
-  "opp_efg": 53.8,
-  "opp_ts": 57.9,
-  "opp_tov": 16.9,
-  "opp_ftr": 27.8,
+  "opp_efg": 54.5,
+  "opp_ts": 58.6,
+  "opp_tov": 16.4,
+  "opp_ftr": 28.1,
   "opp_three_par": 41.8,
-  "opp_fg": 46.4,
-  "opp_two": 54.2,
-  "opp_three": 35.5,
-  "opp_ft": 72.5
+  "opp_fg": 46.9,
+  "opp_two": 54.6,
+  "opp_three": 36.2,
+  "opp_ft": 72.9
  },
  "factors": {
-  "efg": 46.0,
-  "tov": 21.8,
-  "orb": 25.1,
+  "efg": 46.8,
+  "tov": 21.3,
+  "orb": 24.6,
   "ftr": 19.4,
-  "opp_efg": 53.8,
-  "opp_tov": 16.9,
-  "drb": 63.5,
-  "opp_ftr": 27.8
+  "opp_efg": 54.5,
+  "opp_tov": 16.4,
+  "drb": 64.2,
+  "opp_ftr": 28.1
  },
  "zones": {
   "paint": {
-   "m": 197,
-   "a": 380,
-   "pct": 51.8,
-   "share": 52.4
+   "m": 212,
+   "a": 406,
+   "pct": 52.2,
+   "share": 51.8
   },
   "mid": {
-   "m": 15,
-   "a": 63,
-   "pct": 23.8,
-   "share": 8.7
+   "m": 20,
+   "a": 72,
+   "pct": 27.8,
+   "share": 9.2
   },
   "corner3": {
    "m": 16,
    "a": 54,
    "pct": 29.6,
-   "share": 7.4
+   "share": 6.9
   },
   "above3": {
-   "m": 65,
-   "a": 228,
-   "pct": 28.5,
-   "share": 31.4
+   "m": 74,
+   "a": 252,
+   "pct": 29.4,
+   "share": 32.1
   }
  },
  "oppZones": {
   "paint": {
-   "m": 234,
-   "a": 412,
-   "pct": 56.8,
+   "m": 252,
+   "a": 442,
+   "pct": 57.0,
    "share": null
   },
   "mid": {
-   "m": 15,
-   "a": 47,
-   "pct": 31.9,
+   "m": 19,
+   "a": 54,
+   "pct": 35.2,
    "share": null
   },
   "corner3": {
    "m": 34,
-   "a": 80,
-   "pct": 42.5,
+   "a": 81,
+   "pct": 42.0,
    "share": null
   },
   "above3": {
-   "m": 83,
-   "a": 250,
-   "pct": 33.2,
+   "m": 95,
+   "a": 275,
+   "pct": 34.5,
    "share": null
   }
  },
@@ -223,16 +223,16 @@
    "20+"
   ],
   "pts": [
-   133,
-   137,
-   142,
-   223,
-   171
+   139,
+   148,
+   152,
+   239,
+   205
   ],
-  "unassigned": 2,
-  "possessions": 965,
-  "ptsPerPoss": 0.84,
-  "avgSec": 14.7
+  "unassigned": 3,
+  "possessions": 1040,
+  "ptsPerPoss": 0.85,
+  "avgSec": 15.0
  },
  "clutch": {
   "pts": 17,
@@ -252,42 +252,42 @@
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 16.1,
-   "oppg": 21.0,
-   "diff": -4.9,
-   "n": 12
+   "ppg": 17.2,
+   "oppg": 20.8,
+   "diff": -3.7,
+   "n": 13
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 15.3,
-   "oppg": 23.6,
-   "diff": -8.2,
-   "n": 12
+   "ppg": 15.6,
+   "oppg": 23.9,
+   "diff": -8.3,
+   "n": 13
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 17.2,
-   "oppg": 22.2,
+   "ppg": 17.4,
+   "oppg": 22.4,
    "diff": -5.0,
-   "n": 12
+   "n": 13
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 18.7,
-   "oppg": 22.2,
-   "diff": -3.5,
-   "n": 12
+   "ppg": 18.0,
+   "oppg": 22.7,
+   "diff": -4.7,
+   "n": 13
   }
  ],
  "flow": {
-  "biggestLead": 8,
+  "biggestLead": 15,
   "biggestDeficit": 46,
   "biggestRun": 11,
   "biggestRunAllowed": 20,
-  "leadChangesPerGame": 4.8
+  "leadChangesPerGame": 4.7
  },
  "lineups": {
   "fives": [
@@ -343,19 +343,19 @@
      "Lamb Autrey",
      "Ondřej Šiška"
     ],
-    "min": 15.1,
-    "pf": 20,
+    "min": 16.4,
+    "pf": 23,
     "pa": 40,
-    "pm": -20,
-    "poss": 27.4,
-    "pF": 28.8,
-    "pA": 26.0,
-    "ortg": 69.5,
-    "drtg": 154.1,
-    "net": -84.5,
-    "efg": 43.2,
-    "oefg": 61.5,
-    "games": 3
+    "pm": -17,
+    "poss": 29.4,
+    "pF": 30.8,
+    "pA": 28.0,
+    "ortg": 74.8,
+    "drtg": 143.1,
+    "net": -68.3,
+    "efg": 44.0,
+    "oefg": 55.2,
+    "games": 4
    },
    {
     "players": [
@@ -403,6 +403,50 @@
    },
    {
     "players": [
+     "Akuel Marko Kot",
+     "Dominik Žák",
+     "Ethan Elijah Garita",
+     "Lamb Autrey",
+     "Ondřej Šiška"
+    ],
+    "min": 10.8,
+    "pf": 21,
+    "pa": 27,
+    "pm": -6,
+    "poss": 20.0,
+    "pF": 21.2,
+    "pA": 18.9,
+    "ortg": 99.1,
+    "drtg": 143.0,
+    "net": -44.0,
+    "efg": 56.2,
+    "oefg": 62.5,
+    "games": 2
+   },
+   {
+    "players": [
+     "Dominik Žák",
+     "Ethan Elijah Garita",
+     "Jakob Hanzálek",
+     "Lamb Autrey",
+     "Ondřej Šiška"
+    ],
+    "min": 10.4,
+    "pf": 19,
+    "pa": 24,
+    "pm": -5,
+    "poss": 17.4,
+    "pF": 18.0,
+    "pA": 16.9,
+    "ortg": 105.6,
+    "drtg": 142.2,
+    "net": -36.6,
+    "efg": 59.4,
+    "oefg": 76.7,
+    "games": 1
+   },
+   {
+    "players": [
      "Asa Williams",
      "Dominik Žák",
      "Ethan Elijah Garita",
@@ -447,6 +491,28 @@
    },
    {
     "players": [
+     "Dominik Žák",
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek",
+     "Lamb Autrey",
+     "Ondřej Šiška"
+    ],
+    "min": 9.0,
+    "pf": 10,
+    "pa": 26,
+    "pm": -16,
+    "poss": 16.8,
+    "pF": 16.0,
+    "pA": 17.6,
+    "ortg": 62.5,
+    "drtg": 147.4,
+    "net": -84.9,
+    "efg": 50.0,
+    "oefg": 58.3,
+    "games": 2
+   },
+   {
+    "players": [
      "Akuel Marko Kot",
      "Dominik Žák",
      "Immanuel Domonick Bates",
@@ -471,28 +537,6 @@
     "players": [
      "Dominik Žák",
      "Immanuel Domonick Bates",
-     "Jakob Hanzálek",
-     "Lamb Autrey",
-     "Ondřej Šiška"
-    ],
-    "min": 7.3,
-    "pf": 6,
-    "pa": 21,
-    "pm": -15,
-    "poss": 14.4,
-    "pF": 14.0,
-    "pA": 14.8,
-    "ortg": 42.9,
-    "drtg": 142.3,
-    "net": -99.4,
-    "efg": 42.9,
-    "oefg": 56.2,
-    "games": 1
-   },
-   {
-    "players": [
-     "Dominik Žák",
-     "Immanuel Domonick Bates",
      "Jordan Oupoh",
      "Lamb Autrey",
      "Ondřej Šiška"
@@ -510,28 +554,6 @@
     "efg": 22.7,
     "oefg": 50.0,
     "games": 2
-   },
-   {
-    "players": [
-     "Akuel Marko Kot",
-     "Dominik Žák",
-     "Ethan Elijah Garita",
-     "Lamb Autrey",
-     "Ondřej Šiška"
-    ],
-    "min": 6.5,
-    "pf": 15,
-    "pa": 14,
-    "pm": 1,
-    "poss": 13.2,
-    "pF": 14.3,
-    "pA": 12.0,
-    "ortg": 104.7,
-    "drtg": 116.7,
-    "net": -11.9,
-    "efg": 65.0,
-    "oefg": 53.8,
-    "games": 1
    },
    {
     "players": [
@@ -773,6 +795,28 @@
     "net": 18.3,
     "efg": 70.0,
     "oefg": 58.3,
+    "games": 1
+   },
+   {
+    "players": [
+     "Ethan Elijah Garita",
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek",
+     "Lamb Autrey",
+     "Ondřej Šiška"
+    ],
+    "min": 4.3,
+    "pf": 11,
+    "pa": 11,
+    "pm": 0,
+    "poss": 7.2,
+    "pF": 7.3,
+    "pA": 7.0,
+    "ortg": 150.3,
+    "drtg": 157.1,
+    "net": -6.9,
+    "efg": 75.0,
+    "oefg": 68.8,
     "games": 1
    },
    {
@@ -1085,6 +1129,28 @@
    },
    {
     "players": [
+     "Adam Goga",
+     "Dominik Žák",
+     "Ethan Elijah Garita",
+     "Jakob Hanzálek",
+     "Ondřej Šiška"
+    ],
+    "min": 3.2,
+    "pf": 11,
+    "pa": 8,
+    "pm": 3,
+    "poss": 6.5,
+    "pF": 7.2,
+    "pA": 5.9,
+    "ortg": 152.8,
+    "drtg": 136.1,
+    "net": 16.7,
+    "efg": 58.3,
+    "oefg": 70.0,
+    "games": 2
+   },
+   {
+    "players": [
      "Dominik Žák",
      "Jakob Hanzálek",
      "Jordan Oupoh",
@@ -1192,6 +1258,28 @@
     "efg": 75.0,
     "oefg": 40.0,
     "games": 2
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Dominik Žák",
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek",
+     "Lamb Autrey"
+    ],
+    "min": 3.0,
+    "pf": 7,
+    "pa": 11,
+    "pm": -4,
+    "poss": 5.9,
+    "pF": 6.0,
+    "pA": 5.9,
+    "ortg": 116.7,
+    "drtg": 187.1,
+    "net": -70.4,
+    "efg": 70.0,
+    "oefg": 90.0,
+    "games": 1
    },
    {
     "players": [
@@ -1500,46 +1588,68 @@
     "efg": 50.0,
     "oefg": 100.0,
     "games": 1
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Ethan Elijah Garita",
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek",
+     "Lamb Autrey"
+    ],
+    "min": 2.5,
+    "pf": 3,
+    "pa": 6,
+    "pm": -3,
+    "poss": 5.3,
+    "pF": 4.4,
+    "pA": 6.2,
+    "ortg": 67.6,
+    "drtg": 96.8,
+    "net": -29.2,
+    "efg": 50.0,
+    "oefg": 25.0,
+    "games": 1
    }
   ],
   "trios": [
    {
     "players": [
      "Dominik Žák",
-     "Ethan Elijah Garita",
+     "Lamb Autrey",
      "Ondřej Šiška"
     ],
-    "min": 126.6,
-    "pf": 214,
-    "pa": 319,
-    "pm": -105,
-    "poss": 250.4,
-    "pF": 250.8,
-    "pA": 250.0,
-    "ortg": 85.3,
-    "drtg": 127.6,
-    "net": -42.3,
-    "efg": 46.1,
-    "oefg": 62.8
+    "min": 144.3,
+    "pf": 252,
+    "pa": 338,
+    "pm": -86,
+    "poss": 274.9,
+    "pF": 277.0,
+    "pA": 272.8,
+    "ortg": 91.0,
+    "drtg": 123.9,
+    "net": -32.9,
+    "efg": 49.8,
+    "oefg": 58.5
    },
    {
     "players": [
      "Dominik Žák",
-     "Lamb Autrey",
+     "Ethan Elijah Garita",
      "Ondřej Šiška"
     ],
-    "min": 126.5,
-    "pf": 220,
-    "pa": 293,
-    "pm": -73,
-    "poss": 245.0,
-    "pF": 248.1,
-    "pA": 241.9,
-    "ortg": 88.7,
-    "drtg": 121.1,
-    "net": -32.5,
-    "efg": 48.9,
-    "oefg": 57.5
+    "min": 144.2,
+    "pf": 247,
+    "pa": 362,
+    "pm": -115,
+    "poss": 280.7,
+    "pF": 281.3,
+    "pA": 280.0,
+    "ortg": 87.8,
+    "drtg": 129.3,
+    "net": -41.5,
+    "efg": 47.0,
+    "oefg": 63.5
    },
    {
     "players": [
@@ -1547,18 +1657,18 @@
      "Ethan Elijah Garita",
      "Lamb Autrey"
     ],
-    "min": 123.5,
-    "pf": 208,
-    "pa": 294,
-    "pm": -86,
-    "poss": 238.7,
-    "pF": 241.3,
-    "pA": 236.2,
-    "ortg": 86.2,
-    "drtg": 124.5,
+    "min": 142.3,
+    "pf": 239,
+    "pa": 339,
+    "pm": -100,
+    "poss": 272.2,
+    "pF": 274.2,
+    "pA": 270.1,
+    "ortg": 87.2,
+    "drtg": 125.5,
     "net": -38.3,
-    "efg": 47.8,
-    "oefg": 60.6
+    "efg": 48.3,
+    "oefg": 60.5
    },
    {
     "players": [
@@ -1566,18 +1676,18 @@
      "Lamb Autrey",
      "Ondřej Šiška"
     ],
-    "min": 110.0,
-    "pf": 201,
-    "pa": 255,
-    "pm": -54,
-    "poss": 213.5,
-    "pF": 215.9,
-    "pA": 211.1,
-    "ortg": 93.1,
-    "drtg": 120.8,
-    "net": -27.7,
-    "efg": 51.2,
-    "oefg": 57.6
+    "min": 134.0,
+    "pf": 244,
+    "pa": 313,
+    "pm": -69,
+    "poss": 253.0,
+    "pF": 255.1,
+    "pA": 250.8,
+    "ortg": 95.6,
+    "drtg": 124.8,
+    "net": -29.2,
+    "efg": 51.7,
+    "oefg": 59.0
    },
    {
     "players": [
@@ -1616,6 +1726,25 @@
     "net": -2.9,
     "efg": 49.6,
     "oefg": 39.6
+   },
+   {
+    "players": [
+     "Immanuel Domonick Bates",
+     "Lamb Autrey",
+     "Ondřej Šiška"
+    ],
+    "min": 78.3,
+    "pf": 140,
+    "pa": 151,
+    "pm": -11,
+    "poss": 150.8,
+    "pF": 153.0,
+    "pA": 148.5,
+    "ortg": 91.5,
+    "drtg": 101.7,
+    "net": -10.2,
+    "efg": 45.9,
+    "oefg": 46.2
    },
    {
     "players": [
@@ -1676,41 +1805,22 @@
    },
    {
     "players": [
-     "Immanuel Domonick Bates",
-     "Lamb Autrey",
-     "Ondřej Šiška"
-    ],
-    "min": 70.7,
-    "pf": 123,
-    "pa": 128,
-    "pm": -5,
-    "poss": 137.6,
-    "pF": 140.7,
-    "pA": 134.4,
-    "ortg": 87.4,
-    "drtg": 95.2,
-    "net": -7.8,
-    "efg": 44.1,
-    "oefg": 44.1
-   },
-   {
-    "players": [
      "Adam Goga",
      "Dominik Žák",
      "Ethan Elijah Garita"
     ],
-    "min": 62.6,
-    "pf": 90,
-    "pa": 156,
-    "pm": -66,
-    "poss": 119.3,
-    "pF": 116.2,
-    "pA": 122.4,
-    "ortg": 77.5,
-    "drtg": 127.4,
-    "net": -50.0,
-    "efg": 42.9,
-    "oefg": 63.0
+    "min": 67.0,
+    "pf": 101,
+    "pa": 162,
+    "pm": -61,
+    "poss": 127.1,
+    "pF": 124.8,
+    "pA": 129.4,
+    "ortg": 80.9,
+    "drtg": 125.2,
+    "net": -44.3,
+    "efg": 43.9,
+    "oefg": 61.7
    },
    {
     "players": [
@@ -1718,18 +1828,18 @@
      "Dominik Žák",
      "Ondřej Šiška"
     ],
-    "min": 60.5,
-    "pf": 92,
-    "pa": 158,
-    "pm": -66,
-    "poss": 121.5,
-    "pF": 121.5,
-    "pA": 121.5,
-    "ortg": 75.7,
-    "drtg": 130.0,
-    "net": -54.3,
-    "efg": 40.9,
-    "oefg": 63.9
+    "min": 64.7,
+    "pf": 105,
+    "pa": 167,
+    "pm": -62,
+    "poss": 129.8,
+    "pF": 130.2,
+    "pA": 129.4,
+    "ortg": 80.7,
+    "drtg": 129.1,
+    "net": -48.4,
+    "efg": 43.0,
+    "oefg": 63.5
    },
    {
     "players": [
@@ -1790,22 +1900,41 @@
    },
    {
     "players": [
+     "Dominik Žák",
+     "Immanuel Domonick Bates",
+     "Ondřej Šiška"
+    ],
+    "min": 56.5,
+    "pf": 86,
+    "pa": 132,
+    "pm": -46,
+    "poss": 107.3,
+    "pF": 105.8,
+    "pA": 108.8,
+    "ortg": 81.3,
+    "drtg": 121.3,
+    "net": -40.0,
+    "efg": 41.5,
+    "oefg": 54.8
+   },
+   {
+    "players": [
      "Ethan Elijah Garita",
      "Jordan Oupoh",
      "Lamb Autrey"
     ],
-    "min": 54.9,
-    "pf": 83,
-    "pa": 158,
-    "pm": -75,
-    "poss": 109.1,
-    "pF": 106.1,
-    "pA": 112.0,
-    "ortg": 78.2,
-    "drtg": 141.0,
-    "net": -62.8,
-    "efg": 45.3,
-    "oefg": 60.0
+    "min": 55.9,
+    "pf": 85,
+    "pa": 161,
+    "pm": -76,
+    "poss": 111.2,
+    "pF": 108.1,
+    "pA": 114.4,
+    "ortg": 78.6,
+    "drtg": 140.8,
+    "net": -62.2,
+    "efg": 45.4,
+    "oefg": 60.4
    },
    {
     "players": [
@@ -1828,22 +1957,22 @@
    },
    {
     "players": [
-     "Dominik Žák",
-     "Immanuel Domonick Bates",
+     "Adam Goga",
+     "Ethan Elijah Garita",
      "Ondřej Šiška"
     ],
-    "min": 53.0,
-    "pf": 77,
-    "pa": 116,
-    "pm": -39,
-    "poss": 99.3,
-    "pF": 99.8,
-    "pA": 98.8,
-    "ortg": 77.2,
-    "drtg": 117.5,
-    "net": -40.3,
-    "efg": 38.6,
-    "oefg": 53.4
+    "min": 53.4,
+    "pf": 86,
+    "pa": 139,
+    "pm": -53,
+    "poss": 100.1,
+    "pF": 98.4,
+    "pA": 101.7,
+    "ortg": 87.4,
+    "drtg": 136.7,
+    "net": -49.3,
+    "efg": 46.6,
+    "oefg": 67.2
    },
    {
     "players": [
@@ -1870,37 +1999,18 @@
      "Jordan Oupoh",
      "Ondřej Šiška"
     ],
-    "min": 49.9,
-    "pf": 90,
-    "pa": 164,
-    "pm": -74,
-    "poss": 100.2,
-    "pF": 100.5,
-    "pA": 99.8,
-    "ortg": 89.6,
-    "drtg": 164.3,
-    "net": -74.7,
-    "efg": 58.5,
-    "oefg": 76.7
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Ethan Elijah Garita",
-     "Ondřej Šiška"
-    ],
-    "min": 49.3,
-    "pf": 76,
-    "pa": 134,
-    "pm": -58,
-    "poss": 94.0,
-    "pF": 91.8,
-    "pA": 96.2,
-    "ortg": 82.8,
-    "drtg": 139.2,
-    "net": -56.4,
-    "efg": 46.4,
-    "oefg": 69.0
+    "min": 50.9,
+    "pf": 92,
+    "pa": 167,
+    "pm": -75,
+    "poss": 102.3,
+    "pF": 102.5,
+    "pA": 102.2,
+    "ortg": 89.8,
+    "drtg": 163.5,
+    "net": -73.7,
+    "efg": 58.2,
+    "oefg": 77.0
    },
    {
     "players": [
@@ -1908,18 +2018,37 @@
      "Lamb Autrey",
      "Ondřej Šiška"
     ],
-    "min": 47.7,
-    "pf": 86,
-    "pa": 127,
-    "pm": -41,
-    "poss": 92.6,
-    "pF": 91.9,
-    "pA": 93.4,
-    "ortg": 93.6,
-    "drtg": 136.0,
-    "net": -42.4,
-    "efg": 47.3,
-    "oefg": 62.0
+    "min": 49.1,
+    "pf": 90,
+    "pa": 132,
+    "pm": -42,
+    "poss": 95.8,
+    "pF": 94.9,
+    "pA": 96.7,
+    "ortg": 94.9,
+    "drtg": 136.5,
+    "net": -41.6,
+    "efg": 48.0,
+    "oefg": 62.9
+   },
+   {
+    "players": [
+     "Dominik Žák",
+     "Jakob Hanzálek",
+     "Ondřej Šiška"
+    ],
+    "min": 48.3,
+    "pf": 77,
+    "pa": 125,
+    "pm": -48,
+    "poss": 90.9,
+    "pF": 89.2,
+    "pA": 92.6,
+    "ortg": 86.4,
+    "drtg": 134.9,
+    "net": -48.6,
+    "efg": 49.3,
+    "oefg": 67.8
    },
    {
     "players": [
@@ -1927,18 +2056,18 @@
      "Ethan Elijah Garita",
      "Lamb Autrey"
     ],
-    "min": 43.7,
-    "pf": 72,
-    "pa": 97,
-    "pm": -25,
-    "poss": 82.7,
-    "pF": 81.7,
-    "pA": 83.6,
-    "ortg": 88.1,
-    "drtg": 116.0,
-    "net": -27.8,
-    "efg": 47.5,
-    "oefg": 47.4
+    "min": 48.0,
+    "pf": 80,
+    "pa": 102,
+    "pm": -22,
+    "poss": 88.9,
+    "pF": 87.7,
+    "pA": 90.1,
+    "ortg": 91.2,
+    "drtg": 113.2,
+    "net": -22.0,
+    "efg": 48.5,
+    "oefg": 45.8
    },
    {
     "players": [
@@ -1946,18 +2075,56 @@
      "Immanuel Domonick Bates",
      "Lamb Autrey"
     ],
-    "min": 41.6,
-    "pf": 64,
-    "pa": 95,
-    "pm": -31,
-    "poss": 82.7,
-    "pF": 84.5,
-    "pA": 80.9,
-    "ortg": 75.8,
-    "drtg": 117.5,
-    "net": -41.7,
-    "efg": 42.9,
-    "oefg": 60.7
+    "min": 47.8,
+    "pf": 77,
+    "pa": 116,
+    "pm": -39,
+    "poss": 94.2,
+    "pF": 94.5,
+    "pA": 94.0,
+    "ortg": 81.5,
+    "drtg": 123.5,
+    "net": -42.0,
+    "efg": 45.9,
+    "oefg": 62.0
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Dominik Žák",
+     "Ondřej Šiška"
+    ],
+    "min": 47.8,
+    "pf": 88,
+    "pa": 115,
+    "pm": -27,
+    "poss": 97.8,
+    "pF": 95.9,
+    "pA": 99.7,
+    "ortg": 91.8,
+    "drtg": 115.4,
+    "net": -23.6,
+    "efg": 50.7,
+    "oefg": 58.9
+   },
+   {
+    "players": [
+     "Adam Goga",
+     "Dominik Žák",
+     "Lamb Autrey"
+    ],
+    "min": 41.9,
+    "pf": 67,
+    "pa": 93,
+    "pm": -26,
+    "poss": 75.8,
+    "pF": 77.5,
+    "pA": 74.1,
+    "ortg": 86.5,
+    "drtg": 125.5,
+    "net": -39.0,
+    "efg": 49.2,
+    "oefg": 56.8
    },
    {
     "players": [
@@ -1980,60 +2147,22 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Dominik Žák",
-     "Ondřej Šiška"
-    ],
-    "min": 41.0,
-    "pf": 75,
-    "pa": 94,
-    "pm": -19,
-    "poss": 85.5,
-    "pF": 84.1,
-    "pA": 86.9,
-    "ortg": 89.2,
-    "drtg": 108.1,
-    "net": -19.0,
-    "efg": 49.2,
-    "oefg": 55.5
-   },
-   {
-    "players": [
      "Immanuel Domonick Bates",
      "Jordan Oupoh",
      "Ondřej Šiška"
     ],
-    "min": 40.8,
-    "pf": 55,
-    "pa": 68,
+    "min": 41.2,
+    "pf": 57,
+    "pa": 70,
     "pm": -13,
-    "poss": 74.6,
-    "pF": 76.1,
-    "pA": 73.0,
-    "ortg": 72.3,
-    "drtg": 93.1,
-    "net": -20.8,
-    "efg": 35.3,
-    "oefg": 41.1
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Dominik Žák",
-     "Lamb Autrey"
-    ],
-    "min": 38.9,
-    "pf": 61,
-    "pa": 90,
-    "pm": -29,
-    "poss": 70.8,
-    "pF": 72.5,
-    "pA": 69.1,
-    "ortg": 84.2,
-    "drtg": 130.2,
-    "net": -46.0,
-    "efg": 48.2,
-    "oefg": 60.0
+    "poss": 75.6,
+    "pF": 77.1,
+    "pA": 74.0,
+    "ortg": 73.9,
+    "drtg": 94.5,
+    "net": -20.6,
+    "efg": 36.4,
+    "oefg": 41.9
    },
    {
     "players": [
@@ -2041,18 +2170,94 @@
      "Lamb Autrey",
      "Ondřej Šiška"
     ],
-    "min": 36.8,
-    "pf": 62,
-    "pa": 84,
-    "pm": -22,
-    "poss": 69.2,
-    "pF": 69.6,
-    "pA": 68.8,
-    "ortg": 89.1,
-    "drtg": 122.1,
-    "net": -33.0,
+    "min": 39.5,
+    "pf": 67,
+    "pa": 86,
+    "pm": -19,
+    "poss": 72.4,
+    "pF": 72.6,
+    "pA": 72.2,
+    "ortg": 92.3,
+    "drtg": 119.0,
+    "net": -26.8,
     "efg": 50.0,
-    "oefg": 55.6
+    "oefg": 53.0
+   },
+   {
+    "players": [
+     "Ethan Elijah Garita",
+     "Immanuel Domonick Bates",
+     "Lamb Autrey"
+    ],
+    "min": 38.8,
+    "pf": 73,
+    "pa": 69,
+    "pm": 4,
+    "poss": 77.4,
+    "pF": 75.8,
+    "pA": 79.0,
+    "ortg": 96.3,
+    "drtg": 87.4,
+    "net": 8.9,
+    "efg": 49.1,
+    "oefg": 33.6
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Dominik Žák",
+     "Lamb Autrey"
+    ],
+    "min": 38.3,
+    "pf": 73,
+    "pa": 82,
+    "pm": -9,
+    "poss": 73.4,
+    "pF": 73.8,
+    "pA": 72.9,
+    "ortg": 98.9,
+    "drtg": 112.5,
+    "net": -13.5,
+    "efg": 51.7,
+    "oefg": 54.9
+   },
+   {
+    "players": [
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek",
+     "Ondřej Šiška"
+    ],
+    "min": 38.1,
+    "pf": 70,
+    "pa": 73,
+    "pm": -3,
+    "poss": 71.8,
+    "pF": 71.6,
+    "pA": 71.9,
+    "ortg": 97.8,
+    "drtg": 101.5,
+    "net": -3.7,
+    "efg": 60.2,
+    "oefg": 47.0
+   },
+   {
+    "players": [
+     "Adam Goga",
+     "Akuel Marko Kot",
+     "Dominik Žák"
+    ],
+    "min": 36.1,
+    "pf": 67,
+    "pa": 74,
+    "pm": -7,
+    "poss": 71.7,
+    "pF": 73.2,
+    "pA": 70.2,
+    "ortg": 91.5,
+    "drtg": 105.4,
+    "net": -13.9,
+    "efg": 49.1,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -2077,20 +2282,39 @@
     "players": [
      "Dominik Žák",
      "Jakob Hanzálek",
+     "Lamb Autrey"
+    ],
+    "min": 35.8,
+    "pf": 60,
+    "pa": 92,
+    "pm": -32,
+    "poss": 65.8,
+    "pF": 64.2,
+    "pA": 67.4,
+    "ortg": 93.5,
+    "drtg": 136.4,
+    "net": -43.0,
+    "efg": 57.0,
+    "oefg": 62.9
+   },
+   {
+    "players": [
+     "Jakob Hanzálek",
+     "Lamb Autrey",
      "Ondřej Šiška"
     ],
-    "min": 35.5,
-    "pf": 51,
-    "pa": 93,
-    "pm": -42,
-    "poss": 69.1,
-    "pF": 66.4,
-    "pA": 71.9,
-    "ortg": 76.8,
-    "drtg": 129.4,
-    "net": -52.6,
-    "efg": 45.2,
-    "oefg": 63.8
+    "min": 35.4,
+    "pf": 66,
+    "pa": 81,
+    "pm": -15,
+    "poss": 63.4,
+    "pF": 63.6,
+    "pA": 63.2,
+    "ortg": 103.7,
+    "drtg": 128.1,
+    "net": -24.4,
+    "efg": 61.0,
+    "oefg": 58.6
    },
    {
     "players": [
@@ -2132,41 +2356,60 @@
    },
    {
     "players": [
-     "Adam Goga",
-     "Akuel Marko Kot",
-     "Dominik Žák"
+     "Ethan Elijah Garita",
+     "Lamb Autrey",
+     "Michal Bálint"
     ],
-    "min": 32.3,
-    "pf": 57,
-    "pa": 65,
-    "pm": -8,
-    "poss": 64.4,
-    "pF": 66.4,
-    "pA": 62.4,
-    "ortg": 85.9,
-    "drtg": 104.2,
-    "net": -18.3,
-    "efg": 45.2,
-    "oefg": 48.1
+    "min": 32.8,
+    "pf": 68,
+    "pa": 72,
+    "pm": -4,
+    "poss": 64.0,
+    "pF": 65.5,
+    "pA": 62.6,
+    "ortg": 103.8,
+    "drtg": 115.1,
+    "net": -11.2,
+    "efg": 50.9,
+    "oefg": 68.8
    },
    {
     "players": [
+     "Akuel Marko Kot",
+     "Dominik Žák",
+     "Jakob Hanzálek"
+    ],
+    "min": 32.5,
+    "pf": 58,
+    "pa": 74,
+    "pm": -16,
+    "poss": 64.0,
+    "pF": 63.1,
+    "pA": 64.9,
+    "ortg": 91.9,
+    "drtg": 114.0,
+    "net": -22.0,
+    "efg": 50.9,
+    "oefg": 58.8
+   },
+   {
+    "players": [
+     "Adam Goga",
      "Immanuel Domonick Bates",
-     "Jakob Hanzálek",
      "Ondřej Šiška"
     ],
-    "min": 32.2,
-    "pf": 55,
-    "pa": 57,
-    "pm": -2,
-    "poss": 62.2,
-    "pF": 62.3,
-    "pA": 62.0,
-    "ortg": 88.3,
-    "drtg": 91.9,
-    "net": -3.6,
-    "efg": 57.5,
-    "oefg": 43.0
+    "min": 31.8,
+    "pf": 62,
+    "pa": 62,
+    "pm": 0,
+    "poss": 59.1,
+    "pF": 60.9,
+    "pA": 57.3,
+    "ortg": 101.8,
+    "drtg": 108.2,
+    "net": -6.5,
+    "efg": 52.1,
+    "oefg": 50.9
    },
    {
     "players": [
@@ -2189,63 +2432,6 @@
    },
    {
     "players": [
-     "Ethan Elijah Garita",
-     "Lamb Autrey",
-     "Michal Bálint"
-    ],
-    "min": 31.0,
-    "pf": 64,
-    "pa": 67,
-    "pm": -3,
-    "poss": 60.6,
-    "pF": 62.5,
-    "pA": 58.8,
-    "ortg": 102.4,
-    "drtg": 113.9,
-    "net": -11.5,
-    "efg": 50.0,
-    "oefg": 68.9
-   },
-   {
-    "players": [
-     "Ethan Elijah Garita",
-     "Immanuel Domonick Bates",
-     "Lamb Autrey"
-    ],
-    "min": 30.7,
-    "pf": 59,
-    "pa": 47,
-    "pm": 12,
-    "poss": 62.3,
-    "pF": 62.0,
-    "pA": 62.6,
-    "ortg": 95.1,
-    "drtg": 75.1,
-    "net": 20.0,
-    "efg": 47.9,
-    "oefg": 29.4
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Immanuel Domonick Bates",
-     "Ondřej Šiška"
-    ],
-    "min": 30.4,
-    "pf": 57,
-    "pa": 56,
-    "pm": 1,
-    "poss": 55.7,
-    "pF": 57.9,
-    "pA": 53.4,
-    "ortg": 98.4,
-    "drtg": 104.9,
-    "net": -6.5,
-    "efg": 48.9,
-    "oefg": 49.1
-   },
-   {
-    "players": [
      "Asa Williams",
      "Dominik Žák",
      "Immanuel Domonick Bates"
@@ -2262,6 +2448,25 @@
     "net": -48.6,
     "efg": 33.6,
     "oefg": 75.6
+   },
+   {
+    "players": [
+     "Immanuel Domonick Bates",
+     "Jordan Oupoh",
+     "Lamb Autrey"
+    ],
+    "min": 30.1,
+    "pf": 45,
+    "pa": 53,
+    "pm": -8,
+    "poss": 60.1,
+    "pF": 60.0,
+    "pA": 60.2,
+    "ortg": 75.0,
+    "drtg": 88.0,
+    "net": -13.0,
+    "efg": 31.9,
+    "oefg": 37.5
    },
    {
     "players": [
@@ -2284,25 +2489,6 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Dominik Žák",
-     "Jakob Hanzálek"
-    ],
-    "min": 28.6,
-    "pf": 51,
-    "pa": 61,
-    "pm": -10,
-    "poss": 55.1,
-    "pF": 54.1,
-    "pA": 56.2,
-    "ortg": 94.3,
-    "drtg": 108.6,
-    "net": -14.3,
-    "efg": 51.1,
-    "oefg": 58.0
-   },
-   {
-    "players": [
      "Adam Goga",
      "Asa Williams",
      "Ondřej Šiška"
@@ -2322,60 +2508,41 @@
    },
    {
     "players": [
-     "Immanuel Domonick Bates",
-     "Jordan Oupoh",
-     "Lamb Autrey"
-    ],
-    "min": 28.3,
-    "pf": 39,
-    "pa": 51,
-    "pm": -12,
-    "poss": 56.2,
-    "pF": 56.1,
-    "pA": 56.2,
-    "ortg": 69.5,
-    "drtg": 90.7,
-    "net": -21.2,
-    "efg": 30.2,
-    "oefg": 37.8
-   },
-   {
-    "players": [
      "Adam Goga",
      "Dominik Žák",
      "Jakob Hanzálek"
     ],
-    "min": 27.8,
-    "pf": 51,
-    "pa": 63,
+    "min": 28.4,
+    "pf": 54,
+    "pa": 66,
     "pm": -12,
-    "poss": 57.0,
-    "pF": 55.6,
-    "pA": 58.4,
-    "ortg": 91.7,
-    "drtg": 107.8,
-    "net": -16.1,
+    "poss": 58.9,
+    "pF": 58.4,
+    "pA": 59.4,
+    "ortg": 92.5,
+    "drtg": 111.0,
+    "net": -18.6,
     "efg": 53.4,
-    "oefg": 52.4
+    "oefg": 54.7
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Dominik Žák",
-     "Lamb Autrey"
+     "Ethan Elijah Garita",
+     "Immanuel Domonick Bates",
+     "Ondřej Šiška"
     ],
-    "min": 26.9,
-    "pf": 55,
-    "pa": 51,
-    "pm": 4,
-    "poss": 52.6,
-    "pF": 52.9,
-    "pA": 52.3,
-    "ortg": 103.9,
-    "drtg": 97.6,
-    "net": 6.4,
-    "efg": 52.4,
-    "oefg": 50.0
+    "min": 28.3,
+    "pf": 56,
+    "pa": 53,
+    "pm": 3,
+    "poss": 54.9,
+    "pF": 54.8,
+    "pA": 55.0,
+    "ortg": 102.1,
+    "drtg": 96.3,
+    "net": 5.8,
+    "efg": 54.5,
+    "oefg": 46.7
    },
    {
     "players": [
@@ -2398,6 +2565,44 @@
    },
    {
     "players": [
+     "Ethan Elijah Garita",
+     "Jakob Hanzálek",
+     "Ondřej Šiška"
+    ],
+    "min": 25.7,
+    "pf": 49,
+    "pa": 66,
+    "pm": -17,
+    "poss": 46.1,
+    "pF": 46.2,
+    "pA": 46.0,
+    "ortg": 106.2,
+    "drtg": 143.6,
+    "net": -37.5,
+    "efg": 53.9,
+    "oefg": 69.8
+   },
+   {
+    "players": [
+     "Dominik Žák",
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek"
+    ],
+    "min": 25.6,
+    "pf": 44,
+    "pa": 63,
+    "pm": -19,
+    "poss": 45.4,
+    "pF": 44.4,
+    "pA": 46.4,
+    "ortg": 99.0,
+    "drtg": 135.8,
+    "net": -36.8,
+    "efg": 56.4,
+    "oefg": 62.8
+   },
+   {
+    "players": [
      "Asa Williams",
      "Christian Hinckson",
      "Dominik Žák"
@@ -2414,6 +2619,44 @@
     "net": -11.7,
     "efg": 50.0,
     "oefg": 52.6
+   },
+   {
+    "players": [
+     "Dominik Žák",
+     "Ethan Elijah Garita",
+     "Jakob Hanzálek"
+    ],
+    "min": 24.0,
+    "pf": 39,
+    "pa": 67,
+    "pm": -28,
+    "poss": 46.0,
+    "pF": 45.0,
+    "pA": 47.0,
+    "ortg": 86.7,
+    "drtg": 142.7,
+    "net": -55.9,
+    "efg": 50.0,
+    "oefg": 70.9
+   },
+   {
+    "players": [
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek",
+     "Lamb Autrey"
+    ],
+    "min": 24.0,
+    "pf": 46,
+    "pa": 59,
+    "pm": -13,
+    "poss": 46.8,
+    "pF": 46.1,
+    "pA": 47.6,
+    "ortg": 99.8,
+    "drtg": 123.9,
+    "net": -24.1,
+    "efg": 64.5,
+    "oefg": 54.5
    },
    {
     "players": [
@@ -2475,21 +2718,40 @@
    {
     "players": [
      "Ethan Elijah Garita",
-     "Immanuel Domonick Bates",
-     "Ondřej Šiška"
+     "Jakob Hanzálek",
+     "Lamb Autrey"
     ],
-    "min": 22.7,
-    "pf": 45,
-    "pa": 37,
-    "pm": 8,
-    "poss": 45.2,
-    "pF": 45.5,
-    "pA": 44.8,
-    "ortg": 98.9,
-    "drtg": 82.5,
-    "net": 16.3,
-    "efg": 54.2,
-    "oefg": 43.1
+    "min": 23.2,
+    "pf": 39,
+    "pa": 55,
+    "pm": -16,
+    "poss": 40.0,
+    "pF": 39.6,
+    "pA": 40.4,
+    "ortg": 98.4,
+    "drtg": 136.1,
+    "net": -37.8,
+    "efg": 56.7,
+    "oefg": 65.3
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Ethan Elijah Garita",
+     "Lamb Autrey"
+    ],
+    "min": 22.9,
+    "pf": 34,
+    "pa": 53,
+    "pm": -19,
+    "poss": 43.4,
+    "pF": 44.5,
+    "pA": 42.3,
+    "ortg": 76.4,
+    "drtg": 125.4,
+    "net": -49.0,
+    "efg": 45.2,
+    "oefg": 56.8
    },
    {
     "players": [
@@ -2550,6 +2812,25 @@
    },
    {
     "players": [
+     "Ethan Elijah Garita",
+     "Michal Bálint",
+     "Ondřej Šiška"
+    ],
+    "min": 22.1,
+    "pf": 48,
+    "pa": 71,
+    "pm": -23,
+    "poss": 46.6,
+    "pF": 47.0,
+    "pA": 46.1,
+    "ortg": 102.0,
+    "drtg": 153.9,
+    "net": -51.9,
+    "efg": 48.8,
+    "oefg": 76.5
+   },
+   {
+    "players": [
      "Asa Williams",
      "Immanuel Domonick Bates",
      "Jordan Oupoh"
@@ -2566,6 +2847,25 @@
     "net": 21.5,
     "efg": 47.1,
     "oefg": 36.8
+   },
+   {
+    "players": [
+     "Dominik Žák",
+     "Immanuel Domonick Bates",
+     "Michal Bálint"
+    ],
+    "min": 21.9,
+    "pf": 44,
+    "pa": 46,
+    "pm": -2,
+    "poss": 41.5,
+    "pF": 41.4,
+    "pA": 41.6,
+    "ortg": 106.2,
+    "drtg": 110.6,
+    "net": -4.4,
+    "efg": 51.2,
+    "oefg": 55.0
    },
    {
     "players": [
@@ -2588,6 +2888,44 @@
    },
    {
     "players": [
+     "Adam Goga",
+     "Akuel Marko Kot",
+     "Ondřej Šiška"
+    ],
+    "min": 21.8,
+    "pf": 37,
+    "pa": 51,
+    "pm": -14,
+    "poss": 42.4,
+    "pF": 42.5,
+    "pA": 42.4,
+    "ortg": 87.1,
+    "drtg": 120.3,
+    "net": -33.2,
+    "efg": 50.0,
+    "oefg": 57.9
+   },
+   {
+    "players": [
+     "Adam Goga",
+     "Jakob Hanzálek",
+     "Ondřej Šiška"
+    ],
+    "min": 21.7,
+    "pf": 45,
+    "pa": 41,
+    "pm": 4,
+    "poss": 44.8,
+    "pF": 44.2,
+    "pA": 45.4,
+    "ortg": 101.9,
+    "drtg": 90.4,
+    "net": 11.5,
+    "efg": 50.0,
+    "oefg": 48.4
+   },
+   {
+    "players": [
      "Asa Williams",
      "Dominik Žák",
      "Jordan Oupoh"
@@ -2604,25 +2942,6 @@
     "net": -10.0,
     "efg": 46.8,
     "oefg": 51.6
-   },
-   {
-    "players": [
-     "Dominik Žák",
-     "Immanuel Domonick Bates",
-     "Jakob Hanzálek"
-    ],
-    "min": 21.0,
-    "pf": 33,
-    "pa": 47,
-    "pm": -14,
-    "poss": 37.0,
-    "pF": 36.4,
-    "pA": 37.6,
-    "ortg": 90.6,
-    "drtg": 124.9,
-    "net": -34.3,
-    "efg": 53.2,
-    "oefg": 58.3
    },
    {
     "players": [
@@ -2664,22 +2983,22 @@
    },
    {
     "players": [
-     "Adam Goga",
-     "Jakob Hanzálek",
+     "Akuel Marko Kot",
+     "Lamb Autrey",
      "Ondřej Šiška"
     ],
     "min": 20.4,
-    "pf": 42,
-    "pa": 38,
-    "pm": 4,
-    "poss": 42.9,
-    "pF": 41.4,
-    "pA": 44.4,
-    "ortg": 101.4,
-    "drtg": 85.7,
-    "net": 15.8,
-    "efg": 51.5,
-    "oefg": 45.0
+    "pf": 38,
+    "pa": 49,
+    "pm": -11,
+    "poss": 39.5,
+    "pF": 39.7,
+    "pA": 39.3,
+    "ortg": 95.7,
+    "drtg": 124.7,
+    "net": -29.1,
+    "efg": 51.7,
+    "oefg": 55.7
    },
    {
     "players": [
@@ -2702,79 +3021,60 @@
    },
    {
     "players": [
-     "Ethan Elijah Garita",
+     "Dominik Žák",
      "Michal Bálint",
      "Ondřej Šiška"
-    ],
-    "min": 20.3,
-    "pf": 44,
-    "pa": 66,
-    "pm": -22,
-    "poss": 43.2,
-    "pF": 44.0,
-    "pA": 42.4,
-    "ortg": 99.9,
-    "drtg": 155.8,
-    "net": -55.9,
-    "efg": 47.4,
-    "oefg": 77.4
-   },
-   {
-    "players": [
-     "Dominik Žák",
-     "Immanuel Domonick Bates",
-     "Michal Bálint"
     ],
     "min": 20.2,
-    "pf": 42,
-    "pa": 42,
-    "pm": 0,
-    "poss": 38.5,
-    "pF": 38.4,
-    "pA": 38.6,
-    "ortg": 109.3,
-    "drtg": 108.8,
-    "net": 0.5,
-    "efg": 51.2,
-    "oefg": 53.7
-   },
-   {
-    "players": [
-     "Dominik Žák",
-     "Michal Bálint",
-     "Ondřej Šiška"
-    ],
-    "min": 19.9,
     "pf": 22,
-    "pa": 57,
-    "pm": -35,
-    "poss": 41.1,
-    "pF": 41.4,
-    "pA": 40.7,
-    "ortg": 53.1,
-    "drtg": 140.0,
-    "net": -86.8,
+    "pa": 59,
+    "pm": -37,
+    "poss": 42.1,
+    "pF": 42.4,
+    "pA": 41.7,
+    "ortg": 51.9,
+    "drtg": 141.4,
+    "net": -89.5,
     "efg": 23.5,
-    "oefg": 59.2
+    "oefg": 60.3
+   },
+   {
+    "players": [
+     "Adam Goga",
+     "Dominik Žák",
+     "Immanuel Domonick Bates"
+    ],
+    "min": 20.2,
+    "pf": 36,
+    "pa": 45,
+    "pm": -9,
+    "poss": 39.9,
+    "pF": 42.5,
+    "pA": 37.3,
+    "ortg": 84.7,
+    "drtg": 120.7,
+    "net": -36.0,
+    "efg": 44.4,
+    "oefg": 68.5
    },
    {
     "players": [
      "Dominik Žák",
-     "Jakob Hanzálek",
-     "Lamb Autrey"
+     "Lamb Autrey",
+     "Michal Bálint"
     ],
     "min": 19.9,
-    "pf": 30,
-    "pa": 50,
-    "pm": -20,
-    "poss": 37.1,
-    "pF": 35.2,
-    "pA": 38.9,
-    "ortg": 85.2,
-    "drtg": 128.5,
-    "net": -43.2,
-    "efg": 56.2,
-    "oefg": 55.9
+    "pf": 32,
+    "pa": 49,
+    "pm": -17,
+    "poss": 36.1,
+    "pF": 37.0,
+    "pA": 35.3,
+    "ortg": 86.6,
+    "drtg": 138.9,
+    "net": -52.3,
+    "efg": 44.6,
+    "oefg": 86.4
    },
    {
     "players": [
@@ -2835,41 +3135,98 @@
    },
    {
     "players": [
-     "Adam Goga",
-     "Akuel Marko Kot",
-     "Ondřej Šiška"
+     "Immanuel Domonick Bates",
+     "Jordan Oupoh",
+     "Michal Bálint"
     ],
-    "min": 19.6,
-    "pf": 30,
-    "pa": 45,
-    "pm": -15,
-    "poss": 38.1,
-    "pF": 38.6,
-    "pA": 37.5,
-    "ortg": 77.7,
-    "drtg": 119.9,
-    "net": -42.2,
-    "efg": 44.0,
-    "oefg": 55.7
+    "min": 19.0,
+    "pf": 44,
+    "pa": 29,
+    "pm": 15,
+    "poss": 37.4,
+    "pF": 37.5,
+    "pA": 37.4,
+    "ortg": 117.3,
+    "drtg": 77.6,
+    "net": 39.6,
+    "efg": 52.9,
+    "oefg": 35.4
    },
    {
     "players": [
-     "Adam Goga",
+     "Akuel Marko Kot",
+     "Immanuel Domonick Bates",
+     "Ondřej Šiška"
+    ],
+    "min": 18.9,
+    "pf": 26,
+    "pa": 42,
+    "pm": -16,
+    "poss": 33.9,
+    "pF": 31.3,
+    "pA": 36.4,
+    "ortg": 83.0,
+    "drtg": 115.4,
+    "net": -32.4,
+    "efg": 52.2,
+    "oefg": 51.6
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
      "Dominik Žák",
-     "Immanuel Domonick Bates"
+     "Ethan Elijah Garita"
+    ],
+    "min": 18.9,
+    "pf": 31,
+    "pa": 44,
+    "pm": -13,
+    "poss": 35.1,
+    "pF": 36.0,
+    "pA": 34.2,
+    "ortg": 86.2,
+    "drtg": 128.7,
+    "net": -42.4,
+    "efg": 44.4,
+    "oefg": 62.9
+   },
+   {
+    "players": [
+     "Immanuel Domonick Bates",
+     "Michal Bálint",
+     "Ondřej Šiška"
     ],
     "min": 18.8,
-    "pf": 31,
-    "pa": 39,
-    "pm": -8,
-    "poss": 36.5,
-    "pF": 39.5,
-    "pA": 33.4,
-    "ortg": 78.4,
-    "drtg": 116.8,
-    "net": -38.3,
-    "efg": 39.7,
-    "oefg": 66.7
+    "pf": 43,
+    "pa": 44,
+    "pm": -1,
+    "poss": 38.4,
+    "pF": 38.2,
+    "pA": 38.6,
+    "ortg": 112.6,
+    "drtg": 113.9,
+    "net": -1.3,
+    "efg": 60.6,
+    "oefg": 58.8
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Dominik Žák",
+     "Michal Bálint"
+    ],
+    "min": 18.8,
+    "pf": 29,
+    "pa": 43,
+    "pm": -14,
+    "poss": 38.4,
+    "pF": 37.8,
+    "pA": 39.1,
+    "ortg": 76.8,
+    "drtg": 110.0,
+    "net": -33.2,
+    "efg": 41.9,
+    "oefg": 54.4
    },
    {
     "players": [
@@ -2930,44 +3287,6 @@
    },
    {
     "players": [
-     "Dominik Žák",
-     "Lamb Autrey",
-     "Michal Bálint"
-    ],
-    "min": 18.5,
-    "pf": 30,
-    "pa": 47,
-    "pm": -17,
-    "poss": 34.1,
-    "pF": 35.0,
-    "pA": 33.3,
-    "ortg": 85.8,
-    "drtg": 141.2,
-    "net": -55.4,
-    "efg": 44.2,
-    "oefg": 90.0
-   },
-   {
-    "players": [
-     "Jakob Hanzálek",
-     "Lamb Autrey",
-     "Ondřej Šiška"
-    ],
-    "min": 18.5,
-    "pf": 32,
-    "pa": 41,
-    "pm": -9,
-    "poss": 36.4,
-    "pF": 36.3,
-    "pA": 36.5,
-    "ortg": 88.1,
-    "drtg": 112.4,
-    "net": -24.3,
-    "efg": 60.4,
-    "oefg": 47.0
-   },
-   {
-    "players": [
      "Ethan Elijah Garita",
      "Immanuel Domonick Bates",
      "Jordan Oupoh"
@@ -3006,6 +3325,25 @@
    },
    {
     "players": [
+     "Immanuel Domonick Bates",
+     "Lamb Autrey",
+     "Michal Bálint"
+    ],
+    "min": 18.2,
+    "pf": 46,
+    "pa": 35,
+    "pm": 11,
+    "poss": 35.9,
+    "pF": 36.3,
+    "pA": 35.5,
+    "ortg": 126.7,
+    "drtg": 98.5,
+    "net": 28.1,
+    "efg": 59.5,
+    "oefg": 58.0
+   },
+   {
+    "players": [
      "Asa Williams",
      "Immanuel Domonick Bates",
      "Michal Bálint"
@@ -3025,60 +3363,41 @@
    },
    {
     "players": [
-     "Immanuel Domonick Bates",
-     "Michal Bálint",
-     "Ondřej Šiška"
+     "Akuel Marko Kot",
+     "Dominik Žák",
+     "Immanuel Domonick Bates"
     ],
-    "min": 18.1,
-    "pf": 41,
-    "pa": 40,
-    "pm": 1,
-    "poss": 36.4,
-    "pF": 36.2,
-    "pA": 36.6,
-    "ortg": 113.3,
-    "drtg": 109.2,
-    "net": 4.1,
-    "efg": 59.4,
-    "oefg": 56.2
-   },
-   {
-    "players": [
-     "Immanuel Domonick Bates",
-     "Jordan Oupoh",
-     "Michal Bálint"
-    ],
-    "min": 17.2,
-    "pf": 38,
-    "pa": 27,
-    "pm": 11,
-    "poss": 33.5,
-    "pF": 33.6,
-    "pA": 33.4,
-    "ortg": 113.0,
-    "drtg": 80.9,
-    "net": 32.0,
-    "efg": 53.2,
-    "oefg": 35.7
+    "min": 17.9,
+    "pf": 32,
+    "pa": 45,
+    "pm": -13,
+    "poss": 33.3,
+    "pF": 32.0,
+    "pA": 34.5,
+    "ortg": 100.0,
+    "drtg": 130.4,
+    "net": -30.4,
+    "efg": 57.1,
+    "oefg": 65.5
    },
    {
     "players": [
      "Akuel Marko Kot",
-     "Dominik Žák",
-     "Michal Bálint"
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek"
     ],
-    "min": 17.2,
-    "pf": 27,
-    "pa": 39,
-    "pm": -12,
-    "poss": 35.4,
-    "pF": 34.8,
-    "pA": 36.1,
-    "ortg": 77.7,
-    "drtg": 108.1,
-    "net": -30.4,
-    "efg": 41.4,
-    "oefg": 53.2
+    "min": 17.5,
+    "pf": 26,
+    "pa": 37,
+    "pm": -11,
+    "poss": 32.1,
+    "pF": 29.3,
+    "pA": 35.0,
+    "ortg": 88.7,
+    "drtg": 105.8,
+    "net": -17.2,
+    "efg": 52.3,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -3158,22 +3477,22 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Immanuel Domonick Bates",
-     "Ondřej Šiška"
+     "Adam Goga",
+     "Jakob Hanzálek",
+     "Lamb Autrey"
     ],
-    "min": 16.1,
-    "pf": 21,
-    "pa": 32,
-    "pm": -11,
-    "poss": 28.0,
-    "pF": 25.3,
-    "pA": 30.6,
-    "ortg": 82.9,
-    "drtg": 104.4,
-    "net": -21.5,
-    "efg": 50.0,
-    "oefg": 46.4
+    "min": 15.9,
+    "pf": 38,
+    "pa": 30,
+    "pm": 8,
+    "poss": 31.6,
+    "pF": 31.4,
+    "pA": 31.7,
+    "ortg": 121.0,
+    "drtg": 94.6,
+    "net": 26.4,
+    "efg": 75.0,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -3231,25 +3550,6 @@
     "net": -27.9,
     "efg": 50.0,
     "oefg": 53.8
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Jakob Hanzálek",
-     "Lamb Autrey"
-    ],
-    "min": 15.3,
-    "pf": 38,
-    "pa": 30,
-    "pm": 8,
-    "poss": 31.6,
-    "pF": 31.4,
-    "pA": 31.7,
-    "ortg": 121.0,
-    "drtg": 94.6,
-    "net": 26.4,
-    "efg": 78.9,
-    "oefg": 50.0
    },
    {
     "players": [
@@ -3329,25 +3629,6 @@
    },
    {
     "players": [
-     "Immanuel Domonick Bates",
-     "Lamb Autrey",
-     "Michal Bálint"
-    ],
-    "min": 15.0,
-    "pf": 38,
-    "pa": 31,
-    "pm": 7,
-    "poss": 30.0,
-    "pF": 30.4,
-    "pA": 29.5,
-    "ortg": 124.8,
-    "drtg": 105.0,
-    "net": 19.8,
-    "efg": 61.3,
-    "oefg": 62.5
-   },
-   {
-    "players": [
      "Dominik Žák",
      "Jakob Hanzálek",
      "Michal Bálint"
@@ -3386,25 +3667,6 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Lamb Autrey",
-     "Ondřej Šiška"
-    ],
-    "min": 14.9,
-    "pf": 32,
-    "pa": 34,
-    "pm": -2,
-    "poss": 31.2,
-    "pF": 30.8,
-    "pA": 31.5,
-    "ortg": 103.8,
-    "drtg": 107.9,
-    "net": -4.1,
-    "efg": 59.5,
-    "oefg": 50.0
-   },
-   {
-    "players": [
      "Immanuel Domonick Bates",
      "Josef Gale",
      "Marek Půlpán"
@@ -3440,6 +3702,25 @@
     "net": 55.7,
     "efg": 54.3,
     "oefg": 31.2
+   },
+   {
+    "players": [
+     "Ethan Elijah Garita",
+     "Jordan Oupoh",
+     "Michal Bálint"
+    ],
+    "min": 14.7,
+    "pf": 22,
+    "pa": 42,
+    "pm": -20,
+    "poss": 29.9,
+    "pF": 30.8,
+    "pA": 28.9,
+    "ortg": 71.3,
+    "drtg": 145.2,
+    "net": -73.9,
+    "efg": 39.6,
+    "oefg": 60.9
    },
    {
     "players": [
@@ -3577,6 +3858,25 @@
    {
     "players": [
      "Adam Goga",
+     "Akuel Marko Kot",
+     "Lamb Autrey"
+    ],
+    "min": 14.1,
+    "pf": 28,
+    "pa": 18,
+    "pm": 10,
+    "poss": 25.6,
+    "pF": 27.0,
+    "pA": 24.2,
+    "ortg": 103.9,
+    "drtg": 74.4,
+    "net": 29.5,
+    "efg": 54.5,
+    "oefg": 40.0
+   },
+   {
+    "players": [
+     "Adam Goga",
      "Jordan Oupoh",
      "Ondřej Šiška"
     ],
@@ -3592,25 +3892,6 @@
     "net": -71.1,
     "efg": 50.0,
     "oefg": 64.0
-   },
-   {
-    "players": [
-     "Ethan Elijah Garita",
-     "Jordan Oupoh",
-     "Michal Bálint"
-    ],
-    "min": 13.7,
-    "pf": 20,
-    "pa": 39,
-    "pm": -19,
-    "poss": 27.7,
-    "pF": 28.8,
-    "pA": 26.6,
-    "ortg": 69.3,
-    "drtg": 146.6,
-    "net": -77.3,
-    "efg": 38.6,
-    "oefg": 59.1
    },
    {
     "players": [
@@ -3709,6 +3990,25 @@
    },
    {
     "players": [
+     "Akuel Marko Kot",
+     "Ethan Elijah Garita",
+     "Ondřej Šiška"
+    ],
+    "min": 12.9,
+    "pf": 23,
+    "pa": 32,
+    "pm": -9,
+    "poss": 23.4,
+    "pF": 25.1,
+    "pA": 21.8,
+    "ortg": 91.7,
+    "drtg": 147.1,
+    "net": -55.4,
+    "efg": 45.0,
+    "oefg": 66.7
+   },
+   {
+    "players": [
      "Adam Goga",
      "Asa Williams",
      "Jordan Oupoh"
@@ -3744,44 +4044,6 @@
     "net": -23.6,
     "efg": 41.7,
     "oefg": 90.0
-   },
-   {
-    "players": [
-     "Immanuel Domonick Bates",
-     "Jakob Hanzálek",
-     "Lamb Autrey"
-    ],
-    "min": 12.6,
-    "pf": 21,
-    "pa": 26,
-    "pm": -5,
-    "poss": 26.0,
-    "pF": 26.3,
-    "pA": 25.6,
-    "ortg": 79.8,
-    "drtg": 101.4,
-    "net": -21.6,
-    "efg": 60.0,
-    "oefg": 46.0
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Akuel Marko Kot",
-     "Lamb Autrey"
-    ],
-    "min": 12.4,
-    "pf": 25,
-    "pa": 15,
-    "pm": 10,
-    "poss": 22.6,
-    "pF": 24.0,
-    "pA": 21.2,
-    "ortg": 104.3,
-    "drtg": 70.8,
-    "net": 33.6,
-    "efg": 52.5,
-    "oefg": 38.2
    },
    {
     "players": [
@@ -3824,21 +4086,21 @@
    {
     "players": [
      "Akuel Marko Kot",
-     "Ethan Elijah Garita",
+     "Immanuel Domonick Bates",
      "Lamb Autrey"
     ],
-    "min": 12.3,
-    "pf": 22,
-    "pa": 27,
-    "pm": -5,
-    "poss": 23.8,
-    "pF": 25.2,
-    "pA": 22.4,
-    "ortg": 87.3,
-    "drtg": 120.3,
-    "net": -33.0,
-    "efg": 52.9,
-    "oefg": 61.9
+    "min": 12.2,
+    "pf": 20,
+    "pa": 24,
+    "pm": -4,
+    "poss": 22.2,
+    "pF": 22.2,
+    "pA": 22.3,
+    "ortg": 90.1,
+    "drtg": 107.7,
+    "net": -17.6,
+    "efg": 42.5,
+    "oefg": 44.1
    },
    {
     "players": [
@@ -3858,44 +4120,6 @@
     "net": -56.5,
     "efg": 46.7,
     "oefg": 65.6
-   },
-   {
-    "players": [
-     "Dominik Žák",
-     "Ethan Elijah Garita",
-     "Jakob Hanzálek"
-    ],
-    "min": 12.0,
-    "pf": 17,
-    "pa": 38,
-    "pm": -21,
-    "poss": 23.7,
-    "pF": 21.2,
-    "pA": 26.2,
-    "ortg": 80.2,
-    "drtg": 145.0,
-    "net": -64.8,
-    "efg": 46.7,
-    "oefg": 70.0
-   },
-   {
-    "players": [
-     "Akuel Marko Kot",
-     "Immanuel Domonick Bates",
-     "Jakob Hanzálek"
-    ],
-    "min": 12.0,
-    "pf": 16,
-    "pa": 20,
-    "pm": -4,
-    "poss": 20.9,
-    "pF": 18.9,
-    "pA": 22.9,
-    "ortg": 84.7,
-    "drtg": 87.4,
-    "net": -2.7,
-    "efg": 46.7,
-    "oefg": 45.0
    },
    {
     "players": [
@@ -3957,21 +4181,40 @@
    {
     "players": [
      "Akuel Marko Kot",
-     "Dominik Žák",
-     "Immanuel Domonick Bates"
+     "Jakob Hanzálek",
+     "Lamb Autrey"
     ],
     "min": 11.8,
-    "pf": 18,
-    "pa": 24,
-    "pm": -6,
-    "poss": 20.9,
-    "pF": 20.0,
-    "pA": 21.8,
-    "ortg": 90.0,
-    "drtg": 110.3,
-    "net": -20.3,
-    "efg": 47.4,
-    "oefg": 55.6
+    "pf": 21,
+    "pa": 28,
+    "pm": -7,
+    "poss": 24.5,
+    "pF": 23.6,
+    "pA": 25.3,
+    "ortg": 88.8,
+    "drtg": 110.8,
+    "net": -21.9,
+    "efg": 53.1,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Lamb Autrey",
+     "Michal Bálint",
+     "Ondřej Šiška"
+    ],
+    "min": 11.7,
+    "pf": 36,
+    "pa": 30,
+    "pm": 6,
+    "poss": 24.9,
+    "pF": 25.2,
+    "pA": 24.5,
+    "ortg": 142.9,
+    "drtg": 122.3,
+    "net": 20.5,
+    "efg": 71.7,
+    "oefg": 68.4
    },
    {
     "players": [
@@ -4032,25 +4275,6 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Dominik Žák",
-     "Ethan Elijah Garita"
-    ],
-    "min": 11.2,
-    "pf": 20,
-    "pa": 26,
-    "pm": -6,
-    "poss": 21.3,
-    "pF": 22.2,
-    "pA": 20.4,
-    "ortg": 90.1,
-    "drtg": 127.2,
-    "net": -37.1,
-    "efg": 47.1,
-    "oefg": 65.8
-   },
-   {
-    "players": [
      "Christian Hinckson",
      "Ethan Elijah Garita",
      "Jordan Oupoh"
@@ -4105,6 +4329,25 @@
     "net": -17.1,
     "efg": 59.4,
     "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jordan Oupoh",
+     "Michal Bálint",
+     "Ondřej Šiška"
+    ],
+    "min": 10.7,
+    "pf": 21,
+    "pa": 29,
+    "pm": -8,
+    "poss": 24.6,
+    "pF": 25.0,
+    "pA": 24.3,
+    "ortg": 84.1,
+    "drtg": 119.4,
+    "net": -35.3,
+    "efg": 56.2,
+    "oefg": 58.8
    },
    {
     "players": [
@@ -4185,6 +4428,25 @@
    {
     "players": [
      "Adam Goga",
+     "Ethan Elijah Garita",
+     "Jakob Hanzálek"
+    ],
+    "min": 10.1,
+    "pf": 19,
+    "pa": 21,
+    "pm": -2,
+    "poss": 19.1,
+    "pF": 19.0,
+    "pA": 19.2,
+    "ortg": 100.2,
+    "drtg": 109.4,
+    "net": -9.2,
+    "efg": 50.0,
+    "oefg": 53.1
+   },
+   {
+    "players": [
+     "Adam Goga",
      "Jakob Hanzálek",
      "Michal Bálint"
     ],
@@ -4241,25 +4503,6 @@
    },
    {
     "players": [
-     "Ethan Elijah Garita",
-     "Jakob Hanzálek",
-     "Ondřej Šiška"
-    ],
-    "min": 9.8,
-    "pf": 16,
-    "pa": 28,
-    "pm": -12,
-    "poss": 19.6,
-    "pF": 18.1,
-    "pA": 21.1,
-    "ortg": 88.5,
-    "drtg": 132.8,
-    "net": -44.3,
-    "efg": 43.3,
-    "oefg": 60.5
-   },
-   {
-    "players": [
      "Jordan Oupoh",
      "Lamb Autrey",
      "Marek Půlpán"
@@ -4295,25 +4538,6 @@
     "net": 22.7,
     "efg": 46.9,
     "oefg": 33.3
-   },
-   {
-    "players": [
-     "Lamb Autrey",
-     "Michal Bálint",
-     "Ondřej Šiška"
-    ],
-    "min": 9.5,
-    "pf": 30,
-    "pa": 23,
-    "pm": 7,
-    "poss": 20.5,
-    "pF": 21.2,
-    "pA": 19.8,
-    "ortg": 141.5,
-    "drtg": 116.4,
-    "net": 25.1,
-    "efg": 71.1,
-    "oefg": 66.7
    },
    {
     "players": [
@@ -4355,25 +4579,6 @@
    },
    {
     "players": [
-     "Jordan Oupoh",
-     "Michal Bálint",
-     "Ondřej Šiška"
-    ],
-    "min": 9.3,
-    "pf": 17,
-    "pa": 24,
-    "pm": -7,
-    "poss": 21.5,
-    "pF": 22.0,
-    "pA": 21.0,
-    "ortg": 77.4,
-    "drtg": 114.5,
-    "net": -37.1,
-    "efg": 53.8,
-    "oefg": 53.3
-   },
-   {
-    "players": [
      "Adam Goga",
      "Immanuel Domonick Bates",
      "Michal Bálint"
@@ -4409,6 +4614,25 @@
     "net": 1.5,
     "efg": 59.4,
     "oefg": 66.7
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Lamb Autrey",
+     "Michal Bálint"
+    ],
+    "min": 9.2,
+    "pf": 18,
+    "pa": 12,
+    "pm": 6,
+    "poss": 17.1,
+    "pF": 17.8,
+    "pA": 16.4,
+    "ortg": 101.4,
+    "drtg": 73.0,
+    "net": 28.4,
+    "efg": 43.8,
+    "oefg": 45.8
    },
    {
     "players": [
@@ -4507,25 +4731,6 @@
    },
    {
     "players": [
-     "Adam Goga",
-     "Ethan Elijah Garita",
-     "Jakob Hanzálek"
-    ],
-    "min": 8.8,
-    "pf": 16,
-    "pa": 18,
-    "pm": -2,
-    "poss": 17.2,
-    "pF": 16.2,
-    "pA": 18.2,
-    "ortg": 98.8,
-    "drtg": 98.9,
-    "net": -0.1,
-    "efg": 54.2,
-    "oefg": 46.7
-   },
-   {
-    "players": [
      "Asa Williams",
      "Michal Bálint",
      "Ondřej Šiška"
@@ -4561,6 +4766,25 @@
     "net": 26.3,
     "efg": 47.1,
     "oefg": 19.2
+   },
+   {
+    "players": [
+     "Adam Goga",
+     "Ethan Elijah Garita",
+     "Michal Bálint"
+    ],
+    "min": 8.4,
+    "pf": 16,
+    "pa": 14,
+    "pm": 2,
+    "poss": 18.1,
+    "pF": 17.2,
+    "pA": 19.1,
+    "ortg": 93.0,
+    "drtg": 73.4,
+    "net": 19.6,
+    "efg": 50.0,
+    "oefg": 45.5
    },
    {
     "players": [
@@ -4678,6 +4902,25 @@
    },
    {
     "players": [
+     "Adam Goga",
+     "Lamb Autrey",
+     "Michal Bálint"
+    ],
+    "min": 8.0,
+    "pf": 19,
+    "pa": 10,
+    "pm": 9,
+    "poss": 16.9,
+    "pF": 16.8,
+    "pA": 17.1,
+    "ortg": 113.4,
+    "drtg": 58.5,
+    "net": 54.8,
+    "efg": 53.3,
+    "oefg": 33.3
+   },
+   {
+    "players": [
      "Ethan Elijah Garita",
      "Josef Gale",
      "Marek Půlpán"
@@ -4735,25 +4978,6 @@
    },
    {
     "players": [
-     "Adam Goga",
-     "Ethan Elijah Garita",
-     "Michal Bálint"
-    ],
-    "min": 7.6,
-    "pf": 14,
-    "pa": 12,
-    "pm": 2,
-    "poss": 16.9,
-    "pF": 16.2,
-    "pA": 17.6,
-    "ortg": 86.4,
-    "drtg": 68.0,
-    "net": 18.4,
-    "efg": 45.8,
-    "oefg": 44.4
-   },
-   {
-    "players": [
      "Immanuel Domonick Bates",
      "Ondřej Šiška",
      "Pavel Kaštil"
@@ -4773,6 +4997,44 @@
    },
    {
     "players": [
+     "Adam Goga",
+     "Akuel Marko Kot",
+     "Immanuel Domonick Bates"
+    ],
+    "min": 7.6,
+    "pf": 16,
+    "pa": 18,
+    "pm": -2,
+    "poss": 12.4,
+    "pF": 12.2,
+    "pA": 12.6,
+    "ortg": 131.1,
+    "drtg": 142.4,
+    "net": -11.3,
+    "efg": 70.0,
+    "oefg": 53.6
+   },
+   {
+    "players": [
+     "Jordan Oupoh",
+     "Lamb Autrey",
+     "Michal Bálint"
+    ],
+    "min": 7.5,
+    "pf": 15,
+    "pa": 19,
+    "pm": -4,
+    "poss": 15.6,
+    "pF": 15.8,
+    "pA": 15.5,
+    "ortg": 95.2,
+    "drtg": 122.4,
+    "net": -27.2,
+    "efg": 42.9,
+    "oefg": 72.2
+   },
+   {
+    "players": [
      "Christian Hinckson",
      "Jordan Oupoh",
      "Lamb Autrey"
@@ -4789,25 +5051,6 @@
     "net": -88.6,
     "efg": 0.0,
     "oefg": 35.3
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Lamb Autrey",
-     "Michal Bálint"
-    ],
-    "min": 7.2,
-    "pf": 17,
-    "pa": 8,
-    "pm": 9,
-    "poss": 15.7,
-    "pF": 15.8,
-    "pA": 15.6,
-    "ortg": 107.9,
-    "drtg": 51.2,
-    "net": 56.7,
-    "efg": 50.0,
-    "oefg": 28.6
    },
    {
     "players": [
@@ -4868,22 +5111,22 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
      "Ethan Elijah Garita",
-     "Ondřej Šiška"
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek"
     ],
     "min": 6.8,
-    "pf": 15,
+    "pf": 14,
     "pa": 17,
-    "pm": -2,
-    "poss": 14.2,
-    "pF": 15.3,
-    "pA": 13.0,
-    "ortg": 97.9,
-    "drtg": 130.8,
-    "net": -32.9,
-    "efg": 54.2,
-    "oefg": 60.7
+    "pm": -3,
+    "poss": 12.5,
+    "pF": 11.8,
+    "pA": 13.2,
+    "ortg": 119.0,
+    "drtg": 128.8,
+    "net": -9.7,
+    "efg": 68.8,
+    "oefg": 54.2
    },
    {
     "players": [
@@ -4903,6 +5146,25 @@
     "net": -29.4,
     "efg": 25.0,
     "oefg": 36.4
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Michal Bálint",
+     "Ondřej Šiška"
+    ],
+    "min": 6.7,
+    "pf": 4,
+    "pa": 23,
+    "pm": -19,
+    "poss": 15.2,
+    "pF": 13.9,
+    "pA": 16.4,
+    "ortg": 28.8,
+    "drtg": 139.9,
+    "net": -111.1,
+    "efg": 16.7,
+    "oefg": 68.8
    },
    {
     "players": [
@@ -4945,6 +5207,25 @@
    {
     "players": [
      "Adam Goga",
+     "Michal Bálint",
+     "Ondřej Šiška"
+    ],
+    "min": 6.5,
+    "pf": 6,
+    "pa": 15,
+    "pm": -9,
+    "poss": 11.9,
+    "pF": 11.3,
+    "pA": 12.4,
+    "ortg": 53.0,
+    "drtg": 120.6,
+    "net": -67.6,
+    "efg": 35.7,
+    "oefg": 62.5
+   },
+   {
+    "players": [
+     "Adam Goga",
      "Akuel Marko Kot",
      "Jordan Oupoh"
     ],
@@ -4960,25 +5241,6 @@
     "net": -54.5,
     "efg": 31.8,
     "oefg": 42.3
-   },
-   {
-    "players": [
-     "Akuel Marko Kot",
-     "Michal Bálint",
-     "Ondřej Šiška"
-    ],
-    "min": 6.5,
-    "pf": 4,
-    "pa": 21,
-    "pm": -17,
-    "poss": 14.2,
-    "pF": 12.9,
-    "pA": 15.4,
-    "ortg": 31.1,
-    "drtg": 136.0,
-    "net": -105.0,
-    "efg": 16.7,
-    "oefg": 66.7
    },
    {
     "players": [
@@ -4998,25 +5260,6 @@
     "net": 54.9,
     "efg": 46.4,
     "oefg": 66.7
-   },
-   {
-    "players": [
-     "Akuel Marko Kot",
-     "Lamb Autrey",
-     "Michal Bálint"
-    ],
-    "min": 6.4,
-    "pf": 12,
-    "pa": 10,
-    "pm": 2,
-    "poss": 12.2,
-    "pF": 12.9,
-    "pA": 11.4,
-    "ortg": 93.2,
-    "drtg": 87.4,
-    "net": 5.8,
-    "efg": 45.5,
-    "oefg": 56.2
    },
    {
     "players": [
@@ -5055,25 +5298,6 @@
     "net": 24.5,
     "efg": 46.4,
     "oefg": 62.5
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Akuel Marko Kot",
-     "Immanuel Domonick Bates"
-    ],
-    "min": 6.2,
-    "pf": 11,
-    "pa": 12,
-    "pm": -1,
-    "poss": 9.0,
-    "pF": 9.2,
-    "pA": 8.8,
-    "ortg": 119.6,
-    "drtg": 137.0,
-    "net": -17.4,
-    "efg": 56.2,
-    "oefg": 45.5
    },
    {
     "players": [
@@ -5131,25 +5355,6 @@
     "net": -69.5,
     "efg": 35.0,
     "oefg": 75.0
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Michal Bálint",
-     "Ondřej Šiška"
-    ],
-    "min": 5.7,
-    "pf": 4,
-    "pa": 13,
-    "pm": -9,
-    "poss": 10.7,
-    "pF": 10.3,
-    "pA": 11.0,
-    "ortg": 38.8,
-    "drtg": 118.2,
-    "net": -79.4,
-    "efg": 25.0,
-    "oefg": 65.0
    },
    {
     "players": [
@@ -5267,6 +5472,25 @@
    },
    {
     "players": [
+     "Akuel Marko Kot",
+     "Jordan Oupoh",
+     "Lamb Autrey"
+    ],
+    "min": 5.5,
+    "pf": 18,
+    "pa": 12,
+    "pm": 6,
+    "poss": 13.7,
+    "pF": 12.4,
+    "pA": 15.0,
+    "ortg": 145.2,
+    "drtg": 80.2,
+    "net": 64.9,
+    "efg": 60.0,
+    "oefg": 35.0
+   },
+   {
+    "players": [
      "Lamb Autrey",
      "Marek Půlpán",
      "Michal Bálint"
@@ -5283,25 +5507,6 @@
     "net": 23.3,
     "efg": 50.0,
     "oefg": 100.0
-   },
-   {
-    "players": [
-     "Akuel Marko Kot",
-     "Jakob Hanzálek",
-     "Lamb Autrey"
-    ],
-    "min": 5.4,
-    "pf": 11,
-    "pa": 9,
-    "pm": 2,
-    "poss": 10.3,
-    "pF": 10.2,
-    "pA": 10.3,
-    "ortg": 107.8,
-    "drtg": 87.2,
-    "net": 20.6,
-    "efg": 57.1,
-    "oefg": 50.0
    },
    {
     "players": [
@@ -5381,6 +5586,25 @@
    },
    {
     "players": [
+     "Dominik Žák",
+     "Ethan Elijah Garita",
+     "Immanuel Domonick Bates"
+    ],
+    "min": 5.2,
+    "pf": 13,
+    "pa": 11,
+    "pm": 2,
+    "poss": 13.2,
+    "pF": 12.0,
+    "pA": 14.3,
+    "ortg": 108.3,
+    "drtg": 76.8,
+    "net": 31.5,
+    "efg": 59.1,
+    "oefg": 50.0
+   },
+   {
+    "players": [
      "Adam Goga",
      "Jakob Hanzálek",
      "Jordan Oupoh"
@@ -5454,6 +5678,25 @@
     "net": 34.8,
     "efg": 66.7,
     "oefg": 25.0
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Immanuel Domonick Bates",
+     "Michal Bálint"
+    ],
+    "min": 5.0,
+    "pf": 9,
+    "pa": 13,
+    "pm": -4,
+    "poss": 10.7,
+    "pF": 9.9,
+    "pA": 11.4,
+    "ortg": 91.1,
+    "drtg": 113.6,
+    "net": -22.5,
+    "efg": 50.0,
+    "oefg": 66.7
    }
   ],
   "pairs": [
@@ -5462,108 +5705,108 @@
      "Dominik Žák",
      "Ondřej Šiška"
     ],
-    "min": 210.1,
-    "pf": 346,
-    "pa": 508,
-    "pm": -162,
-    "poss": 415.4,
-    "pF": 415.7,
-    "pA": 415.0,
-    "ortg": 83.2,
-    "drtg": 122.4,
-    "net": -39.2,
-    "efg": 44.4,
-    "oefg": 59.3
+    "min": 231.1,
+    "pf": 388,
+    "pa": 564,
+    "pm": -176,
+    "poss": 452.5,
+    "pF": 452.2,
+    "pA": 452.9,
+    "ortg": 85.8,
+    "drtg": 124.5,
+    "net": -38.7,
+    "efg": 45.7,
+    "oefg": 60.3
    },
    {
     "players": [
      "Dominik Žák",
      "Ethan Elijah Garita"
     ],
-    "min": 196.1,
-    "pf": 316,
-    "pa": 474,
-    "pm": -158,
-    "poss": 385.5,
-    "pF": 383.7,
-    "pA": 387.4,
-    "ortg": 82.4,
-    "drtg": 122.4,
-    "net": -40.0,
-    "efg": 45.8,
-    "oefg": 60.9
+    "min": 216.3,
+    "pf": 352,
+    "pa": 522,
+    "pm": -170,
+    "poss": 421.8,
+    "pF": 420.2,
+    "pA": 423.3,
+    "ortg": 83.8,
+    "drtg": 123.3,
+    "net": -39.5,
+    "efg": 46.3,
+    "oefg": 61.0
    },
    {
     "players": [
      "Dominik Žák",
      "Lamb Autrey"
     ],
-    "min": 184.2,
-    "pf": 311,
-    "pa": 427,
-    "pm": -116,
-    "poss": 357.4,
-    "pF": 360.5,
-    "pA": 354.3,
-    "ortg": 86.3,
-    "drtg": 120.5,
-    "net": -34.3,
-    "efg": 47.6,
-    "oefg": 58.9
+    "min": 209.0,
+    "pf": 355,
+    "pa": 490,
+    "pm": -135,
+    "poss": 401.2,
+    "pF": 403.4,
+    "pA": 399.0,
+    "ortg": 88.0,
+    "drtg": 122.8,
+    "net": -34.8,
+    "efg": 48.6,
+    "oefg": 59.5
    },
    {
     "players": [
      "Ethan Elijah Garita",
      "Lamb Autrey"
     ],
-    "min": 179.2,
-    "pf": 312,
-    "pa": 407,
-    "pm": -95,
-    "poss": 348.8,
-    "pF": 349.8,
-    "pA": 347.8,
-    "ortg": 89.2,
-    "drtg": 117.0,
-    "net": -27.8,
-    "efg": 48.9,
-    "oefg": 54.2
+    "min": 208.3,
+    "pf": 361,
+    "pa": 476,
+    "pm": -115,
+    "poss": 399.5,
+    "pF": 399.4,
+    "pA": 399.6,
+    "ortg": 90.4,
+    "drtg": 119.1,
+    "net": -28.7,
+    "efg": 49.3,
+    "oefg": 54.8
    },
    {
     "players": [
      "Lamb Autrey",
      "Ondřej Šiška"
     ],
-    "min": 176.2,
-    "pf": 314,
-    "pa": 390,
-    "pm": -76,
-    "poss": 342.3,
-    "pF": 345.6,
-    "pA": 338.9,
-    "ortg": 90.8,
-    "drtg": 115.1,
-    "net": -24.2,
-    "efg": 48.7,
-    "oefg": 53.7
+    "min": 202.2,
+    "pf": 363,
+    "pa": 455,
+    "pm": -92,
+    "poss": 385.2,
+    "pF": 387.8,
+    "pA": 382.5,
+    "ortg": 93.6,
+    "drtg": 119.0,
+    "net": -25.4,
+    "efg": 49.7,
+    "oefg": 55.4
    },
    {
     "players": [
      "Ethan Elijah Garita",
      "Ondřej Šiška"
     ],
-    "min": 170.2,
-    "pf": 296,
-    "pa": 431,
-    "pm": -135,
-    "poss": 337.1,
-    "pF": 336.7,
-    "pA": 337.5,
-    "ortg": 87.9,
-    "drtg": 127.7,
-    "net": -39.8,
-    "efg": 48.5,
-    "oefg": 61.7
+    "min": 195.5,
+    "pf": 344,
+    "pa": 492,
+    "pm": -148,
+    "poss": 379.4,
+    "pF": 379.5,
+    "pA": 379.2,
+    "ortg": 90.6,
+    "drtg": 129.7,
+    "net": -39.1,
+    "efg": 49.2,
+    "oefg": 62.5
    },
    {
     "players": [
@@ -5606,36 +5849,54 @@
      "Immanuel Domonick Bates",
      "Ondřej Šiška"
     ],
-    "min": 123.3,
-    "pf": 206,
-    "pa": 228,
-    "pm": -22,
-    "poss": 232.5,
-    "pF": 235.6,
-    "pA": 229.4,
-    "ortg": 87.4,
-    "drtg": 99.4,
-    "net": -12.0,
-    "efg": 45.4,
-    "oefg": 45.7
+    "min": 132.6,
+    "pf": 228,
+    "pa": 259,
+    "pm": -31,
+    "poss": 250.2,
+    "pF": 252.0,
+    "pA": 248.4,
+    "ortg": 90.5,
+    "drtg": 104.3,
+    "net": -13.8,
+    "efg": 47.2,
+    "oefg": 47.5
    },
    {
     "players": [
      "Adam Goga",
      "Dominik Žák"
     ],
-    "min": 117.3,
-    "pf": 182,
-    "pa": 273,
-    "pm": -91,
-    "poss": 230.0,
-    "pF": 230.1,
-    "pA": 229.9,
-    "ortg": 79.1,
-    "drtg": 118.7,
-    "net": -39.6,
-    "efg": 43.4,
-    "oefg": 59.6
+    "min": 123.0,
+    "pf": 198,
+    "pa": 285,
+    "pm": -87,
+    "poss": 241.3,
+    "pF": 241.7,
+    "pA": 240.8,
+    "ortg": 81.9,
+    "drtg": 118.4,
+    "net": -36.4,
+    "efg": 44.8,
+    "oefg": 59.4
+   },
+   {
+    "players": [
+     "Immanuel Domonick Bates",
+     "Lamb Autrey"
+    ],
+    "min": 116.2,
+    "pf": 202,
+    "pa": 228,
+    "pm": -26,
+    "poss": 227.9,
+    "pF": 228.0,
+    "pA": 227.8,
+    "ortg": 88.6,
+    "drtg": 100.1,
+    "net": -11.5,
+    "efg": 45.0,
+    "oefg": 46.2
    },
    {
     "players": [
@@ -5693,129 +5954,183 @@
    },
    {
     "players": [
-     "Immanuel Domonick Bates",
-     "Lamb Autrey"
+     "Adam Goga",
+     "Ethan Elijah Garita"
     ],
-    "min": 100.2,
-    "pf": 169,
-    "pa": 186,
-    "pm": -17,
-    "poss": 198.5,
-    "pF": 200.3,
-    "pA": 196.6,
-    "ortg": 84.4,
-    "drtg": 94.6,
-    "net": -10.2,
-    "efg": 42.9,
-    "oefg": 44.4
+    "min": 100.9,
+    "pf": 167,
+    "pa": 230,
+    "pm": -63,
+    "poss": 192.5,
+    "pF": 188.1,
+    "pA": 197.0,
+    "ortg": 88.8,
+    "drtg": 116.8,
+    "net": -28.0,
+    "efg": 48.1,
+    "oefg": 56.2
    },
    {
     "players": [
      "Jordan Oupoh",
      "Ondřej Šiška"
     ],
-    "min": 98.1,
-    "pf": 165,
-    "pa": 250,
-    "pm": -85,
-    "poss": 193.2,
-    "pF": 193.4,
-    "pA": 192.9,
-    "ortg": 85.3,
-    "drtg": 129.6,
-    "net": -44.3,
-    "efg": 47.9,
-    "oefg": 58.8
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Ethan Elijah Garita"
-    ],
-    "min": 95.1,
-    "pf": 154,
-    "pa": 222,
-    "pm": -68,
-    "poss": 183.5,
-    "pF": 178.4,
-    "pA": 188.6,
-    "ortg": 86.3,
-    "drtg": 117.7,
-    "net": -31.4,
-    "efg": 47.6,
-    "oefg": 56.8
+    "min": 99.5,
+    "pf": 169,
+    "pa": 255,
+    "pm": -86,
+    "poss": 196.3,
+    "pF": 196.4,
+    "pA": 196.2,
+    "ortg": 86.0,
+    "drtg": 129.9,
+    "net": -43.9,
+    "efg": 48.3,
+    "oefg": 59.2
    },
    {
     "players": [
      "Adam Goga",
      "Ondřej Šiška"
     ],
-    "min": 93.7,
-    "pf": 153,
-    "pa": 223,
-    "pm": -70,
-    "poss": 182.5,
-    "pF": 182.1,
-    "pA": 182.8,
-    "ortg": 84.0,
-    "drtg": 122.0,
-    "net": -38.0,
-    "efg": 45.9,
-    "oefg": 59.7
+    "min": 99.2,
+    "pf": 168,
+    "pa": 234,
+    "pm": -66,
+    "poss": 191.9,
+    "pF": 191.8,
+    "pA": 192.1,
+    "ortg": 87.6,
+    "drtg": 121.8,
+    "net": -34.2,
+    "efg": 47.2,
+    "oefg": 59.5
    },
    {
     "players": [
      "Ethan Elijah Garita",
      "Jordan Oupoh"
     ],
-    "min": 92.5,
-    "pf": 147,
-    "pa": 264,
-    "pm": -117,
-    "poss": 182.1,
-    "pF": 180.5,
-    "pA": 183.7,
-    "ortg": 81.4,
-    "drtg": 143.7,
-    "net": -62.2,
+    "min": 93.5,
+    "pf": 149,
+    "pa": 267,
+    "pm": -118,
+    "poss": 184.3,
+    "pF": 182.5,
+    "pA": 186.0,
+    "ortg": 81.7,
+    "drtg": 143.5,
+    "net": -61.9,
     "efg": 49.6,
-    "oefg": 63.3
+    "oefg": 63.5
    },
    {
     "players": [
      "Dominik Žák",
      "Immanuel Domonick Bates"
     ],
-    "min": 81.8,
-    "pf": 134,
-    "pa": 179,
-    "pm": -45,
-    "poss": 159.3,
-    "pF": 160.6,
-    "pA": 158.0,
-    "ortg": 83.5,
-    "drtg": 113.3,
-    "net": -29.8,
-    "efg": 42.6,
-    "oefg": 57.9
+    "min": 89.7,
+    "pf": 152,
+    "pa": 208,
+    "pm": -56,
+    "poss": 175.3,
+    "pF": 174.6,
+    "pA": 176.0,
+    "ortg": 87.1,
+    "drtg": 118.2,
+    "net": -31.1,
+    "efg": 45.1,
+    "oefg": 59.7
    },
    {
     "players": [
      "Jordan Oupoh",
      "Lamb Autrey"
     ],
-    "min": 79.7,
-    "pf": 125,
-    "pa": 206,
-    "pm": -81,
-    "poss": 158.7,
-    "pF": 154.2,
-    "pA": 163.2,
-    "ortg": 81.0,
-    "drtg": 126.3,
-    "net": -45.2,
-    "efg": 42.5,
-    "oefg": 54.8
+    "min": 82.5,
+    "pf": 133,
+    "pa": 211,
+    "pm": -78,
+    "poss": 164.8,
+    "pF": 160.1,
+    "pA": 169.5,
+    "ortg": 83.1,
+    "drtg": 124.5,
+    "net": -41.4,
+    "efg": 42.9,
+    "oefg": 54.7
+   },
+   {
+    "players": [
+     "Dominik Žák",
+     "Jakob Hanzálek"
+    ],
+    "min": 79.0,
+    "pf": 138,
+    "pa": 195,
+    "pm": -57,
+    "poss": 151.1,
+    "pF": 149.7,
+    "pA": 152.4,
+    "ortg": 92.2,
+    "drtg": 127.9,
+    "net": -35.7,
+    "efg": 52.5,
+    "oefg": 62.3
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Dominik Žák"
+    ],
+    "min": 77.3,
+    "pf": 142,
+    "pa": 178,
+    "pm": -36,
+    "poss": 154.2,
+    "pF": 152.8,
+    "pA": 155.6,
+    "ortg": 92.9,
+    "drtg": 114.4,
+    "net": -21.5,
+    "efg": 49.6,
+    "oefg": 56.5
+   },
+   {
+    "players": [
+     "Adam Goga",
+     "Lamb Autrey"
+    ],
+    "min": 74.2,
+    "pf": 133,
+    "pa": 147,
+    "pm": -14,
+    "poss": 139.4,
+    "pF": 139.6,
+    "pA": 139.2,
+    "ortg": 95.3,
+    "drtg": 105.6,
+    "net": -10.3,
+    "efg": 50.9,
+    "oefg": 46.4
+   },
+   {
+    "players": [
+     "Jakob Hanzálek",
+     "Ondřej Šiška"
+    ],
+    "min": 73.0,
+    "pf": 127,
+    "pa": 158,
+    "pm": -31,
+    "poss": 138.3,
+    "pF": 137.6,
+    "pA": 138.9,
+    "ortg": 92.3,
+    "drtg": 113.7,
+    "net": -21.5,
+    "efg": 52.9,
+    "oefg": 55.5
    },
    {
     "players": [
@@ -5837,57 +6152,21 @@
    },
    {
     "players": [
-     "Adam Goga",
-     "Lamb Autrey"
-    ],
-    "min": 69.9,
-    "pf": 125,
-    "pa": 142,
-    "pm": -17,
-    "poss": 133.2,
-    "pF": 133.6,
-    "pA": 132.8,
-    "ortg": 93.6,
-    "drtg": 106.9,
-    "net": -13.4,
-    "efg": 50.5,
-    "oefg": 47.4
-   },
-   {
-    "players": [
      "Immanuel Domonick Bates",
      "Jordan Oupoh"
     ],
-    "min": 67.0,
-    "pf": 107,
-    "pa": 120,
-    "pm": -13,
-    "poss": 129.2,
-    "pF": 128.0,
-    "pA": 130.4,
-    "ortg": 83.6,
-    "drtg": 92.0,
-    "net": -8.4,
-    "efg": 40.5,
-    "oefg": 40.5
-   },
-   {
-    "players": [
-     "Akuel Marko Kot",
-     "Dominik Žák"
-    ],
-    "min": 63.6,
-    "pf": 117,
-    "pa": 139,
-    "pm": -22,
-    "poss": 128.1,
-    "pF": 127.1,
-    "pA": 129.1,
-    "ortg": 92.1,
-    "drtg": 107.7,
-    "net": -15.6,
-    "efg": 48.0,
-    "oefg": 53.7
+    "min": 68.9,
+    "pf": 113,
+    "pa": 122,
+    "pm": -9,
+    "poss": 133.2,
+    "pF": 131.9,
+    "pA": 134.4,
+    "ortg": 85.7,
+    "drtg": 90.7,
+    "net": -5.1,
+    "efg": 40.9,
+    "oefg": 40.4
    },
    {
     "players": [
@@ -5910,110 +6189,110 @@
    {
     "players": [
      "Dominik Žák",
-     "Jakob Hanzálek"
-    ],
-    "min": 62.4,
-    "pf": 105,
-    "pa": 150,
-    "pm": -45,
-    "poss": 120.4,
-    "pF": 117.9,
-    "pA": 122.9,
-    "ortg": 89.0,
-    "drtg": 122.0,
-    "net": -33.0,
-    "efg": 51.1,
-    "oefg": 58.9
-   },
-   {
-    "players": [
-     "Dominik Žák",
      "Michal Bálint"
     ],
-    "min": 61.3,
-    "pf": 106,
-    "pa": 149,
-    "pm": -43,
-    "poss": 122.6,
-    "pF": 124.1,
-    "pA": 121.0,
-    "ortg": 85.4,
-    "drtg": 123.1,
-    "net": -37.7,
-    "efg": 42.9,
-    "oefg": 58.2
+    "min": 63.0,
+    "pf": 108,
+    "pa": 153,
+    "pm": -45,
+    "poss": 125.6,
+    "pF": 127.1,
+    "pA": 124.0,
+    "ortg": 85.0,
+    "drtg": 123.4,
+    "net": -38.4,
+    "efg": 43.1,
+    "oefg": 58.5
    },
    {
     "players": [
      "Adam Goga",
      "Immanuel Domonick Bates"
     ],
-    "min": 57.9,
-    "pf": 101,
-    "pa": 111,
-    "pm": -10,
-    "poss": 110.2,
-    "pF": 111.8,
-    "pA": 108.6,
-    "ortg": 90.3,
-    "drtg": 102.2,
-    "net": -11.9,
-    "efg": 45.9,
-    "oefg": 48.9
-   },
-   {
-    "players": [
-     "Jakob Hanzálek",
-     "Ondřej Šiška"
-    ],
-    "min": 55.4,
-    "pf": 90,
-    "pa": 115,
-    "pm": -25,
-    "poss": 109.4,
-    "pF": 107.6,
-    "pA": 111.2,
-    "ortg": 83.7,
-    "drtg": 103.5,
-    "net": -19.8,
-    "efg": 50.0,
-    "oefg": 49.5
+    "min": 59.3,
+    "pf": 106,
+    "pa": 117,
+    "pm": -11,
+    "poss": 113.7,
+    "pF": 114.8,
+    "pA": 112.5,
+    "ortg": 92.3,
+    "drtg": 104.0,
+    "net": -11.7,
+    "efg": 47.7,
+    "oefg": 50.0
    },
    {
     "players": [
      "Ethan Elijah Garita",
      "Michal Bálint"
     ],
-    "min": 55.1,
-    "pf": 105,
-    "pa": 138,
-    "pm": -33,
-    "poss": 110.9,
-    "pF": 112.8,
-    "pA": 108.9,
-    "ortg": 93.1,
-    "drtg": 126.7,
-    "net": -33.6,
-    "efg": 45.1,
-    "oefg": 67.8
+    "min": 56.9,
+    "pf": 109,
+    "pa": 143,
+    "pm": -34,
+    "poss": 114.3,
+    "pF": 115.8,
+    "pA": 112.7,
+    "ortg": 94.1,
+    "drtg": 126.9,
+    "net": -32.8,
+    "efg": 45.8,
+    "oefg": 67.7
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Ondřej Šiška"
+    ],
+    "min": 54.9,
+    "pf": 93,
+    "pa": 127,
+    "pm": -34,
+    "poss": 108.8,
+    "pF": 106.2,
+    "pA": 111.4,
+    "ortg": 87.6,
+    "drtg": 114.0,
+    "net": -26.4,
+    "efg": 48.7,
+    "oefg": 55.7
    },
    {
     "players": [
      "Immanuel Domonick Bates",
      "Michal Bálint"
     ],
-    "min": 51.3,
-    "pf": 103,
-    "pa": 99,
-    "pm": 4,
-    "poss": 99.3,
-    "pF": 98.7,
-    "pA": 99.8,
-    "ortg": 104.3,
-    "drtg": 99.2,
-    "net": 5.2,
-    "efg": 48.5,
+    "min": 54.8,
+    "pf": 111,
+    "pa": 105,
+    "pm": 6,
+    "poss": 106.2,
+    "pF": 105.6,
+    "pA": 106.8,
+    "ortg": 105.1,
+    "drtg": 98.3,
+    "net": 6.8,
+    "efg": 48.6,
     "oefg": 50.0
+   },
+   {
+    "players": [
+     "Immanuel Domonick Bates",
+     "Jakob Hanzálek"
+    ],
+    "min": 52.0,
+    "pf": 93,
+    "pa": 100,
+    "pm": -7,
+    "poss": 95.7,
+    "pF": 94.4,
+    "pA": 97.0,
+    "ortg": 98.6,
+    "drtg": 103.1,
+    "net": -4.5,
+    "efg": 56.2,
+    "oefg": 48.3
    },
    {
     "players": [
@@ -6035,6 +6314,42 @@
    },
    {
     "players": [
+     "Jakob Hanzálek",
+     "Lamb Autrey"
+    ],
+    "min": 50.4,
+    "pf": 93,
+    "pa": 118,
+    "pm": -25,
+    "poss": 93.1,
+    "pF": 92.2,
+    "pA": 94.0,
+    "ortg": 100.9,
+    "drtg": 125.6,
+    "net": -24.7,
+    "efg": 60.3,
+    "oefg": 58.0
+   },
+   {
+    "players": [
+     "Ethan Elijah Garita",
+     "Immanuel Domonick Bates"
+    ],
+    "min": 50.3,
+    "pf": 100,
+    "pa": 94,
+    "pm": 6,
+    "poss": 100.2,
+    "pF": 99.4,
+    "pA": 101.0,
+    "ortg": 100.6,
+    "drtg": 93.0,
+    "net": 7.5,
+    "efg": 52.0,
+    "oefg": 41.1
+   },
+   {
+    "players": [
      "Asa Williams",
      "Jordan Oupoh"
     ],
@@ -6050,6 +6365,24 @@
     "net": -6.6,
     "efg": 50.0,
     "oefg": 42.9
+   },
+   {
+    "players": [
+     "Lamb Autrey",
+     "Michal Bálint"
+    ],
+    "min": 48.4,
+    "pf": 104,
+    "pa": 100,
+    "pm": 4,
+    "poss": 95.0,
+    "pF": 96.8,
+    "pA": 93.2,
+    "ortg": 107.4,
+    "drtg": 107.3,
+    "net": 0.1,
+    "efg": 53.0,
+    "oefg": 64.8
    },
    {
     "players": [
@@ -6071,24 +6404,6 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Ondřej Šiška"
-    ],
-    "min": 47.0,
-    "pf": 80,
-    "pa": 104,
-    "pm": -24,
-    "poss": 95.1,
-    "pF": 92.4,
-    "pA": 97.8,
-    "ortg": 86.5,
-    "drtg": 106.3,
-    "net": -19.8,
-    "efg": 48.5,
-    "oefg": 52.4
-   },
-   {
-    "players": [
      "Dominik Žák",
      "Marek Půlpán"
     ],
@@ -6107,39 +6422,57 @@
    },
    {
     "players": [
-     "Adam Goga",
-     "Jakob Hanzálek"
+     "Akuel Marko Kot",
+     "Lamb Autrey"
     ],
-    "min": 43.5,
-    "pf": 81,
-    "pa": 80,
-    "pm": 1,
-    "poss": 86.7,
-    "pF": 85.4,
-    "pA": 88.0,
-    "ortg": 94.9,
-    "drtg": 91.0,
-    "net": 3.9,
-    "efg": 52.3,
-    "oefg": 43.9
+    "min": 45.2,
+    "pf": 84,
+    "pa": 94,
+    "pm": -10,
+    "poss": 87.4,
+    "pF": 88.0,
+    "pA": 86.9,
+    "ortg": 95.5,
+    "drtg": 108.2,
+    "net": -12.7,
+    "efg": 50.0,
+    "oefg": 51.4
    },
    {
     "players": [
-     "Lamb Autrey",
-     "Michal Bálint"
+     "Adam Goga",
+     "Jakob Hanzálek"
+    ],
+    "min": 44.9,
+    "pf": 84,
+    "pa": 83,
+    "pm": 1,
+    "poss": 88.5,
+    "pF": 88.1,
+    "pA": 89.0,
+    "ortg": 95.3,
+    "drtg": 93.3,
+    "net": 2.0,
+    "efg": 51.5,
+    "oefg": 45.5
+   },
+   {
+    "players": [
+     "Michal Bálint",
+     "Ondřej Šiška"
     ],
     "min": 43.4,
-    "pf": 92,
-    "pa": 91,
-    "pm": 1,
-    "poss": 85.7,
-    "pF": 87.9,
-    "pA": 83.4,
-    "ortg": 104.6,
-    "drtg": 109.1,
-    "net": -4.4,
-    "efg": 52.7,
-    "oefg": 67.0
+    "pf": 79,
+    "pa": 123,
+    "pm": -44,
+    "poss": 89.9,
+    "pF": 90.1,
+    "pA": 89.8,
+    "ortg": 87.7,
+    "drtg": 137.0,
+    "net": -49.4,
+    "efg": 45.9,
+    "oefg": 65.8
    },
    {
     "players": [
@@ -6161,24 +6494,6 @@
    },
    {
     "players": [
-     "Ethan Elijah Garita",
-     "Immanuel Domonick Bates"
-    ],
-    "min": 42.2,
-    "pf": 86,
-    "pa": 72,
-    "pm": 14,
-    "poss": 85.2,
-    "pF": 85.7,
-    "pA": 84.6,
-    "ortg": 100.4,
-    "drtg": 85.1,
-    "net": 15.3,
-    "efg": 51.5,
-    "oefg": 39.4
-   },
-   {
-    "players": [
      "Christian Hinckson",
      "Ethan Elijah Garita"
     ],
@@ -6197,39 +6512,21 @@
    },
    {
     "players": [
-     "Michal Bálint",
-     "Ondřej Šiška"
+     "Adam Goga",
+     "Akuel Marko Kot"
     ],
-    "min": 41.0,
-    "pf": 73,
-    "pa": 114,
-    "pm": -41,
-    "poss": 84.6,
-    "pF": 85.1,
-    "pA": 84.0,
-    "ortg": 85.8,
-    "drtg": 135.7,
-    "net": -50.0,
-    "efg": 44.3,
-    "oefg": 64.8
-   },
-   {
-    "players": [
-     "Immanuel Domonick Bates",
-     "Jakob Hanzálek"
-    ],
-    "min": 40.5,
-    "pf": 68,
-    "pa": 67,
-    "pm": 1,
-    "poss": 74.8,
-    "pF": 74.6,
-    "pA": 75.0,
-    "ortg": 91.2,
-    "drtg": 89.3,
-    "net": 1.9,
-    "efg": 52.7,
-    "oefg": 43.4
+    "min": 40.2,
+    "pf": 74,
+    "pa": 84,
+    "pm": -10,
+    "poss": 78.2,
+    "pF": 79.4,
+    "pA": 77.0,
+    "ortg": 93.2,
+    "drtg": 109.1,
+    "net": -15.9,
+    "efg": 50.8,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -6248,6 +6545,24 @@
     "net": -48.0,
     "efg": 41.8,
     "oefg": 52.2
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Jakob Hanzálek"
+    ],
+    "min": 39.0,
+    "pf": 63,
+    "pa": 82,
+    "pm": -19,
+    "poss": 76.8,
+    "pF": 74.4,
+    "pA": 79.1,
+    "ortg": 84.7,
+    "drtg": 103.6,
+    "net": -19.0,
+    "efg": 48.3,
+    "oefg": 50.8
    },
    {
     "players": [
@@ -6287,21 +6602,21 @@
    },
    {
     "players": [
-     "Adam Goga",
-     "Akuel Marko Kot"
+     "Ethan Elijah Garita",
+     "Jakob Hanzálek"
     ],
-    "min": 36.4,
-    "pf": 64,
-    "pa": 75,
-    "pm": -11,
-    "poss": 70.8,
-    "pF": 72.6,
-    "pA": 69.1,
-    "ortg": 88.2,
-    "drtg": 108.5,
-    "net": -20.3,
-    "efg": 47.3,
-    "oefg": 48.4
+    "min": 36.6,
+    "pf": 61,
+    "pa": 92,
+    "pm": -31,
+    "poss": 68.0,
+    "pF": 66.5,
+    "pA": 69.5,
+    "ortg": 91.8,
+    "drtg": 132.4,
+    "net": -40.7,
+    "efg": 53.2,
+    "oefg": 62.7
    },
    {
     "players": [
@@ -6341,21 +6656,21 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Jakob Hanzálek"
+     "Jordan Oupoh",
+     "Michal Bálint"
     ],
-    "min": 32.6,
-    "pf": 53,
-    "pa": 63,
-    "pm": -10,
-    "poss": 62.6,
-    "pF": 61.0,
-    "pA": 64.2,
-    "ortg": 86.9,
-    "drtg": 98.2,
-    "net": -11.2,
-    "efg": 48.0,
-    "oefg": 51.0
+    "min": 32.8,
+    "pf": 63,
+    "pa": 70,
+    "pm": -7,
+    "poss": 68.4,
+    "pF": 69.5,
+    "pA": 67.3,
+    "ortg": 90.7,
+    "drtg": 104.0,
+    "net": -13.4,
+    "efg": 48.2,
+    "oefg": 46.7
    },
    {
     "players": [
@@ -6377,21 +6692,39 @@
    },
    {
     "players": [
-     "Jordan Oupoh",
+     "Adam Goga",
      "Michal Bálint"
     ],
-    "min": 30.0,
-    "pf": 55,
-    "pa": 65,
-    "pm": -10,
-    "poss": 62.3,
-    "pF": 63.6,
-    "pA": 61.0,
-    "ortg": 86.5,
-    "drtg": 106.6,
-    "net": -20.1,
-    "efg": 48.0,
-    "oefg": 46.4
+    "min": 29.5,
+    "pf": 54,
+    "pa": 53,
+    "pm": 1,
+    "poss": 58.4,
+    "pF": 59.1,
+    "pA": 57.8,
+    "ortg": 91.4,
+    "drtg": 91.7,
+    "net": -0.3,
+    "efg": 52.1,
+    "oefg": 48.8
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Immanuel Domonick Bates"
+    ],
+    "min": 29.3,
+    "pf": 46,
+    "pa": 63,
+    "pm": -17,
+    "poss": 53.4,
+    "pF": 50.5,
+    "pA": 56.4,
+    "ortg": 91.1,
+    "drtg": 111.8,
+    "net": -20.7,
+    "efg": 51.2,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -6413,42 +6746,6 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Lamb Autrey"
-    ],
-    "min": 28.8,
-    "pf": 59,
-    "pa": 55,
-    "pm": 4,
-    "poss": 57.0,
-    "pF": 57.8,
-    "pA": 56.2,
-    "ortg": 102.1,
-    "drtg": 97.9,
-    "net": 4.1,
-    "efg": 53.4,
-    "oefg": 50.0
-   },
-   {
-    "players": [
-     "Adam Goga",
-     "Michal Bálint"
-    ],
-    "min": 28.7,
-    "pf": 52,
-    "pa": 51,
-    "pm": 1,
-    "poss": 57.2,
-    "pF": 58.1,
-    "pA": 56.4,
-    "ortg": 89.5,
-    "drtg": 90.5,
-    "net": -1.0,
-    "efg": 51.1,
-    "oefg": 48.7
-   },
-   {
-    "players": [
      "Michal Bálint",
      "Pavel Kaštil"
     ],
@@ -6464,24 +6761,6 @@
     "net": -27.4,
     "efg": 46.1,
     "oefg": 63.6
-   },
-   {
-    "players": [
-     "Jakob Hanzálek",
-     "Lamb Autrey"
-    ],
-    "min": 27.1,
-    "pf": 49,
-    "pa": 59,
-    "pm": -10,
-    "poss": 51.8,
-    "pF": 51.4,
-    "pA": 52.2,
-    "ortg": 95.3,
-    "drtg": 112.9,
-    "net": -17.6,
-    "efg": 62.1,
-    "oefg": 51.1
    },
    {
     "players": [
@@ -6521,6 +6800,24 @@
    },
    {
     "players": [
+     "Akuel Marko Kot",
+     "Ethan Elijah Garita"
+    ],
+    "min": 23.9,
+    "pf": 36,
+    "pa": 56,
+    "pm": -20,
+    "poss": 45.3,
+    "pF": 46.4,
+    "pA": 44.3,
+    "ortg": 77.6,
+    "drtg": 126.5,
+    "net": -48.9,
+    "efg": 42.4,
+    "oefg": 59.2
+   },
+   {
+    "players": [
      "Josef Gale",
      "Marek Půlpán"
     ],
@@ -6536,6 +6833,24 @@
     "net": -25.6,
     "efg": 40.0,
     "oefg": 61.3
+   },
+   {
+    "players": [
+     "Akuel Marko Kot",
+     "Michal Bálint"
+    ],
+    "min": 22.6,
+    "pf": 38,
+    "pa": 53,
+    "pm": -15,
+    "poss": 46.4,
+    "pF": 45.6,
+    "pA": 47.1,
+    "ortg": 83.3,
+    "drtg": 112.6,
+    "net": -29.3,
+    "efg": 44.6,
+    "oefg": 57.3
    },
    {
     "players": [
@@ -6593,24 +6908,6 @@
    },
    {
     "players": [
-     "Akuel Marko Kot",
-     "Michal Bálint"
-    ],
-    "min": 19.5,
-    "pf": 32,
-    "pa": 49,
-    "pm": -17,
-    "poss": 40.4,
-    "pF": 39.8,
-    "pA": 41.1,
-    "ortg": 80.5,
-    "drtg": 119.3,
-    "net": -38.8,
-    "efg": 45.3,
-    "oefg": 59.7
-   },
-   {
-    "players": [
      "Jakob Hanzálek",
      "Jordan Oupoh"
     ],
@@ -6648,20 +6945,20 @@
    {
     "players": [
      "Akuel Marko Kot",
-     "Immanuel Domonick Bates"
+     "Jordan Oupoh"
     ],
-    "min": 18.3,
-    "pf": 25,
-    "pa": 34,
-    "pm": -9,
-    "poss": 31.4,
-    "pF": 29.2,
-    "pA": 33.5,
-    "ortg": 85.6,
-    "drtg": 101.4,
-    "net": -15.8,
-    "efg": 47.9,
-    "oefg": 45.2
+    "min": 18.1,
+    "pf": 34,
+    "pa": 32,
+    "pm": 2,
+    "poss": 37.7,
+    "pF": 35.5,
+    "pA": 39.9,
+    "ortg": 95.8,
+    "drtg": 80.2,
+    "net": 15.7,
+    "efg": 44.6,
+    "oefg": 34.4
    },
    {
     "players": [
@@ -6701,24 +6998,6 @@
    },
    {
     "players": [
-     "Ethan Elijah Garita",
-     "Jakob Hanzálek"
-    ],
-    "min": 17.2,
-    "pf": 25,
-    "pa": 46,
-    "pm": -21,
-    "poss": 33.2,
-    "pF": 31.0,
-    "pA": 35.5,
-    "ortg": 80.7,
-    "drtg": 129.5,
-    "net": -48.8,
-    "efg": 50.0,
-    "oefg": 60.6
-   },
-   {
-    "players": [
      "Immanuel Domonick Bates",
      "Josef Gale"
     ],
@@ -6734,24 +7013,6 @@
     "net": -35.7,
     "efg": 34.1,
     "oefg": 59.1
-   },
-   {
-    "players": [
-     "Akuel Marko Kot",
-     "Jordan Oupoh"
-    ],
-    "min": 16.7,
-    "pf": 30,
-    "pa": 32,
-    "pm": -2,
-    "poss": 34.8,
-    "pF": 32.6,
-    "pA": 36.9,
-    "ortg": 92.0,
-    "drtg": 86.7,
-    "net": 5.4,
-    "efg": 46.0,
-    "oefg": 36.7
    },
    {
     "players": [
@@ -6842,24 +7103,6 @@
     "net": -43.4,
     "efg": 36.4,
     "oefg": 50.0
-   },
-   {
-    "players": [
-     "Akuel Marko Kot",
-     "Ethan Elijah Garita"
-    ],
-    "min": 12.6,
-    "pf": 22,
-    "pa": 30,
-    "pm": -8,
-    "poss": 24.8,
-    "pF": 26.2,
-    "pA": 23.4,
-    "ortg": 84.0,
-    "drtg": 128.0,
-    "net": -44.0,
-    "efg": 47.4,
-    "oefg": 65.9
    },
    {
     "players": [
@@ -7245,20 +7488,26 @@
   {
    "passer": "Ondřej Šiška",
    "scorer": "Ethan Elijah Garita",
-   "ast": 15,
-   "pts": 27
+   "ast": 16,
+   "pts": 29
   },
   {
    "passer": "Lamb Autrey",
    "scorer": "Ethan Elijah Garita",
-   "ast": 13,
-   "pts": 26
+   "ast": 14,
+   "pts": 28
   },
   {
    "passer": "Lamb Autrey",
    "scorer": "Immanuel Domonick Bates",
-   "ast": 7,
-   "pts": 12
+   "ast": 9,
+   "pts": 16
+  },
+  {
+   "passer": "Ondřej Šiška",
+   "scorer": "Dominik Žák",
+   "ast": 6,
+   "pts": 13
   },
   {
    "passer": "Ondřej Šiška",
@@ -7267,26 +7516,26 @@
    "pts": 11
   },
   {
+   "passer": "Dominik Žák",
+   "scorer": "Ethan Elijah Garita",
+   "ast": 6,
+   "pts": 10
+  },
+  {
+   "passer": "Lamb Autrey",
+   "scorer": "Akuel Marko Kot",
+   "ast": 5,
+   "pts": 14
+  },
+  {
    "passer": "Lamb Autrey",
    "scorer": "Ondřej Šiška",
    "ast": 5,
    "pts": 13
   },
   {
-   "passer": "Dominik Žák",
-   "scorer": "Ethan Elijah Garita",
-   "ast": 5,
-   "pts": 9
-  },
-  {
    "passer": "Marek Půlpán",
    "scorer": "Immanuel Domonick Bates",
-   "ast": 4,
-   "pts": 8
-  },
-  {
-   "passer": "Ondřej Šiška",
-   "scorer": "Dominik Žák",
    "ast": 4,
    "pts": 8
   },
@@ -7305,12 +7554,6 @@
   {
    "passer": "Jordan Oupoh",
    "scorer": "Ondřej Šiška",
-   "ast": 3,
-   "pts": 9
-  },
-  {
-   "passer": "Lamb Autrey",
-   "scorer": "Akuel Marko Kot",
    "ast": 3,
    "pts": 9
   },
@@ -7345,6 +7588,12 @@
    "pts": 7
   },
   {
+   "passer": "Adam Goga",
+   "scorer": "Dominik Žák",
+   "ast": 3,
+   "pts": 6
+  },
+  {
    "passer": "Ondřej Šiška",
    "scorer": "Jordan Oupoh",
    "ast": 3,
@@ -7369,26 +7618,20 @@
    "pts": 6
   },
   {
-   "passer": "Asa Williams",
-   "scorer": "Dominik Žák",
-   "ast": 2,
-   "pts": 5
-  },
-  {
-   "passer": "Dominik Žák",
-   "scorer": "Lamb Autrey",
-   "ast": 2,
-   "pts": 5
-  },
-  {
-   "passer": "Akuel Marko Kot",
+   "passer": "Adam Goga",
    "scorer": "Ondřej Šiška",
    "ast": 2,
-   "pts": 5
+   "pts": 6
   },
   {
-   "passer": "Adam Goga",
-   "scorer": "Michal Bálint",
+   "passer": "Ethan Elijah Garita",
+   "scorer": "Ondřej Šiška",
+   "ast": 2,
+   "pts": 6
+  },
+  {
+   "passer": "Asa Williams",
+   "scorer": "Dominik Žák",
    "ast": 2,
    "pts": 5
   }
@@ -8615,6 +8858,108 @@
     "last5": [
      9,
      8
+    ]
+   }
+  },
+  {
+   "fibaId": 2947653,
+   "nblId": 544628,
+   "date": "2026-11-21",
+   "round": "14. kolo",
+   "venue": "away",
+   "opponent": "NH Ostrava",
+   "opponentSlug": "ostrava",
+   "opponentLabel": "Ostrava",
+   "score": [
+    78,
+    100
+   ],
+   "result": "L",
+   "ot": false,
+   "ortg": 109.6,
+   "drtg": 136.2,
+   "net": -26.6,
+   "pace": 72.3,
+   "efg": 56.8,
+   "tov": 14.4,
+   "orb": 16.7,
+   "ftr": 18.6,
+   "topScorer": "Ondřej Šiška",
+   "oppEfg": 63.5,
+   "oppOrb": 26.7,
+   "tp": [
+    9,
+    24
+   ],
+   "ft": [
+    11,
+    14
+   ],
+   "second": [
+    6,
+    10
+   ],
+   "bench": [
+    22,
+    24
+   ],
+   "paint": [
+    30,
+    36
+   ],
+   "leading": [
+    21.6,
+    17.1
+   ],
+   "leadChanges": 3,
+   "maxLead": [
+    15,
+    22
+   ],
+   "maxRun": [
+    7,
+    19
+   ],
+   "astFg": [
+    [
+     15,
+     29
+    ],
+    [
+     22,
+     34
+    ]
+   ],
+   "quarters": [
+    [
+     30,
+     19
+    ],
+    [
+     19,
+     28
+    ],
+    [
+     19,
+     24
+    ],
+    [
+     10,
+     29
+    ]
+   ],
+   "segments": {
+    "first3": [
+     31,
+     24
+    ],
+    "last3": [
+     21,
+     36
+    ],
+    "last5": [
+     0,
+     15
     ]
    }
   }
@@ -13712,42 +14057,466 @@
     1,
     0,
     1
+   ],
+   [
+    10.2,
+    41.1,
+    1,
+    0,
+    0
+   ],
+   [
+    23.1,
+    67.1,
+    1,
+    0,
+    11
+   ],
+   [
+    13.9,
+    55.2,
+    0,
+    0,
+    3
+   ],
+   [
+    28.6,
+    82.9,
+    1,
+    1,
+    1
+   ],
+   [
+    30.0,
+    14.9,
+    1,
+    1,
+    1
+   ],
+   [
+    35.1,
+    72.2,
+    1,
+    1,
+    0
+   ],
+   [
+    9.1,
+    57.5,
+    1,
+    0,
+    3
+   ],
+   [
+    25.1,
+    88.3,
+    1,
+    1,
+    1
+   ],
+   [
+    25.4,
+    10.6,
+    0,
+    1,
+    1
+   ],
+   [
+    28.4,
+    79.5,
+    0,
+    1,
+    11
+   ],
+   [
+    6.9,
+    66.8,
+    0,
+    0,
+    3
+   ],
+   [
+    24.5,
+    89.7,
+    1,
+    1,
+    0
+   ],
+   [
+    17.5,
+    61.7,
+    1,
+    0,
+    14
+   ],
+   [
+    34.8,
+    29.8,
+    1,
+    1,
+    14
+   ],
+   [
+    15.6,
+    55.2,
+    1,
+    0,
+    14
+   ],
+   [
+    32.3,
+    64.6,
+    0,
+    1,
+    11
+   ],
+   [
+    16.4,
+    56.4,
+    1,
+    0,
+    8
+   ],
+   [
+    3.9,
+    63.1,
+    0,
+    0,
+    14
+   ],
+   [
+    10.2,
+    61.2,
+    0,
+    0,
+    14
+   ],
+   [
+    11.4,
+    50.7,
+    1,
+    0,
+    11
+   ],
+   [
+    9.5,
+    60.6,
+    1,
+    0,
+    3
+   ],
+   [
+    19.8,
+    60.9,
+    0,
+    0,
+    11
+   ],
+   [
+    15.3,
+    44.0,
+    1,
+    0,
+    3
+   ],
+   [
+    10.5,
+    47.3,
+    0,
+    0,
+    3
+   ],
+   [
+    34.6,
+    56.9,
+    0,
+    1,
+    1
+   ],
+   [
+    12.8,
+    61.5,
+    0,
+    0,
+    11
+   ],
+   [
+    30.1,
+    21.4,
+    0,
+    1,
+    0
+   ],
+   [
+    12.0,
+    54.4,
+    1,
+    0,
+    14
+   ],
+   [
+    33.9,
+    69.9,
+    0,
+    1,
+    13
+   ],
+   [
+    33.4,
+    37.5,
+    1,
+    1,
+    14
+   ],
+   [
+    29.2,
+    14.6,
+    0,
+    1,
+    13
+   ],
+   [
+    15.8,
+    77.0,
+    1,
+    0,
+    11
+   ],
+   [
+    21.9,
+    48.4,
+    1,
+    0,
+    11
+   ],
+   [
+    19.4,
+    27.5,
+    0,
+    0,
+    11
+   ],
+   [
+    30.0,
+    79.8,
+    0,
+    1,
+    1
+   ],
+   [
+    19.5,
+    50.4,
+    0,
+    0,
+    11
+   ],
+   [
+    8.3,
+    40.0,
+    1,
+    0,
+    1
+   ],
+   [
+    12.8,
+    41.4,
+    1,
+    0,
+    0
+   ],
+   [
+    32.8,
+    57.7,
+    0,
+    1,
+    0
+   ],
+   [
+    14.7,
+    41.9,
+    1,
+    0,
+    8
+   ],
+   [
+    10.6,
+    41.4,
+    1,
+    0,
+    1
+   ],
+   [
+    10.0,
+    49.6,
+    1,
+    0,
+    13
+   ],
+   [
+    24.3,
+    44.8,
+    1,
+    0,
+    8
+   ],
+   [
+    24.0,
+    91.9,
+    0,
+    1,
+    14
+   ],
+   [
+    20.0,
+    28.9,
+    1,
+    0,
+    3
+   ],
+   [
+    13.6,
+    43.6,
+    0,
+    0,
+    13
+   ],
+   [
+    10.0,
+    43.3,
+    1,
+    0,
+    8
+   ],
+   [
+    32.3,
+    68.5,
+    1,
+    1,
+    1
+   ],
+   [
+    14.2,
+    40.0,
+    0,
+    0,
+    11
+   ],
+   [
+    24.0,
+    48.4,
+    0,
+    0,
+    8
+   ],
+   [
+    31.2,
+    18.8,
+    1,
+    1,
+    1
+   ],
+   [
+    34.5,
+    31.2,
+    0,
+    1,
+    1
+   ],
+   [
+    15.6,
+    41.1,
+    0,
+    0,
+    0
+   ],
+   [
+    13.1,
+    43.9,
+    0,
+    0,
+    0
+   ],
+   [
+    28.9,
+    10.6,
+    0,
+    1,
+    0
+   ],
+   [
+    29.5,
+    84.8,
+    0,
+    1,
+    11
+   ],
+   [
+    32.0,
+    34.6,
+    0,
+    1,
+    13
+   ],
+   [
+    34.8,
+    54.1,
+    0,
+    1,
+    13
+   ],
+   [
+    15.9,
+    48.4,
+    0,
+    0,
+    11
    ]
   ]
  },
  "attackPlayers": [
+  {
+   "name": "Ondřej Šiška",
+   "bands": [
+    12,
+    33,
+    23,
+    46,
+    36
+   ],
+   "pts": 150
+  },
   {
    "name": "Ethan Elijah Garita",
    "bands": [
     19,
     27,
     31,
-    39,
+    41,
+    24
+   ],
+   "pts": 142
+  },
+  {
+   "name": "Lamb Autrey",
+   "bands": [
+    32,
+    26,
+    22,
+    35,
     17
    ],
    "pts": 133
   },
   {
-   "name": "Ondřej Šiška",
+   "name": "Immanuel Domonick Bates",
    "bands": [
-    12,
-    30,
-    20,
-    38,
-    31
-   ],
-   "pts": 131
-  },
-  {
-   "name": "Lamb Autrey",
-   "bands": [
-    30,
-    23,
+    8,
+    4,
     18,
-    33,
-    15
+    23,
+    23
    ],
-   "pts": 120
+   "pts": 77
   },
   {
    "name": "Asa Williams",
@@ -13761,26 +14530,26 @@
    "pts": 74
   },
   {
-   "name": "Immanuel Domonick Bates",
-   "bands": [
-    8,
-    4,
-    18,
-    23,
-    15
-   ],
-   "pts": 69
-  },
-  {
    "name": "Dominik Žák",
    "bands": [
-    22,
-    6,
+    24,
+    9,
     2,
-    13,
-    11
+    15,
+    14
    ],
-   "pts": 54
+   "pts": 64
+  },
+  {
+   "name": "Akuel Marko Kot",
+   "bands": [
+    0,
+    2,
+    15,
+    10,
+    22
+   ],
+   "pts": 49
   },
   {
    "name": "Michal Bálint",
@@ -13794,6 +14563,17 @@
    "pts": 40
   },
   {
+   "name": "Jakob Hanzálek",
+   "bands": [
+    10,
+    3,
+    12,
+    5,
+    6
+   ],
+   "pts": 37
+  },
+  {
    "name": "Adam Goga",
    "bands": [
     8,
@@ -13805,17 +14585,6 @@
    "pts": 36
   },
   {
-   "name": "Akuel Marko Kot",
-   "bands": [
-    0,
-    0,
-    12,
-    8,
-    15
-   ],
-   "pts": 35
-  },
-  {
    "name": "Jordan Oupoh",
    "bands": [
     3,
@@ -13825,17 +14594,6 @@
     12
    ],
    "pts": 33
-  },
-  {
-   "name": "Jakob Hanzálek",
-   "bands": [
-    8,
-    3,
-    12,
-    5,
-    4
-   ],
-   "pts": 32
   },
   {
    "name": "Christian Hinckson",
@@ -13873,66 +14631,66 @@
  ],
  "segments": {
   "first3": [
-   201,
-   333
+   232,
+   357
   ],
   "last3": [
-   271,
-   315
+   292,
+   351
   ],
   "last5": [
    105,
-   137
+   152
   ]
  },
  "ranks": {
   "ppg": 12,
-  "oppg": 9,
+  "oppg": 10,
   "diff": 12,
   "ortg": 12,
   "drtg": 10,
   "net": 12,
   "pace": 9,
-  "efg": 12,
+  "efg": 11,
   "ts": 12,
   "tov": 12,
   "orb": 12,
   "drb": 12,
-  "ftr": 11,
+  "ftr": 12,
   "three_par": 11,
-  "three": 11,
+  "three": 10,
   "two": 11,
-  "ft": 12,
+  "ft": 11,
   "ast_pct": 11,
   "ast_to": 12,
   "stl_pct": 5,
   "blk_pct": 3,
   "opp_efg": 9,
   "opp_tov": 4,
-  "opp_ftr": 10,
+  "opp_ftr": 12,
   "opp_three": 12,
   "of": 12
  },
  "standing": {
-  "pos": 11,
+  "pos": 12,
   "slug": "olomoucko",
   "name": "BK Olomoucko",
   "label": "Olomoucko",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
-  "gp": 12,
+  "gp": 13,
   "w": 1,
-  "l": 11,
-  "pct": 0.083,
-  "pf": 808,
-  "pa": 1068,
-  "diff": -260,
-  "ppg": 67.3,
-  "oppg": 89.0,
+  "l": 12,
+  "pct": 0.077,
+  "pf": 886,
+  "pa": 1168,
+  "diff": -282,
+  "ppg": 68.2,
+  "oppg": 89.8,
   "home": "1-5",
-  "away": "0-6",
+  "away": "0-7",
   "close": "1-1",
   "ot": 0,
-  "streak": "L9",
+  "streak": "L10",
   "last5": "LLLLL"
  },
  "players": [
@@ -13944,108 +14702,108 @@
    "teamLabel": "Olomoucko",
    "shirt": "99",
    "pos": "",
-   "gp": 8,
-   "gs": 8,
-   "min": 268.4,
+   "gp": 9,
+   "gs": 9,
+   "min": 305.3,
    "totals": {
-    "pts": 120,
-    "fgm": 45,
-    "fga": 102,
+    "pts": 133,
+    "fgm": 49,
+    "fga": 115,
     "tpm": 15,
-    "tpa": 30,
-    "twopm": 30,
-    "twopa": 72,
-    "ftm": 15,
-    "fta": 22,
-    "oreb": 6,
-    "dreb": 42,
-    "reb": 48,
-    "ast": 39,
-    "to": 25,
-    "stl": 17,
+    "tpa": 33,
+    "twopm": 34,
+    "twopa": 82,
+    "ftm": 20,
+    "fta": 28,
+    "oreb": 7,
+    "dreb": 48,
+    "reb": 55,
+    "ast": 45,
+    "to": 28,
+    "stl": 19,
     "blk": 4,
-    "blkr": 1,
+    "blkr": 2,
     "pf": 12,
-    "foulon": 21,
-    "pm": -119,
-    "paint": 46,
-    "fast": 30,
-    "second": 6
+    "foulon": 27,
+    "pm": -140,
+    "paint": 48,
+    "fast": 32,
+    "second": 8
    },
    "perGame": {
-    "pts": 15.0,
-    "fgm": 5.6,
+    "pts": 14.8,
+    "fgm": 5.4,
     "fga": 12.8,
-    "tpm": 1.9,
-    "tpa": 3.8,
+    "tpm": 1.7,
+    "tpa": 3.7,
     "twopm": 3.8,
-    "twopa": 9.0,
-    "ftm": 1.9,
-    "fta": 2.8,
+    "twopa": 9.1,
+    "ftm": 2.2,
+    "fta": 3.1,
     "oreb": 0.8,
-    "dreb": 5.2,
-    "reb": 6.0,
-    "ast": 4.9,
+    "dreb": 5.3,
+    "reb": 6.1,
+    "ast": 5.0,
     "to": 3.1,
     "stl": 2.1,
-    "blk": 0.5,
-    "blkr": 0.1,
-    "pf": 1.5,
-    "foulon": 2.6,
-    "pm": -14.9,
-    "paint": 5.8,
-    "fast": 3.8,
-    "second": 0.8,
-    "min": 33.5,
-    "eff": 17.4,
-    "gmsc": 12.2
+    "blk": 0.4,
+    "blkr": 0.2,
+    "pf": 1.3,
+    "foulon": 3.0,
+    "pm": -15.6,
+    "paint": 5.3,
+    "fast": 3.6,
+    "second": 0.9,
+    "min": 33.9,
+    "eff": 17.1,
+    "gmsc": 12.1
    },
    "per40": {
-    "pts": 17.9,
+    "pts": 17.4,
     "reb": 7.2,
-    "ast": 5.8,
+    "ast": 5.9,
     "stl": 2.5,
-    "blk": 0.6,
+    "blk": 0.5,
     "to": 3.7
    },
-   "ts": 53.7,
-   "efg": 51.5,
-   "fg": 44.1,
-   "two": 41.7,
-   "three": 50.0,
-   "ft": 68.2,
-   "usg": 23.1,
-   "astTo": 1.56,
-   "pm": -119,
-   "pm40": -17.7,
+   "ts": 52.2,
+   "efg": 49.1,
+   "fg": 42.6,
+   "two": 41.5,
+   "three": 45.5,
+   "ft": 71.4,
+   "usg": 23.5,
+   "astTo": 1.61,
+   "pm": -140,
+   "pm40": -18.3,
    "on": {
-    "min": 268.5,
-    "pf": 466,
-    "pa": 586,
-    "ortg": 88.6,
-    "drtg": 112.2,
-    "net": -23.6
+    "min": 305.4,
+    "pf": 534,
+    "pa": 675,
+    "ortg": 90.6,
+    "drtg": 114.7,
+    "net": -24.0
    },
    "off": {
-    "min": 51.5,
-    "ortg": 84.8,
-    "drtg": 117.2,
-    "net": -32.4
+    "min": 54.6,
+    "ortg": 88.2,
+    "drtg": 120.0,
+    "net": -31.8
    },
-   "onOff": 8.8,
+   "onOff": 7.8,
    "dd": 0,
    "td": 0,
    "high": 27,
    "zones": {
     "paint": {
-     "m": 25,
-     "a": 45,
-     "pct": 55.6
+     "m": 26,
+     "a": 49,
+     "pct": 53.1
     },
     "mid": {
-     "m": 5,
-     "a": 27,
-     "pct": 18.5
+     "m": 8,
+     "a": 33,
+     "pct": 24.2
     },
     "corner3": {
      "m": 5,
@@ -14054,8 +14812,8 @@
     },
     "above3": {
      "m": 10,
-     "a": 24,
-     "pct": 41.7
+     "a": 27,
+     "pct": 37.0
     }
    },
    "log": [
@@ -14218,6 +14976,26 @@
      "pm": -21,
      "eff": 11,
      "ts": 50.0
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 36.9,
+     "pts": 13,
+     "reb": 7,
+     "ast": 6,
+     "stl": 2,
+     "blk": 0,
+     "to": 3,
+     "fg": "4/13",
+     "tp": "0/3",
+     "ft": "5/6",
+     "pm": -21,
+     "eff": 15,
+     "ts": 41.6
     }
    ]
   },
@@ -14229,108 +15007,108 @@
    "teamLabel": "Olomoucko",
    "shirt": "20",
    "pos": "",
-   "gp": 10,
-   "gs": 10,
-   "min": 276.5,
+   "gp": 11,
+   "gs": 11,
+   "min": 307.0,
    "totals": {
-    "pts": 133,
-    "fgm": 52,
-    "fga": 87,
+    "pts": 142,
+    "fgm": 56,
+    "fga": 94,
     "tpm": 0,
     "tpa": 3,
-    "twopm": 52,
-    "twopa": 84,
-    "ftm": 29,
-    "fta": 47,
+    "twopm": 56,
+    "twopa": 91,
+    "ftm": 30,
+    "fta": 49,
     "oreb": 16,
-    "dreb": 43,
-    "reb": 59,
-    "ast": 10,
-    "to": 24,
-    "stl": 7,
+    "dreb": 46,
+    "reb": 62,
+    "ast": 12,
+    "to": 25,
+    "stl": 8,
     "blk": 2,
-    "blkr": 3,
-    "pf": 33,
-    "foulon": 37,
-    "pm": -187,
-    "paint": 104,
+    "blkr": 4,
+    "pf": 37,
+    "foulon": 40,
+    "pm": -205,
+    "paint": 110,
     "fast": 14,
     "second": 22
    },
    "perGame": {
-    "pts": 13.3,
-    "fgm": 5.2,
-    "fga": 8.7,
+    "pts": 12.9,
+    "fgm": 5.1,
+    "fga": 8.5,
     "tpm": 0.0,
     "tpa": 0.3,
-    "twopm": 5.2,
-    "twopa": 8.4,
-    "ftm": 2.9,
-    "fta": 4.7,
-    "oreb": 1.6,
-    "dreb": 4.3,
-    "reb": 5.9,
-    "ast": 1.0,
-    "to": 2.4,
+    "twopm": 5.1,
+    "twopa": 8.3,
+    "ftm": 2.7,
+    "fta": 4.5,
+    "oreb": 1.5,
+    "dreb": 4.2,
+    "reb": 5.6,
+    "ast": 1.1,
+    "to": 2.3,
     "stl": 0.7,
     "blk": 0.2,
-    "blkr": 0.3,
-    "pf": 3.3,
-    "foulon": 3.7,
-    "pm": -18.7,
-    "paint": 10.4,
-    "fast": 1.4,
-    "second": 2.2,
-    "min": 27.6,
-    "eff": 13.4,
-    "gmsc": 8.8
+    "blkr": 0.4,
+    "pf": 3.4,
+    "foulon": 3.6,
+    "pm": -18.6,
+    "paint": 10.0,
+    "fast": 1.3,
+    "second": 2.0,
+    "min": 27.9,
+    "eff": 13.1,
+    "gmsc": 8.5
    },
    "per40": {
-    "pts": 19.2,
-    "reb": 8.5,
-    "ast": 1.4,
+    "pts": 18.5,
+    "reb": 8.1,
+    "ast": 1.6,
     "stl": 1.0,
     "blk": 0.3,
-    "to": 3.5
+    "to": 3.3
    },
-   "ts": 61.8,
-   "efg": 59.8,
-   "fg": 59.8,
-   "two": 61.9,
+   "ts": 61.4,
+   "efg": 59.6,
+   "fg": 59.6,
+   "two": 61.5,
    "three": 0.0,
-   "ft": 61.7,
-   "usg": 21.6,
-   "astTo": 0.42,
-   "pm": -187,
-   "pm40": -27.1,
+   "ft": 61.2,
+   "usg": 21.1,
+   "astTo": 0.48,
+   "pm": -205,
+   "pm40": -26.7,
    "on": {
-    "min": 276.6,
-    "pf": 471,
-    "pa": 658,
-    "ortg": 86.9,
-    "drtg": 120.2,
-    "net": -33.3
+    "min": 307.1,
+    "pf": 525,
+    "pa": 730,
+    "ortg": 88.2,
+    "drtg": 121.4,
+    "net": -33.2
    },
    "off": {
-    "min": 123.4,
-    "ortg": 81.2,
-    "drtg": 99.7,
-    "net": -18.5
+    "min": 132.9,
+    "ortg": 84.9,
+    "drtg": 103.0,
+    "net": -18.2
    },
-   "onOff": -14.8,
+   "onOff": -15.0,
    "dd": 1,
    "td": 0,
    "high": 21,
    "zones": {
     "paint": {
-     "m": 52,
-     "a": 80,
-     "pct": 65.0
+     "m": 55,
+     "a": 86,
+     "pct": 64.0
     },
     "mid": {
-     "m": 0,
-     "a": 4,
-     "pct": 0.0
+     "m": 1,
+     "a": 5,
+     "pct": 20.0
     },
     "corner3": {
      "m": 0,
@@ -14543,6 +15321,26 @@
      "pm": -25,
      "eff": 18,
      "ts": 73.3
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 30.5,
+     "pts": 9,
+     "reb": 3,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/7",
+     "tp": "0/0",
+     "ft": "1/2",
+     "pm": -18,
+     "eff": 10,
+     "ts": 57.1
     }
    ]
   },
@@ -14554,103 +15352,103 @@
    "teamLabel": "Olomoucko",
    "shirt": "0",
    "pos": "",
-   "gp": 3,
+   "gp": 4,
    "gs": 2,
-   "min": 71.5,
+   "min": 90.2,
    "totals": {
-    "pts": 35,
-    "fgm": 11,
-    "fga": 36,
-    "tpm": 8,
-    "tpa": 19,
-    "twopm": 3,
-    "twopa": 17,
-    "ftm": 5,
-    "fta": 6,
+    "pts": 49,
+    "fgm": 16,
+    "fga": 44,
+    "tpm": 10,
+    "tpa": 22,
+    "twopm": 6,
+    "twopa": 22,
+    "ftm": 7,
+    "fta": 8,
     "oreb": 2,
-    "dreb": 7,
-    "reb": 9,
+    "dreb": 10,
+    "reb": 12,
     "ast": 5,
-    "to": 9,
-    "stl": 1,
-    "blk": 3,
-    "blkr": 2,
-    "pf": 8,
-    "foulon": 6,
-    "pm": -27,
-    "paint": 2,
+    "to": 10,
+    "stl": 2,
+    "blk": 4,
+    "blkr": 3,
+    "pf": 11,
+    "foulon": 9,
+    "pm": -42,
+    "paint": 8,
     "fast": 0,
     "second": 3
    },
    "perGame": {
-    "pts": 11.7,
-    "fgm": 3.7,
-    "fga": 12.0,
-    "tpm": 2.7,
-    "tpa": 6.3,
-    "twopm": 1.0,
-    "twopa": 5.7,
-    "ftm": 1.7,
+    "pts": 12.2,
+    "fgm": 4.0,
+    "fga": 11.0,
+    "tpm": 2.5,
+    "tpa": 5.5,
+    "twopm": 1.5,
+    "twopa": 5.5,
+    "ftm": 1.8,
     "fta": 2.0,
-    "oreb": 0.7,
-    "dreb": 2.3,
+    "oreb": 0.5,
+    "dreb": 2.5,
     "reb": 3.0,
-    "ast": 1.7,
-    "to": 3.0,
-    "stl": 0.3,
+    "ast": 1.2,
+    "to": 2.5,
+    "stl": 0.5,
     "blk": 1.0,
-    "blkr": 0.7,
-    "pf": 2.7,
-    "foulon": 2.0,
-    "pm": -9.0,
-    "paint": 0.7,
+    "blkr": 0.8,
+    "pf": 2.8,
+    "foulon": 2.2,
+    "pm": -10.5,
+    "paint": 2.0,
     "fast": 0.0,
-    "second": 1.0,
-    "min": 23.8,
-    "eff": 6.0,
-    "gmsc": 3.9
+    "second": 0.8,
+    "min": 22.6,
+    "eff": 8.2,
+    "gmsc": 5.6
    },
    "per40": {
-    "pts": 19.6,
-    "reb": 5.0,
-    "ast": 2.8,
-    "stl": 0.6,
-    "blk": 1.7,
-    "to": 5.0
+    "pts": 21.7,
+    "reb": 5.3,
+    "ast": 2.2,
+    "stl": 0.9,
+    "blk": 1.8,
+    "to": 4.4
    },
-   "ts": 45.3,
-   "efg": 41.7,
-   "fg": 30.6,
-   "two": 17.6,
-   "three": 42.1,
-   "ft": 83.3,
-   "usg": 30.3,
-   "astTo": 0.56,
-   "pm": -27,
-   "pm40": -15.1,
+   "ts": 51.6,
+   "efg": 47.7,
+   "fg": 36.4,
+   "two": 27.3,
+   "three": 45.5,
+   "ft": 87.5,
+   "usg": 29.8,
+   "astTo": 0.5,
+   "pm": -42,
+   "pm40": -18.6,
    "on": {
-    "min": 71.4,
-    "pf": 126,
-    "pa": 153,
-    "ortg": 89.8,
-    "drtg": 106.4,
-    "net": -16.5
+    "min": 90.2,
+    "pf": 158,
+    "pa": 200,
+    "ortg": 90.1,
+    "drtg": 110.8,
+    "net": -20.7
    },
    "off": {
-    "min": 48.6,
-    "ortg": 99.9,
-    "drtg": 128.3,
-    "net": -28.3
+    "min": 69.8,
+    "ortg": 107.4,
+    "drtg": 132.5,
+    "net": -25.1
    },
-   "onOff": 11.8,
+   "onOff": 4.4,
    "dd": 0,
    "td": 0,
-   "high": 13,
+   "high": 14,
    "zones": {
     "paint": {
-     "m": 0,
-     "a": 9,
-     "pct": 0.0
+     "m": 3,
+     "a": 14,
+     "pct": 21.4
     },
     "mid": {
      "m": 3,
@@ -14663,9 +15461,9 @@
      "pct": 20.0
     },
     "above3": {
-     "m": 7,
-     "a": 14,
-     "pct": 50.0
+     "m": 9,
+     "a": 17,
+     "pct": 52.9
     }
    },
    "log": [
@@ -14728,6 +15526,26 @@
      "pm": -11,
      "eff": 3,
      "ts": 57.1
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 18.7,
+     "pts": 14,
+     "reb": 3,
+     "ast": 0,
+     "stl": 1,
+     "blk": 1,
+     "to": 1,
+     "fg": "5/8",
+     "tp": "2/3",
+     "ft": "2/2",
+     "pm": -15,
+     "eff": 15,
+     "ts": 78.8
     }
    ]
   },
@@ -14739,103 +15557,103 @@
    "teamLabel": "Olomoucko",
    "shirt": "9",
    "pos": "",
-   "gp": 12,
-   "gs": 10,
-   "min": 303.5,
+   "gp": 13,
+   "gs": 11,
+   "min": 332.6,
    "totals": {
-    "pts": 131,
-    "fgm": 41,
-    "fga": 105,
-    "tpm": 25,
-    "tpa": 70,
-    "twopm": 16,
-    "twopa": 35,
+    "pts": 150,
+    "fgm": 48,
+    "fga": 116,
+    "tpm": 30,
+    "tpa": 79,
+    "twopm": 18,
+    "twopa": 37,
     "ftm": 24,
     "fta": 33,
     "oreb": 4,
-    "dreb": 21,
-    "reb": 25,
-    "ast": 36,
-    "to": 32,
-    "stl": 10,
+    "dreb": 24,
+    "reb": 28,
+    "ast": 39,
+    "to": 35,
+    "stl": 11,
     "blk": 2,
     "blkr": 4,
-    "pf": 36,
-    "foulon": 48,
-    "pm": -186,
-    "paint": 32,
+    "pf": 40,
+    "foulon": 49,
+    "pm": -203,
+    "paint": 36,
     "fast": 15,
     "second": 7
    },
    "perGame": {
-    "pts": 10.9,
-    "fgm": 3.4,
-    "fga": 8.8,
-    "tpm": 2.1,
-    "tpa": 5.8,
-    "twopm": 1.3,
-    "twopa": 2.9,
-    "ftm": 2.0,
-    "fta": 2.8,
+    "pts": 11.5,
+    "fgm": 3.7,
+    "fga": 8.9,
+    "tpm": 2.3,
+    "tpa": 6.1,
+    "twopm": 1.4,
+    "twopa": 2.8,
+    "ftm": 1.8,
+    "fta": 2.5,
     "oreb": 0.3,
     "dreb": 1.8,
-    "reb": 2.1,
+    "reb": 2.2,
     "ast": 3.0,
     "to": 2.7,
     "stl": 0.8,
     "blk": 0.2,
     "blkr": 0.3,
-    "pf": 3.0,
-    "foulon": 4.0,
-    "pm": -15.5,
-    "paint": 2.7,
+    "pf": 3.1,
+    "foulon": 3.8,
+    "pm": -15.6,
+    "paint": 2.8,
     "fast": 1.2,
-    "second": 0.6,
-    "min": 25.3,
-    "eff": 8.2,
-    "gmsc": 5.8
+    "second": 0.5,
+    "min": 25.6,
+    "eff": 9.1,
+    "gmsc": 6.4
    },
    "per40": {
-    "pts": 17.3,
-    "reb": 3.3,
+    "pts": 18.0,
+    "reb": 3.4,
     "ast": 4.7,
     "stl": 1.3,
-    "blk": 0.3,
+    "blk": 0.2,
     "to": 4.2
    },
-   "ts": 54.8,
-   "efg": 51.0,
-   "fg": 39.0,
-   "two": 45.7,
-   "three": 35.7,
+   "ts": 57.5,
+   "efg": 54.3,
+   "fg": 41.4,
+   "two": 48.6,
+   "three": 38.0,
    "ft": 72.7,
-   "usg": 22.7,
-   "astTo": 1.12,
-   "pm": -186,
-   "pm40": -24.5,
+   "usg": 22.9,
+   "astTo": 1.11,
+   "pm": -203,
+   "pm40": -24.4,
    "on": {
-    "min": 303.5,
-    "pf": 514,
-    "pa": 699,
-    "ortg": 86.3,
-    "drtg": 117.8,
+    "min": 332.6,
+    "pf": 573,
+    "pa": 775,
+    "ortg": 88.7,
+    "drtg": 120.4,
     "net": -31.6
    },
    "off": {
-    "min": 176.5,
-    "ortg": 85.3,
+    "min": 187.4,
+    "ortg": 85.5,
     "drtg": 104.4,
-    "net": -19.1
+    "net": -18.9
    },
-   "onOff": -12.5,
+   "onOff": -12.7,
    "dd": 0,
    "td": 0,
    "high": 24,
    "zones": {
     "paint": {
-     "m": 15,
-     "a": 34,
-     "pct": 44.1
+     "m": 17,
+     "a": 36,
+     "pct": 47.2
     },
     "mid": {
      "m": 1,
@@ -14848,9 +15666,9 @@
      "pct": 25.0
     },
     "above3": {
-     "m": 24,
-     "a": 66,
-     "pct": 36.4
+     "m": 29,
+     "a": 75,
+     "pct": 38.7
     }
    },
    "log": [
@@ -15093,6 +15911,26 @@
      "pm": -16,
      "eff": 9,
      "ts": 51.5
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 29.1,
+     "pts": 19,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "7/11",
+     "tp": "5/9",
+     "ft": "0/0",
+     "pm": -17,
+     "eff": 19,
+     "ts": 86.4
     }
    ]
   },
@@ -15369,103 +16207,103 @@
    "teamLabel": "Olomoucko",
    "shirt": "77",
    "pos": "",
-   "gp": 4,
-   "gs": 2,
-   "min": 87.0,
+   "gp": 5,
+   "gs": 3,
+   "min": 111.0,
    "totals": {
-    "pts": 32,
-    "fgm": 11,
-    "fga": 25,
+    "pts": 37,
+    "fgm": 12,
+    "fga": 31,
     "tpm": 4,
-    "tpa": 15,
-    "twopm": 7,
-    "twopa": 10,
-    "ftm": 6,
-    "fta": 8,
-    "oreb": 1,
-    "dreb": 18,
-    "reb": 19,
-    "ast": 3,
+    "tpa": 19,
+    "twopm": 8,
+    "twopa": 12,
+    "ftm": 9,
+    "fta": 11,
+    "oreb": 2,
+    "dreb": 19,
+    "reb": 21,
+    "ast": 4,
     "to": 6,
     "stl": 5,
     "blk": 0,
     "blkr": 0,
-    "pf": 13,
-    "foulon": 13,
-    "pm": -30,
-    "paint": 8,
+    "pf": 14,
+    "foulon": 16,
+    "pm": -45,
+    "paint": 10,
     "fast": 4,
-    "second": 2
+    "second": 4
    },
    "perGame": {
-    "pts": 8.0,
-    "fgm": 2.8,
+    "pts": 7.4,
+    "fgm": 2.4,
     "fga": 6.2,
-    "tpm": 1.0,
+    "tpm": 0.8,
     "tpa": 3.8,
-    "twopm": 1.8,
-    "twopa": 2.5,
-    "ftm": 1.5,
-    "fta": 2.0,
-    "oreb": 0.2,
-    "dreb": 4.5,
-    "reb": 4.8,
+    "twopm": 1.6,
+    "twopa": 2.4,
+    "ftm": 1.8,
+    "fta": 2.2,
+    "oreb": 0.4,
+    "dreb": 3.8,
+    "reb": 4.2,
     "ast": 0.8,
-    "to": 1.5,
-    "stl": 1.2,
+    "to": 1.2,
+    "stl": 1.0,
     "blk": 0.0,
     "blkr": 0.0,
-    "pf": 3.2,
+    "pf": 2.8,
     "foulon": 3.2,
-    "pm": -7.5,
+    "pm": -9.0,
     "paint": 2.0,
-    "fast": 1.0,
-    "second": 0.5,
-    "min": 21.8,
-    "eff": 9.2,
-    "gmsc": 5.0
+    "fast": 0.8,
+    "second": 0.8,
+    "min": 22.2,
+    "eff": 8.0,
+    "gmsc": 4.5
    },
    "per40": {
-    "pts": 14.7,
-    "reb": 8.7,
+    "pts": 13.3,
+    "reb": 7.6,
     "ast": 1.4,
-    "stl": 2.3,
+    "stl": 1.8,
     "blk": 0.0,
-    "to": 2.8
+    "to": 2.2
    },
-   "ts": 56.1,
-   "efg": 52.0,
-   "fg": 44.0,
-   "two": 70.0,
-   "three": 26.7,
-   "ft": 75.0,
-   "usg": 18.3,
-   "astTo": 0.5,
-   "pm": -30,
-   "pm40": -13.8,
+   "ts": 51.6,
+   "efg": 45.2,
+   "fg": 38.7,
+   "two": 66.7,
+   "three": 21.1,
+   "ft": 81.8,
+   "usg": 17.8,
+   "astTo": 0.67,
+   "pm": -45,
+   "pm40": -16.2,
    "on": {
-    "min": 87.1,
-    "pf": 148,
-    "pa": 178,
-    "ortg": 89.2,
-    "drtg": 104.9,
-    "net": -15.7
+    "min": 111.1,
+    "pf": 195,
+    "pa": 240,
+    "ortg": 93.1,
+    "drtg": 113.0,
+    "net": -19.9
    },
    "off": {
-    "min": 72.9,
-    "ortg": 91.4,
-    "drtg": 123.3,
-    "net": -31.9
+    "min": 88.9,
+    "ortg": 94.7,
+    "drtg": 123.4,
+    "net": -28.7
    },
-   "onOff": 16.2,
+   "onOff": 8.8,
    "dd": 0,
    "td": 0,
    "high": 12,
    "zones": {
     "paint": {
-     "m": 4,
-     "a": 6,
-     "pct": 66.7
+     "m": 5,
+     "a": 8,
+     "pct": 62.5
     },
     "mid": {
      "m": 3,
@@ -15479,8 +16317,8 @@
     },
     "above3": {
      "m": 4,
-     "a": 12,
-     "pct": 33.3
+     "a": 16,
+     "pct": 25.0
     }
    },
    "log": [
@@ -15563,6 +16401,26 @@
      "pm": -3,
      "eff": 8,
      "ts": 59.2
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 24.0,
+     "pts": 5,
+     "reb": 2,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "1/6",
+     "tp": "0/4",
+     "ft": "3/3",
+     "pm": -15,
+     "eff": 3,
+     "ts": 34.2
     }
    ]
   },
@@ -15574,108 +16432,108 @@
    "teamLabel": "Olomoucko",
    "shirt": "13",
    "pos": "",
-   "gp": 12,
+   "gp": 13,
    "gs": 2,
-   "min": 190.3,
+   "min": 207.9,
    "totals": {
-    "pts": 69,
-    "fgm": 28,
-    "fga": 57,
+    "pts": 77,
+    "fgm": 32,
+    "fga": 62,
     "tpm": 0,
     "tpa": 0,
-    "twopm": 28,
-    "twopa": 57,
+    "twopm": 32,
+    "twopa": 62,
     "ftm": 13,
-    "fta": 23,
-    "oreb": 18,
-    "dreb": 31,
-    "reb": 49,
+    "fta": 24,
+    "oreb": 19,
+    "dreb": 32,
+    "reb": 51,
     "ast": 5,
-    "to": 15,
+    "to": 16,
     "stl": 1,
-    "blk": 18,
+    "blk": 20,
     "blkr": 4,
-    "pf": 33,
-    "foulon": 23,
-    "pm": -37,
-    "paint": 56,
+    "pf": 35,
+    "foulon": 25,
+    "pm": -49,
+    "paint": 62,
     "fast": 5,
-    "second": 12
+    "second": 14
    },
    "perGame": {
-    "pts": 5.8,
-    "fgm": 2.3,
+    "pts": 5.9,
+    "fgm": 2.5,
     "fga": 4.8,
     "tpm": 0.0,
     "tpa": 0.0,
-    "twopm": 2.3,
+    "twopm": 2.5,
     "twopa": 4.8,
-    "ftm": 1.1,
-    "fta": 1.9,
+    "ftm": 1.0,
+    "fta": 1.8,
     "oreb": 1.5,
-    "dreb": 2.6,
-    "reb": 4.1,
+    "dreb": 2.5,
+    "reb": 3.9,
     "ast": 0.4,
     "to": 1.2,
     "stl": 0.1,
     "blk": 1.5,
     "blkr": 0.3,
-    "pf": 2.8,
+    "pf": 2.7,
     "foulon": 1.9,
-    "pm": -3.1,
-    "paint": 4.7,
+    "pm": -3.8,
+    "paint": 4.8,
     "fast": 0.4,
-    "second": 1.0,
-    "min": 15.9,
-    "eff": 7.3,
-    "gmsc": 3.9
+    "second": 1.1,
+    "min": 16.0,
+    "eff": 7.5,
+    "gmsc": 4.1
    },
    "per40": {
-    "pts": 14.5,
-    "reb": 10.3,
-    "ast": 1.1,
+    "pts": 14.8,
+    "reb": 9.8,
+    "ast": 1.0,
     "stl": 0.2,
     "blk": 3.8,
-    "to": 3.2
+    "to": 3.1
    },
-   "ts": 51.4,
-   "efg": 49.1,
-   "fg": 49.1,
-   "two": 49.1,
+   "ts": 53.1,
+   "efg": 51.6,
+   "fg": 51.6,
+   "two": 51.6,
    "three": null,
-   "ft": 56.5,
+   "ft": 54.2,
    "usg": 19.4,
-   "astTo": 0.33,
-   "pm": -37,
-   "pm40": -7.8,
+   "astTo": 0.31,
+   "pm": -49,
+   "pm40": -9.4,
    "on": {
-    "min": 190.2,
-    "pf": 321,
-    "pa": 358,
-    "ortg": 87.0,
-    "drtg": 97.1,
-    "net": -10.2
+    "min": 207.8,
+    "pf": 359,
+    "pa": 408,
+    "ortg": 89.6,
+    "drtg": 100.8,
+    "net": -11.3
    },
    "off": {
-    "min": 289.8,
-    "ortg": 85.2,
-    "drtg": 122.8,
-    "net": -37.5
+    "min": 312.2,
+    "ortg": 86.3,
+    "drtg": 123.4,
+    "net": -37.2
    },
-   "onOff": 27.3,
+   "onOff": 25.9,
    "dd": 0,
    "td": 0,
    "high": 11,
    "zones": {
     "paint": {
-     "m": 28,
-     "a": 56,
-     "pct": 50.0
+     "m": 31,
+     "a": 59,
+     "pct": 52.5
     },
     "mid": {
-     "m": 0,
-     "a": 1,
-     "pct": 0.0
+     "m": 1,
+     "a": 3,
+     "pct": 33.3
     },
     "corner3": {
      "m": 0,
@@ -15928,6 +16786,26 @@
      "pm": 1,
      "eff": 9,
      "ts": 54.3
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 17.6,
+     "pts": 8,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 2,
+     "to": 1,
+     "fg": "4/5",
+     "tp": "0/0",
+     "ft": "0/1",
+     "pm": -12,
+     "eff": 9,
+     "ts": 73.5
     }
    ]
   },
@@ -16164,103 +17042,103 @@
    "teamLabel": "Olomoucko",
    "shirt": "22",
    "pos": "",
-   "gp": 12,
-   "gs": 12,
-   "min": 328.3,
+   "gp": 13,
+   "gs": 13,
+   "min": 356.2,
    "totals": {
-    "pts": 54,
-    "fgm": 21,
-    "fga": 64,
-    "tpm": 2,
-    "tpa": 23,
-    "twopm": 19,
-    "twopa": 41,
+    "pts": 64,
+    "fgm": 25,
+    "fga": 73,
+    "tpm": 4,
+    "tpa": 28,
+    "twopm": 21,
+    "twopa": 45,
     "ftm": 10,
     "fta": 21,
-    "oreb": 15,
-    "dreb": 26,
-    "reb": 41,
-    "ast": 16,
-    "to": 23,
+    "oreb": 16,
+    "dreb": 28,
+    "reb": 44,
+    "ast": 17,
+    "to": 25,
     "stl": 13,
     "blk": 4,
     "blkr": 2,
-    "pf": 27,
-    "foulon": 14,
-    "pm": -230,
-    "paint": 38,
+    "pf": 29,
+    "foulon": 15,
+    "pm": -250,
+    "paint": 42,
     "fast": 14,
     "second": 3
    },
    "perGame": {
-    "pts": 4.5,
-    "fgm": 1.8,
-    "fga": 5.3,
-    "tpm": 0.2,
-    "tpa": 1.9,
+    "pts": 4.9,
+    "fgm": 1.9,
+    "fga": 5.6,
+    "tpm": 0.3,
+    "tpa": 2.2,
     "twopm": 1.6,
-    "twopa": 3.4,
+    "twopa": 3.5,
     "ftm": 0.8,
-    "fta": 1.8,
+    "fta": 1.6,
     "oreb": 1.2,
     "dreb": 2.2,
     "reb": 3.4,
     "ast": 1.3,
     "to": 1.9,
-    "stl": 1.1,
+    "stl": 1.0,
     "blk": 0.3,
     "blkr": 0.2,
     "pf": 2.2,
     "foulon": 1.2,
     "pm": -19.2,
     "paint": 3.2,
-    "fast": 1.2,
+    "fast": 1.1,
     "second": 0.2,
     "min": 27.4,
-    "eff": 4.2,
-    "gmsc": 2.1
+    "eff": 4.5,
+    "gmsc": 2.2
    },
    "per40": {
-    "pts": 6.6,
-    "reb": 5.0,
+    "pts": 7.2,
+    "reb": 4.9,
     "ast": 1.9,
-    "stl": 1.6,
-    "blk": 0.5,
+    "stl": 1.5,
+    "blk": 0.4,
     "to": 2.8
    },
-   "ts": 36.9,
-   "efg": 34.4,
-   "fg": 32.8,
-   "two": 46.3,
-   "three": 8.7,
+   "ts": 38.9,
+   "efg": 37.0,
+   "fg": 34.2,
+   "two": 46.7,
+   "three": 14.3,
    "ft": 47.6,
-   "usg": 13.4,
-   "astTo": 0.7,
-   "pm": -230,
-   "pm40": -28.0,
+   "usg": 13.9,
+   "astTo": 0.68,
+   "pm": -250,
+   "pm40": -28.1,
    "on": {
-    "min": 328.3,
-    "pf": 539,
-    "pa": 769,
-    "ortg": 83.3,
-    "drtg": 118.5,
-    "net": -35.2
+    "min": 356.2,
+    "pf": 593,
+    "pa": 843,
+    "ortg": 85.0,
+    "drtg": 120.3,
+    "net": -35.4
    },
    "off": {
-    "min": 151.7,
-    "ortg": 91.7,
-    "drtg": 100.3,
-    "net": -8.6
+    "min": 163.8,
+    "ortg": 93.3,
+    "drtg": 101.6,
+    "net": -8.3
    },
-   "onOff": -26.6,
+   "onOff": -27.1,
    "dd": 0,
    "td": 0,
-   "high": 9,
+   "high": 10,
    "zones": {
     "paint": {
-     "m": 19,
-     "a": 37,
-     "pct": 51.4
+     "m": 21,
+     "a": 41,
+     "pct": 51.2
     },
     "mid": {
      "m": 0,
@@ -16273,9 +17151,9 @@
      "pct": 0.0
     },
     "above3": {
-     "m": 2,
-     "a": 18,
-     "pct": 11.1
+     "m": 4,
+     "a": 23,
+     "pct": 17.4
     }
    },
    "log": [
@@ -16518,6 +17396,26 @@
      "pm": -20,
      "eff": 5,
      "ts": 51.2
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 27.9,
+     "pts": 10,
+     "reb": 3,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 2,
+     "fg": "4/9",
+     "tp": "2/5",
+     "ft": "0/0",
+     "pm": -20,
+     "eff": 7,
+     "ts": 55.6
     }
    ]
   },
@@ -16529,9 +17427,9 @@
    "teamLabel": "Olomoucko",
    "shirt": "4",
    "pos": "",
-   "gp": 9,
+   "gp": 10,
    "gs": 6,
-   "min": 174.7,
+   "min": 181.9,
    "totals": {
     "pts": 36,
     "fgm": 13,
@@ -16545,53 +17443,53 @@
     "oreb": 5,
     "dreb": 12,
     "reb": 17,
-    "ast": 8,
+    "ast": 10,
     "to": 11,
     "stl": 9,
     "blk": 0,
     "blkr": 3,
-    "pf": 23,
+    "pf": 27,
     "foulon": 11,
-    "pm": -93,
+    "pm": -89,
     "paint": 18,
     "fast": 9,
     "second": 2
    },
    "perGame": {
-    "pts": 4.0,
-    "fgm": 1.4,
-    "fga": 3.8,
+    "pts": 3.6,
+    "fgm": 1.3,
+    "fga": 3.4,
     "tpm": 0.4,
-    "tpa": 1.9,
-    "twopm": 1.0,
-    "twopa": 1.9,
-    "ftm": 0.7,
-    "fta": 1.8,
-    "oreb": 0.6,
-    "dreb": 1.3,
-    "reb": 1.9,
-    "ast": 0.9,
-    "to": 1.2,
-    "stl": 1.0,
+    "tpa": 1.7,
+    "twopm": 0.9,
+    "twopa": 1.7,
+    "ftm": 0.6,
+    "fta": 1.6,
+    "oreb": 0.5,
+    "dreb": 1.2,
+    "reb": 1.7,
+    "ast": 1.0,
+    "to": 1.1,
+    "stl": 0.9,
     "blk": 0.0,
     "blkr": 0.3,
-    "pf": 2.6,
-    "foulon": 1.2,
-    "pm": -10.3,
-    "paint": 2.0,
-    "fast": 1.0,
+    "pf": 2.7,
+    "foulon": 1.1,
+    "pm": -8.9,
+    "paint": 1.8,
+    "fast": 0.9,
     "second": 0.2,
-    "min": 19.4,
-    "eff": 3.1,
-    "gmsc": 1.7
+    "min": 18.2,
+    "eff": 3.0,
+    "gmsc": 1.5
    },
    "per40": {
-    "pts": 8.2,
-    "reb": 3.9,
-    "ast": 1.8,
-    "stl": 2.1,
+    "pts": 7.9,
+    "reb": 3.7,
+    "ast": 2.2,
+    "stl": 2.0,
     "blk": 0.0,
-    "to": 2.5
+    "to": 2.4
    },
    "ts": 43.9,
    "efg": 44.1,
@@ -16599,25 +17497,25 @@
    "two": 52.9,
    "three": 23.5,
    "ft": 37.5,
-   "usg": 13.5,
-   "astTo": 0.73,
-   "pm": -93,
-   "pm40": -21.3,
+   "usg": 13.0,
+   "astTo": 0.91,
+   "pm": -89,
+   "pm40": -19.6,
    "on": {
-    "min": 174.8,
-    "pf": 288,
-    "pa": 381,
-    "ortg": 85.1,
-    "drtg": 111.1,
-    "net": -26.0
+    "min": 182.0,
+    "pf": 306,
+    "pa": 395,
+    "ortg": 87.2,
+    "drtg": 111.2,
+    "net": -24.0
    },
    "off": {
-    "min": 185.2,
-    "ortg": 93.5,
-    "drtg": 115.6,
-    "net": -22.1
+    "min": 218.0,
+    "ortg": 94.7,
+    "drtg": 119.1,
+    "net": -24.4
    },
-   "onOff": -3.9,
+   "onOff": 0.4,
    "dd": 0,
    "td": 0,
    "high": 11,
@@ -16823,6 +17721,26 @@
      "pm": -8,
      "eff": 1,
      "ts": 26.6
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 7.2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 4,
+     "eff": 2,
+     "ts": null
     }
    ]
   },
@@ -16834,9 +17752,9 @@
    "teamLabel": "Olomoucko",
    "shirt": "26",
    "pos": "",
-   "gp": 11,
+   "gp": 12,
    "gs": 0,
-   "min": 116.3,
+   "min": 121.6,
    "totals": {
     "pts": 40,
     "fgm": 15,
@@ -16848,55 +17766,55 @@
     "ftm": 3,
     "fta": 5,
     "oreb": 3,
-    "dreb": 5,
-    "reb": 8,
+    "dreb": 6,
+    "reb": 9,
     "ast": 9,
     "to": 11,
     "stl": 1,
     "blk": 1,
     "blkr": 3,
-    "pf": 12,
-    "foulon": 4,
-    "pm": -46,
+    "pf": 13,
+    "foulon": 5,
+    "pm": -45,
     "paint": 14,
     "fast": 0,
     "second": 11
    },
    "perGame": {
-    "pts": 3.6,
-    "fgm": 1.4,
-    "fga": 4.1,
+    "pts": 3.3,
+    "fgm": 1.2,
+    "fga": 3.8,
     "tpm": 0.6,
-    "tpa": 2.1,
+    "tpa": 1.9,
     "twopm": 0.7,
-    "twopa": 2.0,
-    "ftm": 0.3,
-    "fta": 0.5,
-    "oreb": 0.3,
+    "twopa": 1.8,
+    "ftm": 0.2,
+    "fta": 0.4,
+    "oreb": 0.2,
     "dreb": 0.5,
-    "reb": 0.7,
+    "reb": 0.8,
     "ast": 0.8,
-    "to": 1.0,
+    "to": 0.9,
     "stl": 0.1,
     "blk": 0.1,
-    "blkr": 0.3,
+    "blkr": 0.2,
     "pf": 1.1,
     "foulon": 0.4,
-    "pm": -4.2,
-    "paint": 1.3,
+    "pm": -3.8,
+    "paint": 1.2,
     "fast": 0.0,
-    "second": 1.0,
-    "min": 10.6,
-    "eff": 1.5,
-    "gmsc": 0.9
+    "second": 0.9,
+    "min": 10.1,
+    "eff": 1.4,
+    "gmsc": 0.8
    },
    "per40": {
-    "pts": 13.8,
-    "reb": 2.8,
-    "ast": 3.1,
+    "pts": 13.2,
+    "reb": 3.0,
+    "ast": 3.0,
     "stl": 0.3,
     "blk": 0.3,
-    "to": 3.8
+    "to": 3.6
    },
    "ts": 42.4,
    "efg": 41.1,
@@ -16904,25 +17822,25 @@
    "two": 36.4,
    "three": 30.4,
    "ft": 60.0,
-   "usg": 22.5,
+   "usg": 21.6,
    "astTo": 0.82,
-   "pm": -46,
-   "pm40": -15.8,
+   "pm": -45,
+   "pm40": -14.8,
    "on": {
-    "min": 116.2,
-    "pf": 218,
-    "pa": 264,
-    "ortg": 93.0,
-    "drtg": 114.4,
-    "net": -21.4
+    "min": 121.5,
+    "pf": 230,
+    "pa": 275,
+    "ortg": 94.2,
+    "drtg": 113.9,
+    "net": -19.7
    },
    "off": {
-    "min": 323.8,
-    "ortg": 82.4,
-    "drtg": 113.4,
-    "net": -30.9
+    "min": 358.5,
+    "ortg": 84.7,
+    "drtg": 115.9,
+    "net": -31.2
    },
-   "onOff": 9.5,
+   "onOff": 11.5,
    "dd": 0,
    "td": 0,
    "high": 16,
@@ -17168,6 +18086,26 @@
      "pm": -12,
      "eff": -2,
      "ts": 25.8
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 5.3,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 1,
+     "eff": 1,
+     "ts": null
     }
    ]
   },
@@ -17179,9 +18117,9 @@
    "teamLabel": "Olomoucko",
    "shirt": "7",
    "pos": "",
-   "gp": 12,
+   "gp": 13,
    "gs": 1,
-   "min": 164.8,
+   "min": 167.6,
    "totals": {
     "pts": 33,
     "fgm": 13,
@@ -17202,44 +18140,44 @@
     "blkr": 1,
     "pf": 25,
     "foulon": 10,
-    "pm": -133,
+    "pm": -130,
     "paint": 20,
     "fast": 4,
     "second": 6
    },
    "perGame": {
-    "pts": 2.8,
-    "fgm": 1.1,
-    "fga": 2.8,
+    "pts": 2.5,
+    "fgm": 1.0,
+    "fga": 2.5,
     "tpm": 0.1,
-    "tpa": 0.9,
-    "twopm": 1.0,
-    "twopa": 1.8,
+    "tpa": 0.8,
+    "twopm": 0.9,
+    "twopa": 1.7,
     "ftm": 0.5,
-    "fta": 0.9,
+    "fta": 0.8,
     "oreb": 0.5,
-    "dreb": 1.1,
-    "reb": 1.6,
-    "ast": 0.6,
+    "dreb": 1.0,
+    "reb": 1.5,
+    "ast": 0.5,
     "to": 0.8,
     "stl": 0.5,
     "blk": 0.2,
     "blkr": 0.1,
-    "pf": 2.1,
+    "pf": 1.9,
     "foulon": 0.8,
-    "pm": -11.1,
-    "paint": 1.7,
+    "pm": -10.0,
+    "paint": 1.5,
     "fast": 0.3,
     "second": 0.5,
-    "min": 13.7,
-    "eff": 2.8,
-    "gmsc": 1.2
+    "min": 12.9,
+    "eff": 2.5,
+    "gmsc": 1.1
    },
    "per40": {
-    "pts": 8.0,
-    "reb": 4.6,
+    "pts": 7.9,
+    "reb": 4.5,
     "ast": 1.7,
-    "stl": 1.5,
+    "stl": 1.4,
     "blk": 0.7,
     "to": 2.4
    },
@@ -17249,25 +18187,25 @@
    "two": 54.5,
    "three": 9.1,
    "ft": 54.5,
-   "usg": 13.1,
+   "usg": 12.9,
    "astTo": 0.7,
-   "pm": -133,
-   "pm40": -32.3,
+   "pm": -130,
+   "pm40": -31.0,
    "on": {
-    "min": 164.9,
-    "pf": 262,
-    "pa": 395,
-    "ortg": 81.7,
-    "drtg": 119.9,
-    "net": -38.2
+    "min": 167.7,
+    "pf": 270,
+    "pa": 400,
+    "ortg": 82.6,
+    "drtg": 119.1,
+    "net": -36.5
    },
    "off": {
-    "min": 315.1,
-    "ortg": 88.1,
-    "drtg": 109.0,
-    "net": -20.9
+    "min": 352.3,
+    "ortg": 89.9,
+    "drtg": 112.2,
+    "net": -22.3
    },
-   "onOff": -17.3,
+   "onOff": -14.2,
    "dd": 0,
    "td": 0,
    "high": 6,
@@ -17533,6 +18471,26 @@
      "pm": -7,
      "eff": 5,
      "ts": 100.0
+    },
+    {
+     "fibaId": 2947653,
+     "date": "2026-11-21",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "L",
+     "min": 2.8,
+     "pts": 0,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 3,
+     "eff": 0,
+     "ts": null
     }
    ]
   },
@@ -18799,8 +19757,11 @@
    "away": "BK Olomoucko",
    "homeSlug": "ostrava",
    "awaySlug": "olomoucko",
-   "status": "scheduled",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 100,
+    "away": 78
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544628",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947653/",
