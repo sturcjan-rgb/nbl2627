@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-22T17:51:30+00:00",
+ "generatedAt": "2026-11-22T19:07:11+00:00",
  "slug": "usk",
  "name": "USK Praha",
  "label": "USK",
@@ -8,209 +8,209 @@
  "code": "USK",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
  "coach": "Teo Hojč",
- "games": 13,
- "minutes": 520.0,
+ "games": 14,
+ "minutes": 560.0,
  "totals": {
-  "pts": 1091,
-  "fgm": 380,
-  "fga": 832,
-  "tpm": 110,
-  "tpa": 329,
-  "twopm": 270,
-  "twopa": 503,
-  "ftm": 221,
-  "fta": 340,
-  "oreb": 136,
-  "dreb": 348,
-  "reb": 484,
-  "ast": 215,
-  "to": 184,
-  "stl": 101,
-  "blk": 21,
-  "blkr": 18,
-  "pf": 296,
-  "foulon": 313,
-  "paint": 510,
-  "fast": 201,
-  "second": 121,
-  "bench": 363,
-  "offto": 193
+  "pts": 1167,
+  "fgm": 406,
+  "fga": 889,
+  "tpm": 115,
+  "tpa": 350,
+  "twopm": 291,
+  "twopa": 539,
+  "ftm": 240,
+  "fta": 363,
+  "oreb": 139,
+  "dreb": 371,
+  "reb": 510,
+  "ast": 226,
+  "to": 197,
+  "stl": 108,
+  "blk": 23,
+  "blkr": 22,
+  "pf": 315,
+  "foulon": 332,
+  "paint": 550,
+  "fast": 218,
+  "second": 123,
+  "bench": 389,
+  "offto": 212
  },
  "oppTotals": {
-  "pts": 1120,
-  "fgm": 392,
-  "fga": 865,
-  "tpm": 106,
-  "tpa": 370,
-  "twopm": 286,
-  "twopa": 495,
-  "ftm": 230,
-  "fta": 329,
-  "oreb": 160,
-  "dreb": 369,
-  "reb": 529,
-  "ast": 242,
-  "to": 181,
-  "stl": 91,
-  "blk": 18,
-  "blkr": 21,
-  "pf": 318,
-  "foulon": 288,
-  "paint": 522,
-  "fast": 188,
-  "second": 172,
-  "bench": 407,
-  "offto": 213
+  "pts": 1202,
+  "fgm": 424,
+  "fga": 930,
+  "tpm": 112,
+  "tpa": 398,
+  "twopm": 312,
+  "twopa": 532,
+  "ftm": 242,
+  "fta": 347,
+  "oreb": 172,
+  "dreb": 397,
+  "reb": 569,
+  "ast": 262,
+  "to": 195,
+  "stl": 95,
+  "blk": 22,
+  "blkr": 23,
+  "pf": 337,
+  "foulon": 307,
+  "paint": 556,
+  "fast": 200,
+  "second": 182,
+  "bench": 444,
+  "offto": 227
  },
  "perGame": {
-  "pts": 83.9,
-  "fgm": 29.2,
-  "fga": 64.0,
-  "tpm": 8.5,
-  "tpa": 25.3,
+  "pts": 83.4,
+  "fgm": 29.0,
+  "fga": 63.5,
+  "tpm": 8.2,
+  "tpa": 25.0,
   "twopm": 20.8,
-  "twopa": 38.7,
-  "ftm": 17.0,
-  "fta": 26.2,
-  "oreb": 10.5,
-  "dreb": 26.8,
-  "reb": 37.2,
-  "ast": 16.5,
-  "to": 14.2,
-  "stl": 7.8,
+  "twopa": 38.5,
+  "ftm": 17.1,
+  "fta": 25.9,
+  "oreb": 9.9,
+  "dreb": 26.5,
+  "reb": 36.4,
+  "ast": 16.1,
+  "to": 14.1,
+  "stl": 7.7,
   "blk": 1.6,
-  "blkr": 1.4,
-  "pf": 22.8,
-  "foulon": 24.1,
-  "paint": 39.2,
-  "fast": 15.5,
-  "second": 9.3,
-  "bench": 27.9,
-  "offto": 14.8,
-  "ppg": 83.9,
-  "oppg": 86.2,
-  "diff": -2.2
+  "blkr": 1.6,
+  "pf": 22.5,
+  "foulon": 23.7,
+  "paint": 39.3,
+  "fast": 15.6,
+  "second": 8.8,
+  "bench": 27.8,
+  "offto": 15.1,
+  "ppg": 83.4,
+  "oppg": 85.9,
+  "diff": -2.5
  },
  "oppPerGame": {
-  "pts": 86.2,
-  "fgm": 30.2,
-  "fga": 66.5,
-  "tpm": 8.2,
-  "tpa": 28.5,
-  "twopm": 22.0,
-  "twopa": 38.1,
-  "ftm": 17.7,
-  "fta": 25.3,
+  "pts": 85.9,
+  "fgm": 30.3,
+  "fga": 66.4,
+  "tpm": 8.0,
+  "tpa": 28.4,
+  "twopm": 22.3,
+  "twopa": 38.0,
+  "ftm": 17.3,
+  "fta": 24.8,
   "oreb": 12.3,
   "dreb": 28.4,
-  "reb": 40.7,
-  "ast": 18.6,
+  "reb": 40.6,
+  "ast": 18.7,
   "to": 13.9,
-  "stl": 7.0,
-  "blk": 1.4,
+  "stl": 6.8,
+  "blk": 1.6,
   "blkr": 1.6,
-  "pf": 24.5,
-  "foulon": 22.2,
-  "paint": 40.2,
-  "fast": 14.5,
-  "second": 13.2,
-  "bench": 31.3,
-  "offto": 16.4
+  "pf": 24.1,
+  "foulon": 21.9,
+  "paint": 39.7,
+  "fast": 14.3,
+  "second": 13.0,
+  "bench": 31.7,
+  "offto": 16.2
  },
  "adv": {
-  "poss": 1029.6,
-  "pace": 79.2,
-  "ortg": 106.0,
+  "poss": 1106.7,
+  "pace": 79.0,
+  "ortg": 105.4,
   "drtg": 108.7,
-  "net": -2.7,
-  "efg": 52.3,
+  "net": -3.3,
+  "efg": 52.1,
   "ts": 55.6,
   "tov": 15.8,
-  "orb": 26.9,
-  "drb": 68.5,
-  "ftr": 26.6,
-  "fta_rate": 40.9,
-  "three_par": 39.5,
+  "orb": 25.9,
+  "drb": 68.3,
+  "ftr": 27.0,
+  "fta_rate": 40.8,
+  "three_par": 39.4,
   "fg": 45.7,
-  "two": 53.7,
-  "three": 33.4,
-  "ft": 65.0,
-  "ast_pct": 56.6,
-  "ast_to": 1.17,
+  "two": 54.0,
+  "three": 32.9,
+  "ft": 66.1,
+  "ast_pct": 55.7,
+  "ast_to": 1.15,
   "stl_pct": 9.8,
-  "blk_pct": 4.2,
+  "blk_pct": 4.3,
   "pts_per_shot": 1.11
  },
  "oppAdv": {
-  "opp_efg": 51.4,
+  "opp_efg": 51.6,
   "opp_ts": 55.5,
-  "opp_tov": 15.2,
-  "opp_ftr": 26.6,
+  "opp_tov": 15.3,
+  "opp_ftr": 26.0,
   "opp_three_par": 42.8,
-  "opp_fg": 45.3,
-  "opp_two": 57.8,
-  "opp_three": 28.6,
-  "opp_ft": 69.9
+  "opp_fg": 45.6,
+  "opp_two": 58.6,
+  "opp_three": 28.1,
+  "opp_ft": 69.7
  },
  "factors": {
-  "efg": 52.3,
+  "efg": 52.1,
   "tov": 15.8,
-  "orb": 26.9,
-  "ftr": 26.6,
-  "opp_efg": 51.4,
-  "opp_tov": 15.2,
-  "drb": 68.5,
-  "opp_ftr": 26.6
+  "orb": 25.9,
+  "ftr": 27.0,
+  "opp_efg": 51.6,
+  "opp_tov": 15.3,
+  "drb": 68.3,
+  "opp_ftr": 26.0
  },
  "zones": {
   "paint": {
-   "m": 259,
-   "a": 459,
-   "pct": 56.4,
-   "share": 55.2
+   "m": 279,
+   "a": 493,
+   "pct": 56.6,
+   "share": 55.5
   },
   "mid": {
-   "m": 11,
-   "a": 44,
-   "pct": 25.0,
-   "share": 5.3
+   "m": 12,
+   "a": 46,
+   "pct": 26.1,
+   "share": 5.2
   },
   "corner3": {
-   "m": 20,
-   "a": 48,
-   "pct": 41.7,
-   "share": 5.8
+   "m": 21,
+   "a": 51,
+   "pct": 41.2,
+   "share": 5.7
   },
   "above3": {
-   "m": 90,
-   "a": 281,
-   "pct": 32.0,
-   "share": 33.8
+   "m": 94,
+   "a": 299,
+   "pct": 31.4,
+   "share": 33.6
   }
  },
  "oppZones": {
   "paint": {
-   "m": 266,
-   "a": 440,
-   "pct": 60.5,
+   "m": 283,
+   "a": 465,
+   "pct": 60.9,
    "share": null
   },
   "mid": {
-   "m": 20,
-   "a": 55,
-   "pct": 36.4,
+   "m": 29,
+   "a": 67,
+   "pct": 43.3,
    "share": null
   },
   "corner3": {
-   "m": 27,
-   "a": 74,
-   "pct": 36.5,
+   "m": 29,
+   "a": 81,
+   "pct": 35.8,
    "share": null
   },
   "above3": {
-   "m": 79,
-   "a": 296,
-   "pct": 26.7,
+   "m": 83,
+   "a": 317,
+   "pct": 26.2,
    "share": null
   }
  },
@@ -223,63 +223,63 @@
    "20+"
   ],
   "pts": [
-   212,
-   175,
-   250,
-   250,
-   194
+   234,
+   185,
+   263,
+   267,
+   206
   ],
-  "unassigned": 10,
-  "possessions": 1051,
-  "ptsPerPoss": 1.04,
-  "avgSec": 13.7
+  "unassigned": 12,
+  "possessions": 1128,
+  "ptsPerPoss": 1.03,
+  "avgSec": 13.6
  },
  "clutch": {
-  "pts": 37,
-  "opp": 28,
-  "fgm": 11,
-  "fga": 16,
-  "ftm": 11,
-  "fta": 18,
-  "to": 6,
-  "games": 5,
+  "pts": 40,
+  "opp": 36,
+  "fgm": 12,
+  "fga": 18,
+  "ftm": 12,
+  "fta": 20,
+  "to": 7,
+  "games": 6,
   "w": 4,
-  "l": 1,
-  "fgPct": 68.8,
-  "net": 9
+  "l": 2,
+  "fgPct": 66.7,
+  "net": 4
  },
  "quarters": [
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 21.2,
+   "ppg": 21.4,
    "oppg": 20.6,
-   "diff": 0.6,
-   "n": 13
+   "diff": 0.8,
+   "n": 14
   },
   {
    "period": 2,
    "label": "Q2",
    "ppg": 21.6,
-   "oppg": 20.2,
-   "diff": 1.5,
-   "n": 13
+   "oppg": 20.6,
+   "diff": 1.0,
+   "n": 14
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 20.2,
-   "oppg": 21.7,
-   "diff": -1.5,
-   "n": 13
+   "ppg": 20.3,
+   "oppg": 21.6,
+   "diff": -1.3,
+   "n": 14
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 20.9,
-   "oppg": 23.7,
-   "diff": -2.8,
-   "n": 13
+   "ppg": 20.0,
+   "oppg": 23.0,
+   "diff": -3.0,
+   "n": 14
   }
  ],
  "flow": {
@@ -287,7 +287,7 @@
   "biggestDeficit": 29,
   "biggestRun": 14,
   "biggestRunAllowed": 14,
-  "leadChangesPerGame": 4.5
+  "leadChangesPerGame": 4.6
  },
  "lineups": {
   "fives": [
@@ -312,6 +312,28 @@
     "efg": 69.7,
     "oefg": 64.6,
     "games": 6
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
+     "Patrik Auda",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 30.1,
+    "pf": 63,
+    "pa": 57,
+    "pm": 6,
+    "poss": 54.5,
+    "pF": 54.2,
+    "pA": 54.7,
+    "ortg": 116.2,
+    "drtg": 104.2,
+    "net": 12.0,
+    "efg": 56.7,
+    "oefg": 44.2,
+    "games": 5
    },
    {
     "players": [
@@ -355,28 +377,6 @@
     "net": -7.1,
     "efg": 71.9,
     "oefg": 57.1,
-    "games": 4
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Matěj Šafařík",
-     "Patrik Auda",
-     "Tomáš Kyzlink",
-     "Xavier Johnson"
-    ],
-    "min": 18.7,
-    "pf": 42,
-    "pa": 35,
-    "pm": 7,
-    "poss": 35.8,
-    "pF": 35.2,
-    "pA": 36.5,
-    "ortg": 119.5,
-    "drtg": 95.8,
-    "net": 23.6,
-    "efg": 58.3,
-    "oefg": 42.4,
     "games": 4
    },
    {
@@ -448,6 +448,28 @@
    {
     "players": [
      "Kenneth Jamar Doucet",
+     "Ondřej Švec",
+     "Patrik Auda",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 14.2,
+    "pf": 26,
+    "pa": 22,
+    "pm": 4,
+    "poss": 25.9,
+    "pF": 26.3,
+    "pA": 25.4,
+    "ortg": 98.8,
+    "drtg": 86.6,
+    "net": 12.2,
+    "efg": 57.5,
+    "oefg": 35.7,
+    "games": 6
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
      "Matěj Šafařík",
      "Patrik Auda",
      "Sidney Wilson",
@@ -466,6 +488,28 @@
     "efg": 47.1,
     "oefg": 44.6,
     "games": 2
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
+     "Petr Macháč",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 12.4,
+    "pf": 20,
+    "pa": 30,
+    "pm": -10,
+    "poss": 25.4,
+    "pF": 27.1,
+    "pA": 23.6,
+    "ortg": 73.9,
+    "drtg": 126.9,
+    "net": -53.0,
+    "efg": 33.3,
+    "oefg": 62.5,
+    "games": 4
    },
    {
     "players": [
@@ -580,46 +624,24 @@
    {
     "players": [
      "Kenneth Jamar Doucet",
-     "Matěj Šafařík",
-     "Petr Macháč",
-     "Tomáš Kyzlink",
-     "Xavier Johnson"
-    ],
-    "min": 8.2,
-    "pf": 11,
-    "pa": 19,
-    "pm": -8,
-    "poss": 15.9,
-    "pF": 17.2,
-    "pA": 14.6,
-    "ortg": 64.0,
-    "drtg": 129.8,
-    "net": -65.8,
-    "efg": 26.9,
-    "oefg": 53.8,
-    "games": 3
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
      "Ondřej Švec",
      "Patrik Auda",
-     "Tomáš Kyzlink",
+     "Samuel Macht",
      "Xavier Johnson"
     ],
-    "min": 7.8,
-    "pf": 16,
-    "pa": 14,
-    "pm": 2,
-    "poss": 15.3,
-    "pF": 16.0,
-    "pA": 14.5,
-    "ortg": 100.0,
-    "drtg": 96.4,
-    "net": 3.6,
-    "efg": 61.5,
-    "oefg": 36.4,
-    "games": 5
+    "min": 7.9,
+    "pf": 17,
+    "pa": 16,
+    "pm": 1,
+    "poss": 16.1,
+    "pF": 16.3,
+    "pA": 15.9,
+    "ortg": 104.2,
+    "drtg": 100.8,
+    "net": 3.4,
+    "efg": 63.6,
+    "oefg": 57.1,
+    "games": 2
    },
    {
     "players": [
@@ -642,6 +664,28 @@
     "efg": 18.8,
     "oefg": 47.1,
     "games": 3
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
+     "Ondřej Švec",
+     "Petr Macháč",
+     "Tomáš Kyzlink"
+    ],
+    "min": 7.2,
+    "pf": 9,
+    "pa": 10,
+    "pm": -1,
+    "poss": 13.1,
+    "pF": 12.0,
+    "pA": 14.2,
+    "ortg": 75.3,
+    "drtg": 70.4,
+    "net": 4.8,
+    "efg": 28.6,
+    "oefg": 30.0,
+    "games": 5
    },
    {
     "players": [
@@ -734,24 +778,24 @@
    {
     "players": [
      "Kenneth Jamar Doucet",
-     "Matěj Šafařík",
      "Ondřej Švec",
-     "Petr Macháč",
+     "Patrik Auda",
+     "Samuel Macht",
      "Tomáš Kyzlink"
     ],
-    "min": 5.8,
-    "pf": 8,
-    "pa": 5,
-    "pm": 3,
-    "poss": 9.2,
-    "pF": 8.1,
-    "pA": 10.3,
-    "ortg": 99.0,
-    "drtg": 48.4,
-    "net": 50.6,
-    "efg": 40.0,
-    "oefg": 21.4,
-    "games": 4
+    "min": 6.1,
+    "pf": 17,
+    "pa": 7,
+    "pm": 10,
+    "poss": 11.3,
+    "pF": 13.0,
+    "pA": 9.6,
+    "ortg": 131.2,
+    "drtg": 72.6,
+    "net": 58.6,
+    "efg": 100.0,
+    "oefg": 22.2,
+    "games": 3
    },
    {
     "players": [
@@ -840,28 +884,6 @@
     "efg": 78.6,
     "oefg": 44.4,
     "games": 1
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Ondřej Švec",
-     "Patrik Auda",
-     "Samuel Macht",
-     "Tomáš Kyzlink"
-    ],
-    "min": 5.1,
-    "pf": 14,
-    "pa": 5,
-    "pm": 9,
-    "poss": 9.8,
-    "pF": 11.0,
-    "pA": 8.6,
-    "ortg": 127.7,
-    "drtg": 57.9,
-    "net": 69.9,
-    "efg": 87.5,
-    "oefg": 12.5,
-    "games": 2
    },
    {
     "players": [
@@ -1085,6 +1107,28 @@
    },
    {
     "players": [
+     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
+     "Ondřej Švec",
+     "Petr Macháč",
+     "Samuel Macht"
+    ],
+    "min": 4.2,
+    "pf": 6,
+    "pa": 7,
+    "pm": -1,
+    "poss": 9.8,
+    "pF": 9.8,
+    "pA": 9.9,
+    "ortg": 61.5,
+    "drtg": 70.9,
+    "net": -9.4,
+    "efg": 30.0,
+    "oefg": 27.8,
+    "games": 2
+   },
+   {
+    "players": [
      "Matěj Šafařík",
      "Michael Christmas",
      "Ondřej Švec",
@@ -1151,6 +1195,50 @@
    },
    {
     "players": [
+     "Ondřej Švec",
+     "Patrik Auda",
+     "Samuel Macht",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 4.0,
+    "pf": 13,
+    "pa": 9,
+    "pm": 4,
+    "poss": 9.1,
+    "pF": 10.0,
+    "pA": 8.2,
+    "ortg": 130.0,
+    "drtg": 109.8,
+    "net": 20.2,
+    "efg": 65.0,
+    "oefg": 50.0,
+    "games": 3
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Ondřej Švec",
+     "Samuel Macht",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 3.9,
+    "pf": 2,
+    "pa": 11,
+    "pm": -9,
+    "poss": 6.0,
+    "pF": 6.0,
+    "pA": 6.0,
+    "ortg": 33.3,
+    "drtg": 183.3,
+    "net": -150.0,
+    "efg": 20.0,
+    "oefg": 55.0,
+    "games": 3
+   },
+   {
+    "players": [
      "Matěj Šafařík",
      "Michael Christmas",
      "Patrik Auda",
@@ -1169,6 +1257,28 @@
     "net": -38.1,
     "efg": 42.9,
     "oefg": 78.6,
+    "games": 2
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Patrik Auda",
+     "Samuel Macht",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 3.9,
+    "pf": 13,
+    "pa": 15,
+    "pm": -2,
+    "poss": 8.7,
+    "pF": 8.4,
+    "pA": 9.0,
+    "ortg": 154.8,
+    "drtg": 166.7,
+    "net": -11.9,
+    "efg": 50.0,
+    "oefg": 83.3,
     "games": 2
    },
    {
@@ -1214,28 +1324,6 @@
     "efg": 25.0,
     "oefg": 41.7,
     "games": 2
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Ondřej Švec",
-     "Patrik Auda",
-     "Samuel Macht",
-     "Xavier Johnson"
-    ],
-    "min": 3.7,
-    "pf": 10,
-    "pa": 9,
-    "pm": 1,
-    "poss": 6.9,
-    "pF": 6.9,
-    "pA": 7.0,
-    "ortg": 145.3,
-    "drtg": 128.6,
-    "net": 16.8,
-    "efg": 66.7,
-    "oefg": 64.3,
-    "games": 1
    },
    {
     "players": [
@@ -1459,28 +1547,6 @@
    },
    {
     "players": [
-     "Jakub Soldán",
-     "Ondřej Švec",
-     "Samuel Macht",
-     "Tomáš Kyzlink",
-     "Xavier Johnson"
-    ],
-    "min": 2.9,
-    "pf": 0,
-    "pa": 9,
-    "pm": -9,
-    "poss": 4.5,
-    "pF": 4.0,
-    "pA": 5.0,
-    "ortg": 0.0,
-    "drtg": 180.0,
-    "net": -180.0,
-    "efg": 0.0,
-    "oefg": 64.3,
-    "games": 2
-   },
-   {
-    "players": [
      "Michael Christmas",
      "Ondřej Švec",
      "Petr Macháč",
@@ -1521,28 +1587,6 @@
     "net": -67.0,
     "efg": 0.0,
     "oefg": 42.9,
-    "games": 2
-   },
-   {
-    "players": [
-     "Ondřej Švec",
-     "Patrik Auda",
-     "Samuel Macht",
-     "Tomáš Kyzlink",
-     "Xavier Johnson"
-    ],
-    "min": 2.8,
-    "pf": 7,
-    "pa": 7,
-    "pm": 0,
-    "poss": 6.1,
-    "pF": 7.0,
-    "pA": 5.2,
-    "ortg": 100.0,
-    "drtg": 134.6,
-    "net": -34.6,
-    "efg": 58.3,
-    "oefg": 37.5,
     "games": 2
    },
    {
@@ -1635,6 +1679,28 @@
    },
    {
     "players": [
+     "Ondřej Švec",
+     "Petr Macháč",
+     "Samuel Macht",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 2.6,
+    "pf": 2,
+    "pa": 9,
+    "pm": -7,
+    "poss": 5.8,
+    "pF": 5.0,
+    "pA": 6.6,
+    "ortg": 40.0,
+    "drtg": 135.5,
+    "net": -95.5,
+    "efg": 25.0,
+    "oefg": 50.0,
+    "games": 3
+   },
+   {
+    "players": [
      "Kenneth Jamar Doucet",
      "Matej Šafařík",
      "Ondřej Švec",
@@ -1659,6 +1725,25 @@
   "trios": [
    {
     "players": [
+     "Kenneth Jamar Doucet",
+     "Patrik Auda",
+     "Tomáš Kyzlink"
+    ],
+    "min": 160.2,
+    "pf": 345,
+    "pa": 357,
+    "pm": -12,
+    "poss": 299.6,
+    "pF": 298.1,
+    "pA": 301.1,
+    "ortg": 115.7,
+    "drtg": 118.6,
+    "net": -2.8,
+    "efg": 60.7,
+    "oefg": 51.5
+   },
+   {
+    "players": [
      "Michael Christmas",
      "Tomáš Kyzlink",
      "Xavier Johnson"
@@ -1679,78 +1764,116 @@
    {
     "players": [
      "Kenneth Jamar Doucet",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 147.2,
+    "pf": 341,
+    "pa": 313,
+    "pm": 28,
+    "poss": 282.5,
+    "pF": 284.0,
+    "pA": 281.1,
+    "ortg": 120.1,
+    "drtg": 111.3,
+    "net": 8.7,
+    "efg": 60.2,
+    "oefg": 52.7
+   },
+   {
+    "players": [
+     "Patrik Auda",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 133.2,
+    "pf": 292,
+    "pa": 297,
+    "pm": -5,
+    "poss": 254.4,
+    "pF": 257.2,
+    "pA": 251.7,
+    "ortg": 113.5,
+    "drtg": 118.0,
+    "net": -4.5,
+    "efg": 60.0,
+    "oefg": 51.9
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Patrik Auda",
+     "Xavier Johnson"
+    ],
+    "min": 130.9,
+    "pf": 309,
+    "pa": 288,
+    "pm": 21,
+    "poss": 251.6,
+    "pF": 252.5,
+    "pA": 250.8,
+    "ortg": 122.4,
+    "drtg": 114.8,
+    "net": 7.6,
+    "efg": 64.2,
+    "oefg": 52.9
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
+     "Tomáš Kyzlink"
+    ],
+    "min": 113.2,
+    "pf": 240,
+    "pa": 244,
+    "pm": -4,
+    "poss": 217.2,
+    "pF": 215.8,
+    "pA": 218.6,
+    "ortg": 111.2,
+    "drtg": 111.6,
+    "net": -0.4,
+    "efg": 54.7,
+    "oefg": 49.0
+   },
+   {
+    "players": [
+     "Matěj Šafařík",
      "Patrik Auda",
      "Tomáš Kyzlink"
     ],
-    "min": 139.4,
-    "pf": 303,
-    "pa": 317,
-    "pm": -14,
-    "poss": 265.0,
-    "pF": 263.0,
-    "pA": 267.0,
-    "ortg": 115.2,
-    "drtg": 118.7,
-    "net": -3.5,
-    "efg": 61.0,
-    "oefg": 51.3
+    "min": 112.9,
+    "pf": 233,
+    "pa": 226,
+    "pm": 7,
+    "poss": 216.0,
+    "pF": 216.0,
+    "pA": 216.0,
+    "ortg": 107.9,
+    "drtg": 104.6,
+    "net": 3.2,
+    "efg": 56.3,
+    "oefg": 45.0
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
      "Tomáš Kyzlink",
      "Xavier Johnson"
     ],
-    "min": 123.2,
-    "pf": 293,
-    "pa": 264,
-    "pm": 29,
-    "poss": 240.0,
-    "pF": 241.0,
-    "pA": 239.0,
-    "ortg": 121.6,
-    "drtg": 110.4,
-    "net": 11.1,
-    "efg": 61.5,
-    "oefg": 52.0
-   },
-   {
-    "players": [
-     "Patrik Auda",
-     "Tomáš Kyzlink",
-     "Xavier Johnson"
-    ],
-    "min": 112.2,
-    "pf": 247,
-    "pa": 257,
-    "pm": -10,
-    "poss": 218.4,
-    "pF": 221.2,
-    "pA": 215.6,
-    "ortg": 111.7,
-    "drtg": 119.2,
-    "net": -7.5,
-    "efg": 60.4,
-    "oefg": 51.7
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Patrik Auda",
-     "Xavier Johnson"
-    ],
-    "min": 107.0,
-    "pf": 263,
-    "pa": 243,
-    "pm": 20,
-    "poss": 209.4,
-    "pF": 210.0,
-    "pA": 208.8,
-    "ortg": 125.2,
-    "drtg": 116.4,
-    "net": 8.9,
-    "efg": 65.6,
-    "oefg": 53.2
+    "min": 104.7,
+    "pf": 234,
+    "pa": 215,
+    "pm": 19,
+    "poss": 203.9,
+    "pF": 206.3,
+    "pA": 201.5,
+    "ortg": 113.4,
+    "drtg": 106.7,
+    "net": 6.7,
+    "efg": 54.2,
+    "oefg": 49.1
    },
    {
     "players": [
@@ -1792,22 +1915,41 @@
    },
    {
     "players": [
-     "Matěj Šafařík",
+     "Ondřej Švec",
      "Patrik Auda",
      "Tomáš Kyzlink"
     ],
-    "min": 100.4,
-    "pf": 209,
+    "min": 100.1,
+    "pf": 189,
+    "pa": 224,
+    "pm": -35,
+    "poss": 192.1,
+    "pF": 192.9,
+    "pA": 191.3,
+    "ortg": 98.0,
+    "drtg": 117.1,
+    "net": -19.1,
+    "efg": 54.1,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
+     "Patrik Auda"
+    ],
+    "min": 97.6,
+    "pf": 220,
     "pa": 204,
-    "pm": 5,
-    "poss": 194.9,
-    "pF": 194.1,
-    "pA": 195.8,
-    "ortg": 107.7,
-    "drtg": 104.2,
-    "net": 3.5,
-    "efg": 56.3,
-    "oefg": 44.9
+    "pm": 16,
+    "poss": 188.6,
+    "pF": 186.7,
+    "pA": 190.6,
+    "ortg": 117.8,
+    "drtg": 107.1,
+    "net": 10.8,
+    "efg": 59.2,
+    "oefg": 48.9
    },
    {
     "players": [
@@ -1831,25 +1973,6 @@
    {
     "players": [
      "Kenneth Jamar Doucet",
-     "Matěj Šafařík",
-     "Tomáš Kyzlink"
-    ],
-    "min": 94.5,
-    "pf": 206,
-    "pa": 200,
-    "pm": 6,
-    "poss": 181.7,
-    "pF": 179.9,
-    "pA": 183.6,
-    "ortg": 114.5,
-    "drtg": 109.0,
-    "net": 5.5,
-    "efg": 55.9,
-    "oefg": 47.4
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
      "Michael Christmas",
      "Tomáš Kyzlink"
     ],
@@ -1868,41 +1991,41 @@
    },
    {
     "players": [
+     "Kenneth Jamar Doucet",
      "Ondřej Švec",
-     "Patrik Auda",
-     "Tomáš Kyzlink"
+     "Patrik Auda"
     ],
-    "min": 90.5,
-    "pf": 167,
-    "pa": 212,
-    "pm": -45,
-    "poss": 174.6,
-    "pF": 174.7,
-    "pA": 174.4,
-    "ortg": 95.6,
-    "drtg": 121.5,
-    "net": -25.9,
-    "efg": 52.6,
-    "oefg": 50.6
+    "min": 93.4,
+    "pf": 184,
+    "pa": 193,
+    "pm": -9,
+    "poss": 177.0,
+    "pF": 177.3,
+    "pA": 176.8,
+    "ortg": 103.8,
+    "drtg": 109.2,
+    "net": -5.4,
+    "efg": 53.3,
+    "oefg": 51.3
    },
    {
     "players": [
-     "Matěj Šafařík",
+     "Petr Macháč",
      "Tomáš Kyzlink",
      "Xavier Johnson"
     ],
-    "min": 88.5,
-    "pf": 204,
-    "pa": 181,
-    "pm": 23,
-    "poss": 175.1,
-    "pF": 176.4,
-    "pA": 173.9,
-    "ortg": 115.7,
-    "drtg": 104.1,
-    "net": 11.6,
-    "efg": 55.2,
-    "oefg": 47.9
+    "min": 87.1,
+    "pf": 190,
+    "pa": 170,
+    "pm": 20,
+    "poss": 171.1,
+    "pF": 175.3,
+    "pA": 166.9,
+    "ortg": 108.4,
+    "drtg": 101.8,
+    "net": 6.5,
+    "efg": 53.0,
+    "oefg": 53.8
    },
    {
     "players": [
@@ -1925,60 +2048,22 @@
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
      "Matěj Šafařík",
-     "Patrik Auda"
-    ],
-    "min": 86.2,
-    "pf": 199,
-    "pa": 182,
-    "pm": 17,
-    "poss": 170.0,
-    "pF": 167.6,
-    "pA": 172.4,
-    "ortg": 118.7,
-    "drtg": 105.6,
-    "net": 13.1,
-    "efg": 59.9,
-    "oefg": 49.0
-   },
-   {
-    "players": [
-     "Petr Macháč",
-     "Tomáš Kyzlink",
+     "Patrik Auda",
      "Xavier Johnson"
     ],
-    "min": 82.3,
+    "min": 81.3,
     "pf": 181,
-    "pa": 159,
-    "pm": 22,
-    "poss": 160.7,
-    "pF": 164.4,
-    "pA": 156.9,
-    "ortg": 110.1,
-    "drtg": 101.3,
-    "net": 8.7,
-    "efg": 54.0,
-    "oefg": 52.9
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Ondřej Švec",
-     "Patrik Auda"
-    ],
-    "min": 81.8,
-    "pf": 164,
-    "pa": 176,
-    "pm": -12,
-    "poss": 155.8,
-    "pF": 155.6,
-    "pA": 156.0,
-    "ortg": 105.4,
-    "drtg": 112.8,
-    "net": -7.4,
-    "efg": 52.5,
-    "oefg": 52.2
+    "pa": 147,
+    "pm": 34,
+    "poss": 156.0,
+    "pF": 158.8,
+    "pA": 153.2,
+    "ortg": 114.0,
+    "drtg": 96.0,
+    "net": 18.0,
+    "efg": 56.6,
+    "oefg": 43.4
    },
    {
     "players": [
@@ -2001,6 +2086,25 @@
    },
    {
     "players": [
+     "Kenneth Jamar Doucet",
+     "Ondřej Švec",
+     "Tomáš Kyzlink"
+    ],
+    "min": 76.5,
+    "pf": 143,
+    "pa": 156,
+    "pm": -13,
+    "poss": 141.8,
+    "pF": 141.4,
+    "pA": 142.1,
+    "ortg": 101.1,
+    "drtg": 109.8,
+    "net": -8.7,
+    "efg": 53.8,
+    "oefg": 47.2
+   },
+   {
+    "players": [
      "Matěj Šafařík",
      "Michael Christmas",
      "Tomáš Kyzlink"
@@ -2020,22 +2124,60 @@
    },
    {
     "players": [
+     "Kenneth Jamar Doucet",
      "Matěj Šafařík",
-     "Patrik Auda",
      "Xavier Johnson"
     ],
-    "min": 69.8,
-    "pf": 160,
-    "pa": 125,
-    "pm": 35,
-    "poss": 137.3,
-    "pF": 139.7,
-    "pA": 135.0,
-    "ortg": 114.5,
-    "drtg": 92.6,
-    "net": 21.9,
-    "efg": 57.1,
-    "oefg": 42.8
+    "min": 73.5,
+    "pf": 175,
+    "pa": 152,
+    "pm": 23,
+    "poss": 147.7,
+    "pF": 146.1,
+    "pA": 149.4,
+    "ortg": 119.8,
+    "drtg": 101.8,
+    "net": 18.0,
+    "efg": 59.2,
+    "oefg": 48.8
+   },
+   {
+    "players": [
+     "Ondřej Švec",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 70.9,
+    "pf": 140,
+    "pa": 145,
+    "pm": -5,
+    "poss": 145.4,
+    "pF": 146.7,
+    "pA": 144.1,
+    "ortg": 95.4,
+    "drtg": 100.6,
+    "net": -5.2,
+    "efg": 51.8,
+    "oefg": 49.1
+   },
+   {
+    "players": [
+     "Matěj Šafařík",
+     "Ondřej Švec",
+     "Tomáš Kyzlink"
+    ],
+    "min": 70.4,
+    "pf": 139,
+    "pa": 173,
+    "pm": -34,
+    "poss": 140.6,
+    "pF": 137.3,
+    "pA": 143.9,
+    "ortg": 101.3,
+    "drtg": 120.2,
+    "net": -19.0,
+    "efg": 47.2,
+    "oefg": 53.4
    },
    {
     "players": [
@@ -2058,41 +2200,41 @@
    },
    {
     "players": [
-     "Matěj Šafařík",
-     "Ondřej Švec",
+     "Kenneth Jamar Doucet",
+     "Petr Macháč",
      "Tomáš Kyzlink"
     ],
-    "min": 68.0,
-    "pf": 135,
-    "pa": 168,
-    "pm": -33,
-    "poss": 134.3,
-    "pF": 130.5,
-    "pA": 138.0,
-    "ortg": 103.4,
-    "drtg": 121.7,
-    "net": -18.3,
-    "efg": 47.6,
-    "oefg": 54.0
+    "min": 67.9,
+    "pf": 137,
+    "pa": 127,
+    "pm": 10,
+    "poss": 131.6,
+    "pF": 134.4,
+    "pA": 128.8,
+    "ortg": 102.0,
+    "drtg": 98.6,
+    "net": 3.4,
+    "efg": 48.7,
+    "oefg": 48.0
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
      "Ondřej Švec",
-     "Tomáš Kyzlink"
+     "Patrik Auda"
     ],
-    "min": 67.7,
-    "pf": 129,
-    "pa": 141,
-    "pm": -12,
-    "poss": 125.8,
-    "pF": 125.2,
-    "pA": 126.3,
-    "ortg": 103.0,
-    "drtg": 111.6,
-    "net": -8.6,
-    "efg": 54.3,
-    "oefg": 47.7
+    "min": 66.6,
+    "pf": 134,
+    "pa": 131,
+    "pm": 3,
+    "poss": 129.9,
+    "pF": 128.8,
+    "pA": 130.9,
+    "ortg": 104.0,
+    "drtg": 100.1,
+    "net": 4.0,
+    "efg": 52.5,
+    "oefg": 46.5
    },
    {
     "players": [
@@ -2115,25 +2257,6 @@
    },
    {
     "players": [
-     "Matěj Šafařík",
-     "Ondřej Švec",
-     "Patrik Auda"
-    ],
-    "min": 65.5,
-    "pf": 131,
-    "pa": 131,
-    "pm": 0,
-    "poss": 127.4,
-    "pF": 125.9,
-    "pA": 128.9,
-    "ortg": 104.0,
-    "drtg": 101.6,
-    "net": 2.4,
-    "efg": 52.0,
-    "oefg": 46.9
-   },
-   {
-    "players": [
      "Michael Christmas",
      "Ondřej Švec",
      "Xavier Johnson"
@@ -2153,41 +2276,41 @@
    },
    {
     "players": [
-     "Ondřej Švec",
-     "Tomáš Kyzlink",
-     "Xavier Johnson"
-    ],
-    "min": 61.6,
-    "pf": 122,
-    "pa": 133,
-    "pm": -11,
-    "poss": 129.3,
-    "pF": 130.4,
-    "pA": 128.2,
-    "ortg": 93.6,
-    "drtg": 103.7,
-    "net": -10.2,
-    "efg": 51.5,
-    "oefg": 51.0
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
      "Petr Macháč",
      "Tomáš Kyzlink"
     ],
-    "min": 61.1,
-    "pf": 124,
-    "pa": 107,
-    "pm": 17,
-    "poss": 116.3,
-    "pF": 118.6,
-    "pA": 114.0,
-    "ortg": 104.6,
-    "drtg": 93.9,
-    "net": 10.7,
-    "efg": 49.5,
-    "oefg": 44.4
+    "min": 63.7,
+    "pf": 137,
+    "pa": 139,
+    "pm": -2,
+    "poss": 125.5,
+    "pF": 129.0,
+    "pA": 122.1,
+    "ortg": 106.2,
+    "drtg": 113.8,
+    "net": -7.6,
+    "efg": 46.2,
+    "oefg": 51.5
+   },
+   {
+    "players": [
+     "Ondřej Švec",
+     "Patrik Auda",
+     "Xavier Johnson"
+    ],
+    "min": 62.9,
+    "pf": 134,
+    "pa": 129,
+    "pm": 5,
+    "poss": 127.0,
+    "pF": 128.8,
+    "pA": 125.3,
+    "ortg": 104.1,
+    "drtg": 103.0,
+    "net": 1.1,
+    "efg": 59.7,
+    "oefg": 48.1
    },
    {
     "players": [
@@ -2195,37 +2318,37 @@
      "Matěj Šafařík",
      "Ondřej Švec"
     ],
-    "min": 59.3,
-    "pf": 127,
-    "pa": 127,
-    "pm": 0,
-    "poss": 116.9,
-    "pF": 114.8,
-    "pA": 119.0,
-    "ortg": 110.6,
-    "drtg": 106.8,
-    "net": 3.9,
-    "efg": 55.8,
-    "oefg": 54.6
+    "min": 62.4,
+    "pf": 131,
+    "pa": 136,
+    "pm": -5,
+    "poss": 124.7,
+    "pF": 122.7,
+    "pA": 126.7,
+    "ortg": 106.8,
+    "drtg": 107.3,
+    "net": -0.5,
+    "efg": 54.4,
+    "oefg": 53.4
    },
    {
     "players": [
      "Kenneth Jamar Doucet",
-     "Matěj Šafařík",
+     "Petr Macháč",
      "Xavier Johnson"
     ],
-    "min": 57.9,
-    "pf": 145,
-    "pa": 119,
-    "pm": 26,
-    "poss": 119.6,
-    "pF": 117.1,
-    "pA": 122.2,
-    "ortg": 123.8,
-    "drtg": 97.4,
-    "net": 26.4,
-    "efg": 61.5,
-    "oefg": 46.9
+    "min": 58.5,
+    "pf": 120,
+    "pa": 110,
+    "pm": 10,
+    "poss": 113.8,
+    "pF": 114.8,
+    "pA": 112.8,
+    "ortg": 104.6,
+    "drtg": 97.6,
+    "net": 7.0,
+    "efg": 51.5,
+    "oefg": 51.2
    },
    {
     "players": [
@@ -2248,25 +2371,6 @@
    },
    {
     "players": [
-     "Matěj Šafařík",
-     "Petr Macháč",
-     "Tomáš Kyzlink"
-    ],
-    "min": 56.9,
-    "pf": 124,
-    "pa": 119,
-    "pm": 5,
-    "poss": 110.2,
-    "pF": 113.2,
-    "pA": 107.2,
-    "ortg": 109.5,
-    "drtg": 111.0,
-    "net": -1.4,
-    "efg": 46.8,
-    "oefg": 48.3
-   },
-   {
-    "players": [
      "Michael Christmas",
      "Ondřej Švec",
      "Tomáš Kyzlink"
@@ -2286,60 +2390,79 @@
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
-     "Petr Macháč",
-     "Xavier Johnson"
-    ],
-    "min": 53.0,
-    "pf": 111,
-    "pa": 97,
-    "pm": 14,
-    "poss": 101.9,
-    "pF": 102.9,
-    "pA": 100.9,
-    "ortg": 107.9,
-    "drtg": 96.2,
-    "net": 11.7,
-    "efg": 54.4,
-    "oefg": 48.1
-   },
-   {
-    "players": [
      "Ondřej Švec",
      "Petr Macháč",
      "Tomáš Kyzlink"
     ],
-    "min": 51.6,
-    "pf": 92,
-    "pa": 111,
-    "pm": -19,
-    "poss": 107.8,
-    "pF": 104.0,
-    "pA": 111.6,
-    "ortg": 88.5,
-    "drtg": 99.5,
-    "net": -11.0,
-    "efg": 36.5,
-    "oefg": 54.5
+    "min": 53.6,
+    "pf": 93,
+    "pa": 116,
+    "pm": -23,
+    "poss": 112.7,
+    "pF": 108.9,
+    "pA": 116.5,
+    "ortg": 85.4,
+    "drtg": 99.6,
+    "net": -14.2,
+    "efg": 35.2,
+    "oefg": 53.7
    },
    {
     "players": [
+     "Kenneth Jamar Doucet",
      "Ondřej Švec",
-     "Patrik Auda",
      "Xavier Johnson"
     ],
-    "min": 51.1,
-    "pf": 111,
-    "pa": 112,
+    "min": 50.1,
+    "pf": 115,
+    "pa": 92,
+    "pm": 23,
+    "poss": 100.0,
+    "pF": 99.8,
+    "pA": 100.3,
+    "ortg": 115.3,
+    "drtg": 91.7,
+    "net": 23.6,
+    "efg": 61.8,
+    "oefg": 45.7
+   },
+   {
+    "players": [
+     "Matěj Šafařík",
+     "Ondřej Švec",
+     "Petr Macháč"
+    ],
+    "min": 49.2,
+    "pf": 91,
+    "pa": 111,
+    "pm": -20,
+    "poss": 100.9,
+    "pF": 100.4,
+    "pA": 101.4,
+    "ortg": 90.6,
+    "drtg": 109.5,
+    "net": -18.9,
+    "efg": 36.7,
+    "oefg": 52.0
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
+     "Petr Macháč"
+    ],
+    "min": 48.2,
+    "pf": 99,
+    "pa": 100,
     "pm": -1,
-    "poss": 104.3,
-    "pF": 106.0,
-    "pA": 102.5,
-    "ortg": 104.7,
-    "drtg": 109.2,
-    "net": -4.5,
-    "efg": 59.7,
-    "oefg": 48.9
+    "poss": 97.5,
+    "pF": 100.7,
+    "pA": 94.3,
+    "ortg": 98.3,
+    "drtg": 106.0,
+    "net": -7.7,
+    "efg": 48.7,
+    "oefg": 50.6
    },
    {
     "players": [
@@ -2382,21 +2505,21 @@
    {
     "players": [
      "Matěj Šafařík",
-     "Ondřej Švec",
-     "Petr Macháč"
+     "Petr Macháč",
+     "Xavier Johnson"
     ],
-    "min": 46.2,
-    "pf": 87,
-    "pa": 102,
-    "pm": -15,
-    "poss": 93.1,
-    "pF": 92.6,
-    "pA": 93.6,
-    "ortg": 94.0,
-    "drtg": 109.0,
-    "net": -15.0,
-    "efg": 37.1,
-    "oefg": 53.7
+    "min": 45.5,
+    "pf": 100,
+    "pa": 97,
+    "pm": 3,
+    "poss": 87.2,
+    "pF": 90.4,
+    "pA": 83.9,
+    "ortg": 110.6,
+    "drtg": 115.6,
+    "net": -5.0,
+    "efg": 54.7,
+    "oefg": 55.3
    },
    {
     "players": [
@@ -2420,21 +2543,59 @@
    {
     "players": [
      "Matěj Šafařík",
+     "Ondřej Švec",
+     "Samuel Macht"
+    ],
+    "min": 42.4,
+    "pf": 85,
+    "pa": 86,
+    "pm": -1,
+    "poss": 85.5,
+    "pF": 83.9,
+    "pA": 87.2,
+    "ortg": 101.3,
+    "drtg": 98.6,
+    "net": 2.7,
+    "efg": 47.8,
+    "oefg": 53.2
+   },
+   {
+    "players": [
+     "Ondřej Švec",
      "Petr Macháč",
      "Xavier Johnson"
     ],
-    "min": 41.3,
-    "pf": 91,
-    "pa": 86,
-    "pm": 5,
-    "poss": 77.7,
-    "pF": 80.6,
-    "pA": 74.9,
-    "ortg": 113.0,
-    "drtg": 114.8,
-    "net": -1.8,
-    "efg": 56.0,
-    "oefg": 52.9
+    "min": 42.0,
+    "pf": 83,
+    "pa": 83,
+    "pm": 0,
+    "poss": 83.9,
+    "pF": 81.7,
+    "pA": 86.1,
+    "ortg": 101.6,
+    "drtg": 96.4,
+    "net": 5.2,
+    "efg": 44.7,
+    "oefg": 52.3
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Ondřej Švec",
+     "Petr Macháč"
+    ],
+    "min": 41.4,
+    "pf": 87,
+    "pa": 79,
+    "pm": 8,
+    "poss": 84.0,
+    "pF": 85.5,
+    "pA": 82.5,
+    "ortg": 101.8,
+    "drtg": 95.7,
+    "net": 6.0,
+    "efg": 49.2,
+    "oefg": 46.6
    },
    {
     "players": [
@@ -2476,63 +2637,6 @@
    },
    {
     "players": [
-     "Ondřej Švec",
-     "Petr Macháč",
-     "Xavier Johnson"
-    ],
-    "min": 39.8,
-    "pf": 83,
-    "pa": 79,
-    "pm": 4,
-    "poss": 80.0,
-    "pF": 78.7,
-    "pA": 81.4,
-    "ortg": 105.5,
-    "drtg": 97.1,
-    "net": 8.4,
-    "efg": 47.9,
-    "oefg": 52.3
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Matěj Šafařík",
-     "Petr Macháč"
-    ],
-    "min": 39.7,
-    "pf": 83,
-    "pa": 76,
-    "pm": 7,
-    "poss": 78.3,
-    "pF": 81.0,
-    "pA": 75.6,
-    "ortg": 102.5,
-    "drtg": 100.6,
-    "net": 1.9,
-    "efg": 50.0,
-    "oefg": 47.6
-   },
-   {
-    "players": [
-     "Matěj Šafařík",
-     "Ondřej Švec",
-     "Samuel Macht"
-    ],
-    "min": 39.7,
-    "pf": 79,
-    "pa": 82,
-    "pm": -3,
-    "poss": 79.2,
-    "pF": 77.0,
-    "pA": 81.3,
-    "ortg": 102.6,
-    "drtg": 100.8,
-    "net": 1.8,
-    "efg": 46.9,
-    "oefg": 56.0
-   },
-   {
-    "players": [
      "Matěj Šafařík",
      "Michael Christmas",
      "Petr Macháč"
@@ -2552,22 +2656,22 @@
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
      "Ondřej Švec",
+     "Samuel Macht",
      "Xavier Johnson"
     ],
-    "min": 38.1,
-    "pf": 98,
-    "pa": 75,
-    "pm": 23,
-    "poss": 77.8,
-    "pF": 78.0,
-    "pA": 77.7,
-    "ortg": 125.6,
-    "drtg": 96.5,
-    "net": 29.1,
-    "efg": 67.5,
-    "oefg": 46.0
+    "min": 38.3,
+    "pf": 80,
+    "pa": 84,
+    "pm": -4,
+    "poss": 76.6,
+    "pF": 74.8,
+    "pA": 78.3,
+    "ortg": 106.9,
+    "drtg": 107.3,
+    "net": -0.4,
+    "efg": 53.8,
+    "oefg": 54.8
    },
    {
     "players": [
@@ -2575,37 +2679,18 @@
      "Samuel Macht",
      "Xavier Johnson"
     ],
-    "min": 37.0,
+    "min": 37.5,
     "pf": 85,
-    "pa": 95,
-    "pm": -10,
-    "poss": 72.7,
-    "pF": 70.6,
-    "pA": 74.9,
-    "ortg": 120.5,
-    "drtg": 126.9,
-    "net": -6.4,
-    "efg": 63.4,
+    "pa": 96,
+    "pm": -11,
+    "poss": 73.4,
+    "pF": 71.6,
+    "pA": 75.3,
+    "ortg": 118.8,
+    "drtg": 127.5,
+    "net": -8.7,
+    "efg": 62.3,
     "oefg": 62.5
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Ondřej Švec",
-     "Petr Macháč"
-    ],
-    "min": 36.9,
-    "pf": 83,
-    "pa": 68,
-    "pm": 15,
-    "poss": 73.7,
-    "pF": 75.6,
-    "pA": 71.9,
-    "ortg": 109.8,
-    "drtg": 94.6,
-    "net": 15.2,
-    "efg": 54.6,
-    "oefg": 47.0
    },
    {
     "players": [
@@ -2613,18 +2698,18 @@
      "Ondřej Švec",
      "Tomáš Kyzlink"
     ],
-    "min": 35.9,
-    "pf": 52,
-    "pa": 90,
+    "min": 36.9,
+    "pf": 54,
+    "pa": 92,
     "pm": -38,
-    "poss": 73.0,
-    "pF": 69.6,
-    "pA": 76.4,
-    "ortg": 74.7,
-    "drtg": 117.8,
-    "net": -43.1,
-    "efg": 31.1,
-    "oefg": 54.0
+    "poss": 74.5,
+    "pF": 71.6,
+    "pA": 77.4,
+    "ortg": 75.4,
+    "drtg": 118.9,
+    "net": -43.5,
+    "efg": 31.8,
+    "oefg": 53.1
    },
    {
     "players": [
@@ -2685,6 +2770,44 @@
    },
    {
     "players": [
+     "Samuel Macht",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 33.1,
+    "pf": 71,
+    "pa": 94,
+    "pm": -23,
+    "poss": 64.0,
+    "pF": 64.6,
+    "pA": 63.5,
+    "ortg": 110.0,
+    "drtg": 148.0,
+    "net": -38.0,
+    "efg": 55.1,
+    "oefg": 58.1
+   },
+   {
+    "players": [
+     "Ondřej Švec",
+     "Patrik Auda",
+     "Samuel Macht"
+    ],
+    "min": 30.8,
+    "pf": 65,
+    "pa": 57,
+    "pm": 8,
+    "poss": 63.0,
+    "pF": 65.4,
+    "pA": 60.7,
+    "ortg": 99.4,
+    "drtg": 93.9,
+    "net": 5.5,
+    "efg": 53.2,
+    "oefg": 46.9
+   },
+   {
+    "players": [
      "Patrik Auda",
      "Sidney Wilson",
      "Tomáš Kyzlink"
@@ -2701,25 +2824,6 @@
     "net": -28.9,
     "efg": 40.7,
     "oefg": 42.1
-   },
-   {
-    "players": [
-     "Ondřej Švec",
-     "Samuel Macht",
-     "Xavier Johnson"
-    ],
-    "min": 29.6,
-    "pf": 65,
-    "pa": 69,
-    "pm": -4,
-    "poss": 59.0,
-    "pF": 57.4,
-    "pA": 60.7,
-    "ortg": 113.2,
-    "drtg": 113.7,
-    "net": -0.5,
-    "efg": 57.0,
-    "oefg": 56.0
    },
    {
     "players": [
@@ -2743,6 +2847,44 @@
    {
     "players": [
      "Ondřej Švec",
+     "Samuel Macht",
+     "Tomáš Kyzlink"
+    ],
+    "min": 28.9,
+    "pf": 62,
+    "pa": 67,
+    "pm": -5,
+    "poss": 54.7,
+    "pF": 55.1,
+    "pA": 54.3,
+    "ortg": 112.5,
+    "drtg": 123.3,
+    "net": -10.9,
+    "efg": 60.8,
+    "oefg": 48.1
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Matěj Šafařík",
+     "Tomáš Kyzlink"
+    ],
+    "min": 28.8,
+    "pf": 44,
+    "pa": 66,
+    "pm": -22,
+    "poss": 58.5,
+    "pF": 56.0,
+    "pA": 61.0,
+    "ortg": 78.6,
+    "drtg": 108.2,
+    "net": -29.6,
+    "efg": 34.9,
+    "oefg": 53.1
+   },
+   {
+    "players": [
+     "Ondřej Švec",
      "Sidney Wilson",
      "Tomáš Kyzlink"
     ],
@@ -2758,6 +2900,25 @@
     "net": -78.3,
     "efg": 26.1,
     "oefg": 57.5
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Ondřej Švec",
+     "Samuel Macht"
+    ],
+    "min": 28.2,
+    "pf": 47,
+    "pa": 55,
+    "pm": -8,
+    "poss": 56.8,
+    "pF": 56.4,
+    "pA": 57.2,
+    "ortg": 83.4,
+    "drtg": 96.1,
+    "net": -12.7,
+    "efg": 39.7,
+    "oefg": 46.7
    },
    {
     "players": [
@@ -2780,60 +2941,41 @@
    },
    {
     "players": [
-     "Samuel Macht",
-     "Tomáš Kyzlink",
-     "Xavier Johnson"
-    ],
-    "min": 27.8,
-    "pf": 55,
-    "pa": 81,
-    "pm": -26,
-    "poss": 54.0,
-    "pF": 53.9,
-    "pA": 54.1,
-    "ortg": 102.0,
-    "drtg": 149.8,
-    "net": -47.8,
-    "efg": 55.0,
-    "oefg": 55.6
-   },
-   {
-    "players": [
-     "Jakub Soldán",
-     "Matěj Šafařík",
-     "Tomáš Kyzlink"
-    ],
-    "min": 26.5,
-    "pf": 41,
-    "pa": 59,
-    "pm": -18,
-    "poss": 54.3,
-    "pF": 52.0,
-    "pA": 56.6,
-    "ortg": 78.8,
-    "drtg": 104.3,
-    "net": -25.5,
-    "efg": 33.8,
-    "oefg": 51.1
-   },
-   {
-    "players": [
      "Jakub Soldán",
      "Ondřej Švec",
      "Samuel Macht"
     ],
-    "min": 25.2,
-    "pf": 44,
-    "pa": 62,
-    "pm": -18,
-    "poss": 49.9,
-    "pF": 51.3,
-    "pA": 48.5,
-    "ortg": 85.8,
-    "drtg": 127.9,
-    "net": -42.1,
-    "efg": 40.9,
-    "oefg": 63.4
+    "min": 26.4,
+    "pf": 46,
+    "pa": 66,
+    "pm": -20,
+    "poss": 51.8,
+    "pF": 53.3,
+    "pA": 50.4,
+    "ortg": 86.3,
+    "drtg": 131.1,
+    "net": -44.7,
+    "efg": 41.3,
+    "oefg": 61.4
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Patrik Auda",
+     "Samuel Macht"
+    ],
+    "min": 26.0,
+    "pf": 54,
+    "pa": 57,
+    "pm": -3,
+    "poss": 52.4,
+    "pF": 53.0,
+    "pA": 51.7,
+    "ortg": 101.9,
+    "drtg": 110.2,
+    "net": -8.3,
+    "efg": 47.1,
+    "oefg": 56.7
    },
    {
     "players": [
@@ -2894,25 +3036,6 @@
    },
    {
     "players": [
-     "Ondřej Švec",
-     "Samuel Macht",
-     "Tomáš Kyzlink"
-    ],
-    "min": 24.1,
-    "pf": 48,
-    "pa": 61,
-    "pm": -13,
-    "poss": 45.3,
-    "pF": 44.2,
-    "pA": 46.3,
-    "ortg": 108.5,
-    "drtg": 131.7,
-    "net": -23.2,
-    "efg": 57.1,
-    "oefg": 48.9
-   },
-   {
-    "players": [
      "Jakub Soldán",
      "Patrik Auda",
      "Tomáš Kyzlink"
@@ -2932,22 +3055,41 @@
    },
    {
     "players": [
-     "Ondřej Švec",
-     "Patrik Auda",
+     "Jakub Soldán",
+     "Matěj Šafařík",
      "Samuel Macht"
     ],
-    "min": 23.4,
-    "pf": 46,
-    "pa": 46,
-    "pm": 0,
-    "poss": 46.9,
-    "pF": 48.0,
-    "pA": 45.8,
-    "ortg": 95.8,
-    "drtg": 100.4,
-    "net": -4.7,
-    "efg": 45.8,
-    "oefg": 44.7
+    "min": 23.7,
+    "pf": 42,
+    "pa": 60,
+    "pm": -18,
+    "poss": 47.4,
+    "pF": 47.4,
+    "pA": 47.5,
+    "ortg": 88.6,
+    "drtg": 126.4,
+    "net": -37.8,
+    "efg": 45.0,
+    "oefg": 64.5
+   },
+   {
+    "players": [
+     "Patrik Auda",
+     "Samuel Macht",
+     "Xavier Johnson"
+    ],
+    "min": 23.2,
+    "pf": 54,
+    "pa": 57,
+    "pm": -3,
+    "poss": 46.5,
+    "pF": 47.5,
+    "pA": 45.5,
+    "ortg": 113.7,
+    "drtg": 125.2,
+    "net": -11.5,
+    "efg": 51.3,
+    "oefg": 66.2
    },
    {
     "players": [
@@ -2970,22 +3112,22 @@
    },
    {
     "players": [
-     "Jakub Soldán",
-     "Matěj Šafařík",
+     "Ondřej Švec",
+     "Petr Macháč",
      "Samuel Macht"
     ],
-    "min": 22.7,
-    "pf": 42,
-    "pa": 57,
+    "min": 23.1,
+    "pf": 37,
+    "pa": 52,
     "pm": -15,
-    "poss": 45.2,
-    "pF": 45.4,
-    "pA": 45.0,
-    "ortg": 92.5,
-    "drtg": 126.6,
-    "net": -34.0,
-    "efg": 46.2,
-    "oefg": 65.3
+    "poss": 45.6,
+    "pF": 41.7,
+    "pA": 49.6,
+    "ortg": 88.7,
+    "drtg": 104.9,
+    "net": -16.2,
+    "efg": 40.0,
+    "oefg": 48.7
    },
    {
     "players": [
@@ -3005,6 +3147,25 @@
     "net": -32.7,
     "efg": 34.3,
     "oefg": 55.2
+   },
+   {
+    "players": [
+     "Matěj Šafařík",
+     "Samuel Macht",
+     "Tomáš Kyzlink"
+    ],
+    "min": 22.2,
+    "pf": 51,
+    "pa": 62,
+    "pm": -11,
+    "poss": 42.6,
+    "pF": 42.1,
+    "pA": 43.1,
+    "ortg": 121.1,
+    "drtg": 143.8,
+    "net": -22.7,
+    "efg": 68.5,
+    "oefg": 57.7
    },
    {
     "players": [
@@ -3028,21 +3189,40 @@
    {
     "players": [
      "Matěj Šafařík",
-     "Samuel Macht",
-     "Tomáš Kyzlink"
+     "Petr Macháč",
+     "Samuel Macht"
     ],
-    "min": 20.1,
-    "pf": 48,
-    "pa": 59,
+    "min": 20.9,
+    "pf": 46,
+    "pa": 48,
+    "pm": -2,
+    "poss": 42.4,
+    "pF": 42.4,
+    "pA": 42.5,
+    "ortg": 108.6,
+    "drtg": 113.0,
+    "net": -4.4,
+    "efg": 54.8,
+    "oefg": 54.7
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Matěj Šafařík",
+     "Xavier Johnson"
+    ],
+    "min": 20.3,
+    "pf": 42,
+    "pa": 53,
     "pm": -11,
-    "poss": 38.0,
-    "pF": 37.2,
-    "pA": 38.7,
-    "ortg": 128.9,
-    "drtg": 152.5,
-    "net": -23.6,
-    "efg": 70.0,
-    "oefg": 59.7
+    "poss": 41.7,
+    "pF": 42.0,
+    "pA": 41.3,
+    "ortg": 99.9,
+    "drtg": 128.4,
+    "net": -28.5,
+    "efg": 51.6,
+    "oefg": 68.8
    },
    {
     "players": [
@@ -3084,98 +3264,41 @@
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
-     "Ondřej Švec",
-     "Samuel Macht"
-    ],
-    "min": 19.9,
-    "pf": 34,
-    "pa": 40,
-    "pm": -6,
-    "poss": 39.8,
-    "pF": 38.9,
-    "pA": 40.6,
-    "ortg": 87.4,
-    "drtg": 98.5,
-    "net": -11.2,
-    "efg": 36.5,
-    "oefg": 45.5
-   },
-   {
-    "players": [
-     "Jakub Soldán",
-     "Matěj Šafařík",
-     "Xavier Johnson"
-    ],
-    "min": 19.8,
-    "pf": 42,
-    "pa": 52,
-    "pm": -10,
-    "poss": 40.9,
-    "pF": 41.0,
-    "pA": 40.8,
-    "ortg": 102.3,
-    "drtg": 127.3,
-    "net": -25.0,
-    "efg": 53.2,
-    "oefg": 68.8
-   },
-   {
-    "players": [
-     "Matěj Šafařík",
-     "Petr Macháč",
-     "Samuel Macht"
-    ],
-    "min": 19.2,
-    "pf": 43,
-    "pa": 44,
-    "pm": -1,
-    "poss": 38.5,
-    "pF": 38.4,
-    "pA": 38.6,
-    "ortg": 112.1,
-    "drtg": 114.0,
-    "net": -1.9,
-    "efg": 55.4,
-    "oefg": 58.9
-   },
-   {
-    "players": [
-     "Ondřej Švec",
-     "Petr Macháč",
-     "Samuel Macht"
+     "Patrik Auda",
+     "Samuel Macht",
+     "Tomáš Kyzlink"
     ],
     "min": 19.1,
-    "pf": 34,
-    "pa": 44,
-    "pm": -10,
-    "poss": 37.8,
-    "pF": 34.7,
-    "pA": 40.9,
-    "ortg": 97.9,
-    "drtg": 107.5,
-    "net": -9.6,
-    "efg": 46.3,
-    "oefg": 51.5
+    "pf": 54,
+    "pa": 40,
+    "pm": 14,
+    "poss": 37.6,
+    "pF": 41.0,
+    "pA": 34.2,
+    "ortg": 131.7,
+    "drtg": 117.1,
+    "net": 14.6,
+    "efg": 65.4,
+    "oefg": 55.2
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
-     "Patrik Auda",
-     "Samuel Macht"
+     "Petr Macháč",
+     "Samuel Macht",
+     "Xavier Johnson"
     ],
-    "min": 19.0,
-    "pf": 36,
-    "pa": 40,
-    "pm": -4,
-    "poss": 37.9,
-    "pF": 37.9,
-    "pA": 37.8,
-    "ortg": 94.9,
-    "drtg": 105.7,
-    "net": -10.8,
-    "efg": 38.9,
-    "oefg": 50.0
+    "min": 18.9,
+    "pf": 43,
+    "pa": 48,
+    "pm": -5,
+    "poss": 38.0,
+    "pF": 36.7,
+    "pA": 39.2,
+    "ortg": 117.1,
+    "drtg": 122.3,
+    "net": -5.2,
+    "efg": 54.8,
+    "oefg": 54.5
    },
    {
     "players": [
@@ -3195,6 +3318,25 @@
     "net": -37.5,
     "efg": 33.3,
     "oefg": 44.4
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Matěj Šafařík",
+     "Petr Macháč"
+    ],
+    "min": 17.7,
+    "pf": 32,
+    "pa": 46,
+    "pm": -14,
+    "poss": 35.6,
+    "pF": 34.4,
+    "pA": 36.8,
+    "ortg": 93.1,
+    "drtg": 125.0,
+    "net": -31.9,
+    "efg": 37.5,
+    "oefg": 62.5
    },
    {
     "players": [
@@ -3236,79 +3378,60 @@
    },
    {
     "players": [
-     "Petr Macháč",
-     "Samuel Macht",
-     "Xavier Johnson"
-    ],
-    "min": 16.6,
-    "pf": 43,
-    "pa": 44,
-    "pm": -1,
-    "poss": 34.1,
-    "pF": 33.7,
-    "pA": 34.5,
-    "ortg": 127.5,
-    "drtg": 127.6,
-    "net": -0.1,
-    "efg": 65.4,
-    "oefg": 54.8
-   },
-   {
-    "players": [
-     "Jakub Soldán",
-     "Matěj Šafařík",
-     "Petr Macháč"
-    ],
-    "min": 16.5,
-    "pf": 29,
-    "pa": 42,
-    "pm": -13,
-    "poss": 33.6,
-    "pF": 32.4,
-    "pA": 34.8,
-    "ortg": 89.6,
-    "drtg": 120.7,
-    "net": -31.1,
-    "efg": 34.1,
-    "oefg": 59.6
-   },
-   {
-    "players": [
      "Jakub Soldán",
      "Ondřej Švec",
      "Petr Macháč"
     ],
-    "min": 16.1,
+    "min": 16.4,
     "pf": 23,
-    "pa": 42,
-    "pm": -19,
-    "poss": 33.4,
+    "pa": 44,
+    "pm": -21,
+    "poss": 33.9,
     "pF": 31.0,
-    "pA": 35.8,
+    "pA": 36.7,
     "ortg": 74.1,
-    "drtg": 117.3,
-    "net": -43.2,
+    "drtg": 120.0,
+    "net": -45.9,
     "efg": 26.3,
     "oefg": 65.9
    },
    {
     "players": [
-     "Patrik Auda",
+     "Jakub Soldán",
      "Samuel Macht",
      "Xavier Johnson"
     ],
-    "min": 16.0,
-    "pf": 33,
-    "pa": 40,
-    "pm": -7,
-    "poss": 30.5,
-    "pF": 31.4,
-    "pA": 29.6,
-    "ortg": 105.1,
-    "drtg": 135.0,
-    "net": -29.9,
-    "efg": 44.6,
-    "oefg": 62.1
+    "min": 16.2,
+    "pf": 27,
+    "pa": 42,
+    "pm": -15,
+    "poss": 30.3,
+    "pF": 29.8,
+    "pA": 30.8,
+    "ortg": 90.7,
+    "drtg": 136.2,
+    "net": -45.5,
+    "efg": 50.0,
+    "oefg": 63.0
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Ondřej Švec",
+     "Xavier Johnson"
+    ],
+    "min": 15.6,
+    "pf": 29,
+    "pa": 37,
+    "pm": -8,
+    "poss": 31.5,
+    "pF": 32.5,
+    "pA": 30.4,
+    "ortg": 89.2,
+    "drtg": 121.7,
+    "net": -32.5,
+    "efg": 54.2,
+    "oefg": 57.7
    },
    {
     "players": [
@@ -3369,6 +3492,44 @@
    },
    {
     "players": [
+     "Jakub Soldán",
+     "Tomáš Kyzlink",
+     "Xavier Johnson"
+    ],
+    "min": 14.9,
+    "pf": 17,
+    "pa": 43,
+    "pm": -26,
+    "poss": 27.1,
+    "pF": 27.2,
+    "pA": 27.1,
+    "ortg": 62.5,
+    "drtg": 158.8,
+    "net": -96.3,
+    "efg": 40.0,
+    "oefg": 63.8
+   },
+   {
+    "players": [
+     "Matěj Šafařík",
+     "Patrik Auda",
+     "Samuel Macht"
+    ],
+    "min": 14.8,
+    "pf": 26,
+    "pa": 32,
+    "pm": -6,
+    "poss": 29.7,
+    "pF": 28.4,
+    "pA": 31.1,
+    "ortg": 91.5,
+    "drtg": 103.0,
+    "net": -11.4,
+    "efg": 39.6,
+    "oefg": 60.4
+   },
+   {
+    "players": [
      "Michael Christmas",
      "Petr Macháč",
      "Samuel Macht"
@@ -3388,25 +3549,6 @@
    },
    {
     "players": [
-     "Jakub Soldán",
-     "Ondřej Švec",
-     "Xavier Johnson"
-    ],
-    "min": 14.3,
-    "pf": 27,
-    "pa": 33,
-    "pm": -6,
-    "poss": 29.5,
-    "pF": 30.5,
-    "pA": 28.5,
-    "ortg": 88.5,
-    "drtg": 115.7,
-    "net": -27.2,
-    "efg": 54.5,
-    "oefg": 60.9
-   },
-   {
-    "players": [
      "Matěj Šafařík",
      "Ondřej Švec",
      "Sidney Wilson"
@@ -3423,44 +3565,6 @@
     "net": -30.9,
     "efg": 40.0,
     "oefg": 39.6
-   },
-   {
-    "players": [
-     "Jakub Soldán",
-     "Samuel Macht",
-     "Xavier Johnson"
-    ],
-    "min": 14.3,
-    "pf": 25,
-    "pa": 37,
-    "pm": -12,
-    "poss": 27.6,
-    "pF": 26.8,
-    "pA": 28.5,
-    "ortg": 93.4,
-    "drtg": 129.7,
-    "net": -36.3,
-    "efg": 52.3,
-    "oefg": 66.7
-   },
-   {
-    "players": [
-     "Patrik Auda",
-     "Samuel Macht",
-     "Tomáš Kyzlink"
-    ],
-    "min": 14.1,
-    "pf": 34,
-    "pa": 28,
-    "pm": 6,
-    "poss": 26.8,
-    "pF": 29.5,
-    "pA": 24.2,
-    "ortg": 115.3,
-    "drtg": 115.9,
-    "net": -0.6,
-    "efg": 55.3,
-    "oefg": 43.5
    },
    {
     "players": [
@@ -3502,22 +3606,22 @@
    },
    {
     "players": [
-     "Matěj Šafařík",
-     "Patrik Auda",
-     "Samuel Macht"
+     "Petr Macháč",
+     "Samuel Macht",
+     "Tomáš Kyzlink"
     ],
     "min": 13.8,
-    "pf": 23,
-    "pa": 32,
+    "pf": 30,
+    "pa": 39,
     "pm": -9,
-    "poss": 27.3,
-    "pF": 25.5,
-    "pA": 29.1,
-    "ortg": 90.1,
-    "drtg": 110.0,
-    "net": -19.9,
-    "efg": 37.0,
-    "oefg": 63.0
+    "poss": 27.9,
+    "pF": 27.4,
+    "pA": 28.4,
+    "ortg": 109.5,
+    "drtg": 137.5,
+    "net": -28.0,
+    "efg": 66.7,
+    "oefg": 48.3
    },
    {
     "players": [
@@ -3540,25 +3644,6 @@
    },
    {
     "players": [
-     "Jakub Soldán",
-     "Tomáš Kyzlink",
-     "Xavier Johnson"
-    ],
-    "min": 13.3,
-    "pf": 15,
-    "pa": 40,
-    "pm": -25,
-    "poss": 24.9,
-    "pF": 24.2,
-    "pA": 25.6,
-    "ortg": 62.0,
-    "drtg": 156.0,
-    "net": -94.0,
-    "efg": 41.2,
-    "oefg": 67.3
-   },
-   {
-    "players": [
      "Kenneth Jamar Doucet",
      "Petr Macháč",
      "Sidney Wilson"
@@ -3578,22 +3663,22 @@
    },
    {
     "players": [
-     "Petr Macháč",
+     "Kenneth Jamar Doucet",
      "Samuel Macht",
-     "Tomáš Kyzlink"
+     "Xavier Johnson"
     ],
     "min": 13.2,
     "pf": 30,
-    "pa": 39,
-    "pm": -9,
-    "poss": 26.9,
-    "pF": 26.4,
-    "pA": 27.4,
-    "ortg": 113.6,
-    "drtg": 142.5,
-    "net": -28.9,
-    "efg": 70.6,
-    "oefg": 50.0
+    "pa": 33,
+    "pm": -3,
+    "poss": 27.2,
+    "pF": 26.7,
+    "pA": 27.8,
+    "ortg": 112.3,
+    "drtg": 118.9,
+    "net": -6.6,
+    "efg": 47.4,
+    "oefg": 68.8
    },
    {
     "players": [
@@ -3613,6 +3698,25 @@
     "net": -9.8,
     "efg": 47.4,
     "oefg": 44.2
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Kenneth Jamar Doucet",
+     "Tomáš Kyzlink"
+    ],
+    "min": 12.8,
+    "pf": 27,
+    "pa": 31,
+    "pm": -4,
+    "poss": 24.7,
+    "pF": 22.8,
+    "pA": 26.6,
+    "ortg": 118.6,
+    "drtg": 116.5,
+    "net": 2.1,
+    "efg": 50.0,
+    "oefg": 57.9
    },
    {
     "players": [
@@ -3711,22 +3815,22 @@
    },
    {
     "players": [
-     "Jakub Soldán",
      "Kenneth Jamar Doucet",
+     "Samuel Macht",
      "Tomáš Kyzlink"
     ],
-    "min": 11.1,
-    "pf": 24,
-    "pa": 25,
-    "pm": -1,
-    "poss": 21.2,
-    "pF": 19.8,
-    "pA": 22.6,
-    "ortg": 121.5,
-    "drtg": 110.6,
-    "net": 10.8,
-    "efg": 47.7,
-    "oefg": 53.3
+    "min": 10.9,
+    "pf": 30,
+    "pa": 28,
+    "pm": 2,
+    "poss": 22.4,
+    "pF": 22.4,
+    "pA": 22.4,
+    "ortg": 134.2,
+    "drtg": 125.0,
+    "net": 9.2,
+    "efg": 77.8,
+    "oefg": 52.5
    },
    {
     "players": [
@@ -3765,6 +3869,25 @@
     "net": -32.3,
     "efg": 40.0,
     "oefg": 42.9
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Petr Macháč",
+     "Tomáš Kyzlink"
+    ],
+    "min": 10.6,
+    "pf": 17,
+    "pa": 28,
+    "pm": -11,
+    "poss": 22.0,
+    "pF": 19.8,
+    "pA": 24.2,
+    "ortg": 85.7,
+    "drtg": 115.9,
+    "net": -30.2,
+    "efg": 30.8,
+    "oefg": 55.9
    },
    {
     "players": [
@@ -3825,6 +3948,25 @@
    },
    {
     "players": [
+     "Jakub Soldán",
+     "Samuel Macht",
+     "Tomáš Kyzlink"
+    ],
+    "min": 10.1,
+    "pf": 9,
+    "pa": 31,
+    "pm": -22,
+    "poss": 17.7,
+    "pF": 16.6,
+    "pA": 18.8,
+    "ortg": 54.1,
+    "drtg": 165.2,
+    "net": -111.2,
+    "efg": 16.7,
+    "oefg": 58.3
+   },
+   {
+    "players": [
      "Kj Doucet",
      "Michael Christmas",
      "Xavier Johnson"
@@ -3863,25 +4005,6 @@
    },
    {
     "players": [
-     "Jakub Soldán",
-     "Petr Macháč",
-     "Tomáš Kyzlink"
-    ],
-    "min": 9.3,
-    "pf": 14,
-    "pa": 24,
-    "pm": -10,
-    "poss": 20.0,
-    "pF": 17.8,
-    "pA": 22.2,
-    "ortg": 78.5,
-    "drtg": 108.3,
-    "net": -29.8,
-    "efg": 22.7,
-    "oefg": 50.0
-   },
-   {
-    "players": [
      "Matej Šafařík",
      "Sidney Wilson",
      "Xavier Johnson"
@@ -3898,6 +4021,25 @@
     "net": -20.1,
     "efg": 42.9,
     "oefg": 43.8
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Matěj Šafařík",
+     "Samuel Macht"
+    ],
+    "min": 9.1,
+    "pf": 10,
+    "pa": 18,
+    "pm": -8,
+    "poss": 20.7,
+    "pF": 18.6,
+    "pA": 22.8,
+    "ortg": 53.6,
+    "drtg": 79.1,
+    "net": -25.4,
+    "efg": 19.2,
+    "oefg": 44.1
    },
    {
     "players": [
@@ -3958,25 +4100,6 @@
    },
    {
     "players": [
-     "Jakub Soldán",
-     "Samuel Macht",
-     "Tomáš Kyzlink"
-    ],
-    "min": 8.1,
-    "pf": 7,
-    "pa": 26,
-    "pm": -19,
-    "poss": 14.0,
-    "pF": 12.6,
-    "pA": 15.3,
-    "ortg": 55.4,
-    "drtg": 169.7,
-    "net": -114.3,
-    "efg": 11.1,
-    "oefg": 63.2
-   },
-   {
-    "players": [
      "Lukáš Dejmek",
      "Matěj Šafařík",
      "Sidney Wilson"
@@ -4015,22 +4138,22 @@
    },
    {
     "players": [
+     "Jakub Soldán",
      "Kenneth Jamar Doucet",
-     "Samuel Macht",
-     "Tomáš Kyzlink"
+     "Petr Macháč"
     ],
-    "min": 7.7,
-    "pf": 19,
-    "pa": 16,
-    "pm": 3,
-    "poss": 15.6,
-    "pF": 15.7,
-    "pA": 15.4,
-    "ortg": 120.9,
-    "drtg": 103.9,
-    "net": 17.0,
-    "efg": 64.3,
-    "oefg": 32.1
+    "min": 7.5,
+    "pf": 14,
+    "pa": 18,
+    "pm": -4,
+    "poss": 15.5,
+    "pF": 14.5,
+    "pA": 16.4,
+    "ortg": 96.4,
+    "drtg": 109.8,
+    "net": -13.3,
+    "efg": 57.1,
+    "oefg": 65.0
    },
    {
     "players": [
@@ -4110,25 +4233,6 @@
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
-     "Matěj Šafařík",
-     "Samuel Macht"
-    ],
-    "min": 7.0,
-    "pf": 7,
-    "pa": 12,
-    "pm": -5,
-    "poss": 15.3,
-    "pF": 13.6,
-    "pA": 16.9,
-    "ortg": 51.3,
-    "drtg": 71.1,
-    "net": -19.8,
-    "efg": 10.0,
-    "oefg": 50.0
-   },
-   {
-    "players": [
      "Kj Doucet",
      "Michael Christmas",
      "Patrik Auda"
@@ -4187,25 +4291,6 @@
    {
     "players": [
      "Jakub Soldán",
-     "Kenneth Jamar Doucet",
-     "Petr Macháč"
-    ],
-    "min": 6.3,
-    "pf": 11,
-    "pa": 14,
-    "pm": -3,
-    "poss": 13.5,
-    "pF": 12.5,
-    "pA": 14.4,
-    "ortg": 87.9,
-    "drtg": 97.2,
-    "net": -9.4,
-    "efg": 50.0,
-    "oefg": 56.2
-   },
-   {
-    "players": [
-     "Jakub Soldán",
      "Matej Šafařík",
      "Tomáš Kyzlink"
     ],
@@ -4221,6 +4306,25 @@
     "net": -45.5,
     "efg": 55.6,
     "oefg": 68.2
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Petr Macháč",
+     "Samuel Macht"
+    ],
+    "min": 5.8,
+    "pf": 6,
+    "pa": 11,
+    "pm": -5,
+    "poss": 12.7,
+    "pF": 11.8,
+    "pA": 13.6,
+    "ortg": 51.0,
+    "drtg": 80.6,
+    "net": -29.6,
+    "efg": 16.7,
+    "oefg": 35.0
    },
    {
     "players": [
@@ -4281,25 +4385,6 @@
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
-     "Samuel Macht",
-     "Xavier Johnson"
-    ],
-    "min": 5.7,
-    "pf": 15,
-    "pa": 16,
-    "pm": -1,
-    "poss": 11.8,
-    "pF": 11.6,
-    "pA": 12.0,
-    "ortg": 128.9,
-    "drtg": 133.3,
-    "net": -4.5,
-    "efg": 55.6,
-    "oefg": 61.5
-   },
-   {
-    "players": [
      "Jakub Soldán",
      "Matej Šafařík",
      "Ondřej Švec"
@@ -4335,6 +4420,25 @@
     "net": -22.4,
     "efg": 50.0,
     "oefg": 50.0
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Petr Macháč",
+     "Samuel Macht"
+    ],
+    "min": 5.2,
+    "pf": 6,
+    "pa": 15,
+    "pm": -9,
+    "poss": 9.3,
+    "pF": 8.9,
+    "pA": 9.8,
+    "ortg": 67.6,
+    "drtg": 153.7,
+    "net": -86.1,
+    "efg": 35.7,
+    "oefg": 85.7
    },
    {
     "players": [
@@ -4377,6 +4481,25 @@
    {
     "players": [
      "Jakub Soldán",
+     "Kenneth Jamar Doucet",
+     "Matěj Šafařík"
+    ],
+    "min": 5.0,
+    "pf": 14,
+    "pa": 12,
+    "pm": 2,
+    "poss": 11.6,
+    "pF": 11.5,
+    "pA": 11.6,
+    "ortg": 121.5,
+    "drtg": 103.1,
+    "net": 18.4,
+    "efg": 57.1,
+    "oefg": 55.6
+   },
+   {
+    "players": [
+     "Jakub Soldán",
      "Michael Christmas",
      "Xavier Johnson"
     ],
@@ -4400,18 +4523,54 @@
      "Tomáš Kyzlink",
      "Xavier Johnson"
     ],
-    "min": 227.6,
-    "pf": 498,
-    "pa": 491,
-    "pm": 7,
-    "poss": 449.2,
-    "pF": 452.2,
-    "pA": 446.1,
-    "ortg": 110.1,
-    "drtg": 110.1,
-    "net": 0.0,
-    "efg": 56.4,
-    "oefg": 52.1
+    "min": 255.0,
+    "pf": 554,
+    "pa": 545,
+    "pm": 9,
+    "poss": 497.9,
+    "pF": 502.2,
+    "pA": 493.6,
+    "ortg": 110.3,
+    "drtg": 110.4,
+    "net": -0.1,
+    "efg": 55.9,
+    "oefg": 52.4
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Tomáš Kyzlink"
+    ],
+    "min": 238.6,
+    "pf": 513,
+    "pa": 513,
+    "pm": 0,
+    "poss": 455.8,
+    "pF": 455.5,
+    "pA": 456.2,
+    "ortg": 112.6,
+    "drtg": 112.5,
+    "net": 0.2,
+    "efg": 56.8,
+    "oefg": 51.0
+   },
+   {
+    "players": [
+     "Patrik Auda",
+     "Tomáš Kyzlink"
+    ],
+    "min": 226.6,
+    "pf": 470,
+    "pa": 496,
+    "pm": -26,
+    "poss": 433.7,
+    "pF": 435.2,
+    "pA": 432.2,
+    "ortg": 108.0,
+    "drtg": 114.8,
+    "net": -6.8,
+    "efg": 57.2,
+    "oefg": 50.2
    },
    {
     "players": [
@@ -4434,38 +4593,56 @@
    {
     "players": [
      "Kenneth Jamar Doucet",
-     "Tomáš Kyzlink"
+     "Patrik Auda"
     ],
-    "min": 210.6,
-    "pf": 458,
-    "pa": 451,
-    "pm": 7,
-    "poss": 404.5,
-    "pF": 403.7,
-    "pA": 405.2,
-    "ortg": 113.5,
-    "drtg": 111.3,
-    "net": 2.2,
-    "efg": 57.2,
-    "oefg": 50.0
+    "min": 213.1,
+    "pf": 462,
+    "pa": 466,
+    "pm": -4,
+    "poss": 407.7,
+    "pF": 407.5,
+    "pA": 407.8,
+    "ortg": 113.4,
+    "drtg": 114.3,
+    "net": -0.9,
+    "efg": 58.3,
+    "oefg": 52.1
    },
    {
     "players": [
-     "Patrik Auda",
+     "Matěj Šafařík",
      "Tomáš Kyzlink"
     ],
-    "min": 203.6,
-    "pf": 419,
-    "pa": 454,
-    "pm": -35,
-    "poss": 393.7,
-    "pF": 394.2,
-    "pA": 393.1,
-    "ortg": 106.3,
-    "drtg": 115.5,
-    "net": -9.2,
-    "efg": 56.7,
-    "oefg": 50.0
+    "min": 209.5,
+    "pf": 439,
+    "pa": 456,
+    "pm": -17,
+    "poss": 411.7,
+    "pF": 410.2,
+    "pA": 413.2,
+    "ortg": 107.0,
+    "drtg": 110.4,
+    "net": -3.3,
+    "efg": 51.4,
+    "oefg": 49.4
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Xavier Johnson"
+    ],
+    "min": 200.3,
+    "pf": 469,
+    "pa": 420,
+    "pm": 49,
+    "poss": 391.2,
+    "pF": 391.2,
+    "pA": 391.2,
+    "ortg": 119.9,
+    "drtg": 107.4,
+    "net": 12.5,
+    "efg": 60.8,
+    "oefg": 52.0
    },
    {
     "players": [
@@ -4487,165 +4664,147 @@
    },
    {
     "players": [
-     "Matěj Šafařík",
-     "Tomáš Kyzlink"
-    ],
-    "min": 189.2,
-    "pf": 402,
-    "pa": 411,
-    "pm": -9,
-    "poss": 373.1,
-    "pF": 370.5,
-    "pA": 375.6,
-    "ortg": 108.5,
-    "drtg": 109.4,
-    "net": -0.9,
-    "efg": 51.7,
-    "oefg": 48.8
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Patrik Auda"
-    ],
-    "min": 188.1,
-    "pf": 413,
-    "pa": 419,
-    "pm": -6,
-    "poss": 363.9,
-    "pF": 363.0,
-    "pA": 364.9,
-    "ortg": 113.8,
-    "drtg": 114.8,
-    "net": -1.1,
-    "efg": 58.3,
-    "oefg": 52.1
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
+     "Patrik Auda",
      "Xavier Johnson"
     ],
-    "min": 170.7,
-    "pf": 414,
-    "pa": 362,
-    "pm": 52,
-    "poss": 337.1,
-    "pF": 336.8,
-    "pA": 337.4,
-    "ortg": 122.9,
-    "drtg": 107.3,
-    "net": 15.6,
-    "efg": 62.7,
-    "oefg": 51.2
+    "min": 189.6,
+    "pf": 422,
+    "pa": 407,
+    "pm": 15,
+    "poss": 366.2,
+    "pF": 370.4,
+    "pA": 362.0,
+    "ortg": 113.9,
+    "drtg": 112.4,
+    "net": 1.5,
+    "efg": 59.7,
+    "oefg": 51.4
    },
    {
     "players": [
      "Ondřej Švec",
      "Tomáš Kyzlink"
     ],
-    "min": 168.2,
-    "pf": 309,
-    "pa": 393,
-    "pm": -84,
-    "poss": 335.6,
-    "pF": 330.6,
-    "pA": 340.6,
-    "ortg": 93.5,
-    "drtg": 115.4,
-    "net": -21.9,
-    "efg": 46.0,
-    "oefg": 52.7
-   },
-   {
-    "players": [
-     "Patrik Auda",
-     "Xavier Johnson"
-    ],
-    "min": 164.5,
-    "pf": 370,
-    "pa": 360,
-    "pm": 10,
-    "poss": 321.0,
-    "pF": 324.9,
-    "pA": 317.0,
-    "ortg": 113.9,
-    "drtg": 113.6,
-    "net": 0.3,
-    "efg": 59.9,
-    "oefg": 51.2
+    "min": 180.9,
+    "pf": 334,
+    "pa": 412,
+    "pm": -78,
+    "poss": 359.5,
+    "pF": 355.6,
+    "pA": 363.4,
+    "ortg": 93.9,
+    "drtg": 113.4,
+    "net": -19.5,
+    "efg": 46.7,
+    "oefg": 51.8
    },
    {
     "players": [
      "Matěj Šafařík",
      "Xavier Johnson"
     ],
-    "min": 154.3,
-    "pf": 352,
-    "pa": 314,
-    "pm": 38,
-    "poss": 307.7,
-    "pF": 307.1,
-    "pA": 308.4,
-    "ortg": 114.6,
-    "drtg": 101.8,
-    "net": 12.8,
-    "efg": 56.2,
-    "oefg": 49.4
+    "min": 170.5,
+    "pf": 382,
+    "pa": 348,
+    "pm": 34,
+    "poss": 336.5,
+    "pF": 337.0,
+    "pA": 336.0,
+    "ortg": 113.3,
+    "drtg": 103.6,
+    "net": 9.8,
+    "efg": 55.5,
+    "oefg": 50.0
    },
    {
     "players": [
      "Matěj Šafařík",
      "Patrik Auda"
     ],
-    "min": 146.8,
-    "pf": 315,
-    "pa": 286,
-    "pm": 29,
-    "poss": 287.1,
-    "pF": 286.8,
-    "pA": 287.3,
+    "min": 159.3,
+    "pf": 339,
+    "pa": 308,
+    "pm": 31,
+    "poss": 308.1,
+    "pF": 308.8,
+    "pA": 307.5,
     "ortg": 109.8,
-    "drtg": 99.5,
-    "net": 10.3,
+    "drtg": 100.2,
+    "net": 9.6,
     "efg": 55.4,
     "oefg": 45.7
-   },
-   {
-    "players": [
-     "Matěj Šafařík",
-     "Ondřej Švec"
-    ],
-    "min": 141.4,
-    "pf": 288,
-    "pa": 304,
-    "pm": -16,
-    "poss": 283.6,
-    "pF": 280.2,
-    "pA": 287.1,
-    "ortg": 102.8,
-    "drtg": 105.9,
-    "net": -3.1,
-    "efg": 47.7,
-    "oefg": 51.3
    },
    {
     "players": [
      "Kenneth Jamar Doucet",
      "Matěj Šafařík"
     ],
-    "min": 136.1,
-    "pf": 311,
-    "pa": 282,
-    "pm": 29,
-    "poss": 271.6,
-    "pF": 269.8,
-    "pA": 273.4,
-    "ortg": 115.3,
-    "drtg": 103.1,
-    "net": 12.2,
-    "efg": 56.8,
-    "oefg": 49.1
+    "min": 156.5,
+    "pf": 348,
+    "pa": 330,
+    "pm": 18,
+    "poss": 311.0,
+    "pF": 309.6,
+    "pA": 312.4,
+    "ortg": 112.4,
+    "drtg": 105.6,
+    "net": 6.8,
+    "efg": 55.8,
+    "oefg": 49.8
+   },
+   {
+    "players": [
+     "Ondřej Švec",
+     "Patrik Auda"
+    ],
+    "min": 146.4,
+    "pf": 282,
+    "pa": 306,
+    "pm": -24,
+    "poss": 285.4,
+    "pF": 287.4,
+    "pA": 283.4,
+    "ortg": 98.1,
+    "drtg": 108.0,
+    "net": -9.9,
+    "efg": 51.8,
+    "oefg": 49.6
+   },
+   {
+    "players": [
+     "Matěj Šafařík",
+     "Ondřej Švec"
+    ],
+    "min": 145.5,
+    "pf": 295,
+    "pa": 313,
+    "pm": -18,
+    "poss": 293.9,
+    "pF": 290.9,
+    "pA": 296.8,
+    "ortg": 101.4,
+    "drtg": 105.4,
+    "net": -4.0,
+    "efg": 47.6,
+    "oefg": 50.6
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Ondřej Švec"
+    ],
+    "min": 140.0,
+    "pf": 283,
+    "pa": 288,
+    "pm": -5,
+    "poss": 274.2,
+    "pF": 275.6,
+    "pA": 272.9,
+    "ortg": 102.7,
+    "drtg": 105.5,
+    "net": -2.8,
+    "efg": 52.2,
+    "oefg": 50.4
    },
    {
     "players": [
@@ -4668,20 +4827,38 @@
    {
     "players": [
      "Ondřej Švec",
-     "Patrik Auda"
+     "Xavier Johnson"
     ],
-    "min": 132.6,
-    "pf": 253,
-    "pa": 287,
-    "pm": -34,
-    "poss": 258.7,
-    "pF": 259.8,
-    "pA": 257.6,
-    "ortg": 97.4,
-    "drtg": 111.4,
-    "net": -14.0,
-    "efg": 50.5,
-    "oefg": 50.0
+    "min": 132.3,
+    "pf": 278,
+    "pa": 263,
+    "pm": 15,
+    "poss": 268.1,
+    "pF": 267.2,
+    "pA": 269.0,
+    "ortg": 104.0,
+    "drtg": 97.8,
+    "net": 6.3,
+    "efg": 53.5,
+    "oefg": 49.1
+   },
+   {
+    "players": [
+     "Petr Macháč",
+     "Tomáš Kyzlink"
+    ],
+    "min": 132.0,
+    "pf": 274,
+    "pa": 268,
+    "pm": 6,
+    "poss": 262.5,
+    "pF": 265.1,
+    "pA": 260.0,
+    "ortg": 103.3,
+    "drtg": 103.1,
+    "net": 0.3,
+    "efg": 48.2,
+    "oefg": 51.5
    },
    {
     "players": [
@@ -4703,42 +4880,6 @@
    },
    {
     "players": [
-     "Petr Macháč",
-     "Tomáš Kyzlink"
-    ],
-    "min": 124.5,
-    "pf": 261,
-    "pa": 248,
-    "pm": 13,
-    "poss": 246.2,
-    "pF": 248.4,
-    "pA": 244.1,
-    "ortg": 105.1,
-    "drtg": 101.6,
-    "net": 3.5,
-    "efg": 48.8,
-    "oefg": 50.3
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Ondřej Švec"
-    ],
-    "min": 123.9,
-    "pf": 259,
-    "pa": 260,
-    "pm": -1,
-    "poss": 242.7,
-    "pF": 243.9,
-    "pA": 241.5,
-    "ortg": 106.2,
-    "drtg": 107.7,
-    "net": -1.5,
-    "efg": 53.2,
-    "oefg": 51.3
-   },
-   {
-    "players": [
      "Michael Christmas",
      "Patrik Auda"
     ],
@@ -4757,39 +4898,57 @@
    },
    {
     "players": [
-     "Ondřej Švec",
-     "Xavier Johnson"
-    ],
-    "min": 117.1,
-    "pf": 253,
-    "pa": 240,
-    "pm": 13,
-    "poss": 240.0,
-    "pF": 239.5,
-    "pA": 240.5,
-    "ortg": 105.6,
-    "drtg": 99.8,
-    "net": 5.8,
-    "efg": 54.5,
-    "oefg": 49.7
-   },
-   {
-    "players": [
      "Petr Macháč",
      "Xavier Johnson"
     ],
-    "min": 106.7,
-    "pf": 235,
-    "pa": 206,
-    "pm": 29,
-    "poss": 208.7,
-    "pF": 211.0,
-    "pA": 206.4,
-    "ortg": 111.4,
-    "drtg": 99.8,
-    "net": 11.6,
-    "efg": 54.4,
-    "oefg": 51.2
+    "min": 113.1,
+    "pf": 244,
+    "pa": 221,
+    "pm": 23,
+    "poss": 222.0,
+    "pF": 223.8,
+    "pA": 220.2,
+    "ortg": 109.0,
+    "drtg": 100.4,
+    "net": 8.6,
+    "efg": 52.6,
+    "oefg": 52.3
+   },
+   {
+    "players": [
+     "Ondřej Švec",
+     "Petr Macháč"
+    ],
+    "min": 104.0,
+    "pf": 200,
+    "pa": 220,
+    "pm": -20,
+    "poss": 215.9,
+    "pF": 213.5,
+    "pA": 218.4,
+    "ortg": 93.7,
+    "drtg": 100.7,
+    "net": -7.0,
+    "efg": 41.3,
+    "oefg": 51.9
+   },
+   {
+    "players": [
+     "Matěj Šafařík",
+     "Petr Macháč"
+    ],
+    "min": 102.9,
+    "pf": 217,
+    "pa": 218,
+    "pm": -1,
+    "poss": 205.8,
+    "pF": 209.8,
+    "pA": 201.7,
+    "ortg": 103.4,
+    "drtg": 108.1,
+    "net": -4.7,
+    "efg": 47.9,
+    "oefg": 50.9
    },
    {
     "players": [
@@ -4811,21 +4970,21 @@
    },
    {
     "players": [
-     "Ondřej Švec",
+     "Kenneth Jamar Doucet",
      "Petr Macháč"
     ],
-    "min": 98.7,
-    "pf": 196,
-    "pa": 207,
-    "pm": -11,
-    "poss": 204.2,
-    "pF": 202.6,
-    "pA": 205.9,
-    "ortg": 96.7,
-    "drtg": 100.5,
-    "net": -3.8,
-    "efg": 43.0,
-    "oefg": 52.7
+    "min": 98.4,
+    "pf": 210,
+    "pa": 191,
+    "pm": 19,
+    "poss": 195.2,
+    "pF": 199.4,
+    "pA": 191.0,
+    "ortg": 105.3,
+    "drtg": 100.0,
+    "net": 5.3,
+    "efg": 51.5,
+    "oefg": 49.3
    },
    {
     "players": [
@@ -4847,111 +5006,111 @@
    },
    {
     "players": [
-     "Matěj Šafařík",
-     "Petr Macháč"
-    ],
-    "min": 94.3,
-    "pf": 201,
-    "pa": 194,
-    "pm": 7,
-    "poss": 186.5,
-    "pF": 190.1,
-    "pA": 182.9,
-    "ortg": 105.7,
-    "drtg": 106.1,
-    "net": -0.3,
-    "efg": 48.3,
-    "oefg": 49.7
-   },
-   {
-    "players": [
-     "Kenneth Jamar Doucet",
-     "Petr Macháč"
-    ],
-    "min": 88.5,
-    "pf": 194,
-    "pa": 165,
-    "pm": 29,
-    "poss": 173.5,
-    "pF": 177.6,
-    "pA": 169.3,
-    "ortg": 109.2,
-    "drtg": 97.4,
-    "net": 11.8,
-    "efg": 53.8,
-    "oefg": 47.3
-   },
-   {
-    "players": [
      "Ondřej Švec",
      "Samuel Macht"
     ],
-    "min": 67.8,
-    "pf": 134,
-    "pa": 152,
-    "pm": -18,
-    "poss": 133.3,
-    "pF": 129.9,
-    "pA": 136.8,
-    "ortg": 103.1,
-    "drtg": 111.1,
-    "net": -8.0,
-    "efg": 48.6,
-    "oefg": 52.7
-   },
-   {
-    "players": [
-     "Matěj Šafařík",
-     "Samuel Macht"
-    ],
-    "min": 61.7,
-    "pf": 128,
-    "pa": 149,
-    "pm": -21,
-    "poss": 121.9,
-    "pF": 117.9,
-    "pA": 125.8,
-    "ortg": 108.5,
-    "drtg": 118.4,
-    "net": -9.9,
-    "efg": 52.1,
-    "oefg": 60.2
-   },
-   {
-    "players": [
-     "Jakub Soldán",
-     "Ondřej Švec"
-    ],
-    "min": 61.3,
-    "pf": 101,
-    "pa": 154,
-    "pm": -53,
-    "poss": 125.8,
-    "pF": 123.7,
-    "pA": 127.8,
-    "ortg": 81.7,
-    "drtg": 120.5,
-    "net": -38.8,
-    "efg": 37.9,
-    "oefg": 58.7
+    "min": 80.2,
+    "pf": 158,
+    "pa": 173,
+    "pm": -15,
+    "poss": 158.8,
+    "pF": 156.2,
+    "pA": 161.3,
+    "ortg": 101.1,
+    "drtg": 107.3,
+    "net": -6.1,
+    "efg": 49.2,
+    "oefg": 51.5
    },
    {
     "players": [
      "Samuel Macht",
      "Xavier Johnson"
     ],
-    "min": 57.7,
-    "pf": 126,
-    "pa": 149,
-    "pm": -23,
-    "poss": 113.0,
-    "pF": 110.5,
-    "pA": 115.5,
-    "ortg": 114.0,
-    "drtg": 129.0,
-    "net": -15.0,
-    "efg": 57.1,
-    "oefg": 59.3
+    "min": 68.8,
+    "pf": 149,
+    "pa": 173,
+    "pm": -24,
+    "poss": 135.1,
+    "pF": 132.6,
+    "pA": 137.6,
+    "ortg": 112.4,
+    "drtg": 125.8,
+    "net": -13.4,
+    "efg": 55.0,
+    "oefg": 60.2
+   },
+   {
+    "players": [
+     "Matěj Šafařík",
+     "Samuel Macht"
+    ],
+    "min": 65.5,
+    "pf": 134,
+    "pa": 156,
+    "pm": -22,
+    "poss": 130.5,
+    "pF": 126.8,
+    "pA": 134.1,
+    "ortg": 105.7,
+    "drtg": 116.3,
+    "net": -10.6,
+    "efg": 52.0,
+    "oefg": 58.1
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Ondřej Švec"
+    ],
+    "min": 62.5,
+    "pf": 103,
+    "pa": 158,
+    "pm": -55,
+    "poss": 127.7,
+    "pF": 125.7,
+    "pA": 129.7,
+    "ortg": 82.0,
+    "drtg": 121.8,
+    "net": -39.8,
+    "efg": 38.1,
+    "oefg": 57.9
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Tomáš Kyzlink"
+    ],
+    "min": 54.6,
+    "pf": 90,
+    "pa": 137,
+    "pm": -47,
+    "poss": 108.4,
+    "pF": 104.6,
+    "pA": 112.1,
+    "ortg": 86.0,
+    "drtg": 122.2,
+    "net": -36.1,
+    "efg": 38.8,
+    "oefg": 56.3
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Matěj Šafařík"
+    ],
+    "min": 52.9,
+    "pf": 102,
+    "pa": 124,
+    "pm": -22,
+    "poss": 109.3,
+    "pF": 108.4,
+    "pA": 110.2,
+    "ortg": 94.1,
+    "drtg": 112.5,
+    "net": -18.4,
+    "efg": 44.1,
+    "oefg": 57.6
    },
    {
     "players": [
@@ -4973,39 +5132,21 @@
    },
    {
     "players": [
-     "Jakub Soldán",
+     "Samuel Macht",
      "Tomáš Kyzlink"
     ],
-    "min": 51.3,
-    "pf": 85,
-    "pa": 128,
-    "pm": -43,
-    "poss": 102.6,
-    "pF": 98.6,
-    "pA": 106.7,
-    "ortg": 86.2,
-    "drtg": 120.0,
-    "net": -33.8,
-    "efg": 38.1,
-    "oefg": 56.2
-   },
-   {
-    "players": [
-     "Jakub Soldán",
-     "Matěj Šafařík"
-    ],
-    "min": 50.6,
-    "pf": 99,
-    "pa": 117,
-    "pm": -18,
-    "poss": 105.1,
-    "pF": 104.4,
-    "pA": 105.8,
-    "ortg": 94.9,
-    "drtg": 110.6,
-    "net": -15.7,
-    "efg": 43.9,
-    "oefg": 56.8
+    "min": 51.2,
+    "pf": 114,
+    "pa": 133,
+    "pm": -19,
+    "poss": 98.4,
+    "pF": 98.7,
+    "pA": 98.1,
+    "ortg": 115.5,
+    "drtg": 135.5,
+    "net": -20.0,
+    "efg": 60.6,
+    "oefg": 53.7
    },
    {
     "players": [
@@ -5063,21 +5204,21 @@
    },
    {
     "players": [
-     "Samuel Macht",
-     "Tomáš Kyzlink"
+     "Patrik Auda",
+     "Samuel Macht"
     ],
-    "min": 43.5,
-    "pf": 92,
-    "pa": 116,
-    "pm": -24,
-    "poss": 82.9,
-    "pF": 82.2,
-    "pA": 83.7,
-    "ortg": 112.0,
-    "drtg": 138.6,
-    "net": -26.6,
-    "efg": 59.1,
-    "oefg": 51.8
+    "min": 41.3,
+    "pf": 89,
+    "pa": 89,
+    "pm": 0,
+    "poss": 82.3,
+    "pF": 84.5,
+    "pA": 80.1,
+    "ortg": 105.3,
+    "drtg": 111.1,
+    "net": -5.8,
+    "efg": 49.2,
+    "oefg": 56.6
    },
    {
     "players": [
@@ -5117,39 +5258,57 @@
    },
    {
     "players": [
-     "Patrik Auda",
-     "Samuel Macht"
-    ],
-    "min": 32.0,
-    "pf": 62,
-    "pa": 70,
-    "pm": -8,
-    "poss": 62.4,
-    "pF": 63.6,
-    "pA": 61.2,
-    "ortg": 97.5,
-    "drtg": 114.3,
-    "net": -16.8,
-    "efg": 42.2,
-    "oefg": 52.7
-   },
-   {
-    "players": [
      "Petr Macháč",
      "Samuel Macht"
     ],
-    "min": 30.1,
-    "pf": 65,
+    "min": 34.1,
+    "pf": 68,
+    "pa": 80,
+    "pm": -12,
+    "poss": 68.3,
+    "pF": 65.6,
+    "pA": 71.0,
+    "ortg": 103.7,
+    "drtg": 112.7,
+    "net": -9.0,
+    "efg": 51.0,
+    "oefg": 50.9
+   },
+   {
+    "players": [
+     "Kenneth Jamar Doucet",
+     "Samuel Macht"
+    ],
+    "min": 32.5,
+    "pf": 60,
     "pa": 72,
-    "pm": -7,
-    "poss": 60.4,
-    "pF": 58.6,
-    "pA": 62.3,
-    "ortg": 111.0,
-    "drtg": 115.5,
-    "net": -4.5,
-    "efg": 57.0,
-    "oefg": 52.9
+    "pm": -12,
+    "poss": 67.0,
+    "pF": 65.8,
+    "pA": 68.2,
+    "ortg": 91.2,
+    "drtg": 105.5,
+    "net": -14.3,
+    "efg": 40.7,
+    "oefg": 52.6
+   },
+   {
+    "players": [
+     "Jakub Soldán",
+     "Samuel Macht"
+    ],
+    "min": 30.6,
+    "pf": 48,
+    "pa": 83,
+    "pm": -35,
+    "poss": 59.5,
+    "pF": 59.3,
+    "pA": 59.7,
+    "ortg": 81.0,
+    "drtg": 139.1,
+    "net": -58.1,
+    "efg": 40.0,
+    "oefg": 64.2
    },
    {
     "players": [
@@ -5168,24 +5327,6 @@
     "net": -13.3,
     "efg": 40.4,
     "oefg": 47.5
-   },
-   {
-    "players": [
-     "Jakub Soldán",
-     "Samuel Macht"
-    ],
-    "min": 28.4,
-    "pf": 46,
-    "pa": 76,
-    "pm": -30,
-    "poss": 55.3,
-    "pF": 55.3,
-    "pA": 55.4,
-    "ortg": 83.2,
-    "drtg": 137.3,
-    "net": -54.1,
-    "efg": 40.4,
-    "oefg": 66.7
    },
    {
     "players": [
@@ -5210,36 +5351,36 @@
      "Jakub Soldán",
      "Xavier Johnson"
     ],
-    "min": 25.8,
-    "pf": 50,
-    "pa": 70,
-    "pm": -20,
-    "poss": 51.8,
-    "pF": 52.0,
-    "pA": 51.6,
-    "ortg": 96.1,
-    "drtg": 135.7,
-    "net": -39.6,
-    "efg": 52.6,
-    "oefg": 65.6
+    "min": 27.6,
+    "pf": 52,
+    "pa": 75,
+    "pm": -23,
+    "poss": 54.5,
+    "pF": 55.0,
+    "pA": 53.9,
+    "ortg": 94.5,
+    "drtg": 139.1,
+    "net": -44.6,
+    "efg": 51.2,
+    "oefg": 63.5
    },
    {
     "players": [
-     "Kenneth Jamar Doucet",
-     "Samuel Macht"
+     "Jakub Soldán",
+     "Petr Macháč"
     ],
     "min": 21.9,
-    "pf": 39,
-    "pa": 47,
-    "pm": -8,
-    "poss": 44.6,
-    "pF": 43.7,
-    "pA": 45.6,
-    "ortg": 89.3,
-    "drtg": 103.1,
-    "net": -13.8,
-    "efg": 36.2,
-    "oefg": 47.4
+    "pf": 34,
+    "pa": 59,
+    "pm": -25,
+    "poss": 44.0,
+    "pF": 41.2,
+    "pA": 46.8,
+    "ortg": 82.4,
+    "drtg": 126.2,
+    "net": -43.7,
+    "efg": 34.6,
+    "oefg": 64.5
    },
    {
     "players": [
@@ -5262,38 +5403,20 @@
    {
     "players": [
      "Jakub Soldán",
-     "Petr Macháč"
-    ],
-    "min": 20.3,
-    "pf": 31,
-    "pa": 53,
-    "pm": -22,
-    "poss": 41.6,
-    "pF": 39.2,
-    "pA": 43.9,
-    "ortg": 79.0,
-    "drtg": 120.8,
-    "net": -41.8,
-    "efg": 31.2,
-    "oefg": 62.1
-   },
-   {
-    "players": [
-     "Jakub Soldán",
      "Kenneth Jamar Doucet"
     ],
-    "min": 18.1,
-    "pf": 37,
-    "pa": 46,
-    "pm": -9,
-    "poss": 36.3,
-    "pF": 35.2,
-    "pA": 37.4,
-    "ortg": 105.2,
-    "drtg": 122.9,
-    "net": -17.6,
-    "efg": 43.3,
-    "oefg": 59.6
+    "min": 19.8,
+    "pf": 40,
+    "pa": 52,
+    "pm": -12,
+    "poss": 39.8,
+    "pF": 38.2,
+    "pA": 41.4,
+    "ortg": 104.8,
+    "drtg": 125.5,
+    "net": -20.7,
+    "efg": 45.3,
+    "oefg": 61.7
    },
    {
     "players": [
@@ -5877,20 +6000,20 @@
   {
    "passer": "Xavier Johnson",
    "scorer": "Tomáš Kyzlink",
-   "ast": 13,
-   "pts": 37
+   "ast": 15,
+   "pts": 42
   },
   {
    "passer": "Tomáš Kyzlink",
    "scorer": "Patrik Auda",
-   "ast": 13,
-   "pts": 24
+   "ast": 14,
+   "pts": 26
   },
   {
    "passer": "Xavier Johnson",
    "scorer": "Patrik Auda",
-   "ast": 11,
-   "pts": 18
+   "ast": 14,
+   "pts": 24
   },
   {
    "passer": "Kenneth Jamar Doucet",
@@ -6007,22 +6130,22 @@
    "pts": 8
   },
   {
+   "passer": "Xavier Johnson",
+   "scorer": "Ondřej Švec",
+   "ast": 3,
+   "pts": 7
+  },
+  {
+   "passer": "Tomáš Kyzlink",
+   "scorer": "Ondřej Švec",
+   "ast": 3,
+   "pts": 6
+  },
+  {
    "passer": "Michael Christmas",
    "scorer": "Patrik Auda",
    "ast": 3,
    "pts": 6
-  },
-  {
-   "passer": "Tomáš Kyzlink",
-   "scorer": "Petr Macháč",
-   "ast": 3,
-   "pts": 6
-  },
-  {
-   "passer": "Kenneth Jamar Doucet",
-   "scorer": "Petr Macháč",
-   "ast": 3,
-   "pts": 5
   }
  ],
  "log": [
@@ -7349,6 +7472,108 @@
     "last5": [
      12,
      6
+    ]
+   }
+  },
+  {
+   "fibaId": 2947895,
+   "nblId": 544625,
+   "date": "2026-11-22",
+   "round": "14. kolo",
+   "venue": "away",
+   "opponent": "SLUNETA Ústí nad Labem",
+   "opponentSlug": "usti",
+   "opponentLabel": "Ústí",
+   "score": [
+    76,
+    82
+   ],
+   "result": "L",
+   "ot": false,
+   "ortg": 98.5,
+   "drtg": 109.5,
+   "net": -10.9,
+   "pace": 76.0,
+   "efg": 50.0,
+   "tov": 16.2,
+   "orb": 9.7,
+   "ftr": 33.3,
+   "topScorer": "Kenneth Jamar Doucet",
+   "oppEfg": 53.8,
+   "oppOrb": 34.3,
+   "tp": [
+    5,
+    21
+   ],
+   "ft": [
+    19,
+    23
+   ],
+   "second": [
+    2,
+    10
+   ],
+   "bench": [
+    26,
+    37
+   ],
+   "paint": [
+    40,
+    34
+   ],
+   "leading": [
+    13.5,
+    23.2
+   ],
+   "leadChanges": 6,
+   "maxLead": [
+    9,
+    6
+   ],
+   "maxRun": [
+    9,
+    10
+   ],
+   "astFg": [
+    [
+     11,
+     26
+    ],
+    [
+     20,
+     32
+    ]
+   ],
+   "quarters": [
+    [
+     24,
+     21
+    ],
+    [
+     22,
+     27
+    ],
+    [
+     22,
+     20
+    ],
+    [
+     8,
+     14
+    ]
+   ],
+   "segments": {
+    "first3": [
+     17,
+     19
+    ],
+    "last3": [
+     25,
+     23
+    ],
+    "last5": [
+     7,
+     8
     ]
    }
   }
@@ -13196,6 +13421,405 @@
     0,
     0,
     13
+   ],
+   [
+    10.2,
+    44.0,
+    0,
+    0,
+    4
+   ],
+   [
+    10.3,
+    49.6,
+    0,
+    0,
+    4
+   ],
+   [
+    7.4,
+    48.5,
+    1,
+    0,
+    9
+   ],
+   [
+    12.0,
+    59.2,
+    0,
+    0,
+    5
+   ],
+   [
+    18.3,
+    44.2,
+    0,
+    0,
+    0
+   ],
+   [
+    8.9,
+    47.9,
+    1,
+    0,
+    5
+   ],
+   [
+    33.2,
+    44.8,
+    1,
+    1,
+    5
+   ],
+   [
+    25.0,
+    86.3,
+    0,
+    1,
+    9
+   ],
+   [
+    11.1,
+    46.8,
+    1,
+    0,
+    7
+   ],
+   [
+    12.4,
+    41.1,
+    1,
+    0,
+    0
+   ],
+   [
+    32.2,
+    55.0,
+    1,
+    1,
+    2
+   ],
+   [
+    7.1,
+    47.3,
+    1,
+    0,
+    7
+   ],
+   [
+    10.2,
+    53.5,
+    0,
+    0,
+    13
+   ],
+   [
+    9.4,
+    46.5,
+    1,
+    0,
+    3
+   ],
+   [
+    30.3,
+    73.6,
+    0,
+    1,
+    5
+   ],
+   [
+    8.6,
+    54.1,
+    1,
+    0,
+    8
+   ],
+   [
+    11.4,
+    53.0,
+    0,
+    0,
+    5
+   ],
+   [
+    34.5,
+    54.4,
+    0,
+    1,
+    0
+   ],
+   [
+    14.2,
+    5.9,
+    0,
+    1,
+    5
+   ],
+   [
+    7.8,
+    56.4,
+    0,
+    0,
+    0
+   ],
+   [
+    10.8,
+    54.7,
+    1,
+    0,
+    5
+   ],
+   [
+    6.4,
+    54.7,
+    1,
+    0,
+    13
+   ],
+   [
+    6.4,
+    79.2,
+    1,
+    0,
+    7
+   ],
+   [
+    12.8,
+    43.1,
+    0,
+    0,
+    13
+   ],
+   [
+    8.9,
+    38.3,
+    1,
+    0,
+    13
+   ],
+   [
+    28.7,
+    76.7,
+    0,
+    1,
+    5
+   ],
+   [
+    7.2,
+    46.2,
+    0,
+    0,
+    0
+   ],
+   [
+    30.8,
+    27.9,
+    1,
+    1,
+    2
+   ],
+   [
+    18.6,
+    6.1,
+    0,
+    1,
+    3
+   ],
+   [
+    30.6,
+    22.8,
+    0,
+    1,
+    0
+   ],
+   [
+    9.4,
+    1.9,
+    1,
+    1,
+    3
+   ],
+   [
+    8.6,
+    36.0,
+    0,
+    0,
+    7
+   ],
+   [
+    14.7,
+    34.3,
+    0,
+    0,
+    9
+   ],
+   [
+    10.2,
+    55.2,
+    1,
+    0,
+    9
+   ],
+   [
+    5.2,
+    95.6,
+    0,
+    1,
+    0
+   ],
+   [
+    7.4,
+    54.1,
+    1,
+    0,
+    2
+   ],
+   [
+    12.3,
+    58.9,
+    1,
+    0,
+    0
+   ],
+   [
+    6.7,
+    42.5,
+    0,
+    0,
+    3
+   ],
+   [
+    23.1,
+    87.1,
+    0,
+    1,
+    2
+   ],
+   [
+    16.2,
+    59.2,
+    1,
+    0,
+    7
+   ],
+   [
+    9.5,
+    52.1,
+    1,
+    0,
+    5
+   ],
+   [
+    9.4,
+    43.9,
+    1,
+    0,
+    7
+   ],
+   [
+    5.6,
+    52.7,
+    1,
+    0,
+    3
+   ],
+   [
+    9.8,
+    96.7,
+    0,
+    1,
+    13
+   ],
+   [
+    32.3,
+    40.8,
+    1,
+    1,
+    0
+   ],
+   [
+    8.1,
+    36.6,
+    0,
+    0,
+    3
+   ],
+   [
+    32.6,
+    78.7,
+    0,
+    1,
+    3
+   ],
+   [
+    21.1,
+    93.9,
+    0,
+    1,
+    3
+   ],
+   [
+    19.5,
+    93.3,
+    0,
+    1,
+    0
+   ],
+   [
+    11.9,
+    34.6,
+    0,
+    0,
+    7
+   ],
+   [
+    16.6,
+    75.0,
+    0,
+    0,
+    0
+   ],
+   [
+    12.3,
+    42.5,
+    1,
+    0,
+    0
+   ],
+   [
+    28.2,
+    24.2,
+    0,
+    1,
+    2
+   ],
+   [
+    7.8,
+    51.2,
+    1,
+    0,
+    2
+   ],
+   [
+    10.2,
+    49.8,
+    1,
+    0,
+    0
+   ],
+   [
+    27.6,
+    25.6,
+    0,
+    1,
+    2
+   ],
+   [
+    23.1,
+    11.7,
+    0,
+    1,
+    0
    ]
   ]
  },
@@ -13203,57 +13827,57 @@
   {
    "name": "Kenneth Jamar Doucet",
    "bands": [
-    47,
-    28,
-    22,
+    53,
+    32,
+    25,
     51,
-    35
+    39
    ],
-   "pts": 183
+   "pts": 202
   },
   {
    "name": "Tomáš Kyzlink",
    "bands": [
-    26,
+    31,
     29,
-    54,
+    60,
     51,
     21
    ],
-   "pts": 182
+   "pts": 193
   },
   {
    "name": "Xavier Johnson",
    "bands": [
-    23,
-    20,
+    25,
+    22,
     42,
-    21,
+    33,
     25
    ],
-   "pts": 133
-  },
-  {
-   "name": "Matěj Šafařík",
-   "bands": [
-    28,
-    21,
-    18,
-    38,
-    20
-   ],
-   "pts": 128
+   "pts": 149
   },
   {
    "name": "Patrik Auda",
    "bands": [
-    17,
-    26,
-    27,
-    31,
-    25
+    19,
+    30,
+    29,
+    33,
+    27
    ],
-   "pts": 127
+   "pts": 139
+  },
+  {
+   "name": "Matěj Šafařík",
+   "bands": [
+    30,
+    21,
+    18,
+    38,
+    22
+   ],
+   "pts": 132
   },
   {
    "name": "Michael Christmas",
@@ -13269,24 +13893,24 @@
   {
    "name": "Ondřej Švec",
    "bands": [
-    29,
+    32,
     13,
     15,
-    10,
-    23
+    13,
+    25
    ],
-   "pts": 92
+   "pts": 100
   },
   {
    "name": "Samuel Macht",
    "bands": [
-    8,
+    10,
     4,
     10,
     9,
-    8
+    10
    ],
-   "pts": 39
+   "pts": 43
   },
   {
    "name": "Petr Macháč",
@@ -13300,6 +13924,17 @@
    "pts": 24
   },
   {
+   "name": "Jakub Soldán",
+   "bands": [
+    3,
+    2,
+    8,
+    0,
+    6
+   ],
+   "pts": 19
+  },
+  {
    "name": "Sidney Wilson",
    "bands": [
     1,
@@ -13307,17 +13942,6 @@
     4,
     3,
     2
-   ],
-   "pts": 17
-  },
-  {
-   "name": "Jakub Soldán",
-   "bands": [
-    3,
-    2,
-    6,
-    0,
-    6
    ],
    "pts": 17
   },
@@ -13379,37 +14003,37 @@
  ],
  "segments": {
   "first3": [
-   298,
-   306
+   315,
+   325
   ],
   "last3": [
-   363,
-   341
+   388,
+   364
   ],
   "last5": [
-   163,
-   165
+   170,
+   173
   ]
  },
  "ranks": {
-  "ppg": 7,
+  "ppg": 8,
   "oppg": 8,
   "diff": 8,
   "ortg": 8,
   "drtg": 8,
-  "net": 7,
-  "pace": 6,
+  "net": 8,
+  "pace": 8,
   "efg": 5,
   "ts": 6,
   "tov": 6,
-  "orb": 9,
+  "orb": 10,
   "drb": 8,
   "ftr": 3,
   "three_par": 10,
-  "three": 5,
-  "two": 5,
+  "three": 6,
+  "two": 6,
   "ft": 10,
-  "ast_pct": 10,
+  "ast_pct": 11,
   "ast_to": 9,
   "stl_pct": 6,
   "blk_pct": 11,
@@ -13425,21 +14049,21 @@
   "name": "USK Praha",
   "label": "USK",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/061873e80969d14341a326c95b2798fdS1.png",
-  "gp": 13,
+  "gp": 14,
   "w": 6,
-  "l": 7,
-  "pct": 0.462,
-  "pf": 1091,
-  "pa": 1120,
-  "diff": -29,
-  "ppg": 83.9,
-  "oppg": 86.2,
+  "l": 8,
+  "pct": 0.429,
+  "pf": 1167,
+  "pa": 1202,
+  "diff": -35,
+  "ppg": 83.4,
+  "oppg": 85.9,
   "home": "3-4",
-  "away": "3-3",
+  "away": "3-4",
   "close": "2-0",
   "ot": 0,
-  "streak": "W1",
-  "last5": "WLWLW"
+  "streak": "L1",
+  "last5": "LWLWL"
  },
  "players": [
   {
@@ -13450,118 +14074,118 @@
    "teamLabel": "USK",
    "shirt": "12",
    "pos": "",
-   "gp": 10,
-   "gs": 9,
-   "min": 288.3,
+   "gp": 11,
+   "gs": 10,
+   "min": 323.6,
    "totals": {
-    "pts": 183,
-    "fgm": 63,
-    "fga": 116,
-    "tpm": 19,
-    "tpa": 44,
-    "twopm": 44,
-    "twopa": 72,
-    "ftm": 38,
-    "fta": 57,
+    "pts": 202,
+    "fgm": 68,
+    "fga": 130,
+    "tpm": 20,
+    "tpa": 50,
+    "twopm": 48,
+    "twopa": 80,
+    "ftm": 46,
+    "fta": 67,
     "oreb": 7,
-    "dreb": 35,
-    "reb": 42,
+    "dreb": 42,
+    "reb": 49,
     "ast": 26,
-    "to": 16,
+    "to": 21,
     "stl": 11,
     "blk": 1,
     "blkr": 1,
-    "pf": 33,
-    "foulon": 52,
-    "pm": 30,
-    "paint": 88,
-    "fast": 49,
+    "pf": 36,
+    "foulon": 62,
+    "pm": 20,
+    "paint": 96,
+    "fast": 53,
     "second": 19
    },
    "perGame": {
-    "pts": 18.3,
-    "fgm": 6.3,
-    "fga": 11.6,
-    "tpm": 1.9,
-    "tpa": 4.4,
+    "pts": 18.4,
+    "fgm": 6.2,
+    "fga": 11.8,
+    "tpm": 1.8,
+    "tpa": 4.5,
     "twopm": 4.4,
-    "twopa": 7.2,
-    "ftm": 3.8,
-    "fta": 5.7,
-    "oreb": 0.7,
-    "dreb": 3.5,
-    "reb": 4.2,
-    "ast": 2.6,
-    "to": 1.6,
-    "stl": 1.1,
+    "twopa": 7.3,
+    "ftm": 4.2,
+    "fta": 6.1,
+    "oreb": 0.6,
+    "dreb": 3.8,
+    "reb": 4.5,
+    "ast": 2.4,
+    "to": 1.9,
+    "stl": 1.0,
     "blk": 0.1,
     "blkr": 0.1,
     "pf": 3.3,
-    "foulon": 5.2,
-    "pm": 3.0,
-    "paint": 8.8,
-    "fast": 4.9,
-    "second": 1.9,
-    "min": 28.8,
-    "eff": 17.5,
-    "gmsc": 13.6
+    "foulon": 5.6,
+    "pm": 1.8,
+    "paint": 8.7,
+    "fast": 4.8,
+    "second": 1.7,
+    "min": 29.4,
+    "eff": 16.8,
+    "gmsc": 12.9
    },
    "per40": {
-    "pts": 25.4,
-    "reb": 5.8,
-    "ast": 3.6,
-    "stl": 1.5,
+    "pts": 25.0,
+    "reb": 6.1,
+    "ast": 3.2,
+    "stl": 1.4,
     "blk": 0.1,
-    "to": 2.2
+    "to": 2.6
    },
-   "ts": 64.9,
-   "efg": 62.5,
-   "fg": 54.3,
-   "two": 61.1,
-   "three": 43.2,
-   "ft": 66.7,
-   "usg": 24.6,
-   "astTo": 1.62,
-   "pm": 30,
-   "pm40": 4.2,
+   "ts": 63.3,
+   "efg": 60.0,
+   "fg": 52.3,
+   "two": 60.0,
+   "three": 40.0,
+   "ft": 68.7,
+   "usg": 25.5,
+   "astTo": 1.24,
+   "pm": 20,
+   "pm40": 2.5,
    "on": {
-    "min": 288.3,
-    "pf": 642,
-    "pa": 613,
-    "ortg": 113.4,
-    "drtg": 108.8,
-    "net": 4.6
+    "min": 323.6,
+    "pf": 707,
+    "pa": 688,
+    "ortg": 111.6,
+    "drtg": 109.2,
+    "net": 2.4
    },
    "off": {
-    "min": 111.7,
-    "ortg": 96.5,
-    "drtg": 107.8,
-    "net": -11.3
+    "min": 116.4,
+    "ortg": 97.2,
+    "drtg": 106.9,
+    "net": -9.8
    },
-   "onOff": 15.9,
+   "onOff": 12.2,
    "dd": 0,
    "td": 0,
    "high": 36,
    "zones": {
     "paint": {
-     "m": 44,
-     "a": 68,
-     "pct": 64.7
+     "m": 48,
+     "a": 75,
+     "pct": 64.0
     },
     "mid": {
      "m": 0,
-     "a": 4,
+     "a": 5,
      "pct": 0.0
     },
     "corner3": {
      "m": 5,
-     "a": 9,
-     "pct": 55.6
+     "a": 10,
+     "pct": 50.0
     },
     "above3": {
-     "m": 14,
-     "a": 35,
-     "pct": 40.0
+     "m": 15,
+     "a": 40,
+     "pct": 37.5
     }
    },
    "log": [
@@ -13764,6 +14388,26 @@
      "pm": 1,
      "eff": 6,
      "ts": 29.8
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 35.3,
+     "pts": 19,
+     "reb": 7,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 5,
+     "fg": "5/14",
+     "tp": "1/6",
+     "ft": "8/10",
+     "pm": -10,
+     "eff": 10,
+     "ts": 51.6
     }
    ]
   },
@@ -13775,103 +14419,103 @@
    "teamLabel": "USK",
    "shirt": "77",
    "pos": "",
-   "gp": 13,
-   "gs": 11,
-   "min": 374.1,
+   "gp": 14,
+   "gs": 12,
+   "min": 406.5,
    "totals": {
-    "pts": 182,
-    "fgm": 62,
-    "fga": 142,
-    "tpm": 42,
-    "tpa": 97,
-    "twopm": 20,
-    "twopa": 45,
-    "ftm": 16,
-    "fta": 25,
+    "pts": 193,
+    "fgm": 66,
+    "fga": 149,
+    "tpm": 44,
+    "tpa": 102,
+    "twopm": 22,
+    "twopa": 47,
+    "ftm": 17,
+    "fta": 27,
     "oreb": 3,
-    "dreb": 48,
-    "reb": 51,
-    "ast": 36,
-    "to": 26,
-    "stl": 9,
-    "blk": 2,
+    "dreb": 52,
+    "reb": 55,
+    "ast": 39,
+    "to": 27,
+    "stl": 12,
+    "blk": 3,
     "blkr": 2,
-    "pf": 36,
-    "foulon": 24,
-    "pm": -57,
-    "paint": 34,
-    "fast": 21,
+    "pf": 39,
+    "foulon": 25,
+    "pm": -58,
+    "paint": 38,
+    "fast": 23,
     "second": 8
    },
    "perGame": {
-    "pts": 14.0,
-    "fgm": 4.8,
-    "fga": 10.9,
-    "tpm": 3.2,
-    "tpa": 7.5,
-    "twopm": 1.5,
-    "twopa": 3.5,
+    "pts": 13.8,
+    "fgm": 4.7,
+    "fga": 10.6,
+    "tpm": 3.1,
+    "tpa": 7.3,
+    "twopm": 1.6,
+    "twopa": 3.4,
     "ftm": 1.2,
     "fta": 1.9,
     "oreb": 0.2,
     "dreb": 3.7,
     "reb": 3.9,
     "ast": 2.8,
-    "to": 2.0,
-    "stl": 0.7,
+    "to": 1.9,
+    "stl": 0.9,
     "blk": 0.2,
-    "blkr": 0.2,
+    "blkr": 0.1,
     "pf": 2.8,
     "foulon": 1.8,
-    "pm": -4.4,
-    "paint": 2.6,
+    "pm": -4.1,
+    "paint": 2.7,
     "fast": 1.6,
     "second": 0.6,
-    "min": 28.8,
-    "eff": 12.7,
-    "gmsc": 8.9
+    "min": 29.0,
+    "eff": 13.0,
+    "gmsc": 9.1
    },
    "per40": {
-    "pts": 19.5,
-    "reb": 5.5,
+    "pts": 19.0,
+    "reb": 5.4,
     "ast": 3.8,
-    "stl": 1.0,
-    "blk": 0.2,
-    "to": 2.8
+    "stl": 1.2,
+    "blk": 0.3,
+    "to": 2.7
    },
-   "ts": 59.5,
-   "efg": 58.5,
-   "fg": 43.7,
-   "two": 44.4,
-   "three": 43.3,
-   "ft": 64.0,
-   "usg": 21.4,
-   "astTo": 1.38,
-   "pm": -57,
-   "pm40": -6.1,
+   "ts": 60.0,
+   "efg": 59.1,
+   "fg": 44.3,
+   "two": 46.8,
+   "three": 43.1,
+   "ft": 63.0,
+   "usg": 20.8,
+   "astTo": 1.44,
+   "pm": -58,
+   "pm40": -5.7,
    "on": {
-    "min": 373.9,
-    "pf": 770,
-    "pa": 826,
-    "ortg": 105.2,
-    "drtg": 112.0,
-    "net": -6.8
+    "min": 406.4,
+    "pf": 836,
+    "pa": 893,
+    "ortg": 105.3,
+    "drtg": 112.2,
+    "net": -6.9
    },
    "off": {
-    "min": 146.1,
-    "ortg": 107.8,
-    "drtg": 100.2,
-    "net": 7.7
+    "min": 153.6,
+    "ortg": 105.7,
+    "drtg": 99.7,
+    "net": 6.1
    },
-   "onOff": -14.5,
+   "onOff": -13.0,
    "dd": 1,
    "td": 0,
    "high": 23,
    "zones": {
     "paint": {
-     "m": 17,
-     "a": 35,
-     "pct": 48.6
+     "m": 19,
+     "a": 37,
+     "pct": 51.4
     },
     "mid": {
      "m": 3,
@@ -13884,8 +14528,8 @@
      "pct": 71.4
     },
     "above3": {
-     "m": 37,
-     "a": 90,
+     "m": 39,
+     "a": 95,
      "pct": 41.1
     }
    },
@@ -14149,6 +14793,391 @@
      "pm": 23,
      "eff": 23,
      "ts": 92.6
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 32.4,
+     "pts": 11,
+     "reb": 4,
+     "ast": 3,
+     "stl": 3,
+     "blk": 1,
+     "to": 1,
+     "fg": "4/7",
+     "tp": "2/5",
+     "ft": "1/2",
+     "pm": -1,
+     "eff": 17,
+     "ts": 69.8
+    }
+   ]
+  },
+  {
+   "id": "usk/xavier-johnson",
+   "name": "Xavier Johnson",
+   "team": "usk",
+   "teamName": "USK Praha",
+   "teamLabel": "USK",
+   "shirt": "17",
+   "pos": "",
+   "gp": 12,
+   "gs": 12,
+   "min": 355.0,
+   "totals": {
+    "pts": 149,
+    "fgm": 51,
+    "fga": 114,
+    "tpm": 16,
+    "tpa": 51,
+    "twopm": 35,
+    "twopa": 63,
+    "ftm": 31,
+    "fta": 41,
+    "oreb": 4,
+    "dreb": 38,
+    "reb": 42,
+    "ast": 59,
+    "to": 27,
+    "stl": 25,
+    "blk": 1,
+    "blkr": 3,
+    "pf": 36,
+    "foulon": 33,
+    "pm": 32,
+    "paint": 60,
+    "fast": 32,
+    "second": 16
+   },
+   "perGame": {
+    "pts": 12.4,
+    "fgm": 4.2,
+    "fga": 9.5,
+    "tpm": 1.3,
+    "tpa": 4.2,
+    "twopm": 2.9,
+    "twopa": 5.2,
+    "ftm": 2.6,
+    "fta": 3.4,
+    "oreb": 0.3,
+    "dreb": 3.2,
+    "reb": 3.5,
+    "ast": 4.9,
+    "to": 2.2,
+    "stl": 2.1,
+    "blk": 0.1,
+    "blkr": 0.2,
+    "pf": 3.0,
+    "foulon": 2.8,
+    "pm": 2.7,
+    "paint": 5.0,
+    "fast": 2.7,
+    "second": 1.3,
+    "min": 29.6,
+    "eff": 14.7,
+    "gmsc": 10.5
+   },
+   "per40": {
+    "pts": 16.8,
+    "reb": 4.7,
+    "ast": 6.6,
+    "stl": 2.8,
+    "blk": 0.1,
+    "to": 3.0
+   },
+   "ts": 56.4,
+   "efg": 51.8,
+   "fg": 44.7,
+   "two": 55.6,
+   "three": 31.4,
+   "ft": 75.6,
+   "usg": 20.1,
+   "astTo": 2.19,
+   "pm": 32,
+   "pm40": 3.6,
+   "on": {
+    "min": 355.0,
+    "pf": 779,
+    "pa": 747,
+    "ortg": 111.5,
+    "drtg": 107.3,
+    "net": 4.2
+   },
+   "off": {
+    "min": 125.0,
+    "ortg": 98.7,
+    "drtg": 114.2,
+    "net": -15.5
+   },
+   "onOff": 19.7,
+   "dd": 1,
+   "td": 0,
+   "high": 23,
+   "zones": {
+    "paint": {
+     "m": 30,
+     "a": 45,
+     "pct": 66.7
+    },
+    "mid": {
+     "m": 5,
+     "a": 18,
+     "pct": 27.8
+    },
+    "corner3": {
+     "m": 3,
+     "a": 6,
+     "pct": 50.0
+    },
+    "above3": {
+     "m": 13,
+     "a": 45,
+     "pct": 28.9
+    }
+   },
+   "log": [
+    {
+     "fibaId": 2890469,
+     "date": "2026-09-19",
+     "opponent": "Slavia",
+     "venue": "home",
+     "result": "L",
+     "min": 20.6,
+     "pts": 9,
+     "reb": 4,
+     "ast": 2,
+     "stl": 2,
+     "blk": 0,
+     "to": 2,
+     "fg": "4/7",
+     "tp": "0/1",
+     "ft": "1/2",
+     "pm": 3,
+     "eff": 11,
+     "ts": 57.1
+    },
+    {
+     "fibaId": 2892257,
+     "date": "2026-09-30",
+     "opponent": "Plzeň",
+     "venue": "away",
+     "result": "W",
+     "min": 31.4,
+     "pts": 9,
+     "reb": 4,
+     "ast": 5,
+     "stl": 3,
+     "blk": 0,
+     "to": 2,
+     "fg": "2/9",
+     "tp": "0/4",
+     "ft": "5/6",
+     "pm": 6,
+     "eff": 11,
+     "ts": 38.7
+    },
+    {
+     "fibaId": 2893123,
+     "date": "2026-10-03",
+     "opponent": "Písek",
+     "venue": "home",
+     "result": "W",
+     "min": 23.3,
+     "pts": 0,
+     "reb": 2,
+     "ast": 7,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "0/3",
+     "tp": "0/2",
+     "ft": "0/0",
+     "pm": 22,
+     "eff": 5,
+     "ts": 0.0
+    },
+    {
+     "fibaId": 2900037,
+     "date": "2026-10-10",
+     "opponent": "Opava",
+     "venue": "home",
+     "result": "L",
+     "min": 29.3,
+     "pts": 20,
+     "reb": 3,
+     "ast": 3,
+     "stl": 1,
+     "blk": 1,
+     "to": 5,
+     "fg": "7/14",
+     "tp": "3/8",
+     "ft": "3/4",
+     "pm": -16,
+     "eff": 15,
+     "ts": 63.5
+    },
+    {
+     "fibaId": 2910404,
+     "date": "2026-10-18",
+     "opponent": "Brno",
+     "venue": "away",
+     "result": "L",
+     "min": 35.4,
+     "pts": 16,
+     "reb": 6,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "to": 1,
+     "fg": "3/11",
+     "tp": "1/5",
+     "ft": "9/9",
+     "pm": -6,
+     "eff": 18,
+     "ts": 53.5
+    },
+    {
+     "fibaId": 2922250,
+     "date": "2026-10-24",
+     "opponent": "Olomoucko",
+     "venue": "home",
+     "result": "W",
+     "min": 31.7,
+     "pts": 11,
+     "reb": 6,
+     "ast": 3,
+     "stl": 4,
+     "blk": 0,
+     "to": 2,
+     "fg": "5/10",
+     "tp": "1/4",
+     "ft": "0/1",
+     "pm": 24,
+     "eff": 16,
+     "ts": 52.7
+    },
+    {
+     "fibaId": 2927621,
+     "date": "2026-10-28",
+     "opponent": "Hradec",
+     "venue": "away",
+     "result": "W",
+     "min": 31.4,
+     "pts": 23,
+     "reb": 4,
+     "ast": 2,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "9/15",
+     "tp": "3/6",
+     "ft": "2/4",
+     "pm": 14,
+     "eff": 19,
+     "ts": 68.6
+    },
+    {
+     "fibaId": 2931566,
+     "date": "2026-10-31",
+     "opponent": "Pardubice",
+     "venue": "home",
+     "result": "L",
+     "min": 26.2,
+     "pts": 0,
+     "reb": 1,
+     "ast": 6,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "0/1",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": -21,
+     "eff": 4,
+     "ts": 0.0
+    },
+    {
+     "fibaId": 2938699,
+     "date": "2026-11-07",
+     "opponent": "Ostrava",
+     "venue": "away",
+     "result": "W",
+     "min": 36.0,
+     "pts": 10,
+     "reb": 1,
+     "ast": 6,
+     "stl": 3,
+     "blk": 0,
+     "to": 2,
+     "fg": "4/11",
+     "tp": "2/7",
+     "ft": "0/2",
+     "pm": 6,
+     "eff": 9,
+     "ts": 42.1
+    },
+    {
+     "fibaId": 2943551,
+     "date": "2026-11-15",
+     "opponent": "Slavia",
+     "venue": "away",
+     "result": "L",
+     "min": 31.1,
+     "pts": 20,
+     "reb": 6,
+     "ast": 10,
+     "stl": 3,
+     "blk": 0,
+     "to": 4,
+     "fg": "7/16",
+     "tp": "3/7",
+     "ft": "3/4",
+     "pm": -16,
+     "eff": 25,
+     "ts": 56.3
+    },
+    {
+     "fibaId": 2945551,
+     "date": "2026-11-18",
+     "opponent": "Děčín",
+     "venue": "home",
+     "result": "W",
+     "min": 25.4,
+     "pts": 15,
+     "reb": 2,
+     "ast": 5,
+     "stl": 3,
+     "blk": 0,
+     "to": 1,
+     "fg": "6/8",
+     "tp": "2/3",
+     "ft": "1/2",
+     "pm": 18,
+     "eff": 21,
+     "ts": 84.5
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 33.2,
+     "pts": 16,
+     "reb": 3,
+     "ast": 6,
+     "stl": 3,
+     "blk": 0,
+     "to": 1,
+     "fg": "4/9",
+     "tp": "1/4",
+     "ft": "7/7",
+     "pm": -2,
+     "eff": 22,
+     "ts": 66.2
     }
    ]
   },
@@ -14478,125 +15507,125 @@
    ]
   },
   {
-   "id": "usk/xavier-johnson",
-   "name": "Xavier Johnson",
+   "id": "usk/patrik-auda",
+   "name": "Patrik Auda",
    "team": "usk",
    "teamName": "USK Praha",
    "teamLabel": "USK",
-   "shirt": "17",
+   "shirt": "2",
    "pos": "",
-   "gp": 11,
-   "gs": 11,
-   "min": 321.8,
+   "gp": 13,
+   "gs": 5,
+   "min": 301.6,
    "totals": {
-    "pts": 133,
-    "fgm": 47,
-    "fga": 105,
-    "tpm": 15,
-    "tpa": 47,
-    "twopm": 32,
-    "twopa": 58,
-    "ftm": 24,
-    "fta": 34,
-    "oreb": 3,
-    "dreb": 36,
-    "reb": 39,
-    "ast": 53,
-    "to": 26,
-    "stl": 22,
+    "pts": 139,
+    "fgm": 50,
+    "fga": 80,
+    "tpm": 0,
+    "tpa": 0,
+    "twopm": 50,
+    "twopa": 80,
+    "ftm": 39,
+    "fta": 61,
+    "oreb": 11,
+    "dreb": 41,
+    "reb": 52,
+    "ast": 14,
+    "to": 21,
+    "stl": 3,
     "blk": 1,
-    "blkr": 1,
-    "pf": 33,
-    "foulon": 28,
-    "pm": 34,
-    "paint": 54,
-    "fast": 30,
-    "second": 16
+    "blkr": 3,
+    "pf": 41,
+    "foulon": 61,
+    "pm": -10,
+    "paint": 96,
+    "fast": 21,
+    "second": 12
    },
    "perGame": {
-    "pts": 12.1,
-    "fgm": 4.3,
-    "fga": 9.5,
-    "tpm": 1.4,
-    "tpa": 4.3,
-    "twopm": 2.9,
-    "twopa": 5.3,
-    "ftm": 2.2,
-    "fta": 3.1,
-    "oreb": 0.3,
-    "dreb": 3.3,
-    "reb": 3.5,
-    "ast": 4.8,
-    "to": 2.4,
-    "stl": 2.0,
+    "pts": 10.7,
+    "fgm": 3.8,
+    "fga": 6.2,
+    "tpm": 0.0,
+    "tpa": 0.0,
+    "twopm": 3.8,
+    "twopa": 6.2,
+    "ftm": 3.0,
+    "fta": 4.7,
+    "oreb": 0.8,
+    "dreb": 3.2,
+    "reb": 4.0,
+    "ast": 1.1,
+    "to": 1.6,
+    "stl": 0.2,
     "blk": 0.1,
-    "blkr": 0.1,
-    "pf": 3.0,
-    "foulon": 2.5,
-    "pm": 3.1,
-    "paint": 4.9,
-    "fast": 2.7,
-    "second": 1.5,
-    "min": 29.3,
-    "eff": 14.0,
-    "gmsc": 9.8
+    "blkr": 0.2,
+    "pf": 3.2,
+    "foulon": 4.7,
+    "pm": -0.8,
+    "paint": 7.4,
+    "fast": 1.6,
+    "second": 0.9,
+    "min": 23.2,
+    "eff": 10.5,
+    "gmsc": 6.9
    },
    "per40": {
-    "pts": 16.5,
-    "reb": 4.8,
-    "ast": 6.6,
-    "stl": 2.7,
+    "pts": 18.4,
+    "reb": 6.9,
+    "ast": 1.9,
+    "stl": 0.4,
     "blk": 0.1,
-    "to": 3.2
+    "to": 2.8
    },
-   "ts": 55.4,
-   "efg": 51.9,
-   "fg": 44.8,
-   "two": 55.2,
-   "three": 31.9,
-   "ft": 70.6,
-   "usg": 20.1,
-   "astTo": 2.04,
-   "pm": 34,
-   "pm40": 4.2,
+   "ts": 65.1,
+   "efg": 62.5,
+   "fg": 62.5,
+   "two": 62.5,
+   "three": null,
+   "ft": 63.9,
+   "usg": 19.2,
+   "astTo": 0.67,
+   "pm": -10,
+   "pm40": -1.3,
    "on": {
-    "min": 321.8,
-    "pf": 716,
-    "pa": 682,
-    "ortg": 112.3,
-    "drtg": 107.2,
-    "net": 5.1
+    "min": 301.4,
+    "pf": 630,
+    "pa": 640,
+    "ortg": 107.6,
+    "drtg": 110.6,
+    "net": -3.0
    },
    "off": {
-    "min": 118.2,
-    "ortg": 99.8,
-    "drtg": 114.1,
-    "net": -14.3
+    "min": 218.6,
+    "ortg": 101.8,
+    "drtg": 107.3,
+    "net": -5.5
    },
-   "onOff": 19.4,
-   "dd": 1,
+   "onOff": 2.5,
+   "dd": 0,
    "td": 0,
-   "high": 23,
+   "high": 19,
    "zones": {
     "paint": {
-     "m": 27,
-     "a": 40,
-     "pct": 67.5
+     "m": 48,
+     "a": 77,
+     "pct": 62.3
     },
     "mid": {
-     "m": 5,
-     "a": 18,
-     "pct": 27.8
+     "m": 2,
+     "a": 3,
+     "pct": 66.7
     },
     "corner3": {
-     "m": 3,
-     "a": 6,
-     "pct": 50.0
+     "m": 0,
+     "a": 0,
+     "pct": null
     },
     "above3": {
-     "m": 12,
-     "a": 41,
-     "pct": 29.3
+     "m": 0,
+     "a": 0,
+     "pct": null
     }
    },
    "log": [
@@ -14606,19 +15635,59 @@
      "opponent": "Slavia",
      "venue": "home",
      "result": "L",
-     "min": 20.6,
-     "pts": 9,
-     "reb": 4,
-     "ast": 2,
-     "stl": 2,
+     "min": 23.7,
+     "pts": 10,
+     "reb": 7,
+     "ast": 1,
+     "stl": 0,
      "blk": 0,
      "to": 2,
-     "fg": "4/7",
-     "tp": "0/1",
-     "ft": "1/2",
-     "pm": 3,
+     "fg": "1/4",
+     "tp": "0/0",
+     "ft": "8/10",
+     "pm": 0,
      "eff": 11,
-     "ts": 57.1
+     "ts": 59.5
+    },
+    {
+     "fibaId": 2890477,
+     "date": "2026-09-23",
+     "opponent": "Děčín",
+     "venue": "away",
+     "result": "L",
+     "min": 24.6,
+     "pts": 5,
+     "reb": 7,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 3,
+     "fg": "2/6",
+     "tp": "0/0",
+     "ft": "1/4",
+     "pm": -18,
+     "eff": 2,
+     "ts": 32.2
+    },
+    {
+     "fibaId": 2890480,
+     "date": "2026-09-26",
+     "opponent": "Ústí",
+     "venue": "home",
+     "result": "L",
+     "min": 32.6,
+     "pts": 19,
+     "reb": 6,
+     "ast": 3,
+     "stl": 0,
+     "blk": 1,
+     "to": 1,
+     "fg": "8/11",
+     "tp": "0/0",
+     "ft": "3/11",
+     "pm": -2,
+     "eff": 17,
+     "ts": 60.0
     },
     {
      "fibaId": 2892257,
@@ -14626,19 +15695,19 @@
      "opponent": "Plzeň",
      "venue": "away",
      "result": "W",
-     "min": 31.4,
-     "pts": 9,
-     "reb": 4,
-     "ast": 5,
-     "stl": 3,
+     "min": 20.7,
+     "pts": 3,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
      "blk": 0,
-     "to": 2,
-     "fg": "2/9",
-     "tp": "0/4",
-     "ft": "5/6",
-     "pm": 6,
-     "eff": 11,
-     "ts": 38.7
+     "to": 1,
+     "fg": "1/4",
+     "tp": "0/0",
+     "ft": "1/2",
+     "pm": 2,
+     "eff": 3,
+     "ts": 30.7
     },
     {
      "fibaId": 2893123,
@@ -14646,19 +15715,19 @@
      "opponent": "Písek",
      "venue": "home",
      "result": "W",
-     "min": 23.3,
-     "pts": 0,
-     "reb": 2,
-     "ast": 7,
+     "min": 17.6,
+     "pts": 10,
+     "reb": 0,
+     "ast": 0,
      "stl": 0,
      "blk": 0,
-     "to": 1,
-     "fg": "0/3",
-     "tp": "0/2",
-     "ft": "0/0",
-     "pm": 22,
-     "eff": 5,
-     "ts": 0.0
+     "to": 2,
+     "fg": "4/4",
+     "tp": "0/0",
+     "ft": "2/2",
+     "pm": -14,
+     "eff": 8,
+     "ts": 102.5
     },
     {
      "fibaId": 2900037,
@@ -14666,19 +15735,19 @@
      "opponent": "Opava",
      "venue": "home",
      "result": "L",
-     "min": 29.3,
-     "pts": 20,
-     "reb": 3,
-     "ast": 3,
-     "stl": 1,
-     "blk": 1,
-     "to": 5,
-     "fg": "7/14",
-     "tp": "3/8",
-     "ft": "3/4",
-     "pm": -16,
-     "eff": 15,
-     "ts": 63.5
+     "min": 26.5,
+     "pts": 8,
+     "reb": 2,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "3/4",
+     "tp": "0/0",
+     "ft": "2/3",
+     "pm": -8,
+     "eff": 9,
+     "ts": 75.2
     },
     {
      "fibaId": 2910404,
@@ -14686,19 +15755,19 @@
      "opponent": "Brno",
      "venue": "away",
      "result": "L",
-     "min": 35.4,
-     "pts": 16,
-     "reb": 6,
-     "ast": 4,
+     "min": 18.8,
+     "pts": 10,
+     "reb": 3,
+     "ast": 1,
      "stl": 1,
      "blk": 0,
      "to": 1,
-     "fg": "3/11",
-     "tp": "1/5",
-     "ft": "9/9",
-     "pm": -6,
-     "eff": 18,
-     "ts": 53.5
+     "fg": "2/4",
+     "tp": "0/0",
+     "ft": "6/7",
+     "pm": -2,
+     "eff": 11,
+     "ts": 70.6
     },
     {
      "fibaId": 2922250,
@@ -14706,19 +15775,19 @@
      "opponent": "Olomoucko",
      "venue": "home",
      "result": "W",
-     "min": 31.7,
-     "pts": 11,
-     "reb": 6,
-     "ast": 3,
-     "stl": 4,
+     "min": 19.5,
+     "pts": 16,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
      "blk": 0,
-     "to": 2,
-     "fg": "5/10",
-     "tp": "1/4",
-     "ft": "0/1",
+     "to": 0,
+     "fg": "7/11",
+     "tp": "0/0",
+     "ft": "2/2",
      "pm": 24,
-     "eff": 16,
-     "ts": 52.7
+     "eff": 17,
+     "ts": 67.3
     },
     {
      "fibaId": 2927621,
@@ -14726,19 +15795,19 @@
      "opponent": "Hradec",
      "venue": "away",
      "result": "W",
-     "min": 31.4,
-     "pts": 23,
-     "reb": 4,
-     "ast": 2,
-     "stl": 1,
+     "min": 22.3,
+     "pts": 9,
+     "reb": 5,
+     "ast": 1,
+     "stl": 0,
      "blk": 0,
-     "to": 3,
-     "fg": "9/15",
-     "tp": "3/6",
-     "ft": "2/4",
-     "pm": 14,
-     "eff": 19,
-     "ts": 68.6
+     "to": 4,
+     "fg": "4/4",
+     "tp": "0/0",
+     "ft": "1/2",
+     "pm": -9,
+     "eff": 10,
+     "ts": 92.2
     },
     {
      "fibaId": 2931566,
@@ -14746,39 +15815,19 @@
      "opponent": "Pardubice",
      "venue": "home",
      "result": "L",
-     "min": 26.2,
-     "pts": 0,
-     "reb": 1,
-     "ast": 6,
-     "stl": 1,
+     "min": 25.0,
+     "pts": 9,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
      "blk": 0,
-     "to": 3,
-     "fg": "0/1",
+     "to": 1,
+     "fg": "3/4",
      "tp": "0/0",
-     "ft": "0/0",
-     "pm": -21,
-     "eff": 4,
-     "ts": 0.0
-    },
-    {
-     "fibaId": 2938699,
-     "date": "2026-11-07",
-     "opponent": "Ostrava",
-     "venue": "away",
-     "result": "W",
-     "min": 36.0,
-     "pts": 10,
-     "reb": 1,
-     "ast": 6,
-     "stl": 3,
-     "blk": 0,
-     "to": 2,
-     "fg": "4/11",
-     "tp": "2/7",
-     "ft": "0/2",
-     "pm": 6,
-     "eff": 9,
-     "ts": 42.1
+     "ft": "3/5",
+     "pm": -11,
+     "eff": 10,
+     "ts": 72.6
     },
     {
      "fibaId": 2943551,
@@ -14786,19 +15835,19 @@
      "opponent": "Slavia",
      "venue": "away",
      "result": "L",
-     "min": 31.1,
-     "pts": 20,
-     "reb": 6,
-     "ast": 10,
-     "stl": 3,
+     "min": 18.6,
+     "pts": 10,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
      "blk": 0,
-     "to": 4,
-     "fg": "7/16",
-     "tp": "3/7",
-     "ft": "3/4",
-     "pm": -16,
-     "eff": 25,
-     "ts": 56.3
+     "to": 1,
+     "fg": "4/5",
+     "tp": "0/0",
+     "ft": "2/4",
+     "pm": 4,
+     "eff": 8,
+     "ts": 74.0
     },
     {
      "fibaId": 2945551,
@@ -14806,19 +15855,39 @@
      "opponent": "Děčín",
      "venue": "home",
      "result": "W",
-     "min": 25.4,
-     "pts": 15,
-     "reb": 2,
-     "ast": 5,
-     "stl": 3,
+     "min": 24.5,
+     "pts": 18,
+     "reb": 4,
+     "ast": 3,
+     "stl": 0,
      "blk": 0,
      "to": 1,
-     "fg": "6/8",
-     "tp": "2/3",
-     "ft": "1/2",
-     "pm": 18,
-     "eff": 21,
-     "ts": 84.5
+     "fg": "6/12",
+     "tp": "0/0",
+     "ft": "6/7",
+     "pm": 15,
+     "eff": 17,
+     "ts": 59.7
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 27.2,
+     "pts": 12,
+     "reb": 4,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 3,
+     "fg": "5/7",
+     "tp": "0/0",
+     "ft": "2/2",
+     "pm": 9,
+     "eff": 13,
+     "ts": 76.1
     }
    ]
   },
@@ -14830,103 +15899,103 @@
    "teamLabel": "USK",
    "shirt": "5",
    "pos": "",
-   "gp": 13,
-   "gs": 5,
-   "min": 318.9,
+   "gp": 14,
+   "gs": 6,
+   "min": 340.9,
    "totals": {
-    "pts": 138,
-    "fgm": 47,
-    "fga": 95,
+    "pts": 142,
+    "fgm": 49,
+    "fga": 99,
     "tpm": 9,
-    "tpa": 31,
-    "twopm": 38,
-    "twopa": 64,
+    "tpa": 32,
+    "twopm": 40,
+    "twopa": 67,
     "ftm": 35,
     "fta": 46,
     "oreb": 13,
-    "dreb": 24,
-    "reb": 37,
+    "dreb": 26,
+    "reb": 39,
     "ast": 32,
-    "to": 20,
+    "to": 21,
     "stl": 13,
-    "blk": 3,
+    "blk": 4,
     "blkr": 1,
-    "pf": 34,
+    "pf": 38,
     "foulon": 41,
-    "pm": 4,
-    "paint": 74,
-    "fast": 26,
+    "pm": -5,
+    "paint": 78,
+    "fast": 28,
     "second": 8
    },
    "perGame": {
-    "pts": 10.6,
-    "fgm": 3.6,
-    "fga": 7.3,
-    "tpm": 0.7,
-    "tpa": 2.4,
+    "pts": 10.1,
+    "fgm": 3.5,
+    "fga": 7.1,
+    "tpm": 0.6,
+    "tpa": 2.3,
     "twopm": 2.9,
-    "twopa": 4.9,
-    "ftm": 2.7,
-    "fta": 3.5,
-    "oreb": 1.0,
-    "dreb": 1.8,
+    "twopa": 4.8,
+    "ftm": 2.5,
+    "fta": 3.3,
+    "oreb": 0.9,
+    "dreb": 1.9,
     "reb": 2.8,
-    "ast": 2.5,
+    "ast": 2.3,
     "to": 1.5,
-    "stl": 1.0,
-    "blk": 0.2,
+    "stl": 0.9,
+    "blk": 0.3,
     "blkr": 0.1,
-    "pf": 2.6,
-    "foulon": 3.2,
-    "pm": 0.3,
-    "paint": 5.7,
+    "pf": 2.7,
+    "foulon": 2.9,
+    "pm": -0.4,
+    "paint": 5.6,
     "fast": 2.0,
     "second": 0.6,
-    "min": 24.5,
-    "eff": 11.1,
-    "gmsc": 8.2
+    "min": 24.4,
+    "eff": 10.6,
+    "gmsc": 7.6
    },
    "per40": {
-    "pts": 17.3,
+    "pts": 16.7,
     "reb": 4.6,
-    "ast": 4.0,
-    "stl": 1.6,
-    "blk": 0.4,
+    "ast": 3.8,
+    "stl": 1.5,
+    "blk": 0.5,
     "to": 2.5
    },
-   "ts": 59.9,
-   "efg": 54.2,
+   "ts": 59.5,
+   "efg": 54.0,
    "fg": 49.5,
-   "two": 59.4,
-   "three": 29.0,
+   "two": 59.7,
+   "three": 28.1,
    "ft": 76.1,
-   "usg": 18.9,
-   "astTo": 1.6,
-   "pm": 4,
-   "pm40": 0.5,
+   "usg": 18.5,
+   "astTo": 1.52,
+   "pm": -5,
+   "pm40": -0.6,
    "on": {
-    "min": 318.8,
-    "pf": 680,
-    "pa": 676,
-    "ortg": 108.3,
-    "drtg": 106.5,
-    "net": 1.8
+    "min": 340.9,
+    "pf": 720,
+    "pa": 725,
+    "ortg": 107.2,
+    "drtg": 107.2,
+    "net": -0.1
    },
    "off": {
-    "min": 201.2,
-    "ortg": 102.4,
-    "drtg": 112.1,
-    "net": -9.7
+    "min": 219.1,
+    "ortg": 102.8,
+    "drtg": 111.0,
+    "net": -8.3
    },
-   "onOff": 11.5,
+   "onOff": 8.2,
    "dd": 0,
    "td": 0,
    "high": 15,
    "zones": {
     "paint": {
-     "m": 37,
-     "a": 62,
-     "pct": 59.7
+     "m": 39,
+     "a": 65,
+     "pct": 60.0
     },
     "mid": {
      "m": 1,
@@ -14940,8 +16009,8 @@
     },
     "above3": {
      "m": 5,
-     "a": 21,
-     "pct": 23.8
+     "a": 22,
+     "pct": 22.7
     }
    },
    "log": [
@@ -15204,371 +16273,26 @@
      "pm": 7,
      "eff": 12,
      "ts": 79.1
-    }
-   ]
-  },
-  {
-   "id": "usk/patrik-auda",
-   "name": "Patrik Auda",
-   "team": "usk",
-   "teamName": "USK Praha",
-   "teamLabel": "USK",
-   "shirt": "2",
-   "pos": "",
-   "gp": 12,
-   "gs": 5,
-   "min": 274.4,
-   "totals": {
-    "pts": 127,
-    "fgm": 45,
-    "fga": 73,
-    "tpm": 0,
-    "tpa": 0,
-    "twopm": 45,
-    "twopa": 73,
-    "ftm": 37,
-    "fta": 59,
-    "oreb": 11,
-    "dreb": 37,
-    "reb": 48,
-    "ast": 13,
-    "to": 18,
-    "stl": 2,
-    "blk": 1,
-    "blkr": 3,
-    "pf": 38,
-    "foulon": 59,
-    "pm": -19,
-    "paint": 88,
-    "fast": 19,
-    "second": 12
-   },
-   "perGame": {
-    "pts": 10.6,
-    "fgm": 3.8,
-    "fga": 6.1,
-    "tpm": 0.0,
-    "tpa": 0.0,
-    "twopm": 3.8,
-    "twopa": 6.1,
-    "ftm": 3.1,
-    "fta": 4.9,
-    "oreb": 0.9,
-    "dreb": 3.1,
-    "reb": 4.0,
-    "ast": 1.1,
-    "to": 1.5,
-    "stl": 0.2,
-    "blk": 0.1,
-    "blkr": 0.2,
-    "pf": 3.2,
-    "foulon": 4.9,
-    "pm": -1.6,
-    "paint": 7.3,
-    "fast": 1.6,
-    "second": 1.0,
-    "min": 22.9,
-    "eff": 10.2,
-    "gmsc": 6.9
-   },
-   "per40": {
-    "pts": 18.5,
-    "reb": 7.0,
-    "ast": 1.9,
-    "stl": 0.3,
-    "blk": 0.1,
-    "to": 2.6
-   },
-   "ts": 64.2,
-   "efg": 61.6,
-   "fg": 61.6,
-   "two": 61.6,
-   "three": null,
-   "ft": 62.7,
-   "usg": 19.1,
-   "astTo": 0.72,
-   "pm": -19,
-   "pm40": -2.8,
-   "on": {
-    "min": 274.3,
-    "pf": 572,
-    "pa": 591,
-    "ortg": 106.9,
-    "drtg": 111.4,
-    "net": -4.5
-   },
-   "off": {
-    "min": 205.7,
-    "ortg": 104.0,
-    "drtg": 106.4,
-    "net": -2.3
-   },
-   "onOff": -2.2,
-   "dd": 0,
-   "td": 0,
-   "high": 19,
-   "zones": {
-    "paint": {
-     "m": 44,
-     "a": 71,
-     "pct": 62.0
-    },
-    "mid": {
-     "m": 1,
-     "a": 2,
-     "pct": 50.0
-    },
-    "corner3": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    },
-    "above3": {
-     "m": 0,
-     "a": 0,
-     "pct": null
-    }
-   },
-   "log": [
-    {
-     "fibaId": 2890469,
-     "date": "2026-09-19",
-     "opponent": "Slavia",
-     "venue": "home",
-     "result": "L",
-     "min": 23.7,
-     "pts": 10,
-     "reb": 7,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "1/4",
-     "tp": "0/0",
-     "ft": "8/10",
-     "pm": 0,
-     "eff": 11,
-     "ts": 59.5
     },
     {
-     "fibaId": 2890477,
-     "date": "2026-09-23",
-     "opponent": "Děčín",
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "Ústí",
      "venue": "away",
      "result": "L",
-     "min": 24.6,
-     "pts": 5,
-     "reb": 7,
+     "min": 22.0,
+     "pts": 4,
+     "reb": 2,
      "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 3,
-     "fg": "2/6",
-     "tp": "0/0",
-     "ft": "1/4",
-     "pm": -18,
-     "eff": 2,
-     "ts": 32.2
-    },
-    {
-     "fibaId": 2890480,
-     "date": "2026-09-26",
-     "opponent": "Ústí",
-     "venue": "home",
-     "result": "L",
-     "min": 32.6,
-     "pts": 19,
-     "reb": 6,
-     "ast": 3,
      "stl": 0,
      "blk": 1,
      "to": 1,
-     "fg": "8/11",
-     "tp": "0/0",
-     "ft": "3/11",
-     "pm": -2,
-     "eff": 17,
-     "ts": 60.0
-    },
-    {
-     "fibaId": 2892257,
-     "date": "2026-09-30",
-     "opponent": "Plzeň",
-     "venue": "away",
-     "result": "W",
-     "min": 20.7,
-     "pts": 3,
-     "reb": 3,
-     "ast": 1,
-     "stl": 1,
-     "blk": 0,
-     "to": 1,
-     "fg": "1/4",
-     "tp": "0/0",
-     "ft": "1/2",
-     "pm": 2,
-     "eff": 3,
-     "ts": 30.7
-    },
-    {
-     "fibaId": 2893123,
-     "date": "2026-10-03",
-     "opponent": "Písek",
-     "venue": "home",
-     "result": "W",
-     "min": 17.6,
-     "pts": 10,
-     "reb": 0,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 2,
-     "fg": "4/4",
-     "tp": "0/0",
-     "ft": "2/2",
-     "pm": -14,
-     "eff": 8,
-     "ts": 102.5
-    },
-    {
-     "fibaId": 2900037,
-     "date": "2026-10-10",
-     "opponent": "Opava",
-     "venue": "home",
-     "result": "L",
-     "min": 26.5,
-     "pts": 8,
-     "reb": 2,
-     "ast": 2,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "3/4",
-     "tp": "0/0",
-     "ft": "2/3",
-     "pm": -8,
-     "eff": 9,
-     "ts": 75.2
-    },
-    {
-     "fibaId": 2910404,
-     "date": "2026-10-18",
-     "opponent": "Brno",
-     "venue": "away",
-     "result": "L",
-     "min": 18.8,
-     "pts": 10,
-     "reb": 3,
-     "ast": 1,
-     "stl": 1,
-     "blk": 0,
-     "to": 1,
      "fg": "2/4",
-     "tp": "0/0",
-     "ft": "6/7",
-     "pm": -2,
-     "eff": 11,
-     "ts": 70.6
-    },
-    {
-     "fibaId": 2922250,
-     "date": "2026-10-24",
-     "opponent": "Olomoucko",
-     "venue": "home",
-     "result": "W",
-     "min": 19.5,
-     "pts": 16,
-     "reb": 4,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 0,
-     "fg": "7/11",
-     "tp": "0/0",
-     "ft": "2/2",
-     "pm": 24,
-     "eff": 17,
-     "ts": 67.3
-    },
-    {
-     "fibaId": 2927621,
-     "date": "2026-10-28",
-     "opponent": "Hradec",
-     "venue": "away",
-     "result": "W",
-     "min": 22.3,
-     "pts": 9,
-     "reb": 5,
-     "ast": 1,
-     "stl": 0,
-     "blk": 0,
-     "to": 4,
-     "fg": "4/4",
-     "tp": "0/0",
-     "ft": "1/2",
+     "tp": "0/1",
+     "ft": "0/0",
      "pm": -9,
-     "eff": 10,
-     "ts": 92.2
-    },
-    {
-     "fibaId": 2931566,
-     "date": "2026-10-31",
-     "opponent": "Pardubice",
-     "venue": "home",
-     "result": "L",
-     "min": 25.0,
-     "pts": 9,
-     "reb": 5,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "3/4",
-     "tp": "0/0",
-     "ft": "3/5",
-     "pm": -11,
-     "eff": 10,
-     "ts": 72.6
-    },
-    {
-     "fibaId": 2943551,
-     "date": "2026-11-15",
-     "opponent": "Slavia",
-     "venue": "away",
-     "result": "L",
-     "min": 18.6,
-     "pts": 10,
-     "reb": 2,
-     "ast": 0,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "4/5",
-     "tp": "0/0",
-     "ft": "2/4",
-     "pm": 4,
-     "eff": 8,
-     "ts": 74.0
-    },
-    {
-     "fibaId": 2945551,
-     "date": "2026-11-18",
-     "opponent": "Děčín",
-     "venue": "home",
-     "result": "W",
-     "min": 24.5,
-     "pts": 18,
-     "reb": 4,
-     "ast": 3,
-     "stl": 0,
-     "blk": 0,
-     "to": 1,
-     "fg": "6/12",
-     "tp": "0/0",
-     "ft": "6/7",
-     "pm": 15,
-     "eff": 17,
-     "ts": 59.7
+     "eff": 4,
+     "ts": 50.0
     }
    ]
   },
@@ -15580,102 +16304,102 @@
    "teamLabel": "USK",
    "shirt": "16",
    "pos": "",
-   "gp": 13,
+   "gp": 14,
    "gs": 3,
-   "min": 275.8,
+   "min": 296.0,
    "totals": {
-    "pts": 92,
-    "fgm": 24,
-    "fga": 63,
-    "tpm": 5,
-    "tpa": 24,
-    "twopm": 19,
-    "twopa": 39,
-    "ftm": 39,
-    "fta": 60,
-    "oreb": 11,
+    "pts": 100,
+    "fgm": 27,
+    "fga": 71,
+    "tpm": 6,
+    "tpa": 28,
+    "twopm": 21,
+    "twopa": 43,
+    "ftm": 40,
+    "fta": 62,
+    "oreb": 12,
     "dreb": 29,
-    "reb": 40,
+    "reb": 41,
     "ast": 30,
-    "to": 21,
+    "to": 22,
     "stl": 17,
     "blk": 1,
     "blkr": 1,
-    "pf": 24,
-    "foulon": 52,
-    "pm": -60,
-    "paint": 38,
-    "fast": 22,
-    "second": 10
+    "pf": 25,
+    "foulon": 53,
+    "pm": -59,
+    "paint": 42,
+    "fast": 25,
+    "second": 12
    },
    "perGame": {
     "pts": 7.1,
-    "fgm": 1.8,
-    "fga": 4.8,
+    "fgm": 1.9,
+    "fga": 5.1,
     "tpm": 0.4,
-    "tpa": 1.8,
+    "tpa": 2.0,
     "twopm": 1.5,
-    "twopa": 3.0,
-    "ftm": 3.0,
-    "fta": 4.6,
-    "oreb": 0.8,
-    "dreb": 2.2,
-    "reb": 3.1,
-    "ast": 2.3,
+    "twopa": 3.1,
+    "ftm": 2.9,
+    "fta": 4.4,
+    "oreb": 0.9,
+    "dreb": 2.1,
+    "reb": 2.9,
+    "ast": 2.1,
     "to": 1.6,
-    "stl": 1.3,
+    "stl": 1.2,
     "blk": 0.1,
     "blkr": 0.1,
     "pf": 1.8,
-    "foulon": 4.0,
-    "pm": -4.6,
-    "paint": 2.9,
-    "fast": 1.7,
-    "second": 0.8,
-    "min": 21.2,
-    "eff": 7.6,
-    "gmsc": 5.7
+    "foulon": 3.8,
+    "pm": -4.2,
+    "paint": 3.0,
+    "fast": 1.8,
+    "second": 0.9,
+    "min": 21.1,
+    "eff": 7.2,
+    "gmsc": 5.4
    },
    "per40": {
-    "pts": 13.3,
-    "reb": 5.8,
-    "ast": 4.4,
-    "stl": 2.5,
+    "pts": 13.5,
+    "reb": 5.5,
+    "ast": 4.1,
+    "stl": 2.3,
     "blk": 0.1,
     "to": 3.0
    },
-   "ts": 51.5,
-   "efg": 42.1,
-   "fg": 38.1,
-   "two": 48.7,
-   "three": 20.8,
-   "ft": 65.0,
-   "usg": 17.8,
-   "astTo": 1.43,
-   "pm": -60,
-   "pm40": -8.7,
+   "ts": 50.9,
+   "efg": 42.3,
+   "fg": 38.0,
+   "two": 48.8,
+   "three": 21.4,
+   "ft": 64.5,
+   "usg": 18.2,
+   "astTo": 1.36,
+   "pm": -59,
+   "pm40": -8.0,
    "on": {
-    "min": 275.7,
-    "pf": 543,
-    "pa": 603,
-    "ortg": 98.4,
-    "drtg": 108.4,
-    "net": -10.0
+    "min": 295.9,
+    "pf": 578,
+    "pa": 637,
+    "ortg": 97.5,
+    "drtg": 106.9,
+    "net": -9.4
    },
    "off": {
-    "min": 244.3,
-    "ortg": 114.8,
-    "drtg": 109.0,
-    "net": 5.8
+    "min": 264.1,
+    "ortg": 114.6,
+    "drtg": 110.8,
+    "net": 3.8
    },
-   "onOff": -15.8,
+   "onOff": -13.2,
    "dd": 0,
    "td": 0,
    "high": 14,
    "zones": {
     "paint": {
-     "m": 19,
-     "a": 38,
+     "m": 21,
+     "a": 42,
      "pct": 50.0
     },
     "mid": {
@@ -15684,14 +16408,14 @@
      "pct": 0.0
     },
     "corner3": {
-     "m": 2,
-     "a": 5,
-     "pct": 40.0
+     "m": 3,
+     "a": 6,
+     "pct": 50.0
     },
     "above3": {
      "m": 3,
-     "a": 19,
-     "pct": 15.8
+     "a": 22,
+     "pct": 13.6
     }
    },
    "log": [
@@ -15954,6 +16678,26 @@
      "pm": 3,
      "eff": 11,
      "ts": 84.0
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 20.2,
+     "pts": 8,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "3/8",
+     "tp": "1/4",
+     "ft": "1/2",
+     "pm": 1,
+     "eff": 2,
+     "ts": 45.0
     }
    ]
   },
@@ -16295,103 +17039,103 @@
    "teamLabel": "USK",
    "shirt": "11",
    "pos": "",
-   "gp": 7,
+   "gp": 8,
    "gs": 0,
-   "min": 95.8,
+   "min": 111.1,
    "totals": {
-    "pts": 39,
-    "fgm": 17,
-    "fga": 25,
+    "pts": 43,
+    "fgm": 19,
+    "fga": 30,
     "tpm": 1,
-    "tpa": 2,
-    "twopm": 16,
-    "twopa": 23,
+    "tpa": 3,
+    "twopm": 18,
+    "twopa": 27,
     "ftm": 4,
     "fta": 8,
     "oreb": 8,
-    "dreb": 13,
-    "reb": 21,
-    "ast": 3,
-    "to": 6,
+    "dreb": 14,
+    "reb": 22,
+    "ast": 4,
+    "to": 7,
     "stl": 4,
     "blk": 2,
-    "blkr": 2,
+    "blkr": 3,
     "pf": 7,
     "foulon": 7,
     "pm": -37,
-    "paint": 32,
-    "fast": 11,
+    "paint": 36,
+    "fast": 13,
     "second": 8
    },
    "perGame": {
-    "pts": 5.6,
+    "pts": 5.4,
     "fgm": 2.4,
-    "fga": 3.6,
+    "fga": 3.8,
     "tpm": 0.1,
-    "tpa": 0.3,
-    "twopm": 2.3,
-    "twopa": 3.3,
-    "ftm": 0.6,
-    "fta": 1.1,
-    "oreb": 1.1,
-    "dreb": 1.9,
-    "reb": 3.0,
-    "ast": 0.4,
+    "tpa": 0.4,
+    "twopm": 2.2,
+    "twopa": 3.4,
+    "ftm": 0.5,
+    "fta": 1.0,
+    "oreb": 1.0,
+    "dreb": 1.8,
+    "reb": 2.8,
+    "ast": 0.5,
     "to": 0.9,
-    "stl": 0.6,
-    "blk": 0.3,
-    "blkr": 0.3,
-    "pf": 1.0,
-    "foulon": 1.0,
-    "pm": -5.3,
-    "paint": 4.6,
+    "stl": 0.5,
+    "blk": 0.2,
+    "blkr": 0.4,
+    "pf": 0.9,
+    "foulon": 0.9,
+    "pm": -4.6,
+    "paint": 4.5,
     "fast": 1.6,
-    "second": 1.1,
-    "min": 13.7,
-    "eff": 7.3,
-    "gmsc": 5.0
+    "second": 1.0,
+    "min": 13.9,
+    "eff": 6.6,
+    "gmsc": 4.5
    },
    "per40": {
-    "pts": 16.3,
-    "reb": 8.8,
-    "ast": 1.3,
-    "stl": 1.7,
-    "blk": 0.8,
+    "pts": 15.5,
+    "reb": 7.9,
+    "ast": 1.4,
+    "stl": 1.4,
+    "blk": 0.7,
     "to": 2.5
    },
-   "ts": 68.4,
-   "efg": 70.0,
-   "fg": 68.0,
-   "two": 69.6,
-   "three": 50.0,
+   "ts": 64.1,
+   "efg": 65.0,
+   "fg": 63.3,
+   "two": 66.7,
+   "three": 33.3,
    "ft": 50.0,
-   "usg": 15.8,
-   "astTo": 0.5,
+   "usg": 16.2,
+   "astTo": 0.57,
    "pm": -37,
-   "pm40": -15.4,
+   "pm40": -13.3,
    "on": {
-    "min": 95.8,
-    "pf": 195,
-    "pa": 232,
-    "ortg": 106.5,
-    "drtg": 121.1,
-    "net": -14.6
+    "min": 111.1,
+    "pf": 227,
+    "pa": 264,
+    "ortg": 105.6,
+    "drtg": 118.6,
+    "net": -13.1
    },
    "off": {
-    "min": 184.2,
-    "ortg": 107.4,
-    "drtg": 100.5,
-    "net": 6.9
+    "min": 208.9,
+    "ortg": 106.3,
+    "drtg": 101.9,
+    "net": 4.4
    },
-   "onOff": -21.5,
+   "onOff": -17.5,
    "dd": 0,
    "td": 0,
    "high": 14,
    "zones": {
     "paint": {
-     "m": 16,
-     "a": 23,
-     "pct": 69.6
+     "m": 18,
+     "a": 27,
+     "pct": 66.7
     },
     "mid": {
      "m": 0,
@@ -16400,8 +17144,8 @@
     },
     "corner3": {
      "m": 0,
-     "a": 0,
-     "pct": null
+     "a": 1,
+     "pct": 0.0
     },
     "above3": {
      "m": 1,
@@ -16549,6 +17293,26 @@
      "pm": -4,
      "eff": 5,
      "ts": 50.0
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 15.3,
+     "pts": 4,
+     "reb": 1,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/5",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": 0,
+     "eff": 2,
+     "ts": 40.0
     }
    ]
   },
@@ -16890,103 +17654,103 @@
    "teamLabel": "USK",
    "shirt": "14",
    "pos": "",
-   "gp": 13,
-   "gs": 8,
-   "min": 179.6,
+   "gp": 14,
+   "gs": 9,
+   "min": 190.4,
    "totals": {
     "pts": 24,
     "fgm": 10,
-    "fga": 24,
+    "fga": 26,
     "tpm": 0,
     "tpa": 1,
     "twopm": 10,
-    "twopa": 23,
+    "twopa": 25,
     "ftm": 4,
     "fta": 16,
     "oreb": 21,
-    "dreb": 25,
-    "reb": 46,
+    "dreb": 27,
+    "reb": 48,
     "ast": 8,
     "to": 14,
     "stl": 4,
     "blk": 5,
-    "blkr": 1,
-    "pf": 41,
+    "blkr": 2,
+    "pf": 42,
     "foulon": 13,
-    "pm": 25,
+    "pm": 13,
     "paint": 20,
     "fast": 0,
     "second": 7
    },
    "perGame": {
-    "pts": 1.8,
-    "fgm": 0.8,
-    "fga": 1.8,
+    "pts": 1.7,
+    "fgm": 0.7,
+    "fga": 1.9,
     "tpm": 0.0,
     "tpa": 0.1,
-    "twopm": 0.8,
+    "twopm": 0.7,
     "twopa": 1.8,
     "ftm": 0.3,
-    "fta": 1.2,
-    "oreb": 1.6,
+    "fta": 1.1,
+    "oreb": 1.5,
     "dreb": 1.9,
-    "reb": 3.5,
+    "reb": 3.4,
     "ast": 0.6,
-    "to": 1.1,
+    "to": 1.0,
     "stl": 0.3,
     "blk": 0.4,
     "blkr": 0.1,
-    "pf": 3.2,
-    "foulon": 1.0,
-    "pm": 1.9,
-    "paint": 1.5,
+    "pf": 3.0,
+    "foulon": 0.9,
+    "pm": 0.9,
+    "paint": 1.4,
     "fast": 0.0,
     "second": 0.5,
-    "min": 13.8,
-    "eff": 3.6,
-    "gmsc": 0.9
+    "min": 13.6,
+    "eff": 3.4,
+    "gmsc": 0.7
    },
    "per40": {
-    "pts": 5.3,
-    "reb": 10.2,
-    "ast": 1.8,
-    "stl": 0.9,
+    "pts": 5.0,
+    "reb": 10.1,
+    "ast": 1.7,
+    "stl": 0.8,
     "blk": 1.1,
-    "to": 3.1
+    "to": 2.9
    },
-   "ts": 38.7,
-   "efg": 41.7,
-   "fg": 41.7,
-   "two": 43.5,
+   "ts": 36.3,
+   "efg": 38.5,
+   "fg": 38.5,
+   "two": 40.0,
    "three": 0.0,
    "ft": 25.0,
-   "usg": 11.2,
+   "usg": 11.1,
    "astTo": 0.57,
-   "pm": 25,
-   "pm40": 5.6,
+   "pm": 13,
+   "pm40": 2.7,
    "on": {
-    "min": 179.6,
-    "pf": 383,
-    "pa": 358,
-    "ortg": 105.1,
-    "drtg": 100.2,
-    "net": 4.9
+    "min": 190.5,
+    "pf": 399,
+    "pa": 386,
+    "ortg": 103.1,
+    "drtg": 101.4,
+    "net": 1.7
    },
    "off": {
-    "min": 340.4,
-    "ortg": 106.4,
-    "drtg": 113.1,
-    "net": -6.7
+    "min": 369.5,
+    "ortg": 106.7,
+    "drtg": 112.6,
+    "net": -5.9
    },
-   "onOff": 11.6,
+   "onOff": 7.6,
    "dd": 0,
    "td": 0,
    "high": 5,
    "zones": {
     "paint": {
      "m": 10,
-     "a": 23,
-     "pct": 43.5
+     "a": 25,
+     "pct": 40.0
     },
     "mid": {
      "m": 0,
@@ -17264,6 +18028,26 @@
      "pm": -2,
      "eff": 4,
      "ts": 45.0
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 10.8,
+     "pts": 0,
+     "reb": 2,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/2",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": -12,
+     "eff": 0,
+     "ts": 0.0
     }
    ]
   },
@@ -17275,17 +18059,17 @@
    "teamLabel": "USK",
    "shirt": "23",
    "pos": "",
-   "gp": 12,
+   "gp": 13,
    "gs": 0,
-   "min": 79.8,
+   "min": 83.3,
    "totals": {
-    "pts": 17,
-    "fgm": 5,
-    "fga": 18,
+    "pts": 19,
+    "fgm": 6,
+    "fga": 19,
     "tpm": 1,
     "tpa": 4,
-    "twopm": 4,
-    "twopa": 14,
+    "twopm": 5,
+    "twopa": 15,
     "ftm": 6,
     "fta": 10,
     "oreb": 8,
@@ -17296,82 +18080,82 @@
     "stl": 1,
     "blk": 0,
     "blkr": 2,
-    "pf": 9,
+    "pf": 10,
     "foulon": 7,
-    "pm": -58,
-    "paint": 8,
+    "pm": -64,
+    "paint": 10,
     "fast": 0,
     "second": 8
    },
    "perGame": {
-    "pts": 1.4,
-    "fgm": 0.4,
+    "pts": 1.5,
+    "fgm": 0.5,
     "fga": 1.5,
     "tpm": 0.1,
     "tpa": 0.3,
-    "twopm": 0.3,
+    "twopm": 0.4,
     "twopa": 1.2,
     "ftm": 0.5,
     "fta": 0.8,
-    "oreb": 0.7,
-    "dreb": 0.8,
-    "reb": 1.4,
+    "oreb": 0.6,
+    "dreb": 0.7,
+    "reb": 1.3,
     "ast": 0.3,
     "to": 0.3,
     "stl": 0.1,
     "blk": 0.0,
     "blkr": 0.2,
     "pf": 0.8,
-    "foulon": 0.6,
-    "pm": -4.8,
-    "paint": 0.7,
+    "foulon": 0.5,
+    "pm": -4.9,
+    "paint": 0.8,
     "fast": 0.0,
-    "second": 0.7,
-    "min": 6.7,
+    "second": 0.6,
+    "min": 6.4,
     "eff": 1.5,
     "gmsc": 0.8
    },
    "per40": {
-    "pts": 8.5,
-    "reb": 8.5,
-    "ast": 2.0,
+    "pts": 9.1,
+    "reb": 8.2,
+    "ast": 1.9,
     "stl": 0.5,
     "blk": 0.0,
-    "to": 2.0
+    "to": 1.9
    },
-   "ts": 37.9,
-   "efg": 30.6,
-   "fg": 27.8,
-   "two": 28.6,
+   "ts": 40.6,
+   "efg": 34.2,
+   "fg": 31.6,
+   "two": 33.3,
    "three": 25.0,
    "ft": 60.0,
    "usg": 14.6,
    "astTo": 1.0,
-   "pm": -58,
-   "pm40": -29.1,
+   "pm": -64,
+   "pm40": -30.7,
    "on": {
-    "min": 80.0,
-    "pf": 145,
-    "pa": 204,
-    "ortg": 90.7,
-    "drtg": 123.3,
-    "net": -32.6
+    "min": 83.5,
+    "pf": 150,
+    "pa": 215,
+    "ortg": 90.4,
+    "drtg": 125.2,
+    "net": -34.7
    },
    "off": {
-    "min": 400.0,
-    "ortg": 108.5,
+    "min": 436.5,
+    "ortg": 107.8,
     "drtg": 103.3,
-    "net": 5.2
+    "net": 4.5
    },
-   "onOff": -37.8,
+   "onOff": -39.2,
    "dd": 0,
    "td": 0,
    "high": 6,
    "zones": {
     "paint": {
-     "m": 4,
-     "a": 13,
-     "pct": 30.8
+     "m": 5,
+     "a": 14,
+     "pct": 35.7
     },
     "mid": {
      "m": 0,
@@ -17629,6 +18413,26 @@
      "pm": -2,
      "eff": 7,
      "ts": 50.0
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "Ústí",
+     "venue": "away",
+     "result": "L",
+     "min": 3.5,
+     "pts": 2,
+     "reb": 0,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "1/1",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": -6,
+     "eff": 2,
+     "ts": 100.0
     }
    ]
   },
@@ -18451,8 +19255,11 @@
    "away": "USK Praha",
    "homeSlug": "usti",
    "awaySlug": "usk",
-   "status": "live",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 82,
+    "away": 76
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544625",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947895/",

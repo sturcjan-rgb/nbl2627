@@ -1,6 +1,6 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-22T17:51:30+00:00",
+ "generatedAt": "2026-11-22T19:07:11+00:00",
  "slug": "usti",
  "name": "SLUNETA Ústí nad Labem",
  "label": "Ústí",
@@ -8,209 +8,209 @@
  "code": "UNL",
  "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
  "coach": "Tomáš Reimer",
- "games": 13,
- "minutes": 520.0,
+ "games": 14,
+ "minutes": 560.0,
  "totals": {
-  "pts": 1124,
-  "fgm": 396,
-  "fga": 910,
-  "tpm": 107,
-  "tpa": 365,
-  "twopm": 289,
-  "twopa": 545,
-  "ftm": 225,
-  "fta": 326,
-  "oreb": 144,
-  "dreb": 374,
-  "reb": 518,
-  "ast": 193,
-  "to": 150,
-  "stl": 122,
-  "blk": 32,
-  "blkr": 30,
-  "pf": 295,
-  "foulon": 281,
-  "paint": 484,
-  "fast": 204,
-  "second": 143,
-  "bench": 439,
-  "offto": 254
+  "pts": 1206,
+  "fgm": 428,
+  "fga": 975,
+  "tpm": 113,
+  "tpa": 393,
+  "twopm": 315,
+  "twopa": 582,
+  "ftm": 237,
+  "fta": 344,
+  "oreb": 156,
+  "dreb": 402,
+  "reb": 558,
+  "ast": 213,
+  "to": 164,
+  "stl": 126,
+  "blk": 36,
+  "blkr": 32,
+  "pf": 314,
+  "foulon": 300,
+  "paint": 518,
+  "fast": 216,
+  "second": 153,
+  "bench": 476,
+  "offto": 268
  },
  "oppTotals": {
-  "pts": 1073,
-  "fgm": 366,
-  "fga": 896,
-  "tpm": 134,
-  "tpa": 421,
-  "twopm": 232,
-  "twopa": 475,
-  "ftm": 207,
-  "fta": 332,
-  "oreb": 206,
-  "dreb": 409,
-  "reb": 615,
-  "ast": 219,
-  "to": 217,
-  "stl": 72,
-  "blk": 30,
-  "blkr": 32,
-  "pf": 283,
-  "foulon": 282,
-  "paint": 434,
-  "fast": 157,
-  "second": 195,
-  "bench": 445,
-  "offto": 160
+  "pts": 1149,
+  "fgm": 392,
+  "fga": 953,
+  "tpm": 139,
+  "tpa": 442,
+  "twopm": 253,
+  "twopa": 511,
+  "ftm": 226,
+  "fta": 355,
+  "oreb": 209,
+  "dreb": 432,
+  "reb": 641,
+  "ast": 230,
+  "to": 230,
+  "stl": 79,
+  "blk": 32,
+  "blkr": 36,
+  "pf": 302,
+  "foulon": 301,
+  "paint": 474,
+  "fast": 174,
+  "second": 197,
+  "bench": 471,
+  "offto": 179
  },
  "perGame": {
-  "pts": 86.5,
-  "fgm": 30.5,
-  "fga": 70.0,
-  "tpm": 8.2,
+  "pts": 86.1,
+  "fgm": 30.6,
+  "fga": 69.6,
+  "tpm": 8.1,
   "tpa": 28.1,
-  "twopm": 22.2,
-  "twopa": 41.9,
-  "ftm": 17.3,
-  "fta": 25.1,
+  "twopm": 22.5,
+  "twopa": 41.6,
+  "ftm": 16.9,
+  "fta": 24.6,
   "oreb": 11.1,
-  "dreb": 28.8,
-  "reb": 39.8,
-  "ast": 14.8,
-  "to": 11.5,
-  "stl": 9.4,
-  "blk": 2.5,
+  "dreb": 28.7,
+  "reb": 39.9,
+  "ast": 15.2,
+  "to": 11.7,
+  "stl": 9.0,
+  "blk": 2.6,
   "blkr": 2.3,
-  "pf": 22.7,
-  "foulon": 21.6,
-  "paint": 37.2,
-  "fast": 15.7,
-  "second": 11.0,
-  "bench": 33.8,
-  "offto": 19.5,
-  "ppg": 86.5,
-  "oppg": 82.5,
-  "diff": 3.9
+  "pf": 22.4,
+  "foulon": 21.4,
+  "paint": 37.0,
+  "fast": 15.4,
+  "second": 10.9,
+  "bench": 34.0,
+  "offto": 19.1,
+  "ppg": 86.1,
+  "oppg": 82.1,
+  "diff": 4.1
  },
  "oppPerGame": {
-  "pts": 82.5,
-  "fgm": 28.2,
-  "fga": 68.9,
-  "tpm": 10.3,
-  "tpa": 32.4,
-  "twopm": 17.8,
+  "pts": 82.1,
+  "fgm": 28.0,
+  "fga": 68.1,
+  "tpm": 9.9,
+  "tpa": 31.6,
+  "twopm": 18.1,
   "twopa": 36.5,
-  "ftm": 15.9,
-  "fta": 25.5,
-  "oreb": 15.8,
-  "dreb": 31.5,
-  "reb": 47.3,
-  "ast": 16.8,
-  "to": 16.7,
-  "stl": 5.5,
+  "ftm": 16.1,
+  "fta": 25.4,
+  "oreb": 14.9,
+  "dreb": 30.9,
+  "reb": 45.8,
+  "ast": 16.4,
+  "to": 16.4,
+  "stl": 5.6,
   "blk": 2.3,
-  "blkr": 2.5,
-  "pf": 21.8,
-  "foulon": 21.7,
-  "paint": 33.4,
-  "fast": 12.1,
-  "second": 15.0,
-  "bench": 34.2,
-  "offto": 12.3
+  "blkr": 2.6,
+  "pf": 21.6,
+  "foulon": 21.5,
+  "paint": 33.9,
+  "fast": 12.4,
+  "second": 14.1,
+  "bench": 33.6,
+  "offto": 12.8
  },
  "adv": {
-  "poss": 1059.4,
-  "pace": 81.3,
-  "ortg": 106.1,
-  "drtg": 101.9,
-  "net": 4.2,
-  "efg": 49.4,
-  "ts": 53.3,
-  "tov": 12.5,
-  "orb": 26.0,
-  "drb": 64.5,
-  "ftr": 24.7,
-  "fta_rate": 35.8,
-  "three_par": 40.1,
-  "fg": 43.5,
-  "two": 53.0,
-  "three": 29.3,
-  "ft": 69.0,
-  "ast_pct": 48.7,
-  "ast_to": 1.29,
-  "stl_pct": 11.6,
-  "blk_pct": 6.7,
+  "poss": 1134.4,
+  "pace": 80.9,
+  "ortg": 106.3,
+  "drtg": 101.7,
+  "net": 4.7,
+  "efg": 49.7,
+  "ts": 53.5,
+  "tov": 12.7,
+  "orb": 26.5,
+  "drb": 65.8,
+  "ftr": 24.3,
+  "fta_rate": 35.3,
+  "three_par": 40.3,
+  "fg": 43.9,
+  "two": 54.1,
+  "three": 28.8,
+  "ft": 68.9,
+  "ast_pct": 49.8,
+  "ast_to": 1.3,
+  "stl_pct": 11.1,
+  "blk_pct": 7.0,
   "pts_per_shot": 1.07
  },
  "oppAdv": {
-  "opp_efg": 48.3,
-  "opp_ts": 51.5,
+  "opp_efg": 48.4,
+  "opp_ts": 51.8,
   "opp_tov": 17.2,
-  "opp_ftr": 23.1,
-  "opp_three_par": 47.0,
-  "opp_fg": 40.8,
-  "opp_two": 48.8,
-  "opp_three": 31.8,
-  "opp_ft": 62.3
+  "opp_ftr": 23.7,
+  "opp_three_par": 46.4,
+  "opp_fg": 41.1,
+  "opp_two": 49.5,
+  "opp_three": 31.4,
+  "opp_ft": 63.7
  },
  "factors": {
-  "efg": 49.4,
-  "tov": 12.5,
-  "orb": 26.0,
-  "ftr": 24.7,
-  "opp_efg": 48.3,
+  "efg": 49.7,
+  "tov": 12.7,
+  "orb": 26.5,
+  "ftr": 24.3,
+  "opp_efg": 48.4,
   "opp_tov": 17.2,
-  "drb": 64.5,
-  "opp_ftr": 23.1
+  "drb": 65.8,
+  "opp_ftr": 23.7
  },
  "zones": {
   "paint": {
-   "m": 253,
-   "a": 443,
-   "pct": 57.1,
-   "share": 48.7
+   "m": 270,
+   "a": 468,
+   "pct": 57.7,
+   "share": 48.0
   },
   "mid": {
-   "m": 36,
-   "a": 102,
-   "pct": 35.3,
-   "share": 11.2
+   "m": 45,
+   "a": 114,
+   "pct": 39.5,
+   "share": 11.7
   },
   "corner3": {
-   "m": 14,
-   "a": 47,
-   "pct": 29.8,
-   "share": 5.2
+   "m": 16,
+   "a": 54,
+   "pct": 29.6,
+   "share": 5.5
   },
   "above3": {
-   "m": 93,
-   "a": 318,
-   "pct": 29.2,
-   "share": 34.9
+   "m": 97,
+   "a": 339,
+   "pct": 28.6,
+   "share": 34.8
   }
  },
  "oppZones": {
   "paint": {
-   "m": 220,
-   "a": 435,
-   "pct": 50.6,
+   "m": 240,
+   "a": 469,
+   "pct": 51.2,
    "share": null
   },
   "mid": {
-   "m": 12,
-   "a": 40,
-   "pct": 30.0,
+   "m": 13,
+   "a": 42,
+   "pct": 31.0,
    "share": null
   },
   "corner3": {
-   "m": 25,
-   "a": 76,
+   "m": 26,
+   "a": 79,
    "pct": 32.9,
    "share": null
   },
   "above3": {
-   "m": 109,
-   "a": 345,
-   "pct": 31.6,
+   "m": 113,
+   "a": 363,
+   "pct": 31.1,
    "share": null
   }
  },
@@ -223,63 +223,63 @@
    "20+"
   ],
   "pts": [
-   260,
-   215,
+   274,
    229,
-   197,
-   210
+   246,
+   215,
+   229
   ],
   "unassigned": 13,
-  "possessions": 1076,
-  "ptsPerPoss": 1.04,
-  "avgSec": 12.8
+  "possessions": 1154,
+  "ptsPerPoss": 1.05,
+  "avgSec": 12.9
  },
  "clutch": {
-  "pts": 51,
-  "opp": 48,
-  "fgm": 19,
-  "fga": 36,
-  "ftm": 7,
-  "fta": 12,
+  "pts": 59,
+  "opp": 51,
+  "fgm": 22,
+  "fga": 43,
+  "ftm": 9,
+  "fta": 14,
   "to": 1,
-  "games": 5,
-  "w": 3,
+  "games": 6,
+  "w": 4,
   "l": 2,
-  "fgPct": 52.8,
-  "net": 3
+  "fgPct": 51.2,
+  "net": 8
  },
  "quarters": [
   {
    "period": 1,
    "label": "Q1",
-   "ppg": 19.6,
-   "oppg": 19.1,
-   "diff": 0.5,
-   "n": 13
+   "ppg": 19.7,
+   "oppg": 19.4,
+   "diff": 0.3,
+   "n": 14
   },
   {
    "period": 2,
    "label": "Q2",
-   "ppg": 22.6,
-   "oppg": 20.4,
-   "diff": 2.2,
-   "n": 13
+   "ppg": 22.9,
+   "oppg": 20.5,
+   "diff": 2.4,
+   "n": 14
   },
   {
    "period": 3,
    "label": "Q3",
-   "ppg": 21.6,
-   "oppg": 19.5,
-   "diff": 2.2,
-   "n": 13
+   "ppg": 21.5,
+   "oppg": 19.6,
+   "diff": 1.9,
+   "n": 14
   },
   {
    "period": 4,
    "label": "Q4",
-   "ppg": 22.6,
-   "oppg": 23.6,
-   "diff": -1.0,
-   "n": 13
+   "ppg": 22.0,
+   "oppg": 22.5,
+   "diff": -0.5,
+   "n": 14
   }
  ],
  "flow": {
@@ -287,7 +287,7 @@
   "biggestDeficit": 28,
   "biggestRun": 15,
   "biggestRunAllowed": 14,
-  "leadChangesPerGame": 2.5
+  "leadChangesPerGame": 2.8
  },
  "lineups": {
   "fives": [
@@ -299,19 +299,19 @@
      "Josef Potoček",
      "Kobe Langley"
     ],
-    "min": 49.8,
-    "pf": 120,
-    "pa": 66,
-    "pm": 54,
-    "poss": 103.3,
-    "pF": 107.1,
-    "pA": 99.5,
-    "ortg": 112.0,
-    "drtg": 66.3,
-    "net": 45.7,
-    "efg": 54.6,
-    "oefg": 37.3,
-    "games": 7
+    "min": 51.5,
+    "pf": 125,
+    "pa": 70,
+    "pm": 55,
+    "poss": 106.2,
+    "pF": 110.1,
+    "pA": 102.4,
+    "ortg": 113.5,
+    "drtg": 68.4,
+    "net": 45.1,
+    "efg": 55.5,
+    "oefg": 38.2,
+    "games": 8
    },
    {
     "players": [
@@ -321,19 +321,19 @@
      "Kobe Langley",
      "Ladislav Pecka"
     ],
-    "min": 41.7,
-    "pf": 72,
+    "min": 43.5,
+    "pf": 76,
     "pa": 90,
-    "pm": -18,
-    "poss": 79.3,
-    "pF": 78.9,
-    "pA": 79.6,
-    "ortg": 91.2,
-    "drtg": 113.1,
-    "net": -21.8,
-    "efg": 46.9,
-    "oefg": 50.6,
-    "games": 9
+    "pm": -14,
+    "poss": 82.2,
+    "pF": 81.8,
+    "pA": 82.6,
+    "ortg": 92.9,
+    "drtg": 109.0,
+    "net": -16.0,
+    "efg": 46.3,
+    "oefg": 49.4,
+    "games": 10
    },
    {
     "players": [
@@ -343,19 +343,19 @@
      "Niels Lane",
      "Rhyjon Blackwell"
     ],
-    "min": 28.3,
-    "pf": 76,
-    "pa": 55,
-    "pm": 21,
-    "poss": 58.7,
-    "pF": 58.8,
-    "pA": 58.7,
-    "ortg": 129.3,
-    "drtg": 93.7,
-    "net": 35.5,
-    "efg": 62.5,
-    "oefg": 44.2,
-    "games": 9
+    "min": 41.3,
+    "pf": 101,
+    "pa": 74,
+    "pm": 27,
+    "poss": 83.7,
+    "pF": 83.4,
+    "pA": 83.9,
+    "ortg": 121.0,
+    "drtg": 88.2,
+    "net": 32.8,
+    "efg": 62.0,
+    "oefg": 41.1,
+    "games": 10
    },
    {
     "players": [
@@ -378,6 +378,28 @@
     "efg": 45.1,
     "oefg": 50.0,
     "games": 9
+   },
+   {
+    "players": [
+     "David Žikla",
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Josef Potoček",
+     "Kobe Langley"
+    ],
+    "min": 21.8,
+    "pf": 60,
+    "pa": 41,
+    "pm": 19,
+    "poss": 43.9,
+    "pF": 45.4,
+    "pA": 42.5,
+    "ortg": 132.2,
+    "drtg": 96.5,
+    "net": 35.6,
+    "efg": 67.5,
+    "oefg": 37.2,
+    "games": 3
    },
    {
     "players": [
@@ -444,28 +466,6 @@
     "efg": 43.2,
     "oefg": 56.9,
     "games": 6
-   },
-   {
-    "players": [
-     "David Žikla",
-     "Filip Kábrt",
-     "Jaborri Mcghee",
-     "Josef Potoček",
-     "Kobe Langley"
-    ],
-    "min": 17.6,
-    "pf": 43,
-    "pa": 29,
-    "pm": 14,
-    "poss": 35.0,
-    "pF": 36.1,
-    "pA": 34.0,
-    "ortg": 119.2,
-    "drtg": 85.4,
-    "net": 33.8,
-    "efg": 60.6,
-    "oefg": 34.3,
-    "games": 2
    },
    {
     "players": [
@@ -623,6 +623,28 @@
    },
    {
     "players": [
+     "Chayce Polynice",
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Josef Potoček",
+     "Rhyjon Blackwell"
+    ],
+    "min": 9.0,
+    "pf": 15,
+    "pa": 17,
+    "pm": -2,
+    "poss": 17.9,
+    "pF": 16.4,
+    "pA": 19.3,
+    "ortg": 91.5,
+    "drtg": 88.0,
+    "net": 3.5,
+    "efg": 23.3,
+    "oefg": 37.0,
+    "games": 6
+   },
+   {
+    "players": [
      "David Žikla",
      "Jakub Ševčík",
      "Ladislav Pecka",
@@ -668,6 +690,28 @@
    {
     "players": [
      "Chayce Polynice",
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Ladislav Pecka",
+     "Rhyjon Blackwell"
+    ],
+    "min": 8.0,
+    "pf": 19,
+    "pa": 16,
+    "pm": 3,
+    "poss": 17.3,
+    "pF": 17.3,
+    "pA": 17.2,
+    "ortg": 109.7,
+    "drtg": 93.0,
+    "net": 16.7,
+    "efg": 65.4,
+    "oefg": 41.2,
+    "games": 6
+   },
+   {
+    "players": [
+     "Chayce Polynice",
      "Josef Potoček",
      "Kobe Langley",
      "Niels Lane",
@@ -686,6 +730,28 @@
     "efg": 53.1,
     "oefg": 86.4,
     "games": 4
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Jaborri Mcghee",
+     "Kobe Langley",
+     "Ladislav Pecka",
+     "Niels Lane"
+    ],
+    "min": 7.3,
+    "pf": 17,
+    "pa": 15,
+    "pm": 2,
+    "poss": 14.2,
+    "pF": 14.9,
+    "pA": 13.4,
+    "ortg": 114.2,
+    "drtg": 111.6,
+    "net": 2.6,
+    "efg": 80.0,
+    "oefg": 58.3,
+    "games": 2
    },
    {
     "players": [
@@ -755,50 +821,6 @@
    },
    {
     "players": [
-     "Chayce Polynice",
-     "Filip Kábrt",
-     "Jaborri Mcghee",
-     "Ladislav Pecka",
-     "Rhyjon Blackwell"
-    ],
-    "min": 6.4,
-    "pf": 17,
-    "pa": 11,
-    "pm": 6,
-    "poss": 13.3,
-    "pF": 13.3,
-    "pA": 13.3,
-    "ortg": 127.6,
-    "drtg": 82.6,
-    "net": 45.0,
-    "efg": 68.2,
-    "oefg": 35.7,
-    "games": 5
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Filip Kábrt",
-     "Jaborri Mcghee",
-     "Josef Potoček",
-     "Rhyjon Blackwell"
-    ],
-    "min": 6.0,
-    "pf": 11,
-    "pa": 10,
-    "pm": 1,
-    "poss": 11.4,
-    "pF": 10.5,
-    "pA": 12.3,
-    "ortg": 104.6,
-    "drtg": 81.2,
-    "net": 23.4,
-    "efg": 25.0,
-    "oefg": 29.4,
-    "games": 5
-   },
-   {
-    "players": [
      "David Žikla",
      "Filip Kábrt",
      "Kobe Langley",
@@ -843,6 +865,50 @@
    },
    {
     "players": [
+     "David Žikla",
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Ladislav Pecka",
+     "Rhyjon Blackwell"
+    ],
+    "min": 5.7,
+    "pf": 8,
+    "pa": 7,
+    "pm": 1,
+    "poss": 11.4,
+    "pF": 11.0,
+    "pA": 11.8,
+    "ortg": 72.7,
+    "drtg": 59.5,
+    "net": 13.2,
+    "efg": 44.4,
+    "oefg": 35.7,
+    "games": 6
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Kobe Langley",
+     "Niels Lane"
+    ],
+    "min": 5.7,
+    "pf": 9,
+    "pa": 14,
+    "pm": -5,
+    "poss": 10.3,
+    "pF": 9.9,
+    "pA": 10.6,
+    "ortg": 91.1,
+    "drtg": 131.6,
+    "net": -40.5,
+    "efg": 29.2,
+    "oefg": 50.0,
+    "games": 2
+   },
+   {
+    "players": [
      "Jaborri Mcghee",
      "Josef Potoček",
      "Ladislav Pecka",
@@ -862,28 +928,6 @@
     "efg": 35.0,
     "oefg": 77.8,
     "games": 3
-   },
-   {
-    "players": [
-     "David Žikla",
-     "Filip Kábrt",
-     "Jaborri Mcghee",
-     "Ladislav Pecka",
-     "Rhyjon Blackwell"
-    ],
-    "min": 5.4,
-    "pf": 8,
-    "pa": 7,
-    "pm": 1,
-    "poss": 10.9,
-    "pF": 11.0,
-    "pA": 10.8,
-    "ortg": 72.7,
-    "drtg": 65.1,
-    "net": 7.7,
-    "efg": 44.4,
-    "oefg": 41.7,
-    "games": 5
    },
    {
     "players": [
@@ -1019,6 +1063,28 @@
    },
    {
     "players": [
+     "Chayce Polynice",
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Kobe Langley",
+     "Petr Krupka"
+    ],
+    "min": 3.2,
+    "pf": 12,
+    "pa": 6,
+    "pm": 6,
+    "poss": 5.9,
+    "pF": 6.8,
+    "pA": 5.0,
+    "ortg": 177.5,
+    "drtg": 120.0,
+    "net": 57.5,
+    "efg": 80.0,
+    "oefg": 60.0,
+    "games": 2
+   },
+   {
+    "players": [
      "David Žikla",
      "Jaborri Mcghee",
      "Josef Potoček",
@@ -1059,28 +1125,6 @@
     "net": -83.6,
     "efg": 25.0,
     "oefg": 75.0,
-    "games": 1
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Filip Kábrt",
-     "Jaborri Mcghee",
-     "Kobe Langley",
-     "Niels Lane"
-    ],
-    "min": 3.0,
-    "pf": 5,
-    "pa": 8,
-    "pm": -3,
-    "poss": 6.3,
-    "pF": 5.9,
-    "pA": 6.6,
-    "ortg": 85.0,
-    "drtg": 120.5,
-    "net": -35.4,
-    "efg": 30.0,
-    "oefg": 30.0,
     "games": 1
    },
    {
@@ -1148,28 +1192,6 @@
     "efg": 64.3,
     "oefg": 22.2,
     "games": 1
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Jaborri Mcghee",
-     "Kobe Langley",
-     "Ladislav Pecka",
-     "Niels Lane"
-    ],
-    "min": 2.6,
-    "pf": 7,
-    "pa": 5,
-    "pm": 2,
-    "poss": 4.5,
-    "pF": 5.0,
-    "pA": 4.0,
-    "ortg": 140.0,
-    "drtg": 125.0,
-    "net": 15.0,
-    "efg": 87.5,
-    "oefg": 62.5,
-    "games": 1
    }
   ],
   "trios": [
@@ -1179,18 +1201,18 @@
      "Jaborri Mcghee",
      "Kobe Langley"
     ],
-    "min": 139.7,
-    "pf": 317,
-    "pa": 254,
-    "pm": 63,
-    "poss": 278.9,
-    "pF": 283.6,
-    "pA": 274.2,
-    "ortg": 111.8,
-    "drtg": 92.6,
-    "net": 19.1,
-    "efg": 53.4,
-    "oefg": 44.6
+    "min": 151.4,
+    "pf": 351,
+    "pa": 280,
+    "pm": 71,
+    "poss": 299.7,
+    "pF": 304.8,
+    "pA": 294.6,
+    "ortg": 115.2,
+    "drtg": 95.1,
+    "net": 20.1,
+    "efg": 54.4,
+    "oefg": 45.7
    },
    {
     "players": [
@@ -1198,18 +1220,18 @@
      "Niels Lane",
      "Rhyjon Blackwell"
     ],
-    "min": 124.3,
-    "pf": 285,
-    "pa": 277,
-    "pm": 8,
-    "poss": 259.3,
-    "pF": 259.9,
-    "pA": 258.7,
-    "ortg": 109.6,
-    "drtg": 107.1,
-    "net": 2.6,
-    "efg": 47.9,
-    "oefg": 49.8
+    "min": 137.2,
+    "pf": 310,
+    "pa": 296,
+    "pm": 14,
+    "poss": 284.2,
+    "pF": 284.6,
+    "pA": 283.9,
+    "ortg": 108.9,
+    "drtg": 104.3,
+    "net": 4.7,
+    "efg": 48.8,
+    "oefg": 48.3
    },
    {
     "players": [
@@ -1217,18 +1239,18 @@
      "Filip Kábrt",
      "Kobe Langley"
     ],
-    "min": 123.1,
-    "pf": 261,
-    "pa": 231,
-    "pm": 30,
-    "poss": 250.1,
-    "pF": 254.0,
-    "pA": 246.1,
-    "ortg": 102.7,
-    "drtg": 93.9,
-    "net": 8.9,
-    "efg": 50.7,
-    "oefg": 44.4
+    "min": 132.4,
+    "pf": 278,
+    "pa": 249,
+    "pm": 29,
+    "poss": 264.2,
+    "pF": 267.9,
+    "pA": 260.4,
+    "ortg": 103.8,
+    "drtg": 95.6,
+    "net": 8.1,
+    "efg": 49.6,
+    "oefg": 45.8
    },
    {
     "players": [
@@ -1236,18 +1258,18 @@
      "Jaborri Mcghee",
      "Kobe Langley"
     ],
-    "min": 114.3,
-    "pf": 247,
-    "pa": 206,
-    "pm": 41,
-    "poss": 225.2,
-    "pF": 229.6,
-    "pA": 220.7,
-    "ortg": 107.6,
-    "drtg": 93.3,
-    "net": 14.2,
-    "efg": 52.5,
-    "oefg": 46.1
+    "min": 126.5,
+    "pf": 274,
+    "pa": 230,
+    "pm": 44,
+    "poss": 246.7,
+    "pF": 251.4,
+    "pA": 242.0,
+    "ortg": 109.0,
+    "drtg": 95.0,
+    "net": 13.9,
+    "efg": 53.0,
+    "oefg": 47.3
    },
    {
     "players": [
@@ -1255,18 +1277,18 @@
      "Filip Kábrt",
      "Jaborri Mcghee"
     ],
-    "min": 113.3,
-    "pf": 250,
-    "pa": 202,
-    "pm": 48,
-    "poss": 229.1,
-    "pF": 233.3,
-    "pA": 225.0,
-    "ortg": 107.2,
-    "drtg": 89.8,
-    "net": 17.4,
-    "efg": 51.8,
-    "oefg": 43.4
+    "min": 125.5,
+    "pf": 273,
+    "pa": 228,
+    "pm": 45,
+    "poss": 251.4,
+    "pF": 255.0,
+    "pA": 247.8,
+    "ortg": 107.0,
+    "drtg": 92.0,
+    "net": 15.0,
+    "efg": 50.9,
+    "oefg": 45.1
    },
    {
     "players": [
@@ -1274,18 +1296,18 @@
      "Niels Lane",
      "Rhyjon Blackwell"
     ],
-    "min": 106.9,
-    "pf": 230,
-    "pa": 226,
-    "pm": 4,
-    "poss": 222.4,
-    "pF": 223.0,
-    "pA": 221.8,
-    "ortg": 103.1,
-    "drtg": 101.9,
-    "net": 1.2,
-    "efg": 50.0,
-    "oefg": 50.6
+    "min": 122.5,
+    "pf": 259,
+    "pa": 250,
+    "pm": 9,
+    "poss": 251.8,
+    "pF": 252.0,
+    "pA": 251.7,
+    "ortg": 102.8,
+    "drtg": 99.3,
+    "net": 3.5,
+    "efg": 50.7,
+    "oefg": 49.0
    },
    {
     "players": [
@@ -1293,189 +1315,75 @@
      "Niels Lane",
      "Rhyjon Blackwell"
     ],
-    "min": 101.7,
-    "pf": 242,
-    "pa": 213,
-    "pm": 29,
-    "poss": 209.4,
-    "pF": 208.6,
-    "pA": 210.2,
-    "ortg": 116.0,
-    "drtg": 101.3,
-    "net": 14.7,
-    "efg": 52.6,
-    "oefg": 48.5
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Jaborri Mcghee",
-     "Josef Potoček"
-    ],
-    "min": 101.3,
-    "pf": 226,
-    "pa": 176,
-    "pm": 50,
-    "poss": 209.1,
-    "pF": 212.4,
-    "pA": 205.8,
-    "ortg": 106.4,
-    "drtg": 85.5,
-    "net": 20.9,
-    "efg": 51.1,
-    "oefg": 42.9
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Josef Potoček",
-     "Kobe Langley"
-    ],
-    "min": 98.0,
-    "pf": 212,
-    "pa": 174,
-    "pm": 38,
-    "poss": 198.4,
-    "pF": 201.0,
-    "pA": 195.7,
-    "ortg": 105.5,
-    "drtg": 88.9,
-    "net": 16.6,
-    "efg": 52.0,
-    "oefg": 40.7
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Kobe Langley",
-     "Ladislav Pecka"
-    ],
-    "min": 97.6,
-    "pf": 200,
-    "pa": 206,
-    "pm": -6,
-    "poss": 193.4,
-    "pF": 193.4,
-    "pA": 193.4,
-    "ortg": 103.4,
-    "drtg": 106.5,
-    "net": -3.1,
-    "efg": 47.9,
-    "oefg": 51.1
-   },
-   {
-    "players": [
-     "Jaborri Mcghee",
-     "Josef Potoček",
-     "Kobe Langley"
-    ],
-    "min": 93.8,
-    "pf": 223,
-    "pa": 155,
-    "pm": 68,
-    "poss": 190.6,
-    "pF": 195.9,
-    "pA": 185.2,
-    "ortg": 113.8,
-    "drtg": 83.7,
-    "net": 30.1,
-    "efg": 54.7,
-    "oefg": 41.1
-   },
-   {
-    "players": [
-     "Jaborri Mcghee",
-     "Kobe Langley",
-     "Ladislav Pecka"
-    ],
-    "min": 93.8,
-    "pf": 198,
-    "pa": 195,
-    "pm": 3,
-    "poss": 180.7,
-    "pF": 179.8,
-    "pA": 181.6,
-    "ortg": 110.1,
-    "drtg": 107.4,
-    "net": 2.7,
-    "efg": 50.3,
-    "oefg": 52.8
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Kobe Langley",
-     "Ladislav Pecka"
-    ],
-    "min": 92.8,
-    "pf": 184,
-    "pa": 177,
-    "pm": 7,
-    "poss": 176.7,
-    "pF": 179.6,
-    "pA": 173.8,
-    "ortg": 102.5,
-    "drtg": 101.8,
-    "net": 0.7,
-    "efg": 47.5,
-    "oefg": 44.2
-   },
-   {
-    "players": [
-     "Jaborri Mcghee",
-     "Ladislav Pecka",
-     "Niels Lane"
-    ],
-    "min": 92.7,
-    "pf": 219,
-    "pa": 202,
-    "pm": 17,
-    "poss": 191.6,
-    "pF": 194.5,
-    "pA": 188.8,
-    "ortg": 112.6,
-    "drtg": 107.0,
-    "net": 5.6,
-    "efg": 53.0,
-    "oefg": 54.3
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Josef Potoček",
-     "Kobe Langley"
-    ],
-    "min": 90.0,
-    "pf": 207,
-    "pa": 169,
-    "pm": 38,
-    "poss": 182.6,
-    "pF": 185.5,
-    "pA": 179.7,
-    "ortg": 111.6,
-    "drtg": 94.1,
-    "net": 17.5,
-    "efg": 53.3,
+    "min": 116.4,
+    "pf": 269,
+    "pa": 234,
+    "pm": 35,
+    "poss": 237.4,
+    "pF": 236.6,
+    "pA": 238.2,
+    "ortg": 113.7,
+    "drtg": 98.3,
+    "net": 15.4,
+    "efg": 52.9,
     "oefg": 46.6
    },
    {
     "players": [
      "Filip Kábrt",
      "Jaborri Mcghee",
-     "Ladislav Pecka"
+     "Josef Potoček"
     ],
-    "min": 89.7,
-    "pf": 185,
+    "min": 110.8,
+    "pf": 252,
     "pa": 202,
-    "pm": -17,
-    "poss": 179.0,
-    "pF": 179.0,
-    "pA": 179.0,
-    "ortg": 103.3,
-    "drtg": 112.8,
-    "net": -9.5,
-    "efg": 51.3,
-    "oefg": 53.8
+    "pm": 50,
+    "poss": 227.9,
+    "pF": 230.6,
+    "pA": 225.2,
+    "ortg": 109.3,
+    "drtg": 89.7,
+    "net": 19.6,
+    "efg": 52.5,
+    "oefg": 44.6
+   },
+   {
+    "players": [
+     "Jaborri Mcghee",
+     "Ladislav Pecka",
+     "Niels Lane"
+    ],
+    "min": 110.3,
+    "pf": 254,
+    "pa": 231,
+    "pm": 23,
+    "poss": 226.2,
+    "pF": 229.0,
+    "pA": 223.4,
+    "ortg": 110.9,
+    "drtg": 103.4,
+    "net": 7.5,
+    "efg": 54.4,
+    "oefg": 52.0
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Josef Potoček",
+     "Kobe Langley"
+    ],
+    "min": 103.9,
+    "pf": 234,
+    "pa": 190,
+    "pm": 44,
+    "poss": 210.2,
+    "pF": 213.3,
+    "pA": 207.1,
+    "ortg": 109.7,
+    "drtg": 91.7,
+    "net": 18.0,
+    "efg": 54.3,
+    "oefg": 41.5
    },
    {
     "players": [
@@ -1483,18 +1391,18 @@
      "Ladislav Pecka",
      "Rhyjon Blackwell"
     ],
-    "min": 88.4,
-    "pf": 197,
-    "pa": 201,
-    "pm": -4,
-    "poss": 186.9,
-    "pF": 188.0,
-    "pA": 185.9,
-    "ortg": 104.8,
-    "drtg": 108.1,
-    "net": -3.3,
-    "efg": 50.9,
-    "oefg": 52.2
+    "min": 103.2,
+    "pf": 224,
+    "pa": 225,
+    "pm": -1,
+    "poss": 216.3,
+    "pF": 216.6,
+    "pA": 216.0,
+    "ortg": 103.4,
+    "drtg": 104.2,
+    "net": -0.8,
+    "efg": 51.9,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -1502,18 +1410,132 @@
      "Jaborri Mcghee",
      "Rhyjon Blackwell"
     ],
-    "min": 85.3,
-    "pf": 179,
-    "pa": 161,
-    "pm": 18,
-    "poss": 175.8,
-    "pF": 173.7,
-    "pA": 177.9,
-    "ortg": 103.1,
-    "drtg": 90.5,
-    "net": 12.6,
-    "efg": 50.0,
-    "oefg": 49.6
+    "min": 101.6,
+    "pf": 209,
+    "pa": 182,
+    "pm": 27,
+    "poss": 207.2,
+    "pF": 204.6,
+    "pA": 209.8,
+    "ortg": 102.1,
+    "drtg": 86.7,
+    "net": 15.4,
+    "efg": 50.6,
+    "oefg": 46.3
+   },
+   {
+    "players": [
+     "Jaborri Mcghee",
+     "Josef Potoček",
+     "Kobe Langley"
+    ],
+    "min": 101.5,
+    "pf": 250,
+    "pa": 171,
+    "pm": 79,
+    "poss": 206.4,
+    "pF": 212.2,
+    "pA": 200.6,
+    "ortg": 117.8,
+    "drtg": 85.2,
+    "net": 32.6,
+    "efg": 57.0,
+    "oefg": 41.5
+   },
+   {
+    "players": [
+     "Jaborri Mcghee",
+     "Kobe Langley",
+     "Ladislav Pecka"
+    ],
+    "min": 100.4,
+    "pf": 212,
+    "pa": 205,
+    "pm": 7,
+    "poss": 193.3,
+    "pF": 192.6,
+    "pA": 194.0,
+    "ortg": 110.1,
+    "drtg": 105.7,
+    "net": 4.4,
+    "efg": 50.9,
+    "oefg": 52.3
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Kobe Langley",
+     "Ladislav Pecka"
+    ],
+    "min": 99.4,
+    "pf": 204,
+    "pa": 206,
+    "pm": -2,
+    "poss": 196.3,
+    "pF": 196.2,
+    "pA": 196.4,
+    "ortg": 104.0,
+    "drtg": 104.9,
+    "net": -1.0,
+    "efg": 47.6,
+    "oefg": 50.6
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Kobe Langley",
+     "Ladislav Pecka"
+    ],
+    "min": 99.3,
+    "pf": 198,
+    "pa": 187,
+    "pm": 11,
+    "poss": 189.3,
+    "pF": 192.3,
+    "pA": 186.3,
+    "ortg": 103.0,
+    "drtg": 100.4,
+    "net": 2.6,
+    "efg": 48.2,
+    "oefg": 44.2
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Ladislav Pecka"
+    ],
+    "min": 93.5,
+    "pf": 191,
+    "pa": 207,
+    "pm": -16,
+    "poss": 186.4,
+    "pF": 185.9,
+    "pA": 186.9,
+    "ortg": 102.7,
+    "drtg": 110.8,
+    "net": -8.0,
+    "efg": 50.9,
+    "oefg": 53.0
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Josef Potoček",
+     "Kobe Langley"
+    ],
+    "min": 91.8,
+    "pf": 212,
+    "pa": 173,
+    "pm": 39,
+    "poss": 185.5,
+    "pF": 188.5,
+    "pA": 182.6,
+    "ortg": 112.5,
+    "drtg": 94.8,
+    "net": 17.7,
+    "efg": 53.8,
+    "oefg": 47.0
    },
    {
     "players": [
@@ -1521,37 +1543,18 @@
      "Jaborri Mcghee",
      "Josef Potoček"
     ],
-    "min": 84.2,
-    "pf": 180,
-    "pa": 137,
-    "pm": 43,
-    "poss": 169.7,
-    "pF": 172.9,
-    "pA": 166.5,
-    "ortg": 104.1,
-    "drtg": 82.3,
-    "net": 21.8,
-    "efg": 49.4,
-    "oefg": 40.4
-   },
-   {
-    "players": [
-     "Kobe Langley",
-     "Ladislav Pecka",
-     "Niels Lane"
-    ],
-    "min": 84.0,
-    "pf": 196,
-    "pa": 161,
-    "pm": 35,
-    "poss": 164.4,
-    "pF": 165.3,
-    "pA": 163.5,
-    "ortg": 118.6,
-    "drtg": 98.5,
+    "min": 89.0,
+    "pf": 189,
+    "pa": 148,
+    "pm": 41,
+    "poss": 179.1,
+    "pF": 181.8,
+    "pA": 176.4,
+    "ortg": 104.0,
+    "drtg": 83.9,
     "net": 20.1,
-    "efg": 48.7,
-    "oefg": 47.4
+    "efg": 49.1,
+    "oefg": 41.5
    },
    {
     "players": [
@@ -1559,18 +1562,75 @@
      "Josef Potoček",
      "Rhyjon Blackwell"
     ],
-    "min": 83.3,
-    "pf": 144,
-    "pa": 172,
-    "pm": -28,
-    "poss": 171.1,
-    "pF": 168.4,
-    "pA": 173.8,
-    "ortg": 85.5,
+    "min": 88.6,
+    "pf": 153,
+    "pa": 182,
+    "pm": -29,
+    "poss": 182.0,
+    "pF": 178.2,
+    "pA": 185.8,
+    "ortg": 85.8,
+    "drtg": 97.9,
+    "net": -12.1,
+    "efg": 40.0,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Kobe Langley",
+     "Ladislav Pecka",
+     "Niels Lane"
+    ],
+    "min": 88.6,
+    "pf": 206,
+    "pa": 171,
+    "pm": 35,
+    "poss": 174.1,
+    "pF": 175.2,
+    "pA": 173.0,
+    "ortg": 117.6,
     "drtg": 98.9,
-    "net": -13.4,
-    "efg": 40.1,
-    "oefg": 49.7
+    "net": 18.7,
+    "efg": 49.7,
+    "oefg": 47.9
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Jaborri Mcghee",
+     "Ladislav Pecka"
+    ],
+    "min": 85.1,
+    "pf": 176,
+    "pa": 185,
+    "pm": -9,
+    "poss": 175.8,
+    "pF": 179.7,
+    "pA": 171.9,
+    "ortg": 98.0,
+    "drtg": 107.6,
+    "net": -9.7,
+    "efg": 51.8,
+    "oefg": 50.7
+   },
+   {
+    "players": [
+     "David Žikla",
+     "Ladislav Pecka",
+     "Rhyjon Blackwell"
+    ],
+    "min": 83.6,
+    "pf": 176,
+    "pa": 184,
+    "pm": -8,
+    "poss": 171.5,
+    "pF": 167.9,
+    "pA": 175.0,
+    "ortg": 104.8,
+    "drtg": 105.1,
+    "net": -0.3,
+    "efg": 49.6,
+    "oefg": 48.3
    },
    {
     "players": [
@@ -1578,18 +1638,37 @@
      "Josef Potoček",
      "Rhyjon Blackwell"
     ],
-    "min": 82.0,
-    "pf": 164,
+    "min": 83.3,
+    "pf": 167,
     "pa": 164,
-    "pm": 0,
-    "poss": 168.5,
-    "pF": 168.2,
-    "pA": 168.8,
+    "pm": 3,
+    "poss": 171.5,
+    "pF": 171.2,
+    "pA": 171.8,
     "ortg": 97.5,
-    "drtg": 97.2,
-    "net": 0.3,
-    "efg": 45.4,
-    "oefg": 51.2
+    "drtg": 95.5,
+    "net": 2.1,
+    "efg": 45.5,
+    "oefg": 50.4
+   },
+   {
+    "players": [
+     "David Žikla",
+     "Jaborri Mcghee",
+     "Niels Lane"
+    ],
+    "min": 82.3,
+    "pf": 185,
+    "pa": 136,
+    "pm": 49,
+    "poss": 166.3,
+    "pF": 166.8,
+    "pA": 165.9,
+    "ortg": 110.9,
+    "drtg": 82.0,
+    "net": 29.0,
+    "efg": 56.6,
+    "oefg": 41.6
    },
    {
     "players": [
@@ -1597,18 +1676,56 @@
      "Niels Lane",
      "Rhyjon Blackwell"
     ],
-    "min": 80.5,
-    "pf": 195,
+    "min": 80.9,
+    "pf": 197,
     "pa": 159,
-    "pm": 36,
-    "poss": 162.3,
-    "pF": 164.6,
-    "pA": 160.1,
-    "ortg": 118.5,
-    "drtg": 99.3,
-    "net": 19.1,
-    "efg": 47.1,
+    "pm": 38,
+    "poss": 163.3,
+    "pF": 165.6,
+    "pA": 161.1,
+    "ortg": 119.0,
+    "drtg": 98.7,
+    "net": 20.3,
+    "efg": 47.4,
     "oefg": 46.9
+   },
+   {
+    "players": [
+     "Josef Potoček",
+     "Niels Lane",
+     "Rhyjon Blackwell"
+    ],
+    "min": 77.8,
+    "pf": 155,
+    "pa": 158,
+    "pm": -3,
+    "poss": 156.7,
+    "pF": 156.7,
+    "pA": 156.8,
+    "ortg": 98.9,
+    "drtg": 100.8,
+    "net": -1.8,
+    "efg": 45.3,
+    "oefg": 52.4
+   },
+   {
+    "players": [
+     "David Žikla",
+     "Ladislav Pecka",
+     "Niels Lane"
+    ],
+    "min": 77.6,
+    "pf": 185,
+    "pa": 154,
+    "pm": 31,
+    "poss": 156.4,
+    "pF": 154.0,
+    "pA": 158.9,
+    "ortg": 120.2,
+    "drtg": 96.9,
+    "net": 23.2,
+    "efg": 55.8,
+    "oefg": 45.5
    },
    {
     "players": [
@@ -1631,41 +1748,22 @@
    },
    {
     "players": [
-     "Chayce Polynice",
+     "David Žikla",
      "Jaborri Mcghee",
      "Ladislav Pecka"
     ],
-    "min": 77.0,
-    "pf": 160,
-    "pa": 170,
-    "pm": -10,
-    "poss": 159.3,
-    "pF": 162.9,
-    "pA": 155.6,
-    "ortg": 98.2,
-    "drtg": 109.3,
-    "net": -11.0,
-    "efg": 51.2,
-    "oefg": 50.7
-   },
-   {
-    "players": [
-     "Josef Potoček",
-     "Niels Lane",
-     "Rhyjon Blackwell"
-    ],
-    "min": 76.9,
-    "pf": 153,
-    "pa": 155,
-    "pm": -2,
-    "poss": 155.2,
-    "pF": 155.7,
-    "pA": 154.8,
-    "ortg": 98.3,
-    "drtg": 100.1,
-    "net": -1.9,
-    "efg": 44.9,
-    "oefg": 51.6
+    "min": 76.6,
+    "pf": 179,
+    "pa": 133,
+    "pm": 46,
+    "poss": 153.2,
+    "pF": 151.0,
+    "pA": 155.4,
+    "ortg": 118.5,
+    "drtg": 85.6,
+    "net": 32.9,
+    "efg": 56.8,
+    "oefg": 43.7
    },
    {
     "players": [
@@ -1673,56 +1771,18 @@
      "Filip Kábrt",
      "Josef Potoček"
     ],
-    "min": 70.5,
-    "pf": 159,
-    "pa": 118,
-    "pm": 41,
-    "poss": 147.1,
-    "pF": 149.3,
-    "pA": 144.8,
-    "ortg": 106.5,
-    "drtg": 81.5,
-    "net": 25.0,
-    "efg": 51.1,
-    "oefg": 39.1
-   },
-   {
-    "players": [
-     "David Žikla",
-     "Ladislav Pecka",
-     "Rhyjon Blackwell"
-    ],
-    "min": 70.3,
-    "pf": 151,
-    "pa": 165,
-    "pm": -14,
-    "poss": 146.0,
-    "pF": 143.2,
-    "pA": 148.8,
-    "ortg": 105.4,
-    "drtg": 110.9,
-    "net": -5.4,
-    "efg": 47.9,
-    "oefg": 51.2
-   },
-   {
-    "players": [
-     "David Žikla",
-     "Jaborri Mcghee",
-     "Niels Lane"
-    ],
-    "min": 67.7,
-    "pf": 158,
-    "pa": 115,
-    "pm": 43,
-    "poss": 138.4,
-    "pF": 138.8,
-    "pA": 137.9,
-    "ortg": 113.8,
+    "min": 75.2,
+    "pf": 168,
+    "pa": 129,
+    "pm": 39,
+    "poss": 156.4,
+    "pF": 158.2,
+    "pA": 154.7,
+    "ortg": 106.2,
     "drtg": 83.4,
-    "net": 30.5,
-    "efg": 57.0,
-    "oefg": 43.6
+    "net": 22.8,
+    "efg": 50.7,
+    "oefg": 40.5
    },
    {
     "players": [
@@ -1730,18 +1790,94 @@
      "Jaborri Mcghee",
      "Josef Potoček"
     ],
-    "min": 66.8,
-    "pf": 132,
-    "pa": 124,
-    "pm": 8,
-    "poss": 137.3,
-    "pF": 137.1,
-    "pA": 137.5,
-    "ortg": 96.3,
+    "min": 72.3,
+    "pf": 152,
+    "pa": 136,
+    "pm": 16,
+    "poss": 149.2,
+    "pF": 149.4,
+    "pA": 149.0,
+    "ortg": 101.7,
+    "drtg": 91.3,
+    "net": 10.5,
+    "efg": 50.4,
+    "oefg": 46.6
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Filip Kábrt",
+     "Ladislav Pecka"
+    ],
+    "min": 69.6,
+    "pf": 143,
+    "pa": 146,
+    "pm": -3,
+    "poss": 139.0,
+    "pF": 140.2,
+    "pA": 137.8,
+    "ortg": 102.0,
+    "drtg": 106.0,
+    "net": -4.0,
+    "efg": 52.2,
+    "oefg": 48.5
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Ladislav Pecka",
+     "Rhyjon Blackwell"
+    ],
+    "min": 67.4,
+    "pf": 153,
+    "pa": 132,
+    "pm": 21,
+    "poss": 141.3,
+    "pF": 146.4,
+    "pA": 136.2,
+    "ortg": 104.5,
+    "drtg": 96.9,
+    "net": 7.6,
+    "efg": 47.3,
+    "oefg": 41.8
+   },
+   {
+    "players": [
+     "Jaborri Mcghee",
+     "Josef Potoček",
+     "Niels Lane"
+    ],
+    "min": 67.2,
+    "pf": 121,
+    "pa": 140,
+    "pm": -19,
+    "poss": 133.2,
+    "pF": 131.8,
+    "pA": 134.6,
+    "ortg": 91.8,
+    "drtg": 104.0,
+    "net": -12.2,
+    "efg": 44.7,
+    "oefg": 52.2
+   },
+   {
+    "players": [
+     "David Žikla",
+     "Filip Kábrt",
+     "Jaborri Mcghee"
+    ],
+    "min": 67.2,
+    "pf": 155,
+    "pa": 122,
+    "pm": 33,
+    "poss": 135.2,
+    "pF": 135.2,
+    "pA": 135.3,
+    "ortg": 114.7,
     "drtg": 90.2,
-    "net": 6.1,
-    "efg": 47.4,
-    "oefg": 46.9
+    "net": 24.5,
+    "efg": 54.2,
+    "oefg": 43.9
    },
    {
     "players": [
@@ -1764,174 +1900,98 @@
    },
    {
     "players": [
-     "Jaborri Mcghee",
-     "Josef Potoček",
+     "Chayce Polynice",
+     "Kobe Langley",
      "Niels Lane"
     ],
-    "min": 66.3,
-    "pf": 119,
-    "pa": 137,
-    "pm": -18,
-    "poss": 131.7,
-    "pF": 130.8,
-    "pA": 132.6,
-    "ortg": 91.0,
-    "drtg": 103.3,
-    "net": -12.3,
-    "efg": 44.2,
-    "oefg": 51.4
+    "min": 63.8,
+    "pf": 143,
+    "pa": 130,
+    "pm": 13,
+    "poss": 123.8,
+    "pF": 125.3,
+    "pA": 122.3,
+    "ortg": 114.1,
+    "drtg": 106.3,
+    "net": 7.8,
+    "efg": 48.4,
+    "oefg": 48.6
    },
    {
     "players": [
-     "Chayce Polynice",
-     "Filip Kábrt",
-     "Ladislav Pecka"
+     "Jaborri Mcghee",
+     "Kobe Langley",
+     "Niels Lane"
     ],
-    "min": 66.1,
-    "pf": 137,
-    "pa": 141,
-    "pm": -4,
-    "poss": 132.1,
-    "pF": 133.3,
-    "pA": 130.9,
-    "ortg": 102.8,
-    "drtg": 107.7,
-    "net": -4.9,
-    "efg": 52.8,
-    "oefg": 48.8
+    "min": 63.0,
+    "pf": 151,
+    "pa": 123,
+    "pm": 28,
+    "poss": 121.4,
+    "pF": 124.3,
+    "pA": 118.5,
+    "ortg": 121.5,
+    "drtg": 103.8,
+    "net": 17.7,
+    "efg": 55.8,
+    "oefg": 51.0
    },
    {
     "players": [
      "Chayce Polynice",
-     "Ladislav Pecka",
+     "Jaborri Mcghee",
+     "Niels Lane"
+    ],
+    "min": 61.5,
+    "pf": 131,
+    "pa": 147,
+    "pm": -16,
+    "poss": 127.7,
+    "pF": 129.0,
+    "pA": 126.5,
+    "ortg": 101.6,
+    "drtg": 116.2,
+    "net": -14.6,
+    "efg": 49.5,
+    "oefg": 55.3
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Josef Potoček",
      "Rhyjon Blackwell"
     ],
-    "min": 65.8,
-    "pf": 151,
-    "pa": 127,
-    "pm": 24,
-    "poss": 137.3,
-    "pF": 142.4,
-    "pA": 132.3,
-    "ortg": 106.1,
-    "drtg": 96.0,
-    "net": 10.1,
-    "efg": 47.3,
-    "oefg": 41.2
+    "min": 61.4,
+    "pf": 104,
+    "pa": 153,
+    "pm": -49,
+    "poss": 123.8,
+    "pF": 119.2,
+    "pA": 128.5,
+    "ortg": 87.3,
+    "drtg": 119.1,
+    "net": -31.8,
+    "efg": 40.3,
+    "oefg": 52.0
    },
    {
     "players": [
-     "David Žikla",
-     "Ladislav Pecka",
-     "Niels Lane"
-    ],
-    "min": 64.6,
-    "pf": 160,
-    "pa": 135,
-    "pm": 25,
-    "poss": 131.5,
-    "pF": 129.3,
-    "pA": 133.7,
-    "ortg": 123.7,
-    "drtg": 101.0,
-    "net": 22.7,
-    "efg": 55.0,
-    "oefg": 47.8
-   },
-   {
-    "players": [
-     "David Žikla",
-     "Jaborri Mcghee",
-     "Ladislav Pecka"
-    ],
-    "min": 63.3,
-    "pf": 154,
-    "pa": 114,
-    "pm": 40,
-    "poss": 127.8,
-    "pF": 126.4,
-    "pA": 129.2,
-    "ortg": 121.9,
-    "drtg": 88.3,
-    "net": 33.6,
-    "efg": 56.2,
-    "oefg": 46.2
-   },
-   {
-    "players": [
-     "David Žikla",
-     "Filip Kábrt",
-     "Jaborri Mcghee"
-    ],
-    "min": 61.0,
-    "pf": 136,
-    "pa": 108,
-    "pm": 28,
-    "poss": 122.8,
-    "pF": 122.5,
-    "pA": 123.0,
-    "ortg": 111.0,
-    "drtg": 87.8,
-    "net": 23.2,
-    "efg": 52.3,
-    "oefg": 44.0
-   },
-   {
-    "players": [
-     "Filip Kábrt",
      "Josef Potoček",
+     "Kobe Langley",
      "Rhyjon Blackwell"
     ],
     "min": 57.8,
-    "pf": 100,
-    "pa": 143,
-    "pm": -43,
-    "poss": 116.9,
-    "pF": 113.3,
-    "pA": 120.5,
-    "ortg": 88.3,
-    "drtg": 118.7,
-    "net": -30.4,
-    "efg": 41.5,
-    "oefg": 50.9
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Kobe Langley",
-     "Niels Lane"
-    ],
-    "min": 56.4,
-    "pf": 129,
-    "pa": 114,
-    "pm": 15,
-    "poss": 110.1,
-    "pF": 111.4,
-    "pA": 108.8,
-    "ortg": 115.8,
-    "drtg": 104.7,
-    "net": 11.0,
-    "efg": 48.2,
-    "oefg": 46.8
-   },
-   {
-    "players": [
-     "Josef Potoček",
-     "Kobe Langley",
-     "Rhyjon Blackwell"
-    ],
-    "min": 56.1,
-    "pf": 122,
+    "pf": 127,
     "pa": 138,
-    "pm": -16,
-    "poss": 112.5,
-    "pF": 113.9,
-    "pA": 111.1,
-    "ortg": 107.1,
-    "drtg": 124.2,
-    "net": -17.1,
-    "efg": 48.3,
-    "oefg": 57.5
+    "pm": -11,
+    "poss": 116.5,
+    "pF": 117.9,
+    "pA": 115.1,
+    "ortg": 107.7,
+    "drtg": 119.9,
+    "net": -12.2,
+    "efg": 48.9,
+    "oefg": 56.2
    },
    {
     "players": [
@@ -1939,75 +1999,18 @@
      "Kobe Langley",
      "Rhyjon Blackwell"
     ],
-    "min": 56.0,
+    "min": 57.7,
     "pf": 116,
-    "pa": 122,
-    "pm": -6,
-    "poss": 111.9,
-    "pF": 113.1,
-    "pA": 110.7,
-    "ortg": 102.6,
-    "drtg": 110.2,
-    "net": -7.6,
-    "efg": 43.8,
-    "oefg": 44.7
-   },
-   {
-    "players": [
-     "Josef Potoček",
-     "Kobe Langley",
-     "Niels Lane"
-    ],
-    "min": 55.3,
-    "pf": 132,
-    "pa": 117,
-    "pm": 15,
-    "poss": 110.3,
-    "pF": 112.1,
-    "pA": 108.5,
-    "ortg": 117.8,
-    "drtg": 107.9,
-    "net": 9.9,
-    "efg": 49.5,
-    "oefg": 52.4
-   },
-   {
-    "players": [
-     "Jaborri Mcghee",
-     "Kobe Langley",
-     "Niels Lane"
-    ],
-    "min": 55.2,
-    "pf": 135,
-    "pa": 107,
-    "pm": 28,
-    "poss": 106.7,
-    "pF": 109.4,
-    "pA": 104.0,
-    "ortg": 123.4,
-    "drtg": 102.8,
-    "net": 20.6,
-    "efg": 56.1,
-    "oefg": 49.4
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Jaborri Mcghee",
-     "Niels Lane"
-    ],
-    "min": 54.2,
-    "pf": 117,
-    "pa": 131,
-    "pm": -14,
+    "pa": 126,
+    "pm": -10,
     "poss": 114.1,
     "pF": 115.1,
-    "pA": 113.0,
-    "ortg": 101.7,
-    "drtg": 115.9,
-    "net": -14.2,
-    "efg": 49.5,
-    "oefg": 54.3
+    "pA": 113.2,
+    "ortg": 100.8,
+    "drtg": 111.3,
+    "net": -10.5,
+    "efg": 41.7,
+    "oefg": 45.7
    },
    {
     "players": [
@@ -2015,18 +2018,18 @@
      "Filip Kábrt",
      "Kobe Langley"
     ],
-    "min": 53.5,
-    "pf": 112,
-    "pa": 105,
-    "pm": 7,
-    "poss": 103.2,
-    "pF": 103.1,
-    "pA": 103.3,
-    "ortg": 108.7,
-    "drtg": 101.7,
-    "net": 7.0,
-    "efg": 49.5,
-    "oefg": 46.1
+    "min": 57.7,
+    "pf": 129,
+    "pa": 117,
+    "pm": 12,
+    "poss": 112.1,
+    "pF": 112.4,
+    "pA": 111.8,
+    "ortg": 114.8,
+    "drtg": 104.7,
+    "net": 10.1,
+    "efg": 53.0,
+    "oefg": 46.8
    },
    {
     "players": [
@@ -2034,18 +2037,132 @@
      "Filip Kábrt",
      "Josef Potoček"
     ],
-    "min": 53.1,
-    "pf": 104,
-    "pa": 103,
-    "pm": 1,
-    "poss": 104.4,
-    "pF": 104.3,
-    "pA": 104.4,
-    "ortg": 99.7,
-    "drtg": 98.7,
-    "net": 1.0,
-    "efg": 48.3,
-    "oefg": 44.6
+    "min": 57.3,
+    "pf": 121,
+    "pa": 115,
+    "pm": 6,
+    "poss": 113.3,
+    "pF": 113.6,
+    "pA": 112.9,
+    "ortg": 106.5,
+    "drtg": 101.8,
+    "net": 4.6,
+    "efg": 52.1,
+    "oefg": 45.4
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Jaborri Mcghee",
+     "Rhyjon Blackwell"
+    ],
+    "min": 56.0,
+    "pf": 120,
+    "pa": 116,
+    "pm": 4,
+    "poss": 121.3,
+    "pF": 122.8,
+    "pA": 119.8,
+    "ortg": 97.7,
+    "drtg": 96.8,
+    "net": 0.9,
+    "efg": 45.0,
+    "oefg": 42.2
+   },
+   {
+    "players": [
+     "David Žikla",
+     "Josef Potoček",
+     "Kobe Langley"
+    ],
+    "min": 55.9,
+    "pf": 127,
+    "pa": 109,
+    "pm": 18,
+    "poss": 113.6,
+    "pF": 116.5,
+    "pA": 110.6,
+    "ortg": 109.0,
+    "drtg": 98.5,
+    "net": 10.5,
+    "efg": 52.6,
+    "oefg": 42.2
+   },
+   {
+    "players": [
+     "Josef Potoček",
+     "Kobe Langley",
+     "Niels Lane"
+    ],
+    "min": 55.8,
+    "pf": 134,
+    "pa": 117,
+    "pm": 17,
+    "poss": 111.3,
+    "pF": 113.1,
+    "pA": 109.5,
+    "ortg": 118.5,
+    "drtg": 106.9,
+    "net": 11.6,
+    "efg": 50.0,
+    "oefg": 52.4
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Ladislav Pecka",
+     "Niels Lane"
+    ],
+    "min": 55.7,
+    "pf": 124,
+    "pa": 119,
+    "pm": 5,
+    "poss": 117.9,
+    "pF": 121.2,
+    "pA": 114.6,
+    "ortg": 102.3,
+    "drtg": 103.8,
+    "net": -1.5,
+    "efg": 48.2,
+    "oefg": 49.0
+   },
+   {
+    "players": [
+     "David Žikla",
+     "Jaborri Mcghee",
+     "Kobe Langley"
+    ],
+    "min": 55.7,
+    "pf": 145,
+    "pa": 93,
+    "pm": 52,
+    "poss": 110.9,
+    "pF": 111.7,
+    "pA": 110.1,
+    "ortg": 129.8,
+    "drtg": 84.5,
+    "net": 45.3,
+    "efg": 61.1,
+    "oefg": 38.9
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Rhyjon Blackwell"
+    ],
+    "min": 55.7,
+    "pf": 105,
+    "pa": 117,
+    "pm": -12,
+    "poss": 115.2,
+    "pF": 112.6,
+    "pA": 117.8,
+    "ortg": 93.2,
+    "drtg": 99.4,
+    "net": -6.1,
+    "efg": 42.6,
+    "oefg": 49.1
    },
    {
     "players": [
@@ -2068,60 +2185,22 @@
    },
    {
     "players": [
-     "Chayce Polynice",
-     "Jaborri Mcghee",
+     "Filip Kábrt",
+     "Ladislav Pecka",
      "Rhyjon Blackwell"
     ],
-    "min": 51.4,
-    "pf": 114,
-    "pa": 104,
-    "pm": 10,
-    "poss": 110.9,
-    "pF": 112.9,
-    "pA": 109.0,
-    "ortg": 101.0,
-    "drtg": 95.4,
-    "net": 5.5,
-    "efg": 46.2,
-    "oefg": 40.5
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Ladislav Pecka",
-     "Niels Lane"
-    ],
-    "min": 51.1,
-    "pf": 114,
-    "pa": 109,
-    "pm": 5,
-    "poss": 108.3,
-    "pF": 111.3,
-    "pA": 105.2,
-    "ortg": 102.4,
-    "drtg": 103.6,
-    "net": -1.2,
-    "efg": 46.6,
-    "oefg": 48.3
-   },
-   {
-    "players": [
-     "David Žikla",
-     "Josef Potoček",
-     "Kobe Langley"
-    ],
-    "min": 50.4,
-    "pf": 107,
-    "pa": 97,
-    "pm": 10,
-    "poss": 101.7,
-    "pF": 104.2,
-    "pA": 99.1,
-    "ortg": 102.7,
-    "drtg": 97.9,
-    "net": 4.8,
-    "efg": 48.9,
-    "oefg": 42.2
+    "min": 51.9,
+    "pf": 88,
+    "pa": 115,
+    "pm": -27,
+    "poss": 107.1,
+    "pF": 105.7,
+    "pA": 108.5,
+    "ortg": 83.3,
+    "drtg": 106.0,
+    "net": -22.7,
+    "efg": 42.9,
+    "oefg": 47.5
    },
    {
     "players": [
@@ -2145,78 +2224,21 @@
    {
     "players": [
      "David Žikla",
-     "Jaborri Mcghee",
-     "Kobe Langley"
-    ],
-    "min": 50.2,
-    "pf": 125,
-    "pa": 81,
-    "pm": 44,
-    "poss": 99.0,
-    "pF": 99.4,
-    "pA": 98.6,
-    "ortg": 125.8,
-    "drtg": 82.2,
-    "net": 43.6,
-    "efg": 58.4,
-    "oefg": 38.8
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Ladislav Pecka",
-     "Rhyjon Blackwell"
-    ],
-    "min": 50.0,
-    "pf": 86,
-    "pa": 110,
-    "pm": -24,
-    "poss": 102.7,
-    "pF": 101.7,
-    "pA": 103.6,
-    "ortg": 84.6,
-    "drtg": 106.1,
-    "net": -21.6,
-    "efg": 42.8,
-    "oefg": 47.4
-   },
-   {
-    "players": [
-     "David Žikla",
      "Kobe Langley",
      "Rhyjon Blackwell"
     ],
-    "min": 48.6,
-    "pf": 99,
+    "min": 49.9,
+    "pf": 102,
     "pa": 109,
-    "pm": -10,
-    "poss": 98.4,
-    "pF": 97.6,
-    "pA": 99.1,
-    "ortg": 101.4,
-    "drtg": 110.0,
-    "net": -8.5,
-    "efg": 41.1,
-    "oefg": 57.4
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Jaborri Mcghee",
-     "Rhyjon Blackwell"
-    ],
-    "min": 48.5,
-    "pf": 97,
-    "pa": 100,
-    "pm": -3,
-    "poss": 100.8,
-    "pF": 99.4,
+    "pm": -7,
+    "poss": 101.4,
+    "pF": 100.6,
     "pA": 102.1,
-    "ortg": 97.5,
-    "drtg": 97.9,
-    "net": -0.4,
-    "efg": 44.8,
-    "oefg": 47.9
+    "ortg": 101.4,
+    "drtg": 106.7,
+    "net": -5.3,
+    "efg": 41.5,
+    "oefg": 55.7
    },
    {
     "players": [
@@ -2224,18 +2246,18 @@
      "Filip Kábrt",
      "Rhyjon Blackwell"
     ],
-    "min": 47.1,
-    "pf": 86,
-    "pa": 100,
+    "min": 49.2,
+    "pf": 88,
+    "pa": 102,
     "pm": -14,
-    "poss": 94.7,
-    "pF": 92.7,
-    "pA": 96.6,
-    "ortg": 92.8,
-    "drtg": 103.5,
-    "net": -10.7,
-    "efg": 45.3,
-    "oefg": 51.3
+    "poss": 98.2,
+    "pF": 96.0,
+    "pA": 100.4,
+    "ortg": 91.7,
+    "drtg": 101.6,
+    "net": -9.9,
+    "efg": 44.2,
+    "oefg": 50.0
    },
    {
     "players": [
@@ -2262,18 +2284,18 @@
      "Josef Potoček",
      "Rhyjon Blackwell"
     ],
-    "min": 42.8,
-    "pf": 73,
-    "pa": 102,
-    "pm": -29,
-    "poss": 84.8,
-    "pF": 83.4,
-    "pA": 86.2,
-    "ortg": 87.5,
-    "drtg": 118.3,
-    "net": -30.8,
-    "efg": 39.0,
-    "oefg": 46.6
+    "min": 45.8,
+    "pf": 77,
+    "pa": 109,
+    "pm": -32,
+    "poss": 91.3,
+    "pF": 89.3,
+    "pA": 93.2,
+    "ortg": 86.2,
+    "drtg": 117.0,
+    "net": -30.7,
+    "efg": 37.7,
+    "oefg": 47.4
    },
    {
     "players": [
@@ -2281,18 +2303,37 @@
      "Kobe Langley",
      "Rhyjon Blackwell"
     ],
-    "min": 39.2,
+    "min": 41.0,
     "pf": 64,
-    "pa": 94,
-    "pm": -30,
-    "poss": 78.9,
-    "pF": 77.8,
-    "pA": 80.0,
-    "ortg": 82.3,
-    "drtg": 117.6,
-    "net": -35.3,
-    "efg": 39.3,
-    "oefg": 52.9
+    "pa": 98,
+    "pm": -34,
+    "poss": 81.1,
+    "pF": 79.8,
+    "pA": 82.4,
+    "ortg": 80.2,
+    "drtg": 118.9,
+    "net": -38.7,
+    "efg": 36.1,
+    "oefg": 54.3
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Filip Kábrt",
+     "Rhyjon Blackwell"
+    ],
+    "min": 38.2,
+    "pf": 72,
+    "pa": 90,
+    "pm": -18,
+    "poss": 79.1,
+    "pF": 77.4,
+    "pA": 80.8,
+    "ortg": 93.0,
+    "drtg": 111.4,
+    "net": -18.5,
+    "efg": 40.6,
+    "oefg": 46.2
    },
    {
     "players": [
@@ -2300,18 +2341,18 @@
      "Filip Kábrt",
      "Ladislav Pecka"
     ],
-    "min": 35.4,
+    "min": 35.7,
     "pf": 70,
     "pa": 73,
     "pm": -3,
-    "poss": 70.9,
+    "poss": 71.4,
     "pF": 70.4,
-    "pA": 71.4,
+    "pA": 72.4,
     "ortg": 99.5,
-    "drtg": 102.3,
-    "net": -2.8,
+    "drtg": 100.9,
+    "net": -1.4,
     "efg": 46.0,
-    "oefg": 48.4
+    "oefg": 47.7
    },
    {
     "players": [
@@ -2350,25 +2391,6 @@
     "net": -37.0,
     "efg": 42.5,
     "oefg": 51.7
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Filip Kábrt",
-     "Rhyjon Blackwell"
-    ],
-    "min": 31.9,
-    "pf": 66,
-    "pa": 74,
-    "pm": -8,
-    "poss": 66.5,
-    "pF": 65.6,
-    "pA": 67.4,
-    "ortg": 100.7,
-    "drtg": 109.7,
-    "net": -9.1,
-    "efg": 46.2,
-    "oefg": 42.9
    },
    {
     "players": [
@@ -2414,18 +2436,18 @@
      "Kobe Langley",
      "Niels Lane"
     ],
-    "min": 19.9,
-    "pf": 51,
-    "pa": 39,
-    "pm": 12,
-    "poss": 41.0,
-    "pF": 42.0,
-    "pA": 40.0,
-    "ortg": 121.3,
-    "drtg": 97.5,
-    "net": 23.8,
-    "efg": 50.0,
-    "oefg": 50.0
+    "min": 22.6,
+    "pf": 55,
+    "pa": 45,
+    "pm": 10,
+    "poss": 45.0,
+    "pF": 46.0,
+    "pA": 44.0,
+    "ortg": 119.5,
+    "drtg": 102.3,
+    "net": 17.2,
+    "efg": 46.7,
+    "oefg": 53.6
    },
    {
     "players": [
@@ -2486,6 +2508,44 @@
    },
    {
     "players": [
+     "Filip Kábrt",
+     "Niels Lane",
+     "Rhyjon Blackwell"
+    ],
+    "min": 18.1,
+    "pf": 38,
+    "pa": 38,
+    "pm": 0,
+    "poss": 34.5,
+    "pF": 35.0,
+    "pA": 34.0,
+    "ortg": 108.4,
+    "drtg": 111.8,
+    "net": -3.3,
+    "efg": 43.5,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Niels Lane"
+    ],
+    "min": 17.5,
+    "pf": 42,
+    "pa": 44,
+    "pm": -2,
+    "poss": 33.6,
+    "pF": 35.3,
+    "pA": 32.0,
+    "ortg": 119.0,
+    "drtg": 137.5,
+    "net": -18.5,
+    "efg": 43.2,
+    "oefg": 73.7
+   },
+   {
+    "players": [
      "Jakub Ševčík",
      "Ladislav Pecka",
      "Niels Lane"
@@ -2540,25 +2600,6 @@
     "net": 19.9,
     "efg": 56.5,
     "oefg": 44.4
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Niels Lane",
-     "Rhyjon Blackwell"
-    ],
-    "min": 15.9,
-    "pf": 36,
-    "pa": 33,
-    "pm": 3,
-    "poss": 31.0,
-    "pF": 31.7,
-    "pA": 30.2,
-    "ortg": 113.5,
-    "drtg": 109.1,
-    "net": 4.4,
-    "efg": 46.6,
-    "oefg": 47.6
    },
    {
     "players": [
@@ -2638,6 +2679,25 @@
    },
    {
     "players": [
+     "Jaborri Mcghee",
+     "Kobe Langley",
+     "Petr Krupka"
+    ],
+    "min": 13.7,
+    "pf": 37,
+    "pa": 25,
+    "pm": 12,
+    "poss": 25.4,
+    "pF": 26.5,
+    "pA": 24.2,
+    "ortg": 139.5,
+    "drtg": 103.3,
+    "net": 36.2,
+    "efg": 64.6,
+    "oefg": 44.4
+   },
+   {
+    "players": [
      "David Žikla",
      "Jakub Ševčík",
      "Rhyjon Blackwell"
@@ -2657,6 +2717,25 @@
    },
    {
     "players": [
+     "Kobe Langley",
+     "Petr Krupka",
+     "Rhyjon Blackwell"
+    ],
+    "min": 12.7,
+    "pf": 28,
+    "pa": 32,
+    "pm": -4,
+    "poss": 23.8,
+    "pF": 23.5,
+    "pA": 24.2,
+    "ortg": 119.0,
+    "drtg": 132.5,
+    "net": -13.4,
+    "efg": 44.0,
+    "oefg": 57.5
+   },
+   {
+    "players": [
      "David Žikla",
      "Jakub Ševčík",
      "Niels Lane"
@@ -2673,44 +2752,6 @@
     "net": -31.6,
     "efg": 53.1,
     "oefg": 57.4
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Jaborri Mcghee",
-     "Niels Lane"
-    ],
-    "min": 12.6,
-    "pf": 36,
-    "pa": 33,
-    "pm": 3,
-    "poss": 26.1,
-    "pF": 28.0,
-    "pA": 24.2,
-    "ortg": 128.8,
-    "drtg": 136.1,
-    "net": -7.4,
-    "efg": 50.0,
-    "oefg": 73.1
-   },
-   {
-    "players": [
-     "Jaborri Mcghee",
-     "Kobe Langley",
-     "Petr Krupka"
-    ],
-    "min": 12.4,
-    "pf": 33,
-    "pa": 21,
-    "pm": 12,
-    "poss": 23.4,
-    "pF": 24.5,
-    "pA": 22.2,
-    "ortg": 134.6,
-    "drtg": 94.6,
-    "net": 40.0,
-    "efg": 61.4,
-    "oefg": 40.0
    },
    {
     "players": [
@@ -2809,25 +2850,6 @@
    },
    {
     "players": [
-     "Kobe Langley",
-     "Petr Krupka",
-     "Rhyjon Blackwell"
-    ],
-    "min": 10.9,
-    "pf": 28,
-    "pa": 28,
-    "pm": 0,
-    "poss": 21.6,
-    "pF": 21.5,
-    "pA": 21.7,
-    "ortg": 130.1,
-    "drtg": 128.9,
-    "net": 1.2,
-    "efg": 55.0,
-    "oefg": 52.6
-   },
-   {
-    "players": [
      "Jaborri Mcghee",
      "Ladislav Pecka",
      "Petr Krupka"
@@ -2863,6 +2885,44 @@
     "net": 11.2,
     "efg": 68.4,
     "oefg": 57.9
+   },
+   {
+    "players": [
+     "Jaborri Mcghee",
+     "Kobe Langley",
+     "Rhyjon Blackwell"
+    ],
+    "min": 10.3,
+    "pf": 23,
+    "pa": 19,
+    "pm": 4,
+    "poss": 20.6,
+    "pF": 20.3,
+    "pA": 21.0,
+    "ortg": 113.4,
+    "drtg": 90.6,
+    "net": 22.8,
+    "efg": 47.1,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Filip Kábrt",
+     "Niels Lane"
+    ],
+    "min": 10.2,
+    "pf": 28,
+    "pa": 25,
+    "pm": 3,
+    "poss": 21.0,
+    "pF": 21.5,
+    "pA": 20.4,
+    "ortg": 130.1,
+    "drtg": 122.5,
+    "net": 7.6,
+    "efg": 45.7,
+    "oefg": 60.0
    },
    {
     "players": [
@@ -2904,6 +2964,25 @@
    },
    {
     "players": [
+     "David Žikla",
+     "Filip Kábrt",
+     "Niels Lane"
+    ],
+    "min": 9.8,
+    "pf": 21,
+    "pa": 22,
+    "pm": -1,
+    "poss": 16.8,
+    "pF": 17.1,
+    "pA": 16.6,
+    "ortg": 123.0,
+    "drtg": 132.5,
+    "net": -9.6,
+    "efg": 47.1,
+    "oefg": 42.9
+   },
+   {
+    "players": [
      "Chayce Polynice",
      "Jakub Ševčík",
      "Niels Lane"
@@ -2920,6 +2999,25 @@
     "net": -7.3,
     "efg": 57.7,
     "oefg": 65.6
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Kobe Langley",
+     "Petr Krupka"
+    ],
+    "min": 9.3,
+    "pf": 16,
+    "pa": 23,
+    "pm": -7,
+    "poss": 16.2,
+    "pF": 16.1,
+    "pA": 16.3,
+    "ortg": 99.5,
+    "drtg": 140.9,
+    "net": -41.4,
+    "efg": 36.7,
+    "oefg": 52.5
    },
    {
     "players": [
@@ -2942,41 +3040,22 @@
    },
    {
     "players": [
-     "Jaborri Mcghee",
-     "Kobe Langley",
-     "Rhyjon Blackwell"
-    ],
-    "min": 8.6,
-    "pf": 18,
-    "pa": 19,
-    "pm": -1,
-    "poss": 16.6,
-    "pF": 16.3,
-    "pA": 17.0,
-    "ortg": 110.6,
-    "drtg": 112.0,
-    "net": -1.5,
-    "efg": 42.3,
-    "oefg": 56.7
-   },
-   {
-    "players": [
      "Filip Kábrt",
      "Josef Potoček",
      "Niels Lane"
     ],
-    "min": 8.3,
+    "min": 8.8,
     "pf": 12,
-    "pa": 18,
-    "pm": -6,
-    "poss": 14.9,
+    "pa": 21,
+    "pm": -9,
+    "poss": 15.4,
     "pF": 13.9,
-    "pA": 15.8,
+    "pA": 16.8,
     "ortg": 86.5,
-    "drtg": 113.6,
-    "net": -27.2,
+    "drtg": 124.7,
+    "net": -38.2,
     "efg": 35.7,
-    "oefg": 50.0
+    "oefg": 58.3
    },
    {
     "players": [
@@ -3018,22 +3097,22 @@
    },
    {
     "players": [
-     "David Žikla",
-     "Filip Kábrt",
-     "Niels Lane"
+     "Chayce Polynice",
+     "Kobe Langley",
+     "Petr Krupka"
     ],
-    "min": 8.2,
-    "pf": 19,
-    "pa": 20,
-    "pm": -1,
-    "poss": 13.8,
-    "pF": 13.8,
-    "pA": 13.8,
-    "ortg": 138.1,
-    "drtg": 144.5,
-    "net": -6.4,
-    "efg": 53.3,
-    "oefg": 46.2
+    "min": 7.9,
+    "pf": 17,
+    "pa": 17,
+    "pm": 0,
+    "poss": 13.2,
+    "pF": 13.6,
+    "pA": 12.8,
+    "ortg": 124.6,
+    "drtg": 133.2,
+    "net": -8.6,
+    "efg": 40.0,
+    "oefg": 54.2
    },
    {
     "players": [
@@ -3053,25 +3132,6 @@
     "net": -27.1,
     "efg": 37.5,
     "oefg": 50.0
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Filip Kábrt",
-     "Niels Lane"
-    ],
-    "min": 7.5,
-    "pf": 24,
-    "pa": 19,
-    "pm": 5,
-    "poss": 17.0,
-    "pF": 17.5,
-    "pA": 16.4,
-    "ortg": 137.0,
-    "drtg": 115.9,
-    "net": 21.1,
-    "efg": 53.1,
-    "oefg": 54.5
    },
    {
     "players": [
@@ -3113,6 +3173,44 @@
    },
    {
     "players": [
+     "Filip Kábrt",
+     "Jaborri Mcghee",
+     "Petr Krupka"
+    ],
+    "min": 6.9,
+    "pf": 20,
+    "pa": 18,
+    "pm": 2,
+    "poss": 13.4,
+    "pF": 12.8,
+    "pA": 14.0,
+    "ortg": 156.7,
+    "drtg": 128.6,
+    "net": 28.2,
+    "efg": 72.7,
+    "oefg": 52.9
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Petr Krupka",
+     "Rhyjon Blackwell"
+    ],
+    "min": 6.7,
+    "pf": 11,
+    "pa": 16,
+    "pm": -5,
+    "poss": 12.0,
+    "pF": 10.8,
+    "pA": 13.3,
+    "ortg": 102.2,
+    "drtg": 120.1,
+    "net": -17.9,
+    "efg": 34.6,
+    "oefg": 59.1
+   },
+   {
+    "players": [
      "Jakub Ševčík",
      "Kobe Langley",
      "Ladislav Pecka"
@@ -3151,25 +3249,6 @@
    },
    {
     "players": [
-     "Filip Kábrt",
-     "Kobe Langley",
-     "Petr Krupka"
-    ],
-    "min": 6.4,
-    "pf": 12,
-    "pa": 15,
-    "pm": -3,
-    "poss": 12.0,
-    "pF": 12.1,
-    "pA": 11.9,
-    "ortg": 99.3,
-    "drtg": 126.3,
-    "net": -26.9,
-    "efg": 43.8,
-    "oefg": 41.2
-   },
-   {
-    "players": [
      "Josef Potoček",
      "Niels Lane",
      "Petr Krupka"
@@ -3189,6 +3268,25 @@
    },
    {
     "players": [
+     "Chayce Polynice",
+     "Petr Krupka",
+     "Rhyjon Blackwell"
+    ],
+    "min": 5.9,
+    "pf": 5,
+    "pa": 11,
+    "pm": -6,
+    "poss": 10.8,
+    "pF": 10.9,
+    "pA": 10.8,
+    "ortg": 46.0,
+    "drtg": 102.2,
+    "net": -56.3,
+    "efg": 15.4,
+    "oefg": 35.0
+   },
+   {
+    "players": [
      "Jakub Ševčík",
      "Kobe Langley",
      "Niels Lane"
@@ -3205,25 +3303,6 @@
     "net": -70.6,
     "efg": 42.9,
     "oefg": 60.0
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Jaborri Mcghee",
-     "Petr Krupka"
-    ],
-    "min": 5.7,
-    "pf": 16,
-    "pa": 14,
-    "pm": 2,
-    "poss": 11.4,
-    "pF": 10.8,
-    "pA": 12.0,
-    "ortg": 148.7,
-    "drtg": 116.7,
-    "net": 32.0,
-    "efg": 66.7,
-    "oefg": 46.7
    },
    {
     "players": [
@@ -3262,6 +3341,25 @@
     "net": -36.4,
     "efg": 50.0,
     "oefg": 70.0
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Filip Kábrt",
+     "Petr Krupka"
+    ],
+    "min": 5.5,
+    "pf": 12,
+    "pa": 10,
+    "pm": 2,
+    "poss": 9.1,
+    "pF": 9.8,
+    "pA": 8.4,
+    "ortg": 123.0,
+    "drtg": 118.5,
+    "net": 4.5,
+    "efg": 40.0,
+    "oefg": 56.2
    }
   ],
   "pairs": [
@@ -3270,594 +3368,594 @@
      "Niels Lane",
      "Rhyjon Blackwell"
     ],
-    "min": 203.7,
-    "pf": 466,
-    "pa": 433,
-    "pm": 33,
-    "poss": 421.9,
-    "pF": 423.9,
-    "pA": 419.9,
-    "ortg": 109.9,
-    "drtg": 103.1,
-    "net": 6.8,
-    "efg": 48.9,
-    "oefg": 49.3
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Kobe Langley"
-    ],
-    "min": 194.4,
-    "pf": 414,
-    "pa": 376,
+    "min": 219.3,
+    "pf": 495,
+    "pa": 457,
     "pm": 38,
-    "poss": 389.4,
-    "pF": 393.0,
-    "pA": 385.8,
-    "ortg": 105.3,
-    "drtg": 97.4,
-    "net": 7.9,
-    "efg": 50.3,
-    "oefg": 45.8
+    "poss": 451.3,
+    "pF": 452.8,
+    "pA": 449.8,
+    "ortg": 109.3,
+    "drtg": 101.6,
+    "net": 7.7,
+    "efg": 49.4,
+    "oefg": 48.5
    },
    {
     "players": [
      "Filip Kábrt",
      "Jaborri Mcghee"
     ],
-    "min": 191.4,
-    "pf": 423,
-    "pa": 366,
-    "pm": 57,
-    "poss": 388.0,
-    "pF": 392.0,
-    "pA": 384.0,
-    "ortg": 107.9,
-    "drtg": 95.3,
-    "net": 12.6,
-    "efg": 51.6,
-    "oefg": 46.3
+    "min": 210.3,
+    "pf": 465,
+    "pa": 409,
+    "pm": 56,
+    "poss": 423.2,
+    "pF": 426.4,
+    "pA": 420.1,
+    "ortg": 109.1,
+    "drtg": 97.4,
+    "net": 11.7,
+    "efg": 51.7,
+    "oefg": 47.4
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Kobe Langley"
+    ],
+    "min": 207.9,
+    "pf": 448,
+    "pa": 406,
+    "pm": 42,
+    "poss": 412.5,
+    "pF": 416.2,
+    "pA": 408.7,
+    "ortg": 107.6,
+    "drtg": 99.3,
+    "net": 8.3,
+    "efg": 50.5,
+    "oefg": 46.8
    },
    {
     "players": [
      "Jaborri Mcghee",
      "Kobe Langley"
     ],
-    "min": 189.4,
-    "pf": 432,
-    "pa": 346,
-    "pm": 86,
-    "poss": 373.7,
-    "pF": 379.5,
-    "pA": 367.8,
-    "ortg": 113.8,
-    "drtg": 94.1,
-    "net": 19.8,
-    "efg": 53.7,
-    "oefg": 45.6
+    "min": 207.5,
+    "pf": 481,
+    "pa": 382,
+    "pm": 99,
+    "poss": 408.1,
+    "pF": 414.6,
+    "pA": 401.6,
+    "ortg": 116.0,
+    "drtg": 95.1,
+    "net": 20.9,
+    "efg": 54.9,
+    "oefg": 46.4
+   },
+   {
+    "players": [
+     "Jaborri Mcghee",
+     "Ladislav Pecka"
+    ],
+    "min": 202.0,
+    "pf": 436,
+    "pa": 429,
+    "pm": 7,
+    "poss": 409.2,
+    "pF": 409.7,
+    "pA": 408.7,
+    "ortg": 106.4,
+    "drtg": 105.0,
+    "net": 1.5,
+    "efg": 52.5,
+    "oefg": 51.3
    },
    {
     "players": [
      "Chayce Polynice",
      "Kobe Langley"
     ],
-    "min": 182.3,
-    "pf": 392,
-    "pa": 348,
-    "pm": 44,
-    "poss": 360.5,
-    "pF": 366.4,
-    "pA": 354.6,
-    "ortg": 107.0,
-    "drtg": 98.1,
-    "net": 8.9,
-    "efg": 50.0,
-    "oefg": 45.4
-   },
-   {
-    "players": [
-     "Kobe Langley",
-     "Ladislav Pecka"
-    ],
-    "min": 181.1,
-    "pf": 380,
-    "pa": 373,
-    "pm": 7,
-    "poss": 354.4,
-    "pF": 354.0,
-    "pA": 354.8,
-    "ortg": 107.3,
-    "drtg": 105.1,
-    "net": 2.2,
-    "efg": 47.0,
-    "oefg": 49.5
-   },
-   {
-    "players": [
-     "Jaborri Mcghee",
-     "Ladislav Pecka"
-    ],
-    "min": 180.6,
-    "pf": 395,
-    "pa": 395,
-    "pm": 0,
-    "poss": 367.2,
-    "pF": 368.3,
-    "pA": 366.2,
-    "ortg": 107.3,
-    "drtg": 107.9,
-    "net": -0.6,
-    "efg": 51.8,
-    "oefg": 52.7
+    "min": 196.2,
+    "pf": 419,
+    "pa": 376,
+    "pm": 43,
+    "poss": 384.2,
+    "pF": 390.1,
+    "pA": 378.4,
+    "ortg": 107.4,
+    "drtg": 99.4,
+    "net": 8.0,
+    "efg": 49.7,
+    "oefg": 46.5
    },
    {
     "players": [
      "Ladislav Pecka",
      "Rhyjon Blackwell"
     ],
-    "min": 177.0,
-    "pf": 383,
-    "pa": 393,
-    "pm": -10,
-    "poss": 367.4,
-    "pF": 369.2,
-    "pA": 365.6,
-    "ortg": 103.7,
-    "drtg": 107.5,
-    "net": -3.8,
-    "efg": 47.0,
-    "oefg": 49.0
+    "min": 191.9,
+    "pf": 410,
+    "pa": 417,
+    "pm": -7,
+    "poss": 396.8,
+    "pF": 397.9,
+    "pA": 395.7,
+    "ortg": 103.0,
+    "drtg": 105.4,
+    "net": -2.3,
+    "efg": 47.8,
+    "oefg": 48.1
+   },
+   {
+    "players": [
+     "Kobe Langley",
+     "Ladislav Pecka"
+    ],
+    "min": 187.7,
+    "pf": 394,
+    "pa": 383,
+    "pm": 11,
+    "poss": 367.0,
+    "pF": 366.8,
+    "pA": 367.2,
+    "ortg": 107.4,
+    "drtg": 104.3,
+    "net": 3.1,
+    "efg": 47.4,
+    "oefg": 49.4
    },
    {
     "players": [
      "Jaborri Mcghee",
      "Josef Potoček"
     ],
-    "min": 175.7,
-    "pf": 361,
-    "pa": 327,
-    "pm": 34,
-    "poss": 358.8,
-    "pF": 361.4,
-    "pA": 356.2,
-    "ortg": 99.9,
-    "drtg": 91.8,
-    "net": 8.1,
-    "efg": 48.0,
-    "oefg": 45.8
+    "min": 186.9,
+    "pf": 392,
+    "pa": 353,
+    "pm": 39,
+    "poss": 381.6,
+    "pF": 383.6,
+    "pA": 379.6,
+    "ortg": 102.2,
+    "drtg": 93.0,
+    "net": 9.2,
+    "efg": 49.1,
+    "oefg": 46.5
    },
    {
     "players": [
      "Chayce Polynice",
      "Jaborri Mcghee"
     ],
-    "min": 168.1,
-    "pf": 365,
-    "pa": 323,
-    "pm": 42,
-    "poss": 344.4,
-    "pF": 350.8,
-    "pA": 338.0,
-    "ortg": 104.0,
-    "drtg": 95.6,
-    "net": 8.5,
+    "min": 184.9,
+    "pf": 398,
+    "pa": 359,
+    "pm": 39,
+    "poss": 376.3,
+    "pF": 382.4,
+    "pA": 370.2,
+    "ortg": 104.1,
+    "drtg": 97.0,
+    "net": 7.1,
     "efg": 50.8,
-    "oefg": 45.4
-   },
-   {
-    "players": [
-     "Josef Potoček",
-     "Kobe Langley"
-    ],
-    "min": 162.8,
-    "pf": 363,
-    "pa": 321,
-    "pm": 42,
-    "poss": 328.5,
-    "pF": 333.6,
-    "pA": 323.5,
-    "ortg": 108.8,
-    "drtg": 99.2,
-    "net": 9.6,
-    "efg": 51.2,
-    "oefg": 46.2
+    "oefg": 46.7
    },
    {
     "players": [
      "Jaborri Mcghee",
      "Rhyjon Blackwell"
     ],
-    "min": 162.6,
-    "pf": 340,
-    "pa": 337,
-    "pm": 3,
-    "poss": 339.0,
-    "pF": 337.6,
-    "pA": 340.3,
-    "ortg": 100.7,
-    "drtg": 99.0,
-    "net": 1.7,
-    "efg": 47.9,
-    "oefg": 49.0
+    "min": 184.5,
+    "pf": 378,
+    "pa": 373,
+    "pm": 5,
+    "poss": 382.3,
+    "pF": 379.5,
+    "pA": 385.2,
+    "ortg": 99.6,
+    "drtg": 96.8,
+    "net": 2.8,
+    "efg": 48.1,
+    "oefg": 48.0
+   },
+   {
+    "players": [
+     "Jaborri Mcghee",
+     "Niels Lane"
+    ],
+    "min": 181.2,
+    "pf": 398,
+    "pa": 368,
+    "pm": 30,
+    "poss": 366.1,
+    "pF": 368.7,
+    "pA": 363.4,
+    "ortg": 107.9,
+    "drtg": 101.3,
+    "net": 6.7,
+    "efg": 52.4,
+    "oefg": 50.2
    },
    {
     "players": [
      "Ladislav Pecka",
      "Niels Lane"
     ],
-    "min": 160.3,
-    "pf": 370,
-    "pa": 347,
-    "pm": 23,
-    "poss": 327.9,
-    "pF": 329.6,
-    "pA": 326.2,
-    "ortg": 112.3,
-    "drtg": 106.4,
-    "net": 5.9,
-    "efg": 49.5,
-    "oefg": 50.9
+    "min": 178.0,
+    "pf": 405,
+    "pa": 376,
+    "pm": 29,
+    "poss": 362.5,
+    "pF": 364.1,
+    "pA": 360.9,
+    "ortg": 111.2,
+    "drtg": 104.2,
+    "net": 7.0,
+    "efg": 50.6,
+    "oefg": 49.8
    },
    {
     "players": [
-     "Jaborri Mcghee",
-     "Niels Lane"
+     "Josef Potoček",
+     "Kobe Langley"
     ],
-    "min": 158.2,
-    "pf": 355,
-    "pa": 328,
-    "pm": 27,
-    "poss": 323.0,
-    "pF": 325.9,
-    "pA": 320.0,
-    "ortg": 108.9,
-    "drtg": 102.5,
-    "net": 6.4,
-    "efg": 52.1,
-    "oefg": 50.8
+    "min": 170.5,
+    "pf": 390,
+    "pa": 337,
+    "pm": 53,
+    "poss": 344.4,
+    "pF": 349.9,
+    "pA": 338.9,
+    "ortg": 111.5,
+    "drtg": 99.4,
+    "net": 12.0,
+    "efg": 52.8,
+    "oefg": 46.3
    },
    {
     "players": [
      "David Žikla",
      "Rhyjon Blackwell"
     ],
-    "min": 154.1,
-    "pf": 329,
-    "pa": 330,
-    "pm": -1,
-    "poss": 317.1,
-    "pF": 313.1,
-    "pA": 321.2,
-    "ortg": 105.1,
-    "drtg": 102.8,
-    "net": 2.3,
-    "efg": 48.2,
-    "oefg": 51.8
+    "min": 170.4,
+    "pf": 359,
+    "pa": 351,
+    "pm": 8,
+    "poss": 348.6,
+    "pF": 344.0,
+    "pA": 353.1,
+    "ortg": 104.3,
+    "drtg": 99.4,
+    "net": 4.9,
+    "efg": 48.7,
+    "oefg": 49.6
    },
    {
     "players": [
      "Josef Potoček",
      "Rhyjon Blackwell"
     ],
-    "min": 150.6,
-    "pf": 286,
-    "pa": 332,
-    "pm": -46,
-    "poss": 306.0,
-    "pF": 303.8,
-    "pA": 308.1,
-    "ortg": 94.1,
-    "drtg": 107.8,
-    "net": -13.6,
-    "efg": 43.4,
-    "oefg": 51.3
-   },
-   {
-    "players": [
-     "Kobe Langley",
-     "Niels Lane"
-    ],
-    "min": 141.2,
-    "pf": 334,
-    "pa": 279,
-    "pm": 55,
-    "poss": 278.7,
-    "pF": 282.2,
-    "pA": 275.2,
-    "ortg": 118.3,
-    "drtg": 101.4,
-    "net": 17.0,
-    "efg": 49.8,
-    "oefg": 48.2
+    "min": 155.8,
+    "pf": 295,
+    "pa": 342,
+    "pm": -47,
+    "poss": 316.9,
+    "pF": 313.7,
+    "pA": 320.1,
+    "ortg": 94.0,
+    "drtg": 106.8,
+    "net": -12.8,
+    "efg": 43.3,
+    "oefg": 51.5
    },
    {
     "players": [
      "Chayce Polynice",
      "Filip Kábrt"
     ],
-    "min": 140.6,
-    "pf": 308,
-    "pa": 268,
-    "pm": 40,
-    "poss": 287.4,
-    "pF": 291.6,
-    "pA": 283.2,
-    "ortg": 105.6,
-    "drtg": 94.6,
-    "net": 11.0,
-    "efg": 51.4,
-    "oefg": 44.2
-   },
-   {
-    "players": [
-     "Filip Kábrt",
-     "Josef Potoček"
-    ],
-    "min": 138.5,
-    "pf": 285,
-    "pa": 267,
-    "pm": 18,
-    "poss": 281.7,
-    "pF": 282.1,
-    "pA": 281.2,
-    "ortg": 101.0,
-    "drtg": 95.0,
-    "net": 6.1,
-    "efg": 49.0,
-    "oefg": 43.7
+    "min": 154.5,
+    "pf": 331,
+    "pa": 298,
+    "pm": 33,
+    "poss": 311.9,
+    "pF": 315.4,
+    "pA": 308.4,
+    "ortg": 104.9,
+    "drtg": 96.6,
+    "net": 8.3,
+    "efg": 49.8,
+    "oefg": 45.9
    },
    {
     "players": [
      "David Žikla",
      "Jaborri Mcghee"
     ],
-    "min": 133.8,
-    "pf": 301,
-    "pa": 239,
-    "pm": 62,
-    "poss": 271.4,
-    "pF": 270.2,
-    "pA": 272.7,
-    "ortg": 111.4,
-    "drtg": 87.6,
-    "net": 23.8,
-    "efg": 53.4,
-    "oefg": 45.4
+    "min": 154.3,
+    "pf": 348,
+    "pa": 272,
+    "pm": 76,
+    "poss": 311.8,
+    "pF": 310.5,
+    "pA": 313.2,
+    "ortg": 112.1,
+    "drtg": 86.9,
+    "net": 25.2,
+    "efg": 54.7,
+    "oefg": 43.9
+   },
+   {
+    "players": [
+     "Kobe Langley",
+     "Niels Lane"
+    ],
+    "min": 149.0,
+    "pf": 350,
+    "pa": 295,
+    "pm": 55,
+    "poss": 293.4,
+    "pF": 297.1,
+    "pA": 289.6,
+    "ortg": 117.8,
+    "drtg": 101.9,
+    "net": 15.9,
+    "efg": 50.0,
+    "oefg": 48.9
+   },
+   {
+    "players": [
+     "Filip Kábrt",
+     "Josef Potoček"
+    ],
+    "min": 148.0,
+    "pf": 311,
+    "pa": 293,
+    "pm": 18,
+    "poss": 300.5,
+    "pF": 300.3,
+    "pA": 300.6,
+    "ortg": 103.6,
+    "drtg": 97.5,
+    "net": 6.1,
+    "efg": 50.2,
+    "oefg": 44.9
+   },
+   {
+    "players": [
+     "David Žikla",
+     "Niels Lane"
+    ],
+    "min": 134.0,
+    "pf": 308,
+    "pa": 262,
+    "pm": 46,
+    "poss": 271.7,
+    "pF": 271.3,
+    "pA": 272.1,
+    "ortg": 113.5,
+    "drtg": 96.3,
+    "net": 17.2,
+    "efg": 53.2,
+    "oefg": 45.9
+   },
+   {
+    "players": [
+     "Chayce Polynice",
+     "Ladislav Pecka"
+    ],
+    "min": 133.5,
+    "pf": 282,
+    "pa": 271,
+    "pm": 11,
+    "poss": 269.6,
+    "pF": 275.4,
+    "pA": 263.7,
+    "ortg": 102.4,
+    "drtg": 102.8,
+    "net": -0.4,
+    "efg": 50.0,
+    "oefg": 46.7
    },
    {
     "players": [
      "Filip Kábrt",
      "Ladislav Pecka"
     ],
-    "min": 127.6,
-    "pf": 257,
-    "pa": 280,
-    "pm": -23,
-    "poss": 256.7,
-    "pF": 256.7,
-    "pA": 256.8,
-    "ortg": 100.1,
-    "drtg": 109.0,
-    "net": -8.9,
-    "efg": 48.8,
-    "oefg": 50.6
+    "min": 131.4,
+    "pf": 263,
+    "pa": 285,
+    "pm": -22,
+    "poss": 264.1,
+    "pF": 263.6,
+    "pA": 264.7,
+    "ortg": 99.8,
+    "drtg": 107.7,
+    "net": -7.9,
+    "efg": 48.6,
+    "oefg": 50.2
    },
    {
     "players": [
      "Kobe Langley",
      "Rhyjon Blackwell"
     ],
-    "min": 126.3,
-    "pf": 268,
-    "pa": 278,
-    "pm": -10,
-    "poss": 253.7,
-    "pF": 254.7,
-    "pA": 252.8,
-    "ortg": 105.2,
-    "drtg": 110.0,
-    "net": -4.8,
-    "efg": 44.3,
+    "min": 129.8,
+    "pf": 273,
+    "pa": 282,
+    "pm": -9,
+    "poss": 259.9,
+    "pF": 260.7,
+    "pA": 259.2,
+    "ortg": 104.7,
+    "drtg": 108.8,
+    "net": -4.1,
+    "efg": 43.6,
     "oefg": 50.5
    },
    {
     "players": [
      "Chayce Polynice",
-     "Ladislav Pecka"
+     "Josef Potoček"
     ],
-    "min": 125.4,
-    "pf": 266,
-    "pa": 256,
-    "pm": 10,
-    "poss": 253.0,
-    "pF": 258.7,
-    "pA": 247.4,
-    "ortg": 102.8,
-    "drtg": 103.5,
-    "net": -0.6,
-    "efg": 49.5,
-    "oefg": 46.5
+    "min": 116.6,
+    "pf": 248,
+    "pa": 221,
+    "pm": 27,
+    "poss": 235.0,
+    "pF": 237.0,
+    "pA": 233.0,
+    "ortg": 104.7,
+    "drtg": 94.9,
+    "net": 9.8,
+    "efg": 49.3,
+    "oefg": 44.6
    },
    {
     "players": [
      "David Žikla",
-     "Niels Lane"
+     "Ladislav Pecka"
     ],
-    "min": 119.3,
-    "pf": 281,
-    "pa": 241,
-    "pm": 40,
-    "poss": 243.8,
-    "pF": 243.4,
-    "pA": 244.2,
-    "ortg": 115.5,
-    "drtg": 98.7,
-    "net": 16.8,
-    "efg": 53.0,
-    "oefg": 47.4
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Josef Potoček"
-    ],
-    "min": 111.9,
-    "pf": 239,
-    "pa": 210,
-    "pm": 29,
-    "poss": 225.6,
-    "pF": 228.1,
-    "pA": 223.1,
-    "ortg": 104.8,
-    "drtg": 94.1,
-    "net": 10.7,
-    "efg": 49.5,
-    "oefg": 43.9
+    "min": 114.4,
+    "pf": 249,
+    "pa": 234,
+    "pm": 15,
+    "poss": 231.2,
+    "pF": 227.3,
+    "pA": 235.0,
+    "ortg": 109.5,
+    "drtg": 99.6,
+    "net": 10.0,
+    "efg": 50.3,
+    "oefg": 47.7
    },
    {
     "players": [
      "Chayce Polynice",
      "Rhyjon Blackwell"
     ],
-    "min": 108.0,
-    "pf": 234,
-    "pa": 231,
-    "pm": 3,
-    "poss": 225.1,
-    "pF": 228.0,
-    "pA": 222.1,
-    "ortg": 102.6,
-    "drtg": 104.0,
-    "net": -1.4,
-    "efg": 45.7,
-    "oefg": 43.6
+    "min": 114.3,
+    "pf": 240,
+    "pa": 247,
+    "pm": -7,
+    "poss": 237.7,
+    "pF": 239.9,
+    "pA": 235.4,
+    "ortg": 100.1,
+    "drtg": 104.9,
+    "net": -4.9,
+    "efg": 44.1,
+    "oefg": 44.9
    },
    {
     "players": [
      "David Žikla",
      "Josef Potoček"
     ],
-    "min": 107.2,
-    "pf": 214,
-    "pa": 210,
-    "pm": 4,
-    "poss": 218.4,
-    "pF": 218.6,
-    "pA": 218.1,
-    "ortg": 97.9,
-    "drtg": 96.3,
-    "net": 1.6,
-    "efg": 46.3,
-    "oefg": 47.4
+    "min": 112.7,
+    "pf": 234,
+    "pa": 222,
+    "pm": 12,
+    "poss": 230.3,
+    "pF": 230.9,
+    "pA": 229.6,
+    "ortg": 101.3,
+    "drtg": 96.7,
+    "net": 4.7,
+    "efg": 48.4,
+    "oefg": 47.2
    },
    {
     "players": [
      "David Žikla",
      "Kobe Langley"
     ],
-    "min": 105.7,
-    "pf": 229,
-    "pa": 210,
-    "pm": 19,
-    "poss": 210.8,
-    "pF": 210.3,
-    "pA": 211.3,
-    "ortg": 108.9,
-    "drtg": 99.4,
-    "net": 9.5,
-    "efg": 48.3,
-    "oefg": 47.9
-   },
-   {
-    "players": [
-     "Josef Potoček",
-     "Niels Lane"
-    ],
-    "min": 103.8,
-    "pf": 209,
-    "pa": 212,
-    "pm": -3,
-    "poss": 207.5,
-    "pF": 207.6,
-    "pA": 207.4,
-    "ortg": 100.7,
-    "drtg": 102.2,
-    "net": -1.6,
-    "efg": 45.6,
-    "oefg": 50.9
-   },
-   {
-    "players": [
-     "David Žikla",
-     "Ladislav Pecka"
-    ],
-    "min": 101.1,
-    "pf": 224,
-    "pa": 215,
-    "pm": 9,
-    "poss": 205.7,
-    "pF": 202.7,
-    "pA": 208.8,
-    "ortg": 110.5,
-    "drtg": 103.0,
-    "net": 7.5,
-    "efg": 49.1,
-    "oefg": 49.7
+    "min": 111.2,
+    "pf": 249,
+    "pa": 222,
+    "pm": 27,
+    "poss": 222.7,
+    "pF": 222.6,
+    "pA": 222.8,
+    "ortg": 111.8,
+    "drtg": 99.6,
+    "net": 12.2,
+    "efg": 50.3,
+    "oefg": 47.7
    },
    {
     "players": [
      "Filip Kábrt",
      "Rhyjon Blackwell"
     ],
-    "min": 98.5,
-    "pf": 182,
-    "pa": 222,
-    "pm": -40,
-    "poss": 200.4,
-    "pF": 197.0,
-    "pA": 203.8,
-    "ortg": 92.4,
-    "drtg": 108.9,
-    "net": -16.5,
-    "efg": 43.7,
-    "oefg": 48.9
+    "min": 107.4,
+    "pf": 190,
+    "pa": 243,
+    "pm": -53,
+    "poss": 217.0,
+    "pF": 212.2,
+    "pA": 221.9,
+    "ortg": 89.6,
+    "drtg": 109.5,
+    "net": -20.0,
+    "efg": 41.3,
+    "oefg": 50.0
+   },
+   {
+    "players": [
+     "Josef Potoček",
+     "Niels Lane"
+    ],
+    "min": 104.7,
+    "pf": 211,
+    "pa": 215,
+    "pm": -4,
+    "poss": 209.0,
+    "pF": 208.6,
+    "pA": 209.4,
+    "ortg": 101.1,
+    "drtg": 102.7,
+    "net": -1.6,
+    "efg": 45.9,
+    "oefg": 51.5
    },
    {
     "players": [
      "Chayce Polynice",
      "Niels Lane"
     ],
-    "min": 94.4,
-    "pf": 213,
-    "pa": 210,
-    "pm": 3,
-    "poss": 194.9,
-    "pF": 197.2,
-    "pA": 192.6,
-    "ortg": 108.0,
-    "drtg": 109.0,
-    "net": -1.0,
-    "efg": 48.3,
-    "oefg": 50.6
+    "min": 101.7,
+    "pf": 227,
+    "pa": 226,
+    "pm": 1,
+    "poss": 208.6,
+    "pF": 211.1,
+    "pA": 206.0,
+    "ortg": 107.5,
+    "drtg": 109.7,
+    "net": -2.1,
+    "efg": 48.5,
+    "oefg": 51.5
    },
    {
     "players": [
      "David Žikla",
      "Filip Kábrt"
     ],
-    "min": 87.6,
-    "pf": 179,
-    "pa": 173,
-    "pm": 6,
-    "poss": 173.2,
-    "pF": 171.7,
-    "pA": 174.8,
-    "ortg": 104.3,
-    "drtg": 99.0,
-    "net": 5.3,
-    "efg": 49.0,
-    "oefg": 46.4
+    "min": 93.8,
+    "pf": 198,
+    "pa": 187,
+    "pm": 11,
+    "poss": 185.7,
+    "pF": 184.3,
+    "pA": 187.0,
+    "ortg": 107.4,
+    "drtg": 100.0,
+    "net": 7.4,
+    "efg": 50.6,
+    "oefg": 46.2
    },
    {
     "players": [
@@ -3879,39 +3977,57 @@
    },
    {
     "players": [
-     "Petr Krupka",
-     "Rhyjon Blackwell"
-    ],
-    "min": 32.0,
-    "pf": 74,
-    "pa": 75,
-    "pm": -1,
-    "poss": 66.9,
-    "pF": 64.6,
-    "pA": 69.2,
-    "ortg": 114.6,
-    "drtg": 108.3,
-    "net": 6.3,
-    "efg": 52.7,
-    "oefg": 54.5
-   },
-   {
-    "players": [
      "Filip Kábrt",
      "Niels Lane"
     ],
-    "min": 30.5,
-    "pf": 75,
-    "pa": 69,
-    "pm": 6,
-    "poss": 61.1,
-    "pF": 62.7,
-    "pA": 59.5,
-    "ortg": 119.7,
-    "drtg": 116.0,
-    "net": 3.7,
+    "min": 35.4,
+    "pf": 81,
+    "pa": 80,
+    "pm": 1,
+    "poss": 68.6,
+    "pF": 70.0,
+    "pA": 67.2,
+    "ortg": 115.7,
+    "drtg": 119.0,
+    "net": -3.3,
+    "efg": 44.9,
+    "oefg": 56.7
+   },
+   {
+    "players": [
+     "Petr Krupka",
+     "Rhyjon Blackwell"
+    ],
+    "min": 33.7,
+    "pf": 74,
+    "pa": 79,
+    "pm": -5,
+    "poss": 69.1,
+    "pF": 66.6,
+    "pA": 71.7,
+    "ortg": 111.2,
+    "drtg": 110.2,
+    "net": 1.0,
     "efg": 48.3,
-    "oefg": 53.8
+    "oefg": 56.2
+   },
+   {
+    "players": [
+     "Kobe Langley",
+     "Petr Krupka"
+    ],
+    "min": 30.9,
+    "pf": 71,
+    "pa": 74,
+    "pm": -3,
+    "poss": 60.1,
+    "pF": 60.4,
+    "pA": 59.9,
+    "ortg": 117.6,
+    "drtg": 123.6,
+    "net": -6.0,
+    "efg": 53.7,
+    "oefg": 51.8
    },
    {
     "players": [
@@ -3933,39 +4049,21 @@
    },
    {
     "players": [
-     "Kobe Langley",
-     "Petr Krupka"
-    ],
-    "min": 27.9,
-    "pf": 67,
-    "pa": 66,
-    "pm": 1,
-    "poss": 55.9,
-    "pF": 56.4,
-    "pA": 55.4,
-    "ortg": 118.9,
-    "drtg": 119.0,
-    "net": -0.2,
-    "efg": 57.4,
-    "oefg": 48.1
-   },
-   {
-    "players": [
      "Jaborri Mcghee",
      "Petr Krupka"
     ],
-    "min": 24.8,
-    "pf": 61,
-    "pa": 46,
+    "min": 26.1,
+    "pf": 65,
+    "pa": 50,
     "pm": 15,
-    "poss": 48.7,
-    "pF": 48.9,
-    "pA": 48.4,
-    "ortg": 124.7,
-    "drtg": 95.0,
-    "net": 29.7,
-    "efg": 57.0,
-    "oefg": 44.6
+    "poss": 50.7,
+    "pF": 50.9,
+    "pA": 50.4,
+    "ortg": 127.7,
+    "drtg": 99.2,
+    "net": 28.4,
+    "efg": 58.9,
+    "oefg": 46.9
    },
    {
     "players": [
@@ -4095,6 +4193,24 @@
    },
    {
     "players": [
+     "Filip Kábrt",
+     "Petr Krupka"
+    ],
+    "min": 13.0,
+    "pf": 26,
+    "pa": 32,
+    "pm": -6,
+    "poss": 24.1,
+    "pF": 23.0,
+    "pA": 25.2,
+    "ortg": 113.2,
+    "drtg": 127.0,
+    "net": -13.7,
+    "efg": 45.5,
+    "oefg": 51.9
+   },
+   {
+    "players": [
      "Chayce Polynice",
      "Jakub Ševčík"
     ],
@@ -4131,21 +4247,21 @@
    },
    {
     "players": [
-     "Filip Kábrt",
+     "Chayce Polynice",
      "Petr Krupka"
     ],
-    "min": 10.0,
-    "pf": 22,
-    "pa": 24,
-    "pm": -2,
-    "poss": 19.9,
-    "pF": 19.0,
-    "pA": 20.8,
-    "ortg": 116.0,
-    "drtg": 115.6,
-    "net": 0.4,
-    "efg": 53.3,
-    "oefg": 43.8
+    "min": 9.1,
+    "pf": 17,
+    "pa": 17,
+    "pm": 0,
+    "poss": 16.7,
+    "pF": 17.6,
+    "pA": 15.8,
+    "ortg": 96.4,
+    "drtg": 107.9,
+    "net": -11.5,
+    "efg": 33.3,
+    "oefg": 43.3
    },
    {
     "players": [
@@ -4182,24 +4298,6 @@
     "net": -39.0,
     "efg": 44.4,
     "oefg": 58.3
-   },
-   {
-    "players": [
-     "Chayce Polynice",
-     "Petr Krupka"
-    ],
-    "min": 6.1,
-    "pf": 13,
-    "pa": 9,
-    "pm": 4,
-    "poss": 12.5,
-    "pF": 13.6,
-    "pA": 11.3,
-    "ortg": 95.3,
-    "drtg": 79.5,
-    "net": 15.8,
-    "efg": 36.4,
-    "oefg": 25.0
    },
    {
     "players": [
@@ -4387,20 +4485,20 @@
   {
    "passer": "Kobe Langley",
    "scorer": "Chayce Polynice",
-   "ast": 20,
-   "pts": 44
+   "ast": 22,
+   "pts": 48
+  },
+  {
+   "passer": "Jaborri Mcghee",
+   "scorer": "Chayce Polynice",
+   "ast": 11,
+   "pts": 22
   },
   {
    "passer": "Kobe Langley",
    "scorer": "Jaborri Mcghee",
    "ast": 9,
    "pts": 23
-  },
-  {
-   "passer": "Jaborri Mcghee",
-   "scorer": "Chayce Polynice",
-   "ast": 9,
-   "pts": 19
   },
   {
    "passer": "Kobe Langley",
@@ -4416,39 +4514,57 @@
   },
   {
    "passer": "Jaborri Mcghee",
+   "scorer": "Ladislav Pecka",
+   "ast": 7,
+   "pts": 18
+  },
+  {
+   "passer": "Kobe Langley",
+   "scorer": "Ladislav Pecka",
+   "ast": 7,
+   "pts": 14
+  },
+  {
+   "passer": "Ladislav Pecka",
+   "scorer": "Niels Lane",
+   "ast": 7,
+   "pts": 14
+  },
+  {
+   "passer": "Jaborri Mcghee",
    "scorer": "Niels Lane",
    "ast": 7,
    "pts": 13
   },
   {
-   "passer": "Kobe Langley",
-   "scorer": "Ladislav Pecka",
-   "ast": 6,
-   "pts": 12
-  },
-  {
-   "passer": "Ladislav Pecka",
-   "scorer": "Niels Lane",
-   "ast": 6,
-   "pts": 12
-  },
-  {
    "passer": "Jaborri Mcghee",
    "scorer": "Filip Kábrt",
-   "ast": 6,
-   "pts": 11
+   "ast": 7,
+   "pts": 12
   },
   {
-   "passer": "Jaborri Mcghee",
-   "scorer": "Ladislav Pecka",
+   "passer": "Kobe Langley",
+   "scorer": "Niels Lane",
    "ast": 5,
-   "pts": 14
+   "pts": 12
+  },
+  {
+   "passer": "Rhyjon Blackwell",
+   "scorer": "Jaborri Mcghee",
+   "ast": 5,
+   "pts": 11
   },
   {
    "passer": "Kobe Langley",
    "scorer": "David Žikla",
    "ast": 5,
    "pts": 10
+  },
+  {
+   "passer": "Ladislav Pecka",
+   "scorer": "Rhyjon Blackwell",
+   "ast": 4,
+   "pts": 12
   },
   {
    "passer": "Niels Lane",
@@ -4475,34 +4591,28 @@
    "pts": 10
   },
   {
-   "passer": "Kobe Langley",
-   "scorer": "Niels Lane",
-   "ast": 4,
-   "pts": 10
-  },
-  {
    "passer": "Chayce Polynice",
    "scorer": "Ladislav Pecka",
    "ast": 4,
    "pts": 10
   },
   {
-   "passer": "Rhyjon Blackwell",
-   "scorer": "Jaborri Mcghee",
+   "passer": "Jaborri Mcghee",
+   "scorer": "Kobe Langley",
    "ast": 4,
-   "pts": 9
+   "pts": 10
   },
   {
-   "passer": "Ladislav Pecka",
-   "scorer": "Rhyjon Blackwell",
-   "ast": 3,
-   "pts": 9
-  },
-  {
-   "passer": "Jaborri Mcghee",
-   "scorer": "Kobe Langley",
-   "ast": 3,
+   "passer": "Filip Kábrt",
+   "scorer": "Chayce Polynice",
+   "ast": 4,
    "pts": 8
+  },
+  {
+   "passer": "Josef Potoček",
+   "scorer": "Filip Kábrt",
+   "ast": 3,
+   "pts": 9
   },
   {
    "passer": "Jaborri Mcghee",
@@ -4521,18 +4631,6 @@
    "scorer": "Kobe Langley",
    "ast": 3,
    "pts": 8
-  },
-  {
-   "passer": "David Žikla",
-   "scorer": "Jaborri Mcghee",
-   "ast": 3,
-   "pts": 7
-  },
-  {
-   "passer": "Kobe Langley",
-   "scorer": "Josef Potoček",
-   "ast": 3,
-   "pts": 7
   }
  ],
  "log": [
@@ -5859,6 +5957,108 @@
     "last5": [
      13,
      13
+    ]
+   }
+  },
+  {
+   "fibaId": 2947895,
+   "nblId": 544625,
+   "date": "2026-11-22",
+   "round": "14. kolo",
+   "venue": "home",
+   "opponent": "USK Praha",
+   "opponentSlug": "usk",
+   "opponentLabel": "USK",
+   "score": [
+    82,
+    76
+   ],
+   "result": "W",
+   "ot": false,
+   "ortg": 109.5,
+   "drtg": 98.5,
+   "net": 10.9,
+   "pace": 76.0,
+   "efg": 53.8,
+   "tov": 16.1,
+   "orb": 34.3,
+   "ftr": 18.5,
+   "topScorer": "Jaborri Mcghee",
+   "oppEfg": 50.0,
+   "oppOrb": 9.7,
+   "tp": [
+    6,
+    28
+   ],
+   "ft": [
+    12,
+    18
+   ],
+   "second": [
+    10,
+    2
+   ],
+   "bench": [
+    37,
+    26
+   ],
+   "paint": [
+    34,
+    40
+   ],
+   "leading": [
+    23.2,
+    13.5
+   ],
+   "leadChanges": 6,
+   "maxLead": [
+    6,
+    9
+   ],
+   "maxRun": [
+    10,
+    9
+   ],
+   "astFg": [
+    [
+     20,
+     32
+    ],
+    [
+     11,
+     26
+    ]
+   ],
+   "quarters": [
+    [
+     21,
+     24
+    ],
+    [
+     27,
+     22
+    ],
+    [
+     20,
+     22
+    ],
+    [
+     14,
+     8
+    ]
+   ],
+   "segments": {
+    "first3": [
+     19,
+     17
+    ],
+    "last3": [
+     23,
+     25
+    ],
+    "last5": [
+     8,
+     7
     ]
    }
   }
@@ -12248,6 +12448,461 @@
     1,
     0,
     3
+   ],
+   [
+    15.9,
+    27.3,
+    1,
+    0,
+    3
+   ],
+   [
+    27.0,
+    19.4,
+    1,
+    1,
+    3
+   ],
+   [
+    6.3,
+    3.0,
+    0,
+    1,
+    4
+   ],
+   [
+    20.1,
+    48.4,
+    1,
+    0,
+    7
+   ],
+   [
+    11.9,
+    95.6,
+    0,
+    1,
+    1
+   ],
+   [
+    10.0,
+    20.8,
+    1,
+    0,
+    5
+   ],
+   [
+    10.0,
+    53.8,
+    1,
+    0,
+    5
+   ],
+   [
+    8.1,
+    43.3,
+    1,
+    0,
+    6
+   ],
+   [
+    11.3,
+    50.4,
+    1,
+    0,
+    5
+   ],
+   [
+    21.4,
+    90.2,
+    0,
+    1,
+    6
+   ],
+   [
+    23.3,
+    36.9,
+    0,
+    0,
+    3
+   ],
+   [
+    14.2,
+    40.2,
+    0,
+    0,
+    6
+   ],
+   [
+    30.1,
+    72.4,
+    0,
+    1,
+    9
+   ],
+   [
+    6.4,
+    95.3,
+    0,
+    1,
+    9
+   ],
+   [
+    32.5,
+    28.4,
+    0,
+    1,
+    3
+   ],
+   [
+    10.6,
+    52.1,
+    1,
+    0,
+    1
+   ],
+   [
+    9.5,
+    60.6,
+    0,
+    0,
+    1
+   ],
+   [
+    6.0,
+    50.0,
+    1,
+    0,
+    1
+   ],
+   [
+    33.1,
+    61.1,
+    0,
+    1,
+    1
+   ],
+   [
+    7.7,
+    48.7,
+    1,
+    0,
+    1
+   ],
+   [
+    24.5,
+    15.7,
+    0,
+    1,
+    7
+   ],
+   [
+    21.7,
+    88.5,
+    0,
+    1,
+    1
+   ],
+   [
+    32.5,
+    50.7,
+    1,
+    1,
+    6
+   ],
+   [
+    9.5,
+    55.5,
+    1,
+    0,
+    1
+   ],
+   [
+    7.1,
+    2.1,
+    1,
+    1,
+    2
+   ],
+   [
+    5.3,
+    3.8,
+    1,
+    1,
+    2
+   ],
+   [
+    11.3,
+    45.6,
+    0,
+    0,
+    2
+   ],
+   [
+    8.1,
+    46.2,
+    1,
+    0,
+    6
+   ],
+   [
+    15.9,
+    68.2,
+    1,
+    0,
+    1
+   ],
+   [
+    17.5,
+    55.8,
+    1,
+    0,
+    6
+   ],
+   [
+    10.5,
+    43.3,
+    0,
+    0,
+    8
+   ],
+   [
+    29.2,
+    75.2,
+    1,
+    1,
+    1
+   ],
+   [
+    25.1,
+    15.1,
+    0,
+    1,
+    3
+   ],
+   [
+    9.2,
+    40.0,
+    1,
+    0,
+    1
+   ],
+   [
+    12.8,
+    53.0,
+    1,
+    0,
+    4
+   ],
+   [
+    18.3,
+    62.9,
+    0,
+    0,
+    1
+   ],
+   [
+    16.4,
+    65.7,
+    1,
+    0,
+    4
+   ],
+   [
+    23.4,
+    37.8,
+    1,
+    0,
+    8
+   ],
+   [
+    22.3,
+    68.8,
+    1,
+    0,
+    8
+   ],
+   [
+    15.9,
+    30.4,
+    1,
+    0,
+    7
+   ],
+   [
+    31.4,
+    84.9,
+    1,
+    1,
+    6
+   ],
+   [
+    10.8,
+    53.3,
+    1,
+    0,
+    6
+   ],
+   [
+    18.1,
+    52.1,
+    0,
+    0,
+    6
+   ],
+   [
+    6.4,
+    79.5,
+    0,
+    0,
+    1
+   ],
+   [
+    32.2,
+    62.6,
+    0,
+    1,
+    1
+   ],
+   [
+    7.5,
+    47.3,
+    0,
+    0,
+    3
+   ],
+   [
+    5.8,
+    4.2,
+    0,
+    1,
+    2
+   ],
+   [
+    24.0,
+    51.0,
+    1,
+    0,
+    5
+   ],
+   [
+    7.1,
+    77.8,
+    1,
+    0,
+    7
+   ],
+   [
+    33.2,
+    40.6,
+    0,
+    1,
+    3
+   ],
+   [
+    25.8,
+    18.6,
+    0,
+    1,
+    1
+   ],
+   [
+    8.9,
+    48.5,
+    1,
+    0,
+    3
+   ],
+   [
+    35.1,
+    51.9,
+    0,
+    1,
+    8
+   ],
+   [
+    16.9,
+    43.1,
+    0,
+    0,
+    3
+   ],
+   [
+    26.1,
+    19.7,
+    0,
+    1,
+    1
+   ],
+   [
+    12.7,
+    46.2,
+    1,
+    0,
+    4
+   ],
+   [
+    38.2,
+    69.6,
+    0,
+    1,
+    6
+   ],
+   [
+    10.3,
+    57.2,
+    1,
+    0,
+    6
+   ],
+   [
+    31.7,
+    24.8,
+    0,
+    1,
+    6
+   ],
+   [
+    26.2,
+    83.5,
+    0,
+    1,
+    6
+   ],
+   [
+    7.7,
+    25.9,
+    0,
+    0,
+    5
+   ],
+   [
+    31.2,
+    61.5,
+    0,
+    1,
+    1
+   ],
+   [
+    32.0,
+    56.7,
+    0,
+    1,
+    6
+   ],
+   [
+    8.4,
+    55.8,
+    1,
+    0,
+    5
+   ],
+   [
+    5.6,
+    96.7,
+    0,
+    1,
+    2
    ]
   ]
  },
@@ -12255,24 +12910,24 @@
   {
    "name": "Jaborri Mcghee",
    "bands": [
-    73,
-    46,
-    43,
-    34,
-    43
+    78,
+    52,
+    45,
+    38,
+    44
    ],
-   "pts": 244
+   "pts": 262
   },
   {
    "name": "Rhyjon Blackwell",
    "bands": [
-    51,
-    44,
-    44,
-    19,
+    54,
+    46,
+    46,
+    21,
     24
    ],
-   "pts": 188
+   "pts": 197
   },
   {
    "name": "Niels Lane",
@@ -12280,54 +12935,54 @@
     40,
     28,
     29,
-    20,
-    22
+    22,
+    26
    ],
-   "pts": 139
+   "pts": 145
   },
   {
    "name": "Chayce Polynice",
    "bands": [
-    22,
-    27,
+    24,
+    29,
     36,
-    13,
-    26
+    17,
+    30
    ],
-   "pts": 124
+   "pts": 136
   },
   {
    "name": "Kobe Langley",
    "bands": [
-    15,
-    18,
-    23,
-    18,
-    41
+    17,
+    20,
+    25,
+    20,
+    49
    ],
-   "pts": 115
+   "pts": 131
   },
   {
    "name": "Ladislav Pecka",
    "bands": [
     18,
     11,
-    24,
+    30,
     34,
     16
    ],
-   "pts": 103
+   "pts": 109
   },
   {
    "name": "Filip Kábrt",
    "bands": [
-    36,
+    38,
     24,
-    9,
-    21,
+    12,
+    25,
     6
    ],
-   "pts": 97
+   "pts": 106
   },
   {
    "name": "Josef Potoček",
@@ -12344,12 +12999,12 @@
    "name": "David Žikla",
    "bands": [
     2,
-    6,
     8,
+    10,
     12,
-    12
+    14
    ],
-   "pts": 40
+   "pts": 46
   },
   {
    "name": "Petr Krupka",
@@ -12376,40 +13031,40 @@
  ],
  "segments": {
   "first3": [
-   330,
-   270
+   349,
+   287
   ],
   "last3": [
-   381,
-   359
+   404,
+   384
   ],
   "last5": [
-   166,
-   161
+   174,
+   168
   ]
  },
  "ranks": {
   "ppg": 5,
   "oppg": 5,
   "diff": 6,
-  "ortg": 7,
+  "ortg": 6,
   "drtg": 4,
   "net": 6,
   "pace": 2,
-  "efg": 9,
+  "efg": 8,
   "ts": 8,
-  "tov": 1,
-  "orb": 10,
-  "drb": 11,
+  "tov": 2,
+  "orb": 9,
+  "drb": 10,
   "ftr": 6,
   "three_par": 9,
   "three": 11,
-  "two": 7,
-  "ft": 4,
+  "two": 5,
+  "ft": 5,
   "ast_pct": 12,
   "ast_to": 6,
   "stl_pct": 3,
-  "blk_pct": 7,
+  "blk_pct": 6,
   "opp_efg": 2,
   "opp_tov": 3,
   "opp_ftr": 6,
@@ -12422,21 +13077,21 @@
   "name": "SLUNETA Ústí nad Labem",
   "label": "Ústí",
   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/224b2e75bf412128fdc3dbcb46504262S1.png",
-  "gp": 13,
-  "w": 7,
+  "gp": 14,
+  "w": 8,
   "l": 6,
-  "pct": 0.538,
-  "pf": 1124,
-  "pa": 1073,
-  "diff": 51,
-  "ppg": 86.5,
-  "oppg": 82.5,
-  "home": "4-3",
+  "pct": 0.571,
+  "pf": 1206,
+  "pa": 1149,
+  "diff": 57,
+  "ppg": 86.1,
+  "oppg": 82.1,
+  "home": "5-3",
   "away": "3-3",
   "close": "1-2",
   "ot": 0,
-  "streak": "W1",
-  "last5": "LLLLW"
+  "streak": "W2",
+  "last5": "LLLWW"
  },
  "players": [
   {
@@ -12447,118 +13102,118 @@
    "teamLabel": "Ústí",
    "shirt": "2",
    "pos": "",
-   "gp": 12,
-   "gs": 12,
-   "min": 348.7,
+   "gp": 13,
+   "gs": 13,
+   "min": 387.0,
    "totals": {
-    "pts": 244,
-    "fgm": 89,
-    "fga": 188,
-    "tpm": 24,
-    "tpa": 72,
-    "twopm": 65,
-    "twopa": 116,
-    "ftm": 42,
-    "fta": 66,
-    "oreb": 17,
-    "dreb": 48,
-    "reb": 65,
-    "ast": 41,
-    "to": 26,
-    "stl": 32,
-    "blk": 4,
+    "pts": 262,
+    "fgm": 96,
+    "fga": 205,
+    "tpm": 25,
+    "tpa": 80,
+    "twopm": 71,
+    "twopa": 125,
+    "ftm": 45,
+    "fta": 75,
+    "oreb": 19,
+    "dreb": 52,
+    "reb": 71,
+    "ast": 48,
+    "to": 31,
+    "stl": 33,
+    "blk": 5,
     "blkr": 6,
-    "pf": 31,
-    "foulon": 59,
-    "pm": 79,
-    "paint": 120,
-    "fast": 52,
-    "second": 20
+    "pf": 33,
+    "foulon": 67,
+    "pm": 89,
+    "paint": 130,
+    "fast": 58,
+    "second": 22
    },
    "perGame": {
-    "pts": 20.3,
+    "pts": 20.2,
     "fgm": 7.4,
-    "fga": 15.7,
-    "tpm": 2.0,
-    "tpa": 6.0,
-    "twopm": 5.4,
-    "twopa": 9.7,
+    "fga": 15.8,
+    "tpm": 1.9,
+    "tpa": 6.2,
+    "twopm": 5.5,
+    "twopa": 9.6,
     "ftm": 3.5,
-    "fta": 5.5,
-    "oreb": 1.4,
+    "fta": 5.8,
+    "oreb": 1.5,
     "dreb": 4.0,
-    "reb": 5.4,
-    "ast": 3.4,
-    "to": 2.2,
-    "stl": 2.7,
-    "blk": 0.3,
+    "reb": 5.5,
+    "ast": 3.7,
+    "to": 2.4,
+    "stl": 2.5,
+    "blk": 0.4,
     "blkr": 0.5,
-    "pf": 2.6,
-    "foulon": 4.9,
-    "pm": 6.6,
+    "pf": 2.5,
+    "foulon": 5.2,
+    "pm": 6.8,
     "paint": 10.0,
-    "fast": 4.3,
+    "fast": 4.5,
     "second": 1.7,
-    "min": 29.1,
-    "eff": 19.8,
-    "gmsc": 15.8
+    "min": 29.8,
+    "eff": 19.2,
+    "gmsc": 15.4
    },
    "per40": {
-    "pts": 28.0,
-    "reb": 7.5,
-    "ast": 4.7,
-    "stl": 3.7,
+    "pts": 27.1,
+    "reb": 7.3,
+    "ast": 5.0,
+    "stl": 3.4,
     "blk": 0.5,
-    "to": 3.0
+    "to": 3.2
    },
-   "ts": 56.2,
-   "efg": 53.7,
-   "fg": 47.3,
-   "two": 56.0,
-   "three": 33.3,
-   "ft": 63.6,
+   "ts": 55.0,
+   "efg": 52.9,
+   "fg": 46.8,
+   "two": 56.8,
+   "three": 31.2,
+   "ft": 60.0,
    "usg": 30.3,
-   "astTo": 1.58,
-   "pm": 79,
-   "pm40": 9.1,
+   "astTo": 1.55,
+   "pm": 89,
+   "pm40": 9.2,
    "on": {
-    "min": 348.6,
-    "pf": 763,
-    "pa": 683,
-    "ortg": 106.9,
+    "min": 386.9,
+    "pf": 845,
+    "pa": 755,
+    "ortg": 107.4,
     "drtg": 97.0,
-    "net": 9.9
+    "net": 10.4
    },
    "off": {
-    "min": 130.6,
-    "ortg": 104.1,
-    "drtg": 113.1,
-    "net": -9.0
+    "min": 132.3,
+    "ortg": 103.3,
+    "drtg": 113.5,
+    "net": -10.2
    },
-   "onOff": 18.9,
+   "onOff": 20.6,
    "dd": 1,
    "td": 0,
    "high": 29,
    "zones": {
     "paint": {
-     "m": 62,
-     "a": 103,
-     "pct": 60.2
+     "m": 67,
+     "a": 109,
+     "pct": 61.5
     },
     "mid": {
-     "m": 3,
-     "a": 13,
-     "pct": 23.1
+     "m": 4,
+     "a": 16,
+     "pct": 25.0
     },
     "corner3": {
      "m": 5,
-     "a": 9,
-     "pct": 55.6
+     "a": 10,
+     "pct": 50.0
     },
     "above3": {
-     "m": 19,
-     "a": 63,
-     "pct": 30.2
+     "m": 20,
+     "a": 70,
+     "pct": 28.6
     }
    },
    "log": [
@@ -12801,6 +13456,26 @@
      "pm": 1,
      "eff": 24,
      "ts": 60.6
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 38.3,
+     "pts": 18,
+     "reb": 6,
+     "ast": 7,
+     "stl": 1,
+     "blk": 1,
+     "to": 5,
+     "fg": "7/17",
+     "tp": "1/8",
+     "ft": "3/9",
+     "pm": 10,
+     "eff": 12,
+     "ts": 42.9
     }
    ]
   },
@@ -12812,108 +13487,108 @@
    "teamLabel": "Ústí",
    "shirt": "4",
    "pos": "",
-   "gp": 13,
-   "gs": 2,
-   "min": 308.9,
+   "gp": 14,
+   "gs": 3,
+   "min": 332.5,
    "totals": {
-    "pts": 188,
-    "fgm": 53,
-    "fga": 142,
-    "tpm": 22,
-    "tpa": 67,
-    "twopm": 31,
-    "twopa": 75,
-    "ftm": 60,
-    "fta": 72,
+    "pts": 197,
+    "fgm": 56,
+    "fga": 151,
+    "tpm": 23,
+    "tpa": 71,
+    "twopm": 33,
+    "twopa": 80,
+    "ftm": 62,
+    "fta": 74,
     "oreb": 6,
-    "dreb": 40,
-    "reb": 46,
-    "ast": 21,
-    "to": 24,
-    "stl": 15,
+    "dreb": 41,
+    "reb": 47,
+    "ast": 22,
+    "to": 26,
+    "stl": 16,
     "blk": 0,
-    "blkr": 6,
-    "pf": 40,
-    "foulon": 50,
-    "pm": -16,
-    "paint": 44,
-    "fast": 31,
+    "blkr": 8,
+    "pf": 41,
+    "foulon": 53,
+    "pm": -18,
+    "paint": 46,
+    "fast": 33,
     "second": 12
    },
    "perGame": {
-    "pts": 14.5,
-    "fgm": 4.1,
-    "fga": 10.9,
-    "tpm": 1.7,
-    "tpa": 5.2,
+    "pts": 14.1,
+    "fgm": 4.0,
+    "fga": 10.8,
+    "tpm": 1.6,
+    "tpa": 5.1,
     "twopm": 2.4,
-    "twopa": 5.8,
-    "ftm": 4.6,
-    "fta": 5.5,
-    "oreb": 0.5,
-    "dreb": 3.1,
-    "reb": 3.5,
+    "twopa": 5.7,
+    "ftm": 4.4,
+    "fta": 5.3,
+    "oreb": 0.4,
+    "dreb": 2.9,
+    "reb": 3.4,
     "ast": 1.6,
-    "to": 1.8,
-    "stl": 1.2,
+    "to": 1.9,
+    "stl": 1.1,
     "blk": 0.0,
-    "blkr": 0.5,
-    "pf": 3.1,
+    "blkr": 0.6,
+    "pf": 2.9,
     "foulon": 3.8,
-    "pm": -1.2,
-    "paint": 3.4,
+    "pm": -1.3,
+    "paint": 3.3,
     "fast": 2.4,
     "second": 0.9,
     "min": 23.8,
-    "eff": 11.2,
-    "gmsc": 8.5
+    "eff": 10.6,
+    "gmsc": 8.2
    },
    "per40": {
-    "pts": 24.3,
-    "reb": 6.0,
-    "ast": 2.7,
+    "pts": 23.7,
+    "reb": 5.7,
+    "ast": 2.6,
     "stl": 1.9,
     "blk": 0.0,
     "to": 3.1
    },
-   "ts": 54.1,
-   "efg": 45.1,
-   "fg": 37.3,
-   "two": 41.3,
-   "three": 32.8,
-   "ft": 83.3,
-   "usg": 27.7,
-   "astTo": 0.88,
-   "pm": -16,
-   "pm40": -2.1,
+   "ts": 53.7,
+   "efg": 44.7,
+   "fg": 37.1,
+   "two": 41.2,
+   "three": 32.4,
+   "ft": 83.8,
+   "usg": 27.4,
+   "astTo": 0.85,
+   "pm": -18,
+   "pm40": -2.2,
    "on": {
-    "min": 308.9,
-    "pf": 656,
-    "pa": 672,
-    "ortg": 103.2,
-    "drtg": 105.2,
-    "net": -2.0
+    "min": 332.5,
+    "pf": 694,
+    "pa": 712,
+    "ortg": 102.1,
+    "drtg": 103.8,
+    "net": -1.6
    },
    "off": {
-    "min": 210.3,
-    "ortg": 110.7,
-    "drtg": 96.5,
-    "net": 14.1
+    "min": 226.7,
+    "ortg": 112.8,
+    "drtg": 98.2,
+    "net": 14.6
    },
-   "onOff": -16.1,
+   "onOff": -16.2,
    "dd": 0,
    "td": 0,
    "high": 37,
    "zones": {
     "paint": {
-     "m": 23,
-     "a": 51,
-     "pct": 45.1
+     "m": 24,
+     "a": 54,
+     "pct": 44.4
     },
     "mid": {
-     "m": 8,
-     "a": 24,
-     "pct": 33.3
+     "m": 9,
+     "a": 26,
+     "pct": 34.6
     },
     "corner3": {
      "m": 2,
@@ -12921,9 +13596,9 @@
      "pct": 28.6
     },
     "above3": {
-     "m": 20,
-     "a": 60,
-     "pct": 33.3
+     "m": 21,
+     "a": 64,
+     "pct": 32.8
     }
    },
    "log": [
@@ -13186,6 +13861,26 @@
      "pm": 4,
      "eff": 14,
      "ts": 57.1
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 23.6,
+     "pts": 9,
+     "reb": 1,
+     "ast": 1,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "3/9",
+     "tp": "1/4",
+     "ft": "2/2",
+     "pm": -2,
+     "eff": 4,
+     "ts": 45.5
     }
    ]
   },
@@ -13197,108 +13892,108 @@
    "teamLabel": "Ústí",
    "shirt": "1",
    "pos": "",
-   "gp": 11,
+   "gp": 12,
    "gs": 11,
-   "min": 238.7,
+   "min": 257.2,
    "totals": {
-    "pts": 124,
-    "fgm": 48,
-    "fga": 92,
+    "pts": 136,
+    "fgm": 53,
+    "fga": 98,
     "tpm": 12,
     "tpa": 27,
-    "twopm": 36,
-    "twopa": 65,
-    "ftm": 16,
-    "fta": 23,
-    "oreb": 15,
-    "dreb": 47,
-    "reb": 62,
-    "ast": 12,
-    "to": 10,
-    "stl": 9,
-    "blk": 15,
+    "twopm": 41,
+    "twopa": 71,
+    "ftm": 18,
+    "fta": 25,
+    "oreb": 16,
+    "dreb": 49,
+    "reb": 65,
+    "ast": 13,
+    "to": 12,
+    "stl": 10,
+    "blk": 16,
     "blkr": 2,
-    "pf": 37,
-    "foulon": 25,
-    "pm": 44,
-    "paint": 52,
+    "pf": 39,
+    "foulon": 26,
+    "pm": 37,
+    "paint": 58,
     "fast": 11,
-    "second": 23
+    "second": 25
    },
    "perGame": {
     "pts": 11.3,
     "fgm": 4.4,
-    "fga": 8.4,
-    "tpm": 1.1,
-    "tpa": 2.5,
-    "twopm": 3.3,
+    "fga": 8.2,
+    "tpm": 1.0,
+    "tpa": 2.2,
+    "twopm": 3.4,
     "twopa": 5.9,
     "ftm": 1.5,
     "fta": 2.1,
-    "oreb": 1.4,
-    "dreb": 4.3,
-    "reb": 5.6,
+    "oreb": 1.3,
+    "dreb": 4.1,
+    "reb": 5.4,
     "ast": 1.1,
-    "to": 0.9,
+    "to": 1.0,
     "stl": 0.8,
-    "blk": 1.4,
+    "blk": 1.3,
     "blkr": 0.2,
-    "pf": 3.4,
-    "foulon": 2.3,
-    "pm": 4.0,
-    "paint": 4.7,
-    "fast": 1.0,
+    "pf": 3.2,
+    "foulon": 2.2,
+    "pm": 3.1,
+    "paint": 4.8,
+    "fast": 0.9,
     "second": 2.1,
-    "min": 21.7,
-    "eff": 14.6,
-    "gmsc": 9.4
+    "min": 21.4,
+    "eff": 14.7,
+    "gmsc": 9.5
    },
    "per40": {
-    "pts": 20.8,
-    "reb": 10.4,
+    "pts": 21.2,
+    "reb": 10.1,
     "ast": 2.0,
-    "stl": 1.5,
+    "stl": 1.6,
     "blk": 2.5,
-    "to": 1.7
+    "to": 1.9
    },
-   "ts": 60.7,
-   "efg": 58.7,
-   "fg": 52.2,
-   "two": 55.4,
+   "ts": 62.4,
+   "efg": 60.2,
+   "fg": 54.1,
+   "two": 57.7,
    "three": 44.4,
-   "ft": 69.6,
-   "usg": 19.9,
-   "astTo": 1.2,
-   "pm": 44,
-   "pm40": 7.4,
+   "ft": 72.0,
+   "usg": 20.1,
+   "astTo": 1.08,
+   "pm": 37,
+   "pm40": 5.8,
    "on": {
-    "min": 238.7,
-    "pf": 519,
-    "pa": 474,
-    "ortg": 105.2,
-    "drtg": 99.2,
-    "net": 6.0
+    "min": 257.3,
+    "pf": 552,
+    "pa": 514,
+    "ortg": 104.8,
+    "drtg": 100.3,
+    "net": 4.4
    },
    "off": {
-    "min": 201.3,
-    "ortg": 110.5,
-    "drtg": 100.5,
-    "net": 10.0
+    "min": 222.7,
+    "ortg": 111.3,
+    "drtg": 99.1,
+    "net": 12.2
    },
-   "onOff": -4.0,
+   "onOff": -7.8,
    "dd": 1,
    "td": 0,
    "high": 18,
    "zones": {
     "paint": {
-     "m": 30,
-     "a": 47,
-     "pct": 63.8
+     "m": 33,
+     "a": 51,
+     "pct": 64.7
     },
     "mid": {
-     "m": 6,
-     "a": 18,
-     "pct": 33.3
+     "m": 8,
+     "a": 20,
+     "pct": 40.0
     },
     "corner3": {
      "m": 0,
@@ -13531,6 +14226,26 @@
      "pm": 12,
      "eff": 15,
      "ts": 50.9
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 18.5,
+     "pts": 12,
+     "reb": 3,
+     "ast": 1,
+     "stl": 1,
+     "blk": 1,
+     "to": 2,
+     "fg": "5/6",
+     "tp": "0/0",
+     "ft": "2/2",
+     "pm": -7,
+     "eff": 15,
+     "ts": 87.2
     }
    ]
   },
@@ -13542,103 +14257,103 @@
    "teamLabel": "Ústí",
    "shirt": "7",
    "pos": "",
-   "gp": 13,
-   "gs": 2,
-   "min": 266.3,
+   "gp": 14,
+   "gs": 3,
+   "min": 289.3,
    "totals": {
-    "pts": 139,
-    "fgm": 58,
-    "fga": 110,
+    "pts": 145,
+    "fgm": 61,
+    "fga": 114,
     "tpm": 2,
-    "tpa": 8,
-    "twopm": 56,
-    "twopa": 102,
+    "tpa": 9,
+    "twopm": 59,
+    "twopa": 105,
     "ftm": 21,
     "fta": 38,
-    "oreb": 18,
-    "dreb": 22,
-    "reb": 40,
+    "oreb": 19,
+    "dreb": 28,
+    "reb": 47,
     "ast": 12,
     "to": 13,
     "stl": 7,
-    "blk": 3,
+    "blk": 4,
     "blkr": 7,
-    "pf": 32,
-    "foulon": 33,
-    "pm": 44,
-    "paint": 104,
+    "pf": 34,
+    "foulon": 34,
+    "pm": 47,
+    "paint": 110,
     "fast": 36,
-    "second": 23
+    "second": 25
    },
    "perGame": {
-    "pts": 10.7,
-    "fgm": 4.5,
-    "fga": 8.5,
-    "tpm": 0.2,
+    "pts": 10.4,
+    "fgm": 4.4,
+    "fga": 8.1,
+    "tpm": 0.1,
     "tpa": 0.6,
-    "twopm": 4.3,
-    "twopa": 7.8,
-    "ftm": 1.6,
-    "fta": 2.9,
+    "twopm": 4.2,
+    "twopa": 7.5,
+    "ftm": 1.5,
+    "fta": 2.7,
     "oreb": 1.4,
-    "dreb": 1.7,
-    "reb": 3.1,
+    "dreb": 2.0,
+    "reb": 3.4,
     "ast": 0.9,
-    "to": 1.0,
+    "to": 0.9,
     "stl": 0.5,
-    "blk": 0.2,
+    "blk": 0.3,
     "blkr": 0.5,
-    "pf": 2.5,
-    "foulon": 2.5,
+    "pf": 2.4,
+    "foulon": 2.4,
     "pm": 3.4,
-    "paint": 8.0,
-    "fast": 2.8,
+    "paint": 7.9,
+    "fast": 2.6,
     "second": 1.8,
-    "min": 20.5,
-    "eff": 9.2,
+    "min": 20.7,
+    "eff": 9.4,
     "gmsc": 6.9
    },
    "per40": {
-    "pts": 20.9,
-    "reb": 6.0,
-    "ast": 1.8,
-    "stl": 1.1,
-    "blk": 0.5,
-    "to": 2.0
+    "pts": 20.0,
+    "reb": 6.5,
+    "ast": 1.7,
+    "stl": 1.0,
+    "blk": 0.6,
+    "to": 1.8
    },
-   "ts": 54.8,
-   "efg": 53.6,
-   "fg": 52.7,
-   "two": 54.9,
-   "three": 25.0,
+   "ts": 55.5,
+   "efg": 54.4,
+   "fg": 53.5,
+   "two": 56.2,
+   "three": 22.2,
    "ft": 55.3,
-   "usg": 22.6,
+   "usg": 21.5,
    "astTo": 0.92,
-   "pm": 44,
-   "pm40": 6.6,
+   "pm": 47,
+   "pm40": 6.5,
    "on": {
-    "min": 266.4,
-    "pf": 608,
-    "pa": 561,
-    "ortg": 111.2,
-    "drtg": 103.9,
+    "min": 289.4,
+    "pf": 651,
+    "pa": 601,
+    "ortg": 110.5,
+    "drtg": 103.0,
     "net": 7.4
    },
    "off": {
-    "min": 252.8,
-    "ortg": 100.8,
-    "drtg": 99.6,
-    "net": 1.2
+    "min": 269.8,
+    "ortg": 102.0,
+    "drtg": 100.0,
+    "net": 2.0
    },
-   "onOff": 6.2,
+   "onOff": 5.4,
    "dd": 0,
    "td": 0,
    "high": 23,
    "zones": {
     "paint": {
-     "m": 54,
-     "a": 96,
-     "pct": 56.2
+     "m": 57,
+     "a": 99,
+     "pct": 57.6
     },
     "mid": {
      "m": 2,
@@ -13647,8 +14362,8 @@
     },
     "corner3": {
      "m": 1,
-     "a": 2,
-     "pct": 50.0
+     "a": 3,
+     "pct": 33.3
     },
     "above3": {
      "m": 1,
@@ -13916,6 +14631,26 @@
      "pm": 8,
      "eff": 8,
      "ts": 48.2
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 23.0,
+     "pts": 6,
+     "reb": 7,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 0,
+     "fg": "3/4",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": 3,
+     "eff": 13,
+     "ts": 75.0
     }
    ]
   },
@@ -13927,103 +14662,103 @@
    "teamLabel": "Ústí",
    "shirt": "3",
    "pos": "",
-   "gp": 13,
+   "gp": 14,
    "gs": 12,
-   "min": 332.9,
+   "min": 352.8,
    "totals": {
-    "pts": 115,
-    "fgm": 34,
-    "fga": 113,
-    "tpm": 18,
-    "tpa": 64,
-    "twopm": 16,
-    "twopa": 49,
+    "pts": 131,
+    "fgm": 41,
+    "fga": 127,
+    "tpm": 20,
+    "tpa": 71,
+    "twopm": 21,
+    "twopa": 56,
     "ftm": 29,
     "fta": 37,
-    "oreb": 4,
-    "dreb": 36,
-    "reb": 40,
-    "ast": 61,
-    "to": 31,
-    "stl": 30,
+    "oreb": 5,
+    "dreb": 38,
+    "reb": 43,
+    "ast": 65,
+    "to": 33,
+    "stl": 31,
     "blk": 2,
     "blkr": 3,
-    "pf": 28,
-    "foulon": 34,
-    "pm": 66,
-    "paint": 26,
-    "fast": 15,
-    "second": 23
+    "pf": 32,
+    "foulon": 36,
+    "pm": 75,
+    "paint": 36,
+    "fast": 17,
+    "second": 25
    },
    "perGame": {
-    "pts": 8.8,
-    "fgm": 2.6,
-    "fga": 8.7,
+    "pts": 9.4,
+    "fgm": 2.9,
+    "fga": 9.1,
     "tpm": 1.4,
-    "tpa": 4.9,
-    "twopm": 1.2,
-    "twopa": 3.8,
-    "ftm": 2.2,
-    "fta": 2.8,
-    "oreb": 0.3,
-    "dreb": 2.8,
+    "tpa": 5.1,
+    "twopm": 1.5,
+    "twopa": 4.0,
+    "ftm": 2.1,
+    "fta": 2.6,
+    "oreb": 0.4,
+    "dreb": 2.7,
     "reb": 3.1,
-    "ast": 4.7,
+    "ast": 4.6,
     "to": 2.4,
-    "stl": 2.3,
-    "blk": 0.2,
+    "stl": 2.2,
+    "blk": 0.1,
     "blkr": 0.2,
-    "pf": 2.2,
+    "pf": 2.3,
     "foulon": 2.6,
-    "pm": 5.1,
-    "paint": 2.0,
+    "pm": 5.4,
+    "paint": 2.6,
     "fast": 1.2,
     "second": 1.8,
-    "min": 25.6,
-    "eff": 10.0,
-    "gmsc": 7.1
+    "min": 25.2,
+    "eff": 10.4,
+    "gmsc": 7.3
    },
    "per40": {
-    "pts": 13.8,
-    "reb": 4.8,
-    "ast": 7.3,
-    "stl": 3.6,
+    "pts": 14.9,
+    "reb": 4.9,
+    "ast": 7.4,
+    "stl": 3.5,
     "blk": 0.2,
     "to": 3.7
    },
-   "ts": 44.5,
-   "efg": 38.1,
-   "fg": 30.1,
-   "two": 32.7,
-   "three": 28.1,
+   "ts": 45.7,
+   "efg": 40.2,
+   "fg": 32.3,
+   "two": 37.5,
+   "three": 28.2,
    "ft": 78.4,
-   "usg": 20.8,
+   "usg": 21.7,
    "astTo": 1.97,
-   "pm": 66,
-   "pm40": 7.9,
+   "pm": 75,
+   "pm40": 8.5,
    "on": {
-    "min": 333.0,
-    "pf": 727,
-    "pa": 662,
-    "ortg": 109.1,
-    "drtg": 101.0,
-    "net": 8.0
+    "min": 352.9,
+    "pf": 776,
+    "pa": 702,
+    "ortg": 110.3,
+    "drtg": 101.5,
+    "net": 8.8
    },
    "off": {
-    "min": 186.2,
-    "ortg": 101.3,
-    "drtg": 103.1,
-    "net": -1.8
+    "min": 206.4,
+    "ortg": 100.1,
+    "drtg": 101.7,
+    "net": -1.6
    },
-   "onOff": 9.8,
+   "onOff": 10.4,
    "dd": 0,
    "td": 0,
    "high": 17,
    "zones": {
     "paint": {
-     "m": 14,
-     "a": 34,
-     "pct": 41.2
+     "m": 19,
+     "a": 41,
+     "pct": 46.3
     },
     "mid": {
      "m": 2,
@@ -14036,8 +14771,8 @@
      "pct": 0.0
     },
     "above3": {
-     "m": 18,
-     "a": 63,
+     "m": 20,
+     "a": 70,
      "pct": 28.6
     }
    },
@@ -14301,6 +15036,26 @@
      "pm": 10,
      "eff": 11,
      "ts": 44.0
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 19.9,
+     "pts": 16,
+     "reb": 3,
+     "ast": 4,
+     "stl": 1,
+     "blk": 0,
+     "to": 2,
+     "fg": "7/14",
+     "tp": "2/7",
+     "ft": "0/0",
+     "pm": 9,
+     "eff": 15,
+     "ts": 57.1
     }
    ]
   },
@@ -14312,95 +15067,95 @@
    "teamLabel": "Ústí",
    "shirt": "44",
    "pos": "",
-   "gp": 13,
-   "gs": 4,
-   "min": 285.9,
+   "gp": 14,
+   "gs": 5,
+   "min": 307.3,
    "totals": {
-    "pts": 103,
-    "fgm": 37,
-    "fga": 71,
+    "pts": 109,
+    "fgm": 40,
+    "fga": 75,
     "tpm": 13,
-    "tpa": 31,
-    "twopm": 24,
-    "twopa": 40,
+    "tpa": 32,
+    "twopm": 27,
+    "twopa": 43,
     "ftm": 16,
     "fta": 22,
     "oreb": 21,
-    "dreb": 56,
-    "reb": 77,
-    "ast": 19,
+    "dreb": 62,
+    "reb": 83,
+    "ast": 23,
     "to": 10,
     "stl": 6,
     "blk": 5,
     "blkr": 0,
-    "pf": 24,
+    "pf": 26,
     "foulon": 17,
-    "pm": -9,
+    "pm": -2,
     "paint": 34,
     "fast": 16,
     "second": 9
    },
    "perGame": {
-    "pts": 7.9,
-    "fgm": 2.8,
-    "fga": 5.5,
-    "tpm": 1.0,
-    "tpa": 2.4,
-    "twopm": 1.8,
+    "pts": 7.8,
+    "fgm": 2.9,
+    "fga": 5.4,
+    "tpm": 0.9,
+    "tpa": 2.3,
+    "twopm": 1.9,
     "twopa": 3.1,
-    "ftm": 1.2,
-    "fta": 1.7,
-    "oreb": 1.6,
-    "dreb": 4.3,
+    "ftm": 1.1,
+    "fta": 1.6,
+    "oreb": 1.5,
+    "dreb": 4.4,
     "reb": 5.9,
-    "ast": 1.5,
-    "to": 0.8,
-    "stl": 0.5,
+    "ast": 1.6,
+    "to": 0.7,
+    "stl": 0.4,
     "blk": 0.4,
     "blkr": 0.0,
-    "pf": 1.8,
-    "foulon": 1.3,
-    "pm": -0.7,
-    "paint": 2.6,
-    "fast": 1.2,
-    "second": 0.7,
-    "min": 22.0,
-    "eff": 12.3,
-    "gmsc": 7.7
+    "pf": 1.9,
+    "foulon": 1.2,
+    "pm": -0.1,
+    "paint": 2.4,
+    "fast": 1.1,
+    "second": 0.6,
+    "min": 21.9,
+    "eff": 12.5,
+    "gmsc": 7.8
    },
    "per40": {
-    "pts": 14.4,
+    "pts": 14.2,
     "reb": 10.8,
-    "ast": 2.7,
+    "ast": 3.0,
     "stl": 0.8,
     "blk": 0.7,
-    "to": 1.4
+    "to": 1.3
    },
-   "ts": 63.8,
-   "efg": 61.3,
-   "fg": 52.1,
-   "two": 60.0,
-   "three": 41.9,
+   "ts": 64.4,
+   "efg": 62.0,
+   "fg": 53.3,
+   "two": 62.8,
+   "three": 40.6,
    "ft": 72.7,
-   "usg": 13.7,
-   "astTo": 1.9,
-   "pm": -9,
-   "pm40": -1.3,
+   "usg": 13.4,
+   "astTo": 2.3,
+   "pm": -2,
+   "pm40": -0.3,
    "on": {
-    "min": 285.9,
-    "pf": 614,
-    "pa": 623,
-    "ortg": 105.9,
-    "drtg": 107.9,
-    "net": -2.0
+    "min": 307.2,
+    "pf": 655,
+    "pa": 657,
+    "ortg": 105.4,
+    "drtg": 106.0,
+    "net": -0.5
    },
    "off": {
-    "min": 233.4,
-    "ortg": 106.6,
-    "drtg": 94.4,
-    "net": 12.2
+    "min": 252.0,
+    "ortg": 107.6,
+    "drtg": 96.2,
+    "net": 11.4
    },
-   "onOff": -14.2,
+   "onOff": -11.9,
    "dd": 2,
    "td": 0,
    "high": 15,
@@ -14411,9 +15166,9 @@
      "pct": 60.6
     },
     "mid": {
-     "m": 4,
-     "a": 7,
-     "pct": 57.1
+     "m": 7,
+     "a": 10,
+     "pct": 70.0
     },
     "corner3": {
      "m": 3,
@@ -14422,8 +15177,8 @@
     },
     "above3": {
      "m": 10,
-     "a": 27,
-     "pct": 37.0
+     "a": 28,
+     "pct": 35.7
     }
    },
    "log": [
@@ -14686,6 +15441,26 @@
      "pm": 8,
      "eff": 21,
      "ts": 55.7
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 21.4,
+     "pts": 6,
+     "reb": 6,
+     "ast": 4,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "3/4",
+     "tp": "0/1",
+     "ft": "0/0",
+     "pm": 7,
+     "eff": 15,
+     "ts": 75.0
     }
    ]
   },
@@ -14697,103 +15472,103 @@
    "teamLabel": "Ústí",
    "shirt": "8",
    "pos": "",
-   "gp": 13,
+   "gp": 14,
    "gs": 11,
-   "min": 257.0,
+   "min": 277.6,
    "totals": {
-    "pts": 97,
-    "fgm": 34,
-    "fga": 63,
-    "tpm": 5,
-    "tpa": 23,
+    "pts": 106,
+    "fgm": 36,
+    "fga": 68,
+    "tpm": 7,
+    "tpa": 27,
     "twopm": 29,
-    "twopa": 40,
-    "ftm": 24,
-    "fta": 47,
-    "oreb": 14,
-    "dreb": 25,
-    "reb": 39,
-    "ast": 13,
-    "to": 9,
+    "twopa": 41,
+    "ftm": 27,
+    "fta": 50,
+    "oreb": 17,
+    "dreb": 26,
+    "reb": 43,
+    "ast": 14,
+    "to": 10,
     "stl": 10,
     "blk": 0,
     "blkr": 2,
-    "pf": 34,
-    "foulon": 38,
-    "pm": 25,
+    "pf": 36,
+    "foulon": 41,
+    "pm": 20,
     "paint": 56,
-    "fast": 39,
+    "fast": 41,
     "second": 15
    },
    "perGame": {
-    "pts": 7.5,
+    "pts": 7.6,
     "fgm": 2.6,
-    "fga": 4.8,
-    "tpm": 0.4,
-    "tpa": 1.8,
-    "twopm": 2.2,
-    "twopa": 3.1,
-    "ftm": 1.8,
+    "fga": 4.9,
+    "tpm": 0.5,
+    "tpa": 1.9,
+    "twopm": 2.1,
+    "twopa": 2.9,
+    "ftm": 1.9,
     "fta": 3.6,
-    "oreb": 1.1,
+    "oreb": 1.2,
     "dreb": 1.9,
-    "reb": 3.0,
+    "reb": 3.1,
     "ast": 1.0,
     "to": 0.7,
-    "stl": 0.8,
+    "stl": 0.7,
     "blk": 0.0,
-    "blkr": 0.2,
+    "blkr": 0.1,
     "pf": 2.6,
     "foulon": 2.9,
-    "pm": 1.9,
-    "paint": 4.3,
-    "fast": 3.0,
-    "second": 1.2,
+    "pm": 1.4,
+    "paint": 4.0,
+    "fast": 2.9,
+    "second": 1.1,
     "min": 19.8,
-    "eff": 7.5,
-    "gmsc": 5.5
+    "eff": 7.7,
+    "gmsc": 5.6
    },
    "per40": {
-    "pts": 15.1,
-    "reb": 6.1,
+    "pts": 15.3,
+    "reb": 6.2,
     "ast": 2.0,
-    "stl": 1.6,
+    "stl": 1.4,
     "blk": 0.0,
     "to": 1.4
    },
-   "ts": 58.0,
-   "efg": 57.9,
-   "fg": 54.0,
-   "two": 72.5,
-   "three": 21.7,
-   "ft": 51.1,
+   "ts": 58.9,
+   "efg": 58.1,
+   "fg": 52.9,
+   "two": 70.7,
+   "three": 25.9,
+   "ft": 54.0,
    "usg": 15.6,
-   "astTo": 1.44,
-   "pm": 25,
-   "pm40": 3.9,
+   "astTo": 1.4,
+   "pm": 20,
+   "pm40": 2.9,
    "on": {
-    "min": 256.9,
-    "pf": 541,
-    "pa": 516,
-    "ortg": 103.8,
-    "drtg": 99.7,
-    "net": 4.1
+    "min": 277.5,
+    "pf": 583,
+    "pa": 563,
+    "ortg": 104.5,
+    "drtg": 101.3,
+    "net": 3.3
    },
    "off": {
-    "min": 262.3,
-    "ortg": 108.5,
-    "drtg": 103.8,
-    "net": 4.7
+    "min": 281.7,
+    "ortg": 108.2,
+    "drtg": 101.9,
+    "net": 6.3
    },
-   "onOff": -0.6,
+   "onOff": -3.0,
    "dd": 0,
    "td": 0,
    "high": 18,
    "zones": {
     "paint": {
      "m": 28,
-     "a": 38,
-     "pct": 73.7
+     "a": 39,
+     "pct": 71.8
     },
     "mid": {
      "m": 1,
@@ -14801,9 +15576,9 @@
      "pct": 50.0
     },
     "corner3": {
-     "m": 3,
-     "a": 12,
-     "pct": 25.0
+     "m": 5,
+     "a": 16,
+     "pct": 31.2
     },
     "above3": {
      "m": 2,
@@ -15071,6 +15846,26 @@
      "pm": -1,
      "eff": 9,
      "ts": 48.6
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 20.6,
+     "pts": 9,
+     "reb": 4,
+     "ast": 1,
+     "stl": 0,
+     "blk": 0,
+     "to": 1,
+     "fg": "2/5",
+     "tp": "2/4",
+     "ft": "3/3",
+     "pm": -5,
+     "eff": 10,
+     "ts": 71.2
     }
    ]
   },
@@ -15082,9 +15877,9 @@
    "teamLabel": "Ústí",
    "shirt": "31",
    "pos": "",
-   "gp": 13,
+   "gp": 14,
    "gs": 9,
-   "min": 258.4,
+   "min": 269.6,
    "totals": {
     "pts": 64,
     "fgm": 23,
@@ -15098,52 +15893,52 @@
     "oreb": 9,
     "dreb": 31,
     "reb": 40,
-    "ast": 4,
+    "ast": 6,
     "to": 6,
     "stl": 4,
     "blk": 1,
     "blkr": 1,
     "pf": 16,
     "foulon": 12,
-    "pm": 7,
+    "pm": 12,
     "paint": 12,
     "fast": 0,
     "second": 7
    },
    "perGame": {
-    "pts": 4.9,
-    "fgm": 1.8,
-    "fga": 6.2,
+    "pts": 4.6,
+    "fgm": 1.6,
+    "fga": 5.8,
     "tpm": 0.8,
-    "tpa": 4.7,
+    "tpa": 4.4,
     "twopm": 0.9,
-    "twopa": 1.5,
+    "twopa": 1.4,
     "ftm": 0.5,
-    "fta": 0.7,
-    "oreb": 0.7,
-    "dreb": 2.4,
-    "reb": 3.1,
-    "ast": 0.3,
-    "to": 0.5,
+    "fta": 0.6,
+    "oreb": 0.6,
+    "dreb": 2.2,
+    "reb": 2.9,
+    "ast": 0.4,
+    "to": 0.4,
     "stl": 0.3,
     "blk": 0.1,
     "blkr": 0.1,
-    "pf": 1.2,
+    "pf": 1.1,
     "foulon": 0.9,
-    "pm": 0.5,
+    "pm": 0.9,
     "paint": 0.9,
     "fast": 0.0,
     "second": 0.5,
-    "min": 19.9,
-    "eff": 3.6,
+    "min": 19.3,
+    "eff": 3.5,
     "gmsc": 2.0
    },
    "per40": {
-    "pts": 9.9,
-    "reb": 6.2,
-    "ast": 0.6,
+    "pts": 9.5,
+    "reb": 5.9,
+    "ast": 0.9,
     "stl": 0.6,
-    "blk": 0.2,
+    "blk": 0.1,
     "to": 0.9
    },
    "ts": 37.7,
@@ -15152,25 +15947,25 @@
    "two": 60.0,
    "three": 18.0,
    "ft": 77.8,
-   "usg": 15.3,
-   "astTo": 0.67,
-   "pm": 7,
-   "pm40": 1.1,
+   "usg": 14.7,
+   "astTo": 1.0,
+   "pm": 12,
+   "pm40": 1.8,
    "on": {
-    "min": 258.5,
-    "pf": 527,
-    "pa": 520,
-    "ortg": 100.3,
-    "drtg": 99.5,
-    "net": 0.8
+    "min": 269.7,
+    "pf": 558,
+    "pa": 546,
+    "ortg": 101.9,
+    "drtg": 100.0,
+    "net": 1.9
    },
    "off": {
-    "min": 260.8,
-    "ortg": 112.0,
-    "drtg": 104.0,
-    "net": 8.0
+    "min": 289.5,
+    "ortg": 110.6,
+    "drtg": 103.0,
+    "net": 7.6
    },
-   "onOff": -7.2,
+   "onOff": -5.7,
    "dd": 0,
    "td": 0,
    "high": 12,
@@ -15456,6 +16251,26 @@
      "pm": -13,
      "eff": 6,
      "ts": 50.0
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 11.2,
+     "pts": 0,
+     "reb": 0,
+     "ast": 2,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/0",
+     "tp": "0/0",
+     "ft": "0/0",
+     "pm": 5,
+     "eff": 2,
+     "ts": null
     }
    ]
   },
@@ -15467,108 +16282,108 @@
    "teamLabel": "Ústí",
    "shirt": "9",
    "pos": "",
-   "gp": 13,
-   "gs": 2,
-   "min": 211.0,
+   "gp": 14,
+   "gs": 3,
+   "min": 231.5,
    "totals": {
-    "pts": 40,
-    "fgm": 17,
-    "fga": 33,
+    "pts": 46,
+    "fgm": 19,
+    "fga": 37,
     "tpm": 0,
-    "tpa": 6,
-    "twopm": 17,
-    "twopa": 27,
-    "ftm": 6,
-    "fta": 8,
-    "oreb": 14,
-    "dreb": 30,
-    "reb": 44,
+    "tpa": 7,
+    "twopm": 19,
+    "twopa": 30,
+    "ftm": 8,
+    "fta": 10,
+    "oreb": 15,
+    "dreb": 34,
+    "reb": 49,
     "ast": 5,
-    "to": 11,
+    "to": 12,
     "stl": 4,
-    "blk": 1,
+    "blk": 2,
     "blkr": 3,
-    "pf": 40,
-    "foulon": 11,
-    "pm": 29,
+    "pf": 43,
+    "foulon": 12,
+    "pm": 43,
     "paint": 30,
     "fast": 2,
-    "second": 11
+    "second": 13
    },
    "perGame": {
-    "pts": 3.1,
-    "fgm": 1.3,
-    "fga": 2.5,
+    "pts": 3.3,
+    "fgm": 1.4,
+    "fga": 2.6,
     "tpm": 0.0,
     "tpa": 0.5,
-    "twopm": 1.3,
+    "twopm": 1.4,
     "twopa": 2.1,
-    "ftm": 0.5,
-    "fta": 0.6,
+    "ftm": 0.6,
+    "fta": 0.7,
     "oreb": 1.1,
-    "dreb": 2.3,
-    "reb": 3.4,
+    "dreb": 2.4,
+    "reb": 3.5,
     "ast": 0.4,
-    "to": 0.8,
+    "to": 0.9,
     "stl": 0.3,
     "blk": 0.1,
     "blkr": 0.2,
     "pf": 3.1,
-    "foulon": 0.8,
-    "pm": 2.2,
-    "paint": 2.3,
-    "fast": 0.2,
-    "second": 0.8,
-    "min": 16.2,
-    "eff": 5.0,
-    "gmsc": 1.8
+    "foulon": 0.9,
+    "pm": 3.1,
+    "paint": 2.1,
+    "fast": 0.1,
+    "second": 0.9,
+    "min": 16.5,
+    "eff": 5.3,
+    "gmsc": 1.9
    },
    "per40": {
-    "pts": 7.6,
-    "reb": 8.3,
+    "pts": 7.9,
+    "reb": 8.5,
     "ast": 0.9,
-    "stl": 0.8,
-    "blk": 0.2,
+    "stl": 0.7,
+    "blk": 0.3,
     "to": 2.1
    },
-   "ts": 54.8,
-   "efg": 51.5,
-   "fg": 51.5,
-   "two": 63.0,
+   "ts": 55.6,
+   "efg": 51.4,
+   "fg": 51.4,
+   "two": 63.3,
    "three": 0.0,
-   "ft": 75.0,
-   "usg": 9.8,
-   "astTo": 0.45,
-   "pm": 29,
-   "pm40": 5.5,
+   "ft": 80.0,
+   "usg": 10.1,
+   "astTo": 0.42,
+   "pm": 43,
+   "pm40": 7.4,
    "on": {
-    "min": 211.2,
-    "pf": 459,
-    "pa": 431,
-    "ortg": 107.8,
-    "drtg": 99.5,
-    "net": 8.3
+    "min": 231.8,
+    "pf": 506,
+    "pa": 464,
+    "ortg": 108.6,
+    "drtg": 97.9,
+    "net": 10.6
    },
    "off": {
-    "min": 308.0,
-    "ortg": 105.1,
-    "drtg": 103.4,
-    "net": 1.7
+    "min": 327.4,
+    "ortg": 104.9,
+    "drtg": 104.2,
+    "net": 0.7
    },
-   "onOff": 6.6,
+   "onOff": 9.9,
    "dd": 0,
    "td": 0,
    "high": 12,
    "zones": {
     "paint": {
      "m": 15,
-     "a": 24,
-     "pct": 62.5
+     "a": 25,
+     "pct": 60.0
     },
     "mid": {
-     "m": 2,
-     "a": 3,
-     "pct": 66.7
+     "m": 4,
+     "a": 5,
+     "pct": 80.0
     },
     "corner3": {
      "m": 0,
@@ -15577,7 +16392,7 @@
     },
     "above3": {
      "m": 0,
-     "a": 6,
+     "a": 7,
      "pct": 0.0
     }
    },
@@ -15841,6 +16656,26 @@
      "pm": -10,
      "eff": 0,
      "ts": 25.0
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 20.5,
+     "pts": 6,
+     "reb": 5,
+     "ast": 0,
+     "stl": 0,
+     "blk": 1,
+     "to": 1,
+     "fg": "2/4",
+     "tp": "0/1",
+     "ft": "2/2",
+     "pm": 14,
+     "eff": 9,
+     "ts": 61.5
     }
    ]
   },
@@ -15852,47 +16687,47 @@
    "teamLabel": "Ústí",
    "shirt": "14",
    "pos": "",
-   "gp": 7,
+   "gp": 8,
    "gs": 0,
-   "min": 49.0,
+   "min": 52.0,
    "totals": {
     "pts": 8,
     "fgm": 3,
-    "fga": 12,
+    "fga": 14,
     "tpm": 0,
-    "tpa": 3,
+    "tpa": 5,
     "twopm": 3,
     "twopa": 9,
     "ftm": 2,
     "fta": 2,
-    "oreb": 2,
+    "oreb": 3,
     "dreb": 7,
-    "reb": 9,
+    "reb": 10,
     "ast": 0,
     "to": 0,
     "stl": 3,
     "blk": 1,
     "blkr": 0,
-    "pf": 8,
+    "pf": 9,
     "foulon": 1,
-    "pm": 0,
+    "pm": -4,
     "paint": 6,
     "fast": 0,
     "second": 0
    },
    "perGame": {
-    "pts": 1.1,
+    "pts": 1.0,
     "fgm": 0.4,
-    "fga": 1.7,
+    "fga": 1.8,
     "tpm": 0.0,
-    "tpa": 0.4,
+    "tpa": 0.6,
     "twopm": 0.4,
-    "twopa": 1.3,
-    "ftm": 0.3,
-    "fta": 0.3,
-    "oreb": 0.3,
-    "dreb": 1.0,
-    "reb": 1.3,
+    "twopa": 1.1,
+    "ftm": 0.2,
+    "fta": 0.2,
+    "oreb": 0.4,
+    "dreb": 0.9,
+    "reb": 1.2,
     "ast": 0.0,
     "to": 0.0,
     "stl": 0.4,
@@ -15900,47 +16735,47 @@
     "blkr": 0.0,
     "pf": 1.1,
     "foulon": 0.1,
-    "pm": 0.0,
-    "paint": 0.9,
+    "pm": -0.5,
+    "paint": 0.8,
     "fast": 0.0,
     "second": 0.0,
-    "min": 7.0,
-    "eff": 1.7,
-    "gmsc": 0.7
+    "min": 6.5,
+    "eff": 1.4,
+    "gmsc": 0.5
    },
    "per40": {
-    "pts": 6.5,
-    "reb": 7.3,
+    "pts": 6.2,
+    "reb": 7.7,
     "ast": 0.0,
-    "stl": 2.4,
+    "stl": 2.3,
     "blk": 0.8,
     "to": 0.0
    },
-   "ts": 31.1,
-   "efg": 25.0,
-   "fg": 25.0,
+   "ts": 26.9,
+   "efg": 21.4,
+   "fg": 21.4,
    "two": 33.3,
    "three": 0.0,
    "ft": 100.0,
-   "usg": 11.6,
+   "usg": 12.6,
    "astTo": null,
-   "pm": 0,
-   "pm40": 0.0,
+   "pm": -4,
+   "pm40": -3.1,
    "on": {
-    "min": 49.0,
-    "pf": 113,
-    "pa": 113,
-    "ortg": 113.7,
-    "drtg": 109.8,
-    "net": 3.9
+    "min": 52.0,
+    "pf": 117,
+    "pa": 121,
+    "ortg": 113.2,
+    "drtg": 112.7,
+    "net": 0.5
    },
    "off": {
-    "min": 230.2,
+    "min": 267.2,
     "ortg": 109.7,
-    "drtg": 101.3,
-    "net": 8.4
+    "drtg": 100.3,
+    "net": 9.5
    },
-   "onOff": -4.5,
+   "onOff": -9.0,
    "dd": 0,
    "td": 0,
    "high": 4,
@@ -15957,12 +16792,12 @@
     },
     "corner3": {
      "m": 0,
-     "a": 1,
+     "a": 2,
      "pct": 0.0
     },
     "above3": {
      "m": 0,
-     "a": 2,
+     "a": 3,
      "pct": 0.0
     }
    },
@@ -16105,6 +16940,26 @@
      "ft": "0/0",
      "pm": -3,
      "eff": 1,
+     "ts": 0.0
+    },
+    {
+     "fibaId": 2947895,
+     "date": "2026-11-22",
+     "opponent": "USK",
+     "venue": "home",
+     "result": "W",
+     "min": 3.0,
+     "pts": 0,
+     "reb": 1,
+     "ast": 0,
+     "stl": 0,
+     "blk": 0,
+     "to": 0,
+     "fg": "0/2",
+     "tp": "0/2",
+     "ft": "0/0",
+     "pm": -4,
+     "eff": -1,
      "ts": 0.0
     }
    ]
@@ -16803,8 +17658,11 @@
    "away": "USK Praha",
    "homeSlug": "usti",
    "awaySlug": "usk",
-   "status": "live",
-   "score": null,
+   "status": "final",
+   "score": {
+    "home": 82,
+    "away": 76
+   },
    "links": {
     "nbl": "https://nbl.basketball/zapas/544625",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947895/",

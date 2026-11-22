@@ -1,10 +1,10 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-22T17:51:30+00:00",
+ "generatedAt": "2026-11-22T19:07:11+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
-  "final": 81,
+  "final": 83,
   "scheduled": 48,
   "withFiba": 105
  },
@@ -3023,7 +3023,10 @@
    "time": "18:00",
    "home": "Sršni Photomate Písek",
    "away": "BK Loko BaliMania Plzeň",
-   "score": null,
+   "score": {
+    "home": 105,
+    "away": 83
+   },
    "quarters": null,
    "roundNum": 14,
    "date": "2026-11-22",
@@ -3031,14 +3034,14 @@
    "awaySlug": "plzen",
    "homeLabel": "Písek",
    "awayLabel": "Plzeň",
-   "status": "live",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544624",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947894/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2947894/data.json",
     "stats": "matches/2947894.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544625,
@@ -3049,7 +3052,10 @@
    "time": "18:00",
    "home": "SLUNETA Ústí nad Labem",
    "away": "USK Praha",
-   "score": null,
+   "score": {
+    "home": 82,
+    "away": 76
+   },
    "quarters": null,
    "roundNum": 14,
    "date": "2026-11-22",
@@ -3057,14 +3063,14 @@
    "awaySlug": "usk",
    "homeLabel": "Ústí",
    "awayLabel": "USK",
-   "status": "live",
+   "status": "final",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544625",
     "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2947895/",
     "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2947895/data.json",
     "stats": "matches/2947895.json"
    },
-   "hasStats": false
+   "hasStats": true
   },
   {
    "nblId": 544648,

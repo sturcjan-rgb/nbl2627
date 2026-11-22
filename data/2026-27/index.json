@@ -1,9 +1,9 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-22T17:51:30+00:00",
+ "generatedAt": "2026-11-22T19:07:11+00:00",
  "counts": {
   "fixtures": 132,
-  "final": 81,
+  "final": 83,
   "teams": 12,
   "players": 198
  },
@@ -79,18 +79,18 @@
    "file": "teams/hradec.json"
   },
   {
-   "slug": "plzen",
-   "name": "BK Loko BaliMania Plzeň",
-   "label": "Plzeň",
-   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
-   "file": "teams/plzen.json"
-  },
-  {
    "slug": "olomoucko",
    "name": "BK Olomoucko",
    "label": "Olomoucko",
    "logo": "https://images.statsengine.playbyplay.api.geniussports.com/5c0b557b8116e62e90522f09fdcb2535S1.png",
    "file": "teams/olomoucko.json"
+  },
+  {
+   "slug": "plzen",
+   "name": "BK Loko BaliMania Plzeň",
+   "label": "Plzeň",
+   "logo": "https://images.statsengine.playbyplay.api.geniussports.com/d233c2d1aeacd8ab47255b298e89fabbS1.png",
+   "file": "teams/plzen.json"
   }
  ],
  "files": {
@@ -992,6 +992,28 @@
    "score": [
     93,
     78
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2947894,
+   "date": "2026-11-22",
+   "home": "pisek",
+   "away": "plzen",
+   "score": [
+    105,
+    83
+   ],
+   "status": "final"
+  },
+  {
+   "fibaId": 2947895,
+   "date": "2026-11-22",
+   "home": "usti",
+   "away": "usk",
+   "score": [
+    82,
+    76
    ],
    "status": "final"
   }
