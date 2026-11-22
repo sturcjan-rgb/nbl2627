@@ -1,12 +1,12 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-22T02:16:13+00:00",
+ "generatedAt": "2026-11-22T09:00:33+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
   "final": 81,
   "scheduled": 50,
-  "withFiba": 101
+  "withFiba": 105
  },
  "teams": {
   "plzen": "BK Loko BaliMania Plzeň",
@@ -3484,7 +3484,7 @@
   },
   {
    "nblId": 544642,
-   "fibaId": null,
+   "fibaId": 2959208,
    "round": "17. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-19T17:30:00+01:00",
@@ -3502,15 +3502,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544642",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2959208/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2959208/data.json",
+    "stats": "matches/2959208.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544643,
-   "fibaId": null,
+   "fibaId": 2959209,
    "round": "17. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-19T17:30:00+01:00",
@@ -3528,15 +3528,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544643",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2959209/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2959209/data.json",
+    "stats": "matches/2959209.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544647,
-   "fibaId": null,
+   "fibaId": 2959211,
    "round": "17. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-19T17:30:00+01:00",
@@ -3554,15 +3554,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544647",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2959211/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2959211/data.json",
+    "stats": "matches/2959211.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544644,
-   "fibaId": null,
+   "fibaId": 2959210,
    "round": "17. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-19T18:00:00+01:00",
@@ -3580,9 +3580,9 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544644",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2959210/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2959210/data.json",
+    "stats": "matches/2959210.json"
    },
    "hasStats": false
   },
