@@ -1,12 +1,12 @@
 {
  "season": "2026/27",
- "generatedAt": "2026-11-25T03:11:06+00:00",
+ "generatedAt": "2026-11-25T09:00:26+00:00",
  "source": "https://nbl.basketball/zapasy",
  "counts": {
   "total": 132,
   "final": 83,
   "scheduled": 48,
-  "withFiba": 105
+  "withFiba": 108
  },
  "teams": {
   "plzen": "BK Loko BaliMania Plzeň",
@@ -3620,7 +3620,7 @@
   },
   {
    "nblId": 544651,
-   "fibaId": null,
+   "fibaId": 2960920,
    "round": "18. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-22T17:30:00+01:00",
@@ -3638,15 +3638,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544651",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2960920/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2960920/data.json",
+    "stats": "matches/2960920.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544649,
-   "fibaId": null,
+   "fibaId": 2960918,
    "round": "18. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-22T18:00:00+01:00",
@@ -3664,15 +3664,15 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544649",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2960918/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2960918/data.json",
+    "stats": "matches/2960918.json"
    },
    "hasStats": false
   },
   {
    "nblId": 544650,
-   "fibaId": null,
+   "fibaId": 2960919,
    "round": "18. kolo",
    "phase": "Základní část",
    "datetime": "2026-12-22T18:00:00+01:00",
@@ -3690,9 +3690,9 @@
    "status": "scheduled",
    "links": {
     "nbl": "https://nbl.basketball/zapas/544650",
-    "livestats": null,
-    "fibaData": null,
-    "stats": null
+    "livestats": "https://www.fibalivestats.com/webcast/CBFFE/2960919/",
+    "fibaData": "https://fibalivestats.dcd.shared.geniussports.com/data/2960919/data.json",
+    "stats": "matches/2960919.json"
    },
    "hasStats": false
   },
